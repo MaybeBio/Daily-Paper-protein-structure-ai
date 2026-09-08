@@ -4,16 +4,8 @@
 topic: protein-structure-ai
 
 # 抓取时间窗口（天），每周自动跑默认 7；手动跑可改 1
-# 反漏设计：推送周期 P=7（每周一跑），窗口 W=14 > P，重叠半窗由 dedup 状态文件去重；
-# 保证 W ≥ P + L（L=PubMed [dp] 标引时滞上限 ~7 天），不漏上新条目
-window_days: 14
-
-# 重叠窗口去重：monitor.py 读 .monitor_state/<topic>.json 里已 emit 的 id 集合，
-# 写 CSV/issue 前过滤，写后回写新 id；首次从已有 *_ids.txt 播种，避免重发历史
-dedup: true
-
-# 收紧 issue：只留 「标题 | 日期」两列（去掉作者列），防止长 issue 超出 GitHub 65KB 上限
-compact_issue: true
+# PubMed 用 [edat]（收录日期）过滤，每篇只在收录周出现一次，无需重叠窗口/去重
+window_days: 7
 
 # PubMed 的 ENTREZ_EMAIL（必填）/ NCBI_API_KEY（可选）从环境变量读，不写进文件
 #   GitHub Actions：repo Settings → Secrets and variables → Actions
