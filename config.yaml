@@ -1,0 +1,92 @@
+# 课题短名，用于产出文件名与 Issue 标题
+topic: protein-structure-ai
+
+# PubMed ENTREZ_EMAIL/NCBI_API_KEY 走环境变量/secrets
+
+window_days: 7
+platforms:
+  pubmed:
+    query: (structure prediction[tiab] OR "protein structure"[tiab] OR "protein design"[tiab]
+      OR "protein folding"[tiab] OR conformational[tiab]) AND ("deep learning"[tiab]
+      OR "machine learning"[tiab] OR "neural network*"[tiab] OR transformer*[tiab]
+      OR "language model*"[tiab] OR alphafold[tiab] OR "graph neural network*"[tiab]
+      OR "diffusion model*"[tiab] OR "generative model*"[tiab] OR "foundation model*"[tiab])
+  arxiv:
+    max_results: 150
+    query: (all:"protein structure" OR all:"structure prediction" OR all:"protein
+      design" OR all:"protein folding") AND (all:"deep learning" OR all:"machine learning"
+      OR all:"neural network" OR all:alphafold OR all:transformer OR all:"language
+      model" OR all:"diffusion model" OR all:"generative model" OR all:"graph neural
+      network" OR all:"foundation model")
+  biorxiv:
+    query: '"protein structure" AND "deep learning" OR "protein structure" AND "machine
+      learning" OR "protein structure" AND "neural network" OR "protein structure"
+      AND "alphafold" OR "protein structure" AND "transformer" OR "protein structure"
+      AND "language model" OR "protein structure" AND "diffusion model" OR "protein
+      structure" AND "generative model" OR "protein structure" AND "graph neural network"
+      OR "protein structure" AND "foundation model" OR "structure prediction" AND
+      "deep learning" OR "structure prediction" AND "machine learning" OR "structure
+      prediction" AND "neural network" OR "structure prediction" AND "alphafold" OR
+      "structure prediction" AND "transformer" OR "structure prediction" AND "language
+      model" OR "structure prediction" AND "diffusion model" OR "structure prediction"
+      AND "generative model" OR "structure prediction" AND "graph neural network"
+      OR "structure prediction" AND "foundation model" OR "protein design" AND "deep
+      learning" OR "protein design" AND "machine learning" OR "protein design" AND
+      "neural network" OR "protein design" AND "alphafold" OR "protein design" AND
+      "transformer" OR "protein design" AND "language model" OR "protein design" AND
+      "diffusion model" OR "protein design" AND "generative model" OR "protein design"
+      AND "graph neural network" OR "protein design" AND "foundation model" OR "protein
+      folding" AND "deep learning" OR "protein folding" AND "machine learning" OR
+      "protein folding" AND "neural network" OR "protein folding" AND "alphafold"
+      OR "protein folding" AND "transformer" OR "protein folding" AND "language model"
+      OR "protein folding" AND "diffusion model" OR "protein folding" AND "generative
+      model" OR "protein folding" AND "graph neural network" OR "protein folding"
+      AND "foundation model"'
+  medrxiv:
+    query: '"protein structure" AND "deep learning" OR "protein structure" AND "machine
+      learning" OR "protein structure" AND "neural network" OR "protein structure"
+      AND "alphafold" OR "protein structure" AND "transformer" OR "protein structure"
+      AND "language model" OR "protein structure" AND "diffusion model" OR "protein
+      structure" AND "generative model" OR "protein structure" AND "graph neural network"
+      OR "protein structure" AND "foundation model" OR "structure prediction" AND
+      "deep learning" OR "structure prediction" AND "machine learning" OR "structure
+      prediction" AND "neural network" OR "structure prediction" AND "alphafold" OR
+      "structure prediction" AND "transformer" OR "structure prediction" AND "language
+      model" OR "structure prediction" AND "diffusion model" OR "structure prediction"
+      AND "generative model" OR "structure prediction" AND "graph neural network"
+      OR "structure prediction" AND "foundation model" OR "protein design" AND "deep
+      learning" OR "protein design" AND "machine learning" OR "protein design" AND
+      "neural network" OR "protein design" AND "alphafold" OR "protein design" AND
+      "transformer" OR "protein design" AND "language model" OR "protein design" AND
+      "diffusion model" OR "protein design" AND "generative model" OR "protein design"
+      AND "graph neural network" OR "protein design" AND "foundation model" OR "protein
+      folding" AND "deep learning" OR "protein folding" AND "machine learning" OR
+      "protein folding" AND "neural network" OR "protein folding" AND "alphafold"
+      OR "protein folding" AND "transformer" OR "protein folding" AND "language model"
+      OR "protein folding" AND "diffusion model" OR "protein folding" AND "generative
+      model" OR "protein folding" AND "graph neural network" OR "protein folding"
+      AND "foundation model"'
+  chemrxiv:
+    query: '"protein structure" AND "deep learning" OR "protein structure" AND "machine
+      learning" OR "protein structure" AND "neural network" OR "protein structure"
+      AND "alphafold" OR "protein structure" AND "transformer" OR "protein structure"
+      AND "language model" OR "protein structure" AND "diffusion model" OR "protein
+      structure" AND "generative model" OR "protein structure" AND "graph neural network"
+      OR "protein structure" AND "foundation model" OR "structure prediction" AND
+      "deep learning" OR "structure prediction" AND "machine learning" OR "structure
+      prediction" AND "neural network" OR "structure prediction" AND "alphafold" OR
+      "structure prediction" AND "transformer" OR "structure prediction" AND "language
+      model" OR "structure prediction" AND "diffusion model" OR "structure prediction"
+      AND "generative model" OR "structure prediction" AND "graph neural network"
+      OR "structure prediction" AND "foundation model" OR "protein design" AND "deep
+      learning" OR "protein design" AND "machine learning" OR "protein design" AND
+      "neural network" OR "protein design" AND "alphafold" OR "protein design" AND
+      "transformer" OR "protein design" AND "language model" OR "protein design" AND
+      "diffusion model" OR "protein design" AND "generative model" OR "protein design"
+      AND "graph neural network" OR "protein design" AND "foundation model" OR "protein
+      folding" AND "deep learning" OR "protein folding" AND "machine learning" OR
+      "protein folding" AND "neural network" OR "protein folding" AND "alphafold"
+      OR "protein folding" AND "transformer" OR "protein folding" AND "language model"
+      OR "protein folding" AND "diffusion model" OR "protein folding" AND "generative
+      model" OR "protein folding" AND "graph neural network" OR "protein folding"
+      AND "foundation model"'
