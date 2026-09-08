@@ -1,92 +1,159 @@
 # 课题短名，用于产出文件名与 Issue 标题
+# 蛋白质结构 × 深度学习（为 idp-interaction-ai 信息差/灵感，比 topic1 宽）
+# 对象(结构预测/蛋白结构/蛋白设计/蛋白折叠/构象) × 方法(限定深度学习等 AI，不含 MD/对接)
 topic: protein-structure-ai
 
-# PubMed ENTREZ_EMAIL/NCBI_API_KEY 走环境变量/secrets
-
+# 抓取时间窗口（天），每周自动跑默认 7；手动跑可改 1
 window_days: 7
+
+# PubMed 的 ENTREZ_EMAIL（必填）/ NCBI_API_KEY（可选）从环境变量读，不写进文件
+#   GitHub Actions：repo Settings → Secrets and variables → Actions
+#   本地：export ENTREZ_EMAIL=you@example.com ，export NCBI_API_KEY=...
+
 platforms:
   pubmed:
-    query: (structure prediction[tiab] OR "protein structure"[tiab] OR "protein design"[tiab]
-      OR "protein folding"[tiab] OR conformational[tiab]) AND ("deep learning"[tiab]
-      OR "machine learning"[tiab] OR "neural network*"[tiab] OR transformer*[tiab]
-      OR "language model*"[tiab] OR alphafold[tiab] OR "graph neural network*"[tiab]
-      OR "diffusion model*"[tiab] OR "generative model*"[tiab] OR "foundation model*"[tiab])
+    # 对象(结构) × 方法(AI)，两段式；词干 * 在引号短语末尾有效（实测单复数召回翻倍）
+    # 注意先收集 mesh 条目，再收集 tiab：mesh 对最新文献不够及时（标引时滞），
+    # tiab 是精确匹配、mesh 是词义匹配，二者互补（mesh 适合长期回溯，周窗腿主要靠 tiab firing）
+    # conformational 保留在 PubMed：在 [tiab]+AI 约束下不爆量（arXiv 侧已去掉，见下）
+    query: >
+      ( "Protein Conformation"[Mesh]
+      OR "Protein Folding"[Mesh]
+      OR "Protein Structure, Secondary"[Mesh]
+      OR "Protein Structure, Tertiary"[Mesh]
+      OR "Protein Structure, Quaternary"[Mesh]
+      OR "Protein Engineering"[Mesh]
+      OR "protein structure*"[tiab]
+      OR "structure prediction*"[tiab]
+      OR "protein design*"[tiab]
+      OR "protein folding"[tiab]
+      OR "conformation*"[tiab]
+      OR "inverse folding"[tiab]
+      OR "protein engineering"[tiab] )
+      AND
+      ( "Artificial Intelligence"[Mesh]
+      OR "Deep Learning"[Mesh]
+      OR "Machine Learning"[Mesh]
+      OR "Neural Networks, Computer"[Mesh]
+      OR "artificial intelligence"[tiab]
+      OR "deep learning"[tiab]
+      OR "machine learning"[tiab]
+      OR "neural network*"[tiab]
+      OR "graph neural network*"[tiab]
+      OR transformer*[tiab]
+      OR "language model*"[tiab]
+      OR "diffusion model*"[tiab]
+      OR "generative*"[tiab]
+      OR "foundation model*"[tiab]
+      OR "flow matching"[tiab]
+      OR alphafold[tiab]
+      OR esmfold[tiab]
+      OR rosettafold[tiab] )
   arxiv:
-    max_results: 150
-    query: (all:"protein structure" OR all:"structure prediction" OR all:"protein
-      design" OR all:"protein folding") AND (all:"deep learning" OR all:"machine learning"
-      OR all:"neural network" OR all:alphafold OR all:transformer OR all:"language
-      model" OR all:"diffusion model" OR all:"generative model" OR all:"graph neural
-      network" OR all:"foundation model")
+    # arXiv 原生布尔：写 all: 字段形式原样透传（无 : 的纯词会被强制全 AND，OR 失效）
+    # ⚠️ 去掉 conformational：实测 all:conformational 单 token 周命中 84（conform/conformal 物理噪声），
+    #   去后 7 条/周 ~4-5 对题（protein codesign/inverse folding/抗体表示）
+    # max_results：native 后端不加会翻整周全部命中 → 限速挂起；结构×AI 周命中 ~7，100 足够覆盖
+    max_results: 100
+    query: >
+      (all:"protein structure"
+      OR all:"structure prediction"
+      OR all:"protein design"
+      OR all:"protein folding"
+      OR all:"inverse folding"
+      OR all:"protein engineering")
+      AND
+      (all:"deep learning"
+      OR all:"machine learning"
+      OR all:"neural network"
+      OR all:"graph neural network"
+      OR all:"language model"
+      OR all:transformer
+      OR all:"diffusion model"
+      OR all:generative
+      OR all:"foundation model"
+      OR all:"flow matching"
+      OR all:alphafold
+      OR all:esmfold
+      OR all:rosettafold)
   biorxiv:
-    query: '"protein structure" AND "deep learning" OR "protein structure" AND "machine
-      learning" OR "protein structure" AND "neural network" OR "protein structure"
-      AND "alphafold" OR "protein structure" AND "transformer" OR "protein structure"
-      AND "language model" OR "protein structure" AND "diffusion model" OR "protein
-      structure" AND "generative model" OR "protein structure" AND "graph neural network"
-      OR "protein structure" AND "foundation model" OR "structure prediction" AND
-      "deep learning" OR "structure prediction" AND "machine learning" OR "structure
-      prediction" AND "neural network" OR "structure prediction" AND "alphafold" OR
-      "structure prediction" AND "transformer" OR "structure prediction" AND "language
-      model" OR "structure prediction" AND "diffusion model" OR "structure prediction"
-      AND "generative model" OR "structure prediction" AND "graph neural network"
-      OR "structure prediction" AND "foundation model" OR "protein design" AND "deep
-      learning" OR "protein design" AND "machine learning" OR "protein design" AND
-      "neural network" OR "protein design" AND "alphafold" OR "protein design" AND
-      "transformer" OR "protein design" AND "language model" OR "protein design" AND
-      "diffusion model" OR "protein design" AND "generative model" OR "protein design"
-      AND "graph neural network" OR "protein design" AND "foundation model" OR "protein
-      folding" AND "deep learning" OR "protein folding" AND "machine learning" OR
-      "protein folding" AND "neural network" OR "protein folding" AND "alphafold"
-      OR "protein folding" AND "transformer" OR "protein folding" AND "language model"
-      OR "protein folding" AND "diffusion model" OR "protein folding" AND "generative
-      model" OR "protein folding" AND "graph neural network" OR "protein folding"
-      AND "foundation model"'
+    # 与 arXiv 同构的括号两段式（对象×方法，纯短语、无字段前缀）。实测（2026-09-07，见 idp-interaction-ai）：
+    #   为什么必须保留括号、不能改平铺 DNF：Europe PMC（Lucene）对无括号的 AND/OR 混排会拍平错乱
+    #   → 括号两段式 = 把正确性押在 Europe PMC 上，是最优解。
+    #   Europe PMC 腿：原生支持括号布尔、严格两段式（权威腿，精确吃满 query）。
+    #   Crossref 服务端 query.bibliographic：词袋相关性排序，无布尔能力（硬墙，改 pyPaperFlow 源码也补不了）。
+    #   Crossref 客户端 basic_boolean_text_match：括号当字面词 → 查询退化成单词 OR（超集/过召回，只多不漏）；
+    #     边界短语因括号粘词落入永不命中子句，由 Europe PMC 严格腿补上，仅 chemrxiv 暴露（窗内近 0）。
+    #   用户拍板：Europe PMC 严格 + Crossref 超集 + 每周 Zotero 筛 = 最优，维持括号两段式。
+    query: >
+      ("protein structure"
+      OR "structure prediction"
+      OR "protein design"
+      OR "protein folding"
+      OR "inverse folding"
+      OR "protein engineering")
+      AND
+      ("deep learning"
+      OR "machine learning"
+      OR "neural network"
+      OR "graph neural network"
+      OR "language model"
+      OR transformer
+      OR "diffusion model"
+      OR generative
+      OR "foundation model"
+      OR "flow matching"
+      OR alphafold
+      OR esmfold
+      OR rosettafold)
   medrxiv:
-    query: '"protein structure" AND "deep learning" OR "protein structure" AND "machine
-      learning" OR "protein structure" AND "neural network" OR "protein structure"
-      AND "alphafold" OR "protein structure" AND "transformer" OR "protein structure"
-      AND "language model" OR "protein structure" AND "diffusion model" OR "protein
-      structure" AND "generative model" OR "protein structure" AND "graph neural network"
-      OR "protein structure" AND "foundation model" OR "structure prediction" AND
-      "deep learning" OR "structure prediction" AND "machine learning" OR "structure
-      prediction" AND "neural network" OR "structure prediction" AND "alphafold" OR
-      "structure prediction" AND "transformer" OR "structure prediction" AND "language
-      model" OR "structure prediction" AND "diffusion model" OR "structure prediction"
-      AND "generative model" OR "structure prediction" AND "graph neural network"
-      OR "structure prediction" AND "foundation model" OR "protein design" AND "deep
-      learning" OR "protein design" AND "machine learning" OR "protein design" AND
-      "neural network" OR "protein design" AND "alphafold" OR "protein design" AND
-      "transformer" OR "protein design" AND "language model" OR "protein design" AND
-      "diffusion model" OR "protein design" AND "generative model" OR "protein design"
-      AND "graph neural network" OR "protein design" AND "foundation model" OR "protein
-      folding" AND "deep learning" OR "protein folding" AND "machine learning" OR
-      "protein folding" AND "neural network" OR "protein folding" AND "alphafold"
-      OR "protein folding" AND "transformer" OR "protein folding" AND "language model"
-      OR "protein folding" AND "diffusion model" OR "protein folding" AND "generative
-      model" OR "protein folding" AND "graph neural network" OR "protein folding"
-      AND "foundation model"'
+    # 与 bioRxiv 同串（同一 BioRxivFetcher，platform=medrxiv）。双腿混合：Europe PMC 严格 + Crossref 超集，
+    # 每周 Zotero 筛（详见 bioRxiv 注释：为何不能改平铺 DNF、边界短语如何补齐）。
+    # 结构×AI 在 medRxiv 本就稀疏，空属正常。
+    query: >
+      ("protein structure"
+      OR "structure prediction"
+      OR "protein design"
+      OR "protein folding"
+      OR "inverse folding"
+      OR "protein engineering")
+      AND
+      ("deep learning"
+      OR "machine learning"
+      OR "neural network"
+      OR "graph neural network"
+      OR "language model"
+      OR transformer
+      OR "diffusion model"
+      OR generative
+      OR "foundation model"
+      OR "flow matching"
+      OR alphafold
+      OR esmfold
+      OR rosettafold)
   chemrxiv:
-    query: '"protein structure" AND "deep learning" OR "protein structure" AND "machine
-      learning" OR "protein structure" AND "neural network" OR "protein structure"
-      AND "alphafold" OR "protein structure" AND "transformer" OR "protein structure"
-      AND "language model" OR "protein structure" AND "diffusion model" OR "protein
-      structure" AND "generative model" OR "protein structure" AND "graph neural network"
-      OR "protein structure" AND "foundation model" OR "structure prediction" AND
-      "deep learning" OR "structure prediction" AND "machine learning" OR "structure
-      prediction" AND "neural network" OR "structure prediction" AND "alphafold" OR
-      "structure prediction" AND "transformer" OR "structure prediction" AND "language
-      model" OR "structure prediction" AND "diffusion model" OR "structure prediction"
-      AND "generative model" OR "structure prediction" AND "graph neural network"
-      OR "structure prediction" AND "foundation model" OR "protein design" AND "deep
-      learning" OR "protein design" AND "machine learning" OR "protein design" AND
-      "neural network" OR "protein design" AND "alphafold" OR "protein design" AND
-      "transformer" OR "protein design" AND "language model" OR "protein design" AND
-      "diffusion model" OR "protein design" AND "generative model" OR "protein design"
-      AND "graph neural network" OR "protein design" AND "foundation model" OR "protein
-      folding" AND "deep learning" OR "protein folding" AND "machine learning" OR
-      "protein folding" AND "neural network" OR "protein folding" AND "alphafold"
-      OR "protein folding" AND "transformer" OR "protein folding" AND "language model"
-      OR "protein folding" AND "diffusion model" OR "protein folding" AND "generative
-      model" OR "protein folding" AND "graph neural network" OR "protein folding"
-      AND "foundation model"'
+    # 与 bioRxiv 同串（ChemRxiv Crossref prefix 10.26434）。chemRxiv 只有 Crossref，Europe PMC 不收录
+    # （实测前缀 10.26434 无命中）→ 括号两段式无法严格。是唯一无 Europe PMC 覆盖的腿，
+    # 边界短语在 Crossref 客户端会漏，但窗内近 0。用户拍板（2026-09-07）：维持两段式语义对齐、
+    # 接受噪声，每周 Zotero 筛。不能改平铺 DNF（Europe PMC 会拍平错乱）；改源码方向相反（客户端改严格=压缩超集）。
+    query: >
+      ("protein structure"
+      OR "structure prediction"
+      OR "protein design"
+      OR "protein folding"
+      OR "inverse folding"
+      OR "protein engineering")
+      AND
+      ("deep learning"
+      OR "machine learning"
+      OR "neural network"
+      OR "graph neural network"
+      OR "language model"
+      OR transformer
+      OR "diffusion model"
+      OR generative
+      OR "foundation model"
+      OR "flow matching"
+      OR alphafold
+      OR esmfold
+      OR rosettafold)
