@@ -154,7 +154,7 @@ platforms:
   medrxiv:
     # 与 bioRxiv 同串（同一 BioRxivFetcher，platform=medrxiv）
     # 混合：Europe PMC 严格 + Crossref 超集，
-    # 每周 Zotero 筛（详见 bioRxiv 注释：为何不能改平铺 DNF、边界短语如何补齐）。
+    # 每周 Zotero 筛（详见 bioRxiv 注释：为何不能改平铺 DNF、边界短语如何补齐）
     # 结构×AI 在 medRxiv 本就稀疏，空属正常
     query: >
       ("protein structure"
@@ -191,9 +191,8 @@ platforms:
       OR rosetta)
   chemrxiv:
     # 与 bioRxiv 同串（ChemRxiv Crossref prefix 10.26434）。chemRxiv 只有 Crossref，Europe PMC 不收录
-    # （实测前缀 10.26434 无命中）→ 括号两段式无法严格。是唯一无 Europe PMC 覆盖的腿，
-    # 边界短语在 Crossref 客户端会漏，但窗内近 0。用户拍板（2026-09-07）：维持两段式语义对齐、
-    # 接受噪声，每周 Zotero 筛。不能改平铺 DNF（Europe PMC 会拍平错乱）；改源码方向相反（客户端改严格=压缩超集）
+    # （实测前缀 10.26434 无命中）→ 括号两段式无法严格。是唯一无 Europe PMC 覆盖的，
+    # 接受噪声，每周 Zotero 筛。不能改平铺 DNF（Europe PMC 会拍平错乱）
     query: >
       ("protein structure"
       OR "structure prediction"
