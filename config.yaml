@@ -25,6 +25,8 @@ platforms:
     # 注意先收集 mesh 条目，再收集 tiab：mesh 对最新文献不够及时（标引时滞），
     # tiab 是精确匹配、mesh 是词义匹配，二者互补（mesh 适合长期回溯，周窗召回主要靠 tiab firing）
     # 结构元素 MeSH 参考：https://www.ncbi.nlm.nih.gov/mesh?Db=mesh&Cmd=DetailsSearch&Term=%22Protein+Conformation%22%5BMeSH+Terms%5D
+    # ⚠️ drug design 被去掉了，我们只侧重于protein的design，对于drug我们为了减少每周返回的文献数量，还是尽可能减少压力
+    # 另外还去掉了：OR "domain architecture"、OR "fold recognition"、OR "homology modeling"
     query: >
       ( "Protein Conformation"[Mesh]
       OR "Protein Folding"[Mesh]
@@ -37,9 +39,6 @@ platforms:
       OR "Structural Homology, Protein"[Mesh]
       OR "protein structure*"[tiab]
       OR "protein domain*"[tiab]
-      OR "domain architecture"[tiab]
-      OR "fold recognition"[tiab]
-      OR "homology model*"[tiab]
       OR "structure prediction*"[tiab]
       OR "protein folding"[tiab]
       OR "protein design*"[tiab]
@@ -49,8 +48,6 @@ platforms:
       OR "inverse folding"[tiab] 
       OR "protein conformation"[tiab]
       OR "conformational ensemble"[tiab]
-      OR "protein engineering"[tiab] 
-      OR "drug design"[tiab]
       )
       AND
       ( "Artificial Intelligence"[Mesh]
@@ -87,15 +84,11 @@ platforms:
       OR all:"protein folding"
       OR all:"inverse folding"
       OR all:"protein domain"
-      OR all:"domain architecture"
-      OR all:"fold recognition"
-      OR all:"homology modeling"
       OR all:"backbone design"
       OR all:"sequence design"
       OR all:"structure design"
       OR all:"conformational ensemble"
-      OR all:"protein conformation"
-      OR all:"drug design")
+      OR all:"protein conformation")
       AND
       (all:"deep learning"
       OR all:"machine learning"
@@ -125,15 +118,11 @@ platforms:
       OR "protein folding"
       OR "inverse folding"
       OR "protein domain"
-      OR "domain architecture"
-      OR "fold recognition"
-      OR "homology modeling"
       OR "backbone design"
       OR "sequence design"
       OR "structure design"
       OR "protein conformation"
-      OR "conformational ensemble"
-      OR "drug design")
+      OR "conformational ensemble")
       AND
       ("deep learning"
       OR "machine learning"
@@ -163,15 +152,11 @@ platforms:
       OR "protein folding"
       OR "inverse folding"
       OR "protein domain"
-      OR "domain architecture"
-      OR "fold recognition"
-      OR "homology modeling"
       OR "backbone design"
       OR "sequence design"
       OR "structure design"
       OR "protein conformation"
-      OR "conformational ensemble"
-      OR "drug design")
+      OR "conformational ensemble")
       AND
       ("deep learning"
       OR "machine learning"
@@ -200,15 +185,11 @@ platforms:
       OR "protein folding"
       OR "inverse folding"
       OR "protein domain"
-      OR "domain architecture"
-      OR "fold recognition"
-      OR "homology modeling"
       OR "backbone design"
       OR "sequence design"
       OR "structure design"
       OR "protein conformation"
-      OR "conformational ensemble"
-      OR "drug design")
+      OR "conformational ensemble")
       AND
       ("deep learning"
       OR "machine learning"
