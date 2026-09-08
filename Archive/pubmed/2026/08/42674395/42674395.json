@@ -1,0 +1,235 @@
+{
+  "identity": {
+    "pmid": "42674395",
+    "doi": "10.1021/acs.jctc.6c00829",
+    "title": "Prediction of Distal Mutation Effects in Enzymes via Integration of Molecular Dynamics Descriptors and Zero-Shot Model."
+  },
+  "content": {
+    "abstract": "Identifying beneficial distal mutations remains a key challenge in enzyme engineering, as such residues can regulate activity through long-range dynamical coupling and allosteric communication. Although protein language models effectively capture sequence and evolutionary information, they lack explicit representation of conformational dynamics in the presence of the substrate, limiting their ability to detect distal regulatory sites. Here, we present an integrated framework that combines molecular dynamics (MD)-derived descriptors with the zero-shot prediction model GEMS to identify beneficial distal mutations. Compared to the pure zero-shot model, MD-derived descriptors efficiently capture key distal residues involved in dynamical coupling and allosteric communication with the active site. Consequently, these constraints enable the zero-shot model to predict distal mutations more precisely. By integrating sequence, evolutionary, and dynamic information, our approach expands the diversity of candidate sites while maintaining a manageable screening scale, offering an efficient and generalizable strategy for enzyme engineering.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Molecular Dynamics Simulation",
+      "*Mutation",
+      "*Enzymes/genetics/chemistry/metabolism",
+      "Catalytic Domain",
+      "Protein Engineering"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Yiqiu",
+        "Luo, Ding",
+        "Cheng, Shuming",
+        "Wang, Binju"
+      ],
+      "short_names": [
+        "Wang Y",
+        "Luo D",
+        "Cheng S",
+        "Wang B"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-4825-0343",
+        "ORCID: 0000-0002-3353-9411"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Physical Chemistry of Solid Surfaces and Fujian Provincial Key Laboratory of Theoretical and Computational Chemistry, College of Chemistry and Chemical Engineering, Xiamen University, Xiamen361005, P. R. China.",
+        "State Key Laboratory of Physical Chemistry of Solid Surfaces and Fujian Provincial Key Laboratory of Theoretical and Computational Chemistry, College of Chemistry and Chemical Engineering, Xiamen University, Xiamen361005, P. R. China.",
+        "State Key Laboratory of Physical Chemistry of Solid Surfaces and Fujian Provincial Key Laboratory of Theoretical and Computational Chemistry, College of Chemistry and Chemical Engineering, Xiamen University, Xiamen361005, P. R. China.",
+        "State Key Laboratory of Physical Chemistry of Solid Surfaces and Fujian Provincial Key Laboratory of Theoretical and Computational Chemistry, College of Chemistry and Chemical Engineering, Xiamen University, Xiamen361005, P. R. China.",
+        "Innovation Laboratory for Sciences and Technologies of Energy Materials of Fujian Province (IKKEM), Xiamen361005, P. R. China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Yiqiu",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Physical Chemistry of Solid Surfaces and Fujian Provincial Key Laboratory of Theoretical and Computational Chemistry, College of Chemistry and Chemical Engineering, Xiamen University, Xiamen361005, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Luo, Ding",
+        "short_name": "Luo D",
+        "identifiers": [
+          "0000-0003-4825-0343"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Physical Chemistry of Solid Surfaces and Fujian Provincial Key Laboratory of Theoretical and Computational Chemistry, College of Chemistry and Chemical Engineering, Xiamen University, Xiamen361005, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Cheng, Shuming",
+        "short_name": "Cheng S",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Physical Chemistry of Solid Surfaces and Fujian Provincial Key Laboratory of Theoretical and Computational Chemistry, College of Chemistry and Chemical Engineering, Xiamen University, Xiamen361005, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Wang, Binju",
+        "short_name": "Wang B",
+        "identifiers": [
+          "0000-0002-3353-9411"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Physical Chemistry of Solid Surfaces and Fujian Provincial Key Laboratory of Theoretical and Computational Chemistry, College of Chemistry and Chemical Engineering, Xiamen University, Xiamen361005, P. R. China.",
+          "Innovation Laboratory for Sciences and Technologies of Energy Materials of Fujian Province (IKKEM), Xiamen361005, P. R. China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of chemical theory and computation"
+    ],
+    "journal_abbrev": [
+      "J Chem Theory Comput"
+    ],
+    "pub_date": "2026 Aug 25",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/08/31 23:43",
+    "fetched_at": "2026-09-08 12:10:34"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42674395",
+      "25738880",
+      "41410226",
+      "42475469",
+      "41027962",
+      "41576089",
+      "38836699",
+      "41292192",
+      "38910409",
+      "36621725",
+      "42470104",
+      "41422407",
+      "27071107",
+      "30097591",
+      "39464109",
+      "38582485",
+      "42045117",
+      "39082219",
+      "40738203",
+      "29129140",
+      "34585687",
+      "40712874",
+      "39095391",
+      "20551136",
+      "40565298",
+      "40454510",
+      "29780987",
+      "39834309",
+      "39982680",
+      "32968058",
+      "39038814",
+      "40116283",
+      "35339426",
+      "41941911",
+      "35389981",
+      "37313628",
+      "33924837",
+      "29852734",
+      "40802856",
+      "41996979",
+      "40803129",
+      "41763370",
+      "41752073",
+      "36979378",
+      "36799896",
+      "34602611",
+      "42275634",
+      "33755013",
+      "21609739",
+      "28089447",
+      "30501088",
+      "35351887",
+      "21455286",
+      "39126280",
+      "42387886",
+      "21976378",
+      "31141211",
+      "38969803",
+      "38474583",
+      "29380452",
+      "23202907",
+      "39513550",
+      "35324218",
+      "36795942",
+      "41174319",
+      "27138088",
+      "21998569",
+      "42439568",
+      "30501200",
+      "26925779",
+      "32496764",
+      "42292907",
+      "37988788",
+      "41071611",
+      "40205835",
+      "40810731",
+      "30947258",
+      "14635123",
+      "30021929",
+      "25794108",
+      "35658075",
+      "39899880",
+      "39080249",
+      "24562416",
+      "33230119",
+      "29875414",
+      "41096645",
+      "31645439",
+      "22706570",
+      "32471245",
+      "30254369",
+      "41422228",
+      "40394898",
+      "21920322",
+      "42146638",
+      "40126164",
+      "39162313",
+      "22319152",
+      "27833951",
+      "28740233"
+    ],
+    "review": [
+      "42674395",
+      "36621725",
+      "40454510",
+      "29780987",
+      "40116283",
+      "40803129",
+      "41763370",
+      "29380452",
+      "23202907",
+      "32496764",
+      "30021929"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/jctcce/article-lookup/doi/10.1021/acs.jctc.6c00829",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

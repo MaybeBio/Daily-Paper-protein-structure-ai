@@ -1,0 +1,92 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.08.24.746797",
+  "title": "ProtEnrich: Residual Multimodal Enrichment of Protein Sequence Embeddings",
+  "doi": "10.64898/2026.08.24.746797",
+  "abstract": "Protein language models effectively capture evolutionary and functional signals from sequence data but lack explicit representation of the biophysical properties that govern protein structure and dynamics. Existing multimodal approaches attempt to integrate such physical information through direct fusion, often requiring multimodal inputs at inference time and distorting the geometry of the sequence embedding space, which can disrupt the semantic organization learned from evolutionary information. Consequently, a fundamental challenge of how to incorporate structural and dynamical knowledge into sequence representations without disrupting their semantic organization, enabling sequence-based models to better capture the biophysical properties governing protein structure and function. We introduce ProtEnrich, a representation learning framework based on a residual multimodal enrichment paradigm. Pro-tEnrich decomposes sequence embeddings into two complementary latent subspaces, an anchor subspace that preserves sequence semantics, and an alignment subspace that encodes biophysical relationships. By converting multimodal information derived from ProstT5 and RocketSHP to a low-energy residual component, our approach injects physical representation while maintaining the original sequence embedding while preserving their original semantic geometry, avoiding the need for multimodal inputs at inference time. Across eight diverse protein foundational models trained on 550,120 SwissProt proteins with AlphaFold structures, enriched embeddings improved zero-shot remote homology retrieval, increasing Precision@10 and MRR by up to 0.13 and 0.11, respectively. Downstream performance also improved on structure-dependent tasks, reducing fluorescence prediction error by up to 16% and increasing metal ion binding AUCROC by up to 2.4 points, while requiring only sequence input at inference. Source code is available at https://github.com/pcdslab/ProtEnrich , pretrained models and datasets are available at https://huggingface.co/collections/SaeedLab/protenrich .",
+  "authors": [
+    "Bianchin de Oliveira G",
+    "Saeed F"
+  ],
+  "published_date": "2026-08-25",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.08.24.746797",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.08.24.746797.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1306097",
+    "raw_record": {
+      "id": "PPR1306097",
+      "source": "PPR",
+      "doi": "10.64898/2026.08.24.746797",
+      "title": "ProtEnrich: Residual Multimodal Enrichment of Protein Sequence Embeddings",
+      "authorString": "Bianchin de Oliveira G, Saeed F.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Bianchin de Oliveira G",
+            "firstName": "Gabriel",
+            "lastName": "Bianchin de Oliveira",
+            "initials": "G"
+          },
+          {
+            "fullName": "Saeed F",
+            "firstName": "Fahad",
+            "lastName": "Saeed",
+            "initials": "F"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Protein language models effectively capture evolutionary and functional signals from sequence data but lack explicit representation of the biophysical properties that govern protein structure and dynamics. Existing multimodal approaches attempt to integrate such physical information through direct fusion, often requiring multimodal inputs at inference time and distorting the geometry of the sequence embedding space, which can disrupt the semantic organization learned from evolutionary information. Consequently, a fundamental challenge of how to incorporate structural and dynamical knowledge into sequence representations without disrupting their semantic organization, enabling sequence-based models to better capture the biophysical properties governing protein structure and function. We introduce ProtEnrich, a representation learning framework based on a residual multimodal enrichment paradigm. Pro-tEnrich decomposes sequence embeddings into two complementary latent subspaces, an anchor subspace that preserves sequence semantics, and an alignment subspace that encodes biophysical relationships. By converting multimodal information derived from ProstT5 and RocketSHP to a low-energy residual component, our approach injects physical representation while maintaining the original sequence embedding while preserving their original semantic geometry, avoiding the need for multimodal inputs at inference time. Across eight diverse protein foundational models trained on 550,120 SwissProt proteins with AlphaFold structures, enriched embeddings improved zero-shot remote homology retrieval, increasing Precision@10 and MRR by up to 0.13 and 0.11, respectively. Downstream performance also improved on structure-dependent tasks, reducing fluorescence prediction error by up to 16% and increasing metal ion binding AUCROC by up to 2.4 points, while requiring only sequence input at inference. Source code is available at  https://github.com/pcdslab/ProtEnrich , pretrained models and datasets are available at  https://huggingface.co/collections/SaeedLab/protenrich .",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.08.24.746797"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "license": "cc by-nc-nd",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-08-27",
+      "firstIndexDate": "2026-08-27",
+      "firstPublicationDate": "2026-08-25"
+    }
+  }
+}

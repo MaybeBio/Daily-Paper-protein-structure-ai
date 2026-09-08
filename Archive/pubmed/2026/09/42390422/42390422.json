@@ -1,0 +1,251 @@
+{
+  "identity": {
+    "pmid": "42390422",
+    "doi": "10.1085/jgp.202513961",
+    "title": "Conformational changes upon pore blocker removal reveal conductive states of TMEM16A."
+  },
+  "content": {
+    "abstract": "TMEM16A is a Ca2+-activated anion channel that provides direct electrical feedback to the plasma membrane in response to intracellular Ca2+. Its conductive state remains unresolved, leaving questions about gating, Cl- permeation, and modulation by Ca2+, depolarization, and lipids. To investigate the open state, we performed molecular dynamics simulations of TMEM16A bound to the putative open-state blocker 1PBC. After inhibitor removal, the putative, pore-lining helix TM4 developed kinks at two sites: an upper site that opens the pore for Cl- permeation and a deeper site causing constriction. A conserved hydrophobic network between TM3 and TM4 persisted in most open structures but separated during extreme dilation, allowing lipids to transiently block the pore. Patch-clamp recordings indicated that the intact network promotes activation. Further simulations yielded >60 Cl- permeation events and a single-channel conductance that matched experiment. Additional electrostatic and kinetic modeling indicated that TMEM16A's transition from outward-rectification to ohmic conductance with increasing Ca2+ results from a weak voltage dependence of binding of Ca2+ ions, which acts cooperatively to open the pore.",
+    "keywords": [],
+    "mesh_terms": [
+      "Anoctamin-1",
+      "*Chloride Channels/chemistry/metabolism",
+      "Molecular Dynamics Simulation",
+      "Humans",
+      "*Neoplasm Proteins/chemistry/metabolism",
+      "Calcium/metabolism",
+      "Protein Conformation",
+      "Ion Channel Gating/physiology",
+      "Animals",
+      "Chlorides/metabolism",
+      "Thiophenes"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Stephens, Christina A",
+        "Marcoline, Frank V",
+        "Peters, Christian J",
+        "Grabe, Michael"
+      ],
+      "short_names": [
+        "Stephens CA",
+        "Marcoline FV",
+        "Peters CJ",
+        "Grabe M"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-9382-003X",
+        "ORCID: 0000-0002-8842-5470",
+        "ORCID: 0000-0002-8794-5394",
+        "ORCID: 0000-0003-3509-5997"
+      ],
+      "affiliations": [
+        "Cardiovascular Research Institute, Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, CA, USA. ROR: https://ror.org/043mz5j54",
+        "Cardiovascular Research Institute, Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, CA, USA. ROR: https://ror.org/043mz5j54",
+        "Department of Anatomy and Cell Biology, University of Illinois College of Medicine, Chicago, IL, USA.",
+        "Cardiovascular Research Institute, Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, CA, USA. ROR: https://ror.org/043mz5j54"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Stephens, Christina A",
+        "short_name": "Stephens CA",
+        "identifiers": [
+          "0000-0001-9382-003X"
+        ],
+        "affiliations": [
+          "Cardiovascular Research Institute, Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Marcoline, Frank V",
+        "short_name": "Marcoline FV",
+        "identifiers": [
+          "0000-0002-8842-5470"
+        ],
+        "affiliations": [
+          "Cardiovascular Research Institute, Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Peters, Christian J",
+        "short_name": "Peters CJ",
+        "identifiers": [
+          "0000-0002-8794-5394"
+        ],
+        "affiliations": [
+          "Department of Anatomy and Cell Biology, University of Illinois College of Medicine, Chicago, IL, USA."
+        ]
+      },
+      {
+        "full_name": "Grabe, Michael",
+        "short_name": "Grabe M",
+        "identifiers": [
+          "0000-0003-3509-5997"
+        ],
+        "affiliations": [
+          "Cardiovascular Research Institute, Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, CA, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The Journal of general physiology"
+    ],
+    "journal_abbrev": [
+      "J Gen Physiol"
+    ],
+    "pub_date": "2026 Sep 7",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/07/02 12:34",
+    "fetched_at": "2026-09-08 12:12:00"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42390422",
+      "41509275",
+      "27138167",
+      "40299692",
+      "25733897",
+      "35687042",
+      "33637964",
+      "27859335",
+      "42530492",
+      "39656212",
+      "33542228",
+      "23613533",
+      "30311910",
+      "38772195",
+      "33378669",
+      "32313203",
+      "29236691",
+      "29236684",
+      "35589730",
+      "21645494",
+      "26359375",
+      "29478917",
+      "33542223",
+      "26562072",
+      "24727189",
+      "23994600",
+      "12562904",
+      "41665989",
+      "24167264",
+      "24901998",
+      "21856902",
+      "26663196",
+      "24863931",
+      "34537214",
+      "18591417",
+      "16219661",
+      "29134661",
+      "25892339",
+      "35202806",
+      "15165735",
+      "24489780",
+      "26481648",
+      "16794779",
+      "22753549",
+      "28046119",
+      "25117505",
+      "33199590",
+      "37984335",
+      "19783045",
+      "32302365",
+      "24981232",
+      "22872152",
+      "25573456",
+      "12913090",
+      "21984732",
+      "31515451",
+      "29748496",
+      "9051580",
+      "40301508",
+      "12824475",
+      "17043152",
+      "27514381",
+      "21424226",
+      "9379169",
+      "26728431",
+      "27799318",
+      "21555582",
+      "26708576",
+      "9463426",
+      "11838236",
+      "16284265",
+      "15111101",
+      "31009446",
+      "25231974",
+      "26739711",
+      "15345547",
+      "20204722",
+      "31947679",
+      "18772398",
+      "12151529",
+      "16418400",
+      "34413188",
+      "36694009",
+      "24352628",
+      "34749600",
+      "16801382",
+      "23570556",
+      "39739807",
+      "28348242",
+      "20177062",
+      "33783354",
+      "16157656",
+      "7682779",
+      "24478309",
+      "11099350",
+      "24379371",
+      "14678946",
+      "27558156",
+      "10050002",
+      "30397012"
+    ],
+    "review": [
+      "42390422",
+      "38772195",
+      "16219661",
+      "15165735",
+      "19783045",
+      "29748496",
+      "12824475",
+      "11838236",
+      "15111101",
+      "26739711"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/CPTAC-177",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://rupress.org/jgp/article-lookup/doi/10.1085/jgp.202513961",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

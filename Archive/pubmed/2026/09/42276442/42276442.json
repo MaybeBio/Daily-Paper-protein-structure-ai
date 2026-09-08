@@ -1,0 +1,208 @@
+{
+  "identity": {
+    "pmid": "42276442",
+    "doi": "10.1016/j.abb.2026.110904",
+    "title": "Estimating residence times of type II p38alpha MAPK inhibitors using tau-RAMD simulations."
+  },
+  "content": {
+    "abstract": "The p38alpha mitogen-activated protein kinase (MAPK) is a central regulator of cellular responses to stress and inflammation, making it an attractive therapeutic target for a broad range of diseases. Like other kinases, several types of inhibitors have been reported for p38alpha MAPK. These inhibitors have been classified according to the binding site they occupy on the target protein, as well as the specific conformations of key structural motifs involved in their interaction. Type II inhibitors targeting p38alpha MAPK bind to the inactive-like (DFG-out) conformation of the enzyme and engage adjacent allosteric pockets contiguous to the ATP-binding site, exhibiting a promising profile in terms of potency and on-target residence time. Increasing evidence indicates that drug-target residence time is a critical determinant of in vivo efficacy, and its consideration is helping to shape a new paradigm in rational drug design. In this work, we compute on-target residence times of type II p38alpha MAPK inhibitors using tau-Random Acceleration Molecular Dynamics (tau-RAMD) simulations. Conventional molecular dynamics simulations were first used to assess the structural stability and interaction profiles of nine type II inhibitors bound to p38alpha MAPK. Our results showed that tau-RAMD-derived residence times exhibited reasonable correspondence with experimental data, with a good correlation between calculated (tau(calc)) and experimental (tau(exp)) residence time values. Overall, these results suggest that tau-RAMD can capture relative residence-time trends within mechanistically homogeneous inhibitor types. This study underscores the importance of binding-mode-specific validation when using enhanced sampling approaches to model drug-target kinetics.",
+    "keywords": [
+      "Residence time",
+      "Type II inhibitors",
+      "p38alpha MAPK",
+      "tau-RAMD"
+    ],
+    "mesh_terms": [
+      "*Protein Kinase Inhibitors/chemistry/pharmacology/metabolism",
+      "*Molecular Dynamics Simulation",
+      "*Mitogen-Activated Protein Kinase 14/antagonists & inhibitors/chemistry/metabolism",
+      "Binding Sites",
+      "Protein Conformation",
+      "Protein Binding",
+      "Humans"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Velasco-Saavedra, M Andres",
+        "Aguayo-Ortiz, Rodrigo"
+      ],
+      "short_names": [
+        "Velasco-Saavedra MA",
+        "Aguayo-Ortiz R"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Departamento de Farmacia, Facultad de Quimica, Universidad Nacional Autonoma de Mexico, Mexico City, 04510, Mexico.",
+        "Departamento de Farmacia, Facultad de Quimica, Universidad Nacional Autonoma de Mexico, Mexico City, 04510, Mexico. Electronic address: rodaguayo@comunidad.unam.mx."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Velasco-Saavedra, M Andrés",
+        "short_name": "Velasco-Saavedra MA",
+        "identifiers": [],
+        "affiliations": [
+          "Departamento de Farmacia, Facultad de Química, Universidad Nacional Autónoma de México, Mexico City, 04510, Mexico."
+        ]
+      },
+      {
+        "full_name": "Aguayo-Ortiz, Rodrigo",
+        "short_name": "Aguayo-Ortiz R",
+        "identifiers": [],
+        "affiliations": [
+          "Departamento de Farmacia, Facultad de Química, Universidad Nacional Autónoma de México, Mexico City, 04510, Mexico. Electronic address: rodaguayo@comunidad.unam.mx."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Archives of biochemistry and biophysics"
+    ],
+    "journal_abbrev": [
+      "Arch Biochem Biophys"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/06/12 00:37",
+    "fetched_at": "2026-09-08 12:12:00"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42276442",
+      "26334265",
+      "26012502",
+      "29749295",
+      "22097958",
+      "35091547",
+      "20175985",
+      "28397331",
+      "20957100",
+      "29210532",
+      "23808966",
+      "29620886",
+      "40194955",
+      "31179286",
+      "33522434",
+      "27898710",
+      "40110797",
+      "23468227",
+      "20724167",
+      "28815968",
+      "41047159",
+      "20337484",
+      "24983631",
+      "38428305",
+      "23746475",
+      "38857305",
+      "17441692",
+      "25594497",
+      "29747487",
+      "40987175",
+      "26158339",
+      "41365128",
+      "30824186",
+      "38041716",
+      "26954235",
+      "32462866",
+      "42266510",
+      "33892104",
+      "25255283",
+      "39739785",
+      "31445234",
+      "33422910",
+      "33601311",
+      "23079240",
+      "19090985",
+      "22768308",
+      "16945014",
+      "26981231",
+      "19843080",
+      "22642504",
+      "28834431",
+      "22306417",
+      "20620059",
+      "22342625",
+      "22853912",
+      "19501598",
+      "23805842",
+      "41418600",
+      "26529477",
+      "39339348",
+      "25475894",
+      "33993013",
+      "23379419",
+      "29383359",
+      "32749403",
+      "39521443",
+      "34453922",
+      "21108268",
+      "19950957",
+      "28872880",
+      "21733175",
+      "27369736",
+      "19067573",
+      "20621496",
+      "22375048",
+      "25178116",
+      "25478866",
+      "23722236",
+      "38359316",
+      "41511038",
+      "35441632",
+      "24171460",
+      "33524689",
+      "23238519",
+      "25420233",
+      "20655210",
+      "19572644",
+      "21090814",
+      "35890356",
+      "32841004",
+      "31881458",
+      "39956209",
+      "17141198",
+      "27974048",
+      "25960125",
+      "28298524",
+      "24651460",
+      "16783341",
+      "20732813",
+      "22976951"
+    ],
+    "review": [
+      "42276442",
+      "26012502",
+      "29210532",
+      "38041716",
+      "19090985",
+      "26529477",
+      "39339348",
+      "39521443"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0003-9861(26)00175-X",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

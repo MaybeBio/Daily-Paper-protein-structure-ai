@@ -1,0 +1,847 @@
+{
+  "identity": {
+    "pmid": "42686908",
+    "doi": "10.1038/s41586-026-10952-3",
+    "title": "Creating bottom-up RNA transfer vehicles from synthetic protein assemblies."
+  },
+  "content": {
+    "abstract": "Evolution guides biological systems to populate ecological niches, with viruses among the most successful examples of this principle. Viruses evolved over billions of years to efficiently transfer genetic information. Although viruses are highly diverse, most have converged towards remarkable similarity in the size and shape of their capsids(1,2). By contrast, generative models for protein design enable the creation of protein architectures that are absent from nature(3-5). Here we investigate whether protein assemblies designed by artificial intelligence can be functionalized to construct nucleic acid transport vehicles that are independent of evolutionary trajectories. By combining natural protein domains with synthetic protein assemblies, we create more than 100 bottom-up RNA transfer vehicles with unique sizes and shapes. These vehicles surpass the RNA transfer efficiency of widely used delivery vehicles by several orders of magnitude. In addition, we demonstrate that their tropism can be programmed by incorporation of computationally designed peptide binders and use them to deliver therapeutically relevant cargo RNAs into a wide range of cellular models. We show the in vivo biodistribution of one of these vehicles in a mouse at near-single-cell resolution, confirm its safety, and use it to perform a gene-editing treatment strategy for Duchenne muscular dystrophy in patient-derived cells and a pig. Our work demonstrates how proteins created by generative artificial intelligence can be harnessed for the rational engineering of RNA transport systems with the desired properties by overcoming the limitations of natural protein diversity.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Schuhmacher, Maren Kirstin",
+        "Gruber, Christoph",
+        "Lang, Christopher M R",
+        "Ruijpers, Ricardo M W",
+        "Mazneykova, Lyupka",
+        "Beinsteiner, Brice",
+        "Krus, Ariane",
+        "Tremmel, Barbara",
+        "Reinhardt, Friederike",
+        "Kadletz, Karoline",
+        "Ma, Zhe",
+        "Casalta, Lucie",
+        "Cambra Bort, Josep Miquel",
+        "Otify, Dina Y",
+        "Balken, Iolo",
+        "Hetzel, Leon",
+        "Merl-Pham, Juliane",
+        "Dorn, Tatjana",
+        "Luchner, Marina",
+        "Bauersachs, Lea",
+        "Ganea, Karin",
+        "Wieser, Natascha",
+        "Emrich, Alexander",
+        "Yagmur, Emirhan",
+        "Rager, Katrin",
+        "Sagindykova, Gauhar",
+        "Armbrust, Niklas",
+        "Geilenkeuser, Julian",
+        "Westmeyer, Gil G",
+        "Becirovic, Elvir",
+        "Biel, Martin",
+        "Istvanffy, Rouzanna",
+        "Vogt Weisenhorn, Daniela M",
+        "Truong, Dong-Jiunn Jeffery",
+        "Theis, Fabian J",
+        "Ebert, Gregor",
+        "Moretti, Alessandra",
+        "Erturk, Ali",
+        "Bahr, Andrea",
+        "Kupatt, Christian",
+        "Jasnin, Marion",
+        "Klymiuk, Nikolai",
+        "Giesert, Florian",
+        "Wurst, Wolfgang"
+      ],
+      "short_names": [
+        "Schuhmacher MK",
+        "Gruber C",
+        "Lang CMR",
+        "Ruijpers RMW",
+        "Mazneykova L",
+        "Beinsteiner B",
+        "Krus A",
+        "Tremmel B",
+        "Reinhardt F",
+        "Kadletz K",
+        "Ma Z",
+        "Casalta L",
+        "Cambra Bort JM",
+        "Otify DY",
+        "Balken I",
+        "Hetzel L",
+        "Merl-Pham J",
+        "Dorn T",
+        "Luchner M",
+        "Bauersachs L",
+        "Ganea K",
+        "Wieser N",
+        "Emrich A",
+        "Yagmur E",
+        "Rager K",
+        "Sagindykova G",
+        "Armbrust N",
+        "Geilenkeuser J",
+        "Westmeyer GG",
+        "Becirovic E",
+        "Biel M",
+        "Istvanffy R",
+        "Vogt Weisenhorn DM",
+        "Truong DJ",
+        "Theis FJ",
+        "Ebert G",
+        "Moretti A",
+        "Erturk A",
+        "Bahr A",
+        "Kupatt C",
+        "Jasnin M",
+        "Klymiuk N",
+        "Giesert F",
+        "Wurst W"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6837-2463",
+        "ORCID: 0009-0001-8644-0298",
+        "ORCID: 0009-0003-4707-1666",
+        "ORCID: 0000-0002-4873-0550",
+        "ORCID: 0000-0003-2010-5849",
+        "ORCID: 0000-0002-3422-4083",
+        "ORCID: 0000-0003-2461-3541",
+        "ORCID: 0009-0005-7588-7472",
+        "ORCID: 0000-0002-7396-4949",
+        "ORCID: 0000-0001-8801-0649",
+        "ORCID: 0000-0003-1722-8573",
+        "ORCID: 0000-0002-2419-1943",
+        "ORCID: 0000-0001-5782-7832",
+        "ORCID: 0000-0001-5163-5100",
+        "ORCID: 0000-0002-3611-1218",
+        "ORCID: 0000-0003-1726-4566",
+        "ORCID: 0000-0003-3532-1659",
+        "ORCID: 0000-0001-6825-8858",
+        "ORCID: 0000-0003-4422-7410"
+      ],
+      "affiliations": [
+        "Institute of Developmental Genetics, Helmholtz Munich, Oberschleissheim, Germany.",
+        "TUM School of Life Sciences, Technical University of Munich, Freising, Germany.",
+        "Institute of Developmental Genetics, Helmholtz Munich, Oberschleissheim, Germany. christoph.gruber@helmholtz-munich.de.",
+        "TUM School of Life Sciences, Technical University of Munich, Freising, Germany. christoph.gruber@helmholtz-munich.de.",
+        "Institute of Developmental Genetics, Helmholtz Munich, Oberschleissheim, Germany.",
+        "TUM School of Life Sciences, Technical University of Munich, Freising, Germany.",
+        "Institute of Developmental Genetics, Helmholtz Munich, Oberschleissheim, Germany.",
+        "TUM School of Life Sciences, Technical University of Munich, Freising, Germany.",
+        "Institute of Developmental Genetics, Helmholtz Munich, Oberschleissheim, Germany.",
+        "TUM School of Life Sciences, Technical University of Munich, Freising, Germany.",
+        "Helmholtz Pioneer Campus, Helmholtz Munich, Oberschleissheim, Germany.",
+        "Institute of Developmental Genetics, Helmholtz Munich, Oberschleissheim, Germany.",
+        "TUM School of Life Sciences, Technical University of Munich, Freising, Germany.",
+        "Institute of Developmental Genetics, Helmholtz Munich, Oberschleissheim, Germany.",
+        "TUM School of Life Sciences, Technical University of Munich, Freising, Germany.",
+        "Institute of Developmental Genetics, Helmholtz Munich, Oberschleissheim, Germany.",
+        "Department of Bioscience, TUM School of Natural Sciences, Technical University of Munich, Garching, Germany.",
+        "Institute for Tissue Engineering and Regenerative Medicine, Helmholtz Munich, Oberschleissheim, Germany.",
+        "Deep Piction, Munich, Germany.",
+        "Institute of Virology, Helmholtz Munich, Oberschleissheim, Germany.",
+        "Large Animal Models in Cardiovascular Research, Klinik und Poliklinik fur Innere Medizin I, Klinikum rechts der Isar, Technical University Munich, Munich, Germany.",
+        "Center for Innovative Medical Models, LMU Munich, Munich, Germany.",
+        "Large Animal Models in Cardiovascular Research, Klinik und Poliklinik fur Innere Medizin I, Klinikum rechts der Isar, Technical University Munich, Munich, Germany.",
+        "Center for Innovative Medical Models, LMU Munich, Munich, Germany.",
+        "Department of Pharmacy-Center for Drug Research, LMU Munich, Munich, Germany.",
+        "Institute of Developmental Genetics, Helmholtz Munich, Oberschleissheim, Germany.",
+        "TUM School of Life Sciences, Technical University of Munich, Freising, Germany.",
+        "Institute of Computational Biology, Helmholtz Munich, Oberschleissheim, Germany.",
+        "Department of Mathematics, TUM School of Natural Sciences, Technical University of Munich, Garching, Germany.",
+        "Metabolomics and Proteomics Core, Helmholtz Munich, Oberschleissheim, Germany.",
+        "First Department of Medicine and Regenerative Medicine in Cardiovascular Diseases, Klinikum rechts der Isar, Munich, Germany.",
+        "TUM School of Medicine and Health, Technical University of Munich, Munich, Germany.",
+        "Institute of Developmental Genetics, Helmholtz Munich, Oberschleissheim, Germany.",
+        "Department of Bioscience, TUM School of Natural Sciences, Technical University of Munich, Garching, Germany.",
+        "Institute of Developmental Genetics, Helmholtz Munich, Oberschleissheim, Germany.",
+        "Department of Bioscience, TUM School of Natural Sciences, Technical University of Munich, Garching, Germany.",
+        "Institute of Developmental Genetics, Helmholtz Munich, Oberschleissheim, Germany.",
+        "TUM School of Life Sciences, Technical University of Munich, Freising, Germany.",
+        "Institute of Developmental Genetics, Helmholtz Munich, Oberschleissheim, Germany.",
+        "TUM School of Life Sciences, Technical University of Munich, Freising, Germany.",
+        "Institute of Developmental Genetics, Helmholtz Munich, Oberschleissheim, Germany.",
+        "Department of Bioscience, TUM School of Natural Sciences, Technical University of Munich, Garching, Germany.",
+        "Institute of Developmental Genetics, Helmholtz Munich, Oberschleissheim, Germany.",
+        "TUM School of Life Sciences, Technical University of Munich, Freising, Germany.",
+        "Institute of Developmental Genetics, Helmholtz Munich, Oberschleissheim, Germany.",
+        "TUM School of Life Sciences, Technical University of Munich, Freising, Germany.",
+        "Institute of Developmental Genetics, Helmholtz Munich, Oberschleissheim, Germany.",
+        "TUM School of Life Sciences, Technical University of Munich, Freising, Germany.",
+        "Department of Bioscience, TUM School of Natural Sciences, Technical University of Munich, Garching, Germany.",
+        "Institute for Synthetic Biomedicine, Helmholtz Munich, Oberschleissheim, Germany.",
+        "Department of Bioscience, TUM School of Natural Sciences, Technical University of Munich, Garching, Germany.",
+        "Institute for Synthetic Biomedicine, Helmholtz Munich, Oberschleissheim, Germany.",
+        "Department of Bioscience, TUM School of Natural Sciences, Technical University of Munich, Garching, Germany.",
+        "TUM School of Medicine and Health, Technical University of Munich, Munich, Germany.",
+        "Institute for Synthetic Biomedicine, Helmholtz Munich, Oberschleissheim, Germany.",
+        "Laboratory for Retinal Gene Therapy, Department of Ophthalmology, University Hospital Zurich, University of Zurich, Schlieren, Switzerland.",
+        "Department of Pharmacy-Center for Drug Research, LMU Munich, Munich, Germany.",
+        "TUM School of Medicine and Health, Technical University of Munich, Munich, Germany.",
+        "Department of Surgery, TUM University Hospital Rechts der Isar, Munich, Germany.",
+        "Institute of Developmental Genetics, Helmholtz Munich, Oberschleissheim, Germany.",
+        "TUM School of Life Sciences, Technical University of Munich, Freising, Germany.",
+        "Department of Bioscience, TUM School of Natural Sciences, Technical University of Munich, Garching, Germany.",
+        "TUM School of Medicine and Health, Technical University of Munich, Munich, Germany.",
+        "Institute for Synthetic Biomedicine, Helmholtz Munich, Oberschleissheim, Germany.",
+        "Institute of Computational Biology, Helmholtz Munich, Oberschleissheim, Germany.",
+        "Department of Mathematics, TUM School of Natural Sciences, Technical University of Munich, Garching, Germany.",
+        "Wellcome Trust Sanger Institute, Wellcome Genome Campus Hinxton, Saffron Walden, UK.",
+        "Institute of Virology, Helmholtz Munich, Oberschleissheim, Germany.",
+        "First Department of Medicine and Regenerative Medicine in Cardiovascular Diseases, Klinikum rechts der Isar, Munich, Germany.",
+        "TUM School of Medicine and Health, Technical University of Munich, Munich, Germany.",
+        "Institute for Tissue Engineering and Regenerative Medicine, Helmholtz Munich, Oberschleissheim, Germany.",
+        "Deep Piction, Munich, Germany.",
+        "Institute for Stroke and Dementia Research, Medical Centre of the University of Munich, LMU Munich, Munich, Germany.",
+        "Cluster for Systems Neurology (SyNergy), Munich, Germany.",
+        "Graduate School of Neuroscience (GSN), Munich, Germany.",
+        "Large Animal Models in Cardiovascular Research, Klinik und Poliklinik fur Innere Medizin I, Klinikum rechts der Isar, Technical University Munich, Munich, Germany.",
+        "Center for Innovative Medical Models, LMU Munich, Munich, Germany.",
+        "Klinik und Poliklinik fur Innere Medizin I, Klinikum rechts der Isar, Technical University of Munich, Munich, Germany.",
+        "DZHK (German Center for Cardiovascular Research), partner site Munich Heart Alliance, Munich, Germany.",
+        "Helmholtz Pioneer Campus, Helmholtz Munich, Oberschleissheim, Germany.",
+        "Department of Chemistry, TUM School of Natural Sciences, Technical University of Munich, Garching, Germany.",
+        "Helmholtz Munich Cryo-Electron Microscopy Platform, Helmholtz Munich, Oberschlessheim, Germany.",
+        "Large Animal Models in Cardiovascular Research, Klinik und Poliklinik fur Innere Medizin I, Klinikum rechts der Isar, Technical University Munich, Munich, Germany.",
+        "Center for Innovative Medical Models, LMU Munich, Munich, Germany.",
+        "Institute of Developmental Genetics, Helmholtz Munich, Oberschleissheim, Germany. florian.giesert@helmholtz-munich.de.",
+        "TUM School of Life Sciences, Technical University of Munich, Freising, Germany. florian.giesert@helmholtz-munich.de.",
+        "Institute of Stem Cell Research, Helmholtz Munich, Oberschleissheim, Germany. florian.giesert@helmholtz-munich.de.",
+        "Institute of Developmental Genetics, Helmholtz Munich, Oberschleissheim, Germany. wolfgang.wurst@helmholtz-munich.de.",
+        "TUM School of Life Sciences, Technical University of Munich, Freising, Germany. wolfgang.wurst@helmholtz-munich.de.",
+        "Cluster for Systems Neurology (SyNergy), Munich, Germany. wolfgang.wurst@helmholtz-munich.de.",
+        "Deutsches Zentrum fur Psychische Gesundheit (DZPG), Site Munich-Augsburg, Munich, Germany. wolfgang.wurst@helmholtz-munich.de.",
+        "German Center for Neurodegenerative Diseases (DZNE), Munich, Germany. wolfgang.wurst@helmholtz-munich.de.",
+        "Emeritus of Excellence Senior Faculty (SEF), Technical University of Munich, Munich, Germany. wolfgang.wurst@helmholtz-munich.de."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Schuhmacher, Maren Kirstin",
+        "short_name": "Schuhmacher MK",
+        "identifiers": [
+          "0000-0002-6837-2463"
+        ],
+        "affiliations": [
+          "Institute of Developmental Genetics, Helmholtz Munich, Oberschleissheim, Germany.",
+          "TUM School of Life Sciences, Technical University of Munich, Freising, Germany."
+        ]
+      },
+      {
+        "full_name": "Gruber, Christoph",
+        "short_name": "Gruber C",
+        "identifiers": [
+          "0009-0001-8644-0298"
+        ],
+        "affiliations": [
+          "Institute of Developmental Genetics, Helmholtz Munich, Oberschleissheim, Germany. christoph.gruber@helmholtz-munich.de.",
+          "TUM School of Life Sciences, Technical University of Munich, Freising, Germany. christoph.gruber@helmholtz-munich.de."
+        ]
+      },
+      {
+        "full_name": "Lang, Christopher M R",
+        "short_name": "Lang CMR",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Developmental Genetics, Helmholtz Munich, Oberschleissheim, Germany.",
+          "TUM School of Life Sciences, Technical University of Munich, Freising, Germany."
+        ]
+      },
+      {
+        "full_name": "Ruijpers, Ricardo M W",
+        "short_name": "Ruijpers RMW",
+        "identifiers": [
+          "0009-0003-4707-1666"
+        ],
+        "affiliations": [
+          "Institute of Developmental Genetics, Helmholtz Munich, Oberschleissheim, Germany.",
+          "TUM School of Life Sciences, Technical University of Munich, Freising, Germany."
+        ]
+      },
+      {
+        "full_name": "Mazneykova, Lyupka",
+        "short_name": "Mazneykova L",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Developmental Genetics, Helmholtz Munich, Oberschleissheim, Germany.",
+          "TUM School of Life Sciences, Technical University of Munich, Freising, Germany."
+        ]
+      },
+      {
+        "full_name": "Beinsteiner, Brice",
+        "short_name": "Beinsteiner B",
+        "identifiers": [
+          "0000-0002-4873-0550"
+        ],
+        "affiliations": [
+          "Helmholtz Pioneer Campus, Helmholtz Munich, Oberschleissheim, Germany."
+        ]
+      },
+      {
+        "full_name": "Krus, Ariane",
+        "short_name": "Krus A",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Developmental Genetics, Helmholtz Munich, Oberschleissheim, Germany.",
+          "TUM School of Life Sciences, Technical University of Munich, Freising, Germany."
+        ]
+      },
+      {
+        "full_name": "Tremmel, Barbara",
+        "short_name": "Tremmel B",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Developmental Genetics, Helmholtz Munich, Oberschleissheim, Germany.",
+          "TUM School of Life Sciences, Technical University of Munich, Freising, Germany."
+        ]
+      },
+      {
+        "full_name": "Reinhardt, Friederike",
+        "short_name": "Reinhardt F",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Developmental Genetics, Helmholtz Munich, Oberschleissheim, Germany.",
+          "Department of Bioscience, TUM School of Natural Sciences, Technical University of Munich, Garching, Germany."
+        ]
+      },
+      {
+        "full_name": "Kadletz, Karoline",
+        "short_name": "Kadletz K",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Tissue Engineering and Regenerative Medicine, Helmholtz Munich, Oberschleissheim, Germany.",
+          "Deep Piction, Munich, Germany."
+        ]
+      },
+      {
+        "full_name": "Ma, Zhe",
+        "short_name": "Ma Z",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Virology, Helmholtz Munich, Oberschleissheim, Germany."
+        ]
+      },
+      {
+        "full_name": "Casalta, Lucie",
+        "short_name": "Casalta L",
+        "identifiers": [],
+        "affiliations": [
+          "Large Animal Models in Cardiovascular Research, Klinik und Poliklinik für Innere Medizin I, Klinikum rechts der Isar, Technical University Munich, Munich, Germany.",
+          "Center for Innovative Medical Models, LMU Munich, Munich, Germany."
+        ]
+      },
+      {
+        "full_name": "Cambra Bort, Josep Miquel",
+        "short_name": "Cambra Bort JM",
+        "identifiers": [
+          "0000-0003-2010-5849"
+        ],
+        "affiliations": [
+          "Large Animal Models in Cardiovascular Research, Klinik und Poliklinik für Innere Medizin I, Klinikum rechts der Isar, Technical University Munich, Munich, Germany.",
+          "Center for Innovative Medical Models, LMU Munich, Munich, Germany."
+        ]
+      },
+      {
+        "full_name": "Otify, Dina Y",
+        "short_name": "Otify DY",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacy-Center for Drug Research, LMU Munich, Munich, Germany."
+        ]
+      },
+      {
+        "full_name": "Balken, Iolo",
+        "short_name": "Balken I",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Developmental Genetics, Helmholtz Munich, Oberschleissheim, Germany.",
+          "TUM School of Life Sciences, Technical University of Munich, Freising, Germany."
+        ]
+      },
+      {
+        "full_name": "Hetzel, Leon",
+        "short_name": "Hetzel L",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Computational Biology, Helmholtz Munich, Oberschleissheim, Germany.",
+          "Department of Mathematics, TUM School of Natural Sciences, Technical University of Munich, Garching, Germany."
+        ]
+      },
+      {
+        "full_name": "Merl-Pham, Juliane",
+        "short_name": "Merl-Pham J",
+        "identifiers": [
+          "0000-0002-3422-4083"
+        ],
+        "affiliations": [
+          "Metabolomics and Proteomics Core, Helmholtz Munich, Oberschleissheim, Germany."
+        ]
+      },
+      {
+        "full_name": "Dorn, Tatjana",
+        "short_name": "Dorn T",
+        "identifiers": [],
+        "affiliations": [
+          "First Department of Medicine and Regenerative Medicine in Cardiovascular Diseases, Klinikum rechts der Isar, Munich, Germany.",
+          "TUM School of Medicine and Health, Technical University of Munich, Munich, Germany."
+        ]
+      },
+      {
+        "full_name": "Luchner, Marina",
+        "short_name": "Luchner M",
+        "identifiers": [
+          "0000-0003-2461-3541"
+        ],
+        "affiliations": [
+          "Institute of Developmental Genetics, Helmholtz Munich, Oberschleissheim, Germany.",
+          "Department of Bioscience, TUM School of Natural Sciences, Technical University of Munich, Garching, Germany."
+        ]
+      },
+      {
+        "full_name": "Bauersachs, Lea",
+        "short_name": "Bauersachs L",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Developmental Genetics, Helmholtz Munich, Oberschleissheim, Germany.",
+          "Department of Bioscience, TUM School of Natural Sciences, Technical University of Munich, Garching, Germany."
+        ]
+      },
+      {
+        "full_name": "Ganea, Karin",
+        "short_name": "Ganea K",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Developmental Genetics, Helmholtz Munich, Oberschleissheim, Germany.",
+          "TUM School of Life Sciences, Technical University of Munich, Freising, Germany."
+        ]
+      },
+      {
+        "full_name": "Wieser, Natascha",
+        "short_name": "Wieser N",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Developmental Genetics, Helmholtz Munich, Oberschleissheim, Germany.",
+          "TUM School of Life Sciences, Technical University of Munich, Freising, Germany."
+        ]
+      },
+      {
+        "full_name": "Emrich, Alexander",
+        "short_name": "Emrich A",
+        "identifiers": [
+          "0009-0005-7588-7472"
+        ],
+        "affiliations": [
+          "Institute of Developmental Genetics, Helmholtz Munich, Oberschleissheim, Germany.",
+          "Department of Bioscience, TUM School of Natural Sciences, Technical University of Munich, Garching, Germany."
+        ]
+      },
+      {
+        "full_name": "Yağmur, Emirhan",
+        "short_name": "Yağmur E",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Developmental Genetics, Helmholtz Munich, Oberschleissheim, Germany.",
+          "TUM School of Life Sciences, Technical University of Munich, Freising, Germany."
+        ]
+      },
+      {
+        "full_name": "Rager, Katrin",
+        "short_name": "Rager K",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Developmental Genetics, Helmholtz Munich, Oberschleissheim, Germany.",
+          "TUM School of Life Sciences, Technical University of Munich, Freising, Germany."
+        ]
+      },
+      {
+        "full_name": "Sagindykova, Gauhar",
+        "short_name": "Sagindykova G",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Developmental Genetics, Helmholtz Munich, Oberschleissheim, Germany.",
+          "TUM School of Life Sciences, Technical University of Munich, Freising, Germany."
+        ]
+      },
+      {
+        "full_name": "Armbrust, Niklas",
+        "short_name": "Armbrust N",
+        "identifiers": [
+          "0000-0002-7396-4949"
+        ],
+        "affiliations": [
+          "Department of Bioscience, TUM School of Natural Sciences, Technical University of Munich, Garching, Germany.",
+          "Institute for Synthetic Biomedicine, Helmholtz Munich, Oberschleissheim, Germany."
+        ]
+      },
+      {
+        "full_name": "Geilenkeuser, Julian",
+        "short_name": "Geilenkeuser J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bioscience, TUM School of Natural Sciences, Technical University of Munich, Garching, Germany.",
+          "Institute for Synthetic Biomedicine, Helmholtz Munich, Oberschleissheim, Germany."
+        ]
+      },
+      {
+        "full_name": "Westmeyer, Gil G",
+        "short_name": "Westmeyer GG",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bioscience, TUM School of Natural Sciences, Technical University of Munich, Garching, Germany.",
+          "TUM School of Medicine and Health, Technical University of Munich, Munich, Germany.",
+          "Institute for Synthetic Biomedicine, Helmholtz Munich, Oberschleissheim, Germany."
+        ]
+      },
+      {
+        "full_name": "Becirovic, Elvir",
+        "short_name": "Becirovic E",
+        "identifiers": [
+          "0000-0001-8801-0649"
+        ],
+        "affiliations": [
+          "Laboratory for Retinal Gene Therapy, Department of Ophthalmology, University Hospital Zurich, University of Zurich, Schlieren, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Biel, Martin",
+        "short_name": "Biel M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacy-Center for Drug Research, LMU Munich, Munich, Germany."
+        ]
+      },
+      {
+        "full_name": "Istvanffy, Rouzanna",
+        "short_name": "Istvanffy R",
+        "identifiers": [],
+        "affiliations": [
+          "TUM School of Medicine and Health, Technical University of Munich, Munich, Germany.",
+          "Department of Surgery, TUM University Hospital Rechts der Isar, Munich, Germany."
+        ]
+      },
+      {
+        "full_name": "Vogt Weisenhorn, Daniela M",
+        "short_name": "Vogt Weisenhorn DM",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Developmental Genetics, Helmholtz Munich, Oberschleissheim, Germany.",
+          "TUM School of Life Sciences, Technical University of Munich, Freising, Germany."
+        ]
+      },
+      {
+        "full_name": "Truong, Dong-Jiunn Jeffery",
+        "short_name": "Truong DJ",
+        "identifiers": [
+          "0000-0003-1722-8573"
+        ],
+        "affiliations": [
+          "Department of Bioscience, TUM School of Natural Sciences, Technical University of Munich, Garching, Germany.",
+          "TUM School of Medicine and Health, Technical University of Munich, Munich, Germany.",
+          "Institute for Synthetic Biomedicine, Helmholtz Munich, Oberschleissheim, Germany."
+        ]
+      },
+      {
+        "full_name": "Theis, Fabian J",
+        "short_name": "Theis FJ",
+        "identifiers": [
+          "0000-0002-2419-1943"
+        ],
+        "affiliations": [
+          "Institute of Computational Biology, Helmholtz Munich, Oberschleissheim, Germany.",
+          "Department of Mathematics, TUM School of Natural Sciences, Technical University of Munich, Garching, Germany.",
+          "Wellcome Trust Sanger Institute, Wellcome Genome Campus Hinxton, Saffron Walden, UK."
+        ]
+      },
+      {
+        "full_name": "Ebert, Gregor",
+        "short_name": "Ebert G",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Virology, Helmholtz Munich, Oberschleissheim, Germany."
+        ]
+      },
+      {
+        "full_name": "Moretti, Alessandra",
+        "short_name": "Moretti A",
+        "identifiers": [
+          "0000-0001-5782-7832"
+        ],
+        "affiliations": [
+          "First Department of Medicine and Regenerative Medicine in Cardiovascular Diseases, Klinikum rechts der Isar, Munich, Germany.",
+          "TUM School of Medicine and Health, Technical University of Munich, Munich, Germany."
+        ]
+      },
+      {
+        "full_name": "Ertürk, Ali",
+        "short_name": "Ertürk A",
+        "identifiers": [
+          "0000-0001-5163-5100"
+        ],
+        "affiliations": [
+          "Institute for Tissue Engineering and Regenerative Medicine, Helmholtz Munich, Oberschleissheim, Germany.",
+          "Deep Piction, Munich, Germany.",
+          "Institute for Stroke and Dementia Research, Medical Centre of the University of Munich, LMU Munich, Munich, Germany.",
+          "Cluster for Systems Neurology (SyNergy), Munich, Germany.",
+          "Graduate School of Neuroscience (GSN), Munich, Germany."
+        ]
+      },
+      {
+        "full_name": "Bähr, Andrea",
+        "short_name": "Bähr A",
+        "identifiers": [],
+        "affiliations": [
+          "Large Animal Models in Cardiovascular Research, Klinik und Poliklinik für Innere Medizin I, Klinikum rechts der Isar, Technical University Munich, Munich, Germany.",
+          "Center for Innovative Medical Models, LMU Munich, Munich, Germany."
+        ]
+      },
+      {
+        "full_name": "Kupatt, Christian",
+        "short_name": "Kupatt C",
+        "identifiers": [
+          "0000-0002-3611-1218"
+        ],
+        "affiliations": [
+          "Klinik und Poliklinik für Innere Medizin I, Klinikum rechts der Isar, Technical University of Munich, Munich, Germany.",
+          "DZHK (German Center for Cardiovascular Research), partner site Munich Heart Alliance, Munich, Germany."
+        ]
+      },
+      {
+        "full_name": "Jasnin, Marion",
+        "short_name": "Jasnin M",
+        "identifiers": [
+          "0000-0003-1726-4566"
+        ],
+        "affiliations": [
+          "Helmholtz Pioneer Campus, Helmholtz Munich, Oberschleissheim, Germany.",
+          "Department of Chemistry, TUM School of Natural Sciences, Technical University of Munich, Garching, Germany.",
+          "Helmholtz Munich Cryo-Electron Microscopy Platform, Helmholtz Munich, Oberschlessheim, Germany."
+        ]
+      },
+      {
+        "full_name": "Klymiuk, Nikolai",
+        "short_name": "Klymiuk N",
+        "identifiers": [
+          "0000-0003-3532-1659"
+        ],
+        "affiliations": [
+          "Large Animal Models in Cardiovascular Research, Klinik und Poliklinik für Innere Medizin I, Klinikum rechts der Isar, Technical University Munich, Munich, Germany.",
+          "Center for Innovative Medical Models, LMU Munich, Munich, Germany."
+        ]
+      },
+      {
+        "full_name": "Giesert, Florian",
+        "short_name": "Giesert F",
+        "identifiers": [
+          "0000-0001-6825-8858"
+        ],
+        "affiliations": [
+          "Institute of Developmental Genetics, Helmholtz Munich, Oberschleissheim, Germany. florian.giesert@helmholtz-munich.de.",
+          "TUM School of Life Sciences, Technical University of Munich, Freising, Germany. florian.giesert@helmholtz-munich.de.",
+          "Institute of Stem Cell Research, Helmholtz Munich, Oberschleissheim, Germany. florian.giesert@helmholtz-munich.de."
+        ]
+      },
+      {
+        "full_name": "Wurst, Wolfgang",
+        "short_name": "Wurst W",
+        "identifiers": [
+          "0000-0003-4422-7410"
+        ],
+        "affiliations": [
+          "Institute of Developmental Genetics, Helmholtz Munich, Oberschleissheim, Germany. wolfgang.wurst@helmholtz-munich.de.",
+          "TUM School of Life Sciences, Technical University of Munich, Freising, Germany. wolfgang.wurst@helmholtz-munich.de.",
+          "Cluster for Systems Neurology (SyNergy), Munich, Germany. wolfgang.wurst@helmholtz-munich.de.",
+          "Deutsches Zentrum für Psychische Gesundheit (DZPG), Site Munich-Augsburg, Munich, Germany. wolfgang.wurst@helmholtz-munich.de.",
+          "German Center for Neurodegenerative Diseases (DZNE), Munich, Germany. wolfgang.wurst@helmholtz-munich.de.",
+          "Emeritus of Excellence Senior Faculty (SEF), Technical University of Munich, Munich, Germany. wolfgang.wurst@helmholtz-munich.de."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature"
+    ],
+    "journal_abbrev": [
+      "Nature"
+    ],
+    "pub_date": "2026 Sep 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/03 05:37",
+    "fetched_at": "2026-09-08 12:10:34"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42686908",
+      "42475469",
+      "23912807",
+      "29236688",
+      "36321557",
+      "22105545",
+      "41340272",
+      "29219966",
+      "40295092",
+      "39937081",
+      "34904892",
+      "10983732",
+      "40491030",
+      "39772484",
+      "42055250",
+      "38212493",
+      "32324903",
+      "41388037",
+      "33760451",
+      "22491297",
+      "25195922",
+      "42162421",
+      "41194596",
+      "42187710",
+      "33028045",
+      "21664809",
+      "38122884",
+      "31465200",
+      "30957491",
+      "25658858",
+      "37345736",
+      "38531696",
+      "39695230",
+      "16430131",
+      "15842167",
+      "19562111",
+      "21802459",
+      "22455499",
+      "35766918",
+      "40807307",
+      "17176463",
+      "38237551",
+      "22191535",
+      "31932830",
+      "34227341",
+      "26042329",
+      "18647114",
+      "11064328",
+      "27196002",
+      "34812854",
+      "32669336",
+      "38380796",
+      "36896791",
+      "41256432",
+      "32104373",
+      "28984438",
+      "42026173",
+      "35890005",
+      "27943572",
+      "36243370",
+      "30375148",
+      "42244751",
+      "37524714",
+      "40393529",
+      "27215286",
+      "41839899",
+      "40321199",
+      "25150720",
+      "29415542",
+      "42491247",
+      "17614321",
+      "33845891",
+      "26748884",
+      "34506722",
+      "32091881",
+      "35700449",
+      "32892813",
+      "33036834",
+      "31135134",
+      "41641521",
+      "42176353",
+      "28191927",
+      "35394752",
+      "35021064",
+      "22350875",
+      "11770821",
+      "26711962",
+      "40897171",
+      "41898615",
+      "30832272",
+      "38739430",
+      "21675721",
+      "40695817",
+      "40475681",
+      "32569994",
+      "28383245",
+      "31711285",
+      "30856321",
+      "28567486",
+      "40161775"
+    ],
+    "review": [
+      "42686908",
+      "36321557",
+      "22105545",
+      "40295092",
+      "10983732",
+      "42055250",
+      "32324903",
+      "25195922",
+      "42187710",
+      "33028045",
+      "21664809",
+      "31465200",
+      "30957491",
+      "25658858",
+      "38531696",
+      "16430131",
+      "19562111",
+      "35766918",
+      "40807307",
+      "34227341",
+      "18647114",
+      "11064328",
+      "27196002",
+      "38380796",
+      "32104373",
+      "28984438",
+      "35890005",
+      "27943572",
+      "30375148",
+      "27215286",
+      "42491247",
+      "17614321",
+      "31135134",
+      "41641521",
+      "28191927",
+      "35394752",
+      "11770821",
+      "40897171",
+      "41898615",
+      "21675721",
+      "32569994",
+      "28383245"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41586-026-10952-3",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

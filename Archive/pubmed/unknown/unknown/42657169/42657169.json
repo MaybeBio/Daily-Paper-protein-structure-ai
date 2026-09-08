@@ -1,0 +1,246 @@
+{
+  "identity": {
+    "pmid": "42657169",
+    "doi": "10.1155/humu/2444803",
+    "title": "Computational Characterization of Pathogenic LMNA Missense Variants: Structural Instability, Altered Binding, and Conformational Dynamics."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Mutations in the LMNA gene underlie a broad spectrum of laminopathies, including muscular dystrophies, cardiomyopathies, and premature aging syndromes; however, the molecular mechanisms by which missense variants disrupt Lamin A structural integrity remain incompletely characterized. Systematic computational approaches for prioritizing pathogenic variants and elucidating their structural consequences are critically needed. METHODS: An integrated multistep in silico framework was employed to investigate the structural and functional consequences of LMNA missense variants. Variant prioritization was performed using the Evo2 nucleotide language model via delta log-likelihood scoring, followed by bioinformatic annotation using SIFT, PANTHER-PSEP, PhD-SNP, and E-SNPs&GO. Protein stability assessment was conducted with DynaMut, INPS-MD, I-Mutant2.0, and MUpro. Variants localized within globular domains-N456D, N456T, and G465D-together with the known pathogenic variant M540T as a positive control, were selected for three-dimensional structural modeling using PyMOL and AlphaFold2, molecular docking with lonafarnib as a reference ligand via AutoDock Vina, and 100 ns molecular dynamics simulations using GROMACS with the Amber ff14SB force field. Conformational dynamics were characterized through principal component analysis and free-energy surface construction. RESULTS: Evo2-based screening of the full LMNA coding sequence identified 50 high-priority loss-of-function variants, of which N456D, N456T, and G465D were retained for structural investigation based on their globular domain localization and multitool pathogenicity predictions. All three variants were consistently predicted to alter physicochemical properties and reduce structural stability relative to wild-type Lamin A. Molecular docking revealed mutation-dependent changes in lonafarnib binding profiles. The known pathogenic control M540T exhibited comparable structural and dynamic behavior, supporting the reliability of the prioritization workflow. Molecular dynamics analyses demonstrated altered RMSD trajectories, increased residue-level flexibility, and modified hydrogen bonding patterns in mutant systems. Free-energy landscape analyses revealed expanded conformational basins, particularly pronounced in the G465D variant, indicating increased structural plasticity. CONCLUSION: This integrated computational framework provides a systematic strategy for prioritizing pathogenic LMNA variants and characterizing their structural consequences at the atomic level. The identified variants-N456D, N456T, and G465D-represent structurally disruptive substitutions consistent with the established role of globular domain destabilization in other laminopathy-associated variants, offering testable hypotheses for experimental validation in cellular and animal models.",
+    "keywords": [
+      "Evo2",
+      "Lamin A",
+      "intrinsic disorder",
+      "laminopathies",
+      "loss-of-function variants",
+      "molecular docking",
+      "molecular dynamics",
+      "protein structure",
+      "variant prioritization"
+    ],
+    "mesh_terms": [
+      "*Mutation, Missense",
+      "Humans",
+      "*Lamin Type A/genetics/chemistry/metabolism",
+      "*Computational Biology/methods",
+      "Molecular Docking Simulation",
+      "Molecular Dynamics Simulation",
+      "Protein Binding",
+      "Protein Conformation",
+      "Protein Stability"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Aktas, Emre",
+        "Nizamoglu, Ceren",
+        "Ventura, Salvador"
+      ],
+      "short_names": [
+        "Aktas E",
+        "Nizamoglu C",
+        "Ventura S"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-9422-3402",
+        "ORCID: 0009-0008-3467-7913",
+        "ORCID: 0000-0002-9652-6351"
+      ],
+      "affiliations": [
+        "Department of Molecular Biology and Genetics, Faculty of Arts and Sciences, Yildiz Technical University, Istanbul, Turkiye, yildiz.edu.tr.",
+        "Department of Molecular Biology and Genetics, Faculty of Arts and Sciences, Yildiz Technical University, Istanbul, Turkiye, yildiz.edu.tr.",
+        "Institut de Biotecnologia i de Biomedicina and Departament de Bioquimica i Biologia Molecular, Universitat Autonoma de Barcelona, Bellaterra, Barcelona, Spain, uab.cat."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Aktaş, Emre",
+        "short_name": "Aktaş E",
+        "identifiers": [
+          "0000-0002-9422-3402"
+        ],
+        "affiliations": [
+          "Department of Molecular Biology and Genetics, Faculty of Arts and Sciences, Yıldız Technical University, Istanbul, Türkiye, yildiz.edu.tr."
+        ]
+      },
+      {
+        "full_name": "Nizamoğlu, Ceren",
+        "short_name": "Nizamoğlu C",
+        "identifiers": [
+          "0009-0008-3467-7913"
+        ],
+        "affiliations": [
+          "Department of Molecular Biology and Genetics, Faculty of Arts and Sciences, Yıldız Technical University, Istanbul, Türkiye, yildiz.edu.tr."
+        ]
+      },
+      {
+        "full_name": "Ventura, Salvador",
+        "short_name": "Ventura S",
+        "identifiers": [
+          "0000-0002-9652-6351"
+        ],
+        "affiliations": [
+          "Institut de Biotecnologia i de Biomedicina and Departament de Bioquímica i Biologia Molecular, Universitat Autònoma de Barcelona, Bellaterra, Barcelona, Spain, uab.cat."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Human mutation"
+    ],
+    "journal_abbrev": [
+      "Hum Mutat"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/08/27 12:36",
+    "fetched_at": "2026-09-08 12:11:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42657169",
+      "41307241",
+      "42475469",
+      "40892789",
+      "41039863",
+      "40571049",
+      "41671225",
+      "42640838",
+      "42196261",
+      "41807577",
+      "40111159",
+      "39715225",
+      "42118388",
+      "24578721",
+      "40370698",
+      "41898807",
+      "42043606",
+      "41756011",
+      "41670008",
+      "36504721",
+      "40350748",
+      "42309611",
+      "30943891",
+      "41570449",
+      "42196567",
+      "41547173",
+      "41951832",
+      "38656135",
+      "33555556",
+      "29433424",
+      "40149454",
+      "37624850",
+      "41355503",
+      "36225129",
+      "41028104",
+      "40464633",
+      "40576883",
+      "40737279",
+      "41277739",
+      "40855915",
+      "40892044",
+      "32799420",
+      "24623722",
+      "41073804",
+      "42444804",
+      "34808346",
+      "30884445",
+      "39590603",
+      "36764830",
+      "41616039",
+      "42555301",
+      "28621357",
+      "40680151",
+      "41601477",
+      "24817641",
+      "41684033",
+      "41401744",
+      "24375749",
+      "35728285",
+      "29987523",
+      "41120341",
+      "23912807",
+      "23561625",
+      "41084424",
+      "41381739",
+      "40763963",
+      "29893426",
+      "42477528",
+      "40375073",
+      "42278376",
+      "40612044",
+      "40469839",
+      "41688635",
+      "42278487",
+      "21989830",
+      "42511819",
+      "40562136",
+      "38834813",
+      "41360240",
+      "29663862",
+      "41569518",
+      "42602159",
+      "36995110",
+      "31968288",
+      "34681887",
+      "39979869",
+      "38520131",
+      "33255942",
+      "41373498",
+      "42353858",
+      "41045314",
+      "41785731",
+      "42509838",
+      "41964725",
+      "31347285",
+      "28679633",
+      "41666207",
+      "40943500",
+      "32073192",
+      "42369210"
+    ],
+    "review": [
+      "42657169",
+      "32799420"
+    ],
+    "pmc": [
+      "13508025"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42657169/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.1155/humu/2444803",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-76",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

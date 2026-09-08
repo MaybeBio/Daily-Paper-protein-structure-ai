@@ -1,0 +1,551 @@
+{
+  "identity": {
+    "pmid": "42638493",
+    "doi": "10.1039/d5cs01469g",
+    "title": "AI-powered medicinal chemistry and translational drug development."
+  },
+  "content": {
+    "abstract": "Medicinal chemistry sits at the center of modern drug discovery, yet translating molecular designs into approved medicines remains slow, expensive, and prone to high attrition across the pipeline from target identification to clinical validation. Artificial intelligence (AI) is beginning to reshape this landscape by enabling large-scale integration, interpretation, and generation of chemical, biological, and clinical data for hypothesis generation, chemical space exploration, and iterative cycles of model-guided design and experimental validation. In this review, we examine how machine learning, deep learning, natural language processing (NLP), and generative modeling are being applied across medicinal chemistry and drug development. We outline the principles of major AI modalities and detail their roles in target discovery, virtual screening, molecular property prediction, de novo molecular design, fragment-based optimization, safety and absorption, distribution, metabolism, excretion, and toxicity (ADMET) assessment, and clinical trial design. We highlight how multimodal data fusion, predictive modeling, and human-AI collaborative frameworks are supporting more informed decisions in rational drug design. At the same time, we critically assess the limitations that constrain real-world impact, including data scarcity and inconsistency, model generalizability and interpretability, evolving regulatory expectations, and the persistent gap between in silico predictions and experimentally validated drug candidates. While a small but growing number of AI-guided molecules have entered clinical development, systematic evidence on whether AI-driven approaches ultimately deliver better drugs or faster timelines than traditional methods is still accruing. We discuss emerging opportunities at the intersection of AI with automation, robotics, multimodal biology, protein structure prediction, and autonomous discovery. With rigorous validation, high-quality datasets, and appropriate regulatory frameworks, AI can become a dependable tool for discovering safer, more effective, and more personalized medicines.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "U, Kaicheng",
+        "Zhang, Sophia Meixuan",
+        "Yu, Ziyu",
+        "Zhang, Zechuan",
+        "Zhang, Jianwei",
+        "He, Chang",
+        "Liu, Anbang",
+        "Chen, Rui",
+        "Wang, Stella",
+        "Yan, Lijie",
+        "Ding, Shichao",
+        "Li, Lavonda",
+        "Yang, Zongxin",
+        "Xiao, Gao",
+        "Zhang, Xushuai",
+        "Bao, Kaige",
+        "Wang, Haohan",
+        "Vasilakos, Athanasios V",
+        "Zhao, Junhan",
+        "Chen, Siwei",
+        "Zhang, Xingcai"
+      ],
+      "short_names": [
+        "U K",
+        "Zhang SM",
+        "Yu Z",
+        "Zhang Z",
+        "Zhang J",
+        "He C",
+        "Liu A",
+        "Chen R",
+        "Wang S",
+        "Yan L",
+        "Ding S",
+        "Li L",
+        "Yang Z",
+        "Xiao G",
+        "Zhang X",
+        "Bao K",
+        "Wang H",
+        "Vasilakos AV",
+        "Zhao J",
+        "Chen S",
+        "Zhang X"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-7040-9563",
+        "ORCID: 0009-0008-8948-1352",
+        "ORCID: 0009-0008-6295-4658",
+        "ORCID: 0009-0000-4811-9252",
+        "ORCID: 0000-0003-3795-306X",
+        "ORCID: 0000-0002-6166-8771",
+        "ORCID: 0000-0003-1902-9877",
+        "ORCID: 0000-0002-0316-8365",
+        "ORCID: 0000-0001-7114-1095"
+      ],
+      "affiliations": [
+        "Tri-Institutional Computational Biology & Medicine, Weill Cornell Medicine, NYC, NY, USA.",
+        "Department of Computational Oncology, Memorial Sloan Kettering Cancer Center, NYC, NY, USA.",
+        "Laboratory of Virology and Infectious Disease, Rockefeller University, NYC, NY, USA.",
+        "College of Agriculture and Life Sciences, Cornell University, Ithaca, NY, USA.",
+        "College of Agriculture and Life Sciences, Cornell University, Ithaca, NY, USA.",
+        "Department of Pediatric Oncology, Memorial Sloan Kettering Cancer Center, NYC, NY, USA.",
+        "School of Medicine, Stanford University, Stanford, CA, USA.",
+        "Department of Human Genetics, University of Chicago, Chicago, IL, USA. siweij@uchicago.edu.",
+        "Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA.",
+        "Ming Hsieh Department of Electrical and Computer Engineering, Viterbi School of Engineering, University of Southern California, USA.",
+        "Department of Human Genetics, University of Chicago, Chicago, IL, USA. siweij@uchicago.edu.",
+        "Program in Genetics, Genomics and Systems Biology, University of Chicago, Chicago, IL, USA.",
+        "Department of Human Genetics, University of Chicago, Chicago, IL, USA. siweij@uchicago.edu.",
+        "Department of Computer Science, Northwestern University, Evanston, IL, USA.",
+        "Department of Chemical and Nano Engineering, University of California, San Diego, La Jolla, CA, USA. xingcai@stanford.edu.",
+        "Department of Chemical and Nano Engineering, University of California, San Diego, La Jolla, CA, USA. xingcai@stanford.edu.",
+        "School of Medicine, Stanford University, Stanford, CA, USA.",
+        "Department of Chemical and Nano Engineering, University of California, San Diego, La Jolla, CA, USA. xingcai@stanford.edu.",
+        "Department of Materials Science and Engineering, Stanford University, Stanford, CA, USA.",
+        "Department of Biomedical Informatics, Harvard Medical School, Boston, MA, USA. junhanzv@uchicago.edu.",
+        "John A. Paulson School of Engineering and Applied Sciences, Harvard University, Cambridge, MA, USA.",
+        "Division of Health Sciences & Technology, Harvard-Massachusetts Institute of Technology, Massachusetts Institute of Technology, Cambridge, MA, USA.",
+        "College of Engineering, Boston University, Boston, MA, USA.",
+        "College of Letters and Science, University of California, Berkeley, CA, USA.",
+        "School of Information Sciences, University of Illinois Urbana-Champaign, Champaign, IL, USA.",
+        "Department of ICT and Center for AI Research, University of Agder, Norway. th.vasilakos@gmail.com.",
+        "Department of Biomedical Informatics, Harvard Medical School, Boston, MA, USA. junhanzv@uchicago.edu.",
+        "Department of Pediatrics, University of Chicago, IL, USA.",
+        "Comprehensive Cancer Center, UChicago Medicine, Chicago, IL, USA.",
+        "Department of Human Genetics, University of Chicago, Chicago, IL, USA. siweij@uchicago.edu.",
+        "Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA.",
+        "Program in Genetics, Genomics and Systems Biology, University of Chicago, Chicago, IL, USA.",
+        "Department of Chemical and Nano Engineering, University of California, San Diego, La Jolla, CA, USA. xingcai@stanford.edu.",
+        "School of Medicine, Stanford University, Stanford, CA, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "U, Kaicheng",
+        "short_name": "U K",
+        "identifiers": [],
+        "affiliations": [
+          "Tri-Institutional Computational Biology & Medicine, Weill Cornell Medicine, NYC, NY, USA.",
+          "Department of Computational Oncology, Memorial Sloan Kettering Cancer Center, NYC, NY, USA.",
+          "Laboratory of Virology and Infectious Disease, Rockefeller University, NYC, NY, USA.",
+          "College of Agriculture and Life Sciences, Cornell University, Ithaca, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Zhang, Sophia Meixuan",
+        "short_name": "Zhang SM",
+        "identifiers": [],
+        "affiliations": [
+          "College of Agriculture and Life Sciences, Cornell University, Ithaca, NY, USA.",
+          "Department of Pediatric Oncology, Memorial Sloan Kettering Cancer Center, NYC, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Yu, Ziyu",
+        "short_name": "Yu Z",
+        "identifiers": [
+          "0000-0001-7040-9563"
+        ],
+        "affiliations": [
+          "School of Medicine, Stanford University, Stanford, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Zhang, Zechuan",
+        "short_name": "Zhang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Human Genetics, University of Chicago, Chicago, IL, USA. siweij@uchicago.edu.",
+          "Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Zhang, Jianwei",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "Ming Hsieh Department of Electrical and Computer Engineering, Viterbi School of Engineering, University of Southern California, USA."
+        ]
+      },
+      {
+        "full_name": "He, Chang",
+        "short_name": "He C",
+        "identifiers": [
+          "0009-0008-8948-1352"
+        ],
+        "affiliations": [
+          "Department of Human Genetics, University of Chicago, Chicago, IL, USA. siweij@uchicago.edu.",
+          "Program in Genetics, Genomics and Systems Biology, University of Chicago, Chicago, IL, USA."
+        ]
+      },
+      {
+        "full_name": "Liu, Anbang",
+        "short_name": "Liu A",
+        "identifiers": [
+          "0009-0008-6295-4658"
+        ],
+        "affiliations": [
+          "Department of Human Genetics, University of Chicago, Chicago, IL, USA. siweij@uchicago.edu.",
+          "Department of Computer Science, Northwestern University, Evanston, IL, USA."
+        ]
+      },
+      {
+        "full_name": "Chen, Rui",
+        "short_name": "Chen R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical and Nano Engineering, University of California, San Diego, La Jolla, CA, USA. xingcai@stanford.edu."
+        ]
+      },
+      {
+        "full_name": "Wang, Stella",
+        "short_name": "Wang S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical and Nano Engineering, University of California, San Diego, La Jolla, CA, USA. xingcai@stanford.edu."
+        ]
+      },
+      {
+        "full_name": "Yan, Lijie",
+        "short_name": "Yan L",
+        "identifiers": [
+          "0009-0000-4811-9252"
+        ],
+        "affiliations": [
+          "School of Medicine, Stanford University, Stanford, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Ding, Shichao",
+        "short_name": "Ding S",
+        "identifiers": [
+          "0000-0003-3795-306X"
+        ],
+        "affiliations": [
+          "Department of Chemical and Nano Engineering, University of California, San Diego, La Jolla, CA, USA. xingcai@stanford.edu."
+        ]
+      },
+      {
+        "full_name": "Li, Lavonda",
+        "short_name": "Li L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Materials Science and Engineering, Stanford University, Stanford, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Yang, Zongxin",
+        "short_name": "Yang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Informatics, Harvard Medical School, Boston, MA, USA. junhanzv@uchicago.edu."
+        ]
+      },
+      {
+        "full_name": "Xiao, Gao",
+        "short_name": "Xiao G",
+        "identifiers": [
+          "0000-0002-6166-8771"
+        ],
+        "affiliations": [
+          "John A. Paulson School of Engineering and Applied Sciences, Harvard University, Cambridge, MA, USA.",
+          "Division of Health Sciences & Technology, Harvard-Massachusetts Institute of Technology, Massachusetts Institute of Technology, Cambridge, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xushuai",
+        "short_name": "Zhang X",
+        "identifiers": [],
+        "affiliations": [
+          "College of Engineering, Boston University, Boston, MA, USA."
+        ]
+      },
+      {
+        "full_name": "Bao, Kaige",
+        "short_name": "Bao K",
+        "identifiers": [],
+        "affiliations": [
+          "College of Letters and Science, University of California, Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Wang, Haohan",
+        "short_name": "Wang H",
+        "identifiers": [],
+        "affiliations": [
+          "School of Information Sciences, University of Illinois Urbana-Champaign, Champaign, IL, USA."
+        ]
+      },
+      {
+        "full_name": "Vasilakos, Athanasios V",
+        "short_name": "Vasilakos AV",
+        "identifiers": [
+          "0000-0003-1902-9877"
+        ],
+        "affiliations": [
+          "Department of ICT and Center for AI Research, University of Agder, Norway. th.vasilakos@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Zhao, Junhan",
+        "short_name": "Zhao J",
+        "identifiers": [
+          "0000-0002-0316-8365"
+        ],
+        "affiliations": [
+          "Department of Biomedical Informatics, Harvard Medical School, Boston, MA, USA. junhanzv@uchicago.edu.",
+          "Department of Pediatrics, University of Chicago, IL, USA.",
+          "Comprehensive Cancer Center, UChicago Medicine, Chicago, IL, USA."
+        ]
+      },
+      {
+        "full_name": "Chen, Siwei",
+        "short_name": "Chen S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Human Genetics, University of Chicago, Chicago, IL, USA. siweij@uchicago.edu.",
+          "Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA.",
+          "Program in Genetics, Genomics and Systems Biology, University of Chicago, Chicago, IL, USA."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xingcai",
+        "short_name": "Zhang X",
+        "identifiers": [
+          "0000-0001-7114-1095"
+        ],
+        "affiliations": [
+          "Department of Chemical and Nano Engineering, University of California, San Diego, La Jolla, CA, USA. xingcai@stanford.edu.",
+          "School of Medicine, Stanford University, Stanford, CA, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Chemical Society reviews"
+    ],
+    "journal_abbrev": [
+      "Chem Soc Rev"
+    ],
+    "pub_date": "2026 Aug 25",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/08/25 05:34",
+    "fetched_at": "2026-09-08 12:11:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42638493",
+      "42475469",
+      "42364829",
+      "41996874",
+      "42356429",
+      "41709935",
+      "42446537",
+      "40414522",
+      "42535626",
+      "42565648",
+      "42123604",
+      "42198231",
+      "41253282",
+      "41630488",
+      "42058982",
+      "42357559",
+      "42491104",
+      "42031452",
+      "42261175",
+      "41332459",
+      "41758998",
+      "41632854",
+      "42292041",
+      "42344774",
+      "42330856",
+      "41753681",
+      "41977325",
+      "41883140",
+      "42608811",
+      "41766174",
+      "42011244",
+      "42242512",
+      "40919316",
+      "42592200",
+      "42357379",
+      "41778634",
+      "42198370",
+      "42377676",
+      "41939694",
+      "42556018",
+      "34833853",
+      "42482806",
+      "42569261",
+      "41292552",
+      "42530294",
+      "41665230",
+      "37779744",
+      "41272032",
+      "40547666",
+      "40451590",
+      "40524056",
+      "41763192",
+      "41755349",
+      "41375721",
+      "40887314",
+      "41052279",
+      "40553347",
+      "42196328",
+      "40846079",
+      "36321557",
+      "41011141",
+      "40549427",
+      "42007396",
+      "40406131",
+      "42003205",
+      "40725054",
+      "42410671",
+      "42112224",
+      "41065671",
+      "41982233",
+      "33844136",
+      "39797502",
+      "42044246",
+      "40370247",
+      "42031077",
+      "41389441",
+      "42570881",
+      "41426328",
+      "40008227",
+      "41806059",
+      "35433167",
+      "41653969",
+      "40887563",
+      "40571275",
+      "39819404",
+      "42562990",
+      "41052751",
+      "41025068",
+      "40087789",
+      "38964243",
+      "42450185",
+      "42107050",
+      "42491247",
+      "42153319",
+      "42575519",
+      "42075869",
+      "41832735",
+      "41318024",
+      "40898015",
+      "41970029"
+    ],
+    "review": [
+      "42638493",
+      "42364829",
+      "41996874",
+      "42356429",
+      "41709935",
+      "42446537",
+      "40414522",
+      "42535626",
+      "42565648",
+      "42123604",
+      "42198231",
+      "41253282",
+      "41630488",
+      "42058982",
+      "42357559",
+      "42491104",
+      "42031452",
+      "41332459",
+      "41632854",
+      "42292041",
+      "42344774",
+      "42330856",
+      "41753681",
+      "41977325",
+      "41883140",
+      "42608811",
+      "41766174",
+      "42011244",
+      "42242512",
+      "40919316",
+      "42592200",
+      "42357379",
+      "41778634",
+      "42198370",
+      "42377676",
+      "41939694",
+      "42556018",
+      "34833853",
+      "42482806",
+      "42569261",
+      "41292552",
+      "42530294",
+      "41665230",
+      "37779744",
+      "41272032",
+      "40547666",
+      "40451590",
+      "40524056",
+      "41763192",
+      "41755349",
+      "41375721",
+      "40887314",
+      "41052279",
+      "42196328",
+      "40846079",
+      "36321557",
+      "41011141",
+      "40549427",
+      "42007396",
+      "40406131",
+      "42003205",
+      "40725054",
+      "42112224",
+      "41065671",
+      "41982233",
+      "33844136",
+      "39797502",
+      "40370247",
+      "42031077",
+      "41389441",
+      "42570881",
+      "41426328",
+      "40008227",
+      "41806059",
+      "35433167",
+      "41653969",
+      "40887563",
+      "40571275",
+      "39819404",
+      "41052751",
+      "41025068",
+      "40087789",
+      "38964243",
+      "42450185",
+      "42107050",
+      "42491247",
+      "42153319",
+      "42575519",
+      "42075869",
+      "41318024",
+      "40898015",
+      "41970029"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1039/d5cs01469g",
+        "provider": "Royal Society of Chemistry",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1548",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

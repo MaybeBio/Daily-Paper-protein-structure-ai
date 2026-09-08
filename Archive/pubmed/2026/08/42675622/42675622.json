@@ -1,0 +1,206 @@
+{
+  "identity": {
+    "pmid": "42675622",
+    "doi": "10.1093/bioinformatics/btag654",
+    "title": "Design of peptides with non-canonical amino acids using flow matching."
+  },
+  "content": {
+    "abstract": "MOTIVATION: The canonical vocabulary of twenty amino acids limits the chemical space available to proteins and peptides. Expanding this vocabulary to hundreds of non-canonical amino acids (ncAAs) allows the engineering of proteins with novel function and activity, and is of particular interest for therapeutic peptides such as macrocycles, where ncAAs can improve proteolytic stability, membrane permeability and immunogenicity. However, existing structure-based design tools either cannot model ncAAs at all, or are restricted to a small, fixed vocabulary of ncAAs seen during training, and ncAA data in the Protein Data Bank is scarce and heavily biased. RESULTS: We present NCFlow, a flow matching generative model that places any arbitrary ncAA into a given protein backbone using only its atom types and bond connectivity, and therefore generalizes to ncAAs never seen during training. To supplement sparse training data in the Protein Data Bank, NCFlow is pretrained on millions of small molecule structures and a large set of protein-ligand complexes before finetuning on native non-canonicals found within proteins. NCFlow outperforms AlphaFold3-based methods in the structure prediction of unseen non-canonical amino acids. We further present a peptide design pipeline akin to in silico deep mutational scanning, and propose a scoring strategy combining deep learning-based and molecular dynamics-based alchemical binding free energy calculations to identify improved peptide variants. We apply the method on four protein-peptide complex test cases, and observe that incorporating non-canonicals can improve predicted binding affinity by up to -7.0 kcal/mol. AVAILABILITY AND IMPLEMENTATION: NCFlow is freely available at https://github.com/mjslee0921/ncflow. SUPPLEMENTARY INFORMATION: Supplementary data are available at Bioinformatics online.",
+    "keywords": [
+      "binding affinity",
+      "flow matching",
+      "generative models",
+      "non-canonical amino acids",
+      "peptide design"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Lee, Jin Sub",
+        "Kim, Philip M"
+      ],
+      "short_names": [
+        "Lee JS",
+        "Kim PM"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Molecular Genetics, University of Toronto, Toronto, Ontario, Canada.",
+        "Department of Molecular Genetics, University of Toronto, Toronto, Ontario, Canada.",
+        "Department of Computer Science, University of Toronto, Toronto, Ontario, Canada."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Lee, Jin Sub",
+        "short_name": "Lee JS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Genetics, University of Toronto, Toronto, Ontario, Canada."
+        ]
+      },
+      {
+        "full_name": "Kim, Philip M",
+        "short_name": "Kim PM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Genetics, University of Toronto, Toronto, Ontario, Canada.",
+          "Department of Computer Science, University of Toronto, Toronto, Ontario, Canada."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Bioinformatics (Oxford, England)"
+    ],
+    "journal_abbrev": [
+      "Bioinformatics"
+    ],
+    "pub_date": "2026 Aug 31",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/01 05:41",
+    "fetched_at": "2026-09-08 12:10:34"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42675622",
+      "36512534",
+      "41789985",
+      "41984615",
+      "41962133",
+      "42076870",
+      "40748324",
+      "35495632",
+      "40577315",
+      "39605664",
+      "42468337",
+      "41266031",
+      "22431978",
+      "29108013",
+      "33117774",
+      "40248248",
+      "36651657",
+      "36124801",
+      "31161213",
+      "39895111",
+      "36377772",
+      "41524971",
+      "42289978",
+      "39684267",
+      "35604077",
+      "40598389",
+      "37016190",
+      "35723743",
+      "36258137",
+      "29781997",
+      "31510651",
+      "33482061",
+      "39792834",
+      "37197469",
+      "40662794",
+      "35711629",
+      "39656969",
+      "41317068",
+      "34681855",
+      "40093079",
+      "37486975",
+      "33226061",
+      "28882005",
+      "34849593",
+      "31598630",
+      "33985583",
+      "28803466",
+      "29028926",
+      "37904802",
+      "41796802",
+      "16723006",
+      "41792915",
+      "42184281",
+      "32793583",
+      "27287023",
+      "32797179",
+      "40223692",
+      "31830252",
+      "41394077",
+      "34325793",
+      "21815659",
+      "36321557",
+      "33704363",
+      "38626119",
+      "42475469",
+      "16873476",
+      "31226791",
+      "42510433",
+      "38415656",
+      "28361672",
+      "30713681",
+      "24932669",
+      "38262069",
+      "42441732",
+      "39217687",
+      "30423097",
+      "41088767",
+      "36370045",
+      "28444127",
+      "39150724",
+      "38446072",
+      "35758790",
+      "21214225",
+      "26690490",
+      "34096999",
+      "31917413",
+      "40828893",
+      "42559916",
+      "39965912",
+      "34252932",
+      "40195868",
+      "32053156",
+      "41214817",
+      "36688724",
+      "23912807",
+      "41327455",
+      "36897290",
+      "34664614",
+      "37540201",
+      "39005429"
+    ],
+    "review": [
+      "42675622",
+      "33117774",
+      "37197469",
+      "41317068",
+      "41796802",
+      "41792915",
+      "32793583",
+      "36321557",
+      "42510433",
+      "38262069",
+      "39150724"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btag654",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

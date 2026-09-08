@@ -1,0 +1,284 @@
+{
+  "identity": {
+    "pmid": "42700562",
+    "doi": "10.1016/j.foodchem.2026.150959",
+    "title": "Self-assembly non-covalent binding mechanism of lycopene-protein-chondroitin sulfate ternary nanoparticles: Multidimensional characterization and molecular dynamics simulation."
+  },
+  "content": {
+    "abstract": "To overcome lycopene's (LYC's) poor water solubility, oxidative instability, and low bioaccessibility, chondroitin sulfate (CS) was used as a stabilizing layer to construct LYC-Protein-CS nanoparticles (LYC-Protein-CS NPs) using different proteins. Their structures and delivery performance were compared to clarify how protein structure influences the delivery of lipophilic bioactives. Zein's layered folding and hydrophobic-hydrophilic partitioning promoted assembly with CS, forming a compact core-shell network. Consequently, LYC-Zein-CS showed superior encapsulation, dispersion stability, antioxidant activity, and gastrointestinal release behavior. Compared with free LYC, this system increased apparent bioaccessibility by 12.95-fold in the gastric phase and 14.87-fold in the intestinal phase during simulated digestion. These findings reveal how protein structural differences regulate the performance of protein-polysaccharide nanoparticles and provide theoretical and technical insights into the precise design and practical application of delivery systems for LYC and other lipophilic bioactive compounds.",
+    "keywords": [
+      "Chondroitin sulfate",
+      "Lycopene",
+      "Protein-polysaccharide nanoparticles",
+      "Stability"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yan, Weiyu",
+        "Cui, Qian",
+        "Qiu, Tian",
+        "Liang, Xiaofu",
+        "Xu, Mengju",
+        "Qiu, Zijian",
+        "Guo, Meijia",
+        "Zhang, Yongmin",
+        "Zhou, Jiaping",
+        "Li, Mingyuan"
+      ],
+      "short_names": [
+        "Yan W",
+        "Cui Q",
+        "Qiu T",
+        "Liang X",
+        "Xu M",
+        "Qiu Z",
+        "Guo M",
+        "Zhang Y",
+        "Zhou J",
+        "Li M"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Tianjin International Cooperation Research Centre of Food Nutrition/Safety and Medicinal Chemistry, College of Biotechnology, Tianjin University of Science & Technology, Tianjin 300457, China.",
+        "Tianjin International Cooperation Research Centre of Food Nutrition/Safety and Medicinal Chemistry, College of Biotechnology, Tianjin University of Science & Technology, Tianjin 300457, China.",
+        "Tianjin International Cooperation Research Centre of Food Nutrition/Safety and Medicinal Chemistry, College of Biotechnology, Tianjin University of Science & Technology, Tianjin 300457, China.",
+        "Tianjin International Cooperation Research Centre of Food Nutrition/Safety and Medicinal Chemistry, College of Biotechnology, Tianjin University of Science & Technology, Tianjin 300457, China.",
+        "Tianjin International Cooperation Research Centre of Food Nutrition/Safety and Medicinal Chemistry, College of Biotechnology, Tianjin University of Science & Technology, Tianjin 300457, China.",
+        "Tianjin International Cooperation Research Centre of Food Nutrition/Safety and Medicinal Chemistry, College of Biotechnology, Tianjin University of Science & Technology, Tianjin 300457, China.",
+        "Tianjin International Cooperation Research Centre of Food Nutrition/Safety and Medicinal Chemistry, College of Biotechnology, Tianjin University of Science & Technology, Tianjin 300457, China.",
+        "Sorbonne Universite, CNRS, Institut Parisien de Chimie Moleculaire, UMR 8232, 4 Place Jussieu, 75005, Paris, France.",
+        "Tianjin International Cooperation Research Centre of Food Nutrition/Safety and Medicinal Chemistry, College of Biotechnology, Tianjin University of Science & Technology, Tianjin 300457, China.",
+        "Tianjin International Cooperation Research Centre of Food Nutrition/Safety and Medicinal Chemistry, College of Biotechnology, Tianjin University of Science & Technology, Tianjin 300457, China.. Electronic address: ddsnano611@163.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yan, Weiyu",
+        "short_name": "Yan W",
+        "identifiers": [],
+        "affiliations": [
+          "Tianjin International Cooperation Research Centre of Food Nutrition/Safety and Medicinal Chemistry, College of Biotechnology, Tianjin University of Science & Technology, Tianjin 300457, China."
+        ]
+      },
+      {
+        "full_name": "Cui, Qian",
+        "short_name": "Cui Q",
+        "identifiers": [],
+        "affiliations": [
+          "Tianjin International Cooperation Research Centre of Food Nutrition/Safety and Medicinal Chemistry, College of Biotechnology, Tianjin University of Science & Technology, Tianjin 300457, China."
+        ]
+      },
+      {
+        "full_name": "Qiu, Tian",
+        "short_name": "Qiu T",
+        "identifiers": [],
+        "affiliations": [
+          "Tianjin International Cooperation Research Centre of Food Nutrition/Safety and Medicinal Chemistry, College of Biotechnology, Tianjin University of Science & Technology, Tianjin 300457, China."
+        ]
+      },
+      {
+        "full_name": "Liang, Xiaofu",
+        "short_name": "Liang X",
+        "identifiers": [],
+        "affiliations": [
+          "Tianjin International Cooperation Research Centre of Food Nutrition/Safety and Medicinal Chemistry, College of Biotechnology, Tianjin University of Science & Technology, Tianjin 300457, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Mengju",
+        "short_name": "Xu M",
+        "identifiers": [],
+        "affiliations": [
+          "Tianjin International Cooperation Research Centre of Food Nutrition/Safety and Medicinal Chemistry, College of Biotechnology, Tianjin University of Science & Technology, Tianjin 300457, China."
+        ]
+      },
+      {
+        "full_name": "Qiu, Zijian",
+        "short_name": "Qiu Z",
+        "identifiers": [],
+        "affiliations": [
+          "Tianjin International Cooperation Research Centre of Food Nutrition/Safety and Medicinal Chemistry, College of Biotechnology, Tianjin University of Science & Technology, Tianjin 300457, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Meijia",
+        "short_name": "Guo M",
+        "identifiers": [],
+        "affiliations": [
+          "Tianjin International Cooperation Research Centre of Food Nutrition/Safety and Medicinal Chemistry, College of Biotechnology, Tianjin University of Science & Technology, Tianjin 300457, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yongmin",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Sorbonne Université, CNRS, Institut Parisien de Chimie Moléculaire, UMR 8232, 4 Place Jussieu, 75005, Paris, France."
+        ]
+      },
+      {
+        "full_name": "Zhou, Jiaping",
+        "short_name": "Zhou J",
+        "identifiers": [],
+        "affiliations": [
+          "Tianjin International Cooperation Research Centre of Food Nutrition/Safety and Medicinal Chemistry, College of Biotechnology, Tianjin University of Science & Technology, Tianjin 300457, China."
+        ]
+      },
+      {
+        "full_name": "Li, Mingyuan",
+        "short_name": "Li M",
+        "identifiers": [],
+        "affiliations": [
+          "Tianjin International Cooperation Research Centre of Food Nutrition/Safety and Medicinal Chemistry, College of Biotechnology, Tianjin University of Science & Technology, Tianjin 300457, China.. Electronic address: ddsnano611@163.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Food chemistry"
+    ],
+    "journal_abbrev": [
+      "Food Chem"
+    ],
+    "pub_date": "2026 Sep 3",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/06 01:18",
+    "fetched_at": "2026-09-08 12:10:34"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42700562",
+      "42330624",
+      "40882746",
+      "38876589",
+      "41397590",
+      "42475469",
+      "39662570",
+      "39698569",
+      "41616438",
+      "41332992",
+      "38009805",
+      "41360525",
+      "40618797",
+      "32400776",
+      "42468586",
+      "33181219",
+      "34261306",
+      "41708022",
+      "41222833",
+      "41579994",
+      "42308945",
+      "42309456",
+      "41421692",
+      "37257529",
+      "42208436",
+      "36184131",
+      "42521399",
+      "42629082",
+      "39799611",
+      "40977970",
+      "42361710",
+      "37562259",
+      "42531635",
+      "39063387",
+      "42225040",
+      "32469014",
+      "41886988",
+      "39255893",
+      "34628117",
+      "33278965",
+      "28103046",
+      "39647755",
+      "42600295",
+      "38928779",
+      "36863232",
+      "42354404",
+      "41723949",
+      "42475983",
+      "42551122",
+      "36220972",
+      "40927872",
+      "31717559",
+      "39814290",
+      "40716409",
+      "29807160",
+      "31306703",
+      "37244348",
+      "41376099",
+      "40482745",
+      "41795413",
+      "23912807",
+      "31626537",
+      "21742066",
+      "34115089",
+      "41302514",
+      "29715533",
+      "42680303",
+      "41679868",
+      "41713337",
+      "39731719",
+      "38288644",
+      "40907595",
+      "41167078",
+      "39864681",
+      "33049899",
+      "42636939",
+      "40316080",
+      "41618745",
+      "33735775",
+      "36101024",
+      "35063851",
+      "41421064",
+      "40286715",
+      "36561330",
+      "34753075",
+      "38892083",
+      "32025676",
+      "33915467",
+      "42495696",
+      "40194571",
+      "40263867",
+      "41265082",
+      "31610115",
+      "41465015",
+      "31590861",
+      "42186186",
+      "28693957",
+      "39946915",
+      "34396458",
+      "41660890"
+    ],
+    "review": [
+      "42700562",
+      "42361710",
+      "39063387",
+      "42186186"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0308-8146(26)03119-5",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

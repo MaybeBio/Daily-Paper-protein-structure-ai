@@ -1,0 +1,294 @@
+{
+  "identity": {
+    "pmid": "42270236",
+    "doi": "10.1016/j.foodres.2026.119522",
+    "title": "Mechanism of rice protein amyloid fibrils-induced structural changes of soybean protein during high-moisture extrusion: Focusing on multi-scale structural evolution."
+  },
+  "content": {
+    "abstract": "The application of protein amyloid fibrils in plant-based meat alternatives (PBMA) has attracted increasing attention because of its greater ability to form fibers. Nevertheless, the mechanism by which protein amyloid fibrils affect the multi-scale structure of soybean protein isolate (SPI) during extrusion remains unclear. This study investigated regulatory effects of rice protein amyloid fibrils (RF) on multi-scale structural evolution of SPI across the high-moisture extrusion process. In the mixing zone, RF did not cause significant influence on the secondary structure, tertiary structure and subunit composition of SPI. The beta-sheet content increased from 38.51% to 47.19% when SPI reached from melting zone to extrudate, whereas its surface hydrophobicity showed a decreasing trend. Incorporating RF exacerbated aforementioned trend. Subunits (< 19kDa) proportion of SPI remained stable at around 37% while adding RF reduced subunits (< 19kDa) proportion within SPI during extrusion, especially for the extrudate (33.35%). Additionally, RF affected unfolding and rearrangement of the tertiary structure of SPI when materials moved from melting zone to extrudate as evidenced by alterations on the microenvironment of hydrophobic and aromatic amino acids. The order of importance for maintaining protein structure was as follows: disulfide bonds > hydrophobic interaction > hydrogen bonds > ionic bonds, and the addition of RF affected the strength of above intermolecular forces. Furthermore, molecular dynamic simulations demonstrated that the impact of RF on structures of SPI mainly occurred in melting zone and subsequent zones. These findings would be useful for producing PBMA by incorporating RF.",
+    "keywords": [
+      "High-moisture extrusion",
+      "Protein-protein interaction",
+      "Rice protein amyloid fibril",
+      "Soy protein isolate",
+      "Structural evolution"
+    ],
+    "mesh_terms": [
+      "*Soybean Proteins/chemistry",
+      "*Oryza/chemistry",
+      "Hydrophobic and Hydrophilic Interactions",
+      "*Amyloid/chemistry",
+      "*Plant Proteins/chemistry",
+      "Meat Substitutes",
+      "Food, Processed",
+      "Protein Structure, Secondary",
+      "*Food Handling/methods",
+      "Protein Conformation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ma, Jinming",
+        "Li, Kaizhi",
+        "Pan, Deyin",
+        "Wang, Peng",
+        "Hassan, Mohamed E",
+        "Yang, Wenyi",
+        "Zhang, Tianshu",
+        "Yu, Xiaoshuai",
+        "Lu, Baoxin",
+        "Xiao, Zhigang"
+      ],
+      "short_names": [
+        "Ma J",
+        "Li K",
+        "Pan D",
+        "Wang P",
+        "Hassan ME",
+        "Yang W",
+        "Zhang T",
+        "Yu X",
+        "Lu B",
+        "Xiao Z"
+      ],
+      "auids": [],
+      "affiliations": [
+        "College of Food Science and Technology, Bohai University, Jinzhou 121013, China; College of Food Science, Heilongjiang Bayi Agricultural University, Daqing 163319, China.",
+        "College of Food Science and Technology, Bohai University, Jinzhou 121013, China.",
+        "College of Food Science, Heilongjiang Bayi Agricultural University, Daqing 163319, China.",
+        "College of Food Science and Technology, Bohai University, Jinzhou 121013, China.",
+        "Chemistry of Natural and Microbial Products Department, Pharmaceutical and Drug Industries Research Institute, National Research Centre, Dokki, Giza 12622, Egypt.",
+        "College of Food Science, Heilongjiang Bayi Agricultural University, Daqing 163319, China.",
+        "College of Food Science, Heilongjiang Bayi Agricultural University, Daqing 163319, China.",
+        "College of Food Science and Technology, Bohai University, Jinzhou 121013, China; College of Food Science, Heilongjiang Bayi Agricultural University, Daqing 163319, China. Electronic address: yuxiaoshuaistu@163.com.",
+        "College of Food Science, Heilongjiang Bayi Agricultural University, Daqing 163319, China. Electronic address: lubaoxin72@126.com.",
+        "College of Food Science and Technology, Bohai University, Jinzhou 121013, China. Electronic address: zhigang_xiao@126.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ma, Jinming",
+        "short_name": "Ma J",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science and Technology, Bohai University, Jinzhou 121013, China; College of Food Science, Heilongjiang Bayi Agricultural University, Daqing 163319, China."
+        ]
+      },
+      {
+        "full_name": "Li, Kaizhi",
+        "short_name": "Li K",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science and Technology, Bohai University, Jinzhou 121013, China."
+        ]
+      },
+      {
+        "full_name": "Pan, Deyin",
+        "short_name": "Pan D",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science, Heilongjiang Bayi Agricultural University, Daqing 163319, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Peng",
+        "short_name": "Wang P",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science and Technology, Bohai University, Jinzhou 121013, China."
+        ]
+      },
+      {
+        "full_name": "Hassan, Mohamed E",
+        "short_name": "Hassan ME",
+        "identifiers": [],
+        "affiliations": [
+          "Chemistry of Natural and Microbial Products Department, Pharmaceutical and Drug Industries Research Institute, National Research Centre, Dokki, Giza 12622, Egypt."
+        ]
+      },
+      {
+        "full_name": "Yang, Wenyi",
+        "short_name": "Yang W",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science, Heilongjiang Bayi Agricultural University, Daqing 163319, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Tianshu",
+        "short_name": "Zhang T",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science, Heilongjiang Bayi Agricultural University, Daqing 163319, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Xiaoshuai",
+        "short_name": "Yu X",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science and Technology, Bohai University, Jinzhou 121013, China; College of Food Science, Heilongjiang Bayi Agricultural University, Daqing 163319, China. Electronic address: yuxiaoshuaistu@163.com."
+        ]
+      },
+      {
+        "full_name": "Lu, Baoxin",
+        "short_name": "Lu B",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science, Heilongjiang Bayi Agricultural University, Daqing 163319, China. Electronic address: lubaoxin72@126.com."
+        ]
+      },
+      {
+        "full_name": "Xiao, Zhigang",
+        "short_name": "Xiao Z",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science and Technology, Bohai University, Jinzhou 121013, China. Electronic address: zhigang_xiao@126.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Food research international (Ottawa, Ont.)"
+    ],
+    "journal_abbrev": [
+      "Food Res Int"
+    ],
+    "pub_date": "2026 Sep 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/06/11 05:43",
+    "fetched_at": "2026-09-08 12:12:00"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42270236",
+      "41539816",
+      "41354381",
+      "41178157",
+      "41014085",
+      "40583898",
+      "39098220",
+      "36914358",
+      "39797507",
+      "41502215",
+      "38218146",
+      "38631588",
+      "40263798",
+      "39528204",
+      "37116442",
+      "41539818",
+      "35802980",
+      "35101280",
+      "39566339",
+      "41101414",
+      "42215099",
+      "36704898",
+      "40356092",
+      "37478603",
+      "41267277",
+      "41565132",
+      "35217462",
+      "41529564",
+      "37803792",
+      "40306808",
+      "35840247",
+      "41352781",
+      "37591439",
+      "39520886",
+      "40543769",
+      "39229832",
+      "39486697",
+      "38431397",
+      "41703868",
+      "30544764",
+      "30033456",
+      "33576008",
+      "41643957",
+      "39643455",
+      "42083183",
+      "40505921",
+      "37951451",
+      "41418549",
+      "39523685",
+      "37115040",
+      "33336789",
+      "39799681",
+      "37742511",
+      "36360142",
+      "31453702",
+      "22515242",
+      "39805443",
+      "39967163",
+      "40112966",
+      "39460513",
+      "39276553",
+      "35338503",
+      "38905842",
+      "39579406",
+      "40754688",
+      "38823863",
+      "32006578",
+      "41956664",
+      "39029364",
+      "41942238",
+      "38569996",
+      "35510685",
+      "40250299",
+      "38658073",
+      "35651098",
+      "40558088",
+      "39956067",
+      "40610193",
+      "21919519",
+      "29736983",
+      "36309958",
+      "39706114",
+      "41508797",
+      "35092622",
+      "39967084",
+      "40356163",
+      "41763812",
+      "41763751",
+      "40790692",
+      "38513491",
+      "29579967",
+      "40946576",
+      "41100986",
+      "21761818",
+      "29287453",
+      "41412633",
+      "39946912",
+      "32527482",
+      "41046734",
+      "30064791"
+    ],
+    "review": [
+      "42270236",
+      "39029364"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0963-9969(26)01205-6",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

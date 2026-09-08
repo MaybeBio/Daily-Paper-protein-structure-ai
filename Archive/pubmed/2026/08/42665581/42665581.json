@@ -1,0 +1,365 @@
+{
+  "identity": {
+    "pmid": "42665581",
+    "doi": "10.1038/s41467-026-76697-9",
+    "title": "A programmable lipid-triggered allosteric site modulates LC3 LIR receptor binding activity."
+  },
+  "content": {
+    "abstract": "Membrane recruitment is a fundamental regulator of protein function. However, the allosteric mechanisms by which lipid binding controls protein activity remain poorly understood. In autophagy, the ubiquitin-like protein LC3 is lipid-anchored to autophagosomes, where it is essential for receptor recruitment and vesicle formation. While LC3-receptor interactions are structurally well defined, how membrane engagement governs LC3 functional dynamics has remained enigmatic. Here, we uncover that membrane binding triggers a major conformational transition in LC3, exposing functional pockets that are occluded in its cytosolic form. We demonstrate that this shift is mediated by dynamic coupling between the allosteric site (alpha3-loop5-beta3-loop6) and the functional binding pockets. To conclusively test this mechanism, we utilised an ensemble-based protein design strategy guided by molecular dynamics to engineer the allosteric site. From a series of mutants, two variants emerged that stabilized LC3 conformation in either active or inactive state on the membrane. X-ray crystal structures of mutant LC3, biophysical assays, super-resolution microscopy, and TEM confirmed that the activated allosteric site mutant facilitates receptor binding and cargo capture. In contrast, the inactive variant is functionally inert on the membrane. Our work identifies a fundamental lipid-triggered allosteric site in LC3 that is critical for autophagy regulation and broader implications of membrane-dependent reprogrammable protein activities.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Microtubule-Associated Proteins/metabolism/genetics/chemistry",
+      "Protein Binding",
+      "*Allosteric Site",
+      "Autophagy",
+      "Humans",
+      "Crystallography, X-Ray",
+      "Molecular Dynamics Simulation",
+      "Protein Conformation",
+      "Autophagosomes/metabolism",
+      "Lipids/chemistry",
+      "Animals",
+      "Mutation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Gahlot, Deepanshi",
+        "Castin, Jesu",
+        "Mathur, Shruti",
+        "Das, Debajyoti",
+        "Kumar, Ajit",
+        "Arun, Akanksha",
+        "Gain, Chandrima",
+        "Sharma, Mridul",
+        "Pal, Ravi Kant",
+        "Jain, Niyati",
+        "Biswal, Bichitra K",
+        "Singh, Rajat",
+        "Thukral, Lipi"
+      ],
+      "short_names": [
+        "Gahlot D",
+        "Castin J",
+        "Mathur S",
+        "Das D",
+        "Kumar A",
+        "Arun A",
+        "Gain C",
+        "Sharma M",
+        "Pal RK",
+        "Jain N",
+        "Biswal BK",
+        "Singh R",
+        "Thukral L"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-2681-8818",
+        "ORCID: 0000-0002-5927-3244",
+        "ORCID: 0000-0001-9389-8574",
+        "ORCID: 0000-0002-1961-039X"
+      ],
+      "affiliations": [
+        "CSIR-Institute of Genomics and Integrative Biology, New Delhi, India.",
+        "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, India.",
+        "CSIR-Institute of Genomics and Integrative Biology, New Delhi, India.",
+        "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, India.",
+        "CSIR-Institute of Genomics and Integrative Biology, New Delhi, India.",
+        "Department of Medicine, University of California, Los Angeles, Los Angeles, CA, USA.",
+        "CSIR-Institute of Genomics and Integrative Biology, New Delhi, India.",
+        "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, India.",
+        "CSIR-Institute of Genomics and Integrative Biology, New Delhi, India.",
+        "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, India.",
+        "Department of Medicine, University of California, Los Angeles, Los Angeles, CA, USA.",
+        "Department of Medicine, University of California, Los Angeles, Los Angeles, CA, USA.",
+        "National Institute of Immunology, New Delhi, India.",
+        "CSIR-Institute of Genomics and Integrative Biology, New Delhi, India.",
+        "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, India.",
+        "Trivedi School of Biosciences, Ashoka University, Sonipat, Haryana, India.",
+        "National Institute of Immunology, New Delhi, India.",
+        "Department of Medicine, University of California, Los Angeles, Los Angeles, CA, USA.",
+        "Comprehensive Liver Research Center, The University of California, Los Angeles, Los Angeles, CA, USA.",
+        "CSIR-Institute of Genomics and Integrative Biology, New Delhi, India. lipi.thukral@igib.res.in.",
+        "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, India. lipi.thukral@igib.res.in."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Gahlot, Deepanshi",
+        "short_name": "Gahlot D",
+        "identifiers": [
+          "0000-0002-2681-8818"
+        ],
+        "affiliations": [
+          "CSIR-Institute of Genomics and Integrative Biology, New Delhi, India.",
+          "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, India."
+        ]
+      },
+      {
+        "full_name": "Castin, Jesu",
+        "short_name": "Castin J",
+        "identifiers": [],
+        "affiliations": [
+          "CSIR-Institute of Genomics and Integrative Biology, New Delhi, India.",
+          "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, India."
+        ]
+      },
+      {
+        "full_name": "Mathur, Shruti",
+        "short_name": "Mathur S",
+        "identifiers": [],
+        "affiliations": [
+          "CSIR-Institute of Genomics and Integrative Biology, New Delhi, India."
+        ]
+      },
+      {
+        "full_name": "Das, Debajyoti",
+        "short_name": "Das D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine, University of California, Los Angeles, Los Angeles, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Kumar, Ajit",
+        "short_name": "Kumar A",
+        "identifiers": [],
+        "affiliations": [
+          "CSIR-Institute of Genomics and Integrative Biology, New Delhi, India.",
+          "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, India."
+        ]
+      },
+      {
+        "full_name": "Arun, Akanksha",
+        "short_name": "Arun A",
+        "identifiers": [],
+        "affiliations": [
+          "CSIR-Institute of Genomics and Integrative Biology, New Delhi, India.",
+          "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, India."
+        ]
+      },
+      {
+        "full_name": "Gain, Chandrima",
+        "short_name": "Gain C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine, University of California, Los Angeles, Los Angeles, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Sharma, Mridul",
+        "short_name": "Sharma M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicine, University of California, Los Angeles, Los Angeles, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Pal, Ravi Kant",
+        "short_name": "Pal RK",
+        "identifiers": [],
+        "affiliations": [
+          "National Institute of Immunology, New Delhi, India."
+        ]
+      },
+      {
+        "full_name": "Jain, Niyati",
+        "short_name": "Jain N",
+        "identifiers": [],
+        "affiliations": [
+          "CSIR-Institute of Genomics and Integrative Biology, New Delhi, India.",
+          "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, India.",
+          "Trivedi School of Biosciences, Ashoka University, Sonipat, Haryana, India."
+        ]
+      },
+      {
+        "full_name": "Biswal, Bichitra K",
+        "short_name": "Biswal BK",
+        "identifiers": [
+          "0000-0002-5927-3244"
+        ],
+        "affiliations": [
+          "National Institute of Immunology, New Delhi, India."
+        ]
+      },
+      {
+        "full_name": "Singh, Rajat",
+        "short_name": "Singh R",
+        "identifiers": [
+          "0000-0001-9389-8574"
+        ],
+        "affiliations": [
+          "Department of Medicine, University of California, Los Angeles, Los Angeles, CA, USA.",
+          "Comprehensive Liver Research Center, The University of California, Los Angeles, Los Angeles, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Thukral, Lipi",
+        "short_name": "Thukral L",
+        "identifiers": [
+          "0000-0002-1961-039X"
+        ],
+        "affiliations": [
+          "CSIR-Institute of Genomics and Integrative Biology, New Delhi, India. lipi.thukral@igib.res.in.",
+          "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, India. lipi.thukral@igib.res.in."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Aug 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/08/29 05:35",
+    "fetched_at": "2026-09-08 12:11:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42665581",
+      "40320752",
+      "39587067",
+      "30661429",
+      "19021777",
+      "33783314",
+      "31208283",
+      "24290141",
+      "30767704",
+      "19322194",
+      "30990354",
+      "26468287",
+      "31310766",
+      "28442745",
+      "28470758",
+      "28165849",
+      "39665531",
+      "30955882",
+      "20204693",
+      "12890687",
+      "15187094",
+      "37896786",
+      "31914609",
+      "34689707",
+      "39694607",
+      "27681633",
+      "28320742",
+      "39809444",
+      "27540684",
+      "28253953",
+      "34562084",
+      "30679426",
+      "38732174",
+      "31932738",
+      "33949974",
+      "21460636",
+      "25294927",
+      "41361996",
+      "28395732",
+      "29142222",
+      "31578424",
+      "31362979",
+      "39236246",
+      "41405403",
+      "32437499",
+      "42163447",
+      "19398890",
+      "22170151",
+      "37395461",
+      "24404161",
+      "31213539",
+      "35000542",
+      "39087410",
+      "28291748",
+      "27158844",
+      "22082875",
+      "28821708",
+      "27791457",
+      "30982432",
+      "25955014",
+      "36729310",
+      "21620860",
+      "41895482",
+      "39940005",
+      "33738925",
+      "31315929",
+      "37062893",
+      "30767700",
+      "40383937",
+      "34505572",
+      "28598235",
+      "40628661",
+      "26789764",
+      "12051945",
+      "26588566",
+      "30806153",
+      "39787789",
+      "30853400",
+      "42645187",
+      "26902585",
+      "40704964",
+      "31857374",
+      "20713600",
+      "30339916",
+      "40033051",
+      "34836490",
+      "33845085",
+      "22421968",
+      "40016203",
+      "27409812",
+      "34152791",
+      "18653543",
+      "32401566",
+      "29844234",
+      "39128005",
+      "25484089",
+      "33536342",
+      "18321988",
+      "25343534",
+      "37896850"
+    ],
+    "review": [
+      "42665581",
+      "31310766",
+      "35000542",
+      "33738925",
+      "40704964",
+      "34152791"
+    ],
+    "pmc": [
+      "13524937"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-76697-9",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42665581/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

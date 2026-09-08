@@ -1,0 +1,119 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.08.26.747321",
+  "title": "PathFold: Predicting the Entire Protein Folding Pathway from Protein Sequence Alone",
+  "doi": "10.64898/2026.08.26.747321",
+  "abstract": "Recent advances in protein structure prediction, exemplified by AlphaFold, have largely addressed the determination of static structures, one aspect of the protein folding problem. However, predicting folding pathways, by which proteins reach their native states, remains a significant challenge. Here, we present PathFold, a deep learning framework that predicts protein folding pathways directly from sequence information. PathFold leverages an AlphaFold-based module to extract structural information from the sequence and generates a progressive folding trajectory from an extended conformation using a diffusion model. By modeling the full trajectory, it enables prediction of folding intermediates and transition pathways, analogous to those observed in steered molecular dynamics (SMD) simulations. The predicted pathways reveal well-defined intermediates and sequential folding events, and show agreement with experimental folding data, including measured Φ-values.",
+  "authors": [
+    "Zhang Z",
+    "Ibtehaz N",
+    "Kagaya Y",
+    "Xu Z",
+    "Punuru P",
+    "Kihara D"
+  ],
+  "published_date": "2026-08-28",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.08.26.747321",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.08.26.747321.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1308086",
+    "raw_record": {
+      "id": "PPR1308086",
+      "source": "PPR",
+      "doi": "10.64898/2026.08.26.747321",
+      "title": "PathFold: Predicting the Entire Protein Folding Pathway from Protein Sequence Alone",
+      "authorString": "Zhang Z, Ibtehaz N, Kagaya Y, Xu Z, Punuru P, Kihara D.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Zhang Z",
+            "firstName": "Zicong",
+            "lastName": "Zhang",
+            "initials": "Z"
+          },
+          {
+            "fullName": "Ibtehaz N",
+            "firstName": "Nabil",
+            "lastName": "Ibtehaz",
+            "initials": "N"
+          },
+          {
+            "fullName": "Kagaya Y",
+            "firstName": "Yuki",
+            "lastName": "Kagaya",
+            "initials": "Y"
+          },
+          {
+            "fullName": "Xu Z",
+            "firstName": "Ziyi",
+            "lastName": "Xu",
+            "initials": "Z"
+          },
+          {
+            "fullName": "Punuru P",
+            "firstName": "Pranav",
+            "lastName": "Punuru",
+            "initials": "P"
+          },
+          {
+            "fullName": "Kihara D",
+            "firstName": "Daisuke",
+            "lastName": "Kihara",
+            "initials": "D"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Recent advances in protein structure prediction, exemplified by AlphaFold, have largely addressed the determination of static structures, one aspect of the protein folding problem. However, predicting folding pathways, by which proteins reach their native states, remains a significant challenge. Here, we present PathFold, a deep learning framework that predicts protein folding pathways directly from sequence information. PathFold leverages an AlphaFold-based module to extract structural information from the sequence and generates a progressive folding trajectory from an extended conformation using a diffusion model. By modeling the full trajectory, it enables prediction of folding intermediates and transition pathways, analogous to those observed in steered molecular dynamics (SMD) simulations. The predicted pathways reveal well-defined intermediates and sequential folding events, and show agreement with experimental folding data, including measured Φ-values.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.08.26.747321"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-08-30",
+      "firstIndexDate": "2026-08-30",
+      "firstPublicationDate": "2026-08-28"
+    }
+  }
+}

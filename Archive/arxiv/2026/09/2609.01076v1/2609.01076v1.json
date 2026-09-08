@@ -1,0 +1,32 @@
+{
+  "source": "arxiv",
+  "source_id": "2609.01076v1",
+  "title": "Text-guided flow matching enables sample-efficient crystal structure generation",
+  "doi": "",
+  "abstract": "Crystal generators can now propose periodic structures, but their control interfaces remain poorly matched to the mixed descriptors used in materials design. Text provides a compact way to combine composition, symmetry, prototype and property cues, yet it has not been clear whether such information can steer flow-based crystal generation. Here we introduce TFMat, a text-conditioned flow-matching framework that uses structured materials language as a semantic prior for a CrystalFlow generator. Across Perov-5, Carbon-24 and MP-20 crystal structure prediction benchmarks, TFMat improves one-candidate match rates over CrystalFlow and reaches a 92.04% MP-20 match rate with 20 candidates; in de novo generation, it improves element-count and density distribution alignment while retaining coarse property consistency in composition-selected outputs. These results position structured text as an inspectable control layer for translating human-readable materials intent into candidate crystals for downstream simulation and validation.",
+  "authors": [
+    "Wentao Li"
+  ],
+  "published_date": "2026-09-01T11:07:18Z",
+  "updated_date": "2026-09-01T11:07:18Z",
+  "journal": "",
+  "category": "cond-mat.mtrl-sci, cs.AI",
+  "landing_url": "https://arxiv.org/abs/2609.01076v1",
+  "pdf_url": "https://arxiv.org/pdf/2609.01076v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cs.AI"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2609.01076v1",
+    "raw_categories": [
+      "cond-mat.mtrl-sci",
+      "cs.AI"
+    ],
+    "journal_ref": ""
+  }
+}

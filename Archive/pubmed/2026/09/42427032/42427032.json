@@ -1,0 +1,288 @@
+{
+  "identity": {
+    "pmid": "42427032",
+    "doi": "10.1016/j.bpj.2026.07.005",
+    "title": "Influence of the presence of tubulin C-terminal tail on kinesin-1's microtubule binding rate."
+  },
+  "content": {
+    "abstract": "The binding of the ATP-bound form of kinesin-1 to a microtubule composed of the full sequence of alphabeta-tubulin heterodimers (MTs) and one composed of heterodimers with the disordered C-terminal tails deleted (DeltaCTT-MT) was studied experimentally by single-molecule landing rate measurements and theoretically by coarse-grained molecular dynamics simulations. Theoretical models of MTs and DeltaCTT-MTs comprised a total of 260 alphabeta-tubulin heterodimers each. The initial structure of the kinesin dimer was modeled with AlphaFold. For each microtubule variant, 10 simulations were carried out with 5 kinesin molecules placed near the microtubule surface (a total of 50 kinesin molecules). Both experiments and simulations have demonstrated that the deletion of tubulin C-terminal tails results in the increase of kinesin landing rates. This difference is likely to be due to a greater disorder of the C-terminal tail at the binding surface for MT than for its truncated variant. During simulations a change of kinesin domain orientation from that in the initial kinesin model occurred, which enable simultaneous microtubule binding by both domains. However, nonspecific binding was largely observed, which indicates that the simulations captured its initial phase only.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Kinesins/metabolism/chemistry",
+      "*Microtubules/metabolism",
+      "*Tubulin/chemistry/metabolism",
+      "Protein Binding",
+      "Molecular Dynamics Simulation",
+      "Protein Domains",
+      "Animals",
+      "Kinetics",
+      "Protein Multimerization"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Lipska, Agnieszka G",
+        "Janakaloti Narayanareddy, Babu Reddy",
+        "Czaplewski, Cezary",
+        "Sieradzan, Adam K",
+        "Ocetkiewicz, Krzysztof M",
+        "Proficz, Jerzy",
+        "Czarnul, Pawel",
+        "Krawczyk, Henryk",
+        "Gross, Steven",
+        "Liwo, Adam"
+      ],
+      "short_names": [
+        "Lipska AG",
+        "Janakaloti Narayanareddy BR",
+        "Czaplewski C",
+        "Sieradzan AK",
+        "Ocetkiewicz KM",
+        "Proficz J",
+        "Czarnul P",
+        "Krawczyk H",
+        "Gross S",
+        "Liwo A"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Centre of Informatics Tri-city Academic Supercomputer and Network (CI TASK), Gdansk University of Technology, Fahrenheit Union of Universities in Gdansk, Gdansk, Poland. Electronic address: agnieszka.lipska@pg.edu.pl.",
+        "Department of Developmental and Cell Biology, University of California, Irvine, Irvine, CA, USA.",
+        "Faculty of Chemistry, University of Gdansk, Fahrenheit Union of Universities in Gdansk, Gdansk, Poland.",
+        "Faculty of Chemistry, University of Gdansk, Fahrenheit Union of Universities in Gdansk, Gdansk, Poland.",
+        "Centre of Informatics Tri-city Academic Supercomputer and Network (CI TASK), Gdansk University of Technology, Fahrenheit Union of Universities in Gdansk, Gdansk, Poland.",
+        "Centre of Informatics Tri-city Academic Supercomputer and Network (CI TASK), Gdansk University of Technology, Fahrenheit Union of Universities in Gdansk, Gdansk, Poland.",
+        "Faculty of Electronics, Telecommunication and Informatics, Gdansk University of Technology, Fahrenheit Union of Universities in Gdansk, Gdansk, Poland.",
+        "Centre of Informatics Tri-city Academic Supercomputer and Network (CI TASK), Gdansk University of Technology, Fahrenheit Union of Universities in Gdansk, Gdansk, Poland; Faculty of Electronics, Telecommunication and Informatics, Gdansk University of Technology, Fahrenheit Union of Universities in Gdansk, Gdansk, Poland.",
+        "Department of Developmental and Cell Biology, University of California, Irvine, Irvine, CA, USA. Electronic address: sgross@uci.edu.",
+        "Faculty of Chemistry, University of Gdansk, Fahrenheit Union of Universities in Gdansk, Gdansk, Poland."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Lipska, Agnieszka G",
+        "short_name": "Lipska AG",
+        "identifiers": [],
+        "affiliations": [
+          "Centre of Informatics Tri-city Academic Supercomputer and Network (CI TASK), Gdańsk University of Technology, Fahrenheit Union of Universities in Gdańsk, Gdańsk, Poland. Electronic address: agnieszka.lipska@pg.edu.pl."
+        ]
+      },
+      {
+        "full_name": "Janakaloti Narayanareddy, Babu Reddy",
+        "short_name": "Janakaloti Narayanareddy BR",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Developmental and Cell Biology, University of California, Irvine, Irvine, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Czaplewski, Cezary",
+        "short_name": "Czaplewski C",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Chemistry, University of Gdańsk, Fahrenheit Union of Universities in Gdańsk, Gdańsk, Poland."
+        ]
+      },
+      {
+        "full_name": "Sieradzan, Adam K",
+        "short_name": "Sieradzan AK",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Chemistry, University of Gdańsk, Fahrenheit Union of Universities in Gdańsk, Gdańsk, Poland."
+        ]
+      },
+      {
+        "full_name": "Ocetkiewicz, Krzysztof M",
+        "short_name": "Ocetkiewicz KM",
+        "identifiers": [],
+        "affiliations": [
+          "Centre of Informatics Tri-city Academic Supercomputer and Network (CI TASK), Gdańsk University of Technology, Fahrenheit Union of Universities in Gdańsk, Gdańsk, Poland."
+        ]
+      },
+      {
+        "full_name": "Proficz, Jerzy",
+        "short_name": "Proficz J",
+        "identifiers": [],
+        "affiliations": [
+          "Centre of Informatics Tri-city Academic Supercomputer and Network (CI TASK), Gdańsk University of Technology, Fahrenheit Union of Universities in Gdańsk, Gdańsk, Poland."
+        ]
+      },
+      {
+        "full_name": "Czarnul, Paweł",
+        "short_name": "Czarnul P",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Electronics, Telecommunication and Informatics, Gdańsk University of Technology, Fahrenheit Union of Universities in Gdańsk, Gdańsk, Poland."
+        ]
+      },
+      {
+        "full_name": "Krawczyk, Henryk",
+        "short_name": "Krawczyk H",
+        "identifiers": [],
+        "affiliations": [
+          "Centre of Informatics Tri-city Academic Supercomputer and Network (CI TASK), Gdańsk University of Technology, Fahrenheit Union of Universities in Gdańsk, Gdańsk, Poland; Faculty of Electronics, Telecommunication and Informatics, Gdańsk University of Technology, Fahrenheit Union of Universities in Gdańsk, Gdańsk, Poland."
+        ]
+      },
+      {
+        "full_name": "Gross, Steven",
+        "short_name": "Gross S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Developmental and Cell Biology, University of California, Irvine, Irvine, CA, USA. Electronic address: sgross@uci.edu."
+        ]
+      },
+      {
+        "full_name": "Liwo, Adam",
+        "short_name": "Liwo A",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Chemistry, University of Gdańsk, Fahrenheit Union of Universities in Gdańsk, Gdańsk, Poland."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biophysical journal"
+    ],
+    "journal_abbrev": [
+      "Biophys J"
+    ],
+    "pub_date": "2026 Sep 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/07/10 06:35",
+    "fetched_at": "2026-09-08 12:12:00"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42427032",
+      "42168523",
+      "29980677",
+      "42374736",
+      "40281262",
+      "30132979",
+      "10764575",
+      "40074328",
+      "35050657",
+      "23434508",
+      "28701465",
+      "26055718",
+      "42381291",
+      "24072717",
+      "31589786",
+      "17412962",
+      "33557020",
+      "21910419",
+      "38160255",
+      "40617823",
+      "31958056",
+      "14976555",
+      "21905119",
+      "35216151",
+      "19332892",
+      "28685905",
+      "20071331",
+      "28290671",
+      "27503105",
+      "37345829",
+      "2138610",
+      "22403406",
+      "41422841",
+      "27493215",
+      "32245812",
+      "24940781",
+      "24927501",
+      "36065637",
+      "12763024",
+      "20224548",
+      "9048948",
+      "31288039",
+      "20818331",
+      "40907488",
+      "10639132",
+      "28300595",
+      "15175652",
+      "26094820",
+      "27074684",
+      "29087307",
+      "23872990",
+      "21884976",
+      "41016033",
+      "30770469",
+      "19186149",
+      "25720490",
+      "40172259",
+      "21236672",
+      "40920139",
+      "28903043",
+      "32462384",
+      "29985404",
+      "25537000",
+      "33865866",
+      "34201478",
+      "38431715",
+      "28257843",
+      "31593193",
+      "8095324",
+      "28290984",
+      "10198060",
+      "20547877",
+      "24015286",
+      "33082143",
+      "19622631",
+      "40198703",
+      "8206959",
+      "27046833",
+      "27976831",
+      "19913027",
+      "25059720",
+      "38960488",
+      "22363525",
+      "31031197",
+      "11580246",
+      "15250824",
+      "39688542",
+      "18829030",
+      "9083088",
+      "29229862",
+      "7617042",
+      "28697331",
+      "37560910",
+      "8106402",
+      "24257625",
+      "26488644",
+      "14659746",
+      "27493553",
+      "23066835",
+      "7597061"
+    ],
+    "review": [
+      "42427032",
+      "38960488",
+      "37560910"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0006-3495(26)00486-8",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

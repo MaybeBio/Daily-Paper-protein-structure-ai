@@ -1,0 +1,296 @@
+{
+  "identity": {
+    "pmid": "42203030",
+    "doi": "10.1016/j.jmb.2026.169880",
+    "title": "Crystal Structure of PLD From Arcanobacterium haemolyticum Identifies a Novel Class IIa-alpha Variant With Unusual Thermostability."
+  },
+  "content": {
+    "abstract": "Arcanobacterium haemolyticum, an emerging human pathogen, expresses phospholipase D (PLD(AH)), a multifunctional virulence factor capable of cleaving sphingomyelin and lysophospholipids from plasma membranes, in addition to promoting host cell adhesion and necrosis. Here, we report the first crystal structure of PLD(AH), determined at 2.45 A resolution, which reveals a canonical (alpha/beta)(8) TIM-barrel fold typical of glycerophosphodiester phosphodiesterase (GDPD)-like PLD enzymes, but with distinct structural features. PLD(AH) contains two disulfide bonds arranged in a unique pattern not observed in homologous brown spider PLDs, defining a new structural variant within the GDPD-like PLD family, designated class IIa-alpha. Comparative structural analysis with PLD from Loxosceles intermedia (PLD(LI)) revealed differences in loop architecture and local amino acid composition in the vicinity of the active site, including point substitutions that modulate cavity volume and flexibility. Despite exhibiting a melting temperature (Tm) between 45 and 51  degrees C, PLD(AH) retained residual enzymatic activity up to 95  degrees C, indicating exceptional thermostability among GDPD-like PLDs. Molecular dynamics simulations showed that increasing temperature selectively enhanced the flexibility of specific loops (C and G) without perturbing the catalytic core, suggesting that localized structural adaptability contributes to thermal resilience. These findings establish PLD(AH) as a structurally distinct GDPD-like sphingomyelinase D enzyme and provide insights into the molecular features underlying its multifunctional activity and thermostability.",
+    "keywords": [
+      "Arcanobacterium haemolyticum",
+      "catalytic mechanism",
+      "sphingomyelinase D",
+      "thermoresistance",
+      "virulence factor"
+    ],
+    "mesh_terms": [
+      "*Phospholipase D/chemistry/metabolism/genetics",
+      "*Arcanobacterium/enzymology",
+      "Crystallography, X-Ray",
+      "Enzyme Stability",
+      "Amino Acid Sequence",
+      "Models, Molecular",
+      "Catalytic Domain",
+      "Animals",
+      "*Bacterial Proteins/chemistry/metabolism",
+      "Protein Conformation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Gismene, Carolina",
+        "Alvares, Dayane S",
+        "Doherty, Daniel Z",
+        "Schemczssen-Graeff, Zelinda",
+        "de Almeida Passos Cerbino, Luis Eduardo",
+        "Ziem Nascimento, Andrey Fabricio",
+        "Rahal, Paula",
+        "Veiga, Silvio Sanches",
+        "Arni, Raghuvir Krishnaswamy",
+        "Hernandez Gonzalez, Jorge Enrique"
+      ],
+      "short_names": [
+        "Gismene C",
+        "Alvares DS",
+        "Doherty DZ",
+        "Schemczssen-Graeff Z",
+        "de Almeida Passos Cerbino LE",
+        "Ziem Nascimento AF",
+        "Rahal P",
+        "Veiga SS",
+        "Arni RK",
+        "Hernandez Gonzalez JE"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Multiuser Center for Biomolecular Innovation, Sao Paulo State University (UNESP), Sao Jose do Rio Preto, SP, Brazil; Research Institute, Children's Hospital of Philadelphia (CHOP), Philadelphia, PA, United States. Electronic address: carolina.gismene@unesp.br.",
+        "Department of Physics, Sao Paulo State University (UNESP), Sao Jose do Rio Preto, SP, Brazil.",
+        "Multiuser Center for Biomolecular Innovation, Sao Paulo State University (UNESP), Sao Jose do Rio Preto, SP, Brazil.",
+        "Department of Cell Biology, Federal University of Parana (UFPR), Curitiba, PR, Brazil.",
+        "Multiuser Center for Biomolecular Innovation, Sao Paulo State University (UNESP), Sao Jose do Rio Preto, SP, Brazil.",
+        "Brazilian Synchrotron Light Laboratory (LNLS), Brazilian Center for Research in Energy and Materials (CNPEM), Campinas, SP, Brazil.",
+        "Laboratory of Genomic Studies, Sao Paulo State University - UNESP, Sao Jose do Rio Preto, SP, Brazil.",
+        "Department of Cell Biology, Federal University of Parana (UFPR), Curitiba, PR, Brazil.",
+        "Multiuser Center for Biomolecular Innovation, Sao Paulo State University (UNESP), Sao Jose do Rio Preto, SP, Brazil.",
+        "Multiuser Center for Biomolecular Innovation, Sao Paulo State University (UNESP), Sao Jose do Rio Preto, SP, Brazil. Electronic address: jorge.hernandez@unesp.br."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Gismene, Carolina",
+        "short_name": "Gismene C",
+        "identifiers": [],
+        "affiliations": [
+          "Multiuser Center for Biomolecular Innovation, São Paulo State University (UNESP), São José do Rio Preto, SP, Brazil; Research Institute, Children's Hospital of Philadelphia (CHOP), Philadelphia, PA, United States. Electronic address: carolina.gismene@unesp.br."
+        ]
+      },
+      {
+        "full_name": "Alvares, Dayane S",
+        "short_name": "Alvares DS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physics, São Paulo State University (UNESP), São José do Rio Preto, SP, Brazil."
+        ]
+      },
+      {
+        "full_name": "Doherty, Daniel Z",
+        "short_name": "Doherty DZ",
+        "identifiers": [],
+        "affiliations": [
+          "Multiuser Center for Biomolecular Innovation, São Paulo State University (UNESP), São José do Rio Preto, SP, Brazil."
+        ]
+      },
+      {
+        "full_name": "Schemczssen-Graeff, Zelinda",
+        "short_name": "Schemczssen-Graeff Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cell Biology, Federal University of Paraná (UFPR), Curitiba, PR, Brazil."
+        ]
+      },
+      {
+        "full_name": "de Almeida Passos Cerbino, Luís Eduardo",
+        "short_name": "de Almeida Passos Cerbino LE",
+        "identifiers": [],
+        "affiliations": [
+          "Multiuser Center for Biomolecular Innovation, São Paulo State University (UNESP), São José do Rio Preto, SP, Brazil."
+        ]
+      },
+      {
+        "full_name": "Ziem Nascimento, Andrey Fabricio",
+        "short_name": "Ziem Nascimento AF",
+        "identifiers": [],
+        "affiliations": [
+          "Brazilian Synchrotron Light Laboratory (LNLS), Brazilian Center for Research in Energy and Materials (CNPEM), Campinas, SP, Brazil."
+        ]
+      },
+      {
+        "full_name": "Rahal, Paula",
+        "short_name": "Rahal P",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Genomic Studies, São Paulo State University - UNESP, São José do Rio Preto, SP, Brazil."
+        ]
+      },
+      {
+        "full_name": "Veiga, Silvio Sanches",
+        "short_name": "Veiga SS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cell Biology, Federal University of Paraná (UFPR), Curitiba, PR, Brazil."
+        ]
+      },
+      {
+        "full_name": "Arni, Raghuvir Krishnaswamy",
+        "short_name": "Arni RK",
+        "identifiers": [],
+        "affiliations": [
+          "Multiuser Center for Biomolecular Innovation, São Paulo State University (UNESP), São José do Rio Preto, SP, Brazil."
+        ]
+      },
+      {
+        "full_name": "Hernández González, Jorge Enrique",
+        "short_name": "Hernández González JE",
+        "identifiers": [],
+        "affiliations": [
+          "Multiuser Center for Biomolecular Innovation, São Paulo State University (UNESP), São José do Rio Preto, SP, Brazil. Electronic address: jorge.hernandez@unesp.br."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of molecular biology"
+    ],
+    "journal_abbrev": [
+      "J Mol Biol"
+    ],
+    "pub_date": "2026 Sep 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/05/28 00:30",
+    "fetched_at": "2026-09-08 12:12:00"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42203030",
+      "20973961",
+      "21616057",
+      "33809980",
+      "37313620",
+      "36963559",
+      "30563447",
+      "30745329",
+      "8406819",
+      "33843991",
+      "33599379",
+      "31619765",
+      "10873862",
+      "32858108",
+      "24222582",
+      "40916978",
+      "27710940",
+      "26102498",
+      "42066997",
+      "29882842",
+      "25961401",
+      "28335389",
+      "39325669",
+      "39343256",
+      "12441393",
+      "39033552",
+      "19416643",
+      "24472346",
+      "37569382",
+      "10074947",
+      "25227262",
+      "11839309",
+      "17189478",
+      "23733617",
+      "15777623",
+      "31396631",
+      "12147356",
+      "25308783",
+      "26627651",
+      "7737503",
+      "41576633",
+      "23639419",
+      "31357130",
+      "28857479",
+      "16688781",
+      "31430491",
+      "15926888",
+      "22718790",
+      "7961859",
+      "40137884",
+      "36232620",
+      "22029628",
+      "33445864",
+      "34638918",
+      "26750478",
+      "9920915",
+      "7765769",
+      "28814238",
+      "12837777",
+      "14726207",
+      "8757862",
+      "23086923",
+      "11891260",
+      "30695732",
+      "9163741",
+      "10903946",
+      "36307380",
+      "26374125",
+      "8939760",
+      "9083111",
+      "41916458",
+      "28951301",
+      "19447113",
+      "9361006",
+      "38400529",
+      "31615894",
+      "41887928",
+      "15779887",
+      "20565843",
+      "15136569",
+      "27833852",
+      "9466926",
+      "39923523",
+      "39701201",
+      "9193006",
+      "15588701",
+      "27907169",
+      "15943582",
+      "31615653",
+      "9353280",
+      "15826868",
+      "33023861",
+      "21436878",
+      "9987184",
+      "21619042",
+      "30552196",
+      "33454010",
+      "26783088",
+      "21423760",
+      "26801571"
+    ],
+    "review": [
+      "42203030",
+      "19416643",
+      "23639419",
+      "28814238"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0022-2836(26)00253-6",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

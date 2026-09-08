@@ -1,0 +1,91 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.08.28.747734",
+  "title": "RPDynaFlow: Generating RNA–protein Conformation Ensembles by Atomic Conditional Flow Matching",
+  "doi": "10.64898/2026.08.28.747734",
+  "abstract": "Conformation ensembles of biomolecules provide the basis for understanding structural transformations and drug design. Deep-learning generative models have advanced protein and small molecule ensemble generation, while RNA–protein complexes remain unaddressed due to the chemical heterogeneity, limited dataset size and the different flexibility scales of RNA and protein components. We present RPDynaFlow, a flow-matching model to generate conformation ensembles of RNA–protein complexes, trained on 600 ns trajectories of molecular dynamics (MD) simulation. The results show our model extends the sampling range of the phase space compared to MD simulation, which could be treated as a rapid and efficient complement to MD trajectories for studying RNA–protein interactions.",
+  "authors": [
+    "Li Y",
+    "Lu K"
+  ],
+  "published_date": "2026-08-28",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.08.28.747734",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.08.28.747734.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1308109",
+    "raw_record": {
+      "id": "PPR1308109",
+      "source": "PPR",
+      "doi": "10.64898/2026.08.28.747734",
+      "title": "RPDynaFlow: Generating RNA–protein Conformation Ensembles by Atomic Conditional Flow Matching",
+      "authorString": "Li Y, Lu K.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Li Y",
+            "firstName": "Yuntao",
+            "lastName": "Li",
+            "initials": "Y"
+          },
+          {
+            "fullName": "Lu K",
+            "firstName": "Kexin",
+            "lastName": "Lu",
+            "initials": "K"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Conformation ensembles of biomolecules provide the basis for understanding structural transformations and drug design. Deep-learning generative models have advanced protein and small molecule ensemble generation, while RNA–protein complexes remain unaddressed due to the chemical heterogeneity, limited dataset size and the different flexibility scales of RNA and protein components. We present RPDynaFlow, a flow-matching model to generate conformation ensembles of RNA–protein complexes, trained on 600 ns trajectories of molecular dynamics (MD) simulation. The results show our model extends the sampling range of the phase space compared to MD simulation, which could be treated as a rapid and efficient complement to MD trajectories for studying RNA–protein interactions.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.08.28.747734"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-08-30",
+      "firstIndexDate": "2026-08-30",
+      "firstPublicationDate": "2026-08-28"
+    }
+  }
+}

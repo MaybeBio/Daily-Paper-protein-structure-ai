@@ -1,0 +1,226 @@
+{
+  "identity": {
+    "pmid": "42671075",
+    "doi": "10.1093/molbev/msag217",
+    "title": "Conserved water molecules shape the pathogenicity of missense variants in human proteins."
+  },
+  "content": {
+    "abstract": "Conserved water molecules (CWMs) are tightly bound solvent molecules that occupy well-defined, recurrent positions in protein structures. Although they are known to influence protein stability, function, and ligand binding, their role in shaping the effects of human missense variants remains largely unexplored. Here, we demonstrate that CWMs are a previously underappreciated determinant of missense variant pathogenicity. By predicting ligand-binding and CWM sites across human PDB structures and mapping missense variants to these sites and the remaining protein surface, we found that pathogenic variants were significantly enriched at CWM sites, whether overlapping or outside other ligand-binding regions. This enrichment exceeded that observed for binding sites as a whole, indicating a broader role for water-mediated interactions in modulating variant effects. To explore a mechanistic basis for this association, we performed molecular dynamics simulations of human lysosomal acid glucosylceramidase (GCase), encoded by GBA1 and implicated in Gaucher disease and Parkinson's disease risk. Selective destabilization of a CWM site in wild-type GCase produced structural and dynamical changes resembling those observed in the pathogenic L444P variant, whereas stabilization of this site in L444P shifted several measures toward wild-type behavior. These results suggest that disruption of a single CWM can contribute to long-range structural remodeling observed in a disease-associated variant. Together, our findings identify CWMs as a novel structural constraint shaping the distribution and effects of pathogenic missense variants. Incorporating water-mediated interactions into structural models provides a generalizable framework for interpreting human genetic variation and its contribution to disease.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Konc, Janez",
+        "Recer, Karmen",
+        "Kunej, Tanja",
+        "Janezic, Dusanka"
+      ],
+      "short_names": [
+        "Konc J",
+        "Recer K",
+        "Kunej T",
+        "Janezic D"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-0160-3375",
+        "ORCID: 0000-0002-0465-1762"
+      ],
+      "affiliations": [
+        "National Institute of Chemistry, Theory Department, Hajdrihova 19, SI-1001 Ljubljana, Slovenia.",
+        "University of Primorska, Faculty of Mathematics, Natural Sciences and Information Technologies, Glagoljaska ulica 8, Koper SI-6000, Slovenia.",
+        "University of Ljubljana, Faculty of Pharmacy, Askerceva 7, SI-1000 Ljubljana, Slovenia.",
+        "National Institute of Chemistry, Theory Department, Hajdrihova 19, SI-1001 Ljubljana, Slovenia.",
+        "University of Ljubljana, Biotechnical Faculty, Department of Animal Science, Groblje 3, 1230 Domzale, Slovenia.",
+        "University of Ljubljana, Biotechnical Faculty, Department of Animal Science, Groblje 3, 1230 Domzale, Slovenia.",
+        "University of Primorska, Faculty of Mathematics, Natural Sciences and Information Technologies, Glagoljaska ulica 8, Koper SI-6000, Slovenia."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Konc, Janez",
+        "short_name": "Konc J",
+        "identifiers": [
+          "0000-0003-0160-3375"
+        ],
+        "affiliations": [
+          "National Institute of Chemistry, Theory Department, Hajdrihova 19, SI-1001 Ljubljana, Slovenia.",
+          "University of Primorska, Faculty of Mathematics, Natural Sciences and Information Technologies, Glagoljaška ulica 8, Koper SI-6000, Slovenia.",
+          "University of Ljubljana, Faculty of Pharmacy, Aškerčeva 7, SI-1000 Ljubljana, Slovenia."
+        ]
+      },
+      {
+        "full_name": "Recer, Karmen",
+        "short_name": "Recer K",
+        "identifiers": [],
+        "affiliations": [
+          "National Institute of Chemistry, Theory Department, Hajdrihova 19, SI-1001 Ljubljana, Slovenia.",
+          "University of Ljubljana, Biotechnical Faculty, Department of Animal Science, Groblje 3, 1230 Domžale, Slovenia."
+        ]
+      },
+      {
+        "full_name": "Kunej, Tanja",
+        "short_name": "Kunej T",
+        "identifiers": [
+          "0000-0002-0465-1762"
+        ],
+        "affiliations": [
+          "University of Ljubljana, Biotechnical Faculty, Department of Animal Science, Groblje 3, 1230 Domžale, Slovenia."
+        ]
+      },
+      {
+        "full_name": "Janežič, Dušanka",
+        "short_name": "Janežič D",
+        "identifiers": [],
+        "affiliations": [
+          "University of Primorska, Faculty of Mathematics, Natural Sciences and Information Technologies, Glagoljaška ulica 8, Koper SI-6000, Slovenia."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular biology and evolution"
+    ],
+    "journal_abbrev": [
+      "Mol Biol Evol"
+    ],
+    "pub_date": "2026 Aug 31",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/08/31 19:42",
+    "fetched_at": "2026-09-08 12:11:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42671075",
+      "42475469",
+      "23912807",
+      "42657169",
+      "40848607",
+      "33909605",
+      "37434319",
+      "38992748",
+      "42494064",
+      "33287903",
+      "35389981",
+      "42196261",
+      "8789194",
+      "41756011",
+      "37896786",
+      "38087376",
+      "37693462",
+      "38053926",
+      "33640967",
+      "36226242",
+      "42089960",
+      "38605212",
+      "37201251",
+      "41030976",
+      "36600598",
+      "33106425",
+      "42308225",
+      "34428215",
+      "39150724",
+      "36703890",
+      "41508098",
+      "41684033",
+      "37805574",
+      "39989617",
+      "29455857",
+      "40576883",
+      "42204826",
+      "42253053",
+      "41307241",
+      "40691606",
+      "36036558",
+      "38782304",
+      "42602159",
+      "38666485",
+      "37394881",
+      "23607785",
+      "31737856",
+      "42114970",
+      "40624578",
+      "37398408",
+      "41058593",
+      "42555301",
+      "42278487",
+      "32281771",
+      "40397198",
+      "31871067",
+      "9034363",
+      "39388267",
+      "32057119",
+      "25202012",
+      "42640838",
+      "41549707",
+      "35120630",
+      "40160862",
+      "31700164",
+      "41246429",
+      "42249589",
+      "41096722",
+      "39979869",
+      "41419200",
+      "39779847",
+      "20701388",
+      "38222458",
+      "36833189",
+      "24713615",
+      "36427457",
+      "32722039",
+      "29978341",
+      "41120341",
+      "23662606",
+      "31755958",
+      "40332430",
+      "42327163",
+      "40399377",
+      "38387507",
+      "37240451",
+      "35456478",
+      "42661945",
+      "24795746",
+      "32347641",
+      "17063491",
+      "35764179",
+      "41093202",
+      "42645692",
+      "42190421",
+      "41233739",
+      "34997144",
+      "40233742",
+      "32316137",
+      "30808805"
+    ],
+    "review": [
+      "42671075",
+      "39150724",
+      "40691606",
+      "38387507"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://academic.oup.com/mbe/article-lookup/doi/10.1093/molbev/msag217",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

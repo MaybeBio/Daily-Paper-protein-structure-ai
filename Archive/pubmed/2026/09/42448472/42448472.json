@@ -1,0 +1,249 @@
+{
+  "identity": {
+    "pmid": "42448472",
+    "doi": "10.1021/acs.est.6c00169",
+    "title": "Tidal Rhythm Regulates the Adverse Outcome Pathways of Microplastics on Coastal Microbial Mat Multifunctionality."
+  },
+  "content": {
+    "abstract": "Coastal microplastic pollution is seeing increased concerns, yet the multifunctional response of microbial mats at the sediment-seawater-atmosphere multiphase interface to various microplastics remains poorly understood, especially incorporating long-term tidal regimes. This study utilized a simulation platform coupling 180 tidal cycles to investigate differential impacts of nondegradable (polyethylene, PE) and degradable (polylactic acid, PLA) microplastics on coastal microbial mats. PE at 50 mg/kg impaired microbial mat species richness and evenness, significantly inhibiting nitrate reductase (-37.5%) and urease (-31.7%) activities by remolding protein conformation compactness and inducing molecular aggregation. Tidal fluctuations enriched metabolic signatures associated with signal transduction and sulfur metabolism, potentially compensating for disorders in environmental perception, energy supply, and nitrogen transformation of mat microbiota upon PE exposure. Unlike PE, PLA disabled phosphatase (17.7-23.0%) and catalase (15.0-18.5%) activities in a dose-dependent manner through directly binding to molecular active sites. Tidal rhythms promoted PLA-mediated microbe migration (contribution rate >73%) and niche narrowing (specialists +10.2%). By unbiasedly reprogramming metabolic strategy toward amino acid biosynthesis as an alternative energy pathway, while disturbing organic phosphorus mineralization (-43.2%) and redox homeostasis (-19.4%), tidal fluctuations ultimately exacerbated multifunctionality compromise in PLA-exposed microbial mats. Our findings highlight the need to consistently incorporate dynamic environmental contexts when assessing coastal microplastic ecological risks.",
+    "keywords": [
+      "adverse outcome mechanisms",
+      "microbial mats",
+      "microplastics",
+      "multifunctionality",
+      "tides"
+    ],
+    "mesh_terms": [
+      "*Microplastics",
+      "Seawater"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Song, Yan",
+        "Sun, Kailun",
+        "Guo, Xingpan",
+        "Yao, Huikun",
+        "Li, Maotian",
+        "Hou, Lijun"
+      ],
+      "short_names": [
+        "Song Y",
+        "Sun K",
+        "Guo X",
+        "Yao H",
+        "Li M",
+        "Hou L"
+      ],
+      "auids": [
+        "ORCID: 0009-0003-0447-8933",
+        "ORCID: 0000-0003-0075-7962"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Estuarine and Coastal Research, Institute of Eco-Chongming, East China Normal University, Shanghai200241, China.",
+        "School of Environmental Science and Engineering, Shanghai Jiao Tong University, Shanghai200240, China.",
+        "State Key Laboratory of Estuarine and Coastal Research, Institute of Eco-Chongming, East China Normal University, Shanghai200241, China.",
+        "State Key Laboratory of Estuarine and Coastal Research, Institute of Eco-Chongming, East China Normal University, Shanghai200241, China.",
+        "State Key Laboratory of Estuarine and Coastal Research, Institute of Eco-Chongming, East China Normal University, Shanghai200241, China.",
+        "State Key Laboratory of Estuarine and Coastal Research, Institute of Eco-Chongming, East China Normal University, Shanghai200241, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Song, Yan",
+        "short_name": "Song Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Estuarine and Coastal Research, Institute of Eco-Chongming, East China Normal University, Shanghai200241, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Kailun",
+        "short_name": "Sun K",
+        "identifiers": [
+          "0009-0003-0447-8933"
+        ],
+        "affiliations": [
+          "School of Environmental Science and Engineering, Shanghai Jiao Tong University, Shanghai200240, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Xingpan",
+        "short_name": "Guo X",
+        "identifiers": [
+          "0000-0003-0075-7962"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Estuarine and Coastal Research, Institute of Eco-Chongming, East China Normal University, Shanghai200241, China."
+        ]
+      },
+      {
+        "full_name": "Yao, Huikun",
+        "short_name": "Yao H",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Estuarine and Coastal Research, Institute of Eco-Chongming, East China Normal University, Shanghai200241, China."
+        ]
+      },
+      {
+        "full_name": "Li, Maotian",
+        "short_name": "Li M",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Estuarine and Coastal Research, Institute of Eco-Chongming, East China Normal University, Shanghai200241, China."
+        ]
+      },
+      {
+        "full_name": "Hou, Lijun",
+        "short_name": "Hou L",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Estuarine and Coastal Research, Institute of Eco-Chongming, East China Normal University, Shanghai200241, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Environmental science & technology"
+    ],
+    "journal_abbrev": [
+      "Environ Sci Technol"
+    ],
+    "pub_date": "2026 Sep 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/07/15 04:09",
+    "fetched_at": "2026-09-08 12:12:00"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42448472",
+      "38214515",
+      "38128384",
+      "39987736",
+      "35973491",
+      "40230162",
+      "38968987",
+      "37339576",
+      "38704010",
+      "32398678",
+      "35258208",
+      "40570625",
+      "40811914",
+      "41657172",
+      "41747678",
+      "37696400",
+      "42191629",
+      "40896938",
+      "40274093",
+      "36934915",
+      "38723479",
+      "42603474",
+      "40714608",
+      "40334410",
+      "38216499",
+      "35940419",
+      "41565604",
+      "38703848",
+      "42398625",
+      "41802661",
+      "42190858",
+      "40770206",
+      "42409104",
+      "40865228",
+      "41330295",
+      "41391314",
+      "40819775",
+      "42442687",
+      "40245805",
+      "35714467",
+      "41365225",
+      "37922780",
+      "38608889",
+      "40381442",
+      "42262316",
+      "35880896",
+      "35219185",
+      "41955854",
+      "38215830",
+      "38788589",
+      "30099319",
+      "41242413",
+      "40319764",
+      "38310843",
+      "36969097",
+      "41576742",
+      "35489492",
+      "39946886",
+      "40280394",
+      "39383699",
+      "42134217",
+      "31394342",
+      "36509346",
+      "40561949",
+      "41346299",
+      "35405589",
+      "38723954",
+      "41708185",
+      "38569347",
+      "42385544",
+      "36813096",
+      "36096610",
+      "36323200",
+      "41601067",
+      "41860216",
+      "41643544",
+      "42612381",
+      "40788526",
+      "33711605",
+      "37977392",
+      "42603584",
+      "40403557",
+      "37804989",
+      "39342860",
+      "38301794",
+      "30852639",
+      "42210268",
+      "42142564",
+      "42476056",
+      "42372963",
+      "38377863",
+      "41506609",
+      "35688245",
+      "34607029",
+      "40749768",
+      "42398416",
+      "34161907",
+      "36599128",
+      "42033828",
+      "38160843"
+    ],
+    "review": [
+      "42448472",
+      "36969097"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/esthag/article-lookup/doi/10.1021/acs.est.6c00169",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

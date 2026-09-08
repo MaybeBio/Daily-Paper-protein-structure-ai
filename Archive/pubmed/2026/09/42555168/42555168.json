@@ -1,0 +1,293 @@
+{
+  "identity": {
+    "pmid": "42555168",
+    "doi": "10.1002/pro.70746",
+    "title": "Facile, high-throughput protein purification enabled by high-efficiency protease elution."
+  },
+  "content": {
+    "abstract": "While advances in artificial intelligence have made protein design widely accessible, protein production and characterization remain a bottleneck. Protease-cleavable affinity tags are commonly used to improve yield and purity of recombinant proteins, but tag removal adds labor and complexity. Previous attempts to use a selective protease to elute cleaved fusion protein during affinity chromatography have suffered from poor digestion efficiency that greatly diminishes yield, or protease contamination in the eluate. Here, we describe a novel SUMO protease construct that supports rapid, high-yield protease elution. This is the keystone of an end-to-end DNA-to-protein workflow that we optimized for speed, parallelizability, and generalizability. While our workflow is intended for an automated liquid-handler, it can easily be performed manually, making it broadly accessible. We demonstrate the method by producing and characterizing 96 disparate proteins derived from mesophilic organisms. This provides a benchmark for methods development and a curated dataset useful for machine learning.",
+    "keywords": [
+      "affinity chromatography",
+      "high-throughput",
+      "laboratory automation",
+      "protein expression",
+      "protein purification",
+      "recombinant protein"
+    ],
+    "mesh_terms": [
+      "*Chromatography, Affinity/methods",
+      "*Recombinant Fusion Proteins/isolation & purification/chemistry/genetics",
+      "Escherichia coli/genetics/metabolism",
+      "*Peptide Hydrolases/chemistry"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Carcamo Noriega, Edson N",
+        "Truebridge, Ian S",
+        "Teets, Frank D 3rd",
+        "Bowman, James W 3rd",
+        "Rodriguez, Nathalia",
+        "Howard, Tessa A",
+        "Bahl, Christopher D"
+      ],
+      "short_names": [
+        "Carcamo Noriega EN",
+        "Truebridge IS",
+        "Teets FD 3rd",
+        "Bowman JW 3rd",
+        "Rodriguez N",
+        "Howard TA",
+        "Bahl CD"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-1189-9077",
+        "ORCID: 0009-0004-5875-2552",
+        "ORCID: 0000-0002-2716-4668",
+        "ORCID: 0009-0004-3549-7050",
+        "ORCID: 0000-0002-3652-3693"
+      ],
+      "affiliations": [
+        "AI Proteins, Inc., Boston, Massachusetts, USA.",
+        "AI Proteins, Inc., Boston, Massachusetts, USA.",
+        "AI Proteins, Inc., Boston, Massachusetts, USA.",
+        "AI Proteins, Inc., Boston, Massachusetts, USA.",
+        "AI Proteins, Inc., Boston, Massachusetts, USA.",
+        "AI Proteins, Inc., Boston, Massachusetts, USA.",
+        "AI Proteins, Inc., Boston, Massachusetts, USA.",
+        "Dana-Farber/Boston Children's Cancer and Blood Disorders Center, Harvard Medical School, Boston, Massachusetts, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Cárcamo Noriega, Edson N",
+        "short_name": "Cárcamo Noriega EN",
+        "identifiers": [
+          "0000-0003-1189-9077"
+        ],
+        "affiliations": [
+          "AI Proteins, Inc., Boston, Massachusetts, USA."
+        ]
+      },
+      {
+        "full_name": "Truebridge, Ian S",
+        "short_name": "Truebridge IS",
+        "identifiers": [
+          "0009-0004-5875-2552"
+        ],
+        "affiliations": [
+          "AI Proteins, Inc., Boston, Massachusetts, USA."
+        ]
+      },
+      {
+        "full_name": "Teets, Frank D",
+        "short_name": "Teets FD",
+        "identifiers": [],
+        "affiliations": [
+          "AI Proteins, Inc., Boston, Massachusetts, USA."
+        ]
+      },
+      {
+        "full_name": "Bowman, James W",
+        "short_name": "Bowman JW",
+        "identifiers": [
+          "0000-0002-2716-4668"
+        ],
+        "affiliations": [
+          "AI Proteins, Inc., Boston, Massachusetts, USA."
+        ]
+      },
+      {
+        "full_name": "Rodriguez, Nathalia",
+        "short_name": "Rodriguez N",
+        "identifiers": [],
+        "affiliations": [
+          "AI Proteins, Inc., Boston, Massachusetts, USA."
+        ]
+      },
+      {
+        "full_name": "Howard, Tessa A",
+        "short_name": "Howard TA",
+        "identifiers": [
+          "0009-0004-3549-7050"
+        ],
+        "affiliations": [
+          "AI Proteins, Inc., Boston, Massachusetts, USA."
+        ]
+      },
+      {
+        "full_name": "Bahl, Christopher D",
+        "short_name": "Bahl CD",
+        "identifiers": [
+          "0000-0002-3652-3693"
+        ],
+        "affiliations": [
+          "AI Proteins, Inc., Boston, Massachusetts, USA.",
+          "Dana-Farber/Boston Children's Cancer and Blood Disorders Center, Harvard Medical School, Boston, Massachusetts, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Protein science : a publication of the Protein Society"
+    ],
+    "journal_abbrev": [
+      "Protein Sci"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/08/05 17:37",
+    "fetched_at": "2026-09-08 12:12:00"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42555168",
+      "27235575",
+      "27614048",
+      "32504500",
+      "34798273",
+      "32112320",
+      "33166527",
+      "22297419",
+      "24777569",
+      "28573567",
+      "42562985",
+      "41638416",
+      "24943314",
+      "35585311",
+      "27214237",
+      "41512648",
+      "28506644",
+      "25681151",
+      "40457011",
+      "28470608",
+      "26616099",
+      "24661869",
+      "16509985",
+      "19544035",
+      "30905870",
+      "16529945",
+      "16427311",
+      "38303525",
+      "28963004",
+      "16483795",
+      "42031348",
+      "27730552",
+      "30036588",
+      "15883185",
+      "31586598",
+      "24084009",
+      "21907284",
+      "24727155",
+      "28971310",
+      "18795288",
+      "8918261",
+      "33128759",
+      "32062023",
+      "15802226",
+      "42124529",
+      "19152836",
+      "37793478",
+      "8961356",
+      "28964330",
+      "38336119",
+      "24412409",
+      "26386113",
+      "20034569",
+      "41469825",
+      "24756322",
+      "22670677",
+      "16151084",
+      "18189135",
+      "39363075",
+      "23291011",
+      "26641240",
+      "22995375",
+      "27730557",
+      "42467077",
+      "24084006",
+      "26715090",
+      "26096500",
+      "34963459",
+      "24291344",
+      "28470604",
+      "23403143",
+      "22178731",
+      "24397399",
+      "21055759",
+      "22771863",
+      "41680732",
+      "24943315",
+      "27730558",
+      "26876021",
+      "38738876",
+      "28087367",
+      "28470597",
+      "27105777",
+      "34520839",
+      "27771392",
+      "28056928",
+      "27663563",
+      "24903894",
+      "25286400",
+      "26581779",
+      "20182554",
+      "26096506",
+      "9801307",
+      "18429193",
+      "36222539",
+      "23154041",
+      "30732606",
+      "26026704",
+      "29091276",
+      "20945481"
+    ],
+    "review": [
+      "42555168",
+      "32504500",
+      "16427311",
+      "42031348",
+      "21907284"
+    ],
+    "pmc": [
+      "13440354"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42555168/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.1002/pro.70746",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://addgene.org/browse/pubmed/42555168",
+        "provider": "Addgene Non-profit plasmid repository",
+        "category": "Research Materials",
+        "attribute": "subscription/membership/fee required",
+        "linkname": "Get Article's Plasmids - Addgene"
+      }
+    ],
+    "text_mined": []
+  }
+}

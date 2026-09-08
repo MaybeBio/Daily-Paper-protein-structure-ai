@@ -1,0 +1,339 @@
+{
+  "identity": {
+    "pmid": "42638048",
+    "doi": "10.13345/j.cjb.260339",
+    "title": "[Dual-axis evolution model of physical intervention-bioprinting depth for in situ 3D bioprinting in vivo and research perspectives]."
+  },
+  "content": {
+    "abstract": "In situ 3D bioprinting in vivo is leading a profound paradigm shift of manufacturing in regenerative medicine. However, to achieve the leap from mere structural replication to complex functional reconstruction, current technologies urgently need to overcome the intrinsic engineering barrier of deep adaptation to the dynamic in vivo microenvironment. To address this challenge, this review proposes for the first time a dual-axis evolutionary theoretical model of degree of physical intervention-bioprinting depth. This model systematically categorizes the technological trajectory into three stages: macroscopic morphological remodeling in open environments (stage 1), flexible interventional shaping within restricted cavities (stage 2), and non-contact energy field-controlled assembly (stage 3). Drawing upon deep practices in interdisciplinary fields such as dynamic mixing control of multiphase fluids, machine learning-driven deformation compensation, and biomimetic porous gradient structure design, this review highlights the core supporting roles of multimodal perception, physiological motion compensation, and artificial intelligence closed-loop control in enhancing in vivo manufacturing precision. Furthermore, it systematically summarizes the preclinical validation outcomes of each evolutionary stage in the repair of typical tissues, including bone, cartilage, skin, and internal organs. This dual-axis model not only establishes systematic theoretical coordinates to resolve the fragmentation of current technological routes, but also delineates a comprehensive roadmap for interdisciplinary researchers to overcome the engineering bottlenecks in translating laboratory proof-of-concept into intelligent clinical devices. In view of the translational barriers such as deep-tissue safety evaluation and technological standardization, this review prospectively points out that future endeavors should rely on the integration of multimodal physical fields and digital twins to break the limitations of single materials. By focusing on the in situ precise construction of complex heterogeneous tissues, the manufacturing paradigm will comprehensively evolve towards cell-free in situ induction, thereby providing an ultimate medical solution for end-stage tissue defects based on an in vivo miniature autonomous repair factory.",
+    "keywords": [
+      "cell-free in situ induction",
+      "degree of physical intervention",
+      "dual-axis evolutionary model",
+      "in situ 3D bioprinting in vivo",
+      "non-invasive field-controlled assembly",
+      "preclinical application validation",
+      "smart closed-loop control"
+    ],
+    "mesh_terms": [
+      "*Bioprinting/methods",
+      "*Tissue Engineering/methods",
+      "*Printing, Three-Dimensional",
+      "Humans",
+      "*Regenerative Medicine",
+      "Artificial Intelligence",
+      "Animals",
+      "Models, Theoretical",
+      "Tissue Scaffolds"
+    ],
+    "pub_types": [
+      "English Abstract",
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Hengrui",
+        "Jiang, Zhaoliang",
+        "Zhang, Weifeng",
+        "Gong, Lichao",
+        "Wang, Siliang",
+        "Chen, Jie"
+      ],
+      "short_names": [
+        "Zhang H",
+        "Jiang Z",
+        "Zhang W",
+        "Gong L",
+        "Wang S",
+        "Chen J"
+      ],
+      "auids": [],
+      "affiliations": [
+        "College of Intelligent Manufacturing, Qingdao University of Science and Technology, Qingdao 266061, Shandong, China.",
+        "School of Mechanical Engineering, Shandong University, Jinan 250101, Shandong, China. jiangzhaoliang@sdu.edu.cn.",
+        "College of Intelligent Manufacturing, Qingdao University of Science and Technology, Qingdao 266061, Shandong, China. zwfeng@qust.edu.cn.",
+        "School of Mechanical Engineering, Shandong University, Jinan 250101, Shandong, China.",
+        "School of Mechanical Engineering, Shandong University, Jinan 250101, Shandong, China.",
+        "College of Intelligent Manufacturing, Qingdao University of Science and Technology, Qingdao 266061, Shandong, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Hengrui",
+        "short_name": "Zhang H",
+        "identifiers": [],
+        "affiliations": [
+          "College of Intelligent Manufacturing, Qingdao University of Science and Technology, Qingdao 266061, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Zhaoliang",
+        "short_name": "Jiang Z",
+        "identifiers": [],
+        "affiliations": [
+          "School of Mechanical Engineering, Shandong University, Jinan 250101, Shandong, China. jiangzhaoliang@sdu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Zhang, Weifeng",
+        "short_name": "Zhang W",
+        "identifiers": [],
+        "affiliations": [
+          "College of Intelligent Manufacturing, Qingdao University of Science and Technology, Qingdao 266061, Shandong, China. zwfeng@qust.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Gong, Lichao",
+        "short_name": "Gong L",
+        "identifiers": [],
+        "affiliations": [
+          "School of Mechanical Engineering, Shandong University, Jinan 250101, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Siliang",
+        "short_name": "Wang S",
+        "identifiers": [],
+        "affiliations": [
+          "School of Mechanical Engineering, Shandong University, Jinan 250101, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Jie",
+        "short_name": "Chen J",
+        "identifiers": [],
+        "affiliations": [
+          "College of Intelligent Manufacturing, Qingdao University of Science and Technology, Qingdao 266061, Shandong, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Sheng wu gong cheng xue bao = Chinese journal of biotechnology"
+    ],
+    "journal_abbrev": [
+      "Sheng Wu Gong Cheng Xue Bao"
+    ],
+    "pub_date": "2026 Aug 25",
+    "pub_year": "2026",
+    "pub_types": [
+      "English Abstract",
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/08/25 05:34",
+    "fetched_at": "2026-09-08 12:11:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42638048",
+      "42475469",
+      "42164816",
+      "39793745",
+      "42373035",
+      "41051796",
+      "40997828",
+      "39265553",
+      "29378379",
+      "31648135",
+      "41852289",
+      "41953053",
+      "41898453",
+      "40465211",
+      "26466597",
+      "40831328",
+      "38977527",
+      "41411680",
+      "35963520",
+      "41734842",
+      "41705733",
+      "41507884",
+      "41871470",
+      "39260389",
+      "26724184",
+      "35593869",
+      "39420757",
+      "41904999",
+      "41751945",
+      "41402873",
+      "25663505",
+      "38918200",
+      "40578149",
+      "38832442",
+      "41077846",
+      "39775500",
+      "30955134",
+      "38642687",
+      "30357616",
+      "41512329",
+      "31033203",
+      "40704385",
+      "40628344",
+      "41582830",
+      "39456783",
+      "40513614",
+      "38344299",
+      "38822783",
+      "41982329",
+      "41429109",
+      "30840132",
+      "36301474",
+      "42134443",
+      "30373384",
+      "32409059",
+      "34038086",
+      "35349178",
+      "39704234",
+      "40032068",
+      "35562006",
+      "33991588",
+      "28255127",
+      "31476384",
+      "41171637",
+      "37403962",
+      "39273538",
+      "35026478",
+      "33921417",
+      "40131704",
+      "30257593",
+      "28675678",
+      "39918399",
+      "32205755",
+      "31540457",
+      "32932676",
+      "39567171",
+      "35525748",
+      "37885200",
+      "42140876",
+      "33713862",
+      "27043763",
+      "41611285",
+      "40393477",
+      "37119315",
+      "32977633",
+      "32514549",
+      "40713816",
+      "37922535",
+      "40976137",
+      "40392297",
+      "39374681",
+      "38598256",
+      "37737521",
+      "41809174",
+      "34026444",
+      "36335718",
+      "34425531",
+      "31672585",
+      "40886847",
+      "34781026"
+    ],
+    "review": [
+      "42638048",
+      "42164816",
+      "39793745",
+      "41051796",
+      "40997828",
+      "39265553",
+      "29378379",
+      "31648135",
+      "41852289",
+      "41953053",
+      "41898453",
+      "40465211",
+      "26466597",
+      "40831328",
+      "38977527",
+      "41411680",
+      "35963520",
+      "41734842",
+      "41705733",
+      "39260389",
+      "26724184",
+      "39420757",
+      "41904999",
+      "41751945",
+      "41402873",
+      "25663505",
+      "38918200",
+      "40578149",
+      "38832442",
+      "41077846",
+      "39775500",
+      "38642687",
+      "30357616",
+      "41512329",
+      "31033203",
+      "40628344",
+      "41582830",
+      "39456783",
+      "40513614",
+      "38344299",
+      "38822783",
+      "41982329",
+      "41429109",
+      "30840132",
+      "42134443",
+      "30373384",
+      "35349178",
+      "39704234",
+      "40032068",
+      "35562006",
+      "33991588",
+      "28255127",
+      "31476384",
+      "37403962",
+      "39273538",
+      "35026478",
+      "33921417",
+      "40131704",
+      "30257593",
+      "28675678",
+      "39918399",
+      "32205755",
+      "31540457",
+      "32932676",
+      "39567171",
+      "35525748",
+      "37885200",
+      "33713862",
+      "27043763",
+      "41611285",
+      "40393477",
+      "37119315",
+      "32977633",
+      "40713816",
+      "37922535",
+      "40976137",
+      "40392297",
+      "39374681",
+      "38598256",
+      "37737521",
+      "34026444",
+      "36335718",
+      "34425531",
+      "31672585",
+      "40886847",
+      "34781026"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.13345/j.cjb.260339",
+        "provider": "Editorial Office of Sheng Wu Gong Cheng Xue Bao",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

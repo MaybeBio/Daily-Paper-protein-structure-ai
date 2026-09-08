@@ -1,0 +1,342 @@
+{
+  "identity": {
+    "pmid": "42466628",
+    "doi": "10.1093/g3journal/jkag193",
+    "title": "Rare variant analysis of whole genome sequenced juvenile idiopathic arthritis multiplex pedigrees identifies rare variants in NOD2 and ACVR1."
+  },
+  "content": {
+    "abstract": "Juvenile idiopathic arthritis is a complex rheumatic disease that is influenced by environmental and genetic factors. Linkage and genome-wide association studies have identified genes that contribute to the risk of developing juvenile idiopathic arthritis but are limited in their ability to identify disease-risk variants of large effect. Penetrant, heritable risk variants can be detected in high-risk families, but such cases are uncommon due to the low prevalence of juvenile idiopathic arthritis. This study utilizes whole-genome sequencing of 23 multiplex families, the largest such cohort to date, to discover variants and genes relevant to JIA pathogenesis. Pathogenic variants in NOD2 associated with Blau syndrome, an ultra-rare Mendelian inflammatory disorder, are the most recurrent variants in the cohort, consistent with previous reports that milder presentations of Blau syndrome are oftentimes misdiagnosed as juvenile idiopathic arthritis. For the first time, however, rare variants in ACVR1 and SMAD6, integral components of the Bone Morphogenic Protein pathway, are found to be associated with juvenile idiopathic arthritis. Identified ACVR1 variants map to critical protein domains. AlphaFold modeling predicts that the ACVR1 interaction with its inhibitor OGT is disrupted by these variants, indicating that the patient-mutated protein has a gain-of-function phenotype. Drosophila melanogaster expressing either a wild-type or patient-mutated version of ACVR1 exhibit embryonic lethality, with the mutant exhibiting 1.4-fold greater lethality than wild-type. The combination of family-based cohorts for gene discovery, AI-based computational tools, and animal model studies for tests of variant function underscores shared disease pathogenesis between JIA and monogenic disorders of immunity and connective tissue.",
+    "keywords": [
+      "ACVR1",
+      "NOD2",
+      "autoimmunity",
+      "pediatric",
+      "rare disease",
+      "rare variant",
+      "whole-genome sequencing"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Nod2 Signaling Adaptor Protein/genetics/chemistry",
+      "*Arthritis, Juvenile/genetics",
+      "Pedigree",
+      "Animals",
+      "Whole Genome Sequencing",
+      "*Activin Receptors, Type I/genetics/chemistry/metabolism",
+      "Female",
+      "Genetic Predisposition to Disease",
+      "*Genetic Variation",
+      "Male",
+      "Genome-Wide Association Study",
+      "Mutation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Avery, Cecile N",
+        "Hernandez, Edgar J",
+        "Kazuko, Sandy G",
+        "Bohnsack, John F",
+        "Sudman, Marc",
+        "Prahalad, Sampath",
+        "Radmall, Kaitlin",
+        "Hersh, Aimee O",
+        "Letsou, Anthea",
+        "Jorde, Lynn B"
+      ],
+      "short_names": [
+        "Avery CN",
+        "Hernandez EJ",
+        "Kazuko SG",
+        "Bohnsack JF",
+        "Sudman M",
+        "Prahalad S",
+        "Radmall K",
+        "Hersh AO",
+        "Letsou A",
+        "Jorde LB"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-0061-1031",
+        "ORCID: 0000-0002-3079-0264"
+      ],
+      "affiliations": [
+        "Department of Biomedical Informatics, Vanderbilt University Medical Center, Nashville, TN 37203, United States.",
+        "Department of Human Genetics, University of Utah, Salt Lake City, UT 84112, United States.",
+        "Department of Human Genetics, University of Utah, Salt Lake City, UT 84112, United States.",
+        "Department of Pediatrics, University of Utah, Salt Lake City, UT 84112, United States.",
+        "Division of Rheumatology, University of Cincinnati College of Medicine and Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, United States.",
+        "Department of Pediatrics, Emory University School of Medicine, Atlanta, GA 30322, United States.",
+        "Department of Human Genetics, University of Utah, Salt Lake City, UT 84112, United States.",
+        "Department of Pediatrics, University of Utah, Salt Lake City, UT 84112, United States.",
+        "Department of Human Genetics, University of Utah, Salt Lake City, UT 84112, United States.",
+        "Department of Human Genetics, University of Utah, Salt Lake City, UT 84112, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Avery, Cecile N",
+        "short_name": "Avery CN",
+        "identifiers": [
+          "0000-0003-0061-1031"
+        ],
+        "affiliations": [
+          "Department of Biomedical Informatics, Vanderbilt University Medical Center, Nashville, TN 37203, United States."
+        ]
+      },
+      {
+        "full_name": "Hernandez, Edgar J",
+        "short_name": "Hernandez EJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Human Genetics, University of Utah, Salt Lake City, UT 84112, United States."
+        ]
+      },
+      {
+        "full_name": "Kazuko, Sandy G",
+        "short_name": "Kazuko SG",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Human Genetics, University of Utah, Salt Lake City, UT 84112, United States."
+        ]
+      },
+      {
+        "full_name": "Bohnsack, John F",
+        "short_name": "Bohnsack JF",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatrics, University of Utah, Salt Lake City, UT 84112, United States."
+        ]
+      },
+      {
+        "full_name": "Sudman, Marc",
+        "short_name": "Sudman M",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Rheumatology, University of Cincinnati College of Medicine and Cincinnati Children's Hospital Medical Center, Cincinnati, OH 45229, United States."
+        ]
+      },
+      {
+        "full_name": "Prahalad, Sampath",
+        "short_name": "Prahalad S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatrics, Emory University School of Medicine, Atlanta, GA 30322, United States."
+        ]
+      },
+      {
+        "full_name": "Radmall, Kaitlin",
+        "short_name": "Radmall K",
+        "identifiers": [
+          "0000-0002-3079-0264"
+        ],
+        "affiliations": [
+          "Department of Human Genetics, University of Utah, Salt Lake City, UT 84112, United States."
+        ]
+      },
+      {
+        "full_name": "Hersh, Aimee O",
+        "short_name": "Hersh AO",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatrics, University of Utah, Salt Lake City, UT 84112, United States."
+        ]
+      },
+      {
+        "full_name": "Letsou, Anthea",
+        "short_name": "Letsou A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Human Genetics, University of Utah, Salt Lake City, UT 84112, United States."
+        ]
+      },
+      {
+        "full_name": "Jorde, Lynn B",
+        "short_name": "Jorde LB",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Human Genetics, University of Utah, Salt Lake City, UT 84112, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "G3 (Bethesda, Md.)"
+    ],
+    "journal_abbrev": [
+      "G3 (Bethesda)"
+    ],
+    "pub_date": "2026 Sep 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/07/17 17:25",
+    "fetched_at": "2026-09-08 12:12:00"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42466628",
+      "37941393",
+      "33408077",
+      "40713900",
+      "27005825",
+      "39729320",
+      "35314268",
+      "25047945",
+      "26305060",
+      "34251956",
+      "31556326",
+      "30367527",
+      "29697845",
+      "34101054",
+      "36153796",
+      "40898345",
+      "32597225",
+      "30167848",
+      "29248470",
+      "38369753",
+      "28572608",
+      "36248892",
+      "33971972",
+      "34946848",
+      "38674447",
+      "33106285",
+      "39082428",
+      "30845214",
+      "32463623",
+      "29248579",
+      "31169548",
+      "28422189",
+      "30806112",
+      "33729739",
+      "28719732",
+      "17968944",
+      "29538758",
+      "29279374",
+      "28900629",
+      "33874999",
+      "40196132",
+      "41902739",
+      "42266057",
+      "32641001",
+      "27182040",
+      "41616791",
+      "25220867",
+      "15121991",
+      "30633125",
+      "36864708",
+      "22354554",
+      "22543157",
+      "31240838",
+      "30379966",
+      "28056736",
+      "30054724",
+      "40221599",
+      "30574935",
+      "34662339",
+      "36755318",
+      "27306066",
+      "37186377",
+      "23553203",
+      "39678461",
+      "25833190",
+      "29609200",
+      "26606664",
+      "34465352",
+      "28255817",
+      "35967305",
+      "33374967",
+      "30166421",
+      "31404076",
+      "38997781",
+      "30957677",
+      "26836588",
+      "27927641",
+      "42144802",
+      "38741190",
+      "33797837",
+      "35786784",
+      "40802484",
+      "28682159",
+      "40633979",
+      "23352252",
+      "37229810",
+      "28721627",
+      "19455129",
+      "39372397",
+      "26932190",
+      "41726570",
+      "33606672",
+      "31034279",
+      "29891356",
+      "15314499",
+      "20577567",
+      "32556329",
+      "41190486",
+      "32424308",
+      "25540605"
+    ],
+    "review": [
+      "42466628",
+      "26305060",
+      "29248470",
+      "33106285",
+      "31169548",
+      "28719732",
+      "29538758",
+      "42266057",
+      "15121991",
+      "22354554",
+      "37186377",
+      "28255817",
+      "23352252",
+      "28721627",
+      "41726570"
+    ],
+    "pmc": [
+      "13535375"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/juvenilearthritis.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Juvenile Arthritis"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42466628/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1261",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/g3journal/article-lookup/doi/10.1093/g3journal/jkag193",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

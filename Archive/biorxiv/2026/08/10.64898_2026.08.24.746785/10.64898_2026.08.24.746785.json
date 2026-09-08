@@ -1,0 +1,147 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.08.24.746785",
+  "title": "A Medicinal Chemistry-Centered Evaluation of AlphaFold 3 and Boltz-2 Across Diverse Binding Modalities",
+  "doi": "10.64898/2026.08.24.746785",
+  "abstract": "AlphaFold 3 (AF3) and Boltz-2 are state-of-the-art AI-based tools for biomolecular structure prediction, but whether their predictions provide useful guidance for lead optimization, SAR interpretation, and virtual screening remains insufficiently characterized. We benchmarked their performance using newly determined soluble epoxide hydrolase co-crystal structures and matched activity data together with a curated post-training-cutoff dataset spanning kinases, allosteric modulators, covalent systems, PROTACs, molecular glues, fragments, membrane proteins, RNA binders, and activity-cliff pairs. Both models recovered canonical orthosteric enzyme and kinase complexes, including key DFG/αC conformational states, whereas allosteric, membrane-protein, and induced-proximity complexes remained challenging. Pharmacophore RMSD was often lower than overall ligand RMSD, indicating preservation of key recognition features despite imperfect whole-ligand alignment. AF3 minPAE correlated with pose accuracy, and very low minPAE values (<0.85 Å) were strongly enriched for accurate poses. Model confidence scores were not associated with experimental activity, whereas Boltz-2 predicted affinity captured relative activity trends and distinguished the activity-cliff pair, although its performance varied across ligand series.",
+  "authors": [
+    "Chen K",
+    "Qi Z",
+    "Lozano Ramos O",
+    "Li H",
+    "Ma M",
+    "Gannarapu MR",
+    "Bi F",
+    "Li A",
+    "Li H",
+    "Xiong R"
+  ],
+  "published_date": "2026-08-26",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.08.24.746785",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.08.24.746785.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1307123",
+    "raw_record": {
+      "id": "PPR1307123",
+      "source": "PPR",
+      "doi": "10.64898/2026.08.24.746785",
+      "title": "A Medicinal Chemistry-Centered Evaluation of AlphaFold 3 and Boltz-2 Across Diverse Binding Modalities",
+      "authorString": "Chen K, Qi Z, Lozano Ramos O, Li H, Ma M, Gannarapu MR, Bi F, Li A, Li H, Xiong R.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Chen K",
+            "firstName": "Ke",
+            "lastName": "Chen",
+            "initials": "K"
+          },
+          {
+            "fullName": "Qi Z",
+            "firstName": "Zuohuang",
+            "lastName": "Qi",
+            "initials": "Z"
+          },
+          {
+            "fullName": "Lozano Ramos O",
+            "firstName": "Omar",
+            "lastName": "Lozano Ramos",
+            "initials": "O"
+          },
+          {
+            "fullName": "Li H",
+            "firstName": "Huayu",
+            "lastName": "Li",
+            "initials": "H"
+          },
+          {
+            "fullName": "Ma M",
+            "firstName": "Mengjiao",
+            "lastName": "Ma",
+            "initials": "M"
+          },
+          {
+            "fullName": "Gannarapu MR",
+            "firstName": "Malla Reddy",
+            "lastName": "Gannarapu",
+            "initials": "MR"
+          },
+          {
+            "fullName": "Bi F",
+            "firstName": "Fangchao",
+            "lastName": "Bi",
+            "initials": "F"
+          },
+          {
+            "fullName": "Li A",
+            "firstName": "Ao",
+            "lastName": "Li",
+            "initials": "A"
+          },
+          {
+            "fullName": "Li H",
+            "firstName": "Hongmin",
+            "lastName": "Li",
+            "initials": "H"
+          },
+          {
+            "fullName": "Xiong R",
+            "firstName": "Rui",
+            "lastName": "Xiong",
+            "initials": "R"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "AlphaFold 3 (AF3) and Boltz-2 are state-of-the-art AI-based tools for biomolecular structure prediction, but whether their predictions provide useful guidance for lead optimization, SAR interpretation, and virtual screening remains insufficiently characterized. We benchmarked their performance using newly determined soluble epoxide hydrolase co-crystal structures and matched activity data together with a curated post-training-cutoff dataset spanning kinases, allosteric modulators, covalent systems, PROTACs, molecular glues, fragments, membrane proteins, RNA binders, and activity-cliff pairs. Both models recovered canonical orthosteric enzyme and kinase complexes, including key DFG/αC conformational states, whereas allosteric, membrane-protein, and induced-proximity complexes remained challenging. Pharmacophore RMSD was often lower than overall ligand RMSD, indicating preservation of key recognition features despite imperfect whole-ligand alignment. AF3 minPAE correlated with pose accuracy, and very low minPAE values (<0.85 Å) were strongly enriched for accurate poses. Model confidence scores were not associated with experimental activity, whereas Boltz-2 predicted affinity captured relative activity trends and distinguished the activity-cliff pair, although its performance varied across ligand series.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.08.24.746785"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-08-28",
+      "firstIndexDate": "2026-08-30",
+      "firstPublicationDate": "2026-08-26"
+    }
+  }
+}

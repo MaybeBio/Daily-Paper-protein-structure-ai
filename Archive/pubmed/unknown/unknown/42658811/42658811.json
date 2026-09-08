@@ -1,0 +1,256 @@
+{
+  "identity": {
+    "pmid": "42658811",
+    "doi": "10.1371/journal.pone.0355549",
+    "title": "Assessment of generative de novo peptide design methods for G protein-coupled receptors."
+  },
+  "content": {
+    "abstract": "G protein-coupled receptors (GPCRs) play an ubiquitous role in the transduction of extracellular stimuli into intracellular responses and therefore represent a major target for the development of novel peptide-based therapeutics. In fact, approximately 30% of all non-sensory GPCRs are peptide-targeted, representing a blueprint for the design of de novo peptides, both as pharmacological tools and therapeutics. The recent advances of deep learning-based protein structure generation and structure prediction offer a multitude of peptide design stategies for GPCRs, yet confidence metrics rarely correlate with experimental success. In the context of peptides, this problem is exacerbated due to the lack of elaborate tertiary structures in peptides, raising the question of whether this is due to inadequate sampling or insufficient scoring. In this two-part benchmark, we addressed this question by first simulating the validation process of 91 unique known GPCR-peptide and 22 unique GPCR-protein complexes including four nanobodies (nAbs) using AlphaFold2 Initial Guess, Boltz-2 and RosettaFold3. We then assessed the peptide sampling capabilities of the respective generative methods BindCraft, BoltzGen and RFdiffusion3. Our results indicate that current design pipelines primarily suffer from significant confidence overestimation for misplaced peptides in the validation phase across all three prediction methods. We further highlight occurrences of significant memorization in both prediction as well as generation of peptides. While all generative methods sample backbone space sufficiently, their simultaneous sequence generation remains subpar and can be partially recovered through the use of ProteinMPNN. Taken together, our benchmark offers guidance for the design of peptides specifically using deep learning-based pipelines.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Receptors, G-Protein-Coupled/chemistry/metabolism",
+      "*Peptides/chemistry",
+      "Humans",
+      "*Drug Design",
+      "Models, Molecular",
+      "Protein Conformation",
+      "Amino Acid Sequence"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Junker, Hannes",
+        "Schoeder, Clara T"
+      ],
+      "short_names": [
+        "Junker H",
+        "Schoeder CT"
+      ],
+      "auids": [
+        "ORCID: 0009-0006-6608-6064",
+        "ORCID: 0000-0002-4664-961X"
+      ],
+      "affiliations": [
+        "Institute for Drug Discovery, Leipzig University Medical Faculty, Leipzig, Germany.",
+        "Institute for Drug Discovery, Leipzig University Medical Faculty, Leipzig, Germany.",
+        "Center for Scalable Data Analytics and Artificial Intelligence ScaDS.AI, Dresden/Leipzig, Germany."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Junker, Hannes",
+        "short_name": "Junker H",
+        "identifiers": [
+          "0009-0006-6608-6064"
+        ],
+        "affiliations": [
+          "Institute for Drug Discovery, Leipzig University Medical Faculty, Leipzig, Germany."
+        ]
+      },
+      {
+        "full_name": "Schoeder, Clara T",
+        "short_name": "Schoeder CT",
+        "identifiers": [
+          "0000-0002-4664-961X"
+        ],
+        "affiliations": [
+          "Institute for Drug Discovery, Leipzig University Medical Faculty, Leipzig, Germany.",
+          "Center for Scalable Data Analytics and Artificial Intelligence ScaDS.AI, Dresden/Leipzig, Germany."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "PloS one"
+    ],
+    "journal_abbrev": [
+      "PLoS One"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/08/27 17:37",
+    "fetched_at": "2026-09-08 12:11:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42658811",
+      "42475469",
+      "42472618",
+      "35011444",
+      "40694881",
+      "33810175",
+      "41074841",
+      "34348315",
+      "41251237",
+      "35510704",
+      "20158474",
+      "20687879",
+      "18854305",
+      "40285358",
+      "25935673",
+      "31436539",
+      "42599668",
+      "35778488",
+      "42289978",
+      "16773462",
+      "40513649",
+      "42218716",
+      "31467080",
+      "39643640",
+      "19447219",
+      "39137328",
+      "42492505",
+      "29567494",
+      "39266056",
+      "41881211",
+      "19446460",
+      "40268234",
+      "35128926",
+      "41675592",
+      "22374997",
+      "27832483",
+      "40399308",
+      "32494050",
+      "17054015",
+      "41873490",
+      "30394207",
+      "28705763",
+      "41795245",
+      "16918448",
+      "15179821",
+      "41387675",
+      "41825109",
+      "36183332",
+      "29653834",
+      "16289816",
+      "15581415",
+      "18229698",
+      "40658860",
+      "41047732",
+      "28657745",
+      "38297834",
+      "29131821",
+      "21605354",
+      "40076783",
+      "23500134",
+      "42198231",
+      "20537162",
+      "16796383",
+      "28964335",
+      "24216321",
+      "42153319",
+      "40083048",
+      "31155052",
+      "30311978",
+      "36651657",
+      "39337622",
+      "31863461",
+      "17694568",
+      "42410671",
+      "42076870",
+      "29547818",
+      "32901584",
+      "19686775",
+      "16220973",
+      "24127232",
+      "22576240",
+      "26978043",
+      "40248248",
+      "32737667",
+      "16485037",
+      "22204332",
+      "11774230",
+      "23844000",
+      "18315845",
+      "27546045",
+      "40223692",
+      "19756152",
+      "16159019",
+      "41524971",
+      "41051467",
+      "29457894",
+      "33216895",
+      "39107078",
+      "27490828",
+      "31515243"
+    ],
+    "review": [
+      "42658811",
+      "42472618",
+      "35011444",
+      "40694881",
+      "33810175",
+      "34348315",
+      "20158474",
+      "20687879",
+      "31436539",
+      "42599668",
+      "35778488",
+      "16773462",
+      "19447219",
+      "29567494",
+      "19446460",
+      "35128926",
+      "22374997",
+      "27832483",
+      "32494050",
+      "41873490",
+      "30394207",
+      "28705763",
+      "41795245",
+      "16918448",
+      "41825109",
+      "29653834",
+      "15581415",
+      "28657745",
+      "42198231",
+      "16796383",
+      "24216321",
+      "42153319",
+      "30311978",
+      "31863461",
+      "29547818",
+      "32901584",
+      "19686775",
+      "22204332",
+      "11774230",
+      "16159019",
+      "41051467",
+      "39107078",
+      "27490828"
+    ],
+    "pmc": [
+      "13521358"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://dx.plos.org/10.1371/journal.pone.0355549",
+        "provider": "Public Library of Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42658811/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

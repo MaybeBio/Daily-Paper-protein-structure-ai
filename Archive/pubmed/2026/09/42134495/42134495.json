@@ -1,0 +1,266 @@
+{
+  "identity": {
+    "pmid": "42134495",
+    "doi": "10.1016/j.jmb.2026.169860",
+    "title": "Protein Engineering-Enabled Cryo-EM Investigation of Small GTPases."
+  },
+  "content": {
+    "abstract": "Small GTPases play important roles in cellular signaling. Due to their small sizes ( approximately 21 kDa), structural studies of small GTPases have been predominantly performed using x-ray crystallography in which crystal lattice contacts made it challenging to define unperturbed conformations of the key switch regions. Here, we developed a protein-engineering strategy that enables cryo-EM analysis of small soluble proteins and applied to RAS. We fused the C-terminal alpha5 helix of the RAS globular domain to a small protein BRIL by forming a continuous helix, which leaves most RAS surfaces exposed to the solvent and unperturbed, followed by the complex formation with an anti-BRIL Fab. This engineered complex with an increased molecular weight, termed \"RAS-lollipop\", enabled single-particle cryo-EM of RAS. Using this approach, we determined the cryo-EM structure of NRAS, whose structural studies using crystallography have been the least successful among the RAS isoforms. We revealed the conformations of the switch region and alpha 5 helix that differ from those observed in published crystal structures, and also defined the binding site of an NRAS-specific monobody. We uncovered an unexpected surfactant-like property of this monobody, which reduces orientation biases of particles on cryo-EM grids. Together, this work establishes a platform for visualizing small GTPases and potentially other small proteins with minimal perturbation of their surfaces.",
+    "keywords": [
+      "AlphaFold prediction",
+      "helix plasticity",
+      "linker optimization",
+      "scaffold-assisted structure determination"
+    ],
+    "mesh_terms": [
+      "*Cryoelectron Microscopy/methods",
+      "*Protein Engineering/methods",
+      "GTP Phosphohydrolases/chemistry/metabolism",
+      "*Monomeric GTP-Binding Proteins/chemistry/metabolism/genetics/ultrastructure",
+      "Models, Molecular",
+      "Humans",
+      "Protein Conformation",
+      "Membrane Proteins/chemistry/metabolism/genetics",
+      "Crystallography, X-Ray",
+      "Binding Sites",
+      "ras Proteins/chemistry/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Hu, Zhengshan",
+        "Patel, Unnatiben Rajeshbhai",
+        "Glasser, Eliezra",
+        "Koide, Akiko",
+        "Koide, Shohei"
+      ],
+      "short_names": [
+        "Hu Z",
+        "Patel UR",
+        "Glasser E",
+        "Koide A",
+        "Koide S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Perlmutter Cancer Center, New York University Langone Health, New York, NY, USA.",
+        "Perlmutter Cancer Center, New York University Langone Health, New York, NY, USA.",
+        "Perlmutter Cancer Center, New York University Langone Health, New York, NY, USA.",
+        "Perlmutter Cancer Center, New York University Langone Health, New York, NY, USA; Department of Medicine, New York University Grossman School of Medicine, New York, NY, USA.",
+        "Perlmutter Cancer Center, New York University Langone Health, New York, NY, USA; Department of Biochemistry and Molecular Pharmacology, New York University School of Medicine, New York, NY, USA. Electronic address: Shohei.Koide@nyulangone.org."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Hu, Zhengshan",
+        "short_name": "Hu Z",
+        "identifiers": [],
+        "affiliations": [
+          "Perlmutter Cancer Center, New York University Langone Health, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Patel, Unnatiben Rajeshbhai",
+        "short_name": "Patel UR",
+        "identifiers": [],
+        "affiliations": [
+          "Perlmutter Cancer Center, New York University Langone Health, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Glasser, Eliezra",
+        "short_name": "Glasser E",
+        "identifiers": [],
+        "affiliations": [
+          "Perlmutter Cancer Center, New York University Langone Health, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Koide, Akiko",
+        "short_name": "Koide A",
+        "identifiers": [],
+        "affiliations": [
+          "Perlmutter Cancer Center, New York University Langone Health, New York, NY, USA; Department of Medicine, New York University Grossman School of Medicine, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Koide, Shohei",
+        "short_name": "Koide S",
+        "identifiers": [],
+        "affiliations": [
+          "Perlmutter Cancer Center, New York University Langone Health, New York, NY, USA; Department of Biochemistry and Molecular Pharmacology, New York University School of Medicine, New York, NY, USA. Electronic address: Shohei.Koide@nyulangone.org."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of molecular biology"
+    ],
+    "journal_abbrev": [
+      "J Mol Biol"
+    ],
+    "pub_date": "2026 Sep 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/05/15 00:31",
+    "fetched_at": "2026-09-08 12:12:36"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42134495",
+      "15994326",
+      "39746942",
+      "15728574",
+      "21388959",
+      "38640594",
+      "35679404",
+      "28630043",
+      "27936046",
+      "35679425",
+      "41309179",
+      "31088913",
+      "30299652",
+      "41120715",
+      "28993151",
+      "29507202",
+      "20479006",
+      "9819430",
+      "38890341",
+      "38767964",
+      "31461845",
+      "16439358",
+      "16682558",
+      "34782475",
+      "21903096",
+      "34581758",
+      "9690470",
+      "33676924",
+      "24889603",
+      "33719392",
+      "24189050",
+      "34620716",
+      "23668907",
+      "40335703",
+      "40108246",
+      "17107948",
+      "31080120",
+      "41606274",
+      "41735342",
+      "32112328",
+      "18596699",
+      "17005216",
+      "33408407",
+      "9434906",
+      "33077960",
+      "40277178",
+      "40817135",
+      "12671004",
+      "11709168",
+      "29518032",
+      "16866878",
+      "35902590",
+      "14575862",
+      "9628477",
+      "33926964",
+      "41233542",
+      "41101423",
+      "22843693",
+      "26555751",
+      "15726588",
+      "11738594",
+      "10360578",
+      "32221310",
+      "31197034",
+      "23055524",
+      "9395281",
+      "9219684",
+      "40446521",
+      "30279169",
+      "38480881",
+      "32680969",
+      "27485862",
+      "41199488",
+      "33950397",
+      "17186523",
+      "36997036",
+      "32772462",
+      "41709867",
+      "21945529",
+      "15339802",
+      "32735944",
+      "10727423",
+      "18022392",
+      "29227642",
+      "25847242",
+      "28779836",
+      "29118099",
+      "41507421",
+      "28949136",
+      "39145928",
+      "17699634",
+      "33125482",
+      "32393580",
+      "30412578",
+      "29080674",
+      "14718928",
+      "3333361",
+      "31348870",
+      "26272610",
+      "41842660"
+    ],
+    "review": [
+      "42134495",
+      "31461845",
+      "34581758",
+      "41606274",
+      "9434906",
+      "14575862",
+      "11738594",
+      "9395281",
+      "40446521",
+      "29118099",
+      "41507421",
+      "33125482",
+      "3333361"
+    ],
+    "pmc": [
+      "13264709"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0022-2836(26)00233-0",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42134495/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1549",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

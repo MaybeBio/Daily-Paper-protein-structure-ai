@@ -1,0 +1,228 @@
+{
+  "identity": {
+    "pmid": "42644463",
+    "doi": "10.7554/eLife.111515",
+    "title": "A membrane insertion code for intrinsically disordered proteins."
+  },
+  "content": {
+    "abstract": "Membrane association of intrinsically disordered proteins (IDPs) mediates various cellular functions including membrane remodeling and signal transduction. Whereas membrane association through amphipathic helices and polybasic motifs is well understood, sequence determinants for the insertion of aromatic residues into the membrane hydrophobic core are still poorly characterized. Here, we decipher the sequence code for membrane insertion of aromatic-centered motifs. For an initial set of ten 9-residue aromatic-centered sequences, all-atom molecular dynamics simulations and the positioning of proteins in membranes (PPM) method produced very similar membrane insertion propensities. Applying PPM to a full library of 1.2x10(6) sequences with an F, W, or Y residue flanked by L, R, G, N, or E at four positions on either side, we found that aliphatic (L) and basic (R) residues favor membrane insertion, whereas acidic (E) and polar (N) residues disfavor it. Guided by these rules, we developed a mathematical model dubbed AroMIP (Aromatic Membrane Insertion Predictor) to predict the membrane insertion propensities of aromatic-centered motifs. AroMIP achieves 91.2, 92.0, and 99.7% accuracies for F-, W-, and Y-centered motifs, respectively, in disordered regions of the human proteome and is available as a web server at https://zhougroup-uic.github.io/AroMIP/. The present work provides the sequence basis and a mechanistic understanding of how IDPs employ aromatic-centered motifs to drive membrane insertion, and enriches the tools for the study of IDP-membrane association.",
+    "keywords": [
+      "aromatic residues",
+      "cell membranes",
+      "human",
+      "intrinsically disordered regions",
+      "membrane insertion",
+      "molecular biophysics",
+      "structural biology"
+    ],
+    "mesh_terms": [
+      "*Intrinsically Disordered Proteins/metabolism/chemistry",
+      "Molecular Dynamics Simulation",
+      "*Cell Membrane/metabolism/chemistry",
+      "Humans",
+      "Amino Acid Motifs",
+      "Hydrophobic and Hydrophilic Interactions"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kunnath Muhammedkutty, Fidha Nazreen",
+        "Zhou, Huan-Xiang"
+      ],
+      "short_names": [
+        "Kunnath Muhammedkutty FN",
+        "Zhou HX"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-9020-0302"
+      ],
+      "affiliations": [
+        "Department of Chemistry, University of Illinois Chicago, Chicago, United States.",
+        "Department of Chemistry, University of Illinois Chicago, Chicago, United States.",
+        "Department of Physics, University of Illinois Chicago, Chicago, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kunnath Muhammedkutty, Fidha Nazreen",
+        "short_name": "Kunnath Muhammedkutty FN",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, University of Illinois Chicago, Chicago, United States."
+        ]
+      },
+      {
+        "full_name": "Zhou, Huan-Xiang",
+        "short_name": "Zhou HX",
+        "identifiers": [
+          "0000-0001-9020-0302"
+        ],
+        "affiliations": [
+          "Department of Chemistry, University of Illinois Chicago, Chicago, United States.",
+          "Department of Physics, University of Illinois Chicago, Chicago, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "eLife"
+    ],
+    "journal_abbrev": [
+      "Elife"
+    ],
+    "pub_date": "2026 Aug 26",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/08/26 11:50",
+    "fetched_at": "2026-09-08 12:11:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42644463",
+      "41959284",
+      "41055109",
+      "39952269",
+      "39475380",
+      "40654683",
+      "36005688",
+      "36778236",
+      "31672499",
+      "31283003",
+      "38942776",
+      "28365882",
+      "25919886",
+      "35451616",
+      "32393642",
+      "42578546",
+      "29548979",
+      "30240067",
+      "24763499",
+      "41053545",
+      "37498545",
+      "32771522",
+      "40383327",
+      "25445668",
+      "39163306",
+      "26735936",
+      "42475469",
+      "31425549",
+      "25992726",
+      "34626492",
+      "33945530",
+      "41001635",
+      "32859072",
+      "31756456",
+      "41725507",
+      "34390736",
+      "25244701",
+      "36827446",
+      "30366362",
+      "24589355",
+      "33355572",
+      "39807013",
+      "31096049",
+      "35481633",
+      "26851286",
+      "32696378",
+      "35562983",
+      "34716273",
+      "28554535",
+      "41174305",
+      "35436286",
+      "31932309",
+      "27111521",
+      "38181399",
+      "41082321",
+      "36674958",
+      "35034725",
+      "26742101",
+      "29228892",
+      "41629626",
+      "40095314",
+      "41534519",
+      "31264965",
+      "28934129",
+      "34845619",
+      "40131954",
+      "27936491",
+      "27844185",
+      "23912807",
+      "32696379",
+      "24668165",
+      "26402567",
+      "28914483",
+      "24211251",
+      "29208465",
+      "28448138",
+      "34347206",
+      "21541066",
+      "38275091",
+      "36084347",
+      "31442477",
+      "35012986",
+      "38987470",
+      "40068541",
+      "29734867",
+      "42427316",
+      "25207671",
+      "35762718",
+      "29424691",
+      "31809054",
+      "33269926",
+      "24892900",
+      "42454746",
+      "32929427",
+      "39885825",
+      "38079339",
+      "38116756",
+      "34863777",
+      "42214054",
+      "34439840"
+    ],
+    "review": [
+      "42644463",
+      "39952269",
+      "31672499",
+      "35451616",
+      "41725507",
+      "34390736",
+      "33355572",
+      "31096049",
+      "26851286",
+      "26402567",
+      "34347206"
+    ],
+    "pmc": [
+      "13516693"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42644463/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.7554/eLife.111515",
+        "provider": "eLife Sciences Publications, Ltd",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

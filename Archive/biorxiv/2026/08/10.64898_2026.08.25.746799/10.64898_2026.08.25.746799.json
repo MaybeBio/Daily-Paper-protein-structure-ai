@@ -1,0 +1,98 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.08.25.746799",
+  "title": "Human Lactoferrin is a Novel PFAS Target: Implications for Neo-natal Immune Function and Protein Stability",
+  "doi": "10.64898/2026.08.25.746799",
+  "abstract": "Per-and polyfluoroalkyl substances (PFAS) constitute a diverse class of persistent synthetic chemicals utilized across industrial, medical, and consumer sectors that are pervasive global pollutants. Exposure to PFAS is linked to adverse impacts on both innate and adaptive immune systems. Human lactoferrin (hLF) is a key antimicrobial component of the developing innate immune system present in colostrum and breast milk. We hypothesized that hLF is a potential PFAS binding protein related to PFAS immunotoxicity. The results of thermal stability experiments indicated that all 11 tested PFAS bind and destabilize the structure of hLF. Notably PFBA, PFOS, HFPO-DA, and 6:2 FTSA decreased apo-hLF melting temperatures from 64°C to ≤ 37°C, suggesting that PFAS exposures destabilize the native hLF protein under physiological conditions. Relative binding affinities (K d ) ranged from 0.2-11 mM across tested PFAS. Molecular docking was used to confirm experimental binding affinities and identify molecular interactions involved with PFAS binding. Calculated Gibbs Free Energies of binding ranged from −4.4 to −8.8 kcal/mol. Together, these results demonstrate that PFAS bind hLF at affinities comparable to human serum albumin and other PFAS binding proteins, and that some PFAS can destabilize hLF protein structure at physiologically relevant temperatures and conditions.",
+  "authors": [
+    "Thomas ME",
+    "McLean ZS",
+    "Belcher SM"
+  ],
+  "published_date": "2026-08-28",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.08.25.746799",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.08.25.746799.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1307750",
+    "raw_record": {
+      "id": "PPR1307750",
+      "source": "PPR",
+      "doi": "10.64898/2026.08.25.746799",
+      "title": "Human Lactoferrin is a Novel PFAS Target: Implications for Neo-natal Immune Function and Protein Stability",
+      "authorString": "Thomas ME, McLean ZS, Belcher SM.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Thomas ME",
+            "firstName": "Mallory",
+            "lastName": "Thomas",
+            "initials": "ME"
+          },
+          {
+            "fullName": "McLean ZS",
+            "firstName": "Zachary",
+            "lastName": "McLean",
+            "initials": "ZS"
+          },
+          {
+            "fullName": "Belcher SM",
+            "firstName": "Scott",
+            "lastName": "Belcher",
+            "initials": "SM"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Per-and polyfluoroalkyl substances (PFAS) constitute a diverse class of persistent synthetic chemicals utilized across industrial, medical, and consumer sectors that are pervasive global pollutants. Exposure to PFAS is linked to adverse impacts on both innate and adaptive immune systems. Human lactoferrin (hLF) is a key antimicrobial component of the developing innate immune system present in colostrum and breast milk. We hypothesized that hLF is a potential PFAS binding protein related to PFAS immunotoxicity. The results of thermal stability experiments indicated that all 11 tested PFAS bind and destabilize the structure of hLF. Notably PFBA, PFOS, HFPO-DA, and 6:2 FTSA decreased apo-hLF melting temperatures from 64°C to ≤ 37°C, suggesting that PFAS exposures destabilize the native hLF protein under physiological conditions. Relative binding affinities (K  d ) ranged from 0.2-11 mM across tested PFAS. Molecular docking was used to confirm experimental binding affinities and identify molecular interactions involved with PFAS binding. Calculated Gibbs Free Energies of binding ranged from −4.4 to −8.8 kcal/mol. Together, these results demonstrate that PFAS bind hLF at affinities comparable to human serum albumin and other PFAS binding proteins, and that some PFAS can destabilize hLF protein structure at physiologically relevant temperatures and conditions.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.08.25.746799"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-08-29",
+      "firstIndexDate": "2026-08-30",
+      "firstPublicationDate": "2026-08-28"
+    }
+  }
+}

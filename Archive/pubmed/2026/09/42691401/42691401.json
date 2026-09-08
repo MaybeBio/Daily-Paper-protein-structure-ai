@@ -1,0 +1,223 @@
+{
+  "identity": {
+    "pmid": "42691401",
+    "doi": "10.1021/acs.jpcb.6c02175",
+    "title": "Unraveling Specific Binding Sites of Pulmonary Surfactants on the Coronavirus Spike Protein Receptor-Binding Domain."
+  },
+  "content": {
+    "abstract": "The lung surfactant (LS) coating the alveoli is the first barrier to airborne pathogens, such as coronaviruses, which may prevent lung infection. It is essential to understand the interactions of virion structural units with LS for efficient pharmaceutical design and formulation. Since virions inevitably pass through LS, both inhibitory as well as facilitatory interactions of the LS lipids with viral proteins and the viral envelope play a crucial role in the virus's fate in the respiratory system. In this work, by means of multiscale molecular dynamics simulations, we investigate the interactions of five LS lipids with the receptor-binding domain (RBD) of the SARS-CoV-2 Spike protein. By performing coarse-grained (CG) simulations of spontaneous protein-ligand binding, we identify six potential surfactant binding sites (SBS) on the RBD protein. We find that all surfactants bind to the binding pocket identified as the fatty acid binding site (FABS) that has allosteric effects on RBD-ACE2 binding. CG simulations reveal that FABS is the preferred binding site for several phospholipids and cholesterol. Subsequent atomistic simulations of the back-transformed CG bound poses reveal high surfactant binding enthalpies (-26 to -60 kcal/mol) at FABS and surfactant-selective behavior of FABS-bound protein-surfactant complexes. Although this study considers only isolated RBD in the absence of glycans, our results suggest that unsaturated lipids POPG and POPI (palmitoyl oleoylphosphatidylglycerolinositol) may exert inhibitory effects, while DPPC (dipalmitoylphosphatidylcholine) and cholesterol may have facilitatory effects on viral infection. Our simulations provide valuable guidance on pharmaceutical design and future research on the pathology of coronavirus.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Spike Glycoprotein, Coronavirus/chemistry/metabolism",
+      "Binding Sites",
+      "Molecular Dynamics Simulation",
+      "*Pulmonary Surfactants/chemistry/metabolism",
+      "Protein Domains",
+      "Protein Binding",
+      "SARS-CoV-2",
+      "*Betacoronavirus/chemistry/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Santo, Kolattukudy P",
+        "Jaworski, Ryan",
+        "Neimark, Alexander V"
+      ],
+      "short_names": [
+        "Santo KP",
+        "Jaworski R",
+        "Neimark AV"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-6817-737X",
+        "ORCID: 0000-0002-3443-0389"
+      ],
+      "affiliations": [
+        "Department of Chemical and Biochemical Engineering, Rutgers, The State University of New Jersey, Piscataway, New Jersey08854, United States.",
+        "Department of Chemical and Biochemical Engineering, Rutgers, The State University of New Jersey, Piscataway, New Jersey08854, United States.",
+        "Department of Chemical and Biochemical Engineering, Rutgers, The State University of New Jersey, Piscataway, New Jersey08854, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Santo, Kolattukudy P",
+        "short_name": "Santo KP",
+        "identifiers": [
+          "0000-0001-6817-737X"
+        ],
+        "affiliations": [
+          "Department of Chemical and Biochemical Engineering, Rutgers, The State University of New Jersey, Piscataway, New Jersey08854, United States."
+        ]
+      },
+      {
+        "full_name": "Jaworski, Ryan",
+        "short_name": "Jaworski R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical and Biochemical Engineering, Rutgers, The State University of New Jersey, Piscataway, New Jersey08854, United States."
+        ]
+      },
+      {
+        "full_name": "Neimark, Alexander V",
+        "short_name": "Neimark AV",
+        "identifiers": [
+          "0000-0002-3443-0389"
+        ],
+        "affiliations": [
+          "Department of Chemical and Biochemical Engineering, Rutgers, The State University of New Jersey, Piscataway, New Jersey08854, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The journal of physical chemistry. B"
+    ],
+    "journal_abbrev": [
+      "J Phys Chem B"
+    ],
+    "pub_date": "2026 Sep 3",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/03 17:36",
+    "fetched_at": "2026-09-08 12:10:34"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42691401",
+      "32806067",
+      "37392497",
+      "34435953",
+      "34105996",
+      "32225176",
+      "33170884",
+      "37424217",
+      "37493168",
+      "34067878",
+      "39401361",
+      "32738306",
+      "32225175",
+      "32404529",
+      "33158276",
+      "35620980",
+      "32410735",
+      "32203189",
+      "41008647",
+      "32405156",
+      "38732174",
+      "33172372",
+      "36830728",
+      "32790406",
+      "36764825",
+      "32970989",
+      "33331243",
+      "33785634",
+      "42589282",
+      "41388771",
+      "33657325",
+      "32848162",
+      "41667644",
+      "33103998",
+      "34180984",
+      "37982275",
+      "33914685",
+      "33671877",
+      "35833966",
+      "32678978",
+      "33077836",
+      "34312429",
+      "33864655",
+      "38459426",
+      "37166054",
+      "34780781",
+      "34132301",
+      "32754161",
+      "33999091",
+      "38520147",
+      "32416259",
+      "42302372",
+      "32828084",
+      "41484143",
+      "34772947",
+      "33903171",
+      "34270232",
+      "40362339",
+      "35736838",
+      "38115191",
+      "42075932",
+      "32756606",
+      "38932204",
+      "34324175",
+      "32762417",
+      "32938700",
+      "40539804",
+      "32725017",
+      "33093202",
+      "34019602",
+      "42290472",
+      "33105869",
+      "38517012",
+      "33728680",
+      "34929169",
+      "37896850",
+      "38869513",
+      "32825063",
+      "33671255",
+      "32531235",
+      "35357791",
+      "37769161",
+      "32866780",
+      "40085220",
+      "33737804",
+      "33607086",
+      "36250723",
+      "32551652",
+      "32941783",
+      "35194049",
+      "35164065",
+      "32768882",
+      "33479401",
+      "32991844",
+      "38864493",
+      "32833435",
+      "40208235",
+      "35457196",
+      "40842437",
+      "34375467"
+    ],
+    "review": [
+      "42691401",
+      "33105869"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/CPTAC-438",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/jpcbfk/article-lookup/doi/10.1021/acs.jpcb.6c02175",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

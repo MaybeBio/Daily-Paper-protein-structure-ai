@@ -1,0 +1,175 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.08.28.747755",
+  "title": "De novo design of CR2 binder as vaccine scaffold",
+  "doi": "10.64898/2026.08.28.747755",
+  "abstract": "Efficient B cell activation during vaccine-induced humoral immunity relies on both B cell receptor (BCR) antigen recognition and synergistic signaling from co-receptors. Complement receptor 2 (CR2), the primary BCR co-receptor on B cells, lowers the activation threshold and amplifies downstream kinase signaling by orders of magnitude when engaged by complement fragment C3d-decorated antigens. Targeting CR2 therefore represents a rational vaccine enhancement strategy, yet native C3d suffers from low affinity, poor stability, and manufacturing challenges. Here, we report the de novo design of a highly stable, high-affinity CR2 binder using deep learning–driven protein design methods. Biophysical characterization, high-resolution cryo-EM structural determination, and functional assays in vitro and in vivo confirm that the designed binder matches computational design models and specifically engages CR2 to boost B cell activation. When fused to antigen as a vaccine scaffold, the trimeric CR2 binder elicits robust humoral immune responses comparable to nanoparticle vaccines, while retaining the simplicity of single-chain protein production. Our work establishes a modular CR2-targeting vaccine scaffold platform with broad translational potential for next-generation protein vaccines.",
+  "authors": [
+    "Liu Y",
+    "Yin Y",
+    "Xu H",
+    "Du W",
+    "Xie C",
+    "Wu P",
+    "Zhou H",
+    "Cheng B",
+    "Bu G",
+    "Feng G",
+    "Zhong Q",
+    "Liu Z",
+    "Zeng M",
+    "Sun C"
+  ],
+  "published_date": "2026-09-03",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.08.28.747755",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.08.28.747755.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1311978",
+    "raw_record": {
+      "id": "PPR1311978",
+      "source": "PPR",
+      "doi": "10.64898/2026.08.28.747755",
+      "title": "De novo design of CR2 binder as vaccine scaffold",
+      "authorString": "Liu Y, Yin Y, Xu H, Du W, Xie C, Wu P, Zhou H, Cheng B, Bu G, Feng G, Zhong Q, Liu Z, Zeng M, Sun C.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Liu Y",
+            "firstName": "Yuan-Tao",
+            "lastName": "Liu",
+            "initials": "Y"
+          },
+          {
+            "fullName": "Yin Y",
+            "firstName": "Yi-Na",
+            "lastName": "Yin",
+            "initials": "Y"
+          },
+          {
+            "fullName": "Xu H",
+            "firstName": "Hui-Qin",
+            "lastName": "Xu",
+            "initials": "H"
+          },
+          {
+            "fullName": "Du W",
+            "firstName": "Wen-Ting",
+            "lastName": "Du",
+            "initials": "W"
+          },
+          {
+            "fullName": "Xie C",
+            "firstName": "Chu",
+            "lastName": "Xie",
+            "initials": "C"
+          },
+          {
+            "fullName": "Wu P",
+            "firstName": "Pei-Huang",
+            "lastName": "Wu",
+            "initials": "P"
+          },
+          {
+            "fullName": "Zhou H",
+            "firstName": "Hang",
+            "lastName": "Zhou",
+            "initials": "H"
+          },
+          {
+            "fullName": "Cheng B",
+            "firstName": "Bing-Zhen",
+            "lastName": "Cheng",
+            "initials": "B"
+          },
+          {
+            "fullName": "Bu G",
+            "firstName": "Guo-Long",
+            "lastName": "Bu",
+            "initials": "G"
+          },
+          {
+            "fullName": "Feng G",
+            "firstName": "Guo-Kai",
+            "lastName": "Feng",
+            "initials": "G"
+          },
+          {
+            "fullName": "Zhong Q",
+            "firstName": "Qian",
+            "lastName": "Zhong",
+            "initials": "Q"
+          },
+          {
+            "fullName": "Liu Z",
+            "firstName": "Zheng",
+            "lastName": "Liu",
+            "initials": "Z"
+          },
+          {
+            "fullName": "Zeng M",
+            "firstName": "Mu-Sheng",
+            "lastName": "Zeng",
+            "initials": "M"
+          },
+          {
+            "fullName": "Sun C",
+            "firstName": "Cong",
+            "lastName": "Sun",
+            "initials": "C"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Efficient B cell activation during vaccine-induced humoral immunity relies on both B cell receptor (BCR) antigen recognition and synergistic signaling from co-receptors. Complement receptor 2 (CR2), the primary BCR co-receptor on B cells, lowers the activation threshold and amplifies downstream kinase signaling by orders of magnitude when engaged by complement fragment C3d-decorated antigens. Targeting CR2 therefore represents a rational vaccine enhancement strategy, yet native C3d suffers from low affinity, poor stability, and manufacturing challenges. Here, we report the de novo design of a highly stable, high-affinity CR2 binder using deep learning–driven protein design methods. Biophysical characterization, high-resolution cryo-EM structural determination, and functional assays  in vitro and  in vivo confirm that the designed binder matches computational design models and specifically engages CR2 to boost B cell activation. When fused to antigen as a vaccine scaffold, the trimeric CR2 binder elicits robust humoral immune responses comparable to nanoparticle vaccines, while retaining the simplicity of single-chain protein production. Our work establishes a modular CR2-targeting vaccine scaffold platform with broad translational potential for next-generation protein vaccines.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.08.28.747755"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-09-04",
+      "firstIndexDate": "2026-09-04",
+      "firstPublicationDate": "2026-09-03"
+    }
+  }
+}

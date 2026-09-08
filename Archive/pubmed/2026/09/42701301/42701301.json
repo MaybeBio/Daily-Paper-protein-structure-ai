@@ -1,0 +1,291 @@
+{
+  "identity": {
+    "pmid": "42701301",
+    "doi": "10.1021/jacs.6c05778",
+    "title": "Enhanced Sampling and Ligandability Assessment to Expand the Repertoire of Potentially Druggable Cryptic Pockets."
+  },
+  "content": {
+    "abstract": "Certain proteins known to be involved in life-threatening diseases have remained challenging therapeutic targets for decades, simply because a suitable binding pocket for a potent molecular inhibitor could not be identified in their ground-state apo structures. In the past decade, the discovery of cryptic pockets in challenging targets like KRAS and Werner helicase has proven to be a major turning point for therapeutic development. However, the alternate protein conformations required for these cryptic pockets to exist were only revealed by experiments conducted in the presence of ligands that can bind to them. Time-consuming and expensive experiments currently used to uncover these biologically rare events could be usefully complemented by a computational method capable of reliably identifying cryptic pockets. We have previously shown that aqueous and mixed-solvent Weighted Ensemble molecular dynamics (WEMD) simulations, driven by normal modes representing the direction of the most collective motion of a protein, can predict known cryptic pockets in the KRAS oncoprotein. Here, we evaluate this cryptic pocket detection technique on a data set of diverse proteins and show that it successfully samples cryptic pockets within 2 A of the known holo conformation 57% of the time, starting with just the apo structure. The predicted pockets in the most holo-like conformations show at least 20%, 50%, and 80% volume overlap with the bound ligand in the holo structure, with success rates of 92%, 84%, and 46%, respectively. We also show that we can successfully rank candidate pockets from WEMD using our pocket ligandability prediction model, Target X.",
+    "keywords": [],
+    "mesh_terms": [
+      "Ligands",
+      "*Molecular Dynamics Simulation",
+      "Binding Sites",
+      "Protein Conformation",
+      "Proto-Oncogene Proteins p21(ras)/chemistry/metabolism",
+      "Humans"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Vithani, Neha",
+        "Zhang, She",
+        "Gunther, Judith",
+        "Purkey, Hans",
+        "Lawson, J David",
+        "Nicholls, Anthony",
+        "Skillman, A Geoffrey",
+        "LeBard, David N"
+      ],
+      "short_names": [
+        "Vithani N",
+        "Zhang S",
+        "Gunther J",
+        "Purkey H",
+        "Lawson JD",
+        "Nicholls A",
+        "Skillman AG",
+        "LeBard DN"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-5794-8984",
+        "ORCID: 0000-0002-8570-364X",
+        "ORCID: 0000-0002-5232-4539",
+        "ORCID: 0000-0002-0979-800X"
+      ],
+      "affiliations": [
+        "OpenEye, Cadence Molecular Sciences , Santa Fe, New Mexico87508, United States.",
+        "OpenEye, Cadence Molecular Sciences , Santa Fe, New Mexico87508, United States.",
+        "Bayer AG, Drug Discovery Sciences, Berlin13353, Germany.",
+        "Genentech, Inc., South San Francisco, California94080, United States.",
+        "Khartis Therapeutics, Inc. San Diego, California92121, United States.",
+        "OpenEye, Cadence Molecular Sciences , Santa Fe, New Mexico87508, United States.",
+        "OpenEye, Cadence Molecular Sciences , Santa Fe, New Mexico87508, United States.",
+        "OpenEye, Cadence Molecular Sciences , Santa Fe, New Mexico87508, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Vithani, Neha",
+        "short_name": "Vithani N",
+        "identifiers": [],
+        "affiliations": [
+          "OpenEye, Cadence Molecular Sciences , Santa Fe, New Mexico87508, United States."
+        ]
+      },
+      {
+        "full_name": "Zhang, She",
+        "short_name": "Zhang S",
+        "identifiers": [],
+        "affiliations": [
+          "OpenEye, Cadence Molecular Sciences , Santa Fe, New Mexico87508, United States."
+        ]
+      },
+      {
+        "full_name": "Günther, Judith",
+        "short_name": "Günther J",
+        "identifiers": [
+          "0000-0001-5794-8984"
+        ],
+        "affiliations": [
+          "Bayer AG, Drug Discovery Sciences, Berlin13353, Germany."
+        ]
+      },
+      {
+        "full_name": "Purkey, Hans",
+        "short_name": "Purkey H",
+        "identifiers": [
+          "0000-0002-8570-364X"
+        ],
+        "affiliations": [
+          "Genentech, Inc., South San Francisco, California94080, United States."
+        ]
+      },
+      {
+        "full_name": "Lawson, J David",
+        "short_name": "Lawson JD",
+        "identifiers": [
+          "0000-0002-5232-4539"
+        ],
+        "affiliations": [
+          "Khartis Therapeutics, Inc. San Diego, California92121, United States."
+        ]
+      },
+      {
+        "full_name": "Nicholls, Anthony",
+        "short_name": "Nicholls A",
+        "identifiers": [],
+        "affiliations": [
+          "OpenEye, Cadence Molecular Sciences , Santa Fe, New Mexico87508, United States."
+        ]
+      },
+      {
+        "full_name": "Skillman, A Geoffrey",
+        "short_name": "Skillman AG",
+        "identifiers": [],
+        "affiliations": [
+          "OpenEye, Cadence Molecular Sciences , Santa Fe, New Mexico87508, United States."
+        ]
+      },
+      {
+        "full_name": "LeBard, David N",
+        "short_name": "LeBard DN",
+        "identifiers": [
+          "0000-0002-0979-800X"
+        ],
+        "affiliations": [
+          "OpenEye, Cadence Molecular Sciences , Santa Fe, New Mexico87508, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of the American Chemical Society"
+    ],
+    "journal_abbrev": [
+      "J Am Chem Soc"
+    ],
+    "pub_date": "2026 Sep 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/06 05:40",
+    "fetched_at": "2026-09-08 12:10:34"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42701301",
+      "39419500",
+      "33570386",
+      "26854760",
+      "39778412",
+      "42414572",
+      "30998331",
+      "31810712",
+      "42490529",
+      "28537745",
+      "34748701",
+      "27726386",
+      "40384021",
+      "42018639",
+      "33244830",
+      "30883122",
+      "22417279",
+      "41604887",
+      "41051642",
+      "37896786",
+      "38563746",
+      "33658550",
+      "28570708",
+      "41776961",
+      "33599485",
+      "36859488",
+      "39710177",
+      "41502950",
+      "35175753",
+      "32175736",
+      "38904218",
+      "36948209",
+      "32078861",
+      "40429853",
+      "39684679",
+      "30003468",
+      "29581267",
+      "41945898",
+      "39283165",
+      "25956651",
+      "41679298",
+      "38316797",
+      "38508305",
+      "35041430",
+      "40404166",
+      "32134250",
+      "40653264",
+      "39109919",
+      "33140952",
+      "15706489",
+      "41912623",
+      "20175916",
+      "42520494",
+      "25087006",
+      "41395638",
+      "40173014",
+      "17602601",
+      "41865847",
+      "38732174",
+      "41473986",
+      "28431137",
+      "32786908",
+      "41330964",
+      "40816097",
+      "39190764",
+      "40665815",
+      "42239053",
+      "40892042",
+      "41648445",
+      "9194162",
+      "42160909",
+      "22183526",
+      "16616932",
+      "35636004",
+      "40244134",
+      "34933653",
+      "35883418",
+      "20066034",
+      "34096704",
+      "23505360",
+      "37143823",
+      "39484820",
+      "39368697",
+      "42376479",
+      "42475469",
+      "38570453",
+      "25706586",
+      "37175495",
+      "35930206",
+      "42579380",
+      "34799442",
+      "9593192",
+      "28252958",
+      "42461753",
+      "41772859",
+      "26579775",
+      "12825931",
+      "29800865",
+      "36342197",
+      "38772459"
+    ],
+    "review": [
+      "42701301",
+      "39778412",
+      "41604887",
+      "32134250",
+      "40653264",
+      "40665815",
+      "35636004",
+      "34933653",
+      "39368697"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1550",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/jacsat/article-lookup/doi/10.1021/jacs.6c05778",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

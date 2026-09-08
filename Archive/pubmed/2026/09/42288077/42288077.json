@@ -1,0 +1,264 @@
+{
+  "identity": {
+    "pmid": "42288077",
+    "doi": "10.1016/j.foodchem.2026.149940",
+    "title": "A general approach to unraveling structural changes of food proteins using atomistic model-based SAXS."
+  },
+  "content": {
+    "abstract": "Small-angle X-ray scattering (SAXS) is widely used to probe macromolecular structures in solution, but conventional analysis often relies on low-resolution models that overlook chemical and molecular details essential for understanding protein behavior in biological and food systems. We present a methodology that integrates high-resolution SAXS modeling with AlphaFold-predicted oligomeric assemblies to enable hypothesis-driven structural interpretation under complex and physiologically relevant conditions. Using pea globulin as a model system, we test an hybrid approach across a temperature gradient to capture transitions from native globular assemblies to unfolded conformations. Association is described using structure factors, and thermally unfolded states are represented through rigid-body refinements. This strategy may provide more precise characterization of proteins across diverse conformational conditions. Furthermore, by applying a structure factor it could offer deeper insight into oligomerization, unfolding, and processing-related phase transitions. By bridging computational prediction with experimental scattering data, this approach allows for testing at high resolution a variety of structural assumptions, and could improve our understanding of the structural changes occurring due to environmental stimuli.",
+    "keywords": [
+      "Alpha-Fold3",
+      "Pea globulin",
+      "Solution SAXS"
+    ],
+    "mesh_terms": [
+      "Scattering, Small Angle",
+      "*X-Ray Diffraction/methods",
+      "*Pisum sativum/chemistry",
+      "*Plant Proteins/chemistry",
+      "Protein Conformation",
+      "*Globulins/chemistry",
+      "Models, Molecular",
+      "*Pea Proteins/chemistry"
+    ],
+    "pub_types": [
+      "Evaluation Study",
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Pal, Antara",
+        "Atil, Gokhan Ugur",
+        "Lopez Hernandez, Marcos",
+        "Corredig, Milena",
+        "Pedersen, Jan Skov"
+      ],
+      "short_names": [
+        "Pal A",
+        "Atil GU",
+        "Lopez Hernandez M",
+        "Corredig M",
+        "Pedersen JS"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Biomedical Science, Malmo University, Malmo, Sweden; Biofilms Research Center for Biointerfaces, Malmo University, Malmo, Sweden. Electronic address: antara.pal@mau.se.",
+        "Department of Food Science, Aarhus University, Aarhus N, Denmark.",
+        "Department of Chemistry and Interdisciplinary Nanoscience Center, Aarhus University, Aarhus, Denmark.",
+        "Department of Food Science, Aarhus University, Aarhus N, Denmark.",
+        "Department of Chemistry and Interdisciplinary Nanoscience Center, Aarhus University, Aarhus, Denmark."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Pal, Antara",
+        "short_name": "Pal A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Science, Malmö University, Malmö, Sweden; Biofilms Research Center for Biointerfaces, Malmö University, Malmö, Sweden. Electronic address: antara.pal@mau.se."
+        ]
+      },
+      {
+        "full_name": "Atıl, Gökhan Uğur",
+        "short_name": "Atıl GU",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Food Science, Aarhus University, Aarhus N, Denmark."
+        ]
+      },
+      {
+        "full_name": "López Hernández, Marcos",
+        "short_name": "López Hernández M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry and Interdisciplinary Nanoscience Center, Aarhus University, Aarhus, Denmark."
+        ]
+      },
+      {
+        "full_name": "Corredig, Milena",
+        "short_name": "Corredig M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Food Science, Aarhus University, Aarhus N, Denmark."
+        ]
+      },
+      {
+        "full_name": "Pedersen, Jan Skov",
+        "short_name": "Pedersen JS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry and Interdisciplinary Nanoscience Center, Aarhus University, Aarhus, Denmark."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Food chemistry"
+    ],
+    "journal_abbrev": [
+      "Food Chem"
+    ],
+    "pub_date": "2026 Sep 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Evaluation Study",
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/06/15 11:36",
+    "fetched_at": "2026-09-08 12:12:00"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42288077",
+      "30617833",
+      "22208197",
+      "32035901",
+      "18694757",
+      "29352739",
+      "20558299",
+      "24696341",
+      "20097063",
+      "17182256",
+      "30901335",
+      "26387105",
+      "23912807",
+      "19620974",
+      "38729734",
+      "39933513",
+      "40188795",
+      "36641214",
+      "32696361",
+      "26611321",
+      "21947276",
+      "26320411",
+      "29314274",
+      "30451239",
+      "36641210",
+      "31350339",
+      "23142499",
+      "36462455",
+      "35290631",
+      "24000896",
+      "23216378",
+      "18078545",
+      "32006283",
+      "29605933",
+      "32119546",
+      "30531946",
+      "36710010",
+      "30021105",
+      "24588935",
+      "20850542",
+      "22954648",
+      "42178622",
+      "23376408",
+      "26134248",
+      "21560166",
+      "22821520",
+      "37578017",
+      "20801888",
+      "12022864",
+      "40253183",
+      "36856266",
+      "31589784",
+      "25432752",
+      "27889205",
+      "22639100",
+      "19592714",
+      "31860156",
+      "41092540",
+      "10710723",
+      "27227414",
+      "26739383",
+      "28668130",
+      "23456097",
+      "36227567",
+      "27151198",
+      "37074167",
+      "28299734",
+      "19367902",
+      "38907110",
+      "24888261",
+      "37582436",
+      "39503309",
+      "30776431",
+      "27496803",
+      "23972848",
+      "19844700",
+      "32023061",
+      "27153695",
+      "22800408",
+      "39314299",
+      "29579966",
+      "26018949",
+      "23255205",
+      "20920583",
+      "26095982",
+      "42101421",
+      "33260426",
+      "20106957",
+      "29218562",
+      "34210208",
+      "31251056",
+      "23495971",
+      "26945933",
+      "41028345",
+      "26548662",
+      "29218559",
+      "20049539",
+      "22044150",
+      "29134679",
+      "29218557"
+    ],
+    "review": [
+      "42288077",
+      "30617833",
+      "32035901",
+      "29352739",
+      "20558299",
+      "20097063",
+      "26387105",
+      "21947276",
+      "26320411",
+      "23142499",
+      "36462455",
+      "23216378",
+      "18078545",
+      "24588935",
+      "20850542",
+      "22954648",
+      "23376408",
+      "22639100",
+      "10710723",
+      "26739383",
+      "37074167",
+      "38907110",
+      "37582436",
+      "22800408",
+      "42101421",
+      "33260426",
+      "23495971",
+      "26945933",
+      "29218559"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0308-8146(26)02098-4",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

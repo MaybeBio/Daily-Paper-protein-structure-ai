@@ -1,0 +1,302 @@
+{
+  "identity": {
+    "pmid": "42698033",
+    "doi": "10.1007/s10822-026-00937-9",
+    "title": "Structure prediction and drug screening targeting monkeypox virus polymerase and surface proteins."
+  },
+  "content": {
+    "abstract": "The global outbreak and ongoing spread of the monkeypox virus (MPXV) have highlighted the urgent need for effective antiviral therapeutics. Here, we integrated artificial intelligence-based protein structure prediction, large-scale virtual screening, and experimental validation to identify preliminary hit compounds targeting MPXV. Using AlphaFold2, we predicted high-accuracy structures for seven essential MPXV proteins, including three polymerase-related and four surface proteins. Molecular docking of these targets against 6405 drugs from the ZINC15 world-approved subset generated a docking score dataset of 44,835 drug-protein pairs, from which numerous high-scoring compounds were identified. Focusing on A35R, we selected 26 compounds for experimental validation using surface plasmon resonance (SPR). Three compounds, including cepharanthine, eltrombopag, and simeprevir, exhibited measurable A35R‑associated binding signals with equilibrium dissociation constants (KD) in the micromolar range. Molecular dynamics (MD) simulations and molecular mechanics generalized Born surface area were employed for stability analysis and relative energetic assessment. Notably, all three have been previously reported to target other MPXV proteins, reinforcing their potential for repurposing. This work establishes AI‑driven structure prediction as a useful tool for identifying preliminary binding compounds. However, no antiviral activity has been demonstrated for these compounds; therefore, the three hit compounds warrant further optimization and biological evaluation. Our integrated approach provides a framework for rapid drug screening against emerging viral threats.",
+    "keywords": [
+      "A35R",
+      "AlphaFold2",
+      "Drug screening",
+      "Monkeypox virus",
+      "Surface plasmon resonance",
+      "Virtual screening"
+    ],
+    "mesh_terms": [
+      "*Antiviral Agents/chemistry/pharmacology",
+      "Molecular Docking Simulation",
+      "Molecular Dynamics Simulation",
+      "*Monkeypox virus/enzymology/drug effects",
+      "*Viral Proteins/chemistry/antagonists & inhibitors",
+      "Drug Evaluation, Preclinical",
+      "Surface Plasmon Resonance",
+      "Humans",
+      "Protein Binding",
+      "Protein Conformation",
+      "Mpox, Monkeypox/drug therapy/virology"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Tao, Tao",
+        "Jia, Linchuan",
+        "Cheng, Yuhang",
+        "Zou, Yawen",
+        "Wen, Yanqin",
+        "Chen, Yi",
+        "Chen, Haowen",
+        "Wei, Hao",
+        "Yang, Qiangzhen",
+        "Shi, Yongyong"
+      ],
+      "short_names": [
+        "Tao T",
+        "Jia L",
+        "Cheng Y",
+        "Zou Y",
+        "Wen Y",
+        "Chen Y",
+        "Chen H",
+        "Wei H",
+        "Yang Q",
+        "Shi Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Bio-X Institutes, Key Laboratory for the Genetics of Developmental and Neuropsychiatric Disorders (Ministry of Education), Shanghai Jiao Tong University, Shanghai, 200030, China.",
+        "Bio-X Institutes, Key Laboratory for the Genetics of Developmental and Neuropsychiatric Disorders (Ministry of Education), Shanghai Jiao Tong University, Shanghai, 200030, China.",
+        "Bio-X Institutes, Key Laboratory for the Genetics of Developmental and Neuropsychiatric Disorders (Ministry of Education), Shanghai Jiao Tong University, Shanghai, 200030, China.",
+        "Bio-X Institutes, Key Laboratory for the Genetics of Developmental and Neuropsychiatric Disorders (Ministry of Education), Shanghai Jiao Tong University, Shanghai, 200030, China.",
+        "Bio-X Institutes, Key Laboratory for the Genetics of Developmental and Neuropsychiatric Disorders (Ministry of Education), Shanghai Jiao Tong University, Shanghai, 200030, China.",
+        "Bio-X Institutes, Key Laboratory for the Genetics of Developmental and Neuropsychiatric Disorders (Ministry of Education), Shanghai Jiao Tong University, Shanghai, 200030, China.",
+        "Bio-X Institutes, Key Laboratory for the Genetics of Developmental and Neuropsychiatric Disorders (Ministry of Education), Shanghai Jiao Tong University, Shanghai, 200030, China.",
+        "Bio-X Institutes, Key Laboratory for the Genetics of Developmental and Neuropsychiatric Disorders (Ministry of Education), Shanghai Jiao Tong University, Shanghai, 200030, China.",
+        "Bio-X Institutes, Key Laboratory for the Genetics of Developmental and Neuropsychiatric Disorders (Ministry of Education), Shanghai Jiao Tong University, Shanghai, 200030, China. lg10is1@sjtu.edu.cn.",
+        "Bio-X Institutes, Key Laboratory for the Genetics of Developmental and Neuropsychiatric Disorders (Ministry of Education), Shanghai Jiao Tong University, Shanghai, 200030, China. shiyongyong@gmail.com.",
+        "Institute of Neuroscience, International Center for Primate Brain Research, Center for Excellence in Brain Science and Intelligence Technology, Chinese Academy of Sciences, Shanghai, 200031, China. shiyongyong@gmail.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Tao, Tao",
+        "short_name": "Tao T",
+        "identifiers": [],
+        "affiliations": [
+          "Bio-X Institutes, Key Laboratory for the Genetics of Developmental and Neuropsychiatric Disorders (Ministry of Education), Shanghai Jiao Tong University, Shanghai, 200030, China."
+        ]
+      },
+      {
+        "full_name": "Jia, Linchuan",
+        "short_name": "Jia L",
+        "identifiers": [],
+        "affiliations": [
+          "Bio-X Institutes, Key Laboratory for the Genetics of Developmental and Neuropsychiatric Disorders (Ministry of Education), Shanghai Jiao Tong University, Shanghai, 200030, China."
+        ]
+      },
+      {
+        "full_name": "Cheng, Yuhang",
+        "short_name": "Cheng Y",
+        "identifiers": [],
+        "affiliations": [
+          "Bio-X Institutes, Key Laboratory for the Genetics of Developmental and Neuropsychiatric Disorders (Ministry of Education), Shanghai Jiao Tong University, Shanghai, 200030, China."
+        ]
+      },
+      {
+        "full_name": "Zou, Yawen",
+        "short_name": "Zou Y",
+        "identifiers": [],
+        "affiliations": [
+          "Bio-X Institutes, Key Laboratory for the Genetics of Developmental and Neuropsychiatric Disorders (Ministry of Education), Shanghai Jiao Tong University, Shanghai, 200030, China."
+        ]
+      },
+      {
+        "full_name": "Wen, Yanqin",
+        "short_name": "Wen Y",
+        "identifiers": [],
+        "affiliations": [
+          "Bio-X Institutes, Key Laboratory for the Genetics of Developmental and Neuropsychiatric Disorders (Ministry of Education), Shanghai Jiao Tong University, Shanghai, 200030, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Yi",
+        "short_name": "Chen Y",
+        "identifiers": [],
+        "affiliations": [
+          "Bio-X Institutes, Key Laboratory for the Genetics of Developmental and Neuropsychiatric Disorders (Ministry of Education), Shanghai Jiao Tong University, Shanghai, 200030, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Haowen",
+        "short_name": "Chen H",
+        "identifiers": [],
+        "affiliations": [
+          "Bio-X Institutes, Key Laboratory for the Genetics of Developmental and Neuropsychiatric Disorders (Ministry of Education), Shanghai Jiao Tong University, Shanghai, 200030, China."
+        ]
+      },
+      {
+        "full_name": "Wei, Hao",
+        "short_name": "Wei H",
+        "identifiers": [],
+        "affiliations": [
+          "Bio-X Institutes, Key Laboratory for the Genetics of Developmental and Neuropsychiatric Disorders (Ministry of Education), Shanghai Jiao Tong University, Shanghai, 200030, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Qiangzhen",
+        "short_name": "Yang Q",
+        "identifiers": [],
+        "affiliations": [
+          "Bio-X Institutes, Key Laboratory for the Genetics of Developmental and Neuropsychiatric Disorders (Ministry of Education), Shanghai Jiao Tong University, Shanghai, 200030, China. lg10is1@sjtu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Shi, Yongyong",
+        "short_name": "Shi Y",
+        "identifiers": [],
+        "affiliations": [
+          "Bio-X Institutes, Key Laboratory for the Genetics of Developmental and Neuropsychiatric Disorders (Ministry of Education), Shanghai Jiao Tong University, Shanghai, 200030, China. shiyongyong@gmail.com.",
+          "Institute of Neuroscience, International Center for Primate Brain Research, Center for Excellence in Brain Science and Intelligence Technology, Chinese Academy of Sciences, Shanghai, 200031, China. shiyongyong@gmail.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of computer-aided molecular design"
+    ],
+    "journal_abbrev": [
+      "J Comput Aided Mol Des"
+    ],
+    "pub_date": "2026 Sep 5",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/05 05:38",
+    "fetched_at": "2026-09-08 12:10:34"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42698033",
+      "42670783",
+      "37776002",
+      "40729368",
+      "37555596",
+      "38500508",
+      "37561169",
+      "41673239",
+      "39097539",
+      "36771105",
+      "40250331",
+      "39043911",
+      "41084624",
+      "38702561",
+      "40802236",
+      "40553268",
+      "38174404",
+      "41360016",
+      "37531040",
+      "39264896",
+      "39134619",
+      "39098150",
+      "34443556",
+      "37221882",
+      "37713070",
+      "41097380",
+      "37462851",
+      "37909473",
+      "42042007",
+      "37079243",
+      "41428316",
+      "39340487",
+      "37403283",
+      "36680291",
+      "39714114",
+      "36841550",
+      "38529847",
+      "36357534",
+      "41462260",
+      "38183513",
+      "39455591",
+      "39861882",
+      "39603287",
+      "39179615",
+      "39151375",
+      "29156382",
+      "42341425",
+      "41305514",
+      "36946432",
+      "41956256",
+      "32120300",
+      "36431817",
+      "40717583",
+      "41045314",
+      "40085404",
+      "38652365",
+      "39639531",
+      "33450550",
+      "39642129",
+      "38678726",
+      "33785634",
+      "39082609",
+      "40652991",
+      "36852556",
+      "33154404",
+      "42390093",
+      "31536833",
+      "34509862",
+      "37108279",
+      "39265696",
+      "37982304",
+      "42142462",
+      "37211001",
+      "37480263",
+      "38419271",
+      "39824654",
+      "37477257",
+      "37689311",
+      "38079063",
+      "41104139",
+      "39939832",
+      "36430762",
+      "36584781",
+      "36966703",
+      "38084877",
+      "33466743",
+      "39817728",
+      "42008872",
+      "38968780",
+      "40865231",
+      "42330028",
+      "34834044",
+      "40193298",
+      "39677842",
+      "42112455",
+      "36442514",
+      "38519803",
+      "37386350",
+      "41391428",
+      "40675496"
+    ],
+    "review": [
+      "42698033",
+      "40553268",
+      "41428316",
+      "37403283",
+      "40717583",
+      "40652991"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1007/s10822-026-00937-9",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "identity": {
+    "pmid": "42596681",
+    "doi": "10.1039/d6cp00534a",
+    "title": "Low-temperature dynamics of dilute 1-butyl 1-methyl pyrrolidinium [dicyanamide]/gamma-butyrolactone systems: a combined experimental and computational study."
+  },
+  "content": {
+    "abstract": "Ionic liquids (IL) and molecular solvents have been increasingly used in combination to design systems with improved physicochemical and electrochemical properties. This has been primarily achieved by overcoming the commonly viscous nature of pure IL systems through screening ionic interactions via the addition of a dielectric solvent. Moreover, specific IL solvent combinations have been shown to significantly extend low temperature liquidity while maintaining favorable transport characteristics. Within these systems, recent work has demonstrated the existence of complex phase behaviors which are sensitive to composition and temperature, manifesting distinct behavioral changes within a dilute regime. Most notably, a shift from crystal forming to glass forming and the existence of cold crystallization suggest a rapidly evolving microstructural environment. In this work, 1-butyl-1-methyl pyrrolidinium dicyanamide (BMPyrr[DCA]) is studied as an additive for gamma-butyrolactone (GBL). A suite of experimental studies is conducted to compositionally elucidate divergent behaviors including phase transitions, viscosity, conductivity, and heat capacity. This is coupled with a hierarchical computational study to understand evolving microstructural characteristics. Specifically, molecular dynamics (MD) simulations provide insight into bulk behavior and structural dynamics via non-polarizable force-fields using formal charge and scaled charge approaches. Conformational ensemble searching is used to find favorable intermolecular arrangements in an isolated trimer configuration, and density functional theory (DFT) is used to validate ensembles and extract interaction energies. Collectively, a clear picture emerges showing that within a dilute regime, rapid evolution of the system microstructure results in divergent material properties.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Whitney, Christopher S",
+        "Chen, Mu-Tao",
+        "Dai, Lenore L"
+      ],
+      "short_names": [
+        "Whitney CS",
+        "Chen MT",
+        "Dai LL"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-4453-1295",
+        "ORCID: 0000-0003-2658-6145"
+      ],
+      "affiliations": [
+        "School for Engineering of Matter, Transport and Energy, Arizona State University, Tempe, Arizona 85287, USA. Lenore.Dai@asu.edu.",
+        "School for Engineering of Matter, Transport and Energy, Arizona State University, Tempe, Arizona 85287, USA. Lenore.Dai@asu.edu.",
+        "School for Engineering of Matter, Transport and Energy, Arizona State University, Tempe, Arizona 85287, USA. Lenore.Dai@asu.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Whitney, Christopher S",
+        "short_name": "Whitney CS",
+        "identifiers": [
+          "0000-0003-4453-1295"
+        ],
+        "affiliations": [
+          "School for Engineering of Matter, Transport and Energy, Arizona State University, Tempe, Arizona 85287, USA. Lenore.Dai@asu.edu."
+        ]
+      },
+      {
+        "full_name": "Chen, Mu-Tao",
+        "short_name": "Chen MT",
+        "identifiers": [
+          "0000-0003-2658-6145"
+        ],
+        "affiliations": [
+          "School for Engineering of Matter, Transport and Energy, Arizona State University, Tempe, Arizona 85287, USA. Lenore.Dai@asu.edu."
+        ]
+      },
+      {
+        "full_name": "Dai, Lenore L",
+        "short_name": "Dai LL",
+        "identifiers": [],
+        "affiliations": [
+          "School for Engineering of Matter, Transport and Energy, Arizona State University, Tempe, Arizona 85287, USA. Lenore.Dai@asu.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Physical chemistry chemical physics : PCCP"
+    ],
+    "journal_abbrev": [
+      "Phys Chem Chem Phys"
+    ],
+    "pub_date": "2026 Sep 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/08/14 05:38",
+    "fetched_at": "2026-09-08 12:11:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42596681",
+      "40270476",
+      "42475469",
+      "23912807",
+      "34904892",
+      "26505208",
+      "19754142",
+      "42272294",
+      "29094121",
+      "23683321",
+      "30307188",
+      "23941158",
+      "35107286",
+      "39982474",
+      "34129270",
+      "35539065",
+      "26588143",
+      "32364732",
+      "30927876",
+      "21062074",
+      "22035180",
+      "25059510",
+      "33621293",
+      "24770876",
+      "31873016",
+      "24050355",
+      "31599592",
+      "24712560",
+      "23286649",
+      "28521081",
+      "19637900",
+      "38227791",
+      "28650512",
+      "27353302",
+      "31973103",
+      "23532057",
+      "19621942",
+      "27171359",
+      "30652873",
+      "39072421",
+      "22462887",
+      "29600245",
+      "19809678",
+      "39836764",
+      "39578478",
+      "29927596",
+      "17091990",
+      "25826190",
+      "30307174",
+      "26277961",
+      "34787426",
+      "32645264",
+      "20411978",
+      "25649989",
+      "24898478",
+      "25531795",
+      "35349298",
+      "36137434",
+      "32469519",
+      "28275768",
+      "30362771",
+      "32633294",
+      "33890467",
+      "24113510",
+      "25354310",
+      "31461950",
+      "33284294",
+      "32297886",
+      "22369088",
+      "24892971",
+      "29570301",
+      "32125850",
+      "31099570",
+      "42012709",
+      "22891895",
+      "39775121",
+      "39503626",
+      "20849137",
+      "38236500",
+      "41832764",
+      "40578775",
+      "20443608",
+      "40114577",
+      "25275818",
+      "17489567",
+      "32790364",
+      "19140627",
+      "32815798",
+      "18461932",
+      "39797979",
+      "28156116",
+      "21750787",
+      "32352290",
+      "38611804",
+      "36892904",
+      "29211071",
+      "22082024",
+      "29137998",
+      "42267788",
+      "40812156"
+    ],
+    "review": [
+      "42596681",
+      "31973103",
+      "40578775"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1039/d6cp00534a",
+        "provider": "Royal Society of Chemistry",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

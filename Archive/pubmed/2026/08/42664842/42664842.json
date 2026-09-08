@@ -1,0 +1,273 @@
+{
+  "identity": {
+    "pmid": "42664842",
+    "doi": "10.1016/j.foodchem.2026.150866",
+    "title": "Multi-omics and machine learning analysis reveals distinct macromolecular and metabolic features of sourdough fermented with different lactic acid bacteria."
+  },
+  "content": {
+    "abstract": "This study investigated structural and metabolic changes in wholemeal sourdough fermented by homofermentative (Pediococcus pentosaceus J28, Lactobacillus crustorum LMG) and heterofermentative (Lactobacillus fermentum YC-22, Weissella cibaria T5) lactic acid bacteria using multi-omics and graph-based analysis. Structural properties, metabolomics, and lipidomics were integrated to characterize fermentation-associated remodeling. Fermentation significantly altered starch and protein structures and generated 277-326 differential metabolites in co-fermented sourdoughs. Among the 210 shared differential metabolites, organic acids and derivatives (19.54%), phenylpropanoids and polyketides (18.39%), and lipids and lipid-like molecules (17.24%) were predominant. Purine metabolism was consistently enriched across fermented doughs, whereas isoquinoline alkaloid biosynthesis was specific to heterofermentative strains. Lipidomic analysis identified 458 lipid metabolites and revealed increased phosphatidylcholines and decreased sphingosines, indicating pronounced lipid remodeling. Artificial intelligence-assisted graph-based analysis prioritized network-associated candidate metabolites and revealed coordinated metabolic associations. These findings provide an integrated view of fermentation-driven structural and metabolic remodeling in wholemeal sourdough.",
+    "keywords": [
+      "Graph-based learning",
+      "Lactic acid bacteria",
+      "Lipidomics",
+      "Metabolomics",
+      "Purine metabolism",
+      "Wholemeal sourdough"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Anqi",
+        "Wu, Qinghai",
+        "Liu, Zhen",
+        "Guo, Xinyu",
+        "Diao, Bowen",
+        "San, Yue",
+        "Blanchard, Chris",
+        "Zhou, Zhongkai",
+        "Zhao, Guohua"
+      ],
+      "short_names": [
+        "Wang A",
+        "Wu Q",
+        "Liu Z",
+        "Guo X",
+        "Diao B",
+        "San Y",
+        "Blanchard C",
+        "Zhou Z",
+        "Zhao G"
+      ],
+      "auids": [],
+      "affiliations": [
+        "College of Food Science, Shihezi University, Shihezi 832003, China; College of Food Science, Southwest University, Chongqing 400715, China.",
+        "School of Public Health, Inner Mongolia Medical University, Hohhot 010110, China.",
+        "College of Food Science, Shihezi University, Shihezi 832003, China.",
+        "College of Food Science, Southwest University, Chongqing 400715, China.",
+        "College of Food Science, Southwest University, Chongqing 400715, China.",
+        "School of Public Health, Inner Mongolia Medical University, Hohhot 010110, China.",
+        "Gulbali Institute Agriculture Water Environment, Charles Sturt University, Wagga Wagga, NSW 2678, Australia.",
+        "College of Food Science, Shihezi University, Shihezi 832003, China; College of Food Science, Southwest University, Chongqing 400715, China; Gulbali Institute Agriculture Water Environment, Charles Sturt University, Wagga Wagga, NSW 2678, Australia. Electronic address: zzhou@csu.edu.au.",
+        "College of Life Science, Sichuan Normal University, Chengdu 610101, China. Electronic address: zhaogh@swu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Anqi",
+        "short_name": "Wang A",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science, Shihezi University, Shihezi 832003, China; College of Food Science, Southwest University, Chongqing 400715, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Qinghai",
+        "short_name": "Wu Q",
+        "identifiers": [],
+        "affiliations": [
+          "School of Public Health, Inner Mongolia Medical University, Hohhot 010110, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Zhen",
+        "short_name": "Liu Z",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science, Shihezi University, Shihezi 832003, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Xinyu",
+        "short_name": "Guo X",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science, Southwest University, Chongqing 400715, China."
+        ]
+      },
+      {
+        "full_name": "Diao, Bowen",
+        "short_name": "Diao B",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science, Southwest University, Chongqing 400715, China."
+        ]
+      },
+      {
+        "full_name": "San, Yue",
+        "short_name": "San Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Public Health, Inner Mongolia Medical University, Hohhot 010110, China."
+        ]
+      },
+      {
+        "full_name": "Blanchard, Chris",
+        "short_name": "Blanchard C",
+        "identifiers": [],
+        "affiliations": [
+          "Gulbali Institute Agriculture Water Environment, Charles Sturt University, Wagga Wagga, NSW 2678, Australia."
+        ]
+      },
+      {
+        "full_name": "Zhou, Zhongkai",
+        "short_name": "Zhou Z",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science, Shihezi University, Shihezi 832003, China; College of Food Science, Southwest University, Chongqing 400715, China; Gulbali Institute Agriculture Water Environment, Charles Sturt University, Wagga Wagga, NSW 2678, Australia. Electronic address: zzhou@csu.edu.au."
+        ]
+      },
+      {
+        "full_name": "Zhao, Guohua",
+        "short_name": "Zhao G",
+        "identifiers": [],
+        "affiliations": [
+          "College of Life Science, Sichuan Normal University, Chengdu 610101, China. Electronic address: zhaogh@swu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Food chemistry"
+    ],
+    "journal_abbrev": [
+      "Food Chem"
+    ],
+    "pub_date": "2026 Aug 26",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/08/28 23:34",
+    "fetched_at": "2026-09-08 12:11:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42664842",
+      "41249942",
+      "31644982",
+      "40679055",
+      "12450829",
+      "36192996",
+      "40793768",
+      "30177230",
+      "41114402",
+      "42270232",
+      "21356457",
+      "32539978",
+      "23728431",
+      "41743139",
+      "24992519",
+      "30297055",
+      "27282128",
+      "30218873",
+      "27236463",
+      "33360296",
+      "42502740",
+      "32782196",
+      "19651455",
+      "41465041",
+      "40990475",
+      "27375243",
+      "19783060",
+      "42088281",
+      "17557853",
+      "40013785",
+      "33099682",
+      "28877331",
+      "35864940",
+      "42215215",
+      "31862715",
+      "26187828",
+      "25583343",
+      "27780959",
+      "40691493",
+      "38035403",
+      "27374130",
+      "32443391",
+      "37269640",
+      "32045510",
+      "41933745",
+      "27539249",
+      "42083197",
+      "28242419",
+      "36900515",
+      "24230472",
+      "26494432",
+      "30392963",
+      "17188771",
+      "42222391",
+      "40409142",
+      "17177514",
+      "27889157",
+      "29593679",
+      "29579925",
+      "32927810",
+      "40739180",
+      "40780026",
+      "29632321",
+      "31715547",
+      "41897795",
+      "41910240",
+      "42439591",
+      "42632701",
+      "34778581",
+      "25261518",
+      "29715603",
+      "42510006",
+      "35525431",
+      "41027206",
+      "32336362",
+      "26919812",
+      "42637438",
+      "30879925",
+      "40918484",
+      "42588015",
+      "38917489",
+      "21356463",
+      "19919120",
+      "26974248",
+      "30172442",
+      "32508785",
+      "42597171",
+      "29195991",
+      "32775134",
+      "28732554",
+      "34668750",
+      "31642537",
+      "41814902",
+      "36766084",
+      "24230468",
+      "42353290",
+      "26398285",
+      "39079449",
+      "33310248",
+      "25846933"
+    ],
+    "review": [
+      "42664842",
+      "28732554"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0308-8146(26)03026-8",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

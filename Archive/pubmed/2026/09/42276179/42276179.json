@@ -1,0 +1,255 @@
+{
+  "identity": {
+    "pmid": "42276179",
+    "doi": "10.1016/j.jsb.2026.108341",
+    "title": "Architecture and dynamics of a supramolecular oxygen transport system in human homogentisate 1,2-Dioxygenase."
+  },
+  "content": {
+    "abstract": "Alkaptonuria (AKU) is an ultra-rare inherited metabolic disorder caused by impaired activity of homogentisate 1,2-dioxygenase (HGD), a Fe(II)-dependent enzyme that catalyzes the oxidative cleavage of homogentisic acid in the tyrosine degradation pathway. Although high-resolution structures of human HGD have been solved, a fundamental mechanistic question has remained unresolved: how molecular oxygen reaches the deeply buried catalytic iron required for catalysis. Here, we identify a previously unreported AKU-associated HGD variant, c.925G>A (p.G309R), and use it as a mechanistic perturbation reference to dissect the structural determinants of oxygen access. By integrating replicated classical and steered molecular dynamics simulations with transient pocket detection, tunnel mapping, O(2) spatial-occupancy analysis, residue-level tunnel composition, and PCA/tICA-based dynamic validation, we identify a structurally accessible and dynamically supported O(2)-translocation architecture connecting the central pore of the hexameric enzyme to the non-heme Fe(II) active sites. This pathway is not intrinsic to a single subunit but emerges from a cooperative arrangement of residues contributed by three protomers, generating six symmetry-related O(2)-access routes per hexamer. The G309R substitution perturbs the architecture and continuity of this tunnel system, providing a mechanistic explanation for enzyme dysfunction without evidence of active-site structural perturbation or global destabilization. Together, our findings support oxygen-tunnel integrity as a previously unrecognized mechanistic requirement for human HGD activity and introduce disruption of oxygen trafficking as an additional pathogenic mode in AKU, with implications for structure-guided variant interpretation and precision-medicine strategies.",
+    "keywords": [
+      "Alkaptonuria",
+      "Classical and steered molecular dynamics simulations",
+      "Homogentisate 1,2-dioxygenase",
+      "Molecular modeling",
+      "Multiple sequence alignment",
+      "Oxygen diffusion pathways",
+      "Protein tunnel analysis"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Oxygen/metabolism/chemistry",
+      "*Homogentisate 1,2-Dioxygenase/chemistry/genetics/metabolism",
+      "Molecular Dynamics Simulation",
+      "*Alkaptonuria/genetics/enzymology",
+      "Iron/metabolism/chemistry",
+      "Catalytic Domain",
+      "Models, Molecular"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Trezza, Alfonso",
+        "Finetti, Rebecca",
+        "Roncaglia, Bianca",
+        "Giuliani, Francesco",
+        "Furlan, Francesca",
+        "Santucci, Annalisa"
+      ],
+      "short_names": [
+        "Trezza A",
+        "Finetti R",
+        "Roncaglia B",
+        "Giuliani F",
+        "Furlan F",
+        "Santucci A"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Biotechnology, Chemistry and Pharmacy, University of Siena, Via Aldo Moro, 2, Siena, 53100, Italy.",
+        "Department of Biotechnology, Chemistry and Pharmacy, University of Siena, Via Aldo Moro, 2, Siena, 53100, Italy.",
+        "Department of Biotechnology, Chemistry and Pharmacy, University of Siena, Via Aldo Moro, 2, Siena, 53100, Italy. Electronic address: bianca.roncaglia@unisi.it.",
+        "Department of Biotechnology, Chemistry and Pharmacy, University of Siena, Via Aldo Moro, 2, Siena, 53100, Italy.",
+        "Centro clinico di riferimento regionale per lo screening metabolico allargato, SC Pediatria Pneumoinfettivologia, Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico, Via Commenda 9, Milano, 20122, Italy.",
+        "Department of Biotechnology, Chemistry and Pharmacy, University of Siena, Via Aldo Moro, 2, Siena, 53100, Italy; Industry 4.0 Competence Center ARTES 4.0, Viale Rinaldo Piaggio, Pontedera, 56025, Italy; MetabERN, Department of Biotechnology, Chemistry and Pharmacy, University of Siena, Via Aldo Moro, 2, Siena, 53100, Italy."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Trezza, Alfonso",
+        "short_name": "Trezza A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology, Chemistry and Pharmacy, University of Siena, Via Aldo Moro, 2, Siena, 53100, Italy."
+        ]
+      },
+      {
+        "full_name": "Finetti, Rebecca",
+        "short_name": "Finetti R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology, Chemistry and Pharmacy, University of Siena, Via Aldo Moro, 2, Siena, 53100, Italy."
+        ]
+      },
+      {
+        "full_name": "Roncaglia, Bianca",
+        "short_name": "Roncaglia B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology, Chemistry and Pharmacy, University of Siena, Via Aldo Moro, 2, Siena, 53100, Italy. Electronic address: bianca.roncaglia@unisi.it."
+        ]
+      },
+      {
+        "full_name": "Giuliani, Francesco",
+        "short_name": "Giuliani F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology, Chemistry and Pharmacy, University of Siena, Via Aldo Moro, 2, Siena, 53100, Italy."
+        ]
+      },
+      {
+        "full_name": "Furlan, Francesca",
+        "short_name": "Furlan F",
+        "identifiers": [],
+        "affiliations": [
+          "Centro clinico di riferimento regionale per lo screening metabolico allargato, SC Pediatria Pneumoinfettivologia, Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico, Via Commenda 9, Milano, 20122, Italy."
+        ]
+      },
+      {
+        "full_name": "Santucci, Annalisa",
+        "short_name": "Santucci A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology, Chemistry and Pharmacy, University of Siena, Via Aldo Moro, 2, Siena, 53100, Italy; Industry 4.0 Competence Center ARTES 4.0, Viale Rinaldo Piaggio, Pontedera, 56025, Italy; MetabERN, Department of Biotechnology, Chemistry and Pharmacy, University of Siena, Via Aldo Moro, 2, Siena, 53100, Italy."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of structural biology"
+    ],
+    "journal_abbrev": [
+      "J Struct Biol"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/06/12 00:39",
+    "fetched_at": "2026-09-08 12:12:00"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42276179",
+      "32823072",
+      "40784658",
+      "25804398",
+      "28869836",
+      "40650421",
+      "42184121",
+      "42665142",
+      "30737480",
+      "33621656",
+      "10876237",
+      "23858455",
+      "36880186",
+      "25153563",
+      "19862842",
+      "31600782",
+      "36376482",
+      "32107984",
+      "35550814",
+      "21822197",
+      "35685462",
+      "21720873",
+      "37658095",
+      "23353776",
+      "32212000",
+      "41963999",
+      "22105303",
+      "11001939",
+      "39737503",
+      "19306858",
+      "25233259",
+      "34799606",
+      "34235214",
+      "35090868",
+      "34504318",
+      "24575791",
+      "19096913",
+      "33746036",
+      "41236909",
+      "25762405",
+      "39273071",
+      "20694448",
+      "35110678",
+      "25681086",
+      "42475469",
+      "36555443",
+      "9674916",
+      "24206226",
+      "14678794",
+      "38996180",
+      "10094559",
+      "40243989",
+      "21437689",
+      "35671204",
+      "9529363",
+      "36985595",
+      "23430897",
+      "33728247",
+      "34768230",
+      "17045293",
+      "8782815",
+      "12872836",
+      "16332080",
+      "9069115",
+      "33538294",
+      "40001497",
+      "22850426",
+      "26947423",
+      "12051967",
+      "34762398",
+      "27865997",
+      "36118553",
+      "23912807",
+      "26936969",
+      "15581571",
+      "8188247",
+      "10467142",
+      "26596578",
+      "7673153",
+      "37354891",
+      "11540056",
+      "10205262",
+      "9154114",
+      "11017803",
+      "25733348",
+      "15751960",
+      "26845082",
+      "26304122",
+      "29883591",
+      "42178006",
+      "8188241",
+      "24772955",
+      "41226673",
+      "28158906",
+      "9244427",
+      "20648626",
+      "41323097",
+      "25897562",
+      "28271171",
+      "38395308"
+    ],
+    "review": [
+      "42276179",
+      "36880186",
+      "24206226",
+      "12051967",
+      "15581571",
+      "26596578",
+      "25733348"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1047-8477(26)00057-2",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,377 @@
+{
+  "identity": {
+    "pmid": "42554520",
+    "doi": "10.1002/pro.70745",
+    "title": "Total synthesis and structural characterization of a novel protein scaffold from the snail Biomphalaria glabrata."
+  },
+  "content": {
+    "abstract": "Disulfide-rich miniproteins constitute compact and highly stable scaffolds of growing interest for molecular and structural engineering. Schistosomins are ~80-residue proteins conserved across gastropods that form a long-standing orphan family whose structure and biological roles have remained unknown. Here, we report the total chemical synthesis and structural characterization of a schistosomin isoform from Biomphalaria glabrata, a medically relevant intermediate host of the parasite Schistosoma mansoni. Using state-of-the-art solid-phase peptide synthesis, chemoselective peptide ligation, and controlled oxidative folding, we obtained homogeneous, well-folded schistosomin suitable for biophysical and structural studies. High-resolution X-ray crystallography reveals a previously undescribed disulfide-rich fold defining a new class of miniprotein scaffold. Nano differential scanning fluorimetry and circular dichroism experiments demonstrate the remarkable thermal stability of this scaffold. Complementary in silico analyses suggest that the two naturally occurring isoforms, which differ by a single residue, exhibit highly similar structural and dynamic properties. Finally, transcript and protein analyses across snail tissues provide the first spatial expression map of schistosomin in a medically relevant mollusk. Together, this work establishes schistosomin as a novel and robust miniprotein scaffold and provides a structural and biological framework for exploring its function and potential applications.",
+    "keywords": [
+      "Biomphalaria glabrata",
+      "X-ray crystallography",
+      "chemical protein synthesis",
+      "disulfide-rich proteins",
+      "miniprotein scaffold",
+      "molecular dynamics simulations",
+      "schistosomin"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Biomphalaria/chemistry/metabolism",
+      "Crystallography, X-Ray",
+      "Amino Acid Sequence",
+      "Models, Molecular",
+      "Schistosoma mansoni",
+      "Protein Stability",
+      "Protein Conformation",
+      "Protein Folding",
+      "Protein Isoforms/chemistry"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Melnyk, Oleg",
+        "Caby, Stephanie",
+        "Vigouroux, Armelle",
+        "Demanche, Christine",
+        "Desmet, Remi",
+        "Senechal, Magalie",
+        "Snella, Benoit",
+        "Mougel, Alexandra",
+        "Boidin-Wichlacz, Celine",
+        "Parmentier, Aurelie",
+        "Pasco, Ugo",
+        "Cantel, Sonia",
+        "Morera, Solange",
+        "Vicogne, Jerome"
+      ],
+      "short_names": [
+        "Melnyk O",
+        "Caby S",
+        "Vigouroux A",
+        "Demanche C",
+        "Desmet R",
+        "Senechal M",
+        "Snella B",
+        "Mougel A",
+        "Boidin-Wichlacz C",
+        "Parmentier A",
+        "Pasco U",
+        "Cantel S",
+        "Morera S",
+        "Vicogne J"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-3863-5613",
+        "ORCID: 0009-0007-5826-6062",
+        "ORCID: 0000-0002-7583-8591",
+        "ORCID: 0000-0001-7781-0448",
+        "ORCID: 0000-0001-8360-7497"
+      ],
+      "affiliations": [
+        "Univ. Lille, CNRS, INSERM, CHU Lille, Institut Pasteur de Lille, U1019 - UMR 9017 - CIIL - Center for Infection and Immunity of Lille, Lille, France.",
+        "Univ. Lille, CNRS, INSERM, CHU Lille, Institut Pasteur de Lille, U1019 - UMR 9017 - CIIL - Center for Infection and Immunity of Lille, Lille, France.",
+        "Universite Paris-Saclay, CEA, CNRS, Institute for Integrative Biology of the Cell (I2BC), Gif-sur-Yvette, France.",
+        "Univ. Lille, CNRS, INSERM, CHU Lille, Institut Pasteur de Lille, U1019 - UMR 9017 - CIIL - Center for Infection and Immunity of Lille, Lille, France.",
+        "Univ. Lille, CNRS, INSERM, CHU Lille, Institut Pasteur de Lille, U1019 - UMR 9017 - CIIL - Center for Infection and Immunity of Lille, Lille, France.",
+        "Univ. Lille, CNRS, INSERM, CHU Lille, Institut Pasteur de Lille, U1019 - UMR 9017 - CIIL - Center for Infection and Immunity of Lille, Lille, France.",
+        "Univ. Lille, CNRS, INSERM, CHU Lille, Institut Pasteur de Lille, U1019 - UMR 9017 - CIIL - Center for Infection and Immunity of Lille, Lille, France.",
+        "Univ. Lille, CNRS, INSERM, CHU Lille, Institut Pasteur de Lille, U1019 - UMR 9017 - CIIL - Center for Infection and Immunity of Lille, Lille, France.",
+        "Univ. Lille, CNRS, INSERM, CHU Lille, Institut Pasteur de Lille, U1019 - UMR 9017 - CIIL - Center for Infection and Immunity of Lille, Lille, France.",
+        "Univ. Lille, CNRS, INSERM, CHU Lille, Institut Pasteur de Lille, U1019 - UMR 9017 - CIIL - Center for Infection and Immunity of Lille, Lille, France.",
+        "IBMM, Univ. Montpellier, ENSCM, CNRS, Montpellier, France.",
+        "IBMM, Univ. Montpellier, ENSCM, CNRS, Montpellier, France.",
+        "Universite Paris-Saclay, CEA, CNRS, Institute for Integrative Biology of the Cell (I2BC), Gif-sur-Yvette, France.",
+        "Univ. Lille, CNRS, INSERM, CHU Lille, Institut Pasteur de Lille, U1019 - UMR 9017 - CIIL - Center for Infection and Immunity of Lille, Lille, France."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Melnyk, Oleg",
+        "short_name": "Melnyk O",
+        "identifiers": [
+          "0000-0002-3863-5613"
+        ],
+        "affiliations": [
+          "Univ. Lille, CNRS, INSERM, CHU Lille, Institut Pasteur de Lille, U1019 - UMR 9017 - CIIL - Center for Infection and Immunity of Lille, Lille, France."
+        ]
+      },
+      {
+        "full_name": "Caby, Stéphanie",
+        "short_name": "Caby S",
+        "identifiers": [],
+        "affiliations": [
+          "Univ. Lille, CNRS, INSERM, CHU Lille, Institut Pasteur de Lille, U1019 - UMR 9017 - CIIL - Center for Infection and Immunity of Lille, Lille, France."
+        ]
+      },
+      {
+        "full_name": "Vigouroux, Armelle",
+        "short_name": "Vigouroux A",
+        "identifiers": [],
+        "affiliations": [
+          "Université Paris-Saclay, CEA, CNRS, Institute for Integrative Biology of the Cell (I2BC), Gif-sur-Yvette, France."
+        ]
+      },
+      {
+        "full_name": "Demanche, Christine",
+        "short_name": "Demanche C",
+        "identifiers": [],
+        "affiliations": [
+          "Univ. Lille, CNRS, INSERM, CHU Lille, Institut Pasteur de Lille, U1019 - UMR 9017 - CIIL - Center for Infection and Immunity of Lille, Lille, France."
+        ]
+      },
+      {
+        "full_name": "Desmet, Rémi",
+        "short_name": "Desmet R",
+        "identifiers": [],
+        "affiliations": [
+          "Univ. Lille, CNRS, INSERM, CHU Lille, Institut Pasteur de Lille, U1019 - UMR 9017 - CIIL - Center for Infection and Immunity of Lille, Lille, France."
+        ]
+      },
+      {
+        "full_name": "Sénéchal, Magalie",
+        "short_name": "Sénéchal M",
+        "identifiers": [],
+        "affiliations": [
+          "Univ. Lille, CNRS, INSERM, CHU Lille, Institut Pasteur de Lille, U1019 - UMR 9017 - CIIL - Center for Infection and Immunity of Lille, Lille, France."
+        ]
+      },
+      {
+        "full_name": "Snella, Benoît",
+        "short_name": "Snella B",
+        "identifiers": [],
+        "affiliations": [
+          "Univ. Lille, CNRS, INSERM, CHU Lille, Institut Pasteur de Lille, U1019 - UMR 9017 - CIIL - Center for Infection and Immunity of Lille, Lille, France."
+        ]
+      },
+      {
+        "full_name": "Mougel, Alexandra",
+        "short_name": "Mougel A",
+        "identifiers": [],
+        "affiliations": [
+          "Univ. Lille, CNRS, INSERM, CHU Lille, Institut Pasteur de Lille, U1019 - UMR 9017 - CIIL - Center for Infection and Immunity of Lille, Lille, France."
+        ]
+      },
+      {
+        "full_name": "Boidin-Wichlacz, Céline",
+        "short_name": "Boidin-Wichlacz C",
+        "identifiers": [],
+        "affiliations": [
+          "Univ. Lille, CNRS, INSERM, CHU Lille, Institut Pasteur de Lille, U1019 - UMR 9017 - CIIL - Center for Infection and Immunity of Lille, Lille, France."
+        ]
+      },
+      {
+        "full_name": "Parmentier, Aurélie",
+        "short_name": "Parmentier A",
+        "identifiers": [],
+        "affiliations": [
+          "Univ. Lille, CNRS, INSERM, CHU Lille, Institut Pasteur de Lille, U1019 - UMR 9017 - CIIL - Center for Infection and Immunity of Lille, Lille, France."
+        ]
+      },
+      {
+        "full_name": "Pasco, Ugo",
+        "short_name": "Pasco U",
+        "identifiers": [
+          "0009-0007-5826-6062"
+        ],
+        "affiliations": [
+          "IBMM, Univ. Montpellier, ENSCM, CNRS, Montpellier, France."
+        ]
+      },
+      {
+        "full_name": "Cantel, Sonia",
+        "short_name": "Cantel S",
+        "identifiers": [
+          "0000-0002-7583-8591"
+        ],
+        "affiliations": [
+          "IBMM, Univ. Montpellier, ENSCM, CNRS, Montpellier, France."
+        ]
+      },
+      {
+        "full_name": "Moréra, Solange",
+        "short_name": "Moréra S",
+        "identifiers": [
+          "0000-0001-7781-0448"
+        ],
+        "affiliations": [
+          "Université Paris-Saclay, CEA, CNRS, Institute for Integrative Biology of the Cell (I2BC), Gif-sur-Yvette, France."
+        ]
+      },
+      {
+        "full_name": "Vicogne, Jérôme",
+        "short_name": "Vicogne J",
+        "identifiers": [
+          "0000-0001-8360-7497"
+        ],
+        "affiliations": [
+          "Univ. Lille, CNRS, INSERM, CHU Lille, Institut Pasteur de Lille, U1019 - UMR 9017 - CIIL - Center for Infection and Immunity of Lille, Lille, France."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Protein science : a publication of the Protein Society"
+    ],
+    "journal_abbrev": [
+      "Protein Sci"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/08/05 13:37",
+    "fetched_at": "2026-09-08 12:12:00"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42554520",
+      "19393164",
+      "35581232",
+      "18417215",
+      "28520808",
+      "27015424",
+      "16113864",
+      "31521183",
+      "29899746",
+      "42475469",
+      "20182834",
+      "23555242",
+      "16971380",
+      "28719649",
+      "34495959",
+      "41161658",
+      "36300127",
+      "39202383",
+      "32122294",
+      "30555466",
+      "2620499",
+      "19211551",
+      "28510608",
+      "37352363",
+      "38886647",
+      "30668561",
+      "35967434",
+      "19114004",
+      "18280060",
+      "33368267",
+      "34041754",
+      "14700189",
+      "15562597",
+      "37852455",
+      "2090946",
+      "27253696",
+      "28685186",
+      "30180879",
+      "8595817",
+      "15474308",
+      "27056272",
+      "23912807",
+      "32967724",
+      "10731574",
+      "28578678",
+      "33868258",
+      "17805526",
+      "1780174",
+      "24681237",
+      "20185346",
+      "7685709",
+      "28036345",
+      "9562422",
+      "42555661",
+      "18619674",
+      "11797103",
+      "16877545",
+      "10072774",
+      "19439374",
+      "42070609",
+      "23911082",
+      "28832117",
+      "32845238",
+      "21696828",
+      "10811281",
+      "41016536",
+      "23742053",
+      "15821117",
+      "17308766",
+      "12538890",
+      "28012902",
+      "3397815",
+      "10595532",
+      "9477955",
+      "31612669",
+      "31568484",
+      "21491558",
+      "22577362",
+      "18590737",
+      "22434538",
+      "8106743",
+      "11769282",
+      "2911278",
+      "26797101",
+      "3698",
+      "31619284",
+      "24893012",
+      "9914708",
+      "20887736",
+      "7498426",
+      "22213706",
+      "21465612",
+      "18367205",
+      "29894729",
+      "33050923",
+      "40554521",
+      "14705938",
+      "31759924",
+      "8463708",
+      "16547012"
+    ],
+    "review": [
+      "42554520",
+      "37852455",
+      "27056272",
+      "10731574",
+      "11769282"
+    ],
+    "pmc": [
+      "13440164"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42554520/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.1002/pro.70745",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-SNAI1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

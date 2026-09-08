@@ -1,0 +1,283 @@
+{
+  "identity": {
+    "pmid": "42645692",
+    "doi": "10.1007/s10815-026-04007-9",
+    "title": "Novel biallelic PATL2 variants causing predominant germinal vesicle arrest and recurrent ART failure: expanded mutational spectrum and evidence-based reproductive counseling guidance."
+  },
+  "content": {
+    "abstract": "OBJECTIVE: The mutational landscape of PATL2 and corresponding genotype-phenotype correlations remain incompletely defined in patients presenting unexplained oocyte maturation defect (OOMD) and repeated assisted reproductive technology (ART) failure. This study aimed to identify pathogenic biallelic PATL2 variants, characterize their molecular structural defects, and delineate consistent reproductive phenotypes to support standardized genetic testing and reproductive counseling for affected infertile individuals. DESIGN: Single-center retrospective observational cohort study including six unrelated infertile women with refractory, idiopathic OOMD and >/= 2 consecutive failed ART cycles. Whole-exome sequencing (WES) followed by Sanger sequencing validation was performed for pathogenic variant screening. A panel of bioinformatic pipelines was applied to assess variant deleteriousness, including cross-species evolutionary conservation analysis, 3D protein modeling, and molecular dynamics simulations. Clinical reproductive data from a total of 16 independent ART treatment cycles were systematically analyzed. RESULTS: Ten distinct pathogenic PATL2 variants were identified, consisting of eight previously unreported novel alleles and two known disease-causing variants. The eight novel variants included four protein-truncating variants and four deleterious missense substitutions; all novel variants carried extremely low minor allele frequencies (MAF < 0.01%) in public population variant databases. Regardless of variant category (truncating vs. missense) or zygosity status, all affected subjects exhibited a highly uniform clinical phenotype dominated by irreversible germinal vesicle (GV)-stage meiotic arrest. Across all 16 treatment cycles, no clinical pregnancy was achieved after all routine and rescue ART interventions. Both truncating variants causing complete PATL2 loss-of-function and missense variants disrupting native protein folding resulted in equivalently severe oocyte developmental impairment. Structural simulation analyses demonstrated that all identified variants disrupted intramolecular hydrogen bond networks and destabilized PATL protein conformation, interfering with maternal mRNA homeostasis and meiotic resumption. CONCLUSIONS: Biallelic pathogenic PATL2 variants constitute a major monogenic driver of refractory GV-predominant OOMD and complete recurrent ART failure. This work substantially expands the global spectrum of disease-causing PATL2 variants. Our clinical and molecular findings support routine PATL2 genetic screening for patients with unexplained repeated ART failure and uniform GV oocyte arrest and enable personalized reproductive counseling. This study establishes a framework for further functional validation and the development of targeted therapies for PATL2-mediated female infertility and provides actionable genetic testing criteria for ART clinics.",
+    "keywords": [
+      "PATL2",
+      "Biallelic pathogenic variants",
+      "Female infertility",
+      "Germinal vesicle arrest",
+      "Oocyte maturation defect",
+      "Recurrent assisted reproductive technology failure"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhuang, Xin-Jie",
+        "Li, Yue",
+        "Qiu, Xin",
+        "Zhu, Jin-Liang",
+        "Li, Ming",
+        "Zhi, Xu",
+        "Li, Rong",
+        "Liu, Ping"
+      ],
+      "short_names": [
+        "Zhuang XJ",
+        "Li Y",
+        "Qiu X",
+        "Zhu JL",
+        "Li M",
+        "Zhi X",
+        "Li R",
+        "Liu P"
+      ],
+      "auids": [],
+      "affiliations": [
+        "State Key Laboratory of Female Fertility Promotion, Center for Reproductive Medicine, Department of Obstetrics and Gynecology, Peking University Third Hospital, Beijing, China. zhuangxinjie902@163.com.",
+        "National Clinical Research Center for Obstetrics and Gynecology (Peking University Third Hospital), Beijing, China. zhuangxinjie902@163.com.",
+        "State Key Laboratory of Female Fertility Promotion, Center for Reproductive Medicine, Department of Obstetrics and Gynecology, Peking University Third Hospital, Beijing, China.",
+        "Key Laboratory of Assisted Reproduction (Peking University), Ministry of Education, Beijing, China.",
+        "Key Laboratory of Assisted Reproduction (Peking University), Ministry of Education, Beijing, China.",
+        "Beijing Key Laboratory of Collaborative Innovation in Frontier Technologies for Population Quality, Beijing, China.",
+        "Key Laboratory of Assisted Reproduction (Peking University), Ministry of Education, Beijing, China.",
+        "National Clinical Key Specialty Construction Program, Beijing, China.",
+        "State Key Laboratory of Female Fertility Promotion, Center for Reproductive Medicine, Department of Obstetrics and Gynecology, Peking University Third Hospital, Beijing, China.",
+        "Key Laboratory of Assisted Reproduction (Peking University), Ministry of Education, Beijing, China.",
+        "National Clinical Research Center for Obstetrics and Gynecology (Peking University Third Hospital), Beijing, China.",
+        "Beijing Key Laboratory of Collaborative Innovation in Frontier Technologies for Population Quality, Beijing, China.",
+        "National Clinical Research Center for Obstetrics and Gynecology (Peking University Third Hospital), Beijing, China.",
+        "Beijing Key Laboratory of Collaborative Innovation in Frontier Technologies for Population Quality, Beijing, China.",
+        "State Key Laboratory of Female Fertility Promotion, Center for Reproductive Medicine, Department of Obstetrics and Gynecology, Peking University Third Hospital, Beijing, China.",
+        "Key Laboratory of Assisted Reproduction (Peking University), Ministry of Education, Beijing, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhuang, Xin-Jie",
+        "short_name": "Zhuang XJ",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Female Fertility Promotion, Center for Reproductive Medicine, Department of Obstetrics and Gynecology, Peking University Third Hospital, Beijing, China. zhuangxinjie902@163.com.",
+          "National Clinical Research Center for Obstetrics and Gynecology (Peking University Third Hospital), Beijing, China. zhuangxinjie902@163.com."
+        ]
+      },
+      {
+        "full_name": "Li, Yue",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Female Fertility Promotion, Center for Reproductive Medicine, Department of Obstetrics and Gynecology, Peking University Third Hospital, Beijing, China.",
+          "Key Laboratory of Assisted Reproduction (Peking University), Ministry of Education, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Qiu, Xin",
+        "short_name": "Qiu X",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Assisted Reproduction (Peking University), Ministry of Education, Beijing, China.",
+          "Beijing Key Laboratory of Collaborative Innovation in Frontier Technologies for Population Quality, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Jin-Liang",
+        "short_name": "Zhu JL",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Assisted Reproduction (Peking University), Ministry of Education, Beijing, China.",
+          "National Clinical Key Specialty Construction Program, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Li, Ming",
+        "short_name": "Li M",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Female Fertility Promotion, Center for Reproductive Medicine, Department of Obstetrics and Gynecology, Peking University Third Hospital, Beijing, China.",
+          "Key Laboratory of Assisted Reproduction (Peking University), Ministry of Education, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Zhi, Xu",
+        "short_name": "Zhi X",
+        "identifiers": [],
+        "affiliations": [
+          "National Clinical Research Center for Obstetrics and Gynecology (Peking University Third Hospital), Beijing, China.",
+          "Beijing Key Laboratory of Collaborative Innovation in Frontier Technologies for Population Quality, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Li, Rong",
+        "short_name": "Li R",
+        "identifiers": [],
+        "affiliations": [
+          "National Clinical Research Center for Obstetrics and Gynecology (Peking University Third Hospital), Beijing, China.",
+          "Beijing Key Laboratory of Collaborative Innovation in Frontier Technologies for Population Quality, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Ping",
+        "short_name": "Liu P",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Female Fertility Promotion, Center for Reproductive Medicine, Department of Obstetrics and Gynecology, Peking University Third Hospital, Beijing, China.",
+          "Key Laboratory of Assisted Reproduction (Peking University), Ministry of Education, Beijing, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of assisted reproduction and genetics"
+    ],
+    "journal_abbrev": [
+      "J Assist Reprod Genet"
+    ],
+    "pub_date": "2026 Aug 26",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/08/26 17:36",
+    "fetched_at": "2026-09-08 12:11:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42645692",
+      "29697801",
+      "42558693",
+      "36072676",
+      "42063164",
+      "40399709",
+      "38954294",
+      "40639803",
+      "42249589",
+      "40704065",
+      "38536595",
+      "42465592",
+      "42483726",
+      "35798635",
+      "40657385",
+      "34037756",
+      "41451498",
+      "41762928",
+      "31125047",
+      "39741299",
+      "42222905",
+      "40650169",
+      "42062216",
+      "37255713",
+      "39348320",
+      "28965849",
+      "36321557",
+      "35810437",
+      "42597893",
+      "42221552",
+      "37340965",
+      "35140748",
+      "39649799",
+      "30765866",
+      "32048119",
+      "36931261",
+      "37192818",
+      "36524333",
+      "40896145",
+      "33614659",
+      "42114970",
+      "40796344",
+      "35091966",
+      "41764152",
+      "33893736",
+      "35670744",
+      "36463079",
+      "36440233",
+      "39678461",
+      "33197264",
+      "42409946",
+      "41430707",
+      "42597842",
+      "41997520",
+      "20301551",
+      "39209701",
+      "31682730",
+      "30085220",
+      "42147992",
+      "27989988",
+      "41275460",
+      "35460069",
+      "35535697",
+      "30827523",
+      "40060932",
+      "23074488",
+      "40936058",
+      "29617818",
+      "41645375",
+      "29661911",
+      "42124334",
+      "34755185",
+      "20301409",
+      "34727571",
+      "34480478",
+      "38773790",
+      "42397456",
+      "42475469",
+      "28965844",
+      "42510869",
+      "20301575",
+      "20301706",
+      "39542389",
+      "34791246",
+      "41673963",
+      "34052850",
+      "42177587",
+      "37620942",
+      "24404629",
+      "42190421",
+      "40359387",
+      "41338233",
+      "41933583",
+      "36864708",
+      "35413094",
+      "42250153",
+      "34611029",
+      "38948269",
+      "41503355",
+      "34755838"
+    ],
+    "review": [
+      "42645692",
+      "42222905",
+      "40650169",
+      "36321557",
+      "33197264",
+      "41645375",
+      "42124334"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1007/s10815-026-04007-9",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

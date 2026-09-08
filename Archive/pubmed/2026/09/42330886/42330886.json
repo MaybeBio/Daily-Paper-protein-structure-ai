@@ -1,0 +1,243 @@
+{
+  "identity": {
+    "pmid": "42330886",
+    "doi": "10.1016/j.bbrc.2026.154167",
+    "title": "In vitro alpha amylase and protein denaturation inhibitory activity of newer generation Schiff base Oxazolone derivatives: Synthesis, chemical characterization, molecular docking, MD simulation, DFT, ADMET, and bioactivity."
+  },
+  "content": {
+    "abstract": "Chronic inflammation and diabetes mellitus are closely linked diseases and involved in metabolic dysfunction and disease pathogenesis. So, three new Oxazolone Schiff base derivatives (JS1A, JS2A and JS3A) were synthesized by a multi-step procedure, and then characterized by FTIR, (1)H NMR, (13)C NMR, mass spectrometry and elemental analysis. A series of synthetic compounds was screened by integrated computational and experimental studies to assess their antidiabetic and anti-inflammatory properties. Molecular docking studies with pancreatic alpha-amylase (4GQR) and cyclooxygenase-2 (6COX) revealed good binding interactions with the highest docking affinity of JS2A with both targets. Furthermore, the 100 ns molecular dynamics simulations showed that the protein-ligand complexes were stable, especially for JS2A. The synthesized derivatives have been analyzed using frontier molecular orbital and molecular electrostatic potential to identify suitable electronic properties, reactive sites, and interaction potentials. The drug-likeness, pharmacokinetic behavior, and low predicted toxicity were deemed acceptable based on ADMET prediction studies; improvements in solubility and permeability may be needed. All synthesized compounds showed alpha-amylase inhibitory and protein-denaturation inhibitory activities in vitro in a dose-dependent manner. Among the synthesized compounds, JS2A showed strong in vitro inhibitory activities against alpha-amylase and protein denaturation. Overall, these results indicate that Schiff base Oxazolone derivatives can be considered as multifunctional scaffolds with prospective antidiabetic and anti-inflammatory properties.",
+    "keywords": [
+      "Anti-inflammatory activity",
+      "DFT",
+      "MD simulation",
+      "Molecular docking",
+      "Schiff-base oxazolone",
+      "alpha-Amylase inhibition"
+    ],
+    "mesh_terms": [
+      "Schiff Bases/chemistry/pharmacology/chemical synthesis",
+      "Molecular Docking Simulation",
+      "*Oxazolone/chemistry/pharmacology/chemical synthesis/analogs & derivatives",
+      "Molecular Dynamics Simulation",
+      "*alpha-Amylases/antagonists & inhibitors/chemistry/metabolism",
+      "Protein Denaturation/drug effects",
+      "Animals",
+      "Humans",
+      "*Glycoside Hydrolase Inhibitors/chemistry/pharmacology",
+      "Cyclooxygenase 2/chemistry/metabolism",
+      "Hypoglycemic Agents/pharmacology/chemistry/chemical synthesis"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Saha, Supriyo",
+        "Sarawat, Jayant",
+        "Elbouamri, Lamiae",
+        "Chtita, Samir"
+      ],
+      "short_names": [
+        "Saha S",
+        "Sarawat J",
+        "Elbouamri L",
+        "Chtita S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Pharmaceutical Chemistry, Uttaranchal Institute of Pharmaceutical Sciences, Uttaranchal University, Dehradun, Uttarakhand, 248007, India. Electronic address: supriyo9@gmail.com.",
+        "Department of Pharmaceutical Chemistry, Uttaranchal Institute of Pharmaceutical Sciences, Uttaranchal University, Dehradun, Uttarakhand, 248007, India.",
+        "Laboratory of Analytical and Molecular Chemistry, Faculty of Sciences Ben M'Sik, Hassan II University of Casablanca, Casablanca, Morocco.",
+        "Laboratory of Analytical and Molecular Chemistry, Faculty of Sciences Ben M'Sik, Hassan II University of Casablanca, Casablanca, Morocco."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Saha, Supriyo",
+        "short_name": "Saha S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmaceutical Chemistry, Uttaranchal Institute of Pharmaceutical Sciences, Uttaranchal University, Dehradun, Uttarakhand, 248007, India. Electronic address: supriyo9@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Sarawat, Jayant",
+        "short_name": "Sarawat J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmaceutical Chemistry, Uttaranchal Institute of Pharmaceutical Sciences, Uttaranchal University, Dehradun, Uttarakhand, 248007, India."
+        ]
+      },
+      {
+        "full_name": "Elbouamri, Lamiae",
+        "short_name": "Elbouamri L",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Analytical and Molecular Chemistry, Faculty of Sciences Ben M'Sik, Hassan II University of Casablanca, Casablanca, Morocco."
+        ]
+      },
+      {
+        "full_name": "Chtita, Samir",
+        "short_name": "Chtita S",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Analytical and Molecular Chemistry, Faculty of Sciences Ben M'Sik, Hassan II University of Casablanca, Casablanca, Morocco."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biochemical and biophysical research communications"
+    ],
+    "journal_abbrev": [
+      "Biochem Biophys Res Commun"
+    ],
+    "pub_date": "2026 Sep 3",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/06/22 21:07",
+    "fetched_at": "2026-09-08 12:12:00"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42330886",
+      "42109181",
+      "40334614",
+      "40767979",
+      "40952536",
+      "40577028",
+      "42350715",
+      "41447885",
+      "38996406",
+      "40534200",
+      "42000651",
+      "40635215",
+      "40925228",
+      "41797003",
+      "40461519",
+      "38999038",
+      "40884761",
+      "41274187",
+      "42153268",
+      "42186712",
+      "39067419",
+      "40582127",
+      "42113874",
+      "41212441",
+      "39197383",
+      "40737826",
+      "40667570",
+      "42134498",
+      "38764437",
+      "41872468",
+      "41747757",
+      "40702792",
+      "38865858",
+      "40972503",
+      "42141107",
+      "39530612",
+      "37344700",
+      "39994296",
+      "41286166",
+      "40220676",
+      "41752406",
+      "34500647",
+      "42119837",
+      "38831547",
+      "39020086",
+      "40532550",
+      "38775996",
+      "40650983",
+      "41752528",
+      "33288322",
+      "38772048",
+      "39955835",
+      "37096830",
+      "30251608",
+      "41117063",
+      "39714369",
+      "32947132",
+      "40942175",
+      "38919040",
+      "41764950",
+      "40751071",
+      "42449968",
+      "41790494",
+      "41220295",
+      "41879844",
+      "38199537",
+      "40671661",
+      "38334124",
+      "42033845",
+      "40876671",
+      "39615278",
+      "39673041",
+      "38878516",
+      "31525527",
+      "41417176",
+      "39511294",
+      "40965587",
+      "38718496",
+      "39905269",
+      "39264974",
+      "39829378",
+      "35209141",
+      "40652555",
+      "41576694",
+      "41000067",
+      "41423657",
+      "38116744",
+      "33847536",
+      "31242688",
+      "34463216",
+      "40649371",
+      "41996623",
+      "38533896",
+      "35011387",
+      "40339502",
+      "40884815",
+      "37049866",
+      "38982021",
+      "40576740",
+      "33272102"
+    ],
+    "review": [
+      "42330886"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0006-291X(26)00931-9",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-PTGS2-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-76",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

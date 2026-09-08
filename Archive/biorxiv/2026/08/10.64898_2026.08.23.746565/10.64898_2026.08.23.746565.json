@@ -1,0 +1,179 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.08.23.746565",
+  "title": "Prot-LAMBDA: Explicit Distance Learning Enhances Structural Reasoning in Protein Language Models",
+  "doi": "10.64898/2026.08.23.746565",
+  "abstract": "Protein language models (PLMs) learn evolutionary information from large-scale sequence data, but three-dimensional relationships are encoded only implicitly. Here, we introduce Prot-LAMBDA (Protein LAnguage Model Boosted with Distance Awareness), a PLM that explicitly incorporates spatial relationships by coupling residue embeddings with inter-residue contacts. Prot-LAMBDA improves performance across diverse structure-related tasks, including contact, secondary structure, backbone geometry, solvent accessibility, and protein fold prediction. Notably, it achieves a twofold improvement in long-range contact recall and an 11.7% reduction in ψ-angle prediction error relative to ESM2-3B. Despite having approximately fivefold fewer parameters, Prot-LAMBDA also improves 3D structure prediction over ESM2-3B by 5–7% in TM-score when coupled to the same structure-prediction module. Building on these representations, we developed LambdaFold, a lightweight distance-guided structure prediction framework that achieves performance comparable to ESMFold on proteins strictly non-redundant to the training data. Finally, retrieval-augmented integration of structural templates increases mean TM-score substantially for targets with high template coverage and rescues several incorrect folds. Together, these results demonstrate that explicit spatial constraints enable efficient and generalizable structural representation learning and protein structure prediction.",
+  "authors": [
+    "Ibtehaz N",
+    "Zhang Z",
+    "Kagaya Y",
+    "Xu M",
+    "Tomii K",
+    "Kihara D"
+  ],
+  "published_date": "2026-08-25",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.08.23.746565",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.08.23.746565.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1306098",
+    "raw_record": {
+      "id": "PPR1306098",
+      "source": "PPR",
+      "doi": "10.64898/2026.08.23.746565",
+      "title": "Prot-LAMBDA: Explicit Distance Learning Enhances Structural Reasoning in Protein Language Models",
+      "authorString": "Ibtehaz N, Zhang Z, Kagaya Y, Xu M, Tomii K, Kihara D.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Ibtehaz N",
+            "firstName": "Nabil",
+            "lastName": "Ibtehaz",
+            "initials": "N"
+          },
+          {
+            "fullName": "Zhang Z",
+            "firstName": "Zicong",
+            "lastName": "Zhang",
+            "initials": "Z"
+          },
+          {
+            "fullName": "Kagaya Y",
+            "firstName": "Yuki",
+            "lastName": "Kagaya",
+            "initials": "Y"
+          },
+          {
+            "fullName": "Xu M",
+            "firstName": "Min",
+            "lastName": "Xu",
+            "initials": "M"
+          },
+          {
+            "fullName": "Tomii K",
+            "firstName": "Kentaro",
+            "lastName": "Tomii",
+            "initials": "K"
+          },
+          {
+            "fullName": "Kihara D",
+            "firstName": "Daisuke",
+            "lastName": "Kihara",
+            "initials": "D"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Protein language models (PLMs) learn evolutionary information from large-scale sequence data, but three-dimensional relationships are encoded only implicitly. Here, we introduce Prot-LAMBDA (Protein LAnguage Model Boosted with Distance Awareness), a PLM that explicitly incorporates spatial relationships by coupling residue embeddings with inter-residue contacts. Prot-LAMBDA improves performance across diverse structure-related tasks, including contact, secondary structure, backbone geometry, solvent accessibility, and protein fold prediction. Notably, it achieves a twofold improvement in long-range contact recall and an 11.7% reduction in ψ-angle prediction error relative to ESM2-3B. Despite having approximately fivefold fewer parameters, Prot-LAMBDA also improves 3D structure prediction over ESM2-3B by 5–7% in TM-score when coupled to the same structure-prediction module. Building on these representations, we developed LambdaFold, a lightweight distance-guided structure prediction framework that achieves performance comparable to ESMFold on proteins strictly non-redundant to the training data. Finally, retrieval-augmented integration of structural templates increases mean TM-score substantially for targets with high template coverage and rescues several incorrect folds. Together, these results demonstrate that explicit spatial constraints enable efficient and generalizable structural representation learning and protein structure prediction.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "grantId": "DBI-2422620",
+            "agency": "National Science Foundation",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R01GM134020",
+            "agency": "National Institutes of Health",
+            "orderIn": 0
+          },
+          {
+            "grantId": "DBI-2146026",
+            "agency": "National Science Foundation",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R35GM158267",
+            "agency": "National Institutes of Health",
+            "orderIn": 0
+          },
+          {
+            "grantId": "DBI-2238093",
+            "agency": "National Science Foundation",
+            "orderIn": 0
+          },
+          {
+            "grantId": "DBI-2422619",
+            "agency": "National Science Foundation",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R21AI187928",
+            "agency": "National Institutes of Health",
+            "orderIn": 0
+          },
+          {
+            "grantId": "JP25ama121028",
+            "agency": "Basis for Supporting Innovative Drug Discovery and Life Science Research BINDS",
+            "orderIn": 0
+          },
+          {
+            "grantId": "R35GM158094",
+            "agency": "National Institutes of Health",
+            "orderIn": 0
+          },
+          {
+            "grantId": "DMS-2151678",
+            "agency": "National Science Foundation",
+            "orderIn": 0
+          },
+          {
+            "grantId": "IIS-2211598",
+            "agency": "National Science Foundation",
+            "orderIn": 0
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.08.23.746565"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "license": "cc by-nc-nd",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-08-27",
+      "firstIndexDate": "2026-08-27",
+      "firstPublicationDate": "2026-08-25"
+    }
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "source": "chemrxiv",
+  "source_id": "10.26434/chemrxiv.15003976/v3",
+  "title": "Beyond Multiscale: A Neural Network-Unified Molecular Model for Asymmetry-Free Dynamics Simulation",
+  "doi": "10.26434/chemrxiv.15003976/v3",
+  "abstract": "Adaptive multiscale simulations, such as adaptive QM/MM, are indispensable for investigating complex solution dynamics but historically suffer from a fundamental dilemma: the dynamic exchange of identical solvent molecules across different model resolutions introduces an energetic asymmetry under solvent exchange (specifically, a permutation asymmetry where physically identical molecules are treated indistinguishably yet subjected to different force fields depending on their instantaneous positions). This asymmetry forces a prohibitive trade-off between severe structural distortions and the violation of Hamiltonian conservation (continuous energy drift). To resolve this issue, we propose the ”Integrated Molecular Model,” a paradigm-shifting framework that unifies multiple resolutions into a single, dynamically consistent potential. By employing a neural network that takes only the multiscale weight functions as input descriptors, our model learns to systematically cancel the non-physical transition forces originating from spatial discontinuities. As a proof-of-concept, we validated this unified framework on bulk water, aqueous ionic solutions, and reactive hydronium ions. Our approach not only faithfully restores artifact-free solvation structures but also strictly conserves the Hamiltonian, enabling unprecedentedly stable, long-term simulations under the microcanonical (NVE) ensemble. Consequently, the model successfully eliminates artificial thermostat-induced breathing modes, allowing for the rigorous evaluation of intrinsic dynamical properties such as diffusion coefficients. Furthermore, owing to its physically informed network design, the correction potential introduces less than 2% additional computational overhead and demonstrates remarkable zero-shot transferability across chemically similar ionic species. By eradicating the inherent asymmetry of adaptive multiscale modeling, this highly scalable framework establishes a robust foundation for high-fidelity simulations of complex condensed-phase phenomena, including reactive dynamics at solid-liquid interfaces and ion transport in battery electrolytes.",
+  "authors": [
+    "Takuma Ikeda",
+    "Hiroshi C. Watanabe",
+    "Haruyuki Nakano"
+  ],
+  "published_date": "2026-08-26",
+  "updated_date": "2026-08-26T13:08:59Z",
+  "journal": "ChemRxiv",
+  "category": "",
+  "landing_url": "https://doi.org/10.26434/chemrxiv.15003976/v3",
+  "pdf_url": "https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15003976/v3",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "publisher": "American Chemical Society (ACS)",
+    "prefix": "10.26434",
+    "type": "posted-content",
+    "group_title": "",
+    "raw_record": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            8,
+            26
+          ]
+        ],
+        "date-time": "2026-08-26T13:24:07Z",
+        "timestamp": 1787750647729,
+        "version": "build-2784847793"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            8,
+            26
+          ]
+        ]
+      },
+      "reference-count": 0,
+      "publisher": "American Chemical Society (ACS)",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "abstract": "<jats:p>Adaptive multiscale simulations, such as adaptive QM/MM, are indispensable for investigating complex solution dynamics but historically suffer from a fundamental dilemma: the dynamic exchange of identical solvent molecules across different model resolutions introduces an energetic asymmetry under solvent exchange (specifically, a permutation asymmetry where physically identical molecules are treated indistinguishably yet subjected to different force fields depending on their instantaneous positions). This asymmetry forces a prohibitive trade-off between severe structural distortions and the violation of Hamiltonian conservation (continuous energy drift). To resolve this issue, we propose the ”Integrated Molecular Model,” a paradigm-shifting framework that unifies multiple resolutions into a single, dynamically consistent potential. By employing a neural network that takes only the multiscale weight functions as input descriptors, our model learns to systematically cancel the non-physical transition forces originating from spatial discontinuities. As a proof-of-concept, we validated this unified framework on bulk water, aqueous ionic solutions, and reactive hydronium ions. Our approach not only faithfully restores artifact-free solvation structures but also strictly conserves the Hamiltonian, enabling unprecedentedly stable, long-term simulations under the microcanonical (NVE) ensemble. Consequently, the model successfully eliminates artificial thermostat-induced breathing modes, allowing for the rigorous evaluation of intrinsic dynamical properties such as diffusion coefficients. Furthermore, owing to its physically informed network design, the correction potential introduces less than 2% additional computational overhead and demonstrates remarkable zero-shot transferability across chemically similar ionic species. By eradicating the inherent asymmetry of adaptive multiscale modeling, this highly scalable framework establishes a robust foundation for high-fidelity simulations of complex condensed-phase phenomena, including reactive dynamics at solid-liquid interfaces and ion transport in battery electrolytes.</jats:p>",
+      "DOI": "10.26434/chemrxiv.15003976/v3",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            8,
+            26
+          ]
+        ],
+        "date-time": "2026-08-26T13:08:59Z",
+        "timestamp": 1787749739000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Beyond Multiscale: A Neural Network-Unified Molecular Model for Asymmetry-Free Dynamics Simulation"
+      ],
+      "prefix": "10.26434",
+      "author": [
+        {
+          "given": "Takuma",
+          "family": "Ikeda",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Chemistry, Graduate School of Science, Kyushu University, 744 Motooka, Nishi-ku, Fukuoka, Japan, 819-0395"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-4379-8633",
+          "authenticated-orcid": true,
+          "given": "Hiroshi C.",
+          "family": "Watanabe",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Chemistry, Faculty of Science, Kyushu University, 744 Motooka Nishi-ku, Fukuoka, Japan, 819-0395"
+            },
+            {
+              "name": "Quantum Computing Center, Keio University, 3-14-1 Hiyoshi Kohoku-ku, Yokohama, Japan, 223-8522"
+            },
+            {
+              "name": "Quantum and Spacetime Research Institute, Kyushu University, 744 Motooka, Nishi-ku, Fukuoka, Japan, 819-0395"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7008-0312",
+          "authenticated-orcid": false,
+          "given": "Haruyuki",
+          "family": "Nakano",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Chemistry, Faculty of Science, Kyushu University, 744 Motooka Nishi-ku, Fukuoka, Japan, 819-0395"
+            },
+            {
+              "name": "Quantum Computing Center, Keio University, 3-14-1 Hiyoshi Kohoku-ku, Yokohama, Japan, 223-8522"
+            },
+            {
+              "name": "Quantum and Spacetime Research Institute, Kyushu University, 744 Motooka, Nishi-ku, Fukuoka, Japan, 819-0395"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "316",
+      "link": [
+        {
+          "URL": "https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15003976/v3",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            8,
+            26
+          ]
+        ],
+        "date-time": "2026-08-26T13:08:59Z",
+        "timestamp": 1787749739000
+      },
+      "score": 55.23756,
+      "resource": {
+        "primary": {
+          "URL": "https://chemrxiv.org/doi/full/10.26434/chemrxiv.15003976/v3"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            8,
+            26
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.26434/chemrxiv.15003976/v3",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            8,
+            26
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

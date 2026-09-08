@@ -1,0 +1,261 @@
+{
+  "identity": {
+    "pmid": "42409080",
+    "doi": "10.1016/j.pbiomolbio.2026.07.003",
+    "title": "Time-resolved spectroscopy in protein dynamics and enzyme mechanisms."
+  },
+  "content": {
+    "abstract": "Time-resolved spectroscopy allows direct observation of biomolecular dynamics from femtoseconds to seconds, capturing transient states crucial for understanding protein and enzyme functions. This review summarizes key methods-ultrafast optical, infrared, Raman, and X-ray techniques- and their combination with computational simulations for mechanistic insights. It highlights applications in enzyme catalysis, protein folding, and conformational switching, while also discussing current challenges in resolution, synchronization, and sample stability. Future developments in hybrid multimodal systems, AI-assisted analysis, and in vivo time-resolved studies are expected to broaden the reach and influence of these methods in structural biology and biotechnology.",
+    "keywords": [
+      "Computational biophysics",
+      "Pump-probe techniques",
+      "Reaction kinetics",
+      "Time-resolved spectroscopy",
+      "X-ray"
+    ],
+    "mesh_terms": [
+      "*Enzymes/metabolism/chemistry",
+      "*Spectrum Analysis/methods",
+      "*Proteins/chemistry/metabolism",
+      "Protein Folding",
+      "Animals",
+      "Protein Conformation",
+      "Time Factors"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Uzorka, Afam",
+        "Shanmugan, S"
+      ],
+      "short_names": [
+        "Uzorka A",
+        "Shanmugan S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Physical Sciences, School of Natural and Applied Sciences, Kampala International University, Kampala, Uganda. Electronic address: afamuzorka@gmail.com.",
+        "Department of Physics, Koneru Lakshmaiah Education Foundation, Green Fields, Vaddeswaram, Guntur, Andhra Pradesh, 522502, India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Uzorka, Afam",
+        "short_name": "Uzorka A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physical Sciences, School of Natural and Applied Sciences, Kampala International University, Kampala, Uganda. Electronic address: afamuzorka@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Shanmugan, S",
+        "short_name": "Shanmugan S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physics, Koneru Lakshmaiah Education Foundation, Green Fields, Vaddeswaram, Guntur, Andhra Pradesh, 522502, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Progress in biophysics and molecular biology"
+    ],
+    "journal_abbrev": [
+      "Prog Biophys Mol Biol"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/07/07 00:39",
+    "fetched_at": "2026-09-08 12:12:00"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42409080",
+      "24059517",
+      "26134248",
+      "9345632",
+      "39273672",
+      "27023758",
+      "19117426",
+      "12471064",
+      "18982409",
+      "23912807",
+      "21547331",
+      "22109973",
+      "20164644",
+      "32312192",
+      "8930101",
+      "42475469",
+      "7752930",
+      "41428274",
+      "40292246",
+      "18275162",
+      "35016505",
+      "15870208",
+      "18606227",
+      "19785170",
+      "19162471",
+      "14568609",
+      "39608943",
+      "21167324",
+      "23988159",
+      "24050152",
+      "30462481",
+      "9241422",
+      "37828669",
+      "28716648",
+      "10905109",
+      "22433178",
+      "15609984",
+      "39608948",
+      "28363306",
+      "26277093",
+      "15034906",
+      "27183318",
+      "24914150",
+      "15796701",
+      "40494166",
+      "21945040",
+      "25574774",
+      "32914959",
+      "9649414",
+      "21920322",
+      "33864718",
+      "19841630",
+      "41432205",
+      "15616363",
+      "20829099",
+      "22312279",
+      "17326268",
+      "18602415",
+      "22129832",
+      "10449323",
+      "41790944",
+      "39338163",
+      "11340059",
+      "25647179",
+      "19301929",
+      "17592113",
+      "6877231",
+      "17250999",
+      "18207710",
+      "39865994",
+      "25625937",
+      "15450293",
+      "27639437",
+      "33886281",
+      "31090275",
+      "41707365",
+      "19289201",
+      "18562286",
+      "21442608",
+      "20438842",
+      "28163054",
+      "9345630",
+      "40312512",
+      "22641726",
+      "33241122",
+      "12555862",
+      "31559317",
+      "28364666",
+      "19771338",
+      "37957479",
+      "41652163",
+      "34218543",
+      "34932909",
+      "9062118",
+      "29752562",
+      "19361980",
+      "31372369",
+      "28552172",
+      "11685236",
+      "30205262"
+    ],
+    "review": [
+      "42409080",
+      "24059517",
+      "9345632",
+      "39273672",
+      "27023758",
+      "12471064",
+      "21547331",
+      "22109973",
+      "32312192",
+      "8930101",
+      "41428274",
+      "40292246",
+      "18275162",
+      "18606227",
+      "19162471",
+      "14568609",
+      "21167324",
+      "23988159",
+      "9241422",
+      "37828669",
+      "28716648",
+      "15609984",
+      "24914150",
+      "15796701",
+      "40494166",
+      "21945040",
+      "25574774",
+      "21920322",
+      "33864718",
+      "19841630",
+      "20829099",
+      "22312279",
+      "18602415",
+      "22129832",
+      "10449323",
+      "39338163",
+      "11340059",
+      "17250999",
+      "39865994",
+      "25625937",
+      "27639437",
+      "33886281",
+      "31090275",
+      "41707365",
+      "21442608",
+      "28163054",
+      "9345630",
+      "40312512",
+      "22641726",
+      "19771338",
+      "37957479",
+      "41652163",
+      "34218543",
+      "34932909",
+      "29752562",
+      "19361980",
+      "28552172",
+      "11685236"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0079-6107(26)00046-5",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

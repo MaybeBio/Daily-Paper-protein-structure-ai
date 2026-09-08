@@ -1,0 +1,256 @@
+{
+  "identity": {
+    "pmid": "42615741",
+    "doi": "10.1002/pro.70775",
+    "title": "Structure and conformational dynamics of the Pseudomonas CbrA transceptor."
+  },
+  "content": {
+    "abstract": "The CbrA protein is a central regulator of carbon metabolism, biofilm formation, and virulence in Pseudomonas species, but the molecular mechanisms by which CbrA links nutrient sensing to downstream signaling has remained unclear. CbrA is a rare \"transceptor\" that combines membrane transporter and histidine kinase domains into a single functional polypeptide. The structural basis for histidine recognition and membrane transport, as well as signaling through intracellular histidine kinase domains has remained elusive. Here we determined a cryo-EM structure of CbrA which provides key molecular details of the SLC5-STAC domains in this unusual system. Unexpectedly, the small peptide CbrX encoded upstream of CbrA formed a stable complex with the SLC5 transporter domain, but was not essential for growth of Pseudomonas putida on histidine as a sole carbon source. The cryo-EM structure reveals how histidine binds within the transporter, and molecular dynamics simulations provide insight into proton gradient driven conformational changes that enable histidine transport. These findings define the molecular architecture of key CbrA functional domains, and lay the foundation for developing a comprehensive understanding of coupling between membrane transport and downstream signaling pathways that guide essential physiological traits in Pseudomonas.",
+    "keywords": [
+      "CbrA",
+      "SLC transporter",
+      "molecular dynamics",
+      "transceptor"
+    ],
+    "mesh_terms": [
+      "*Bacterial Proteins/chemistry/metabolism/genetics",
+      "Molecular Dynamics Simulation",
+      "*Pseudomonas putida/metabolism/chemistry/genetics",
+      "Cryoelectron Microscopy",
+      "Histidine/metabolism/chemistry",
+      "Protein Conformation",
+      "Protein Domains"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Orlando, Melanie A",
+        "Shah, Tejas",
+        "Faber, Matthew W",
+        "Bose, Samik",
+        "Orlando, Benjamin J"
+      ],
+      "short_names": [
+        "Orlando MA",
+        "Shah T",
+        "Faber MW",
+        "Bose S",
+        "Orlando BJ"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-0125-3774",
+        "ORCID: 0000-0002-0273-9162",
+        "ORCID: 0000-0001-7079-8140"
+      ],
+      "affiliations": [
+        "Department of Biochemistry and Molecular Biology, Michigan State University, East Lansing, Michigan, USA.",
+        "Department of Biochemistry and Molecular Biology, Michigan State University, East Lansing, Michigan, USA.",
+        "Department of Biochemistry and Molecular Biology, Michigan State University, East Lansing, Michigan, USA.",
+        "Department of Computational Mathematics, Science and Engineering, Michigan State University, East Lansing, Michigan, USA.",
+        "Department of Biochemistry and Molecular Biology, Michigan State University, East Lansing, Michigan, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Orlando, Melanie A",
+        "short_name": "Orlando MA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, Michigan State University, East Lansing, Michigan, USA."
+        ]
+      },
+      {
+        "full_name": "Shah, Tejas",
+        "short_name": "Shah T",
+        "identifiers": [
+          "0000-0003-0125-3774"
+        ],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, Michigan State University, East Lansing, Michigan, USA."
+        ]
+      },
+      {
+        "full_name": "Faber, Matthew W",
+        "short_name": "Faber MW",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, Michigan State University, East Lansing, Michigan, USA."
+        ]
+      },
+      {
+        "full_name": "Bose, Samik",
+        "short_name": "Bose S",
+        "identifiers": [
+          "0000-0002-0273-9162"
+        ],
+        "affiliations": [
+          "Department of Computational Mathematics, Science and Engineering, Michigan State University, East Lansing, Michigan, USA."
+        ]
+      },
+      {
+        "full_name": "Orlando, Benjamin J",
+        "short_name": "Orlando BJ",
+        "identifiers": [
+          "0000-0001-7079-8140"
+        ],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, Michigan State University, East Lansing, Michigan, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Protein science : a publication of the Protein Society"
+    ],
+    "journal_abbrev": [
+      "Protein Sci"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/08/19 14:48",
+    "fetched_at": "2026-09-08 12:11:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42615741",
+      "41907068",
+      "32214184",
+      "31235731",
+      "26148710",
+      "11401699",
+      "41247015",
+      "34245008",
+      "42475469",
+      "25031426",
+      "42438349",
+      "41189459",
+      "28404995",
+      "40553727",
+      "40991694",
+      "21169488",
+      "26321252",
+      "40429820",
+      "25026441",
+      "40215959",
+      "24379284",
+      "41526723",
+      "42384803",
+      "40772760",
+      "39042711",
+      "24021237",
+      "28130300",
+      "40928942",
+      "27802580",
+      "42050969",
+      "29758259",
+      "42566533",
+      "30030226",
+      "31772055",
+      "29123204",
+      "26861882",
+      "41083144",
+      "29323112",
+      "42175596",
+      "40436358",
+      "31901079",
+      "28716923",
+      "39576113",
+      "28851281",
+      "38325368",
+      "41370088",
+      "20355710",
+      "30026196",
+      "39140783",
+      "40280415",
+      "16740957",
+      "28699871",
+      "32514183",
+      "40042268",
+      "24637704",
+      "35254100",
+      "39085378",
+      "33621443",
+      "33199635",
+      "35679425",
+      "41407669",
+      "42117685",
+      "42320633",
+      "25307478",
+      "30224439",
+      "39127720",
+      "37451233",
+      "40810525",
+      "31358609",
+      "31045564",
+      "28732057",
+      "31227607",
+      "27933790",
+      "20226196",
+      "34272275",
+      "31548408",
+      "39419996",
+      "35767996",
+      "33879593",
+      "23584971",
+      "42388124",
+      "27717063",
+      "18599835",
+      "39746942",
+      "40203087",
+      "39216473",
+      "28167524",
+      "21933119",
+      "22053874",
+      "30298597",
+      "25253889",
+      "26015499",
+      "22785484",
+      "23274111",
+      "32776918",
+      "41301511",
+      "36241630",
+      "21995721",
+      "32345644",
+      "38582452"
+    ],
+    "review": [
+      "42615741",
+      "37451233"
+    ],
+    "pmc": [
+      "13488458"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42615741/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.1002/pro.70775",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

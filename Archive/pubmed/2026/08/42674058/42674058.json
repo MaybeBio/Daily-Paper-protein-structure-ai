@@ -1,0 +1,357 @@
+{
+  "identity": {
+    "pmid": "42674058",
+    "doi": "10.1021/acs.analchem.6c02770",
+    "title": "Silica-Embedded Proteins Enable Higher Yield and Atomic Ion Detection in Deep-UV Laser-Assisted Atom Probe Tomography."
+  },
+  "content": {
+    "abstract": "Determining the 3D structure of proteins is a long-standing challenge in the life sciences and is of paramount importance for understanding fundamental biological processes and advancing pharmaceutical development. Experimental techniques such as X-ray diffraction, nuclear magnetic resonance (NMR) spectroscopy, and cryo-electron microscopy (cryo-EM) have been instrumental in determining numerous protein structures. However, these methods are not universally applicable, and new complementary approaches are still needed. Atom probe tomography (APT), a form of mass spectrometry capable of reconstructing the 3D chemical composition of materials with near-atomic resolution, has been proposed as a potential tool for the structural analysis of proteins. Although recent progress has been made, no existing methodology has yet demonstrated both high throughput and reproducibility. In this work, we apply deep-UV laser-assisted APT to study green fluorescent protein (GFP) embedded within an amorphous silica matrix. This approach enables the detection of several thousand proteins within a single measurement, representing a significant advancement toward structural analysis of proteins by APT. To assess whether the embedding procedure preserves the structural integrity of proteins, we combined experimental measurements with molecular dynamics simulations, which strongly suggest that the initial stages of silica encapsulation do not disrupt the native folding of GFP. Overall, these findings demonstrate the potential of deep-UV laser APT as a promising method for structural biology.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Silicon Dioxide/chemistry",
+      "*Lasers",
+      "*Green Fluorescent Proteins/chemistry/analysis",
+      "*Ultraviolet Rays",
+      "*Tomography/methods",
+      "Ions/analysis",
+      "Mass Spectrometry/methods"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Eriksson, Gustav",
+        "Mayweg, David",
+        "Inverardi, Giovanni Novi",
+        "Carnovale, Francesco",
+        "Hulander, Mats",
+        "Thuvander, Mattias",
+        "Petrolli, Lorenzo",
+        "Lattanzi, Gianluca",
+        "Taioli, Simone",
+        "Andersson, Martin"
+      ],
+      "short_names": [
+        "Eriksson G",
+        "Mayweg D",
+        "Inverardi GN",
+        "Carnovale F",
+        "Hulander M",
+        "Thuvander M",
+        "Petrolli L",
+        "Lattanzi G",
+        "Taioli S",
+        "Andersson M"
+      ],
+      "auids": [
+        "ORCID: 0009-0001-2330-6227",
+        "ORCID: 0000-0003-2921-5438",
+        "ORCID: 0000-0002-6097-6895",
+        "ORCID: 0000-0002-0808-6457",
+        "ORCID: 0000-0003-4010-8000",
+        "ORCID: 0000-0003-1523-4697"
+      ],
+      "affiliations": [
+        "Chalmers University of Technology , Department of Chemistry and Chemical Engineering, Kemigarden 4, 41296Gothenburg, Sweden.",
+        "Chalmers University of Technology, Department of Physics and Astronomy, Kemigarden 1, 41296Gothenburg, Sweden.",
+        "University of Trento , Department of Physics, Via Sommarive 14, 38123Trento, Italy.",
+        "European Centre for Theoretical Studies in Nuclear Physics and Related Areas (ECT*), Bruno Kessler Foundation (FBK), Strada delle Tabarelle 286, 38122Trento, Italy.",
+        "Trento Institute for Fundamental Physics and Applications (TIFPA-INFN), Via Sommarive 14, 38123Trento, Italy.",
+        "University of Trento , Department of Physics, Via Sommarive 14, 38123Trento, Italy.",
+        "European Centre for Theoretical Studies in Nuclear Physics and Related Areas (ECT*), Bruno Kessler Foundation (FBK), Strada delle Tabarelle 286, 38122Trento, Italy.",
+        "Trento Institute for Fundamental Physics and Applications (TIFPA-INFN), Via Sommarive 14, 38123Trento, Italy.",
+        "Chalmers University of Technology , Department of Chemistry and Chemical Engineering, Kemigarden 4, 41296Gothenburg, Sweden.",
+        "Chalmers University of Technology, Department of Physics and Astronomy, Kemigarden 1, 41296Gothenburg, Sweden.",
+        "University of Trento , Department of Physics, Via Sommarive 14, 38123Trento, Italy.",
+        "Trento Institute for Fundamental Physics and Applications (TIFPA-INFN), Via Sommarive 14, 38123Trento, Italy.",
+        "University of Trento , Department of Physics, Via Sommarive 14, 38123Trento, Italy.",
+        "Trento Institute for Fundamental Physics and Applications (TIFPA-INFN), Via Sommarive 14, 38123Trento, Italy.",
+        "European Centre for Theoretical Studies in Nuclear Physics and Related Areas (ECT*), Bruno Kessler Foundation (FBK), Strada delle Tabarelle 286, 38122Trento, Italy.",
+        "Trento Institute for Fundamental Physics and Applications (TIFPA-INFN), Via Sommarive 14, 38123Trento, Italy.",
+        "Chalmers University of Technology , Department of Chemistry and Chemical Engineering, Kemigarden 4, 41296Gothenburg, Sweden."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Eriksson, Gustav",
+        "short_name": "Eriksson G",
+        "identifiers": [
+          "0009-0001-2330-6227"
+        ],
+        "affiliations": [
+          "Chalmers University of Technology , Department of Chemistry and Chemical Engineering, Kemigården 4, 41296Gothenburg, Sweden."
+        ]
+      },
+      {
+        "full_name": "Mayweg, David",
+        "short_name": "Mayweg D",
+        "identifiers": [],
+        "affiliations": [
+          "Chalmers University of Technology, Department of Physics and Astronomy, Kemigården 1, 41296Gothenburg, Sweden."
+        ]
+      },
+      {
+        "full_name": "Inverardi, Giovanni Novi",
+        "short_name": "Inverardi GN",
+        "identifiers": [],
+        "affiliations": [
+          "University of Trento , Department of Physics, Via Sommarive 14, 38123Trento, Italy.",
+          "European Centre for Theoretical Studies in Nuclear Physics and Related Areas (ECT*), Bruno Kessler Foundation (FBK), Strada delle Tabarelle 286, 38122Trento, Italy.",
+          "Trento Institute for Fundamental Physics and Applications (TIFPA-INFN), Via Sommarive 14, 38123Trento, Italy."
+        ]
+      },
+      {
+        "full_name": "Carnovale, Francesco",
+        "short_name": "Carnovale F",
+        "identifiers": [],
+        "affiliations": [
+          "University of Trento , Department of Physics, Via Sommarive 14, 38123Trento, Italy.",
+          "European Centre for Theoretical Studies in Nuclear Physics and Related Areas (ECT*), Bruno Kessler Foundation (FBK), Strada delle Tabarelle 286, 38122Trento, Italy.",
+          "Trento Institute for Fundamental Physics and Applications (TIFPA-INFN), Via Sommarive 14, 38123Trento, Italy."
+        ]
+      },
+      {
+        "full_name": "Hulander, Mats",
+        "short_name": "Hulander M",
+        "identifiers": [
+          "0000-0003-2921-5438"
+        ],
+        "affiliations": [
+          "Chalmers University of Technology , Department of Chemistry and Chemical Engineering, Kemigården 4, 41296Gothenburg, Sweden."
+        ]
+      },
+      {
+        "full_name": "Thuvander, Mattias",
+        "short_name": "Thuvander M",
+        "identifiers": [
+          "0000-0002-6097-6895"
+        ],
+        "affiliations": [
+          "Chalmers University of Technology, Department of Physics and Astronomy, Kemigården 1, 41296Gothenburg, Sweden."
+        ]
+      },
+      {
+        "full_name": "Petrolli, Lorenzo",
+        "short_name": "Petrolli L",
+        "identifiers": [],
+        "affiliations": [
+          "University of Trento , Department of Physics, Via Sommarive 14, 38123Trento, Italy.",
+          "Trento Institute for Fundamental Physics and Applications (TIFPA-INFN), Via Sommarive 14, 38123Trento, Italy."
+        ]
+      },
+      {
+        "full_name": "Lattanzi, Gianluca",
+        "short_name": "Lattanzi G",
+        "identifiers": [
+          "0000-0002-0808-6457"
+        ],
+        "affiliations": [
+          "University of Trento , Department of Physics, Via Sommarive 14, 38123Trento, Italy.",
+          "Trento Institute for Fundamental Physics and Applications (TIFPA-INFN), Via Sommarive 14, 38123Trento, Italy."
+        ]
+      },
+      {
+        "full_name": "Taioli, Simone",
+        "short_name": "Taioli S",
+        "identifiers": [
+          "0000-0003-4010-8000"
+        ],
+        "affiliations": [
+          "European Centre for Theoretical Studies in Nuclear Physics and Related Areas (ECT*), Bruno Kessler Foundation (FBK), Strada delle Tabarelle 286, 38122Trento, Italy.",
+          "Trento Institute for Fundamental Physics and Applications (TIFPA-INFN), Via Sommarive 14, 38123Trento, Italy."
+        ]
+      },
+      {
+        "full_name": "Andersson, Martin",
+        "short_name": "Andersson M",
+        "identifiers": [
+          "0000-0003-1523-4697"
+        ],
+        "affiliations": [
+          "Chalmers University of Technology , Department of Chemistry and Chemical Engineering, Kemigården 4, 41296Gothenburg, Sweden."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Analytical chemistry"
+    ],
+    "journal_abbrev": [
+      "Anal Chem"
+    ],
+    "pub_date": "2026 Aug 25",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/08/31 23:43",
+    "fetched_at": "2026-09-08 12:10:34"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42674058",
+      "42475469",
+      "31058464",
+      "40157698",
+      "40787343",
+      "23912807",
+      "34904892",
+      "29450991",
+      "30986087",
+      "24524650",
+      "30299652",
+      "38496243",
+      "22906016",
+      "38905154",
+      "39738945",
+      "40705770",
+      "35709940",
+      "40574787",
+      "39844703",
+      "23737049",
+      "33197698",
+      "26269925",
+      "1639921",
+      "41386124",
+      "21811728",
+      "29080436",
+      "31150202",
+      "21271981",
+      "35593869",
+      "34491730",
+      "38237989",
+      "39273672",
+      "25955078",
+      "36610317",
+      "24813022",
+      "22595432",
+      "38525893",
+      "42455738",
+      "26291366",
+      "23496894",
+      "35926226",
+      "2520242",
+      "32540722",
+      "27195671",
+      "33780619",
+      "38966976",
+      "8197138",
+      "17637973",
+      "28985626",
+      "31262947",
+      "31651149",
+      "34218543",
+      "28756276",
+      "15732914",
+      "12701131",
+      "26649773",
+      "22551877",
+      "21276974",
+      "32662584",
+      "18397097",
+      "33594738",
+      "41428274",
+      "34944417",
+      "33380110",
+      "29054043",
+      "16322657",
+      "22297510",
+      "2349994",
+      "27872014",
+      "38841186",
+      "26134248",
+      "33468273",
+      "19241457",
+      "39471802",
+      "41160394",
+      "16573132",
+      "19551177",
+      "32028106",
+      "28368275",
+      "34057229",
+      "28587692",
+      "29771342",
+      "11735398",
+      "35275178",
+      "32924932",
+      "40349920",
+      "33879921",
+      "34064021",
+      "40277178",
+      "26269980",
+      "28353338",
+      "32286284",
+      "37719173",
+      "41746258",
+      "11376797",
+      "35938922",
+      "33532719",
+      "39757421",
+      "33538291",
+      "31461845"
+    ],
+    "review": [
+      "42674058",
+      "29450991",
+      "30986087",
+      "39738945",
+      "35709940",
+      "23737049",
+      "29080436",
+      "21271981",
+      "34491730",
+      "38237989",
+      "39273672",
+      "25955078",
+      "23496894",
+      "38966976",
+      "17637973",
+      "31262947",
+      "34218543",
+      "28756276",
+      "33594738",
+      "41428274",
+      "33380110",
+      "22297510",
+      "19241457",
+      "19551177",
+      "32028106",
+      "28368275",
+      "34064021",
+      "28353338",
+      "11376797",
+      "35938922",
+      "33532719",
+      "33538291"
+    ],
+    "pmc": [
+      "13523547"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42674058/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/ancham/article-lookup/doi/10.1021/acs.analchem.6c02770",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

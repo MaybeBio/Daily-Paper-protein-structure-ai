@@ -1,0 +1,251 @@
+{
+  "identity": {
+    "pmid": "42674384",
+    "doi": "10.1021/acs.jctc.6c00761",
+    "title": "Evaluating Mechanical-Embedding ML/MM for Predicting Mutation Effects in Chorismate Mutase Catalysis."
+  },
+  "content": {
+    "abstract": "Predicting how mutations alter enzyme catalysis remains a central challenge in enzymology and enzyme engineering. Although quantum mechanics/molecular mechanics (QM/MM) simulations can in principle compute the activation free energy associated with enzymatic reactions, their high computational cost limits systematic studies across many variants. Here, we benchmark a mechanical-embedding machine learning potential/molecular mechanics (ML/MM) protocol for predicting mutation effects on chorismate mutase catalysis, a model system extensively studied both experimentally and computationally. In this framework, the QM-region potential energy surface is represented by an actively learned machine learning potential, while QM/MM electrostatic interactions are treated classically using partial charges predicted from instantaneous geometries for the QM region. Combined with umbrella sampling, the ML/MM approach enables efficient estimation of activation free energies and direct comparison with experimental kinetics. The method shows reasonable correlations with experiment across both nonpolar and polar active-site mutations and is quantitatively accurate for nonpolar mutations despite their narrow energetic range (<1 kcal mol-1). However, it substantially underestimates the activation free energy for polar mutations. The results highlight both the promise and limitations of mechanical-embedding ML/MM approaches for predicting mutation effects on enzyme catalysis.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Chorismate Mutase/genetics/chemistry/metabolism",
+      "Mutation",
+      "*Molecular Dynamics Simulation",
+      "Biocatalysis",
+      "Thermodynamics",
+      "*Machine Learning",
+      "Quantum Mechanics",
+      "Quantum Theory",
+      "Catalytic Domain",
+      "Static Electricity"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Sun, Zichen",
+        "Li, Yifan",
+        "Cui, Wenqiang",
+        "Xie, Wen Jun"
+      ],
+      "short_names": [
+        "Sun Z",
+        "Li Y",
+        "Cui W",
+        "Xie WJ"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-3217-0592",
+        "ORCID: 0000-0001-9913-3118",
+        "ORCID: 0000-0002-3982-9305"
+      ],
+      "affiliations": [
+        "Department of Chemistry, University of Chicago, Chicago, Illinois60637, United States.",
+        "Department of Chemistry, Princeton University, Princeton, New Jersey08544, United States.",
+        "Department of Medicinal Chemistry, University of Florida, Gainesville, Florida32610, United States.",
+        "Department of Medicinal Chemistry, University of Florida, Gainesville, Florida32610, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Sun, Zichen",
+        "short_name": "Sun Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, University of Chicago, Chicago, Illinois60637, United States."
+        ]
+      },
+      {
+        "full_name": "Li, Yifan",
+        "short_name": "Li Y",
+        "identifiers": [
+          "0000-0003-3217-0592"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Princeton University, Princeton, New Jersey08544, United States."
+        ]
+      },
+      {
+        "full_name": "Cui, Wenqiang",
+        "short_name": "Cui W",
+        "identifiers": [
+          "0000-0001-9913-3118"
+        ],
+        "affiliations": [
+          "Department of Medicinal Chemistry, University of Florida, Gainesville, Florida32610, United States."
+        ]
+      },
+      {
+        "full_name": "Xie, Wen Jun",
+        "short_name": "Xie WJ",
+        "identifiers": [
+          "0000-0002-3982-9305"
+        ],
+        "affiliations": [
+          "Department of Medicinal Chemistry, University of Florida, Gainesville, Florida32610, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of chemical theory and computation"
+    ],
+    "journal_abbrev": [
+      "J Chem Theory Comput"
+    ],
+    "pub_date": "2026 Aug 25",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/08/31 23:43",
+    "fetched_at": "2026-09-08 12:10:34"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42674384",
+      "20426479",
+      "39813105",
+      "34757367",
+      "38618904",
+      "21243152",
+      "19045066",
+      "34468138",
+      "42674396",
+      "16060652",
+      "15034619",
+      "16344484",
+      "15584751",
+      "30794388",
+      "18205486",
+      "27420296",
+      "14709097",
+      "27497165",
+      "15884923",
+      "42674410",
+      "12733937",
+      "26574388",
+      "39815393",
+      "42384764",
+      "12926249",
+      "19055405",
+      "39753520",
+      "12783541",
+      "30059109",
+      "40273117",
+      "26642985",
+      "23356661",
+      "27498635",
+      "15820980",
+      "11481470",
+      "41652162",
+      "40762518",
+      "15260525",
+      "24441588",
+      "21920322",
+      "40857148",
+      "40202178",
+      "16851412",
+      "40152421",
+      "15136856",
+      "17506527",
+      "11818529",
+      "12926945",
+      "33818085",
+      "30241317",
+      "42670850",
+      "11456771",
+      "34978450",
+      "16942112",
+      "40828673",
+      "12940735",
+      "42129205",
+      "34388673",
+      "41816612",
+      "19229886",
+      "25422475",
+      "40397856",
+      "41925246",
+      "12584715",
+      "27498643",
+      "14523243",
+      "35775395",
+      "36724190",
+      "9636050",
+      "40479920",
+      "18839943",
+      "42424392",
+      "30362750",
+      "42674378",
+      "20361776",
+      "12698486",
+      "29446946",
+      "35709391",
+      "23947841",
+      "21395290",
+      "30557020",
+      "35499146",
+      "38893576",
+      "23557014",
+      "29615707",
+      "34888722",
+      "23821374",
+      "28664734",
+      "41927461",
+      "22898919",
+      "26415844",
+      "12175255",
+      "8643526",
+      "33453995",
+      "9238004",
+      "18393679",
+      "42461082",
+      "36106790",
+      "24384841",
+      "20640801"
+    ],
+    "review": [
+      "42674384",
+      "27497165",
+      "19055405",
+      "41652162",
+      "21920322",
+      "34388673",
+      "12698486",
+      "23557014",
+      "26415844",
+      "18393679",
+      "42461082",
+      "24384841"
+    ],
+    "pmc": [
+      "13533449"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42674384/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/jctcce/article-lookup/doi/10.1021/acs.jctc.6c00761",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "identity": {
+    "pmid": "42641598",
+    "doi": "10.1016/j.str.2026.07.016",
+    "title": "Mechanistic insights into Na(+)-dependent HCO(3)(-) transport by NBCn2 (SLC4A10)."
+  },
+  "content": {
+    "abstract": "The 3D structure and mechanism of action are unknown for the integral plasma membrane transport protein solute carrier 4A10, which has been characterized functionally as an electroneutral Na(+):HCO(3)(-) cotransporter. We used structure prediction and molecular dynamics simulations to study the binding of the transported ions to the solute carrier 4A10 protein and suggest a model of sequential binding of Na(+) followed by HCO(3)(-) to the ion binding domain. The binding of HCO(3)(-) to the protein appears to depend absolutely on Na(+) binding. Conversely, the binding of HCO(3)(-) stabilizes the interaction between Na(+) and its binding site. Measurements of intracellular pH and Na(+) concentration revealed the dependence of Na(+) on HCO(3)(-) transport. The study lays the necessary foundation for targeted experimental analysis of ion translocation and for the development of selective transport inhibitors of solute carrier 4A10 and probably other proteins of the protein family of HCO(3)(-) transporters.",
+    "keywords": [
+      "binding mechanism",
+      "ion binding residues",
+      "membrane proteins",
+      "molecular dynamics simulations",
+      "sodium bicarbonate transporter",
+      "solute carrier family 4A"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Desdorf, Lasse M",
+        "Stange, Amanda D",
+        "Damkier, Helle H",
+        "Schiott, Birgit",
+        "Praetorius, Jeppe",
+        "Duncan, Anna L"
+      ],
+      "short_names": [
+        "Desdorf LM",
+        "Stange AD",
+        "Damkier HH",
+        "Schiott B",
+        "Praetorius J",
+        "Duncan AL"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Chemistry, Aarhus University, Langelandsgade 140, 8000 Aarhus, Denmark. Electronic address: lade@chem.au.dk.",
+        "Department of Chemistry, Aarhus University, Langelandsgade 140, 8000 Aarhus, Denmark.",
+        "Department of Biomedicine, Aarhus University, Hoegh-Guldbergs Gade 10, 8000 Aarhus, Denmark.",
+        "Department of Chemistry, Aarhus University, Langelandsgade 140, 8000 Aarhus, Denmark.",
+        "Department of Biomedicine, Aarhus University, Hoegh-Guldbergs Gade 10, 8000 Aarhus, Denmark. Electronic address: jp@biomed.au.dk.",
+        "Department of Chemistry, Aarhus University, Langelandsgade 140, 8000 Aarhus, Denmark. Electronic address: anna.duncan@chem.au.dk."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Desdorf, Lasse M",
+        "short_name": "Desdorf LM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Aarhus University, Langelandsgade 140, 8000 Aarhus, Denmark. Electronic address: lade@chem.au.dk."
+        ]
+      },
+      {
+        "full_name": "Stange, Amanda D",
+        "short_name": "Stange AD",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Aarhus University, Langelandsgade 140, 8000 Aarhus, Denmark."
+        ]
+      },
+      {
+        "full_name": "Damkier, Helle H",
+        "short_name": "Damkier HH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedicine, Aarhus University, Høegh-Guldbergs Gade 10, 8000 Aarhus, Denmark."
+        ]
+      },
+      {
+        "full_name": "Schiøtt, Birgit",
+        "short_name": "Schiøtt B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Aarhus University, Langelandsgade 140, 8000 Aarhus, Denmark."
+        ]
+      },
+      {
+        "full_name": "Praetorius, Jeppe",
+        "short_name": "Praetorius J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedicine, Aarhus University, Høegh-Guldbergs Gade 10, 8000 Aarhus, Denmark. Electronic address: jp@biomed.au.dk."
+        ]
+      },
+      {
+        "full_name": "Duncan, Anna L",
+        "short_name": "Duncan AL",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Aarhus University, Langelandsgade 140, 8000 Aarhus, Denmark. Electronic address: anna.duncan@chem.au.dk."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Structure (London, England : 1993)"
+    ],
+    "journal_abbrev": [
+      "Structure"
+    ],
+    "pub_date": "2026 Aug 25",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/08/25 23:33",
+    "fetched_at": "2026-09-08 12:11:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42641598",
+      "38674160",
+      "42421547",
+      "33932403",
+      "35008963",
+      "25428855",
+      "31736772",
+      "23669717",
+      "26192895",
+      "7528276",
+      "9261985",
+      "35156711",
+      "20566632",
+      "18319254",
+      "1403816",
+      "28280139",
+      "9163427",
+      "24905082",
+      "27995646",
+      "1910086",
+      "2509453",
+      "24297849",
+      "24155723",
+      "27338124",
+      "42142586",
+      "23382378",
+      "27114614",
+      "7736501",
+      "8051691",
+      "1399410",
+      "16093277",
+      "23506864",
+      "2165486",
+      "8014897",
+      "2155541",
+      "38185879",
+      "19369449",
+      "11007312",
+      "25869126",
+      "9630649",
+      "23690961",
+      "9050234",
+      "2111782",
+      "41733097",
+      "14592810",
+      "26577834",
+      "1659220",
+      "3015937",
+      "26792171",
+      "30181291",
+      "3060325",
+      "8238520",
+      "10850716",
+      "8929289",
+      "8051692",
+      "11512028",
+      "25561556",
+      "1294062",
+      "23864606",
+      "2839547",
+      "2537575",
+      "2541627",
+      "21265577",
+      "8338158",
+      "8648910",
+      "7964596",
+      "9642239",
+      "23409100",
+      "9287158",
+      "41218130",
+      "38536494",
+      "34022207",
+      "2849530",
+      "11133997",
+      "1526975",
+      "8989570",
+      "26124722",
+      "24515290",
+      "10354432",
+      "24204233",
+      "2831294",
+      "24808185",
+      "20816053",
+      "20541593",
+      "27511463",
+      "1761972",
+      "28588025",
+      "2687567",
+      "8757615",
+      "9675182",
+      "9277343",
+      "2923210",
+      "2551179",
+      "7900846",
+      "25381247",
+      "7642647",
+      "2165485",
+      "16046910",
+      "9486238",
+      "2544626"
+    ],
+    "review": [
+      "42641598",
+      "25428855",
+      "9261985",
+      "24155723",
+      "42142586",
+      "23506864",
+      "9050234",
+      "3060325",
+      "2541627",
+      "8338158",
+      "38536494",
+      "34022207",
+      "26124722",
+      "24515290",
+      "27511463",
+      "2687567"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0969-2126(26)00247-9",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

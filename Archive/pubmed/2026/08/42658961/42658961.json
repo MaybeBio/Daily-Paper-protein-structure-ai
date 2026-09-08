@@ -1,0 +1,212 @@
+{
+  "identity": {
+    "pmid": "42658961",
+    "doi": "10.1126/science.aek4499",
+    "title": "The knotty problem of RNA structure prediction."
+  },
+  "content": {
+    "abstract": "Artificial intelligence enables the design of RNA pseudoknots.",
+    "keywords": [],
+    "mesh_terms": [
+      "*RNA/chemistry",
+      "*Nucleic Acid Conformation",
+      "*Artificial Intelligence",
+      "Models, Molecular",
+      "*RNA Folding"
+    ],
+    "pub_types": [
+      "Comment",
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Mustoe, Anthony M",
+        "Guo, Junzhe"
+      ],
+      "short_names": [
+        "Mustoe AM",
+        "Guo J"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Therapeutic Innovation Center, Verna and Marrs McLean Department of Biochemistry and Molecular Pharmacology, Baylor College of Medicine, Houston, TX, USA.",
+        "Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, TX, USA.",
+        "Therapeutic Innovation Center, Verna and Marrs McLean Department of Biochemistry and Molecular Pharmacology, Baylor College of Medicine, Houston, TX, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Mustoe, Anthony M",
+        "short_name": "Mustoe AM",
+        "identifiers": [],
+        "affiliations": [
+          "Therapeutic Innovation Center, Verna and Marrs McLean Department of Biochemistry and Molecular Pharmacology, Baylor College of Medicine, Houston, TX, USA.",
+          "Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, TX, USA."
+        ]
+      },
+      {
+        "full_name": "Guo, Junzhe",
+        "short_name": "Guo J",
+        "identifiers": [],
+        "affiliations": [
+          "Therapeutic Innovation Center, Verna and Marrs McLean Department of Biochemistry and Molecular Pharmacology, Baylor College of Medicine, Houston, TX, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Science (New York, N.Y.)"
+    ],
+    "journal_abbrev": [
+      "Science"
+    ],
+    "pub_date": "2026 Aug 27",
+    "pub_year": "2026",
+    "pub_types": [
+      "Comment",
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/08/27 17:35",
+    "fetched_at": "2026-09-08 12:11:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42658961",
+      "42658941",
+      "27665590",
+      "17878940",
+      "33902324",
+      "11108471",
+      "22106334",
+      "17646157",
+      "39312141",
+      "41533561",
+      "40279361",
+      "36705900",
+      "24034313",
+      "18399329",
+      "26687716",
+      "24969746",
+      "19208139",
+      "28730429",
+      "29868872",
+      "26552091",
+      "29879103",
+      "32476596",
+      "16713706",
+      "39312138",
+      "40748481",
+      "16901237",
+      "22067111",
+      "26915129",
+      "32712918",
+      "12926009",
+      "26104744",
+      "33978763",
+      "38780725",
+      "25993396",
+      "40159092",
+      "22035327",
+      "41713531",
+      "37522173",
+      "42015361",
+      "19237463",
+      "24407223",
+      "28049135",
+      "27665602",
+      "31106330",
+      "29621250",
+      "32160034",
+      "17383172",
+      "31450739",
+      "29989089",
+      "17048382",
+      "22759616",
+      "35964008",
+      "41044256",
+      "39321802",
+      "23060618",
+      "39737572",
+      "18456842",
+      "40250407",
+      "23600819",
+      "20645303",
+      "29334887",
+      "14693809",
+      "14676318",
+      "39312134",
+      "38738621",
+      "23625966",
+      "20699301",
+      "7490740",
+      "39442981",
+      "37940855",
+      "24639155",
+      "15294028",
+      "27665593",
+      "29236971",
+      "34601552",
+      "7690611",
+      "28349425",
+      "18314500",
+      "19563894",
+      "24591615",
+      "19891777",
+      "41577452",
+      "30063835",
+      "31521910",
+      "23702539",
+      "23043260",
+      "22642100",
+      "24329296",
+      "16597240",
+      "26581440",
+      "24639159",
+      "16709587",
+      "23991010",
+      "23511969",
+      "41817779",
+      "16321572",
+      "9925784",
+      "18573079",
+      "25387965",
+      "40503717"
+    ],
+    "review": [
+      "42658961",
+      "16713706",
+      "40748481",
+      "25993396",
+      "41713531",
+      "28049135",
+      "17383172",
+      "39321802",
+      "24639155",
+      "28349425",
+      "19563894",
+      "41577452",
+      "31521910",
+      "23702539",
+      "22642100"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https:///www.science.org/doi/10.1126/science.aek4499",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "identity": {
+    "pmid": "42560022",
+    "doi": "10.1002/pro.70733",
+    "title": "Soluble protein analog selection engine (SPASE): An automated AI-powered server to improve protein engineering workflows."
+  },
+  "content": {
+    "abstract": "The design of proteins with desired biophysical properties, such as high solubility and low aggregation propensity, is crucial for various biotechnological and biomedical applications. While deep learning-based methods like ProteinMPNN have shown remarkable success in protein sequence design, their direct output may not always exhibit optimal solubility and aggregation properties. Here, we present Soluble Protein Analog Selection Engine (SPASE), a novel automated webserver that addresses this challenge by integrating ProteinMPNN with state-of-the-art tools for protein solubility prediction (Protein-Sol) and aggregation prediction (Aggrescan3D). SPASE automatically generates a diverse pool of protein variants using soluble ProteinMPNN, predicts the solubility of each analog, models their three-dimensional structures with ESMFold, and scores these variants based on their predicted solubility, aggregation propensity, and folding confidence. Computational benchmarking indicates that SPASE enriches for protein analogs with higher predicted solubility and lower predicted aggregation propensity than the average output of soluble ProteinMPNN. We discuss the advantages and limitations of the workflow, including challenges associated with protein novelty, solubility prediction, and aggregation assessment. These considerations highlight the value of integrated platforms for prioritizing protein designs across multiple predicted biophysical properties. Together, these results position the SPASE server as a practical and accessible computational platform for prioritizing protein engineering candidates for downstream experimental evaluation. SPASE is publicly available at https://proteinengineering.ca/, which serves as its stable public access portal.",
+    "keywords": [
+      "aggregation",
+      "computational methods",
+      "directed evolution",
+      "protein design",
+      "solubility",
+      "structural biology"
+    ],
+    "mesh_terms": [
+      "*Protein Engineering/methods",
+      "Solubility",
+      "*Proteins/chemistry/genetics",
+      "*Software",
+      "Models, Molecular",
+      "Protein Folding",
+      "Protein Aggregates"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Larda, Sacha T",
+        "Pare, Alex",
+        "Doucet, Nicolas"
+      ],
+      "short_names": [
+        "Larda ST",
+        "Pare A",
+        "Doucet N"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Centre Armand-Frappier Sante Biotechnologie, Institut National de la Recherche Scientifique (INRS), Universite du Quebec, Laval, Quebec, Canada.",
+        "Centre Armand-Frappier Sante Biotechnologie, Institut National de la Recherche Scientifique (INRS), Universite du Quebec, Laval, Quebec, Canada.",
+        "Centre Armand-Frappier Sante Biotechnologie, Institut National de la Recherche Scientifique (INRS), Universite du Quebec, Laval, Quebec, Canada.",
+        "PROTEO, The Quebec Network for Research on Protein Function, Engineering, and Applications, Universite du Quebec a Montreal (UQAM), Montreal, Quebec, Canada."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Larda, Sacha T",
+        "short_name": "Larda ST",
+        "identifiers": [],
+        "affiliations": [
+          "Centre Armand-Frappier Santé Biotechnologie, Institut National de la Recherche Scientifique (INRS), Université du Québec, Laval, Quebec, Canada."
+        ]
+      },
+      {
+        "full_name": "Paré, Alex",
+        "short_name": "Paré A",
+        "identifiers": [],
+        "affiliations": [
+          "Centre Armand-Frappier Santé Biotechnologie, Institut National de la Recherche Scientifique (INRS), Université du Québec, Laval, Quebec, Canada."
+        ]
+      },
+      {
+        "full_name": "Doucet, Nicolas",
+        "short_name": "Doucet N",
+        "identifiers": [],
+        "affiliations": [
+          "Centre Armand-Frappier Santé Biotechnologie, Institut National de la Recherche Scientifique (INRS), Université du Québec, Laval, Quebec, Canada.",
+          "PROTEO, The Québec Network for Research on Protein Function, Engineering, and Applications, Université du Québec à Montréal (UQÀM), Montréal, Quebec, Canada."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Protein science : a publication of the Protein Society"
+    ],
+    "journal_abbrev": [
+      "Protein Sci"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/08/06 12:37",
+    "fetched_at": "2026-09-08 12:11:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42560022",
+      "38801076",
+      "29594784",
+      "42475469",
+      "38662570",
+      "39324697",
+      "30825368",
+      "35167068",
+      "31049593",
+      "25883144",
+      "41556605",
+      "40505455",
+      "41983560",
+      "24898915",
+      "32087409",
+      "41548690",
+      "31072369",
+      "27284085",
+      "40546234",
+      "40465588",
+      "15733929",
+      "41839238",
+      "28710274",
+      "39840791",
+      "30341620",
+      "23912807",
+      "41270120",
+      "31398930",
+      "28505312",
+      "23436767",
+      "19003998",
+      "41456696",
+      "42089695",
+      "35089550",
+      "29401000",
+      "35445695",
+      "41563298",
+      "21538897",
+      "28575391",
+      "27914055",
+      "42192491",
+      "30452434",
+      "30036481",
+      "42056544",
+      "29361894",
+      "42583835",
+      "39940748",
+      "41337470",
+      "40981272",
+      "27855603",
+      "31365149",
+      "32352965",
+      "40133786",
+      "35921495",
+      "31282222",
+      "35727454",
+      "25451785",
+      "41081718",
+      "42427317",
+      "42136527",
+      "38352434",
+      "40294391",
+      "41562285",
+      "12205510",
+      "39179250",
+      "38738618",
+      "37356909",
+      "38898281",
+      "38864690",
+      "40768221",
+      "41581651",
+      "19055744",
+      "14631033",
+      "42649115",
+      "42315841",
+      "26436543",
+      "41551928",
+      "40662823",
+      "15804363",
+      "29133927",
+      "40314227",
+      "39513550",
+      "28056090",
+      "31038685",
+      "26369671",
+      "40121710",
+      "28890401",
+      "31553452",
+      "19324680",
+      "41877581",
+      "16452624",
+      "41206951",
+      "34948354",
+      "21906678",
+      "42289978",
+      "40721931",
+      "40377088",
+      "31603466",
+      "42554450",
+      "41693001"
+    ],
+    "review": [
+      "42560022",
+      "39324697",
+      "40505455",
+      "32087409",
+      "41839238",
+      "41456696",
+      "29401000",
+      "21538897",
+      "42056544",
+      "39940748",
+      "27855603",
+      "35921495",
+      "31282222",
+      "35727454",
+      "40121710"
+    ],
+    "pmc": [
+      "13446025"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42560022/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.1002/pro.70733",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

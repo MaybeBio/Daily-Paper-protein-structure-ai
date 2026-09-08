@@ -1,0 +1,252 @@
+{
+  "identity": {
+    "pmid": "42339762",
+    "doi": "10.1021/acs.biochem.6c00141",
+    "title": "Thermodynamic and Allosteric Drivers of Stilbene-Mediated Noncompetitive Inhibition of Firefly Luciferase."
+  },
+  "content": {
+    "abstract": "Photinus pyralis luciferase (Ppy luci) is widely used as a reporter molecule in high-throughput assays for biochemical, cell viability, and cellular pathway studies. Resveratrol is a naturally occurring stilbene compound known to inhibit luminescence emission catalyzed by Ppy luci. Although it has been identified as an inhibitor, its detailed mechanism has not been investigated. In the present work, three stilbene compounds (piceatannol, resveratrol, and pterostilbene) were studied for their luminescence inhibition properties to determine the factors underlying inhibition and the role of functionalization. QSAR analysis, followed by steady-state kinetics, suggested an allosteric mode of inhibition by stilbene inhibitors, with piceatannol showing the highest potency. Isothermal titration calorimetry, docking, and MMPBSA/MMGBSA supported the inhibition assay, wherein the piceatannol have a higher binding affinity compared to pterostilbene, driven by enthalpic contributions. In contrast, the melting temperature (Tm) comparison showed that resveratrol causes a higher shift in the global protein conformation despite having reduced interactions with binding site residues. Stability studies using molecular dynamics simulation also highlighted a greater effect of resveratrol on global conformational stability compared to piceatannol. Density functional theory (DFT) analysis indicated higher reactivity of piceatannol, underscoring its ability to hinder the oxidative microenvironment to a greater extent and its inhibition potency. The study indicate that stilbene inhibition is the result of a synergistic effect of enthalpic contributions, localized allosteric perturbations, and changes in the oxidative microenvironment and is less dependent on global conformational effects. Overall, this study highlights the importance of carefully evaluating functionalization-driven, multifactorial inhibition to mitigate assay artifacts.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Stilbenes/chemistry/pharmacology",
+      "Animals",
+      "Resveratrol/chemistry/pharmacology",
+      "Thermodynamics",
+      "*Luciferases, Firefly/antagonists & inhibitors/chemistry/metabolism",
+      "Allosteric Regulation/drug effects",
+      "*Fireflies/enzymology",
+      "Molecular Docking Simulation",
+      "Kinetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Sr Nair, Adwaita",
+        "Dhankhar, Kunal",
+        "Das, Anirban",
+        "Samanta, Arup",
+        "Hazra, Saugata"
+      ],
+      "short_names": [
+        "Sr Nair A",
+        "Dhankhar K",
+        "Das A",
+        "Samanta A",
+        "Hazra S"
+      ],
+      "auids": [
+        "ORCID: 0009-0009-0264-1833",
+        "ORCID: 0000-0002-2057-0786",
+        "ORCID: 0000-0002-3074-1534"
+      ],
+      "affiliations": [
+        "Centre for Nanotechnology, Indian Institute of Technology Roorkee, Roorkee, Uttarakhand247667, India.",
+        "Department of Biosciences and Bioengineering, Indian Institute of Technology Roorkee, Roorkee, Uttarakhand247667, India.",
+        "Department of Biosciences and Bioengineering, Indian Institute of Technology Roorkee, Roorkee, Uttarakhand247667, India.",
+        "Centre for Nanotechnology, Indian Institute of Technology Roorkee, Roorkee, Uttarakhand247667, India.",
+        "Centre for Nanotechnology, Indian Institute of Technology Roorkee, Roorkee, Uttarakhand247667, India.",
+        "Department of Physics, Indian Institute of Technology Roorkee, Roorkee, Uttarakhand247667, India.",
+        "Centre for Nanotechnology, Indian Institute of Technology Roorkee, Roorkee, Uttarakhand247667, India.",
+        "Department of Biosciences and Bioengineering, Indian Institute of Technology Roorkee, Roorkee, Uttarakhand247667, India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Sr Nair, Adwaita",
+        "short_name": "Sr Nair A",
+        "identifiers": [
+          "0009-0009-0264-1833"
+        ],
+        "affiliations": [
+          "Centre for Nanotechnology, Indian Institute of Technology Roorkee, Roorkee, Uttarakhand247667, India.",
+          "Department of Biosciences and Bioengineering, Indian Institute of Technology Roorkee, Roorkee, Uttarakhand247667, India."
+        ]
+      },
+      {
+        "full_name": "Dhankhar, Kunal",
+        "short_name": "Dhankhar K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biosciences and Bioengineering, Indian Institute of Technology Roorkee, Roorkee, Uttarakhand247667, India."
+        ]
+      },
+      {
+        "full_name": "Das, Anirban",
+        "short_name": "Das A",
+        "identifiers": [],
+        "affiliations": [
+          "Centre for Nanotechnology, Indian Institute of Technology Roorkee, Roorkee, Uttarakhand247667, India."
+        ]
+      },
+      {
+        "full_name": "Samanta, Arup",
+        "short_name": "Samanta A",
+        "identifiers": [
+          "0000-0002-2057-0786"
+        ],
+        "affiliations": [
+          "Centre for Nanotechnology, Indian Institute of Technology Roorkee, Roorkee, Uttarakhand247667, India.",
+          "Department of Physics, Indian Institute of Technology Roorkee, Roorkee, Uttarakhand247667, India."
+        ]
+      },
+      {
+        "full_name": "Hazra, Saugata",
+        "short_name": "Hazra S",
+        "identifiers": [
+          "0000-0002-3074-1534"
+        ],
+        "affiliations": [
+          "Centre for Nanotechnology, Indian Institute of Technology Roorkee, Roorkee, Uttarakhand247667, India.",
+          "Department of Biosciences and Bioengineering, Indian Institute of Technology Roorkee, Roorkee, Uttarakhand247667, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biochemistry"
+    ],
+    "journal_abbrev": [
+      "Biochemistry"
+    ],
+    "pub_date": "2026 Sep 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/06/24 12:36",
+    "fetched_at": "2026-09-08 12:12:00"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42339762",
+      "22789175",
+      "19215089",
+      "27079867",
+      "31733898",
+      "40485476",
+      "31351395",
+      "41009396",
+      "28921549",
+      "40379904",
+      "27142512",
+      "19527681",
+      "16684708",
+      "23871879",
+      "22298784",
+      "22243426",
+      "17064666",
+      "27026341",
+      "25160632",
+      "27475863",
+      "26789132",
+      "23685028",
+      "31339127",
+      "20221465",
+      "24361291",
+      "17922654",
+      "19492113",
+      "22108298",
+      "22981335",
+      "30170174",
+      "37702264",
+      "16541080",
+      "31696185",
+      "18279384",
+      "26886551",
+      "15683224",
+      "39344244",
+      "28492074",
+      "29168632",
+      "20194791",
+      "21494742",
+      "22810202",
+      "40533925",
+      "23992305",
+      "16125663",
+      "27447295",
+      "32745950",
+      "26048525",
+      "27871385",
+      "21345308",
+      "34203212",
+      "24064738",
+      "31615672",
+      "20609414",
+      "39751819",
+      "34761201",
+      "18516504",
+      "25264115",
+      "20593108",
+      "28403783",
+      "23485150",
+      "19679195",
+      "18251715",
+      "31174737",
+      "22921073",
+      "22272253",
+      "23286196",
+      "28752574",
+      "24465730",
+      "19208811",
+      "39732228",
+      "21188462",
+      "27391007",
+      "39693025",
+      "21187824",
+      "24492953",
+      "31560532",
+      "41898392",
+      "15695930",
+      "18666380",
+      "12444159",
+      "16243536",
+      "19472994",
+      "17540326",
+      "18754056",
+      "36797615",
+      "35998831",
+      "28285521",
+      "26947765",
+      "31108853",
+      "21341355",
+      "36499424",
+      "21409209",
+      "21617898",
+      "24802181",
+      "17197704",
+      "23712764",
+      "41732871",
+      "19873433",
+      "25229845"
+    ],
+    "review": [
+      "42339762",
+      "22108298",
+      "37702264",
+      "20609414",
+      "21188462",
+      "39693025"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/bichaw/article-lookup/doi/10.1021/acs.biochem.6c00141",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

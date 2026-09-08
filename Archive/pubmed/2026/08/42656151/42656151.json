@@ -1,0 +1,270 @@
+{
+  "identity": {
+    "pmid": "42656151",
+    "doi": "10.1098/rstb.2024.0513",
+    "title": "Piecing together the structure of epidermal growth factor receptor complexes: a journey from crystals to cells and its impact on cancer therapy."
+  },
+  "content": {
+    "abstract": "The epidermal growth factor receptor (EGFR) was cloned and identified as an oncogene 40 years ago, and since then has become the poster child for receptor tyrosine kinases in physiological and pathophysiological settings. Cell surface EGFRs bind growth factors secreted by adjacent cells and undergo conformational changes that transduce normal or dysregulated growth and division signals across the plasma membrane. It took more than two decades for atomic resolution of partial structures to become available, including the growth factor-bound ectodomain dimer, the active kinase monomer, the autoinhibited ectodomain monomer, the active asymmetric kinase dimer, the inactive symmetric dimer, transmembrane dimers and the inner juxtamembrane domain. These crystallographic structures paved the way for investigations of the architecture of EGFR assemblies on cells, which in the past decade have revealed the existence of oligomers, whose structure has been examined using high-resolution fluorescence microscopy combined with large-scale molecular dynamics simulations. Understanding the structure of EGFR monomers and dimers has already transformed our mechanistic understanding of cancer treatment, in some cases extending overall survival from months to a handful of years. It is eminently possible that the subsequent exploitation of information on oligomer structure will complement these achievements and overcome some of the current hurdles. This article is part of the discussion meeting issue 'Epidermal growth factor receptor after 40 years'.",
+    "keywords": [
+      "EGFR",
+      "cancer",
+      "structure"
+    ],
+    "mesh_terms": [
+      "*ErbB Receptors/chemistry/metabolism",
+      "Humans",
+      "*Neoplasms/therapy",
+      "Protein Conformation",
+      "Animals"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Roberts, Selene",
+        "Clarke, Dave",
+        "Galdadas, Ioannis",
+        "Martin-Fernandez, Marisa"
+      ],
+      "short_names": [
+        "Roberts S",
+        "Clarke D",
+        "Galdadas I",
+        "Martin-Fernandez M"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-5496-6300"
+      ],
+      "affiliations": [
+        "Central Laser Facility, Rutherford Appleton Laboratory , Didcot, Oxfordshire OX11 0FA, UK.",
+        "Central Laser Facility, Rutherford Appleton Laboratory , Didcot, Oxfordshire OX11 0FA, UK.",
+        "Atomistic Simulations, Italian Institute of Technology , Genova, 16163, Italy.",
+        "Central Laser Facility, Rutherford Appleton Laboratory , Didcot, Oxfordshire OX11 0FA, UK."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Roberts, Selene",
+        "short_name": "Roberts S",
+        "identifiers": [],
+        "affiliations": [
+          "Central Laser Facility, Rutherford Appleton Laboratory , Didcot, Oxfordshire OX11 0FA, UK."
+        ]
+      },
+      {
+        "full_name": "Clarke, Dave",
+        "short_name": "Clarke D",
+        "identifiers": [],
+        "affiliations": [
+          "Central Laser Facility, Rutherford Appleton Laboratory , Didcot, Oxfordshire OX11 0FA, UK."
+        ]
+      },
+      {
+        "full_name": "Galdadas, Ioannis",
+        "short_name": "Galdadas I",
+        "identifiers": [],
+        "affiliations": [
+          "Atomistic Simulations, Italian Institute of Technology , Genova, 16163, Italy."
+        ]
+      },
+      {
+        "full_name": "Martin-Fernandez, Marisa",
+        "short_name": "Martin-Fernandez M",
+        "identifiers": [
+          "0000-0001-5496-6300"
+        ],
+        "affiliations": [
+          "Central Laser Facility, Rutherford Appleton Laboratory , Didcot, Oxfordshire OX11 0FA, UK."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Philosophical transactions of the Royal Society of London. Series B, Biological sciences"
+    ],
+    "journal_abbrev": [
+      "Philos Trans R Soc Lond B Biol Sci"
+    ],
+    "pub_date": "2026 Aug 27",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/08/27 05:35",
+    "fetched_at": "2026-09-08 12:11:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42656151",
+      "15994331",
+      "24269963",
+      "21495621",
+      "42249090",
+      "39513999",
+      "42656146",
+      "30337523",
+      "17092939",
+      "30500458",
+      "22988250",
+      "23374350",
+      "23382875",
+      "42583967",
+      "21822280",
+      "25219456",
+      "21275429",
+      "25805329",
+      "18771282",
+      "31740999",
+      "25762314",
+      "24928736",
+      "30959819",
+      "24019492",
+      "32727847",
+      "29731426",
+      "23629589",
+      "25603171",
+      "15374980",
+      "33371069",
+      "42656154",
+      "25074934",
+      "22699492",
+      "18573086",
+      "20515951",
+      "32534062",
+      "15158434",
+      "28940194",
+      "42475585",
+      "26977054",
+      "21426301",
+      "20007378",
+      "23101586",
+      "15016810",
+      "20432069",
+      "19406245",
+      "41979597",
+      "31536605",
+      "15821783",
+      "10388012",
+      "10954714",
+      "27796308",
+      "23760854",
+      "23822636",
+      "29997256",
+      "26484734",
+      "38503739",
+      "11500850",
+      "38117650",
+      "14760102",
+      "41421344",
+      "15955874",
+      "31163211",
+      "24022088",
+      "42656148",
+      "33305427",
+      "37315787",
+      "23163584",
+      "21868214",
+      "23912807",
+      "12642595",
+      "36282005",
+      "35490382",
+      "42656153",
+      "28574446",
+      "28628261",
+      "7790353",
+      "12467226",
+      "23074402",
+      "29255092",
+      "20940297",
+      "36768973",
+      "30098332",
+      "19560417",
+      "18271917",
+      "15767552",
+      "27459426",
+      "22788954",
+      "12297049",
+      "32850868",
+      "40958417",
+      "25468910",
+      "15289342",
+      "40194950",
+      "23878723",
+      "25376492",
+      "42656145",
+      "38670929",
+      "15078990",
+      "8144568"
+    ],
+    "review": [
+      "42656151",
+      "24269963",
+      "42249090",
+      "42656146",
+      "30500458",
+      "42583967",
+      "24928736",
+      "30959819",
+      "42656154",
+      "18573086",
+      "15158434",
+      "20432069",
+      "15821783",
+      "26484734",
+      "42656148",
+      "21868214",
+      "42656153",
+      "28574446",
+      "36768973",
+      "30098332",
+      "18271917",
+      "40958417",
+      "40194950",
+      "25376492"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/cancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Cancer"
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-EGFR-7",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-68",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://royalsocietypublishing.org/rstb/article-lookup/doi/10.1098/rstb.2024.0513",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

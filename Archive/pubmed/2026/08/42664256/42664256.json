@@ -1,0 +1,250 @@
+{
+  "identity": {
+    "pmid": "42664256",
+    "doi": "10.1371/journal.pcbi.1014718",
+    "title": "GPCR-GO: Relation-aware graph learning for predicting Gene Ontology terms of G protein-coupled receptors."
+  },
+  "content": {
+    "abstract": "G protein-coupled receptors (GPCRs) are central membrane receptors and major therapeutic targets. However, predicting GPCR function remains difficult because experimentally annotated receptors are scarce, functional labels follow a long-tailed distribution, and structural information remains underused. Here, we present GPCR-GO, a relation-aware heterogeneous graph attention framework that integrates structural similarity with protein-protein interactions (PPIs). GPCR-GO uses the Dictionary of Protein Secondary Structure (DSSP) to transform three-dimensional protein structures into residue-level structural descriptors, aggregates these descriptors into protein-level structural vectors, and uses the resulting vectors to define structural-similarity edges. The framework builds a heterogeneous graph linking proteins and Gene Ontology (GO) terms through PPI edges, structural-similarity edges, GO hierarchy edges, and reviewed protein-GO annotations. Relation-aware graph attention aggregates complementary biological signals, whereas graph decomposition, hard negative mining, and semi-supervised learning improve learning under sparse supervision and class imbalance. On the held-out GPCR test split, GPCR-GO outperforms existing methods and achieves F-score (Fmax) values of 0.514, 0.767, and 0.631 on biological process (BP), cellular component (CC), and molecular function (MF), respectively. These results show that structure-derived relations complement curated annotation and support accurate GPCR function prediction under limited supervision.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Receptors, G-Protein-Coupled/genetics/chemistry/metabolism",
+      "*Computational Biology/methods",
+      "*Gene Ontology",
+      "Humans",
+      "Databases, Protein",
+      "Graph Neural Networks",
+      "Protein Interaction Mapping/methods",
+      "Algorithms"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Sun, Anchi",
+        "Hao, Yongjing",
+        "Ding, Yijie",
+        "Chen, Jing",
+        "Wu, Hongjie"
+      ],
+      "short_names": [
+        "Sun A",
+        "Hao Y",
+        "Ding Y",
+        "Chen J",
+        "Wu H"
+      ],
+      "auids": [
+        "ORCID: 0009-0001-9966-3079"
+      ],
+      "affiliations": [
+        "School of Electronic and Information Engineering, Suzhou University of Science and Technology, Suzhou, Jiangsu, China.",
+        "School of Electronic and Information Engineering, Suzhou University of Science and Technology, Suzhou, Jiangsu, China.",
+        "School of Electronic and Information Engineering, Suzhou University of Science and Technology, Suzhou, Jiangsu, China.",
+        "School of Electronic and Information Engineering, Suzhou University of Science and Technology, Suzhou, Jiangsu, China.",
+        "School of Electronic and Information Engineering, Suzhou University of Science and Technology, Suzhou, Jiangsu, China.",
+        "Jiangsu Province Key Laboratory of Intelligent Building Energy Efficiency, Suzhou University of Science and Technology, Suzhou, Jiangsu, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Sun, Anchi",
+        "short_name": "Sun A",
+        "identifiers": [
+          "0009-0001-9966-3079"
+        ],
+        "affiliations": [
+          "School of Electronic and Information Engineering, Suzhou University of Science and Technology, Suzhou, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "Hao, Yongjing",
+        "short_name": "Hao Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Electronic and Information Engineering, Suzhou University of Science and Technology, Suzhou, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "Ding, Yijie",
+        "short_name": "Ding Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Electronic and Information Engineering, Suzhou University of Science and Technology, Suzhou, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Jing",
+        "short_name": "Chen J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Electronic and Information Engineering, Suzhou University of Science and Technology, Suzhou, Jiangsu, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Hongjie",
+        "short_name": "Wu H",
+        "identifiers": [],
+        "affiliations": [
+          "School of Electronic and Information Engineering, Suzhou University of Science and Technology, Suzhou, Jiangsu, China.",
+          "Jiangsu Province Key Laboratory of Intelligent Building Energy Efficiency, Suzhou University of Science and Technology, Suzhou, Jiangsu, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "PLoS computational biology"
+    ],
+    "journal_abbrev": [
+      "PLoS Comput Biol"
+    ],
+    "pub_date": "2026 Aug",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/08/28 18:06",
+    "fetched_at": "2026-09-08 12:11:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42664256",
+      "41662346",
+      "42336024",
+      "42119874",
+      "42154341",
+      "40217132",
+      "33323115",
+      "21078182",
+      "41864877",
+      "35176146",
+      "34882195",
+      "42295121",
+      "40174317",
+      "42011128",
+      "39847542",
+      "40728607",
+      "40857391",
+      "39848362",
+      "40815964",
+      "41016015",
+      "41537309",
+      "42475469",
+      "39487084",
+      "42488347",
+      "21284890",
+      "39446541",
+      "41421972",
+      "40362328",
+      "26355512",
+      "15929793",
+      "40811256",
+      "27028541",
+      "41094395",
+      "38833802",
+      "41883139",
+      "36510133",
+      "26072504",
+      "33323113",
+      "42472618",
+      "35901452",
+      "42478599",
+      "30453875",
+      "16485037",
+      "41031876",
+      "38980781",
+      "31874639",
+      "36241966",
+      "25854804",
+      "30526566",
+      "41861813",
+      "28641268",
+      "29031869",
+      "28371781",
+      "31952684",
+      "27117309",
+      "32750870",
+      "25161252",
+      "17537266",
+      "42458575",
+      "37401369",
+      "17646340",
+      "40982511",
+      "34630534",
+      "42123672",
+      "38446740",
+      "28002604",
+      "38319781",
+      "42160368",
+      "40650140",
+      "17620146",
+      "30169569",
+      "31459527",
+      "39553733",
+      "42492505",
+      "40705403",
+      "37083829",
+      "41985989",
+      "38564358",
+      "38747401",
+      "24158807",
+      "41481503",
+      "34780331",
+      "41495146",
+      "21122125",
+      "30520123",
+      "40450118",
+      "40524427",
+      "41958283",
+      "41678734",
+      "41276805",
+      "22081587",
+      "42011802",
+      "29671402",
+      "30108262",
+      "24564941",
+      "32693790",
+      "40888747",
+      "38436837",
+      "26708333",
+      "39489606"
+    ],
+    "review": [
+      "42664256",
+      "40728607",
+      "42472618",
+      "31952684",
+      "42123672",
+      "39553733"
+    ],
+    "pmc": [
+      "13537695"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://dx.plos.org/10.1371/journal.pcbi.1014718",
+        "provider": "Public Library of Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42664256/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

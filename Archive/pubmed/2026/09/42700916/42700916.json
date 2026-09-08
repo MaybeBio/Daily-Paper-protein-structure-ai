@@ -1,0 +1,325 @@
+{
+  "identity": {
+    "pmid": "42700916",
+    "doi": "10.1016/j.antiviral.2026.106529",
+    "title": "Application of Emerging Technologies in the Antiviral Field."
+  },
+  "content": {
+    "abstract": "Viral diseases pose a serious threat to global public health, agriculture, and biosecurity. Conventional antiviral strategies are often limited by an incomplete understanding of disease mechanisms, poor targeting precision, and slow response times. Emerging technologies are now reshaping the landscape of antiviral research. This review examines the roles of four key frontiers, including organoid models, gene editing, AI-driven molecular design, and synthetic biology. Organoids provide physiologically relevant platforms that model virus-host interactions and disease progression. Viral infections remain a major challenge to human and animal health, agriculture, and biosecurity. Progress in antiviral research is constrained by the complexity of viral pathogenesis, the diversity and rapid evolution of viruses, and the limited translational relevance of some traditional model systems. Recent advances in organoid technology, gene editing, artificial intelligence, and synthetic biology are expanding the toolkit available for antiviral research and development. In this review, we discuss how these four technological frontiers contribute to disease modeling, target discovery, molecular design, and translational innovation. Organoids, in particular, provide physiologically relevant systems for investigating viral infection, tissue tropism, host responses, and pathogenesis. Gene editing tools, such as CRISPR, enable precise manipulation of host and viral genomes, facilitating the development of resistant organisms and next-generation vaccine platforms. AI technologies, including AlphaFold for structure prediction and platforms for de novo protein design, address long-standing bottlenecks in structural biology and offer powerful means to engineer antiviral proteins, antibodies, and vaccine antigens. Synthetic biology, guided by the Design-Build-Test-Learn cycle, integrates computational design, genetic assembly, and functional validation into a cohesive pipeline. Together, these technologies form a synergistic workflow that spans disease modeling, target discovery, molecular design, construction, testing, and iterative optimization. This integrated approach is shifting antiviral development from traditional empirical methods toward more precise, intelligent strategies. The review also highlights ongoing challenges in integration and scalability, stressing that high-quality biological datasets and stronger interdisciplinary collaboration are essential for realizing translational potential. By presenting a cohesive view of these converging methodologies, this review offers a framework to guide the intelligent evolution of antiviral strategies in both human and animal health.",
+    "keywords": [
+      "Antiviral",
+      "Artificial intelligence",
+      "CRISPR-Cas",
+      "DBTL cycle",
+      "Organoids",
+      "Synthetic biology"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Xiaoyan",
+        "Zhang, Lele",
+        "Guo, Tengda",
+        "Du, Wenjuan",
+        "Wang, Shen",
+        "Li, Yongtao"
+      ],
+      "short_names": [
+        "Zhang X",
+        "Zhang L",
+        "Guo T",
+        "Du W",
+        "Wang S",
+        "Li Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou 450046, China.",
+        "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou 450046, China.",
+        "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou 450046, China.",
+        "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou 450046, China. Electronic address: wenjuandu111@163.com.",
+        "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou 450046, China. Electronic address: shengwang@henau.edu.cn.",
+        "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou 450046, China. Electronic address: yongtaole@126.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Xiaoyan",
+        "short_name": "Zhang X",
+        "identifiers": [],
+        "affiliations": [
+          "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou 450046, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Lele",
+        "short_name": "Zhang L",
+        "identifiers": [],
+        "affiliations": [
+          "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou 450046, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Tengda",
+        "short_name": "Guo T",
+        "identifiers": [],
+        "affiliations": [
+          "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou 450046, China."
+        ]
+      },
+      {
+        "full_name": "Du, Wenjuan",
+        "short_name": "Du W",
+        "identifiers": [],
+        "affiliations": [
+          "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou 450046, China. Electronic address: wenjuandu111@163.com."
+        ]
+      },
+      {
+        "full_name": "Wang, Shen",
+        "short_name": "Wang S",
+        "identifiers": [],
+        "affiliations": [
+          "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou 450046, China. Electronic address: shengwang@henau.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Li, Yongtao",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou 450046, China. Electronic address: yongtaole@126.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Antiviral research"
+    ],
+    "journal_abbrev": [
+      "Antiviral Res"
+    ],
+    "pub_date": "2026 Sep 5",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/06 01:18",
+    "fetched_at": "2026-09-08 12:10:34"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42700916",
+      "42475469",
+      "42553490",
+      "23912807",
+      "41754581",
+      "42514636",
+      "41410516",
+      "41300710",
+      "41590268",
+      "41896450",
+      "42173386",
+      "40836932",
+      "42195116",
+      "41656303",
+      "40879383",
+      "41516041",
+      "26269925",
+      "42044246",
+      "41966053",
+      "40069074",
+      "42164816",
+      "42164657",
+      "42218467",
+      "40553349",
+      "42187710",
+      "41340194",
+      "41065853",
+      "42079573",
+      "42569261",
+      "41716172",
+      "42052577",
+      "42611889",
+      "42402276",
+      "41064763",
+      "27499678",
+      "41641521",
+      "40655875",
+      "42602140",
+      "42419186",
+      "41758998",
+      "42235797",
+      "41910274",
+      "33001599",
+      "42577077",
+      "42182076",
+      "34662052",
+      "35419602",
+      "41951835",
+      "42663717",
+      "42616280",
+      "30212088",
+      "40763280",
+      "41769292",
+      "42364829",
+      "41649705",
+      "42080108",
+      "41788548",
+      "39265553",
+      "42452277",
+      "40170307",
+      "41985328",
+      "33119230",
+      "42179772",
+      "39988220",
+      "30704043",
+      "41999049",
+      "41073589",
+      "42075136",
+      "42482485",
+      "41889171",
+      "40173086",
+      "36508524",
+      "40056574",
+      "42344774",
+      "41740329",
+      "42058982",
+      "42199149",
+      "42607939",
+      "41674784",
+      "42111325",
+      "29019352",
+      "42515606",
+      "41595782",
+      "42586508",
+      "40647462",
+      "42198874",
+      "41910880",
+      "42095951",
+      "42330856",
+      "40305163",
+      "42180850",
+      "42528148",
+      "41751160",
+      "41840308",
+      "42428244",
+      "41472258",
+      "41064793",
+      "42329464",
+      "42072662",
+      "41254174"
+    ],
+    "review": [
+      "42700916",
+      "42553490",
+      "41754581",
+      "42514636",
+      "41410516",
+      "41300710",
+      "41590268",
+      "41896450",
+      "42173386",
+      "40836932",
+      "42195116",
+      "41656303",
+      "40879383",
+      "41516041",
+      "41966053",
+      "40069074",
+      "42164816",
+      "42164657",
+      "42218467",
+      "40553349",
+      "42187710",
+      "41065853",
+      "42079573",
+      "42569261",
+      "41716172",
+      "42052577",
+      "42611889",
+      "42402276",
+      "41064763",
+      "41641521",
+      "40655875",
+      "42602140",
+      "42419186",
+      "42235797",
+      "41910274",
+      "42577077",
+      "42182076",
+      "35419602",
+      "41951835",
+      "42663717",
+      "42616280",
+      "40763280",
+      "41769292",
+      "42364829",
+      "41649705",
+      "42080108",
+      "41788548",
+      "39265553",
+      "42452277",
+      "40170307",
+      "41985328",
+      "42179772",
+      "39988220",
+      "30704043",
+      "41999049",
+      "41073589",
+      "42075136",
+      "42482485",
+      "41889171",
+      "40173086",
+      "40056574",
+      "42344774",
+      "41740329",
+      "42058982",
+      "42607939",
+      "41674784",
+      "42111325",
+      "42515606",
+      "42586508",
+      "40647462",
+      "42198874",
+      "41910880",
+      "42095951",
+      "42330856",
+      "40305163",
+      "42180850",
+      "42528148",
+      "41751160",
+      "41840308",
+      "42428244",
+      "41472258",
+      "41064793",
+      "42329464",
+      "42072662",
+      "41254174"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0166-3542(26)00188-9",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

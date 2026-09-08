@@ -1,0 +1,289 @@
+{
+  "identity": {
+    "pmid": "42264159",
+    "doi": "10.1016/j.jsb.2026.108342",
+    "title": "Structural and functional characterization of thermostable EstS1 esterase for BHET degradation."
+  },
+  "content": {
+    "abstract": "Enzymatic degradation of plastics has been extensively investigated, but its applications have remained limited due to the low stability and efficiency of enzymes in diverse environmental conditions. The present study elucidates the structural and functional characteristics of the thermostable EstS1 Esterase from Sulfobacillus acidophilus DSM10332 in the degradation of bis(2-hydroxyethyl) terephthalate (BHET), the primary intermediate of PET degradation. The co-crystal structure of wild-type EstS1 with BHET revealed binding of BHET and its degradation products, mono(2-hydroxyethyl) terephthalate (MHET), and ethylene glycol in the active site tunnel, with MHET interacting with the catalytic triad. The structure of the EstS1 Ser154Ala mutant with bound substrate showed two BHET molecules, of which one interacted with the mutated catalytic triad and the oxyanion hole, and the other was positioned in front of the first towards cavity 2. Further, structural analysis suggested that the hydrophobic nature of cavity 1, formed by the cap domain, plays a critical role in substrate binding, orientation, and catalysis. Kinetic analyses demonstrated that EstS1 degraded 75% of BHET within 1 h, producing MHET and terephthalate as end products. These findings indicate the remarkable ability of EstS1 to consecutively cleave two ester bonds. Molecular dynamics (MD) simulation revealed highly stable interactions between BHET and the active site of EstS1 throughout the 1 mus trajectory. Overall, this study provides structural insights into the EstS1-BHET interaction mechanism and demonstrates the potential of EstS1 esterase to directly convert BHET into terephthalate. These findings establish a strong foundation for future enzyme engineering efforts aimed at developing efficient PET plastic degradation technologies.",
+    "keywords": [
+      "Bis(2-hydroxyethyl)terephthalate (BHET)",
+      "EstS1 esterase",
+      "Mono(2-hydroxyethyl) terephthalate (MHET)",
+      "Polyethylene terephthalate (PET)",
+      "Terephthalate"
+    ],
+    "mesh_terms": [
+      "*Esterases/chemistry/metabolism/genetics",
+      "*Phthalic Acids/metabolism/chemistry",
+      "Catalytic Domain",
+      "Substrate Specificity",
+      "*Bacterial Proteins/chemistry/metabolism/genetics",
+      "Crystallography, X-Ray",
+      "Enzyme Stability",
+      "Models, Molecular"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Verma, Shalja",
+        "Aggarwal, Divya",
+        "Ashar, Meet",
+        "Pandey, Anand Kumar",
+        "Sutradhar, Anup",
+        "Pandey, Sakshi",
+        "Sircar, Debabrata",
+        "Singla, Jitin",
+        "Kumar, Pravindra"
+      ],
+      "short_names": [
+        "Verma S",
+        "Aggarwal D",
+        "Ashar M",
+        "Pandey AK",
+        "Sutradhar A",
+        "Pandey S",
+        "Sircar D",
+        "Singla J",
+        "Kumar P"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Biosciences and Bioengineering, IIT Roorkee, Roorkee, Uttarakhand 247667, India.",
+        "Department of Biosciences and Bioengineering, IIT Roorkee, Roorkee, Uttarakhand 247667, India.",
+        "Department of Biosciences and Bioengineering, IIT Roorkee, Roorkee, Uttarakhand 247667, India.",
+        "Department of Biotechnology Engineering, Institute of Engineering and Technology, Bundelkhand University, Jhansi 284128, India.",
+        "Department of Biosciences and Bioengineering, IIT Roorkee, Roorkee, Uttarakhand 247667, India.",
+        "Department of Biosciences and Bioengineering, IIT Roorkee, Roorkee, Uttarakhand 247667, India.",
+        "Department of Biosciences and Bioengineering, IIT Roorkee, Roorkee, Uttarakhand 247667, India.",
+        "Department of Biosciences and Bioengineering, IIT Roorkee, Roorkee, Uttarakhand 247667, India.",
+        "Department of Biosciences and Bioengineering, IIT Roorkee, Roorkee, Uttarakhand 247667, India. Electronic address: pravindra.kumar@bt.iitr.ac.in."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Verma, Shalja",
+        "short_name": "Verma S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biosciences and Bioengineering, IIT Roorkee, Roorkee, Uttarakhand 247667, India."
+        ]
+      },
+      {
+        "full_name": "Aggarwal, Divya",
+        "short_name": "Aggarwal D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biosciences and Bioengineering, IIT Roorkee, Roorkee, Uttarakhand 247667, India."
+        ]
+      },
+      {
+        "full_name": "Ashar, Meet",
+        "short_name": "Ashar M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biosciences and Bioengineering, IIT Roorkee, Roorkee, Uttarakhand 247667, India."
+        ]
+      },
+      {
+        "full_name": "Pandey, Anand Kumar",
+        "short_name": "Pandey AK",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology Engineering, Institute of Engineering and Technology, Bundelkhand University, Jhansi 284128, India."
+        ]
+      },
+      {
+        "full_name": "Sutradhar, Anup",
+        "short_name": "Sutradhar A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biosciences and Bioengineering, IIT Roorkee, Roorkee, Uttarakhand 247667, India."
+        ]
+      },
+      {
+        "full_name": "Pandey, Sakshi",
+        "short_name": "Pandey S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biosciences and Bioengineering, IIT Roorkee, Roorkee, Uttarakhand 247667, India."
+        ]
+      },
+      {
+        "full_name": "Sircar, Debabrata",
+        "short_name": "Sircar D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biosciences and Bioengineering, IIT Roorkee, Roorkee, Uttarakhand 247667, India."
+        ]
+      },
+      {
+        "full_name": "Singla, Jitin",
+        "short_name": "Singla J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biosciences and Bioengineering, IIT Roorkee, Roorkee, Uttarakhand 247667, India."
+        ]
+      },
+      {
+        "full_name": "Kumar, Pravindra",
+        "short_name": "Kumar P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biosciences and Bioengineering, IIT Roorkee, Roorkee, Uttarakhand 247667, India. Electronic address: pravindra.kumar@bt.iitr.ac.in."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of structural biology"
+    ],
+    "journal_abbrev": [
+      "J Struct Biol"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/06/10 06:52",
+    "fetched_at": "2026-09-08 12:12:00"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42264159",
+      "39642872",
+      "32510669",
+      "39187447",
+      "39182429",
+      "40488468",
+      "37212229",
+      "38753963",
+      "39357610",
+      "41317772",
+      "25149523",
+      "36063976",
+      "41154791",
+      "42092658",
+      "30979881",
+      "29374183",
+      "42223045",
+      "37783328",
+      "39319709",
+      "40793770",
+      "35753492",
+      "34260304",
+      "41207588",
+      "40704813",
+      "32989159",
+      "34075621",
+      "42029000",
+      "41209732",
+      "34339110",
+      "42649483",
+      "41797379",
+      "42664909",
+      "37697032",
+      "41972543",
+      "34037842",
+      "41781769",
+      "28733281",
+      "41997329",
+      "38944007",
+      "42492729",
+      "39423573",
+      "41852261",
+      "28125606",
+      "37212228",
+      "36570084",
+      "38545976",
+      "38385577",
+      "38002377",
+      "42627287",
+      "33445864",
+      "40600832",
+      "34603913",
+      "35424733",
+      "37124991",
+      "39579460",
+      "27613682",
+      "34587366",
+      "36514261",
+      "26804057",
+      "41804212",
+      "38867087",
+      "39504305",
+      "30430764",
+      "39326604",
+      "31740581",
+      "40381109",
+      "41418965",
+      "42374346",
+      "39255945",
+      "35011351",
+      "41405350",
+      "35007143",
+      "42250302",
+      "39927766",
+      "31260692",
+      "36602332",
+      "37569396",
+      "19154134",
+      "27909291",
+      "40701482",
+      "34716322",
+      "17625021",
+      "31601227",
+      "22889862",
+      "36274424",
+      "27915377",
+      "36967526",
+      "40540914",
+      "12369817",
+      "38857840",
+      "29666242",
+      "33361127",
+      "37414389",
+      "26556053",
+      "33561457",
+      "40810526",
+      "41070525",
+      "27933801",
+      "29741858",
+      "39629164"
+    ],
+    "review": [
+      "42264159",
+      "39319709",
+      "41997329"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1047-8477(26)00058-4",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-325",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

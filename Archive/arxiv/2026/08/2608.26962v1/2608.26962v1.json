@@ -1,0 +1,34 @@
+{
+  "source": "arxiv",
+  "source_id": "2608.26962v1",
+  "title": "Packora: Systematic Design for Generative Molecular Crystal Structure Prediction",
+  "doi": "",
+  "abstract": "Molecular crystal structure prediction (CSP) is important in pharmaceuticals, agrochemicals, and organic electronics, where subtle differences in molecular conformation and packing can strongly affect material properties. We present Packora, a flow-based generative model for molecular CSP that jointly predicts atomic coordinates and the lattice from molecular graphs. Packora supports multi-component and organometallic crystals and can condition on any subset of molecular conformers, stereochemical labels, and space-group information within a single model. Inspired by the CCDC CSP blind test, we evaluate generation and ranking separately, using generation to isolate generator quality and ranking to measure end-to-end performance under a common relaxation and ranking pipeline. We also systematically study architecture, training, conditioning, inference, and scaling, identifying an effective design based on cacheable pairwise reasoning, training objective and numerical solver choices, conditioning dropout, and balanced scaling of pairwise and single representations. Packora outperforms the baselines on both structure generation and ranking benchmarks, achieving the best matched-budget coverage across all six generation benchmarks, as well as higher experimental-form recovery, lower experimental-form ranks, and faster convergence in ranking.",
+  "authors": [
+    "Nayoung Kim",
+    "Kiyoung Seong",
+    "Sungsoo Ahn"
+  ],
+  "published_date": "2026-08-27T11:01:18Z",
+  "updated_date": "2026-08-27T11:01:18Z",
+  "journal": "",
+  "category": "cs.LG, cond-mat.mtrl-sci",
+  "landing_url": "https://arxiv.org/abs/2608.26962v1",
+  "pdf_url": "https://arxiv.org/pdf/2608.26962v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cs.LG",
+    "cond-mat.mtrl-sci"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2608.26962v1",
+    "raw_categories": [
+      "cs.LG",
+      "cond-mat.mtrl-sci"
+    ],
+    "journal_ref": ""
+  }
+}

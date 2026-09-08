@@ -1,0 +1,273 @@
+{
+  "identity": {
+    "pmid": "42647630",
+    "doi": "10.1126/sciadv.aee8657",
+    "title": "The molecular basis of mitochondrial crista formation by the MIC10 complex."
+  },
+  "content": {
+    "abstract": "Mitochondrial cristae are essential for respiration, yet the molecular basis of how the high curvature of these membrane folds is maintained remains unclear. Using structure prediction tools and multiscale simulations, we examined the role of the MIC10 subcomplex of the mitochondrial contact site and cristae organizing system (MICOS). We found that the MIC10 proteins Mic10, Mic26, and Mic27 strongly recruit cardiolipin at conserved positive loop motifs, driving oligomerization of these subunits and resulting in the stabilization of curvature in model membranes. Reconstruction of the full MIC10 complex in a realistic crista junction setup shows its capability to maintain membrane bending, while intrinsically disordered regions may form a permeability barrier between cristae and the intermembrane space. These findings provide a mechanistic model for cristae curvature formation and suggest how MICOS components cooperate with cardiolipins to maintain mitochondrial architecture.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Mitochondrial Membranes/metabolism/chemistry",
+      "*Mitochondrial Proteins/metabolism/chemistry",
+      "*Mitochondria/metabolism",
+      "Cardiolipins/metabolism/chemistry",
+      "*Saccharomyces cerevisiae Proteins/metabolism/chemistry",
+      "Models, Molecular"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Brown, Chelsea M",
+        "Wassenaar, Tsjerk A",
+        "Freyberg, Zachary",
+        "Marrink, Siewert J"
+      ],
+      "short_names": [
+        "Brown CM",
+        "Wassenaar TA",
+        "Freyberg Z",
+        "Marrink SJ"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-2006-5015",
+        "ORCID: 0000-0002-6345-0266",
+        "ORCID: 0000-0001-6460-0118",
+        "ORCID: 0000-0001-8423-5277"
+      ],
+      "affiliations": [
+        "Groningen Biomolecular Sciences and Biotechnology Institute, University of Groningen, Groningen, Netherlands.",
+        "Groningen Biomolecular Sciences and Biotechnology Institute, University of Groningen, Groningen, Netherlands.",
+        "Knowledge Center Biobased Economy, Hanze University for Applied Sciences, Groningen, Netherlands.",
+        "Department of Psychiatry, University of Pittsburgh, Pittsburgh, PA, USA.",
+        "Department of Cell Biology, University of Pittsburgh, Pittsburgh, PA, USA.",
+        "Groningen Biomolecular Sciences and Biotechnology Institute, University of Groningen, Groningen, Netherlands."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Brown, Chelsea M",
+        "short_name": "Brown CM",
+        "identifiers": [
+          "0000-0003-2006-5015"
+        ],
+        "affiliations": [
+          "Groningen Biomolecular Sciences and Biotechnology Institute, University of Groningen, Groningen, Netherlands."
+        ]
+      },
+      {
+        "full_name": "Wassenaar, Tsjerk A",
+        "short_name": "Wassenaar TA",
+        "identifiers": [
+          "0000-0002-6345-0266"
+        ],
+        "affiliations": [
+          "Groningen Biomolecular Sciences and Biotechnology Institute, University of Groningen, Groningen, Netherlands.",
+          "Knowledge Center Biobased Economy, Hanze University for Applied Sciences, Groningen, Netherlands."
+        ]
+      },
+      {
+        "full_name": "Freyberg, Zachary",
+        "short_name": "Freyberg Z",
+        "identifiers": [
+          "0000-0001-6460-0118"
+        ],
+        "affiliations": [
+          "Department of Psychiatry, University of Pittsburgh, Pittsburgh, PA, USA.",
+          "Department of Cell Biology, University of Pittsburgh, Pittsburgh, PA, USA."
+        ]
+      },
+      {
+        "full_name": "Marrink, Siewert J",
+        "short_name": "Marrink SJ",
+        "identifiers": [
+          "0000-0001-8423-5277"
+        ],
+        "affiliations": [
+          "Groningen Biomolecular Sciences and Biotechnology Institute, University of Groningen, Groningen, Netherlands."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Science advances"
+    ],
+    "journal_abbrev": [
+      "Sci Adv"
+    ],
+    "pub_date": "2026 Aug 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/08/26 17:36",
+    "fetched_at": "2026-09-08 12:11:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42647630",
+      "29733859",
+      "26968360",
+      "25955210",
+      "25918844",
+      "25764979",
+      "25955201",
+      "28315355",
+      "35081352",
+      "28845423",
+      "28561061",
+      "25955211",
+      "27062547",
+      "33053165",
+      "30718713",
+      "34271005",
+      "31103774",
+      "25997101",
+      "27479602",
+      "35616269",
+      "32567732",
+      "27614134",
+      "28254827",
+      "24714493",
+      "39720525",
+      "32019800",
+      "34847778",
+      "39623166",
+      "32788360",
+      "26416881",
+      "42657491",
+      "26477565",
+      "32788226",
+      "28526561",
+      "31541487",
+      "24687277",
+      "40265338",
+      "22575891",
+      "34133204",
+      "35978408",
+      "28336315",
+      "38692277",
+      "27241913",
+      "38253420",
+      "32978040",
+      "42178653",
+      "35563132",
+      "22496419",
+      "27849155",
+      "21944719",
+      "31825482",
+      "26217777",
+      "29618761",
+      "41420863",
+      "38467404",
+      "31644573",
+      "30415698",
+      "22009199",
+      "24391192",
+      "40545685",
+      "39882711",
+      "37279200",
+      "40596661",
+      "23109542",
+      "25781180",
+      "19752025",
+      "41004003",
+      "40369159",
+      "25514890",
+      "31097788",
+      "33321986",
+      "32439808",
+      "23704930",
+      "41789725",
+      "34517185",
+      "37098122",
+      "35406738",
+      "19944477",
+      "40094392",
+      "23042293",
+      "42539326",
+      "27245231",
+      "33837538",
+      "38369708",
+      "29366674",
+      "41208531",
+      "36130504",
+      "19528297",
+      "21081504",
+      "31028145",
+      "36793196",
+      "28808085",
+      "28845421",
+      "39343721",
+      "26004762",
+      "32843686",
+      "37395570",
+      "32428499",
+      "32061164",
+      "32977469"
+    ],
+    "review": [
+      "42647630",
+      "27062547",
+      "27614134",
+      "34847778",
+      "42657491",
+      "28526561",
+      "40265338",
+      "28336315",
+      "32978040",
+      "42178653",
+      "31825482",
+      "24391192",
+      "23109542",
+      "41004003",
+      "40369159",
+      "25514890",
+      "41789725",
+      "19944477",
+      "27245231",
+      "33837538",
+      "38369708",
+      "36793196",
+      "39343721",
+      "32428499"
+    ],
+    "pmc": [
+      "13510689"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.science.org/doi/10.1126/sciadv.aee8657?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42647630/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3478",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

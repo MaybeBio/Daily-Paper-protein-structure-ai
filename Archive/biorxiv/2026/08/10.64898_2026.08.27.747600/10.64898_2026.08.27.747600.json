@@ -1,0 +1,185 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.08.27.747600",
+  "title": "The first OpenBind release: An open experimental structure–affinity dataset and benchmark for structure-based AI",
+  "doi": "10.64898/2026.08.27.747600",
+  "abstract": "High-quality experimental datasets that link protein–ligand structures with binding affinity data are essential for developing and evaluating structure-based machine learning methods. To help address this need, we established OpenBind as an open-science initiative to generate large-scale experimental datasets for structure-based AI and molecular discovery. Here, we describe the first public OpenBind release, which, to the best of our knowledge, is the largest public single-target experimental structure–affinity dataset. The dataset focuses on enteroviral 2A protease, comprising 925 crystallographic binding events from 699 compounds and associated affinity measurements for 601 compounds. It combines structures from an initial fragment screen and follow-on molecules, together with affinity data, linking experimentally determined protein–ligand binding modes to biophysical measurements within a coherent antiviral discovery campaign. We used this dataset to evaluate protein–ligand structure prediction, binding-affinity prediction, and virtual screening using representative structure-based methods, including docking and cofolding. This exposed several challenges that are central to practical structure-based modelling: docking performance depends strongly on binding-pocket conformation, poses are difficult to rank, and structure-based affinity prediction remains challenging. Fine-tuning OpenFold3-p2 on the fragment-screen structures substantially improved pose prediction and virtual screening for related follow-on compounds, demonstrating how early-stage experimental structures can support target-specific model adaptation.",
+  "authors": [
+    "Nelen J",
+    "Khan O",
+    "Adams E",
+    "Aschenbrenner JC",
+    "Thompson W",
+    "Ebrahim A",
+    "Çapkin E",
+    "Vallée C",
+    "Shotton EJ",
+    "Griffen EJ",
+    "Chodera JD",
+    "Deane CM",
+    "von Delft F",
+    "AlQuraishi M",
+    "Imrie F"
+  ],
+  "published_date": "2026-08-28",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.08.27.747600",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.08.27.747600.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1308102",
+    "raw_record": {
+      "id": "PPR1308102",
+      "source": "PPR",
+      "doi": "10.64898/2026.08.27.747600",
+      "title": "The first OpenBind release: An open experimental structure–affinity dataset and benchmark for structure-based AI",
+      "authorString": "Nelen J, Khan O, Adams E, Aschenbrenner JC, Thompson W, Ebrahim A, Çapkin E, Vallée C, OpenBind, Shotton EJ, Griffen EJ, Chodera JD, Deane CM, von Delft F, AlQuraishi M, Imrie F.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Nelen J",
+            "firstName": "Jochem",
+            "lastName": "Nelen",
+            "initials": "J"
+          },
+          {
+            "fullName": "Khan O",
+            "firstName": "Omeir",
+            "lastName": "Khan",
+            "initials": "O"
+          },
+          {
+            "fullName": "Adams E",
+            "firstName": "Etowah",
+            "lastName": "Adams",
+            "initials": "E"
+          },
+          {
+            "fullName": "Aschenbrenner JC",
+            "firstName": "Jasmin",
+            "lastName": "Aschenbrenner",
+            "initials": "JC"
+          },
+          {
+            "fullName": "Thompson W",
+            "firstName": "Warren",
+            "lastName": "Thompson",
+            "initials": "W"
+          },
+          {
+            "fullName": "Ebrahim A",
+            "firstName": "Ali",
+            "lastName": "Ebrahim",
+            "initials": "A"
+          },
+          {
+            "fullName": "Çapkin E",
+            "firstName": "Eda",
+            "lastName": "Çapkin",
+            "initials": "E"
+          },
+          {
+            "fullName": "Vallée C",
+            "firstName": "Cédric",
+            "lastName": "Vallée",
+            "initials": "C"
+          },
+          {
+            "collectiveName": "OpenBind"
+          },
+          {
+            "fullName": "Shotton EJ",
+            "firstName": "Elizabeth",
+            "lastName": "Shotton",
+            "initials": "EJ"
+          },
+          {
+            "fullName": "Griffen EJ",
+            "firstName": "Ed",
+            "lastName": "Griffen",
+            "initials": "EJ"
+          },
+          {
+            "fullName": "Chodera JD",
+            "firstName": "John",
+            "lastName": "Chodera",
+            "initials": "JD"
+          },
+          {
+            "fullName": "Deane CM",
+            "firstName": "Charlotte",
+            "lastName": "Deane",
+            "initials": "CM"
+          },
+          {
+            "fullName": "von Delft F",
+            "firstName": "Frank",
+            "lastName": "von Delft",
+            "initials": "F"
+          },
+          {
+            "fullName": "AlQuraishi M",
+            "firstName": "Mohammed",
+            "lastName": "AlQuraishi",
+            "initials": "M"
+          },
+          {
+            "fullName": "Imrie F",
+            "firstName": "Fergus",
+            "lastName": "Imrie",
+            "initials": "F"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "High-quality experimental datasets that link protein–ligand structures with binding affinity data are essential for developing and evaluating structure-based machine learning methods. To help address this need, we established OpenBind as an open-science initiative to generate large-scale experimental datasets for structure-based AI and molecular discovery. Here, we describe the first public OpenBind release, which, to the best of our knowledge, is the largest public single-target experimental structure–affinity dataset. The dataset focuses on enteroviral 2A protease, comprising 925 crystallographic binding events from 699 compounds and associated affinity measurements for 601 compounds. It combines structures from an initial fragment screen and follow-on molecules, together with affinity data, linking experimentally determined protein–ligand binding modes to biophysical measurements within a coherent antiviral discovery campaign. We used this dataset to evaluate protein–ligand structure prediction, binding-affinity prediction, and virtual screening using representative structure-based methods, including docking and cofolding. This exposed several challenges that are central to practical structure-based modelling: docking performance depends strongly on binding-pocket conformation, poses are difficult to rank, and structure-based affinity prediction remains challenging. Fine-tuning OpenFold3-p2 on the fragment-screen structures substantially improved pose prediction and virtual screening for related follow-on compounds, demonstrating how early-stage experimental structures can support target-specific model adaptation.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.08.27.747600"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-08-30",
+      "firstIndexDate": "2026-08-30",
+      "firstPublicationDate": "2026-08-28"
+    }
+  }
+}

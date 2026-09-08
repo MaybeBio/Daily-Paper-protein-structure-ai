@@ -1,0 +1,234 @@
+{
+  "identity": {
+    "pmid": "42480880",
+    "doi": "10.1016/j.jsb.2026.108351",
+    "title": "Biotin protein ligase C-terminal domain arginines are critical for ATP interaction & biotinyl-5'-AMP formation."
+  },
+  "content": {
+    "abstract": "Electrostatic interactions between arginines and phosphates are central to numerous biological processes. Here, using an integrated approach combining mutagenesis, activity measurements, molecular dynamics (MD) simulations, and NMR, we demonstrate that arginines present in the C-terminal domain of Biotin protein ligase (BPL) are critical for biotinyl-5'-AMP formation. Using NMR-based assays and a group I BPL from Leishmania major (LmBPL), we selectively monitored the first biotinylation step, i.e., formation of biotinyl-5'-AMP from biotin and ATP. The distinct chemical shifts of ATP and AMP enabled us to quantitatively measure the amount of biotinyl-5'-AMP formed by the wild-type enzyme and a C-terminal domain deletion mutant. The mutant displayed remarkably low biotinyl-5'AMP formation compared to the wild-type enzyme. MD simulations of the apo- and ATP-bound forms of LmBPL further identified key interactions between the C-terminal domain arginines (R224, R229) and the gamma-phosphate of ATP. The in silico predictions were validated by biochemical studies using R224A, R229A, and R224A/R229A mutants, which displayed remarkably lower biotinyl-5'-AMP formation compared to the wild-type enzyme. Using pyrophosphate as a gamma-phosphate mimic, and (31)P NMR as a probe, we demonstrate pyrophosphate binding to the wild-type LmBPL but not to the arginine mutants. Consistent with this, biotinyl-5'-AMP formation was completely inhibited by preincubation with pyrophosphate. Taken together, our findings establish a critical role for the C-terminal domain arginines in recognizing ATP phosphates during biotinylation. Extrapolating these findings to other group I and bifunctional group II BPLs, our study reveals a broadly conserved role for the C-terminal domain arginines in regulating biotinylation across the BPL family.",
+    "keywords": [
+      "ATP",
+      "BPL",
+      "Biotin protein ligase",
+      "Biotinylation",
+      "NMR",
+      "Pyrophosphate"
+    ],
+    "mesh_terms": [
+      "*Adenosine Triphosphate/metabolism/chemistry",
+      "*Arginine/chemistry/metabolism",
+      "*Biotin/metabolism/chemistry/analogs & derivatives",
+      "Molecular Dynamics Simulation",
+      "*Adenosine Monophosphate/metabolism/chemistry/analogs & derivatives",
+      "*Carbon-Nitrogen Ligases/chemistry/metabolism/genetics",
+      "Protein Domains",
+      "Leishmania major/enzymology",
+      "Biotinylation",
+      "*Ligases/chemistry/metabolism",
+      "Protein Binding",
+      "Magnetic Resonance Spectroscopy"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Bhatnagar, Sonika",
+        "Sadhukhan, Debodyuti",
+        "Rajak, Manoj Kumar",
+        "Sundd, Monica"
+      ],
+      "short_names": [
+        "Bhatnagar S",
+        "Sadhukhan D",
+        "Rajak MK",
+        "Sundd M"
+      ],
+      "auids": [],
+      "affiliations": [
+        "BRIC-National Institute of Immunology, Aruna Asaf Ali Marg, New Delhi 110 067, India.",
+        "BRIC-National Institute of Immunology, Aruna Asaf Ali Marg, New Delhi 110 067, India.",
+        "BRIC-National Institute of Immunology, Aruna Asaf Ali Marg, New Delhi 110 067, India.",
+        "BRIC-National Institute of Immunology, Aruna Asaf Ali Marg, New Delhi 110 067, India. Electronic address: monicasundd@nii.ac.in."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Bhatnagar, Sonika",
+        "short_name": "Bhatnagar S",
+        "identifiers": [],
+        "affiliations": [
+          "BRIC-National Institute of Immunology, Aruna Asaf Ali Marg, New Delhi 110 067, India."
+        ]
+      },
+      {
+        "full_name": "Sadhukhan, Debodyuti",
+        "short_name": "Sadhukhan D",
+        "identifiers": [],
+        "affiliations": [
+          "BRIC-National Institute of Immunology, Aruna Asaf Ali Marg, New Delhi 110 067, India."
+        ]
+      },
+      {
+        "full_name": "Rajak, Manoj Kumar",
+        "short_name": "Rajak MK",
+        "identifiers": [],
+        "affiliations": [
+          "BRIC-National Institute of Immunology, Aruna Asaf Ali Marg, New Delhi 110 067, India."
+        ]
+      },
+      {
+        "full_name": "Sundd, Monica",
+        "short_name": "Sundd M",
+        "identifiers": [],
+        "affiliations": [
+          "BRIC-National Institute of Immunology, Aruna Asaf Ali Marg, New Delhi 110 067, India. Electronic address: monicasundd@nii.ac.in."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of structural biology"
+    ],
+    "journal_abbrev": [
+      "J Struct Biol"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/07/22 12:37",
+    "fetched_at": "2026-09-08 12:12:00"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42480880",
+      "39213703",
+      "11714929",
+      "18372281",
+      "33825711",
+      "19385043",
+      "16169557",
+      "24723382",
+      "10981714",
+      "11042165",
+      "24816803",
+      "24236729",
+      "37997490",
+      "28466579",
+      "12631286",
+      "39313636",
+      "39461694",
+      "8639659",
+      "10975574",
+      "34028100",
+      "23559560",
+      "21390227",
+      "10497026",
+      "15992681",
+      "20026029",
+      "18704941",
+      "40961919",
+      "27445042",
+      "24189073",
+      "30419333",
+      "39704719",
+      "11468288",
+      "9880519",
+      "9750231",
+      "15033356",
+      "24261685",
+      "19160459",
+      "28718281",
+      "20085763",
+      "22123817",
+      "30718283",
+      "15272000",
+      "27463729",
+      "19157941",
+      "8003500",
+      "41392593",
+      "11124959",
+      "10329614",
+      "18271571",
+      "11346647",
+      "18509457",
+      "20169168",
+      "16616010",
+      "9445386",
+      "1409631",
+      "10551847",
+      "17765263",
+      "10079084",
+      "9490786",
+      "10213607",
+      "28268045",
+      "16141198",
+      "25887396",
+      "1569068",
+      "25746672",
+      "10064313",
+      "23387333",
+      "20622127",
+      "15459338",
+      "11124029",
+      "29995988",
+      "17401210",
+      "10821865",
+      "10529178",
+      "16460017",
+      "9758715",
+      "26020841",
+      "19269583",
+      "19740736",
+      "40942112",
+      "25193234",
+      "18620421",
+      "8527435",
+      "41560473",
+      "26678378",
+      "11371547",
+      "27161258",
+      "32717225",
+      "22210766",
+      "10048324",
+      "23399564",
+      "10211839",
+      "8611542",
+      "21120858",
+      "21957995",
+      "15521058",
+      "16438984",
+      "16510991",
+      "19914215",
+      "12034706"
+    ],
+    "review": [
+      "42480880",
+      "24236729",
+      "37997490",
+      "27463729",
+      "28268045"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1047-8477(26)00067-5",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

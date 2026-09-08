@@ -1,0 +1,323 @@
+{
+  "identity": {
+    "pmid": "42419522",
+    "doi": "10.1016/j.micpath.2026.108692",
+    "title": "The beta4-beta5 loop and C-SH2 domain mediate the unique ability of SHP1 to dephosphorylate CagA and counteract Helicobacter pylori-induced pathogenesis."
+  },
+  "content": {
+    "abstract": "The Helicobacter pylori (H. pylori) virulence factor CagA undergoes tyrosine phosphorylation upon entry into host cells, enabling it to engage with multiple SH2 domain-containing proteins and disrupt host signaling pathways to promote carcinogenesis. Among these interacting partners, the tyrosine phosphatase SHP1 plays a unique role as a negative regulator by directly dephosphorylating the phosphorylated EPIYA (EPIpYA) motif of CagA, thereby counteracting its oncogenic effects. However, the molecular basis underlying SHP1's ability to specifically recognize and efficiently dephosphorylate CagA remains poorly understood. In this study, we demonstrated that the beta4-beta5 loop within the PTP domain of SHP1 is important for its enhanced catalytic efficiency toward the EPIpYA-peptide, as revealed by enzyme kinetics assays and molecular dynamics simulations. Substitution of this loop with the corresponding sequence from SHP1's homologue SHP2 markedly impaired SHP1's ability to dephosphorylate CagA and suppressed its tumor-suppressive function. Furthermore, we showed that the C-SH2 domain of SHP1 contributes to its efficient activation by phosphorylated CagA, and replacement of this domain compromised SHP1's ability to suppress H. pylori-induced malignant phenotypes. Together, these findings identify the beta4-beta5 loop as a key structural feature that enables SHP1 to efficiently dephosphorylate CagA, and the C-SH2 domain as a critical regulator that enhances SHP1 activation, both of which collectively contribute to counteracting H. pylori-induced carcinogenesis. This study provides a structural basis for understanding the unique tumor-suppressive mechanism of SHP1 and offers potential targets for developing SHP1-specific agonists against H. pylori-associated gastric cancer.",
+    "keywords": [
+      "C-SH2 domain",
+      "CagA",
+      "Dephosphorylation",
+      "Gastric cancer",
+      "Helicobacter pylori",
+      "SHP1",
+      "beta4-beta5 loop"
+    ],
+    "mesh_terms": [
+      "*Antigens, Bacterial/metabolism/genetics",
+      "*Protein Tyrosine Phosphatase, Non-Receptor Type 6/metabolism/genetics/chemistry",
+      "*Helicobacter pylori/pathogenicity/metabolism",
+      "*Bacterial Proteins/metabolism/genetics",
+      "Phosphorylation",
+      "Humans",
+      "*src Homology Domains",
+      "*Helicobacter Infections/microbiology",
+      "Molecular Dynamics Simulation",
+      "Host-Pathogen Interactions",
+      "Protein Tyrosine Phosphatase, Non-Receptor Type 11/metabolism",
+      "Animals",
+      "Signal Transduction"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Juan",
+        "Feng, Mingzhu",
+        "Wang, Jiayi",
+        "Chen, Shu",
+        "Zhang, Yinuo",
+        "Hu, Qi",
+        "Du, Yue",
+        "Li, Boqing",
+        "Ji, Xiaofei",
+        "Xin, Lei"
+      ],
+      "short_names": [
+        "Zhang J",
+        "Feng M",
+        "Wang J",
+        "Chen S",
+        "Zhang Y",
+        "Hu Q",
+        "Du Y",
+        "Li B",
+        "Ji X",
+        "Xin L"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Basic Medical Sciences, Shandong Medical and Pharmaceutical University, Yantai, Shandong Province, China.",
+        "School of Basic Medical Sciences, Shandong Medical and Pharmaceutical University, Yantai, Shandong Province, China.",
+        "The Second School of Clinical Medicine, Shandong Medical and Pharmaceutical University, Yantai, Shandong Province, China.",
+        "School of Basic Medical Sciences, Shandong Medical and Pharmaceutical University, Yantai, Shandong Province, China.",
+        "The Second School of Clinical Medicine, Shandong Medical and Pharmaceutical University, Yantai, Shandong Province, China.",
+        "School of Basic Medical Sciences, Shandong Medical and Pharmaceutical University, Yantai, Shandong Province, China.",
+        "School of Basic Medical Sciences, Shandong Medical and Pharmaceutical University, Yantai, Shandong Province, China.",
+        "School of Basic Medical Sciences, Shandong Medical and Pharmaceutical University, Yantai, Shandong Province, China.",
+        "School of Basic Medical Sciences, Shandong Medical and Pharmaceutical University, Yantai, Shandong Province, China. Electronic address: jixiaofei@sdmpu.edu.cn.",
+        "Yantaishan Hospital, Shandong Medical and Pharmaceutical University, Yantai, Shandong Province, China. Electronic address: Ytxiaoxin@163.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Juan",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Shandong Medical and Pharmaceutical University, Yantai, Shandong Province, China."
+        ]
+      },
+      {
+        "full_name": "Feng, Mingzhu",
+        "short_name": "Feng M",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Shandong Medical and Pharmaceutical University, Yantai, Shandong Province, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Jiayi",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "The Second School of Clinical Medicine, Shandong Medical and Pharmaceutical University, Yantai, Shandong Province, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Shu",
+        "short_name": "Chen S",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Shandong Medical and Pharmaceutical University, Yantai, Shandong Province, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yinuo",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "The Second School of Clinical Medicine, Shandong Medical and Pharmaceutical University, Yantai, Shandong Province, China."
+        ]
+      },
+      {
+        "full_name": "Hu, Qi",
+        "short_name": "Hu Q",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Shandong Medical and Pharmaceutical University, Yantai, Shandong Province, China."
+        ]
+      },
+      {
+        "full_name": "Du, Yue",
+        "short_name": "Du Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Shandong Medical and Pharmaceutical University, Yantai, Shandong Province, China."
+        ]
+      },
+      {
+        "full_name": "Li, Boqing",
+        "short_name": "Li B",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Shandong Medical and Pharmaceutical University, Yantai, Shandong Province, China."
+        ]
+      },
+      {
+        "full_name": "Ji, Xiaofei",
+        "short_name": "Ji X",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Shandong Medical and Pharmaceutical University, Yantai, Shandong Province, China. Electronic address: jixiaofei@sdmpu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Xin, Lei",
+        "short_name": "Xin L",
+        "identifiers": [],
+        "affiliations": [
+          "Yantaishan Hospital, Shandong Medical and Pharmaceutical University, Yantai, Shandong Province, China. Electronic address: Ytxiaoxin@163.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Microbial pathogenesis"
+    ],
+    "journal_abbrev": [
+      "Microb Pathog"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/07/09 00:40",
+    "fetched_at": "2026-09-08 12:12:00"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42419522",
+      "27572445",
+      "32198795",
+      "27590005",
+      "28930683",
+      "40818175",
+      "24800748",
+      "22378042",
+      "12391297",
+      "31016622",
+      "15831497",
+      "30374120",
+      "38982595",
+      "25225672",
+      "33562680",
+      "12446738",
+      "26507409",
+      "22202178",
+      "12554652",
+      "12925139",
+      "11743164",
+      "12603611",
+      "24354359",
+      "33989515",
+      "16954210",
+      "40724968",
+      "15343275",
+      "17118755",
+      "27935824",
+      "12528933",
+      "33568397",
+      "14963045",
+      "38468575",
+      "29741846",
+      "28508421",
+      "26907789",
+      "20348091",
+      "31657090",
+      "17475625",
+      "19798427",
+      "25646814",
+      "27382024",
+      "26160167",
+      "15682486",
+      "23235784",
+      "11936078",
+      "16618412",
+      "16557568",
+      "25743471",
+      "21762266",
+      "22085823",
+      "19271114",
+      "36232599",
+      "21813645",
+      "12552462",
+      "28406453",
+      "16354697",
+      "16275761",
+      "26796299",
+      "35359025",
+      "35231822",
+      "23464450",
+      "30466467",
+      "28124152",
+      "21435255",
+      "34197673",
+      "12650772",
+      "17160020",
+      "28413197",
+      "40047510",
+      "19016760",
+      "21873224",
+      "11681214",
+      "30176157",
+      "21247656",
+      "34205064",
+      "42462522",
+      "17438024",
+      "17507984",
+      "27265143",
+      "28338646",
+      "31804619",
+      "30823936",
+      "28887533",
+      "39960839",
+      "23051580",
+      "12752736",
+      "11683921",
+      "40230273",
+      "29864542",
+      "32363035",
+      "27531909",
+      "22312430",
+      "17408661",
+      "16933004",
+      "25223715",
+      "17151214",
+      "20676134",
+      "28811347",
+      "11788577"
+    ],
+    "review": [
+      "42419522",
+      "31016622",
+      "15343275",
+      "17118755",
+      "29741846",
+      "28508421",
+      "26160167",
+      "16557568",
+      "19271114",
+      "28406453",
+      "26796299",
+      "35359025",
+      "28124152",
+      "12650772",
+      "28413197",
+      "21247656",
+      "42462522",
+      "28338646",
+      "31804619"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0882-4010(26)00418-3",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/helicobacterpyloriinfections.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Helicobacter pylori Infections"
+      }
+    ],
+    "text_mined": []
+  }
+}

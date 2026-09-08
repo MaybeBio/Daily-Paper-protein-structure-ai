@@ -1,0 +1,34 @@
+{
+  "source": "arxiv",
+  "source_id": "2608.26419v1",
+  "title": "Interpreting Latent Protein Language Model Features with Geometric Annotations",
+  "doi": "",
+  "abstract": "Protein language models (pLMs) encode information about protein sequences which enable downstream tasks such as structure prediction, but their internal representations are not well understood. Sparse autoencoders (SAEs) provide a promising tool to disentangle latent pLM representations into interpretable features, but existing annotation pipelines largely rely on protein-level annotations derived from database labels and LLM annotations of top activating sequences. Such annotations can overlook the localized residue-level and geometric patterns encoded by sparse features. We introduce an automated and scalable method for interpreting SAE features in ESM-2 by using geometrically inspired features of the protein $\\text{C}_α$ backbone. Across ESM-2 8M layers, an FDR-controlled discovery analysis shows that local geometry is significantly associated with many SAE features, with varying levels of predictive strength, expanding coverage beyond database and sequence-based methods. In particular, geometry can distinguish SAE features sharing the same database annotation, revealing substructure within known biological labels. A significant portion of SAE features activate on unannotated metagenomic protein sequences enabling us to use our SAE annotations to better understand these sequences. In addition, ablation experiments at the level of contact prediction show that removing found geometric features shifts ESM-2's predicted contact maps in the direction of the descriptor. This provides a robust method of annotating proteins activated within SAE neurons at a residue level, providing a bridge between mechanistic interpretability and structural biology.",
+  "authors": [
+    "Siddharth Setlur",
+    "Djordje Mihajlovic",
+    "Darrick Lee"
+  ],
+  "published_date": "2026-08-26T21:39:50Z",
+  "updated_date": "2026-08-26T21:39:50Z",
+  "journal": "",
+  "category": "q-bio.QM, cs.LG",
+  "landing_url": "https://arxiv.org/abs/2608.26419v1",
+  "pdf_url": "https://arxiv.org/pdf/2608.26419v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "q-bio.QM",
+    "cs.LG"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2608.26419v1",
+    "raw_categories": [
+      "q-bio.QM",
+      "cs.LG"
+    ],
+    "journal_ref": ""
+  }
+}

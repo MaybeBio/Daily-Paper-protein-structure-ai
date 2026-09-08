@@ -1,0 +1,392 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.06.749733",
+  "title": "Inverse FoldDir: Structure-conditioned Protein Sequence Design by Dirichlet Flow Matching",
+  "doi": "10.64898/2026.09.06.749733",
+  "abstract": "Protein engineering has important implications in the bioeconomy, enabling applications in materials, medicine, and energy. A key challenge is designing protein sequences that have a specific form and function. Protein inverse folding seeks to address this challenge by identifying amino acid sequences compatible with a desired protein backbone. This task is central to protein redesign and can provide a sequence design capability for de novo backbones produced by structure-generation methods. Ideally, inverse folding can provide diverse sequence alternatives, fixed residues or motifs, soft biochemical preferences at selected positions, and candidates that remain experimentally useful. We developed Inverse FoldDir, a controllable inverse-folding method that performs iterative denoising on the amino acid probability simplex. Given a backbone structure, the model updates all positions jointly through a learned Dirichlet flow, supporting full sequence generation, fixed-residue inpainting, and user-defined soft residue priors. On the held-out CATH 4.2 test set, Inverse FoldDir achieved a mean TM-score of 84.5 (on a 0-100 scale) and a mean C α RMSD of 1.76Å, compared with 83.3 and 1.86Å, respectively, for ESM-IF1, the strongest evaluated baseline on both metrics. Denoising trajectory analyses showed that positions commit at different rates and that some residues change identity late in generation, illustrating whole-sequence refinement rather than one-shot prediction or irreversible sequential decoding. We experimentally tested Inverse FoldDir in an anti-GFP nanobody redesign task, where two of 35 redesigned sequences retained reproducible sfGFP-binding signal across independent assay runs with approximately 43% sequence divergence from the native nanobody. Inverse FoldDir is a structure-conditioned protein redesign method that combines structural recovery, user control, experimental validation, and a natural route toward future property-guided sampling.",
+  "authors": [
+    "Alp TARTICI",
+    "Mihajlo Stojkovic",
+    "Anru Tian",
+    "Michael C Jewett",
+    "Russ B Altman",
+    "Bruce J Wittmann"
+  ],
+  "published_date": "2026-09-07",
+  "updated_date": "2026-09-08T06:00:19Z",
+  "journal": "bioRxiv",
+  "category": "Bioinformatics",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.06.749733",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.06.749733.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [
+    "Bioinformatics"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Bioinformatics",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            8
+          ]
+        ],
+        "date-time": "2026-09-08T06:08:55Z",
+        "timestamp": 1788847735502,
+        "version": "build-2803163510"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            7
+          ]
+        ]
+      },
+      "group-title": "Bioinformatics",
+      "reference-count": 0,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                7
+              ]
+            ],
+            "date-time": "2026-09-07T00:00:00Z",
+            "timestamp": 1788739200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "award": [
+            "W911NF-22-2-0246"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "W911NF-22-2-0246"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/05epdh915",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "name": "U.S. National Science Foundation",
+          "award": [
+            "TIP-2448820"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "TIP-2448820"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "U.S. National Science Foundation",
+          "award": [
+            "DGE-2146755"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "DGE-2146755"
+              ]
+            }
+          ]
+        },
+        {
+          "award": [
+            "GM153195"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "GM153195"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/01cwqze88",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "award": [
+            "GM102365"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "GM102365"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/01cwqze88",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "award": [
+            "AG089509"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "AG089509"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/01cwqze88",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "name": "Burroughs Wellcome Fund",
+          "award": [
+            "1074128"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "1074128"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Stanford Graduate Fellowship (Smith Fellowship)"
+        },
+        {
+          "name": "Stanford Medical Scholars"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            7
+          ]
+        ]
+      },
+      "abstract": "<jats:p>Protein engineering has important implications in the bioeconomy, enabling applications in materials, medicine, and energy. A key challenge is designing protein sequences that have a specific form and function. Protein inverse folding seeks to address this challenge by identifying amino acid sequences compatible with a desired protein backbone. This task is central to protein redesign and can provide a sequence design capability for de novo backbones produced by structure-generation methods. Ideally, inverse folding can provide diverse sequence alternatives, fixed residues or motifs, soft biochemical preferences at selected positions, and candidates that remain experimentally useful. We developed Inverse FoldDir, a controllable inverse-folding method that performs iterative denoising on the amino acid probability simplex. Given a backbone structure, the model updates all positions jointly through a learned Dirichlet flow, supporting full sequence generation, fixed-residue inpainting, and user-defined soft residue priors. On the held-out CATH 4.2 test set, Inverse FoldDir achieved a mean TM-score of 84.5 (on a 0-100 scale) and a mean C α RMSD of 1.76Å, compared with 83.3 and 1.86Å, respectively, for ESM-IF1, the strongest evaluated baseline on both metrics. Denoising trajectory analyses showed that positions commit at different rates and that some residues change identity late in generation, illustrating whole-sequence refinement rather than one-shot prediction or irreversible sequential decoding. We experimentally tested Inverse FoldDir in an anti-GFP nanobody redesign task, where two of 35 redesigned sequences retained reproducible sfGFP-binding signal across independent assay runs with approximately 43% sequence divergence from the native nanobody. Inverse FoldDir is a structure-conditioned protein redesign method that combines structural recovery, user control, experimental validation, and a natural route toward future property-guided sampling.</jats:p>",
+      "DOI": "10.64898/2026.09.06.749733",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            8
+          ]
+        ],
+        "date-time": "2026-09-08T06:00:19Z",
+        "timestamp": 1788847219000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Inverse FoldDir: Structure-conditioned Protein Sequence Design by Dirichlet Flow Matching"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0008-1885-0077",
+          "authenticated-orcid": false,
+          "given": "Alp",
+          "family": "TARTICI",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Stanford University;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Mihajlo",
+          "family": "Stojkovic",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Stanford University;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Anru",
+          "family": "Tian",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Stanford University;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-2948-6211",
+          "authenticated-orcid": false,
+          "given": "Michael C",
+          "family": "Jewett",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Stanford University;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-3859-2905",
+          "authenticated-orcid": false,
+          "given": "Russ B",
+          "family": "Altman",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Stanford University;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8144-9157",
+          "authenticated-orcid": false,
+          "given": "Bruce J",
+          "family": "Wittmann",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Microsoft"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.09.06.749733",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            8
+          ]
+        ],
+        "date-time": "2026-09-08T06:00:19Z",
+        "timestamp": 1788847219000
+      },
+      "score": 86.30259,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.09.06.749733"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            7
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.64898/2026.09.06.749733",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            7
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

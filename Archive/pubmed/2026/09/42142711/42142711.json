@@ -1,0 +1,233 @@
+{
+  "identity": {
+    "pmid": "42142711",
+    "doi": "10.1016/j.molbiopara.2026.111759",
+    "title": "Probing the role of interfacial residues in the activity and structural stability of Adenylosuccinate lyase from Leishmania donovani."
+  },
+  "content": {
+    "abstract": "Leishmania donovani ADSL is a tetrameric protein involved in the purine metabolism where the active site is formed from residues belonging to three different subunits. In this study, the amino acid residues- E334, N335 and R370 of LdADSL were studied for their contribution to the enzyme catalysis and inter-subunit binding. Mutating these residues resulted in reduced activity, stability and affinity towards the substrate, SAMP/AMP as shown by enzyme kinetics, fluorescence spectroscopy and thermal stability studies. MD simulation studies also supported this. Structural analysis points to disrupted interactions with the catalytic base, H196, reduced hydrogen bonds and electrostatic interactions between the substrate and the enzyme, C3-loop conformational changes and altered conformation of active site residues as reasons for reduced activity and stability. Incubation of pairs of the mutant enzymes restored partly the functional active site by subunit complementation. Our study highlighted the critical role of inter-subunit residues in maintaining both structural stability and proper active-site architecture in enzymes whose functional catalytic site is formed at interfaces of different subunits. This knowledge can be used to design more specific anti-leishmanials by targeting the inter-subunit interface of LdADSL.",
+    "keywords": [
+      "Affinity",
+      "C3-loop",
+      "Electrostatic interactions",
+      "Leishmania donovani",
+      "MD simulation",
+      "Subunit complementation"
+    ],
+    "mesh_terms": [
+      "*Leishmania donovani/enzymology/genetics",
+      "Enzyme Stability",
+      "Catalytic Domain",
+      "*Adenylosuccinate Lyase/metabolism/chemistry/genetics",
+      "Kinetics",
+      "Spectrometry, Fluorescence",
+      "Protein Conformation",
+      "Molecular Dynamics Simulation",
+      "Protein Binding",
+      "Models, Molecular",
+      "Protein Subunits/metabolism/chemistry/genetics",
+      "Hydrogen Bonding"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Jigneshkumar A, Mochi",
+        "Jaykumar, Jani",
+        "Anju, Pappachan"
+      ],
+      "short_names": [
+        "Jigneshkumar A M",
+        "Jaykumar J",
+        "Anju P"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Life Sciences, Central University of Gujarat, Vadodara, Gujarat 391107, India; Malaria Biology Group, International Centre for Genetic Engineering and Biotechnology, New Delhi 110067, India.",
+        "School of Life Sciences, Central University of Gujarat, Vadodara, Gujarat 391107, India.",
+        "School of Life Sciences, Central University of Gujarat, Vadodara, Gujarat 391107, India. Electronic address: anju.p@cug.ac.in."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Jigneshkumar A, Mochi",
+        "short_name": "Jigneshkumar A M",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Sciences, Central University of Gujarat, Vadodara, Gujarat 391107, India; Malaria Biology Group, International Centre for Genetic Engineering and Biotechnology, New Delhi 110067, India."
+        ]
+      },
+      {
+        "full_name": "Jaykumar, Jani",
+        "short_name": "Jaykumar J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Sciences, Central University of Gujarat, Vadodara, Gujarat 391107, India."
+        ]
+      },
+      {
+        "full_name": "Anju, Pappachan",
+        "short_name": "Anju P",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Sciences, Central University of Gujarat, Vadodara, Gujarat 391107, India. Electronic address: anju.p@cug.ac.in."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular and biochemical parasitology"
+    ],
+    "journal_abbrev": [
+      "Mol Biochem Parasitol"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/05/17 06:29",
+    "fetched_at": "2026-09-08 12:12:36"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42142711",
+      "38750922",
+      "11841213",
+      "9890879",
+      "28347672",
+      "12876319",
+      "39462612",
+      "24479855",
+      "15182182",
+      "18237141",
+      "20678540",
+      "19405474",
+      "10673438",
+      "26953696",
+      "34256188",
+      "17222179",
+      "40810526",
+      "17531264",
+      "21549684",
+      "15606359",
+      "11063569",
+      "23404497",
+      "32086045",
+      "30573755",
+      "41358587",
+      "19102629",
+      "19191546",
+      "23984386",
+      "1633153",
+      "25660655",
+      "16271040",
+      "9622500",
+      "22785484",
+      "30891955",
+      "39961538",
+      "34268726",
+      "21210713",
+      "22484394",
+      "38582485",
+      "31645439",
+      "19111634",
+      "10393170",
+      "19563920",
+      "12590570",
+      "19218242",
+      "8002955",
+      "36037881",
+      "19724117",
+      "38676997",
+      "37491862",
+      "26562546",
+      "18469177",
+      "11535055",
+      "42339821",
+      "17098934",
+      "25738880",
+      "25070563",
+      "28116998",
+      "28559277",
+      "15060071",
+      "28821615",
+      "19861168",
+      "41110577",
+      "26160737",
+      "42070609",
+      "20654742",
+      "16411898",
+      "27259687",
+      "8179335",
+      "29964060",
+      "26419972",
+      "11021971",
+      "19965870",
+      "19393162",
+      "25659414",
+      "17600142",
+      "32798546",
+      "18175327",
+      "24403092",
+      "19021761",
+      "42247813",
+      "21875687",
+      "33073638",
+      "8810924",
+      "19936305",
+      "28477574",
+      "24448805",
+      "15065850",
+      "30478756",
+      "38179877",
+      "20196771",
+      "19490103",
+      "25377949",
+      "26794803",
+      "16367756",
+      "30077668",
+      "19583769",
+      "17407445",
+      "19748511",
+      "21749647"
+    ],
+    "review": [
+      "42142711"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0166-6851(26)00038-1",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-XPNPEP1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-1105",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

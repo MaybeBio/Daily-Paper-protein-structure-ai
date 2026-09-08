@@ -1,0 +1,260 @@
+{
+  "identity": {
+    "pmid": "42665456",
+    "doi": "10.1016/j.tibs.2026.08.002",
+    "title": "Minimal-alphabet proteins by evolution, engineering, and design."
+  },
+  "content": {
+    "abstract": "Research on the structural and functional potential of minimal amino acid alphabets is shifting from reductive 'pruning' of extant proteins to bottom-up exploration of combinatorial sequence space. This review highlights the experimental and computational toolkits driving this transition. We discuss how solid-phase peptide synthesis, genetically encoded libraries, and high-throughput selection and screening enable systematic exploration of vast, noncanonical landscapes largely inaccessible to traditional engineering. Integrating these approaches with generative machine learning and de novo protein design allows researchers to move beyond observing what evolution produced toward exploring what chemistry permits. Together, these advances are redirecting the field from simplifying extant proteins to uncovering the physicochemical principles governing protein foldability, while expanding the design space beyond the constraints imposed by biological evolution.",
+    "keywords": [
+      "combinatorial sequence space",
+      "high-throughput screening",
+      "minimal protein design",
+      "primordial proteins",
+      "protein evolution",
+      "reduced amino acid alphabets"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Buchel, Filip",
+        "Giacobelli, Valerio G",
+        "Hlouchova, Klara"
+      ],
+      "short_names": [
+        "Buchel F",
+        "Giacobelli VG",
+        "Hlouchova K"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Cell Biology, Charles University, 12843 Prague, Czech Republic; Department of Biochemistry, Charles University, 12843 Prague, Czech Republic.",
+        "Department of Cell Biology, Charles University, 12843 Prague, Czech Republic; Institute of Organic Chemistry and Biochemistry, Czech Academy of Sciences, 16000 Prague, Czech Republic.",
+        "Department of Cell Biology, Charles University, 12843 Prague, Czech Republic; Institute of Organic Chemistry and Biochemistry, Czech Academy of Sciences, 16000 Prague, Czech Republic. Electronic address: klara.hlouchova@natur.cuni.cz."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Buchel, Filip",
+        "short_name": "Buchel F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cell Biology, Charles University, 12843 Prague, Czech Republic; Department of Biochemistry, Charles University, 12843 Prague, Czech Republic."
+        ]
+      },
+      {
+        "full_name": "Giacobelli, Valerio G",
+        "short_name": "Giacobelli VG",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cell Biology, Charles University, 12843 Prague, Czech Republic; Institute of Organic Chemistry and Biochemistry, Czech Academy of Sciences, 16000 Prague, Czech Republic."
+        ]
+      },
+      {
+        "full_name": "Hlouchová, Klára",
+        "short_name": "Hlouchová K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cell Biology, Charles University, 12843 Prague, Czech Republic; Institute of Organic Chemistry and Biochemistry, Czech Academy of Sciences, 16000 Prague, Czech Republic. Electronic address: klara.hlouchova@natur.cuni.cz."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Trends in biochemical sciences"
+    ],
+    "journal_abbrev": [
+      "Trends Biochem Sci"
+    ],
+    "pub_date": "2026 Aug 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/08/28 23:34",
+    "fetched_at": "2026-09-08 12:11:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42665456",
+      "42475469",
+      "41443357",
+      "39133073",
+      "42605681",
+      "37494931",
+      "42094372",
+      "41007412",
+      "23912807",
+      "35482204",
+      "41456696",
+      "34260225",
+      "41915737",
+      "35727454",
+      "10662483",
+      "32786325",
+      "26407535",
+      "35875501",
+      "30979809",
+      "35413604",
+      "32896285",
+      "35245020",
+      "42412802",
+      "31362700",
+      "14593201",
+      "42124363",
+      "34427078",
+      "24204234",
+      "20869867",
+      "30973707",
+      "35128926",
+      "33835131",
+      "37165539",
+      "33647531",
+      "24921161",
+      "41750280",
+      "35549066",
+      "35107442",
+      "42616438",
+      "30511381",
+      "27453948",
+      "42419186",
+      "25213413",
+      "19126227",
+      "41639692",
+      "24688643",
+      "41253282",
+      "38166249",
+      "38297834",
+      "40454510",
+      "36826345",
+      "39383860",
+      "27745543",
+      "22519540",
+      "9154108",
+      "42101708",
+      "20162614",
+      "41665230",
+      "40708441",
+      "33801827",
+      "41839238",
+      "32956450",
+      "42399444",
+      "42198231",
+      "33886302",
+      "41795206",
+      "14985539",
+      "29243094",
+      "37614363",
+      "27855603",
+      "40848287",
+      "31668033",
+      "39980285",
+      "36619853",
+      "28167677",
+      "35860409",
+      "36827465",
+      "19713097",
+      "31671786",
+      "37272467",
+      "39334841",
+      "25503938",
+      "39451037",
+      "41487131",
+      "42515682",
+      "42150655",
+      "25641420",
+      "33934427",
+      "17931656",
+      "37524064",
+      "41570866",
+      "40887563",
+      "36562723",
+      "41879619",
+      "32707811",
+      "32060385",
+      "17041256",
+      "26042329",
+      "10775656",
+      "8161687"
+    ],
+    "review": [
+      "42665456",
+      "41443357",
+      "39133073",
+      "42605681",
+      "37494931",
+      "41007412",
+      "41456696",
+      "35727454",
+      "10662483",
+      "35875501",
+      "35413604",
+      "32896285",
+      "35245020",
+      "42124363",
+      "20869867",
+      "35128926",
+      "33647531",
+      "35107442",
+      "42616438",
+      "42419186",
+      "25213413",
+      "41639692",
+      "24688643",
+      "41253282",
+      "38166249",
+      "40454510",
+      "27745543",
+      "9154108",
+      "41665230",
+      "40708441",
+      "33801827",
+      "41839238",
+      "42399444",
+      "42198231",
+      "33886302",
+      "29243094",
+      "27855603",
+      "31668033",
+      "28167677",
+      "35860409",
+      "36827465",
+      "19713097",
+      "31671786",
+      "37272467",
+      "39334841",
+      "25503938",
+      "39451037",
+      "41487131",
+      "42515682",
+      "42150655",
+      "33934427",
+      "41570866",
+      "40887563"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0968-0004(26)00247-1",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

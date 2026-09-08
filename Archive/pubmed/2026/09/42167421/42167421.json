@@ -1,0 +1,285 @@
+{
+  "identity": {
+    "pmid": "42167421",
+    "doi": "10.1016/j.ijbiomac.2026.152626",
+    "title": "Characterization of two novel streptothricin acetyltransferases from Streptomyces rochei, exhibiting extended substrate specificity and dual N/O-acetylation activity."
+  },
+  "content": {
+    "abstract": "Despite the renewed interest in streptothricin as a potential therapeutic, only a few streptothricin acetyltransferases have been characterized to date. In the present study, genome analysis of Streptomyces rochei ATHUBA 263 revealed two putative streptothricin acetyltransferase genes, srstat1 and srstat2. The genes were heterologously expressed in Escherichia coli, and the enzymes were purified for biochemical characterization. Both SrStat1 and SrStat2 conferred high-level resistance to streptothricin in E. coli and catalyzed streptothricin acetylation in vitro efficiently, with SrStat1 showing slightly higher substrate affinity and catalytic efficiency than SrStat2. Computational structural analysis combining AlphaFold-based modeling and molecular dynamics simulations demonstrated the conserved active site residues and revealed some subtle differences in active site architecture of the two enzymes. In addition, both enzymes displayed a weaker acetylation activity toward chloramphenicol in vitro. NMR spectroscopy provided evidence that acetylation occurs at the hydroxyl group located at the C-3 position of chloramphenicol, demonstrating that these enzymes are capable of O-acetylation in addition to the N-acetylation. Together, these findings expand the set of characterized streptothricin acetyltransferases and highlight the broad substrate specificity of GNATs. These insights provide valuable context for resistance mechanisms associated with streptothricin and may contribute to the renewed interest in streptothricin F as a therapeutic option against multidrug-resistant pathogens.",
+    "keywords": [
+      "Antibiotic resistance mechanisms",
+      "Chloramphenicol acetylation",
+      "Enzyme kinetics",
+      "GNAT superfamily",
+      "Molecular dynamics",
+      "NMR spectroscopy",
+      "Streptothricin acetyltransferase"
+    ],
+    "mesh_terms": [
+      "Substrate Specificity",
+      "*Acetyltransferases/chemistry/metabolism/genetics",
+      "*Streptomyces/enzymology/genetics",
+      "Acetylation",
+      "*Streptothricins/metabolism/chemistry/pharmacology",
+      "Molecular Dynamics Simulation",
+      "Amino Acid Sequence",
+      "Catalytic Domain",
+      "Kinetics",
+      "Escherichia coli/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kaili, Stavroula",
+        "Benaki, Dimitra",
+        "Paraskeva, Anastasia",
+        "Akrani, Ifigeneia",
+        "Marinidis, Stavros",
+        "Karagouni, Amalia D",
+        "Mikros, Emmanuel",
+        "Hatzinikolaou, Dimitris G"
+      ],
+      "short_names": [
+        "Kaili S",
+        "Benaki D",
+        "Paraskeva A",
+        "Akrani I",
+        "Marinidis S",
+        "Karagouni AD",
+        "Mikros E",
+        "Hatzinikolaou DG"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Enzyme and Microbial Biotechnology Unit, Department of Biology, National and Kapodistrian University of Athens, Panepistimioupolis Zografou, 157 84, Athens, Greece.",
+        "Division of Pharmaceutical Chemistry, Department of Pharmacy, National and Kapodistrian University of Athens, Panepistimioupolis Zografou, 157 84, Athens, Greece.",
+        "Enzyme and Microbial Biotechnology Unit, Department of Biology, National and Kapodistrian University of Athens, Panepistimioupolis Zografou, 157 84, Athens, Greece.",
+        "Division of Pharmaceutical Chemistry, Department of Pharmacy, National and Kapodistrian University of Athens, Panepistimioupolis Zografou, 157 84, Athens, Greece.",
+        "Enzyme and Microbial Biotechnology Unit, Department of Biology, National and Kapodistrian University of Athens, Panepistimioupolis Zografou, 157 84, Athens, Greece.",
+        "Enzyme and Microbial Biotechnology Unit, Department of Biology, National and Kapodistrian University of Athens, Panepistimioupolis Zografou, 157 84, Athens, Greece.",
+        "Division of Pharmaceutical Chemistry, Department of Pharmacy, National and Kapodistrian University of Athens, Panepistimioupolis Zografou, 157 84, Athens, Greece.",
+        "Enzyme and Microbial Biotechnology Unit, Department of Biology, National and Kapodistrian University of Athens, Panepistimioupolis Zografou, 157 84, Athens, Greece. Electronic address: dhatzini@biol.uoa.gr."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kaili, Stavroula",
+        "short_name": "Kaili S",
+        "identifiers": [],
+        "affiliations": [
+          "Enzyme and Microbial Biotechnology Unit, Department of Biology, National and Kapodistrian University of Athens, Panepistimioupolis Zografou, 157 84, Athens, Greece."
+        ]
+      },
+      {
+        "full_name": "Benaki, Dimitra",
+        "short_name": "Benaki D",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Pharmaceutical Chemistry, Department of Pharmacy, National and Kapodistrian University of Athens, Panepistimioupolis Zografou, 157 84, Athens, Greece."
+        ]
+      },
+      {
+        "full_name": "Paraskeva, Anastasia",
+        "short_name": "Paraskeva A",
+        "identifiers": [],
+        "affiliations": [
+          "Enzyme and Microbial Biotechnology Unit, Department of Biology, National and Kapodistrian University of Athens, Panepistimioupolis Zografou, 157 84, Athens, Greece."
+        ]
+      },
+      {
+        "full_name": "Akrani, Ifigeneia",
+        "short_name": "Akrani I",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Pharmaceutical Chemistry, Department of Pharmacy, National and Kapodistrian University of Athens, Panepistimioupolis Zografou, 157 84, Athens, Greece."
+        ]
+      },
+      {
+        "full_name": "Marinidis, Stavros",
+        "short_name": "Marinidis S",
+        "identifiers": [],
+        "affiliations": [
+          "Enzyme and Microbial Biotechnology Unit, Department of Biology, National and Kapodistrian University of Athens, Panepistimioupolis Zografou, 157 84, Athens, Greece."
+        ]
+      },
+      {
+        "full_name": "Karagouni, Amalia D",
+        "short_name": "Karagouni AD",
+        "identifiers": [],
+        "affiliations": [
+          "Enzyme and Microbial Biotechnology Unit, Department of Biology, National and Kapodistrian University of Athens, Panepistimioupolis Zografou, 157 84, Athens, Greece."
+        ]
+      },
+      {
+        "full_name": "Mikros, Emmanuel",
+        "short_name": "Mikros E",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Pharmaceutical Chemistry, Department of Pharmacy, National and Kapodistrian University of Athens, Panepistimioupolis Zografou, 157 84, Athens, Greece."
+        ]
+      },
+      {
+        "full_name": "Hatzinikolaou, Dimitris G",
+        "short_name": "Hatzinikolaou DG",
+        "identifiers": [],
+        "affiliations": [
+          "Enzyme and Microbial Biotechnology Unit, Department of Biology, National and Kapodistrian University of Athens, Panepistimioupolis Zografou, 157 84, Athens, Greece. Electronic address: dhatzini@biol.uoa.gr."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of biological macromolecules"
+    ],
+    "journal_abbrev": [
+      "Int J Biol Macromol"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/05/22 00:33",
+    "fetched_at": "2026-09-08 12:12:36"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42167421",
+      "28842538",
+      "9371436",
+      "8394835",
+      "30658980",
+      "3015852",
+      "15283700",
+      "8056285",
+      "3624064",
+      "27315603",
+      "23199287",
+      "30352934",
+      "2993582",
+      "3106324",
+      "2845048",
+      "32350117",
+      "3027297",
+      "10378269",
+      "4092057",
+      "8566762",
+      "19319932",
+      "32295819",
+      "7929420",
+      "25728374",
+      "19744929",
+      "17519228",
+      "34480000",
+      "15625322",
+      "2835292",
+      "15809431",
+      "40505863",
+      "37418656",
+      "37192172",
+      "11570897",
+      "25381442",
+      "23818613",
+      "21383206",
+      "2820180",
+      "16641084",
+      "14717599",
+      "33563840",
+      "33362253",
+      "3010602",
+      "25781966",
+      "6098905",
+      "27783928",
+      "23285125",
+      "41143516",
+      "2536659",
+      "11985581",
+      "24375143",
+      "21865168",
+      "23452042",
+      "23742047",
+      "28539332",
+      "31676473",
+      "16936038",
+      "34651380",
+      "40054337",
+      "8702554",
+      "3905512",
+      "25223995",
+      "39823891",
+      "10021417",
+      "11154328",
+      "25928210",
+      "12731863",
+      "6996733",
+      "6340955",
+      "29077761",
+      "42101420",
+      "29016658",
+      "22313365",
+      "17445774",
+      "3997703",
+      "18776660",
+      "27367672",
+      "19135125",
+      "25774564",
+      "34560975",
+      "19525232",
+      "29569182",
+      "24419391",
+      "33931417",
+      "23959863",
+      "25999128",
+      "31378370",
+      "21390252",
+      "6283749",
+      "40943500",
+      "37532404",
+      "27803161",
+      "15369823",
+      "16409639",
+      "15950163",
+      "2559963",
+      "11297438",
+      "21900231",
+      "2897964",
+      "37728626"
+    ],
+    "review": [
+      "42167421",
+      "32295819",
+      "23742047",
+      "6340955",
+      "27367672",
+      "15950163"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0141-8130(26)02553-5",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-1105",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

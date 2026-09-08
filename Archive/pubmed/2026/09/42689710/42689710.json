@@ -1,0 +1,329 @@
+{
+  "identity": {
+    "pmid": "42689710",
+    "doi": "10.1021/acsnano.6c07948",
+    "title": "Molecular Design Principles for Photosystem I-Based Biohybrid Solar Fuel Catalysts."
+  },
+  "content": {
+    "abstract": "Direct solar-to-chemical conversion offers a compelling route to clean, dispatchable energy. Photosystem I (PSI), an evolutionarily optimized light-driven oxidoreductase, can be repurposed for solar-fuel production by coupling its photochemistry to catalytic interfaces. However, the molecular determinants that govern productive electron transfer to abiotic catalysts remain poorly understood. Here, we present molecular structures of active PSI-Pt nanoparticle (PtNP) biohybrids that reveal how protein architecture controls catalyst access, binding geometry, and photocatalytic efficiency. Removal of stromal subunits exposes the electron transfer chain and enables PtNP binding proximal to the FX cluster, demonstrating that steric occlusion limits access to native acceptor regions in PSI. In contrast, in trimeric PSI, PtNPs bind at multiple sites per monomer, but only a subset are positioned within electron transfer distance of terminal cofactors, resulting in a heterogeneous population of productive and nonproductive configurations. Structural analyses and molecular dynamics simulations define the interface topology, electrostatics, and cofactor-to-nanoparticle distances that govern catalyst binding and electron transfer. These results establish that catalytic inefficiency arises not only from intrinsic electron transfer constraints but also from the distribution of binding geometries imposed by the protein scaffold. Together, these findings provide a molecular framework linking protein structure to biohybrid function and define design principles for engineering PSI-based solar fuel systems and protein-nanomaterial interfaces for light-driven catalysis.",
+    "keywords": [
+      "biohybrid",
+      "photosynthesis",
+      "photosystem I",
+      "platinum nanoparticle",
+      "solar fuel"
+    ],
+    "mesh_terms": [
+      "*Photosystem I Protein Complex/chemistry/metabolism",
+      "*Solar Energy",
+      "Catalysis",
+      "*Platinum/chemistry",
+      "*Metal Nanoparticles/chemistry",
+      "Molecular Dynamics Simulation",
+      "Electron Transport",
+      "Models, Molecular"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Emerson, Maximino D",
+        "Damaraju, Siva Naga Sai",
+        "Short, Audrey H",
+        "Alvord, Zachary B",
+        "Palmer, Zsolt A",
+        "Mehra, Himanshu S",
+        "Brininger, Christian M",
+        "Vermaas, Josh V",
+        "Utschig, Lisa M",
+        "Gisriel, Christopher J"
+      ],
+      "short_names": [
+        "Emerson MD",
+        "Damaraju SNS",
+        "Short AH",
+        "Alvord ZB",
+        "Palmer ZA",
+        "Mehra HS",
+        "Brininger CM",
+        "Vermaas JV",
+        "Utschig LM",
+        "Gisriel CJ"
+      ],
+      "auids": [
+        "ORCID: 0009-0003-0379-7318",
+        "ORCID: 0009-0002-8727-4014",
+        "ORCID: 0000-0003-3139-6469",
+        "ORCID: 0000-0003-2095-5392"
+      ],
+      "affiliations": [
+        "Department of Biochemistry, University of Wisconsin-Madison, Madison, Wisconsin53706, United States.",
+        "MSU-DOE Plant Research Laboratory and Department of Biochemistry and Molecular Biology, Michigan State University, East Lansing, Michigan48824, United States.",
+        "Chemical Sciences and Engineering Division, Argonne National Laboratory, Lemont, Illinois60439, United States.",
+        "MSU-DOE Plant Research Laboratory and Department of Biochemistry and Molecular Biology, Michigan State University, East Lansing, Michigan48824, United States.",
+        "MSU-DOE Plant Research Laboratory and Department of Biochemistry and Molecular Biology, Michigan State University, East Lansing, Michigan48824, United States.",
+        "Department of Biochemistry, University of Wisconsin-Madison, Madison, Wisconsin53706, United States.",
+        "Department of Biochemistry, University of Wisconsin-Madison, Madison, Wisconsin53706, United States.",
+        "MSU-DOE Plant Research Laboratory and Department of Biochemistry and Molecular Biology, Michigan State University, East Lansing, Michigan48824, United States.",
+        "Chemical Sciences and Engineering Division, Argonne National Laboratory, Lemont, Illinois60439, United States.",
+        "Department of Biochemistry, University of Wisconsin-Madison, Madison, Wisconsin53706, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Emerson, Maximino D",
+        "short_name": "Emerson MD",
+        "identifiers": [
+          "0009-0003-0379-7318"
+        ],
+        "affiliations": [
+          "Department of Biochemistry, University of Wisconsin-Madison, Madison, Wisconsin53706, United States."
+        ]
+      },
+      {
+        "full_name": "Damaraju, Siva Naga Sai",
+        "short_name": "Damaraju SNS",
+        "identifiers": [
+          "0009-0002-8727-4014"
+        ],
+        "affiliations": [
+          "MSU-DOE Plant Research Laboratory and Department of Biochemistry and Molecular Biology, Michigan State University, East Lansing, Michigan48824, United States."
+        ]
+      },
+      {
+        "full_name": "Short, Audrey H",
+        "short_name": "Short AH",
+        "identifiers": [],
+        "affiliations": [
+          "Chemical Sciences and Engineering Division, Argonne National Laboratory, Lemont, Illinois60439, United States."
+        ]
+      },
+      {
+        "full_name": "Alvord, Zachary B",
+        "short_name": "Alvord ZB",
+        "identifiers": [],
+        "affiliations": [
+          "MSU-DOE Plant Research Laboratory and Department of Biochemistry and Molecular Biology, Michigan State University, East Lansing, Michigan48824, United States."
+        ]
+      },
+      {
+        "full_name": "Palmer, Zsolt A",
+        "short_name": "Palmer ZA",
+        "identifiers": [],
+        "affiliations": [
+          "MSU-DOE Plant Research Laboratory and Department of Biochemistry and Molecular Biology, Michigan State University, East Lansing, Michigan48824, United States."
+        ]
+      },
+      {
+        "full_name": "Mehra, Himanshu S",
+        "short_name": "Mehra HS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, University of Wisconsin-Madison, Madison, Wisconsin53706, United States."
+        ]
+      },
+      {
+        "full_name": "Brininger, Christian M",
+        "short_name": "Brininger CM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, University of Wisconsin-Madison, Madison, Wisconsin53706, United States."
+        ]
+      },
+      {
+        "full_name": "Vermaas, Josh V",
+        "short_name": "Vermaas JV",
+        "identifiers": [
+          "0000-0003-3139-6469"
+        ],
+        "affiliations": [
+          "MSU-DOE Plant Research Laboratory and Department of Biochemistry and Molecular Biology, Michigan State University, East Lansing, Michigan48824, United States."
+        ]
+      },
+      {
+        "full_name": "Utschig, Lisa M",
+        "short_name": "Utschig LM",
+        "identifiers": [
+          "0000-0003-2095-5392"
+        ],
+        "affiliations": [
+          "Chemical Sciences and Engineering Division, Argonne National Laboratory, Lemont, Illinois60439, United States."
+        ]
+      },
+      {
+        "full_name": "Gisriel, Christopher J",
+        "short_name": "Gisriel CJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, University of Wisconsin-Madison, Madison, Wisconsin53706, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS nano"
+    ],
+    "journal_abbrev": [
+      "ACS Nano"
+    ],
+    "pub_date": "2026 Sep 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/03 17:36",
+    "fetched_at": "2026-09-08 12:10:34"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42689710",
+      "41929101",
+      "37001790",
+      "21923143",
+      "23541891",
+      "23985048",
+      "19757805",
+      "39229971",
+      "39496605",
+      "19908828",
+      "25675365",
+      "22784471",
+      "18439011",
+      "39846477",
+      "30568774",
+      "25500176",
+      "26334844",
+      "24129892",
+      "16836469",
+      "42234770",
+      "32424145",
+      "27104312",
+      "39612342",
+      "36564600",
+      "31925629",
+      "26365231",
+      "34854505",
+      "29610537",
+      "19446520",
+      "30301843",
+      "19902921",
+      "29211957",
+      "20064713",
+      "32396731",
+      "30850819",
+      "19898496",
+      "41931488",
+      "19947649",
+      "20411918",
+      "17442259",
+      "14630316",
+      "39810625",
+      "24576007",
+      "22160679",
+      "42265530",
+      "36702806",
+      "24473073",
+      "41931657",
+      "20064486",
+      "16117508",
+      "23901503",
+      "33788400",
+      "34085703",
+      "41801319",
+      "24388916",
+      "26029974",
+      "38791114",
+      "31641988",
+      "34002536",
+      "28207240",
+      "38441791",
+      "29414678",
+      "39169020",
+      "24637178",
+      "42301196",
+      "22577992",
+      "33020607",
+      "39480899",
+      "35999239",
+      "16401064",
+      "26541876",
+      "41188182",
+      "24649965",
+      "19960066",
+      "21941248",
+      "29212322",
+      "16457774",
+      "41644713",
+      "32569661",
+      "39125759",
+      "40375629",
+      "11421068",
+      "32448469",
+      "33597543",
+      "31247172",
+      "31932639",
+      "31595062",
+      "39337283",
+      "25682713",
+      "26023133",
+      "16542111",
+      "38966358",
+      "18293937",
+      "42385788",
+      "39810075",
+      "30254175",
+      "21155543",
+      "23379304",
+      "19156784",
+      "15977059"
+    ],
+    "review": [
+      "42689710",
+      "23541891",
+      "39229971",
+      "22784471",
+      "25500176",
+      "26334844",
+      "42234770",
+      "26365231",
+      "34854505",
+      "19446520",
+      "30301843",
+      "41931488",
+      "19947649",
+      "17442259",
+      "14630316",
+      "36702806",
+      "41931657",
+      "41801319",
+      "24388916",
+      "38791114",
+      "16401064",
+      "21941248",
+      "16457774",
+      "40375629",
+      "32448469",
+      "38966358"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/ancac3/article-lookup/doi/10.1021/acsnano.6c07948",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

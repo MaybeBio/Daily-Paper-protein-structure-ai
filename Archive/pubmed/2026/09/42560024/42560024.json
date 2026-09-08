@@ -1,0 +1,244 @@
+{
+  "identity": {
+    "pmid": "42560024",
+    "doi": "10.1002/pro.70747",
+    "title": "Predicting membrane protein localization by deep learning on structure and chemistry."
+  },
+  "content": {
+    "abstract": "It has been known since at least the 1980's that the structure and chemistry of membranes and membrane proteins are matched. Exploiting this fact, a graph neural network model of proteins was trained on experimentally determined membrane protein structures to predict the native membrane environment of transmembrane domains from their structure. The algorithm, \"GPSforTMDs,\" learns to generalize about membrane protein structure, obtains overall performance that is competitive with sequence-based methods, and obtains exceptional performance for some categories of membrane environment, even when training examples are few. Other categories it finds more challenging, in some cases for clear reasons (for example, compatibility of TMDs with membranes along the secretory pathway), and in other cases that are mysterious (mistaking archaeal TMDs for bacterial, and vice versa). The results motivate the need for high quality databases reporting TMD localization, and suggest that peering inside the algorithm will reveal new \"rules\" for membrane proteins. The code and associated database is available at https://github.com/bivekpok/GPSforTMDs.",
+    "keywords": [
+      "deep learning for proteins",
+      "graph neural networks",
+      "membrane environment classification",
+      "membrane protein localization",
+      "organelle-specific membrane environments",
+      "transmembrane domains"
+    ],
+    "mesh_terms": [
+      "*Deep Learning",
+      "*Membrane Proteins/chemistry/metabolism",
+      "Graph Neural Networks",
+      "Algorithms",
+      "Databases, Protein",
+      "Prediction Algorithms"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Pokhrel, Bivek",
+        "Munley, Christian",
+        "Pedraza, Miguel",
+        "Lyman, Edward"
+      ],
+      "short_names": [
+        "Pokhrel B",
+        "Munley C",
+        "Pedraza M",
+        "Lyman E"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-4590-0363"
+      ],
+      "affiliations": [
+        "Department of Physics and Astronomy, University of Delaware, Newark, Delaware, USA.",
+        "Department of Physics and Astronomy, University of Delaware, Newark, Delaware, USA.",
+        "Institute of Bioengineering, Swiss Federal Institute of Technology (EPFL), Lausanne, Switzerland.",
+        "Department of Physics and Astronomy, University of Delaware, Newark, Delaware, USA.",
+        "Department of Chemistry and Biochemistry, University of Delaware, Newark, Delaware, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Pokhrel, Bivek",
+        "short_name": "Pokhrel B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physics and Astronomy, University of Delaware, Newark, Delaware, USA."
+        ]
+      },
+      {
+        "full_name": "Munley, Christian",
+        "short_name": "Munley C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physics and Astronomy, University of Delaware, Newark, Delaware, USA."
+        ]
+      },
+      {
+        "full_name": "Pedraza, Miguel",
+        "short_name": "Pedraza M",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Bioengineering, Swiss Federal Institute of Technology (EPFL), Lausanne, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Lyman, Edward",
+        "short_name": "Lyman E",
+        "identifiers": [
+          "0000-0003-4590-0363"
+        ],
+        "affiliations": [
+          "Department of Physics and Astronomy, University of Delaware, Newark, Delaware, USA.",
+          "Department of Chemistry and Biochemistry, University of Delaware, Newark, Delaware, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Protein science : a publication of the Protein Society"
+    ],
+    "journal_abbrev": [
+      "Protein Sci"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/08/06 12:37",
+    "fetched_at": "2026-09-08 12:11:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42560024",
+      "41633121",
+      "36576775",
+      "39489606",
+      "39223474",
+      "42126889",
+      "30808287",
+      "42635198",
+      "18704938",
+      "33026978",
+      "32576054",
+      "33983651",
+      "41759455",
+      "23912807",
+      "20122233",
+      "33972021",
+      "29036616",
+      "31870850",
+      "40601253",
+      "37448360",
+      "42214054",
+      "32152330",
+      "39487084",
+      "39312678",
+      "35713780",
+      "34337657",
+      "40742755",
+      "39570595",
+      "42475469",
+      "38963311",
+      "30864311",
+      "38701416",
+      "41564724",
+      "40689530",
+      "15647112",
+      "28056090",
+      "34203866",
+      "29331638",
+      "33580578",
+      "23349002",
+      "35858496",
+      "39060345",
+      "39576667",
+      "40705403",
+      "40601251",
+      "36063562",
+      "42508035",
+      "32374785",
+      "40483648",
+      "40174317",
+      "33538038",
+      "33372607",
+      "36346583",
+      "39847542",
+      "36982795",
+      "28957654",
+      "32532211",
+      "38833802",
+      "40588070",
+      "30985027",
+      "24105265",
+      "40728610",
+      "12824500",
+      "23727232",
+      "28961695",
+      "41691161",
+      "30075707",
+      "33036834",
+      "40354612",
+      "39657158",
+      "32309431",
+      "35073170",
+      "38070456",
+      "34265844",
+      "26042329",
+      "29931128",
+      "34773871",
+      "16838301",
+      "41386531",
+      "15180935",
+      "31521253",
+      "37847755",
+      "30423072",
+      "32971019",
+      "32663598",
+      "40501346",
+      "20603021",
+      "32437517",
+      "37655493",
+      "38250147",
+      "34445537",
+      "38501649",
+      "36946514",
+      "31787089",
+      "37083575",
+      "40924541",
+      "34663069",
+      "34236204",
+      "40183298",
+      "40790157"
+    ],
+    "review": [
+      "42560024",
+      "29331638"
+    ],
+    "pmc": [
+      "13446024"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42560024/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.1002/pro.70747",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

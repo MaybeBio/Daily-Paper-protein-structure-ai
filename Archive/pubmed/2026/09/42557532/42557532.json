@@ -1,0 +1,302 @@
+{
+  "identity": {
+    "pmid": "42557532",
+    "doi": "10.1002/tpg2.70284",
+    "title": "Systematic prioritization of candidate genes in camptothecin biosynthesis using multi-omics and deep learning."
+  },
+  "content": {
+    "abstract": "Camptothecin (CPT), a plant-derived monoterpene indole alkaloid first identified in Camptotheca acuminata, is a drug precursor widely used for cancer chemotherapeutics. However, the full set of genes responsible for CPT biosynthesis remains unclear, hindering efforts to elucidate the complete pathway or establish biosynthetic production of CPT in heterologous hosts. In this study, we engineered an experimental callus system for inducible production of CPT, which enabled multi-omics and deep learning analyses to identify candidate genes in CPT biosynthesis. We first generated an improved genome assembly and gene annotation for C. acuminata. We then leveraged the natural variation of CPT levels in C. acuminata tissues and performed transcriptomic analysis of multiple callus and tissue types to shortlist candidate enzymes responsible for CPT biosynthesis. Finally, we conducted large-scale deep learning-enabled protein-ligand complex structure prediction to prioritize 117 candidate enzymes for studies that map their roles in CPT biochemical reactions. By integrating experimental, genomic, transcriptomic, and deep learning approaches, this study provides a valuable foundation for the complete elucidation of the CPT biosynthetic pathway.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Camptothecin/biosynthesis",
+      "*Deep Learning",
+      "Multiomics",
+      "*Camptotheca/genetics/metabolism",
+      "*Genes, Plant",
+      "Transcriptome"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Shenqi",
+        "Wu, Xing",
+        "Moreno, Maria",
+        "Oh, Joonseok",
+        "Dellaporta, Stephen L",
+        "Crawford, Jason M",
+        "Isaacs, Farren J"
+      ],
+      "short_names": [
+        "Wang S",
+        "Wu X",
+        "Moreno M",
+        "Oh J",
+        "Dellaporta SL",
+        "Crawford JM",
+        "Isaacs FJ"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-1596-1966",
+        "ORCID: 0000-0002-8579-7025",
+        "ORCID: 0009-0000-0129-4328",
+        "ORCID: 0000-0001-7452-3291",
+        "ORCID: 0000-0002-7583-1242",
+        "ORCID: 0000-0001-8615-8236"
+      ],
+      "affiliations": [
+        "Department of Molecular, Cellular & Developmental Biology, Yale University, New Haven, Connecticut, USA.",
+        "Systems Biology Institute, Yale University, West Haven, Connecticut, USA.",
+        "Plant Molecular Biology Program, Yale University, New Haven, Connecticut, USA.",
+        "Department of Molecular, Cellular & Developmental Biology, Yale University, New Haven, Connecticut, USA.",
+        "Plant Molecular Biology Program, Yale University, New Haven, Connecticut, USA.",
+        "Department of Molecular, Cellular & Developmental Biology, Yale University, New Haven, Connecticut, USA.",
+        "Department of Chemistry, Yale University, New Haven, Connecticut, USA.",
+        "Institute of Biomolecular Design and Discovery, Yale University, West Haven, Connecticut, USA.",
+        "Department of Molecular, Cellular & Developmental Biology, Yale University, New Haven, Connecticut, USA.",
+        "Department of Chemistry, Yale University, New Haven, Connecticut, USA.",
+        "Institute of Biomolecular Design and Discovery, Yale University, West Haven, Connecticut, USA.",
+        "Department of Microbial Pathogenesis, Yale University, New Haven, Connecticut, USA.",
+        "Department of Molecular, Cellular & Developmental Biology, Yale University, New Haven, Connecticut, USA.",
+        "Systems Biology Institute, Yale University, West Haven, Connecticut, USA.",
+        "Department of Biomedical Engineering, Yale University, New Haven, Connecticut, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Shenqi",
+        "short_name": "Wang S",
+        "identifiers": [
+          "0000-0003-1596-1966"
+        ],
+        "affiliations": [
+          "Department of Molecular, Cellular & Developmental Biology, Yale University, New Haven, Connecticut, USA.",
+          "Systems Biology Institute, Yale University, West Haven, Connecticut, USA.",
+          "Plant Molecular Biology Program, Yale University, New Haven, Connecticut, USA."
+        ]
+      },
+      {
+        "full_name": "Wu, Xing",
+        "short_name": "Wu X",
+        "identifiers": [
+          "0000-0002-8579-7025"
+        ],
+        "affiliations": [
+          "Department of Molecular, Cellular & Developmental Biology, Yale University, New Haven, Connecticut, USA.",
+          "Plant Molecular Biology Program, Yale University, New Haven, Connecticut, USA."
+        ]
+      },
+      {
+        "full_name": "Moreno, Maria",
+        "short_name": "Moreno M",
+        "identifiers": [
+          "0009-0000-0129-4328"
+        ],
+        "affiliations": [
+          "Department of Molecular, Cellular & Developmental Biology, Yale University, New Haven, Connecticut, USA."
+        ]
+      },
+      {
+        "full_name": "Oh, Joonseok",
+        "short_name": "Oh J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Yale University, New Haven, Connecticut, USA.",
+          "Institute of Biomolecular Design and Discovery, Yale University, West Haven, Connecticut, USA."
+        ]
+      },
+      {
+        "full_name": "Dellaporta, Stephen L",
+        "short_name": "Dellaporta SL",
+        "identifiers": [
+          "0000-0001-7452-3291"
+        ],
+        "affiliations": [
+          "Department of Molecular, Cellular & Developmental Biology, Yale University, New Haven, Connecticut, USA."
+        ]
+      },
+      {
+        "full_name": "Crawford, Jason M",
+        "short_name": "Crawford JM",
+        "identifiers": [
+          "0000-0002-7583-1242"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Yale University, New Haven, Connecticut, USA.",
+          "Institute of Biomolecular Design and Discovery, Yale University, West Haven, Connecticut, USA.",
+          "Department of Microbial Pathogenesis, Yale University, New Haven, Connecticut, USA."
+        ]
+      },
+      {
+        "full_name": "Isaacs, Farren J",
+        "short_name": "Isaacs FJ",
+        "identifiers": [
+          "0000-0001-8615-8236"
+        ],
+        "affiliations": [
+          "Department of Molecular, Cellular & Developmental Biology, Yale University, New Haven, Connecticut, USA.",
+          "Systems Biology Institute, Yale University, West Haven, Connecticut, USA.",
+          "Department of Biomedical Engineering, Yale University, New Haven, Connecticut, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The plant genome"
+    ],
+    "journal_abbrev": [
+      "Plant Genome"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/08/06 11:36",
+    "fetched_at": "2026-09-08 12:11:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42557532",
+      "22035094",
+      "32768165",
+      "39295090",
+      "30289548",
+      "37093159",
+      "28922823",
+      "42138768",
+      "29270891",
+      "20403175",
+      "42417879",
+      "36257366",
+      "39577154",
+      "36555760",
+      "37523250",
+      "38896329",
+      "32976723",
+      "34850279",
+      "34112794",
+      "34134716",
+      "35401649",
+      "26252645",
+      "42475469",
+      "42231429",
+      "15645305",
+      "31291885",
+      "13680137",
+      "27432874",
+      "26949094",
+      "23503598",
+      "35596786",
+      "21348469",
+      "40628090",
+      "26124076",
+      "38246434",
+      "39571455",
+      "30823523",
+      "33001599",
+      "31351150",
+      "10318682",
+      "15474560",
+      "28073672",
+      "21238548",
+      "28233044",
+      "37600193",
+      "17691988",
+      "12451492",
+      "41208325",
+      "41699549",
+      "25733498",
+      "33452249",
+      "30794920",
+      "16894899",
+      "36321557",
+      "40517854",
+      "18443285",
+      "42118261",
+      "23300689",
+      "23949997",
+      "9278168",
+      "34691124",
+      "25771119",
+      "29681057",
+      "15596415",
+      "33036834",
+      "31117393",
+      "42631563",
+      "34257844",
+      "29062355",
+      "41915929",
+      "9225462",
+      "37670002",
+      "21104605",
+      "41611834",
+      "18533483",
+      "40804552",
+      "35732942",
+      "34039281",
+      "14574990",
+      "24252342",
+      "18837304",
+      "39351995",
+      "35366818",
+      "29157810",
+      "41833800",
+      "42301476",
+      "33445145",
+      "17257708",
+      "21336687",
+      "18297601",
+      "36194508",
+      "38679745",
+      "28330463",
+      "37044129",
+      "42123445",
+      "34763196",
+      "27499678",
+      "40983916",
+      "18694480",
+      "33722602"
+    ],
+    "review": [
+      "42557532",
+      "38896329",
+      "34850279",
+      "35596786",
+      "15474560",
+      "28073672",
+      "17691988",
+      "30794920",
+      "36321557"
+    ],
+    "pmc": [
+      "13459069"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42557532/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/tpg2.70284",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

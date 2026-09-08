@@ -1,0 +1,377 @@
+{
+  "identity": {
+    "pmid": "42554525",
+    "doi": "10.1128/spectrum.01853-26",
+    "title": "TagR, a newly identified member of the MarR family of transcriptional regulators, represses the NRPS operon in Klebsiella oxytoca."
+  },
+  "content": {
+    "abstract": "Toxigenic Klebsiella oxytoca strains produce the pyrrolobenzodiazepine enterotoxins tilimycin (TM) and tilivalline (TV), which contribute to the development of antibiotic-associated hemorrhagic colitis. The biosynthesis of these toxins depends on the nonribosomal peptide synthetase (NRPS) operon located within the til pathogenicity island. Although several global and signal-responsive regulators of NRPS operon expression have been identified, the regulatory network governing enterotoxin biosynthesis remains incompletely characterized. In this study, we identified a previously unrecognized transcriptional regulator encoded within the til pathogenicity island of K. oxytoca. This protein, designated TagR (Tilivalline-associated genes repressor), is a member of the MarR family and acts as a negative regulator of NRPS operon expression. Structural prediction, molecular dynamics simulations, and biochemical analyses demonstrated that TagR exhibits the characteristic architecture of MarR family regulators and forms a stable homodimer. Deletion of tagR led to significant upregulation of the NRPS-associated genes npsA, thdA, and npsB, while complementation restored transcriptional repression. Electrophoretic mobility shift assays confirmed that TagR binds directly and specifically to the regulatory region upstream of the NRPS operon, supporting a mechanism of direct transcriptional repression. Consistent with these findings, loss of TagR significantly increased the cytotoxicity of K. oxytoca culture supernatants toward HeLa cells. Collectively, these results identify TagR as a direct repressor of the NRPS operon and expand the regulatory framework governing enterotoxin biosynthesis in toxigenic K. oxytoca. This study provides new insight into the transcriptional control of virulence-associated genes and establishes TagR as a previously unrecognized component of the regulatory network controlling TM and TV production.IMPORTANCEElucidating the mechanisms by which toxigenic Klebsiella oxytoca regulates enterotoxin production is critical for understanding the pathogenesis of antibiotic-associated hemorrhagic colitis. TagR is identified as a previously unrecognized MarR family regulator that directly represses the nonribosomal peptide synthetase (NRPS) operon responsible for tilimycin (TM) and tilivalline (TV) biosynthesis. This discovery uncovers a novel regulatory mechanism governing toxin production and offers new perspectives on virulence regulation in this emerging intestinal pathogen.",
+    "keywords": [
+      "Klebsiella oxytoca",
+      "MarR family regulator",
+      "NRPS operon",
+      "TagR"
+    ],
+    "mesh_terms": [
+      "*Klebsiella oxytoca/genetics/metabolism",
+      "*Operon",
+      "Gene Expression Regulation, Bacterial",
+      "*Bacterial Proteins/genetics/metabolism/chemistry",
+      "*Peptide Synthases/genetics/metabolism",
+      "Humans",
+      "Genomic Islands",
+      "*Repressor Proteins/genetics/metabolism/chemistry",
+      "*Transcription Factors/genetics/metabolism",
+      "Benzodiazepinones"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Perez, Cristopher",
+        "Lopez-Luis, Mario A",
+        "Jimenez-Sanchez, Carlos J",
+        "Hernandez-Pompa, Fermin I",
+        "Rodriguez-Valverde, Diana",
+        "Rivera-Gutierrez, Sandra",
+        "Rosales-Reyes, Roberto",
+        "Chimal-Cazares, Fernando",
+        "Soria-Bustos, Jorge",
+        "Yanez-Santos, Jorge A",
+        "Cedillo, Maria L",
+        "De la Cruz, Miguel A",
+        "Fox, James G",
+        "Ares, Miguel A"
+      ],
+      "short_names": [
+        "Perez C",
+        "Lopez-Luis MA",
+        "Jimenez-Sanchez CJ",
+        "Hernandez-Pompa FI",
+        "Rodriguez-Valverde D",
+        "Rivera-Gutierrez S",
+        "Rosales-Reyes R",
+        "Chimal-Cazares F",
+        "Soria-Bustos J",
+        "Yanez-Santos JA",
+        "Cedillo ML",
+        "De la Cruz MA",
+        "Fox JG",
+        "Ares MA"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-9519-8766",
+        "ORCID: 0000-0001-6909-2941",
+        "ORCID: 0000-0001-9307-6116",
+        "ORCID: 0000-0003-2574-958X"
+      ],
+      "affiliations": [
+        "Posgrado en Ciencias en Biomedicina y Biotecnologia Molecular, Escuela Nacional de Ciencias Biologicas, Instituto Politecnico Nacional, Mexico City, Mexico. RINGGOLD: 61735. ROR: https://ror.org/059sp8j34",
+        "Unidad de Investigacion Medica en Enfermedades infecciosas y Parasitarias, Hospital de Pediatria, Centro Medico Nacional Siglo XXI, Instituto Mexicano del Seguro Social, Mexico City, Mexico. ROR: https://ror.org/03xddgg98",
+        "Departamento de Microbiologia, Escuela Nacional de Ciencias Biologicas, Instituto Politecnico Nacional, Mexico City, Mexico. ROR: https://ror.org/059sp8j34",
+        "Laboratorio de Biotecnologia y Boinformatica Genomica, Departamento de Bioquimica, Escuela Nacional de Ciencias Biologicas, Instituto Politecnico Nacional, Mexico City, Mexico. ROR: https://ror.org/059sp8j34",
+        "Posgrado en Ciencias en Biomedicina y Biotecnologia Molecular, Escuela Nacional de Ciencias Biologicas, Instituto Politecnico Nacional, Mexico City, Mexico. RINGGOLD: 61735. ROR: https://ror.org/059sp8j34",
+        "Unidad de Investigacion Medica en Enfermedades infecciosas y Parasitarias, Hospital de Pediatria, Centro Medico Nacional Siglo XXI, Instituto Mexicano del Seguro Social, Mexico City, Mexico. ROR: https://ror.org/03xddgg98",
+        "Departamento de Microbiologia, Escuela Nacional de Ciencias Biologicas, Instituto Politecnico Nacional, Mexico City, Mexico. ROR: https://ror.org/059sp8j34",
+        "Posgrado en Ciencias en Biomedicina y Biotecnologia Molecular, Escuela Nacional de Ciencias Biologicas, Instituto Politecnico Nacional, Mexico City, Mexico. RINGGOLD: 61735. ROR: https://ror.org/059sp8j34",
+        "Unidad de Investigacion Medica en Enfermedades infecciosas y Parasitarias, Hospital de Pediatria, Centro Medico Nacional Siglo XXI, Instituto Mexicano del Seguro Social, Mexico City, Mexico. ROR: https://ror.org/03xddgg98",
+        "Departamento de Microbiologia, Escuela Nacional de Ciencias Biologicas, Instituto Politecnico Nacional, Mexico City, Mexico. ROR: https://ror.org/059sp8j34",
+        "Unidad de Investigacion Medica en Enfermedades infecciosas y Parasitarias, Hospital de Pediatria, Centro Medico Nacional Siglo XXI, Instituto Mexicano del Seguro Social, Mexico City, Mexico. ROR: https://ror.org/03xddgg98",
+        "Departamento de Microbiologia, Escuela Nacional de Ciencias Biologicas, Instituto Politecnico Nacional, Mexico City, Mexico. ROR: https://ror.org/059sp8j34",
+        "Unidad de Medicina Experimental, Facultad de Medicina, Universidad Nacional Autonoma de Mexico, Mexico City, Mexico. ROR: https://ror.org/01tmp8f25",
+        "Unidad de Investigacion Medica en Enfermedades infecciosas y Parasitarias, Hospital de Pediatria, Centro Medico Nacional Siglo XXI, Instituto Mexicano del Seguro Social, Mexico City, Mexico. ROR: https://ror.org/03xddgg98",
+        "Division de Ciencias de la Salud, Universidad Tecnologica de Tulancingo, Tulancingo, Hidalgo, Mexico. ROR: https://ror.org/00dmdt028",
+        "Centro de Deteccion Biomolecular, Benemerita Universidad Autonoma de Puebla, Puebla, Mexico. ROR: https://ror.org/03p2z7827",
+        "Centro de Deteccion Biomolecular, Benemerita Universidad Autonoma de Puebla, Puebla, Mexico. ROR: https://ror.org/03p2z7827",
+        "Centro de Deteccion Biomolecular, Benemerita Universidad Autonoma de Puebla, Puebla, Mexico. ROR: https://ror.org/03p2z7827",
+        "Centro de Deteccion Biomolecular, Benemerita Universidad Autonoma de Puebla, Puebla, Mexico. ROR: https://ror.org/03p2z7827",
+        "Facultad de Medicina, Benemerita Universidad Autonoma de Puebla, Puebla, Mexico. ROR: https://ror.org/03p2z7827",
+        "Division of Comparative Medicine, Massachusetts Institute of Technology, Cambridge, Massachusetts, USA. ROR: https://ror.org/042nb2s44",
+        "Unidad de Investigacion Medica en Enfermedades infecciosas y Parasitarias, Hospital de Pediatria, Centro Medico Nacional Siglo XXI, Instituto Mexicano del Seguro Social, Mexico City, Mexico. ROR: https://ror.org/03xddgg98",
+        "Departamento de Microbiologia, Escuela Nacional de Ciencias Biologicas, Instituto Politecnico Nacional, Mexico City, Mexico. ROR: https://ror.org/059sp8j34"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Perez, Cristopher",
+        "short_name": "Perez C",
+        "identifiers": [],
+        "affiliations": [
+          "Posgrado en Ciencias en Biomedicina y Biotecnología Molecular, Escuela Nacional de Ciencias Biológicas, Instituto Politécnico Nacional, Mexico City, Mexico.",
+          "Unidad de Investigación Médica en Enfermedades infecciosas y Parasitarias, Hospital de Pediatría, Centro Médico Nacional Siglo XXI, Instituto Mexicano del Seguro Social, Mexico City, Mexico.",
+          "Departamento de Microbiología, Escuela Nacional de Ciencias Biológicas, Instituto Politécnico Nacional, Mexico City, Mexico."
+        ]
+      },
+      {
+        "full_name": "López-Luis, Mario A",
+        "short_name": "López-Luis MA",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratorio de Biotecnología y Boinformática Genómica, Departamento de Bioquímica, Escuela Nacional de Ciencias Biológicas, Instituto Politécnico Nacional, Mexico City, Mexico."
+        ]
+      },
+      {
+        "full_name": "Jiménez-Sánchez, Carlos J",
+        "short_name": "Jiménez-Sánchez CJ",
+        "identifiers": [],
+        "affiliations": [
+          "Posgrado en Ciencias en Biomedicina y Biotecnología Molecular, Escuela Nacional de Ciencias Biológicas, Instituto Politécnico Nacional, Mexico City, Mexico.",
+          "Unidad de Investigación Médica en Enfermedades infecciosas y Parasitarias, Hospital de Pediatría, Centro Médico Nacional Siglo XXI, Instituto Mexicano del Seguro Social, Mexico City, Mexico.",
+          "Departamento de Microbiología, Escuela Nacional de Ciencias Biológicas, Instituto Politécnico Nacional, Mexico City, Mexico."
+        ]
+      },
+      {
+        "full_name": "Hernández-Pompa, Fermín I",
+        "short_name": "Hernández-Pompa FI",
+        "identifiers": [],
+        "affiliations": [
+          "Posgrado en Ciencias en Biomedicina y Biotecnología Molecular, Escuela Nacional de Ciencias Biológicas, Instituto Politécnico Nacional, Mexico City, Mexico.",
+          "Unidad de Investigación Médica en Enfermedades infecciosas y Parasitarias, Hospital de Pediatría, Centro Médico Nacional Siglo XXI, Instituto Mexicano del Seguro Social, Mexico City, Mexico.",
+          "Departamento de Microbiología, Escuela Nacional de Ciencias Biológicas, Instituto Politécnico Nacional, Mexico City, Mexico."
+        ]
+      },
+      {
+        "full_name": "Rodríguez-Valverde, Diana",
+        "short_name": "Rodríguez-Valverde D",
+        "identifiers": [],
+        "affiliations": [
+          "Unidad de Investigación Médica en Enfermedades infecciosas y Parasitarias, Hospital de Pediatría, Centro Médico Nacional Siglo XXI, Instituto Mexicano del Seguro Social, Mexico City, Mexico."
+        ]
+      },
+      {
+        "full_name": "Rivera-Gutiérrez, Sandra",
+        "short_name": "Rivera-Gutiérrez S",
+        "identifiers": [],
+        "affiliations": [
+          "Departamento de Microbiología, Escuela Nacional de Ciencias Biológicas, Instituto Politécnico Nacional, Mexico City, Mexico."
+        ]
+      },
+      {
+        "full_name": "Rosales-Reyes, Roberto",
+        "short_name": "Rosales-Reyes R",
+        "identifiers": [
+          "0000-0001-9519-8766"
+        ],
+        "affiliations": [
+          "Unidad de Medicina Experimental, Facultad de Medicina, Universidad Nacional Autónoma de México, Mexico City, Mexico."
+        ]
+      },
+      {
+        "full_name": "Chimal-Cázares, Fernando",
+        "short_name": "Chimal-Cázares F",
+        "identifiers": [],
+        "affiliations": [
+          "Unidad de Investigación Médica en Enfermedades infecciosas y Parasitarias, Hospital de Pediatría, Centro Médico Nacional Siglo XXI, Instituto Mexicano del Seguro Social, Mexico City, Mexico.",
+          "División de Ciencias de la Salud, Universidad Tecnológica de Tulancingo, Tulancingo, Hidalgo, Mexico."
+        ]
+      },
+      {
+        "full_name": "Soria-Bustos, Jorge",
+        "short_name": "Soria-Bustos J",
+        "identifiers": [],
+        "affiliations": [
+          "Centro de Detección Biomolecular, Benemérita Universidad Autónoma de Puebla, Puebla, Mexico."
+        ]
+      },
+      {
+        "full_name": "Yañez-Santos, Jorge A",
+        "short_name": "Yañez-Santos JA",
+        "identifiers": [],
+        "affiliations": [
+          "Centro de Detección Biomolecular, Benemérita Universidad Autónoma de Puebla, Puebla, Mexico."
+        ]
+      },
+      {
+        "full_name": "Cedillo, Maria L",
+        "short_name": "Cedillo ML",
+        "identifiers": [],
+        "affiliations": [
+          "Centro de Detección Biomolecular, Benemérita Universidad Autónoma de Puebla, Puebla, Mexico."
+        ]
+      },
+      {
+        "full_name": "De la Cruz, Miguel A",
+        "short_name": "De la Cruz MA",
+        "identifiers": [
+          "0000-0001-6909-2941"
+        ],
+        "affiliations": [
+          "Centro de Detección Biomolecular, Benemérita Universidad Autónoma de Puebla, Puebla, Mexico.",
+          "Facultad de Medicina, Benemérita Universidad Autónoma de Puebla, Puebla, Mexico."
+        ]
+      },
+      {
+        "full_name": "Fox, James G",
+        "short_name": "Fox JG",
+        "identifiers": [
+          "0000-0001-9307-6116"
+        ],
+        "affiliations": [
+          "Division of Comparative Medicine, Massachusetts Institute of Technology, Cambridge, Massachusetts, USA."
+        ]
+      },
+      {
+        "full_name": "Ares, Miguel A",
+        "short_name": "Ares MA",
+        "identifiers": [
+          "0000-0003-2574-958X"
+        ],
+        "affiliations": [
+          "Unidad de Investigación Médica en Enfermedades infecciosas y Parasitarias, Hospital de Pediatría, Centro Médico Nacional Siglo XXI, Instituto Mexicano del Seguro Social, Mexico City, Mexico.",
+          "Departamento de Microbiología, Escuela Nacional de Ciencias Biológicas, Instituto Politécnico Nacional, Mexico City, Mexico."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Microbiology spectrum"
+    ],
+    "journal_abbrev": [
+      "Microbiol Spectr"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/08/05 13:37",
+    "fetched_at": "2026-09-08 12:12:00"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42554525",
+      "39688404",
+      "42197528",
+      "35073747",
+      "32485104",
+      "34659176",
+      "41122671",
+      "39858926",
+      "29389112",
+      "28972161",
+      "25057966",
+      "30808763",
+      "8521301",
+      "30992361",
+      "25157164",
+      "31717457",
+      "10094687",
+      "40920244",
+      "36073960",
+      "29500267",
+      "30862746",
+      "28977734",
+      "34582979",
+      "33972354",
+      "27621279",
+      "31689352",
+      "27501984",
+      "30455279",
+      "31823730",
+      "26350136",
+      "36537811",
+      "41641996",
+      "28670937",
+      "30914502",
+      "40387367",
+      "31992628",
+      "30718301",
+      "20716550",
+      "22301909",
+      "40558093",
+      "29101199",
+      "19118356",
+      "27107122",
+      "8636021",
+      "38953369",
+      "41277859",
+      "28743243",
+      "41461785",
+      "29038257",
+      "39745369",
+      "34520403",
+      "30919570",
+      "17675388",
+      "30341075",
+      "40525855",
+      "37191535",
+      "31519665",
+      "14532050",
+      "23316039",
+      "39853125",
+      "29077520",
+      "39061004",
+      "30087173",
+      "29378891",
+      "41221096",
+      "41222146",
+      "28278272",
+      "25733612",
+      "32690636",
+      "27795315",
+      "32680866",
+      "17993540",
+      "31501288",
+      "40833102",
+      "24488311",
+      "40035602",
+      "19320834",
+      "17850260",
+      "29632089",
+      "29596433",
+      "40492733",
+      "32169942",
+      "26091802",
+      "17322317",
+      "24336464",
+      "34936841",
+      "39998267",
+      "11790734",
+      "28970173",
+      "30126939",
+      "30478236",
+      "28484041",
+      "26712933",
+      "34851134",
+      "32628999",
+      "29625990",
+      "27994017",
+      "32994334",
+      "40372035",
+      "18239413"
+    ],
+    "review": [
+      "42554525",
+      "28670937"
+    ],
+    "pmc": [
+      "13532245"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://journals.asm.org/doi/10.1128/spectrum.01853-26?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42554525/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

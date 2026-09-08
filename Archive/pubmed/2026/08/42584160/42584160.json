@@ -1,0 +1,316 @@
+{
+  "identity": {
+    "pmid": "42584160",
+    "doi": "10.1002/cssc.70900",
+    "title": "An Integrative Approach Toward Bio-Inspired Sequestration of Rare Earth Elements."
+  },
+  "content": {
+    "abstract": "Lanthanides (Ln) are essential for renewable energy technologies, yet their extraction and recycling often cause severe environmental impacts. Bio-inspired ligands based on metal-binding protein motifs offer a promising alternative for selective and sustainable Ln recovery. This study investigates the lanthanide-binding properties of the EF-hand 4 (EF4) motif of calmodulin. The binding of various Ln(3+) ions to EF4 was characterized using isothermal titration calorimetry, time-resolved laser fluorescence spectroscopy, nuclear magnetic resonance spectroscopy, and molecular dynamics simulations. EF4 exhibits generally high affinity toward Ln, with slightly varying binding constants across the Ln series. Thermodynamic, structural, and coordination effects associated with Ln binding were analyzed in detail. Compared to the EF-hand loop within the native protein, the isolated EF4 peptide shows significantly increased flexibility. Depending on experimental conditions, both 1:1 and 2:1 (Ln(3+):peptide) complex stoichiometries were observed. Furthermore, immobilized EF4 was successfully applied for the extraction and recovery of Sm(3+) from artificial aqueous solutions under laboratory conditions. Overall, the EF4 loop motif of calmodulin represents a promising biological ligand for the selective binding and recovery of Ln from aqueous systems.",
+    "keywords": [
+      "EF-hand loop",
+      "calmodulin",
+      "lanthanide-binding peptides",
+      "metal-binding peptides",
+      "peptide dynamics"
+    ],
+    "mesh_terms": [
+      "*Calmodulin/chemistry/metabolism",
+      "*Lanthanoid Series Elements/chemistry/isolation & purification",
+      "*Metals, Rare Earth/chemistry",
+      "Thermodynamics",
+      "Molecular Dynamics Simulation",
+      "EF Hand Motifs",
+      "Amino Acid Sequence"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Perevedentseva, Yulia",
+        "Waurick, Lukas",
+        "Marlina, Dini",
+        "Techert, Gerda",
+        "Mullers, Yannic",
+        "Lederer, Franziska",
+        "Moller, Heiko M",
+        "Kumke, Michael U",
+        "Glebe, Ulrich",
+        "Drobot, Bjorn"
+      ],
+      "short_names": [
+        "Perevedentseva Y",
+        "Waurick L",
+        "Marlina D",
+        "Techert G",
+        "Mullers Y",
+        "Lederer F",
+        "Moller HM",
+        "Kumke MU",
+        "Glebe U",
+        "Drobot B"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-0452-3242",
+        "ORCID: 0000-0003-1245-0466"
+      ],
+      "affiliations": [
+        "Institute of Chemistry, University of Potsdam, Potsdam-Golm, Germany.",
+        "Institute of Resource Ecology, Helmholtz-Zentrum Dresden-Rossendorf, Dresden, Germany.",
+        "Institute of Chemistry, University of Potsdam, Potsdam-Golm, Germany.",
+        "Helmholtz Institute Freiberg for Resource Technology, Helmholtz-Zentrum Dresden-Rossendorf, Dresden, Germany.",
+        "Institute of Chemistry, University of Potsdam, Potsdam-Golm, Germany.",
+        "Fraunhofer Institute for Applied Polymer Research IAP, Potsdam-Golm, Germany.",
+        "Helmholtz Institute Freiberg for Resource Technology, Helmholtz-Zentrum Dresden-Rossendorf, Dresden, Germany.",
+        "Institute of Chemistry, University of Potsdam, Potsdam-Golm, Germany.",
+        "Institute of Chemistry, University of Potsdam, Potsdam-Golm, Germany.",
+        "Institute of Chemistry, University of Potsdam, Potsdam-Golm, Germany.",
+        "Fraunhofer Institute for Applied Polymer Research IAP, Potsdam-Golm, Germany.",
+        "Institute of Resource Ecology, Helmholtz-Zentrum Dresden-Rossendorf, Dresden, Germany."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Perevedentseva, Yulia",
+        "short_name": "Perevedentseva Y",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Chemistry, University of Potsdam, Potsdam-Golm, Germany."
+        ]
+      },
+      {
+        "full_name": "Waurick, Lukas",
+        "short_name": "Waurick L",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Resource Ecology, Helmholtz-Zentrum Dresden-Rossendorf, Dresden, Germany."
+        ]
+      },
+      {
+        "full_name": "Marlina, Dini",
+        "short_name": "Marlina D",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Chemistry, University of Potsdam, Potsdam-Golm, Germany."
+        ]
+      },
+      {
+        "full_name": "Techert, Gerda",
+        "short_name": "Techert G",
+        "identifiers": [],
+        "affiliations": [
+          "Helmholtz Institute Freiberg for Resource Technology, Helmholtz-Zentrum Dresden-Rossendorf, Dresden, Germany."
+        ]
+      },
+      {
+        "full_name": "Müllers, Yannic",
+        "short_name": "Müllers Y",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Chemistry, University of Potsdam, Potsdam-Golm, Germany.",
+          "Fraunhofer Institute for Applied Polymer Research IAP, Potsdam-Golm, Germany."
+        ]
+      },
+      {
+        "full_name": "Lederer, Franziska",
+        "short_name": "Lederer F",
+        "identifiers": [
+          "0000-0002-0452-3242"
+        ],
+        "affiliations": [
+          "Helmholtz Institute Freiberg for Resource Technology, Helmholtz-Zentrum Dresden-Rossendorf, Dresden, Germany."
+        ]
+      },
+      {
+        "full_name": "Möller, Heiko M",
+        "short_name": "Möller HM",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Chemistry, University of Potsdam, Potsdam-Golm, Germany."
+        ]
+      },
+      {
+        "full_name": "Kumke, Michael U",
+        "short_name": "Kumke MU",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Chemistry, University of Potsdam, Potsdam-Golm, Germany."
+        ]
+      },
+      {
+        "full_name": "Glebe, Ulrich",
+        "short_name": "Glebe U",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Chemistry, University of Potsdam, Potsdam-Golm, Germany.",
+          "Fraunhofer Institute for Applied Polymer Research IAP, Potsdam-Golm, Germany."
+        ]
+      },
+      {
+        "full_name": "Drobot, Björn",
+        "short_name": "Drobot B",
+        "identifiers": [
+          "0000-0003-1245-0466"
+        ],
+        "affiliations": [
+          "Institute of Resource Ecology, Helmholtz-Zentrum Dresden-Rossendorf, Dresden, Germany."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ChemSusChem"
+    ],
+    "journal_abbrev": [
+      "ChemSusChem"
+    ],
+    "pub_date": "2026 Aug 27",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/08/12 11:38",
+    "fetched_at": "2026-09-08 12:11:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42584160",
+      "40985823",
+      "42501354",
+      "38527460",
+      "38620063",
+      "39847513",
+      "20623571",
+      "23231454",
+      "33173124",
+      "41640072",
+      "41051272",
+      "16637059",
+      "10669602",
+      "38686292",
+      "12834353",
+      "39700142",
+      "40312258",
+      "29545272",
+      "34581354",
+      "17140195",
+      "12589569",
+      "30352145",
+      "27554421",
+      "15917089",
+      "34985894",
+      "27124620",
+      "24032446",
+      "26494044",
+      "10944756",
+      "17590154",
+      "9020765",
+      "19074138",
+      "36938969",
+      "18197701",
+      "11809931",
+      "16530223",
+      "12644701",
+      "27999283",
+      "18199453",
+      "11293411",
+      "17473011",
+      "35914099",
+      "28869680",
+      "2765492",
+      "32697907",
+      "15473703",
+      "40980867",
+      "34592217",
+      "11472012",
+      "38685483",
+      "39586446",
+      "39101944",
+      "40982250",
+      "36091973",
+      "35437564",
+      "7794923",
+      "41888275",
+      "12147347",
+      "35597878",
+      "8068681",
+      "21314091",
+      "28853751",
+      "30351021",
+      "29741461",
+      "41055890",
+      "36041177",
+      "21947611",
+      "38069403",
+      "12874376",
+      "31418759",
+      "15023369",
+      "33810667",
+      "10525142",
+      "19655713",
+      "39270572",
+      "20672167",
+      "17942116",
+      "27398680",
+      "37983372",
+      "22549920",
+      "8639633",
+      "21394326",
+      "11297669",
+      "11001856",
+      "18435497",
+      "32097680",
+      "27809357",
+      "14500879",
+      "25888318",
+      "20408559",
+      "22976129",
+      "11375690",
+      "22135241",
+      "15771508",
+      "27015360",
+      "21366261",
+      "30810317",
+      "22159044",
+      "42105540",
+      "40031112"
+    ],
+    "review": [
+      "42584160",
+      "17590154",
+      "40980867",
+      "11472012",
+      "38685483"
+    ],
+    "pmc": [
+      "13464047"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42584160/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.1002/cssc.70900",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

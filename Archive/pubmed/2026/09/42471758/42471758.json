@@ -1,0 +1,281 @@
+{
+  "identity": {
+    "pmid": "42471758",
+    "doi": "10.1016/j.bpj.2026.07.020",
+    "title": "Conformational bifurcation of tau R3-R4 oligomers underlies fibril polymorphism."
+  },
+  "content": {
+    "abstract": "Tau aggregation into amyloid fibrils is a central pathological feature of multiple neurodegenerative diseases, yet identical tau sequences can adopt structurally distinct fibril conformations associated with different disorders. How such disease-specific folds emerge from the same sequence remains poorly understood. Here, we use metadynamics and all-atom molecular dynamics simulations to elucidate the folding mechanisms of tau trimers comprising the R3-R4 region, the minimal aggregation nucleus of tau fibrils. By constructing the folding free-energy landscape within a pre-organized fibril-like scaffold, we identify a shared, partially folded intermediate from which two energetically comparable minimum free-energy pathways diverge, leading to either a compact Alzheimer's disease-like or a more open chronic traumatic encephalopathy-like C-shaped conformation. Structural analysis reveals that the beta4-beta6 triangular region acts as the central determinant of this bifurcation. Hydrophobic-core rearrangements within this region provide the primary energetic driving force for compaction, whereas the conformational flexibility of the (332)PGGG(335) hinge modulates whether this tendency can be structurally realized. Additional simulations show that stable formation of the triangular region requires cooperative multichain interactions; reducing oligomer size destabilizes this scaffold and abolishes ordered folding. Together, our results establish a mechanistic framework in which identical tau sequences access alternative folding routes through a common intermediate, explaining the emergence of disease-specific fibril polymorphism at the oligomeric level and highlighting early folding intermediates as potential targets for therapeutic intervention.",
+    "keywords": [],
+    "mesh_terms": [
+      "*tau Proteins/chemistry/metabolism",
+      "Molecular Dynamics Simulation",
+      "*Protein Multimerization",
+      "Protein Folding",
+      "Protein Conformation",
+      "Thermodynamics",
+      "*Amyloid/chemistry/metabolism",
+      "Amino Acid Sequence",
+      "Hydrophobic and Hydrophilic Interactions",
+      "*Protein Aggregates"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Tong",
+        "Dai, Lingling",
+        "Ma, Yanping",
+        "Xu, Shicai",
+        "Liu, Xiangdong",
+        "Zhao, Mingwen",
+        "Li, Weifeng",
+        "Wang, Jiayong",
+        "Liu, Yang"
+      ],
+      "short_names": [
+        "Zhang T",
+        "Dai L",
+        "Ma Y",
+        "Xu S",
+        "Liu X",
+        "Zhao M",
+        "Li W",
+        "Wang J",
+        "Liu Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Physics, Shandong University, Jinan 250100, China.",
+        "School of Physics, Shandong University, Jinan 250100, China.",
+        "Dongying Science and Technology Innovation Service Center, Dongying 257091, China.",
+        "Institute of Biophysics, Dezhou University, Dezhou 253023, China.",
+        "School of Physics, Shandong University, Jinan 250100, China.",
+        "School of Physics, Shandong University, Jinan 250100, China.",
+        "School of Physics, Shandong University, Jinan 250100, China; Institute of Biophysics, Dezhou University, Dezhou 253023, China.",
+        "Department of Colorectal and Anal Surgery, General Surgery, Qilu Hospital of Shandong University, Jinan 250100, China. Electronic address: wangjiayong120@icloud.com.",
+        "School of Physics, Shandong University, Jinan 250100, China; Institute of Biophysics, Dezhou University, Dezhou 253023, China. Electronic address: lylyn2011@sdu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Tong",
+        "short_name": "Zhang T",
+        "identifiers": [],
+        "affiliations": [
+          "School of Physics, Shandong University, Jinan 250100, China."
+        ]
+      },
+      {
+        "full_name": "Dai, Lingling",
+        "short_name": "Dai L",
+        "identifiers": [],
+        "affiliations": [
+          "School of Physics, Shandong University, Jinan 250100, China."
+        ]
+      },
+      {
+        "full_name": "Ma, Yanping",
+        "short_name": "Ma Y",
+        "identifiers": [],
+        "affiliations": [
+          "Dongying Science and Technology Innovation Service Center, Dongying 257091, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Shicai",
+        "short_name": "Xu S",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Biophysics, Dezhou University, Dezhou 253023, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Xiangdong",
+        "short_name": "Liu X",
+        "identifiers": [],
+        "affiliations": [
+          "School of Physics, Shandong University, Jinan 250100, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Mingwen",
+        "short_name": "Zhao M",
+        "identifiers": [],
+        "affiliations": [
+          "School of Physics, Shandong University, Jinan 250100, China."
+        ]
+      },
+      {
+        "full_name": "Li, Weifeng",
+        "short_name": "Li W",
+        "identifiers": [],
+        "affiliations": [
+          "School of Physics, Shandong University, Jinan 250100, China; Institute of Biophysics, Dezhou University, Dezhou 253023, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Jiayong",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Colorectal and Anal Surgery, General Surgery, Qilu Hospital of Shandong University, Jinan 250100, China. Electronic address: wangjiayong120@icloud.com."
+        ]
+      },
+      {
+        "full_name": "Liu, Yang",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Physics, Shandong University, Jinan 250100, China; Institute of Biophysics, Dezhou University, Dezhou 253023, China. Electronic address: lylyn2011@sdu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biophysical journal"
+    ],
+    "journal_abbrev": [
+      "Biophys J"
+    ],
+    "pub_date": "2026 Sep 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/07/19 06:42",
+    "fetched_at": "2026-09-08 12:12:00"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42471758",
+      "40420425",
+      "21761818",
+      "34494046",
+      "42322588",
+      "23811057",
+      "35759677",
+      "38930883",
+      "25284680",
+      "41534833",
+      "24498083",
+      "25093402",
+      "40053114",
+      "42002168",
+      "37213134",
+      "23936224",
+      "42475469",
+      "33806726",
+      "38489841",
+      "31358628",
+      "33500517",
+      "31642657",
+      "32453948",
+      "31661961",
+      "41253764",
+      "29311706",
+      "38197437",
+      "11297418",
+      "23951348",
+      "40525347",
+      "40475647",
+      "32029593",
+      "36052514",
+      "18215070",
+      "32392276",
+      "28922400",
+      "29782833",
+      "27513615",
+      "42033067",
+      "30024984",
+      "24368046",
+      "31996674",
+      "38030728",
+      "31661242",
+      "27638048",
+      "23294335",
+      "35476504",
+      "38732197",
+      "23811055",
+      "29044752",
+      "32493775",
+      "18646868",
+      "29704492",
+      "42312952",
+      "36797278",
+      "30894745",
+      "26854860",
+      "29248553",
+      "34504072",
+      "29774342",
+      "41785961",
+      "29953200",
+      "22789566",
+      "23228929",
+      "25330398",
+      "27698130",
+      "24028418",
+      "29298892",
+      "37458827",
+      "35993190",
+      "32216358",
+      "30769283",
+      "27975243",
+      "28272335",
+      "21687730",
+      "33273615",
+      "20104925",
+      "36310204",
+      "40419040",
+      "30071272",
+      "29779477",
+      "30242125",
+      "37314291",
+      "20557067",
+      "31132261",
+      "32691116",
+      "40165595",
+      "32365068",
+      "37543268",
+      "29940109",
+      "33515860",
+      "18342332",
+      "40599054",
+      "25503571",
+      "36975100",
+      "35244536",
+      "40021051",
+      "27616019",
+      "22248587",
+      "41144666"
+    ],
+    "review": [
+      "42471758",
+      "24368046",
+      "23294335",
+      "38732197",
+      "18646868",
+      "29779477"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0006-3495(26)00515-1",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

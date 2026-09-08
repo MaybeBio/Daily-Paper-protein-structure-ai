@@ -1,0 +1,285 @@
+{
+  "identity": {
+    "pmid": "42582808",
+    "doi": "10.1039/d6ra04733e",
+    "title": "V600E biases the BRAF kinase domain toward an activation-compatible conformational ensemble through long-range dynamic rewiring."
+  },
+  "content": {
+    "abstract": "How oncogenic mutations reshape kinase conformational ensembles to favor aberrant signaling remains incompletely understood. Here, we combined microsecond-scale molecular dynamics simulations, Markov state models, and neural relational inference to investigate how the V600E mutation remodels the dynamics of the inactive-like, nucleotide-bound BRAF kinase domain. V600E did not produce a single fully active conformation but instead biased the kinase toward an activation-compatible conformational ensemble. MSM analysis revealed pronounced enrichment of a dominant metastable state, S3, characterized by a shortened Lys483-Glu501 Calpha-Calpha distance and a more inward alphaC-helix arrangement. This mutation-enriched state was kinetically stabilized, as indicated by prolonged mean first passage times for transitions from S3 to the minor states. At the dynamic-network level, V600E reorganized long-range coordination among the P-loop, alphaC-helix, activation loop, and distal flexible regions and altered preferred model-inferred communication routes connecting these regulatory elements. Together, these results support a model in which V600E preorganizes the inactive-like BRAF kinase domain toward activation-compatible conformations through conformational reweighting and long-range dynamic rewiring. Such conformational preorganization may facilitate oncogenic signaling in the presence of the additional regulatory interactions required for complete kinase activation.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Bao-Dan",
+        "Xi, Qi",
+        "Ying, Yu-Meng",
+        "Zhao, De-Rui",
+        "Yang, Li-Quan",
+        "Sang, Peng"
+      ],
+      "short_names": [
+        "Zhang BD",
+        "Xi Q",
+        "Ying YM",
+        "Zhao DR",
+        "Yang LQ",
+        "Sang P"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-4958-3345",
+        "ORCID: 0000-0002-8556-2461"
+      ],
+      "affiliations": [
+        "College of Agriculture and Biological Science, Dali University Dali 671000 China ylqbioinfo@dali.edu.cn pengsang@dali.edu.cn.",
+        "Key Laboratory of Bioinformatics and Computational Biology of the Department of Education of Yunnan Province, Dali University Dali 671000 China.",
+        "Co-Innovation Center for Cangshan Mountain and Erhai Lake Integrated Protection and Green Development of Yunnan Province, Dali University Dali 671000 China.",
+        "College of Agriculture and Biological Science, Dali University Dali 671000 China ylqbioinfo@dali.edu.cn pengsang@dali.edu.cn.",
+        "Key Laboratory of Bioinformatics and Computational Biology of the Department of Education of Yunnan Province, Dali University Dali 671000 China.",
+        "Co-Innovation Center for Cangshan Mountain and Erhai Lake Integrated Protection and Green Development of Yunnan Province, Dali University Dali 671000 China.",
+        "College of Agriculture and Biological Science, Dali University Dali 671000 China ylqbioinfo@dali.edu.cn pengsang@dali.edu.cn.",
+        "Key Laboratory of Bioinformatics and Computational Biology of the Department of Education of Yunnan Province, Dali University Dali 671000 China.",
+        "Co-Innovation Center for Cangshan Mountain and Erhai Lake Integrated Protection and Green Development of Yunnan Province, Dali University Dali 671000 China.",
+        "College of Agriculture and Biological Science, Dali University Dali 671000 China ylqbioinfo@dali.edu.cn pengsang@dali.edu.cn.",
+        "Key Laboratory of Bioinformatics and Computational Biology of the Department of Education of Yunnan Province, Dali University Dali 671000 China.",
+        "Co-Innovation Center for Cangshan Mountain and Erhai Lake Integrated Protection and Green Development of Yunnan Province, Dali University Dali 671000 China.",
+        "College of Agriculture and Biological Science, Dali University Dali 671000 China ylqbioinfo@dali.edu.cn pengsang@dali.edu.cn.",
+        "Key Laboratory of Bioinformatics and Computational Biology of the Department of Education of Yunnan Province, Dali University Dali 671000 China.",
+        "Co-Innovation Center for Cangshan Mountain and Erhai Lake Integrated Protection and Green Development of Yunnan Province, Dali University Dali 671000 China.",
+        "College of Agriculture and Biological Science, Dali University Dali 671000 China ylqbioinfo@dali.edu.cn pengsang@dali.edu.cn.",
+        "Key Laboratory of Bioinformatics and Computational Biology of the Department of Education of Yunnan Province, Dali University Dali 671000 China.",
+        "Co-Innovation Center for Cangshan Mountain and Erhai Lake Integrated Protection and Green Development of Yunnan Province, Dali University Dali 671000 China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Bao-Dan",
+        "short_name": "Zhang BD",
+        "identifiers": [],
+        "affiliations": [
+          "College of Agriculture and Biological Science, Dali University Dali 671000 China ylqbioinfo@dali.edu.cn pengsang@dali.edu.cn.",
+          "Key Laboratory of Bioinformatics and Computational Biology of the Department of Education of Yunnan Province, Dali University Dali 671000 China.",
+          "Co-Innovation Center for Cangshan Mountain and Erhai Lake Integrated Protection and Green Development of Yunnan Province, Dali University Dali 671000 China."
+        ]
+      },
+      {
+        "full_name": "Xi, Qi",
+        "short_name": "Xi Q",
+        "identifiers": [],
+        "affiliations": [
+          "College of Agriculture and Biological Science, Dali University Dali 671000 China ylqbioinfo@dali.edu.cn pengsang@dali.edu.cn.",
+          "Key Laboratory of Bioinformatics and Computational Biology of the Department of Education of Yunnan Province, Dali University Dali 671000 China.",
+          "Co-Innovation Center for Cangshan Mountain and Erhai Lake Integrated Protection and Green Development of Yunnan Province, Dali University Dali 671000 China."
+        ]
+      },
+      {
+        "full_name": "Ying, Yu-Meng",
+        "short_name": "Ying YM",
+        "identifiers": [],
+        "affiliations": [
+          "College of Agriculture and Biological Science, Dali University Dali 671000 China ylqbioinfo@dali.edu.cn pengsang@dali.edu.cn.",
+          "Key Laboratory of Bioinformatics and Computational Biology of the Department of Education of Yunnan Province, Dali University Dali 671000 China.",
+          "Co-Innovation Center for Cangshan Mountain and Erhai Lake Integrated Protection and Green Development of Yunnan Province, Dali University Dali 671000 China."
+        ]
+      },
+      {
+        "full_name": "Zhao, De-Rui",
+        "short_name": "Zhao DR",
+        "identifiers": [],
+        "affiliations": [
+          "College of Agriculture and Biological Science, Dali University Dali 671000 China ylqbioinfo@dali.edu.cn pengsang@dali.edu.cn.",
+          "Key Laboratory of Bioinformatics and Computational Biology of the Department of Education of Yunnan Province, Dali University Dali 671000 China.",
+          "Co-Innovation Center for Cangshan Mountain and Erhai Lake Integrated Protection and Green Development of Yunnan Province, Dali University Dali 671000 China."
+        ]
+      },
+      {
+        "full_name": "Yang, Li-Quan",
+        "short_name": "Yang LQ",
+        "identifiers": [
+          "0000-0002-4958-3345"
+        ],
+        "affiliations": [
+          "College of Agriculture and Biological Science, Dali University Dali 671000 China ylqbioinfo@dali.edu.cn pengsang@dali.edu.cn.",
+          "Key Laboratory of Bioinformatics and Computational Biology of the Department of Education of Yunnan Province, Dali University Dali 671000 China.",
+          "Co-Innovation Center for Cangshan Mountain and Erhai Lake Integrated Protection and Green Development of Yunnan Province, Dali University Dali 671000 China."
+        ]
+      },
+      {
+        "full_name": "Sang, Peng",
+        "short_name": "Sang P",
+        "identifiers": [
+          "0000-0002-8556-2461"
+        ],
+        "affiliations": [
+          "College of Agriculture and Biological Science, Dali University Dali 671000 China ylqbioinfo@dali.edu.cn pengsang@dali.edu.cn.",
+          "Key Laboratory of Bioinformatics and Computational Biology of the Department of Education of Yunnan Province, Dali University Dali 671000 China.",
+          "Co-Innovation Center for Cangshan Mountain and Erhai Lake Integrated Protection and Green Development of Yunnan Province, Dali University Dali 671000 China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "RSC advances"
+    ],
+    "journal_abbrev": [
+      "RSC Adv"
+    ],
+    "pub_date": "2026 Sep 3",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/08/12 11:38",
+    "fetched_at": "2026-09-08 12:11:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42582808",
+      "36512419",
+      "40650000",
+      "34188782",
+      "42268730",
+      "42130234",
+      "29145034",
+      "30225883",
+      "38324213",
+      "27861609",
+      "39982680",
+      "19225111",
+      "31152574",
+      "37363953",
+      "27921184",
+      "38913408",
+      "37745542",
+      "40783913",
+      "40920905",
+      "18369437",
+      "38168366",
+      "42050969",
+      "30118796",
+      "31962105",
+      "39975035",
+      "39945510",
+      "35652973",
+      "42465327",
+      "31453322",
+      "33808483",
+      "33226337",
+      "31999924",
+      "35685353",
+      "39432460",
+      "36591700",
+      "40440367",
+      "27482115",
+      "39337567",
+      "28426203",
+      "34577121",
+      "31929109",
+      "23754386",
+      "18473997",
+      "39076021",
+      "32101380",
+      "38946192",
+      "41446076",
+      "34585687",
+      "27682200",
+      "31476863",
+      "40671268",
+      "36329938",
+      "19624854",
+      "30468265",
+      "42212047",
+      "29638111",
+      "25738880",
+      "25805329",
+      "37254996",
+      "35140883",
+      "31560849",
+      "25945797",
+      "42162184",
+      "31536605",
+      "27571413",
+      "20735046",
+      "31168936",
+      "39359136",
+      "16494500",
+      "42475469",
+      "21261310",
+      "30004444",
+      "11838236",
+      "31150387",
+      "36586979",
+      "19714203",
+      "30218115",
+      "41062570",
+      "28507717",
+      "27100206",
+      "27834212",
+      "27438814",
+      "25635939",
+      "35709874",
+      "39566715",
+      "27624806",
+      "26056257",
+      "25625937",
+      "40799614",
+      "29095844",
+      "40199555",
+      "32643366",
+      "42533714",
+      "18214972",
+      "41072865",
+      "23028292",
+      "40504558",
+      "42477346",
+      "30104348",
+      "26145173"
+    ],
+    "review": [
+      "42582808",
+      "30118796",
+      "18473997",
+      "32101380",
+      "40671268",
+      "11838236",
+      "25625937"
+    ],
+    "pmc": [
+      "13458970"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42582808/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.1039/d6ra04733e",
+        "provider": "Royal Society of Chemistry",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-BRAF-6",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

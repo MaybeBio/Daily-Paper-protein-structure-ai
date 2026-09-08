@@ -1,0 +1,240 @@
+{
+  "identity": {
+    "pmid": "42608825",
+    "doi": "10.1093/bioinformatics/btag618",
+    "title": "Bridging linguistic reasoning and biophysical reality toward peptide engineering via instruction-tuned language modeling."
+  },
+  "content": {
+    "abstract": "MOTIVATION: Peptides serve as critical mediators in biological systems, regulating essential processes ranging from neurotransmission to immune response. However, their nonlinear sequence-function relationships and immense chemical diversity pose significant challenges for efficient experimental characterization and therapeutic development. While Protein Language Models have advanced biological sequence understanding, they predominantly capture global evolutionary features of full-length proteins, often overlooking the local physicochemical dependencies and short-range residue interactions that are essential for defining peptide bioactivity. RESULTS: To address this gap, we leverage the linguistic competence of general-purpose Large Language Models (LLMs) to treat amino acid sequences as \"biological text,\" bridging natural language supervision with biochemical sequence modeling without relying on explicit structural or evolutionary priors. We curate a peptide-specific instruction dataset, Pep-Instructions, spanning function description, sequence design, property prediction, and physicochemical optimization, and adapt a general-purpose LLM through parameter-efficient instruction tuning. Extensive benchmarking against general-purpose language models shows consistent improvements across the evaluated peptide-centric tasks. In particular, the instruction-tuned model produces more semantically faithful functional descriptions, generates peptide sequences with stronger sequence-level similarity, with representative ESMFold case studies suggesting backbone-level consistency, improves prediction of diverse peptide properties, and enables more reliable directional optimization of physicochemical properties under the adopted in silico evaluation protocols. Overall, these results establish Pep-Instructions as a unified benchmark and demonstrate the value of peptide-specific instruction tuning for peptide understanding, prediction, and design. AVAILABILITY AND IMPLEMENTATION: Source code and Pep-Instructions are available at https://github.com/kjY7836/pepinstruction. Fine-tuned model weights are available at https://huggingface.co/Codelife176/Pep-instruction.",
+    "keywords": [],
+    "mesh_terms": [
+      "Large Language Models",
+      "*Peptides/chemistry",
+      "*Protein Engineering/methods",
+      "Amino Acid Sequence",
+      "*Linguistics"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yang, Kaijun",
+        "Wu, Tianxiang",
+        "Zhang, Wenbo",
+        "Li, Pengyong"
+      ],
+      "short_names": [
+        "Yang K",
+        "Wu T",
+        "Zhang W",
+        "Li P"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-5971-046X"
+      ],
+      "affiliations": [
+        "School of Computer Science and Technology, Xidian University, Xi'an, Shaanxi 710126, China.",
+        "School of Computer Science and Technology, Xidian University, Xi'an, Shaanxi 710126, China.",
+        "School of Computer Science and Technology, Xidian University, Xi'an, Shaanxi 710126, China.",
+        "School of Computer Science and Technology, Xidian University, Xi'an, Shaanxi 710126, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yang, Kaijun",
+        "short_name": "Yang K",
+        "identifiers": [],
+        "affiliations": [
+          "School of Computer Science and Technology, Xidian University, Xi'an, Shaanxi 710126, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Tianxiang",
+        "short_name": "Wu T",
+        "identifiers": [],
+        "affiliations": [
+          "School of Computer Science and Technology, Xidian University, Xi'an, Shaanxi 710126, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Wenbo",
+        "short_name": "Zhang W",
+        "identifiers": [],
+        "affiliations": [
+          "School of Computer Science and Technology, Xidian University, Xi'an, Shaanxi 710126, China."
+        ]
+      },
+      {
+        "full_name": "Li, Pengyong",
+        "short_name": "Li P",
+        "identifiers": [
+          "0000-0001-5971-046X"
+        ],
+        "affiliations": [
+          "School of Computer Science and Technology, Xidian University, Xi'an, Shaanxi 710126, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Bioinformatics (Oxford, England)"
+    ],
+    "journal_abbrev": [
+      "Bioinformatics"
+    ],
+    "pub_date": "2026 Aug 31",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/08/18 07:46",
+    "fetched_at": "2026-09-08 12:11:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42608825",
+      "42475469",
+      "41824966",
+      "41742185",
+      "41032874",
+      "41352986",
+      "40849052",
+      "42640811",
+      "40627556",
+      "38833265",
+      "38514400",
+      "41905520",
+      "42218716",
+      "40540614",
+      "42494109",
+      "41082689",
+      "41492521",
+      "42492189",
+      "41731742",
+      "40381369",
+      "42169056",
+      "40060567",
+      "23912807",
+      "42031125",
+      "41138953",
+      "40502228",
+      "37956397",
+      "42660005",
+      "42013456",
+      "40190132",
+      "40665561",
+      "40748801",
+      "40833895",
+      "41890006",
+      "40804173",
+      "42290698",
+      "42311233",
+      "42455078",
+      "40560205",
+      "41561863",
+      "40662798",
+      "40462515",
+      "42467985",
+      "41555497",
+      "39786555",
+      "42372160",
+      "42072649",
+      "35020807",
+      "40592174",
+      "40516342",
+      "31913448",
+      "36163001",
+      "40794688",
+      "40986888",
+      "40158838",
+      "41634066",
+      "42673935",
+      "40625100",
+      "42345384",
+      "40314227",
+      "41678465",
+      "41232578",
+      "39819819",
+      "39121938",
+      "36321557",
+      "37020337",
+      "40674183",
+      "40627819",
+      "42422716",
+      "39987777",
+      "41981726",
+      "42600130",
+      "40662785",
+      "40619512",
+      "42587290",
+      "40737604",
+      "38662579",
+      "41145629",
+      "38900798",
+      "42670836",
+      "42013547",
+      "40872075",
+      "41757044",
+      "42441732",
+      "42229392",
+      "39928922",
+      "41293319",
+      "41902842",
+      "41962364",
+      "40027759",
+      "41911958",
+      "42208123",
+      "41886735",
+      "41605796",
+      "38310333",
+      "42431981",
+      "39792917",
+      "42085407",
+      "41673205",
+      "39288310"
+    ],
+    "review": [
+      "42608825",
+      "42492189",
+      "42467985"
+    ],
+    "pmc": [
+      "13529362"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42608825/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3867",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btag618",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

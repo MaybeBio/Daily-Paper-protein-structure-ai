@@ -1,0 +1,276 @@
+{
+  "identity": {
+    "pmid": "42680564",
+    "doi": "10.1261/rna.081259.126",
+    "title": "Improving RNA Secondary Structure Prediction Through Expanded Training Data."
+  },
+  "content": {
+    "abstract": "In recent years, deep-learning has revolutionized protein structure prediction, achieving remarkable speed and accuracy. RNA structure prediction, however, has lagged behind. Although several methods have shown moderate success in predicting RNA secondary and tertiary structures, none have reached the accuracy observed with contemporary protein models. The lack of success of these RNA structure prediction models has been proposed to be due to limited high-quality structural information that can be used as training data. To probe this proposed limitation, we developed a large and diverse dataset comprising paired RNA sequences and their corresponding secondary structures. We assessed the utility of this enhanced dataset by retraining on a deep-learning model, SincFold. We find that SincFold exhibited improved performance on a set of previously unseen RNA families, enhancing its capability to predict accurate de novo RNA secondary structures. We additionally implemented Lyra-TransPred, which achieved the highest mean F1 and MCC among the evaluated models while requiring substantially less training time per epoch. The RNASSTR dataset provides a substantial advance for RNA structure modeling, laying a strong foundation for the development of future RNA secondary structure prediction algorithms.",
+    "keywords": [
+      "Deep learning",
+      "RNA secondary structure",
+      "RNASSTR",
+      "Rfam"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Langeberg, Conner J",
+        "Kim, Taehan",
+        "Nagle, Roma",
+        "Rajinikanth, Agni",
+        "Meredith, Charlotte",
+        "Garuadapuri, Dimple A",
+        "Doudna, Jennifer",
+        "Cate, Jamie"
+      ],
+      "short_names": [
+        "Langeberg CJ",
+        "Kim T",
+        "Nagle R",
+        "Rajinikanth A",
+        "Meredith C",
+        "Garuadapuri DA",
+        "Doudna J",
+        "Cate J"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-5609-3758",
+        "ORCID: 0000-0001-9161-999X",
+        "ORCID: 0000-0001-5965-7902"
+      ],
+      "affiliations": [
+        "University of California Berkeley.",
+        "University of California Berkeley.",
+        "University of California Berkeley.",
+        "University of California Berkeley.",
+        "University of California Berkeley.",
+        "University of California Berkeley.",
+        "University of California Berkeley.",
+        "University of California Berkeley j-h-doudna-cate@berkeley.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Langeberg, Conner J",
+        "short_name": "Langeberg CJ",
+        "identifiers": [
+          "0000-0002-5609-3758"
+        ],
+        "affiliations": [
+          "University of California Berkeley."
+        ]
+      },
+      {
+        "full_name": "Kim, Taehan",
+        "short_name": "Kim T",
+        "identifiers": [],
+        "affiliations": [
+          "University of California Berkeley."
+        ]
+      },
+      {
+        "full_name": "Nagle, Roma",
+        "short_name": "Nagle R",
+        "identifiers": [],
+        "affiliations": [
+          "University of California Berkeley."
+        ]
+      },
+      {
+        "full_name": "Rajinikanth, Agni",
+        "short_name": "Rajinikanth A",
+        "identifiers": [],
+        "affiliations": [
+          "University of California Berkeley."
+        ]
+      },
+      {
+        "full_name": "Meredith, Charlotte",
+        "short_name": "Meredith C",
+        "identifiers": [],
+        "affiliations": [
+          "University of California Berkeley."
+        ]
+      },
+      {
+        "full_name": "Garuadapuri, Dimple A",
+        "short_name": "Garuadapuri DA",
+        "identifiers": [],
+        "affiliations": [
+          "University of California Berkeley."
+        ]
+      },
+      {
+        "full_name": "Doudna, Jennifer",
+        "short_name": "Doudna J",
+        "identifiers": [
+          "0000-0001-9161-999X"
+        ],
+        "affiliations": [
+          "University of California Berkeley."
+        ]
+      },
+      {
+        "full_name": "Cate, Jamie",
+        "short_name": "Cate J",
+        "identifiers": [
+          "0000-0001-5965-7902"
+        ],
+        "affiliations": [
+          "University of California Berkeley j-h-doudna-cate@berkeley.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "RNA (New York, N.Y.)"
+    ],
+    "journal_abbrev": [
+      "RNA"
+    ],
+    "pub_date": "2026 Sep 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/01 23:34",
+    "fetched_at": "2026-09-08 12:10:34"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42680564",
+      "40654677",
+      "42475469",
+      "42015301",
+      "35490852",
+      "36304289",
+      "36801945",
+      "33384721",
+      "31191603",
+      "41278894",
+      "41739924",
+      "41513406",
+      "38552946",
+      "37487383",
+      "41310253",
+      "30075707",
+      "37096592",
+      "37068100",
+      "38648189",
+      "31776342",
+      "34792173",
+      "30985027",
+      "39795988",
+      "23617269",
+      "40762404",
+      "39775239",
+      "36982795",
+      "42635124",
+      "40530692",
+      "33742454",
+      "41650708",
+      "25748534",
+      "39317944",
+      "22759616",
+      "32603341",
+      "26170232",
+      "38855913",
+      "38352531",
+      "21507242",
+      "30886627",
+      "40828572",
+      "42094469",
+      "42079733",
+      "40593483",
+      "38048895",
+      "39341115",
+      "40778521",
+      "41201924",
+      "39653054",
+      "39581872",
+      "28361672",
+      "24884954",
+      "29989089",
+      "34215564",
+      "34496763",
+      "41755596",
+      "31918654",
+      "40309751",
+      "42658941",
+      "34857774",
+      "38026835",
+      "40952788",
+      "42239184",
+      "22296803",
+      "40183298",
+      "41822751",
+      "19933322",
+      "38358972",
+      "37321965",
+      "35692094",
+      "35164295",
+      "37232359",
+      "36794291",
+      "24564983",
+      "39858443",
+      "22135038",
+      "37881622",
+      "40268235",
+      "33704363",
+      "31032840",
+      "39983363",
+      "35999499",
+      "22239168",
+      "39587231",
+      "39350066",
+      "41600484",
+      "39295942",
+      "33135044",
+      "40594473",
+      "34291486",
+      "31856666",
+      "33574226",
+      "38148272",
+      "22224407",
+      "35748706",
+      "41577452",
+      "41165252",
+      "38917327",
+      "40474184",
+      "39020005"
+    ],
+    "review": [
+      "42680564",
+      "41513406",
+      "37096592",
+      "41650708",
+      "41755596",
+      "35692094",
+      "37232359",
+      "39983363"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "http://rnajournal.cshlp.org/lookup/pmidlookup?view=long&pmid=42680564",
+        "provider": "HighWire",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

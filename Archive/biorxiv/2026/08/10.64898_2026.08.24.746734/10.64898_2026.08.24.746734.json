@@ -1,0 +1,91 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.08.24.746734",
+  "title": "Evaluating the performance of splicing predictors on thousands of synthetic gene variants",
+  "doi": "10.64898/2026.08.24.746734",
+  "abstract": "Computational predictors of RNA splicing are increasingly used to interpret genetic variants and to design synthetic genes, yet they are almost always benchmarked on endogenous human sequences closely related to their training data. Whether their performance reflects genuine recognition of splicing signals, or instead exploits statistical features of natural genomes such as conservation and exon–intron composition, remains unclear. Here we benchmark eleven splicing predictors on thousands of synthetic GFP variants that are heavily recoded and dissimilar from any training data, using long-read sequencing to measure splicing directly at each position. Despite this distribution shift, modern deep-learning predictors retained strong performance, and the resulting ranking was largely stable across position-level and construct-level benchmarks. SpliceTransformer ranked highest, followed by AlphaGenome and SpliceAI. Tools that ignore long-range sequence context performed substantially worse, largely because they assign high scores to many non-spliced positions. This ranking broadly agrees with benchmarks on endogenous variants, indicating that the leading models capture transferable, sequence-intrinsic determinants of splicing. We further provide a unified calibration that maps each predictor’s scores onto the measured fraction of spliced reads, allowing scores to be interpreted as splicing outcomes and compared directly between tools. Our results show that current deep-learning models generalise beyond natural genomes and provide a practical framework for splicing-aware sequence design.",
+  "authors": [
+    "Bellido Molias F",
+    "Kudla G"
+  ],
+  "published_date": "2026-08-27",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.08.24.746734",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.08.24.746734.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1307920",
+    "raw_record": {
+      "id": "PPR1307920",
+      "source": "PPR",
+      "doi": "10.64898/2026.08.24.746734",
+      "title": "Evaluating the performance of splicing predictors on thousands of synthetic gene variants",
+      "authorString": "Bellido Molias F, Kudla G.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Bellido Molias F",
+            "firstName": "Fernando",
+            "lastName": "Bellido Molias",
+            "initials": "F"
+          },
+          {
+            "fullName": "Kudla G",
+            "firstName": "Grzegorz",
+            "lastName": "Kudla",
+            "initials": "G"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Computational predictors of RNA splicing are increasingly used to interpret genetic variants and to design synthetic genes, yet they are almost always benchmarked on endogenous human sequences closely related to their training data. Whether their performance reflects genuine recognition of splicing signals, or instead exploits statistical features of natural genomes such as conservation and exon–intron composition, remains unclear. Here we benchmark eleven splicing predictors on thousands of synthetic GFP variants that are heavily recoded and dissimilar from any training data, using long-read sequencing to measure splicing directly at each position. Despite this distribution shift, modern deep-learning predictors retained strong performance, and the resulting ranking was largely stable across position-level and construct-level benchmarks. SpliceTransformer ranked highest, followed by AlphaGenome and SpliceAI. Tools that ignore long-range sequence context performed substantially worse, largely because they assign high scores to many non-spliced positions. This ranking broadly agrees with benchmarks on endogenous variants, indicating that the leading models capture transferable, sequence-intrinsic determinants of splicing. We further provide a unified calibration that maps each predictor’s scores onto the measured fraction of spliced reads, allowing scores to be interpreted as splicing outcomes and compared directly between tools. Our results show that current deep-learning models generalise beyond natural genomes and provide a practical framework for splicing-aware sequence design.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.08.24.746734"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-08-29",
+      "firstIndexDate": "2026-08-30",
+      "firstPublicationDate": "2026-08-27"
+    }
+  }
+}

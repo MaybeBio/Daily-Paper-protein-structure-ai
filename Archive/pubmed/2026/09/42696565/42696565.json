@@ -1,0 +1,411 @@
+{
+  "identity": {
+    "pmid": "42696565",
+    "doi": "10.1126/sciadv.aee9222",
+    "title": "The fitness landscape of a form II rubisco in a photosynthetic bacterium guides engineering of oxygen tolerance."
+  },
+  "content": {
+    "abstract": "Ribulose-1,5-bisphosphate carboxylase/oxygenase (rubisco) is an important but challenging protein engineering target. Fast and selective rubiscos could enhance photosynthesis in plants and accelerate biobased production processes. To facilitate engineering of rubisco, we applied an in vivo screen that couples rubisco activity to growth rate of the photoautotrophic cyanobacterium Synechocystis sp. PCC 6803. We screened a barcoded mutagenesis library of the form II rubisco from Gallionella sp. containing 15,000 single-site and multi-site variants. Exchanges in loop 6 near the active site, at the dimer interface, and in potential gas tunnels improved rubisco fitness. The dataset also informed protein engineering, using recombination and a trained transformer model. In vitro characterisation of two high-fitness variants showed reduced catalytic efficiency for oxygenation (k(cat)/K(o)) in both and an increased carboxylation turnover (k(cat)(C)) in one. This large labeled fitness dataset, containing examples of epistasis, can be useful for benchmarking computational models of rubisco.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Ribulose-Bisphosphate Carboxylase/genetics/metabolism/chemistry",
+      "*Oxygen/metabolism",
+      "*Photosynthesis",
+      "*Synechocystis/genetics/enzymology/metabolism",
+      "*Protein Engineering",
+      "Models, Molecular",
+      "Catalytic Domain"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Hoffmann, Ute A",
+        "Knave, Axel F",
+        "Schuppe, Anna Z",
+        "Capo-Bauca, Sebastia",
+        "Aguilo Nicolau, Pere",
+        "Schriever, Karen",
+        "Karlsson, Anna",
+        "Russo, Michele",
+        "Sporre, Emil",
+        "Matsuda, Mami",
+        "Miao, Rui",
+        "Hasunuma, Tomohisa",
+        "Galmes, Jeroni",
+        "Syren, Per-Olof",
+        "Hudson, Elton P"
+      ],
+      "short_names": [
+        "Hoffmann UA",
+        "Knave AF",
+        "Schuppe AZ",
+        "Capo-Bauca S",
+        "Aguilo Nicolau P",
+        "Schriever K",
+        "Karlsson A",
+        "Russo M",
+        "Sporre E",
+        "Matsuda M",
+        "Miao R",
+        "Hasunuma T",
+        "Galmes J",
+        "Syren PO",
+        "Hudson EP"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-9658-2695",
+        "ORCID: 0009-0002-4143-9979",
+        "ORCID: 0009-0005-8564-1636",
+        "ORCID: 0000-0002-1679-7910",
+        "ORCID: 0000-0002-6503-6691",
+        "ORCID: 0000-0002-3677-5508",
+        "ORCID: 0009-0003-1867-5698",
+        "ORCID: 0000-0001-7410-8450",
+        "ORCID: 0000-0003-4105-7567",
+        "ORCID: 0000-0003-2911-6886",
+        "ORCID: 0000-0002-8382-2362",
+        "ORCID: 0000-0002-7299-9349",
+        "ORCID: 0000-0002-4066-2776",
+        "ORCID: 0000-0003-1899-7649"
+      ],
+      "affiliations": [
+        "School of Engineering Sciences in Chemistry, Biotechnology and Health, Science for Life Laboratory, KTH - Royal Institute of Technology; Stockholm, Sweden.",
+        "School of Engineering Sciences in Chemistry, Biotechnology and Health, Science for Life Laboratory, KTH - Royal Institute of Technology; Stockholm, Sweden.",
+        "School of Engineering Sciences in Chemistry, Biotechnology and Health, Science for Life Laboratory, KTH - Royal Institute of Technology; Stockholm, Sweden.",
+        "Research Group on Plant Biology under Mediterranean Conditions, Universitat de les Illes Balears - INAGEA, Palma, Balearic Islands, Spain.",
+        "Research Group on Plant Biology under Mediterranean Conditions, Universitat de les Illes Balears - INAGEA, Palma, Balearic Islands, Spain.",
+        "School of Engineering Sciences in Chemistry, Biotechnology and Health, Science for Life Laboratory, KTH - Royal Institute of Technology; Stockholm, Sweden.",
+        "School of Engineering Sciences in Chemistry, Biotechnology and Health, Science for Life Laboratory, KTH - Royal Institute of Technology; Stockholm, Sweden.",
+        "School of Engineering Sciences in Chemistry, Biotechnology and Health, Science for Life Laboratory, KTH - Royal Institute of Technology; Stockholm, Sweden.",
+        "School of Engineering Sciences in Chemistry, Biotechnology and Health, Science for Life Laboratory, KTH - Royal Institute of Technology; Stockholm, Sweden.",
+        "Graduate School of Science, Technology and Innovation, Kobe University, Kobe, Japan.",
+        "School of Engineering Sciences in Chemistry, Biotechnology and Health, Science for Life Laboratory, KTH - Royal Institute of Technology; Stockholm, Sweden.",
+        "Graduate School of Science, Technology and Innovation, Kobe University, Kobe, Japan.",
+        "Research Group on Plant Biology under Mediterranean Conditions, Universitat de les Illes Balears - INAGEA, Palma, Balearic Islands, Spain.",
+        "School of Engineering Sciences in Chemistry, Biotechnology and Health, Science for Life Laboratory, KTH - Royal Institute of Technology; Stockholm, Sweden.",
+        "School of Engineering Sciences in Chemistry, Biotechnology and Health, Science for Life Laboratory, KTH - Royal Institute of Technology; Stockholm, Sweden."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Hoffmann, Ute A",
+        "short_name": "Hoffmann UA",
+        "identifiers": [
+          "0000-0002-9658-2695"
+        ],
+        "affiliations": [
+          "School of Engineering Sciences in Chemistry, Biotechnology and Health, Science for Life Laboratory, KTH - Royal Institute of Technology; Stockholm, Sweden."
+        ]
+      },
+      {
+        "full_name": "Knave, Axel F",
+        "short_name": "Knave AF",
+        "identifiers": [
+          "0009-0002-4143-9979"
+        ],
+        "affiliations": [
+          "School of Engineering Sciences in Chemistry, Biotechnology and Health, Science for Life Laboratory, KTH - Royal Institute of Technology; Stockholm, Sweden."
+        ]
+      },
+      {
+        "full_name": "Schuppe, Anna Z",
+        "short_name": "Schuppe AZ",
+        "identifiers": [
+          "0009-0005-8564-1636"
+        ],
+        "affiliations": [
+          "School of Engineering Sciences in Chemistry, Biotechnology and Health, Science for Life Laboratory, KTH - Royal Institute of Technology; Stockholm, Sweden."
+        ]
+      },
+      {
+        "full_name": "Capó-Bauçà, Sebastià",
+        "short_name": "Capó-Bauçà S",
+        "identifiers": [
+          "0000-0002-1679-7910"
+        ],
+        "affiliations": [
+          "Research Group on Plant Biology under Mediterranean Conditions, Universitat de les Illes Balears - INAGEA, Palma, Balearic Islands, Spain."
+        ]
+      },
+      {
+        "full_name": "Aguiló Nicolau, Pere",
+        "short_name": "Aguiló Nicolau P",
+        "identifiers": [
+          "0000-0002-6503-6691"
+        ],
+        "affiliations": [
+          "Research Group on Plant Biology under Mediterranean Conditions, Universitat de les Illes Balears - INAGEA, Palma, Balearic Islands, Spain."
+        ]
+      },
+      {
+        "full_name": "Schriever, Karen",
+        "short_name": "Schriever K",
+        "identifiers": [
+          "0000-0002-3677-5508"
+        ],
+        "affiliations": [
+          "School of Engineering Sciences in Chemistry, Biotechnology and Health, Science for Life Laboratory, KTH - Royal Institute of Technology; Stockholm, Sweden."
+        ]
+      },
+      {
+        "full_name": "Karlsson, Anna",
+        "short_name": "Karlsson A",
+        "identifiers": [
+          "0009-0003-1867-5698"
+        ],
+        "affiliations": [
+          "School of Engineering Sciences in Chemistry, Biotechnology and Health, Science for Life Laboratory, KTH - Royal Institute of Technology; Stockholm, Sweden."
+        ]
+      },
+      {
+        "full_name": "Russo, Michele",
+        "short_name": "Russo M",
+        "identifiers": [
+          "0000-0001-7410-8450"
+        ],
+        "affiliations": [
+          "School of Engineering Sciences in Chemistry, Biotechnology and Health, Science for Life Laboratory, KTH - Royal Institute of Technology; Stockholm, Sweden."
+        ]
+      },
+      {
+        "full_name": "Sporre, Emil",
+        "short_name": "Sporre E",
+        "identifiers": [
+          "0000-0003-4105-7567"
+        ],
+        "affiliations": [
+          "School of Engineering Sciences in Chemistry, Biotechnology and Health, Science for Life Laboratory, KTH - Royal Institute of Technology; Stockholm, Sweden."
+        ]
+      },
+      {
+        "full_name": "Matsuda, Mami",
+        "short_name": "Matsuda M",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate School of Science, Technology and Innovation, Kobe University, Kobe, Japan."
+        ]
+      },
+      {
+        "full_name": "Miao, Rui",
+        "short_name": "Miao R",
+        "identifiers": [
+          "0000-0003-2911-6886"
+        ],
+        "affiliations": [
+          "School of Engineering Sciences in Chemistry, Biotechnology and Health, Science for Life Laboratory, KTH - Royal Institute of Technology; Stockholm, Sweden."
+        ]
+      },
+      {
+        "full_name": "Hasunuma, Tomohisa",
+        "short_name": "Hasunuma T",
+        "identifiers": [
+          "0000-0002-8382-2362"
+        ],
+        "affiliations": [
+          "Graduate School of Science, Technology and Innovation, Kobe University, Kobe, Japan."
+        ]
+      },
+      {
+        "full_name": "Galmés, Jeroni",
+        "short_name": "Galmés J",
+        "identifiers": [
+          "0000-0002-7299-9349"
+        ],
+        "affiliations": [
+          "Research Group on Plant Biology under Mediterranean Conditions, Universitat de les Illes Balears - INAGEA, Palma, Balearic Islands, Spain."
+        ]
+      },
+      {
+        "full_name": "Syrén, Per-Olof",
+        "short_name": "Syrén PO",
+        "identifiers": [
+          "0000-0002-4066-2776"
+        ],
+        "affiliations": [
+          "School of Engineering Sciences in Chemistry, Biotechnology and Health, Science for Life Laboratory, KTH - Royal Institute of Technology; Stockholm, Sweden."
+        ]
+      },
+      {
+        "full_name": "Hudson, Elton P",
+        "short_name": "Hudson EP",
+        "identifiers": [
+          "0000-0003-1899-7649"
+        ],
+        "affiliations": [
+          "School of Engineering Sciences in Chemistry, Biotechnology and Health, Science for Life Laboratory, KTH - Royal Institute of Technology; Stockholm, Sweden."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Science advances"
+    ],
+    "journal_abbrev": [
+      "Sci Adv"
+    ],
+    "pub_date": "2026 Sep 4",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/04 17:40",
+    "fetched_at": "2026-09-08 12:10:34"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42696565",
+      "40622942",
+      "21551078",
+      "31337726",
+      "30845802",
+      "15937184",
+      "19705820",
+      "40587785",
+      "23153764",
+      "24942737",
+      "29468130",
+      "19279009",
+      "26926260",
+      "40334426",
+      "28154188",
+      "25558973",
+      "34623388",
+      "28986448",
+      "31658746",
+      "35377491",
+      "12781765",
+      "21172830",
+      "40708246",
+      "42093082",
+      "24014091",
+      "27273261",
+      "40926002",
+      "18004873",
+      "36471570",
+      "20424165",
+      "35849331",
+      "29510212",
+      "24495214",
+      "19661266",
+      "18484948",
+      "42321205",
+      "36055563",
+      "25371207",
+      "21849620",
+      "18855361",
+      "19734149",
+      "27406782",
+      "12591867",
+      "12220629",
+      "27328433",
+      "11751824",
+      "18417482",
+      "37127263",
+      "36094849",
+      "18281717",
+      "25231869",
+      "28108864",
+      "16741604",
+      "41003756",
+      "17074752",
+      "12857837",
+      "31712424",
+      "29925588",
+      "39094246",
+      "10049390",
+      "39836073",
+      "36227987",
+      "32948656",
+      "32636267",
+      "32882392",
+      "8278543",
+      "24870149",
+      "17391103",
+      "19760261",
+      "16282373",
+      "28976010",
+      "8702495",
+      "23292343",
+      "12781766",
+      "21745478",
+      "26511314",
+      "40056853",
+      "23295478",
+      "16737967",
+      "42184721",
+      "14734540",
+      "27261087",
+      "28125284",
+      "20142476",
+      "40443069",
+      "17925403",
+      "15893668",
+      "18072944",
+      "9820816",
+      "18403380",
+      "23162118",
+      "34445230",
+      "12781767",
+      "19233903",
+      "11866526",
+      "39630060",
+      "11114203",
+      "25113451",
+      "10858441",
+      "24861241"
+    ],
+    "review": [
+      "42696565",
+      "34623388",
+      "12781765",
+      "35849331",
+      "36055563",
+      "18417482",
+      "37127263",
+      "18281717",
+      "41003756",
+      "28976010",
+      "12781766",
+      "40056853",
+      "28125284",
+      "23162118"
+    ],
+    "pmc": [
+      "13544237"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https:///www.science.org/doi/10.1126/sciadv.aee9222?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42696565/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-472",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

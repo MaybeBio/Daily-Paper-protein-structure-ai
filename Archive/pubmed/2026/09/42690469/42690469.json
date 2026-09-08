@@ -1,0 +1,239 @@
+{
+  "identity": {
+    "pmid": "42690469",
+    "doi": "10.1007/s10822-026-00936-w",
+    "title": "Stable simulations do not guarantee functional engagement: a case study of off-target prediction for Seladelpar and Zanamivir."
+  },
+  "content": {
+    "abstract": "Identifying off-target interactions of approved drugs is important to anticipate side effects and uncover repurposing opportunities. Computational pipelines combining structural homology, structure prediction, and molecular dynamics (MD) simulations offer a promising strategy, but it remains unclear whether stable, control-like MD trajectories reliably indicate functional engagement. We examined this in a case study of two approved drugs. Using the Evolutionary Classification of Protein Domains (ECOD) framework to select candidate off-targets, we modeled each drug-protein complex as two independent AlphaFold3 models and simulated both by MD, for Seladelpar (a PPARdelta agonist) and Zanamivir, an influenza neuraminidase inhibitor that also inhibits human Sialidase-2 (NEU2). Candidates were ranked by the similarity of global MD descriptors to the on-target control. For Seladelpar, the three top-ranked candidates (FXR, RARgamma, ERRgamma) were tested experimentally; the Zanamivir set was analyzed computationally only. None showed measurable activity in reporter or thermal shift assays, despite stable simulations and descriptor values comparable to the control. Including PPARalpha and PPARgamma as weak-positive comparators, these descriptors did not rank genuine interactions closer to the control than inactive candidates. Residue-level comparison with experimental structures showed the predicted poses reproduced only part of the canonical contacts. Where experimental drug-bound structures existed, AlphaFold3 reproduced the pose for PPARalpha but not PPARgamma, and its per-model confidence did not track pose accuracy. Within this case study, the specific global descriptors examined reflect complex stability rather than functional engagement, which does not mean MD-based approaches cannot make this distinction.",
+    "keywords": [
+      "AlphaFold3",
+      "Drug repurposing",
+      "Molecular dynamics",
+      "Off-target prediction",
+      "Protein domains"
+    ],
+    "mesh_terms": [
+      "*Zanamivir/chemistry/pharmacology",
+      "*Molecular Dynamics Simulation",
+      "Humans",
+      "*Neuraminidase/antagonists & inhibitors/chemistry",
+      "*Antiviral Agents/chemistry/pharmacology",
+      "PPAR gamma/chemistry/agonists",
+      "*Enzyme Inhibitors/chemistry/pharmacology",
+      "Receptors, Retinoic Acid/chemistry"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kemp, Rachel",
+        "Kean, Thomas J",
+        "Medvedev, Kirill E"
+      ],
+      "short_names": [
+        "Kemp R",
+        "Kean TJ",
+        "Medvedev KE"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-7982-4242"
+      ],
+      "affiliations": [
+        "Biionix (Bionic Materials, Implants and Interfaces) Cluster, Department of Medicine, University of Central Florida College of Medicine, Orlando, FL, 32826, USA.",
+        "Burnett School of Biomedical Sciences, University of Central Florida, Orlando, FL, 32827, USA.",
+        "Biionix (Bionic Materials, Implants and Interfaces) Cluster, Department of Medicine, University of Central Florida College of Medicine, Orlando, FL, 32826, USA.",
+        "Department of Computer Science, University of Central Florida, Orlando, FL, 32816, USA. Kirill.Medvedev@ucf.edu.",
+        "Genomics & Bioinformatics Cluster, University of Central Florida, Orlando, FL, 32816, USA. Kirill.Medvedev@ucf.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kemp, Rachel",
+        "short_name": "Kemp R",
+        "identifiers": [],
+        "affiliations": [
+          "Biionix (Bionic Materials, Implants and Interfaces) Cluster, Department of Medicine, University of Central Florida College of Medicine, Orlando, FL, 32826, USA.",
+          "Burnett School of Biomedical Sciences, University of Central Florida, Orlando, FL, 32827, USA."
+        ]
+      },
+      {
+        "full_name": "Kean, Thomas J",
+        "short_name": "Kean TJ",
+        "identifiers": [],
+        "affiliations": [
+          "Biionix (Bionic Materials, Implants and Interfaces) Cluster, Department of Medicine, University of Central Florida College of Medicine, Orlando, FL, 32826, USA."
+        ]
+      },
+      {
+        "full_name": "Medvedev, Kirill E",
+        "short_name": "Medvedev KE",
+        "identifiers": [
+          "0000-0002-7982-4242"
+        ],
+        "affiliations": [
+          "Department of Computer Science, University of Central Florida, Orlando, FL, 32816, USA. Kirill.Medvedev@ucf.edu.",
+          "Genomics & Bioinformatics Cluster, University of Central Florida, Orlando, FL, 32816, USA. Kirill.Medvedev@ucf.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of computer-aided molecular design"
+    ],
+    "journal_abbrev": [
+      "J Comput Aided Mol Des"
+    ],
+    "pub_date": "2026 Sep 3",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/03 17:36",
+    "fetched_at": "2026-09-08 12:10:34"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42690469",
+      "42475469",
+      "24564719",
+      "19780597",
+      "28155702",
+      "24055835",
+      "37640004",
+      "28820938",
+      "21193941",
+      "21693105",
+      "23429702",
+      "30389293",
+      "27654293",
+      "22574858",
+      "9526556",
+      "29903413",
+      "29149072",
+      "41274115",
+      "21922291",
+      "40085404",
+      "25627548",
+      "18175324",
+      "42678456",
+      "34369311",
+      "41108225",
+      "23912807",
+      "27487569",
+      "23695381",
+      "32947893",
+      "42324169",
+      "40733589",
+      "42685053",
+      "22807317",
+      "42043606",
+      "23330908",
+      "24356381",
+      "27951676",
+      "23267831",
+      "24941871",
+      "21870866",
+      "20740680",
+      "20420444",
+      "32120300",
+      "39639531",
+      "30910698",
+      "23131559",
+      "21778065",
+      "25727669",
+      "29964260",
+      "16535861",
+      "24015302",
+      "12014958",
+      "22970161",
+      "40825424",
+      "41917408",
+      "38955298",
+      "17266937",
+      "21688167",
+      "31738149",
+      "18480754",
+      "22001088",
+      "41472282",
+      "41527997",
+      "36321557",
+      "22028647",
+      "23079644",
+      "28853334",
+      "29063410",
+      "41883499",
+      "20045243",
+      "23369206",
+      "29453852",
+      "35024968",
+      "37811782",
+      "17765996",
+      "42511819",
+      "22956900",
+      "41264202",
+      "24718923",
+      "39817632",
+      "22965667",
+      "32705953",
+      "23028314",
+      "27341624",
+      "21463714",
+      "22278046",
+      "40945531",
+      "31876523",
+      "40146495",
+      "42118388",
+      "23422659",
+      "41493959",
+      "29046464",
+      "27838351",
+      "34596510",
+      "23028967",
+      "20427241",
+      "41887806",
+      "17705169",
+      "15006410"
+    ],
+    "review": [
+      "42690469",
+      "42324169",
+      "22807317",
+      "24941871",
+      "16535861",
+      "41917408",
+      "36321557",
+      "23369206",
+      "24718923"
+    ],
+    "pmc": [
+      "13541830"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42690469/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.1007/s10822-026-00936-w",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

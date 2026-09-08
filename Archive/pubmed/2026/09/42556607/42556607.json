@@ -1,0 +1,218 @@
+{
+  "identity": {
+    "pmid": "42556607",
+    "doi": "10.1016/j.exppara.2026.109182",
+    "title": "Artificial Intelligence based identification of druggability of essential hypothetical proteins in Plasmodium falciparum."
+  },
+  "content": {
+    "abstract": "Malaria, caused by Plasmodium falciparum is a deadly disease and remains a global health concern. With the emergence of resistance to artemisinin; it is pivotal to identify potential therapeutic drug targets against malaria. This study employs the use of machine learning and computational approaches to predict the druggable protein among the  approximately 1000 essential hypothetical genes of P. falciparum. While traditional target prioritization strategies rely on either manual curation or single-parameter thresholds, neither approach is conducive to working with literally thousands of essential proteins nor can they capture non-linear relationships between several features influencing druggability. In contrast, machine learning can integrate heterogeneous descriptors such as sequence, structure, interaction, and annotation features and learn complex patterns associated with known druggable proteins, enabling scalable and more objective prediction of druggable essential hypothetical proteins. The screening criteria involved five point classification as EC number, molecular weight, PPI, orthology, and GO annotation, for which several web tools were employed. Machine learning algorithms like Decision Tree, Random Forest, SVM, Perceptron, and Logistic Regression were imputed to train the system and predict the druggable proteins using training and test data set accordingly, in the ratio of 70:30. Along with accuracy scores, ROC-AUC curve was generated for better visual representation. The study reported nine proteins as druggable. Furthermore, assignment of a normalized weighted score for each criterion to prepare a ranked list of putative drug targets identified PfCERLI1 as prioritized drug target. Additionally, the target protein structure obtained from AlphaFold was refined and underwent quality checking using Galaxy WEB and SAVES meta-server respectively. Schrodinger Glide was employed for molecular docking of the target protein with phytochemical ligand dataset, reported AD34 (Anthraquinone) as the best inhibitor with a binding affinity score of -13.05 kcal/mol. Molecular Dynamics(MD) simulation study of the protein-ligand complex for 100ns revealed the presence of hydrogen bond between the inhibitor and the active site residues Leu147 and Thr224 throughput the simulation time-frame. The above study proposed, PfCERLI1, as the novel essential hypothetical protein of P. falciparum for therapeutic intervention study in future.",
+    "keywords": [
+      "Essential hypothetical proteins",
+      "Machine learning algorithms",
+      "Molecular docking",
+      "Molecular dynamics simulation",
+      "P. falciparum"
+    ],
+    "mesh_terms": [
+      "*Plasmodium falciparum/drug effects/genetics/chemistry",
+      "*Artificial Intelligence",
+      "*Protozoan Proteins/chemistry/genetics/drug effects",
+      "Machine Learning",
+      "*Antimalarials/pharmacology/chemistry",
+      "Prediction Algorithms",
+      "ROC Curve",
+      "Random Forest",
+      "Classification Algorithms",
+      "Logistic Models"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ray, Muskan",
+        "Dash, Satya Ranjan",
+        "Mahapatra, Rajani Kanta"
+      ],
+      "short_names": [
+        "Ray M",
+        "Dash SR",
+        "Mahapatra RK"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Biotechnology, KIIT Deemed to be University, Bhubaneswar, Odisha, 751024, India.",
+        "School of Computer Application, KIIT Deemed to be University, Bhubaneswar, Odisha, 751024, India.",
+        "School of Biotechnology, KIIT Deemed to be University, Bhubaneswar, Odisha, 751024, India. Electronic address: rmahapatra@kiitbiotech.ac.in."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ray, Muskan",
+        "short_name": "Ray M",
+        "identifiers": [],
+        "affiliations": [
+          "School of Biotechnology, KIIT Deemed to be University, Bhubaneswar, Odisha, 751024, India."
+        ]
+      },
+      {
+        "full_name": "Dash, Satya Ranjan",
+        "short_name": "Dash SR",
+        "identifiers": [],
+        "affiliations": [
+          "School of Computer Application, KIIT Deemed to be University, Bhubaneswar, Odisha, 751024, India."
+        ]
+      },
+      {
+        "full_name": "Mahapatra, Rajani Kanta",
+        "short_name": "Mahapatra RK",
+        "identifiers": [],
+        "affiliations": [
+          "School of Biotechnology, KIIT Deemed to be University, Bhubaneswar, Odisha, 751024, India. Electronic address: rmahapatra@kiitbiotech.ac.in."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Experimental parasitology"
+    ],
+    "journal_abbrev": [
+      "Exp Parasitol"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/08/06 11:36",
+    "fetched_at": "2026-09-08 12:11:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42556607",
+      "40216665",
+      "34344361",
+      "36321557",
+      "21277861",
+      "34968763",
+      "41713229",
+      "32655067",
+      "28755265",
+      "42380674",
+      "28595540",
+      "34884870",
+      "41054392",
+      "42475469",
+      "18500983",
+      "21843142",
+      "39585817",
+      "29132266",
+      "40263231",
+      "17879344",
+      "40915500",
+      "33256744",
+      "41957161",
+      "39402081",
+      "25486552",
+      "40591878",
+      "41752016",
+      "40808285",
+      "40708012",
+      "32471245",
+      "38805932",
+      "22446744",
+      "30056475",
+      "42080442",
+      "34944394",
+      "39727019",
+      "30544005",
+      "23995310",
+      "40288672",
+      "40356391",
+      "41121360",
+      "36298508",
+      "40946223",
+      "18997863",
+      "33426052",
+      "37943000",
+      "34066964",
+      "40512986",
+      "25336726",
+      "39145352",
+      "40504848",
+      "38498364",
+      "33247522",
+      "38260445",
+      "40113723",
+      "27650666",
+      "26984239",
+      "33385575",
+      "40839929",
+      "38686916",
+      "41656803",
+      "42185454",
+      "23419172",
+      "34702263",
+      "37599462",
+      "42286075",
+      "40837276",
+      "41671946",
+      "24970047",
+      "27449897",
+      "40107212",
+      "25869381",
+      "23555651",
+      "36606151",
+      "42510941",
+      "32383851",
+      "35444689",
+      "26099491",
+      "23061985",
+      "38217317",
+      "38709067",
+      "32171238",
+      "41703488",
+      "41004222",
+      "42068230",
+      "41780347",
+      "40593894",
+      "23859267",
+      "23998890",
+      "36201724",
+      "27534744",
+      "34486667",
+      "36812293",
+      "38287768",
+      "40960592",
+      "37067430",
+      "41990100",
+      "41529257",
+      "41545932",
+      "35811673"
+    ],
+    "review": [
+      "42556607",
+      "36321557",
+      "35811673"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0014-4894(26)00089-5",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "identity": {
+    "pmid": "42603117",
+    "doi": "10.1002/pro.70770",
+    "title": "Donor-induced conformational gating and substrate-assisted catalysis in alpha-1,3-galactosyltransferase."
+  },
+  "content": {
+    "abstract": "Retaining glycosyltransferases catalyze the formation of stereochemically conserved glycosidic bonds through mechanisms that remain debated. Using bovine alpha1,3-galactosyltransferase (alpha3GalT) as a model, we combine mutagenesis, equilibrium unfolding, kinetics, and molecular dynamics simulations to understand how donor-induced loop ordering promotes catalysis. Alanine-scanning mutagenesis of the C-terminal loop (Thr358-Val368) identified Lys359, Tyr361, and Arg365 as critical for donor binding, catalysis, and ligand-dependent stabilization. In addition, D225A and E317A were inactive and showed minimal ligand-induced stabilization, consistent with impaired metal binding and substrate stabilization, respectively. Donor binding induces an ordered conformation in the C-terminus, reducing its local flexibility by 30% and pre-organizing the active site for catalysis. MD-derived energy profiles differed markedly for the donor (UDP-Gal) and acceptor (lactose) in the ternary complex. In this context, experimental apparent K(m) values indicate higher donor affinity than acceptor affinity. Our results show that donor binding stabilizes the C-terminal loop, assembling a competent complex for catalysis. These findings support a general coupling between conformational gating, donor stabilization, and the catalytic mechanism in retaining GT-A-fold enzymes.",
+    "keywords": [
+      "Galili epitope",
+      "UDP-galactose",
+      "retaining glycosyltransferases",
+      "alpha-1,3-galactosyltransferase"
+    ],
+    "mesh_terms": [
+      "*Galactosyltransferases/chemistry/genetics/metabolism",
+      "Animals",
+      "Cattle",
+      "Molecular Dynamics Simulation",
+      "Substrate Specificity",
+      "*Lactose/chemistry/metabolism",
+      "Kinetics",
+      "Protein Conformation",
+      "Catalytic Domain",
+      "*Uridine Diphosphate Galactose/chemistry/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Linares-Pasten, Javier A",
+        "Planas, Antoni"
+      ],
+      "short_names": [
+        "Linares-Pasten JA",
+        "Planas A"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-6999-6334",
+        "ORCID: 0000-0001-7073-3320"
+      ],
+      "affiliations": [
+        "Biotechnology and Applied Microbiology, Department of Process and Life Sciences Engineering, LTH, Lund University, Lund, Sweden.",
+        "Laboratory of Biochemistry, Institut Quimic de Sarria, University Ramon Llull, Barcelona, Spain.",
+        "Chemistry section, Royal Academy of Sciences and Arts of Barcelona, Barcelona, Spain."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Linares-Pastén, Javier A",
+        "short_name": "Linares-Pastén JA",
+        "identifiers": [
+          "0000-0001-6999-6334"
+        ],
+        "affiliations": [
+          "Biotechnology and Applied Microbiology, Department of Process and Life Sciences Engineering, LTH, Lund University, Lund, Sweden."
+        ]
+      },
+      {
+        "full_name": "Planas, Antoni",
+        "short_name": "Planas A",
+        "identifiers": [
+          "0000-0001-7073-3320"
+        ],
+        "affiliations": [
+          "Laboratory of Biochemistry, Institut Químic de Sarrià, University Ramon Llull, Barcelona, Spain.",
+          "Chemistry section, Royal Academy of Sciences and Arts of Barcelona, Barcelona, Spain."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Protein science : a publication of the Protein Society"
+    ],
+    "journal_abbrev": [
+      "Protein Sci"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/08/15 13:47",
+    "fetched_at": "2026-09-08 12:11:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42603117",
+      "14621997",
+      "28960760",
+      "10913140",
+      "17493636",
+      "28256109",
+      "12051854",
+      "11133981",
+      "18651752",
+      "12011052",
+      "12854954",
+      "32945815",
+      "11175908",
+      "24052259",
+      "26374898",
+      "11592969",
+      "11419947",
+      "20154292",
+      "11004566",
+      "818085",
+      "11485999",
+      "15075344",
+      "23578032",
+      "8781973",
+      "16923820",
+      "15229192",
+      "17574762",
+      "18192272",
+      "12667057",
+      "11179209",
+      "11784317",
+      "17031966",
+      "11484220",
+      "15449940",
+      "29873711",
+      "10815990",
+      "15010308",
+      "12927542",
+      "23754468",
+      "10393171",
+      "11916963",
+      "808542",
+      "29457687",
+      "10520253",
+      "18782853",
+      "39737871",
+      "3113997",
+      "952873",
+      "20655926",
+      "37589157",
+      "15987364",
+      "15010307",
+      "6243960",
+      "38066107",
+      "932002",
+      "23259770",
+      "3932335",
+      "6415060",
+      "2117606",
+      "26415846",
+      "22992161",
+      "12499401",
+      "17962295",
+      "27979997",
+      "11955055",
+      "10092863",
+      "11948877",
+      "19032152",
+      "15736931",
+      "3125179",
+      "23732289",
+      "16497331",
+      "41887360",
+      "10218835",
+      "2116309",
+      "22520506",
+      "3084477",
+      "6817787",
+      "8872127",
+      "10362841",
+      "17850816",
+      "22484394",
+      "15250687",
+      "9603985",
+      "8358745",
+      "12529355",
+      "20820649",
+      "24643241",
+      "19245254",
+      "6804462",
+      "25412209",
+      "19959475",
+      "20533489",
+      "23406460",
+      "7818542",
+      "8748165",
+      "17487984",
+      "33229435",
+      "22217153",
+      "10972138"
+    ],
+    "review": [
+      "42603117",
+      "26415846"
+    ],
+    "pmc": [
+      "13476921"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42603117/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.1002/pro.70770",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-290",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

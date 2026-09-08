@@ -1,0 +1,254 @@
+{
+  "identity": {
+    "pmid": "42259201",
+    "doi": "10.1016/j.bbrc.2026.154013",
+    "title": "Identification of zinc finger protein-related feature genes in ischemic stroke via explainable machine learning: A comprehensive analysis."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Zinc finger proteins (ZFPs) play important roles following ischemic stroke (IS), but systematic investigations into their potential as biomarkers are still lacking. METHODS: Multi-omics data were integrated with machine learning approaches. Transcriptomic data for IS were obtained from the GEO database. IS-related ZFP genes were identified through differential expression analysis, weighted gene co-expression network analysis (WGCNA), and ZFP gene set screening. Feature genes were selected using LASSO, SVM-RFE, and random forest algorithms. Causal relationships were validated using Mendelian randomization (MR), summary-data-based MR (SMR) and Bayesian colocalization analyses. The diagnostic model was validated in an external dataset. Functional mechanisms were explored via immune infiltration analysis, gene set enrichment analysis (GSEA), and single-cell sequencing (scRNA-seq). Drug screening and safety assessment were performed using deep learning, molecular docking, and phenome-wide association study (PheWAS). RESULTS: A total of 46 IS-related ZFP genes were identified. Six feature genes were selected through machine learning. SMR, TSMR, and colocalization analyses identified ZNF438 and ZNF608 as risk genes and ZNF566 as a protective gene, with colocalization further confirming shared causal variants. A diagnostic model based on these three genes performed well in both the training cohort (AUC = 0.955) and the validation cohort (AUC = 0.897). Immune infiltration analysis revealed that ZNF438 and ZNF608 were positively correlated with neutrophils, while ZNF566 showed a negative correlation. ScRNA-seq revealed their specific expression patterns in cell types. Drug screening identified 2-phenylethynesulfonamide as a compound with stable binding to the three targets, and PheWAS suggested favorable safety profiles for these targets. CONCLUSION: ZNF438, ZNF566, and ZNF608 were identified as IS-related ZFP biomarkers. The constructed model demonstrated good diagnostic performance, providing new candidate targets for molecular diagnosis and targeted therapy of IS.",
+    "keywords": [
+      "Biomarker",
+      "Ischemic stroke",
+      "Machine learning",
+      "Mendelian randomization",
+      "Multi-omics",
+      "Zinc finger protein"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Machine Learning",
+      "*Zinc Fingers/genetics",
+      "*Ischemic Stroke/genetics",
+      "Gene Expression Profiling",
+      "Molecular Docking Simulation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Yongyi",
+        "Yu, Zhehao",
+        "Huang, Ziteng",
+        "Xu, Chenting",
+        "Cao, Yingying",
+        "Sun, Zijia"
+      ],
+      "short_names": [
+        "Wang Y",
+        "Yu Z",
+        "Huang Z",
+        "Xu C",
+        "Cao Y",
+        "Sun Z"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Zhejiang Rehabilitation Medical Center (The Affiliated Rehabilitation Hospital of Zhejiang Chinese Medical University), Hangzhou, Zhejiang, 310053, China.",
+        "Children's Hospital of Nanjing Medical University, Nanjing, 210093, China.",
+        "Zhejiang Rehabilitation Medical Center (The Affiliated Rehabilitation Hospital of Zhejiang Chinese Medical University), Hangzhou, Zhejiang, 310053, China.",
+        "Zhejiang Rehabilitation Medical Center (The Affiliated Rehabilitation Hospital of Zhejiang Chinese Medical University), Hangzhou, Zhejiang, 310053, China.",
+        "Zhejiang Cancer Hospital, Hangzhou Institute of Medicine (HIM), Chinese Academy of Sciences, Hangzhou, Zhejiang, 310022, China.",
+        "Children's Hospital of Nanjing Medical University, Nanjing, 210093, China. Electronic address: szjele@126.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Yongyi",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Zhejiang Rehabilitation Medical Center (The Affiliated Rehabilitation Hospital of Zhejiang Chinese Medical University), Hangzhou, Zhejiang, 310053, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Zhehao",
+        "short_name": "Yu Z",
+        "identifiers": [],
+        "affiliations": [
+          "Children's Hospital of Nanjing Medical University, Nanjing, 210093, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Ziteng",
+        "short_name": "Huang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Zhejiang Rehabilitation Medical Center (The Affiliated Rehabilitation Hospital of Zhejiang Chinese Medical University), Hangzhou, Zhejiang, 310053, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Chenting",
+        "short_name": "Xu C",
+        "identifiers": [],
+        "affiliations": [
+          "Zhejiang Rehabilitation Medical Center (The Affiliated Rehabilitation Hospital of Zhejiang Chinese Medical University), Hangzhou, Zhejiang, 310053, China."
+        ]
+      },
+      {
+        "full_name": "Cao, Yingying",
+        "short_name": "Cao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Zhejiang Cancer Hospital, Hangzhou Institute of Medicine (HIM), Chinese Academy of Sciences, Hangzhou, Zhejiang, 310022, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Zijia",
+        "short_name": "Sun Z",
+        "identifiers": [],
+        "affiliations": [
+          "Children's Hospital of Nanjing Medical University, Nanjing, 210093, China. Electronic address: szjele@126.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biochemical and biophysical research communications"
+    ],
+    "journal_abbrev": [
+      "Biochem Biophys Res Commun"
+    ],
+    "pub_date": "2026 Aug 27",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/06/09 00:34",
+    "fetched_at": "2026-09-08 12:12:00"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42259201",
+      "41703488",
+      "40207230",
+      "41214111",
+      "42015036",
+      "41415264",
+      "42123756",
+      "41611834",
+      "41879435",
+      "42074514",
+      "42236612",
+      "40618698",
+      "42292668",
+      "40588645",
+      "42024670",
+      "41388523",
+      "38897129",
+      "41013556",
+      "37891634",
+      "40453984",
+      "42326009",
+      "41136974",
+      "42305536",
+      "41333919",
+      "41200172",
+      "40148470",
+      "39478056",
+      "41772215",
+      "41988156",
+      "41665627",
+      "39142001",
+      "38649912",
+      "42004467",
+      "40340571",
+      "40119397",
+      "39375405",
+      "38371524",
+      "42267557",
+      "39370621",
+      "42100491",
+      "41479901",
+      "41484731",
+      "41432483",
+      "42363518",
+      "41991682",
+      "41773807",
+      "39862324",
+      "39923303",
+      "40822862",
+      "38650649",
+      "42343898",
+      "40097519",
+      "41080564",
+      "42195052",
+      "42269260",
+      "39396400",
+      "41107929",
+      "41733593",
+      "39139563",
+      "42123445",
+      "40350654",
+      "42292364",
+      "41191606",
+      "41052072",
+      "41189212",
+      "40916281",
+      "40311696",
+      "38951833",
+      "41461777",
+      "41436831",
+      "39541897",
+      "42193325",
+      "42043654",
+      "41291841",
+      "42292468",
+      "42351206",
+      "40611294",
+      "38518057",
+      "41924281",
+      "41699549",
+      "42051519",
+      "41933744",
+      "41340073",
+      "39717623",
+      "42303913",
+      "41721886",
+      "40406126",
+      "41257259",
+      "41671621",
+      "40957961",
+      "40374840",
+      "41112249",
+      "42158856",
+      "36532015",
+      "41601671",
+      "41324863",
+      "40681713",
+      "40313958",
+      "41822387",
+      "41895505"
+    ],
+    "review": [
+      "42259201",
+      "41665627"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0006-291X(26)00777-1",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/ischemicstroke.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Ischemic Stroke"
+      }
+    ],
+    "text_mined": []
+  }
+}

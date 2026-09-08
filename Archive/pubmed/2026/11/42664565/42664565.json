@@ -1,0 +1,266 @@
+{
+  "identity": {
+    "pmid": "42664565",
+    "doi": "10.1016/j.jmgm.2026.109553",
+    "title": "Targeting the c-Myb-CBP/p300 KIX protein-protein interaction with quinone-methide triterpenes: In silico mechanistic insights and MST biochemical validation."
+  },
+  "content": {
+    "abstract": "The interaction between the transcription factor c-Myb and the CBP/p300 KIX domain is a key regulatory event in transcriptional programs associated with hematologic malignancies, including acute myeloid leukemia, and therefore represents an attractive target for protein-protein interaction (PPI) disruption. In this study, we applied an integrated computational and experimental workflow to identify new quinone-methide triterpenes capable of perturbing the c-Myb-CBP/p300 KIX interface. Using the c-Myb-bound KIX conformation derived from PDB:2AGH as the structural template, a library of 457 quinone-methide-triterpenes was subjected to funnel-based virtual screening. This workflow prioritized isoiguesterin, pristimerin, and tingenone for detailed evaluation. Subsequent 500ns MD simulations revealed distinct ligand-dependent effects on interfacial stability and conformational dynamics. DeltaDeltaG(PPI) analysis showed that tingenone produced the strongest predicted weakening of the c-Myb-KIX interaction (+2.31 kcal/mol), whereas pristimerin had only a marginal disruptive effect (+0.28 kcal/mol) and isoiguesterin instead favored stabilization of the complex (-5.18 kcal/mol). Consistently, free-energy-landscape (FEL) analysis showed that tingenone induced the most heterogeneous conformational ensemble with multiple low-energy basins, while isoiguesterin and Naphthol-AS-E-phosphate favored more restricted low-energy states. Although isoiguesterin showed the most favorable direct binding energetics, it tended to stabilize or compact the interface. Pristimerin displayed an intermediate profile. In contrast, tingenone produced the clearest signatures of interfacial weakening and the most favorable disruption metrics. Experimental validation by microscale thermophoresis (MST) confirmed the direct Myb-KIX interaction (K(d) = 28.49 +/- 2.32 muM) and showed that tingenone was the most potent inhibitor among the tested triterpenes (IC(50) = 23.6 +/- 3.0 muM), outperforming the reference disruptor Naphthol-AS-E-phosphate (IC(50) = 29.0 +/- 1.6 muM). These findings identify tingenone as a promising scaffold for the development of new c-Myb-CBP/p300 KIX PPI inhibitors.",
+    "keywords": [
+      "CBP/p300 KIX",
+      "Microscale thermophoresis",
+      "Protein-protein interaction inhibitors",
+      "Quinone-methide triterpenes",
+      "c-Myb"
+    ],
+    "mesh_terms": [
+      "*Triterpenes/chemistry/pharmacology",
+      "*Proto-Oncogene Proteins c-myb/chemistry/metabolism",
+      "Protein Binding",
+      "Molecular Dynamics Simulation",
+      "*p300-CBP Transcription Factors/chemistry/metabolism",
+      "Molecular Docking Simulation",
+      "Humans"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kamel, Emadeldin M",
+        "Rudayni, Hassan A",
+        "Allam, Ahmed A",
+        "Alfassam, Haifa E",
+        "Abalkhail, Adil",
+        "Aba Alkhayl, Faris F",
+        "Lamsabhi, Al Mokhtar"
+      ],
+      "short_names": [
+        "Kamel EM",
+        "Rudayni HA",
+        "Allam AA",
+        "Alfassam HE",
+        "Abalkhail A",
+        "Aba Alkhayl FF",
+        "Lamsabhi AM"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Chemistry Department, Faculty of Science, Beni-Suef University, Beni-Suef, 62514, Egypt. Electronic address: emad.abdelhameed@science.bsu.edu.eg.",
+        "Department of Biology, College of Science, Imam Mohammad Ibn Saud Islamic University (IMSIU), Riyadh, 11623, Saudi Arabia.",
+        "Department of Biology, College of Science, Imam Mohammad Ibn Saud Islamic University (IMSIU), Riyadh, 11623, Saudi Arabia.",
+        "Department of Biology, College of Science, Princess Nourah bint Abdulrahman University, P.O. BOX 84428, Riyadh, 11671, Saudi Arabia.",
+        "Department of Public Health, College of Applied Medical Sciences, Qassim University, Buraydah, Saudi Arabia.",
+        "Department of Medical Laboratories, College of Applied Medical Sciences, Qassim University, Buraydah, 51452, Saudi Arabia.",
+        "Departamento de Quimica and Institute for Advanced Research in Chemical Science (IAdChem), Facultad de Ciencias, Modulo 13, Universidad Autonoma de Madrid, Madrid, 28049, Spain."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kamel, Emadeldin M",
+        "short_name": "Kamel EM",
+        "identifiers": [],
+        "affiliations": [
+          "Chemistry Department, Faculty of Science, Beni-Suef University, Beni-Suef, 62514, Egypt. Electronic address: emad.abdelhameed@science.bsu.edu.eg."
+        ]
+      },
+      {
+        "full_name": "Rudayni, Hassan A",
+        "short_name": "Rudayni HA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, College of Science, Imam Mohammad Ibn Saud Islamic University (IMSIU), Riyadh, 11623, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Allam, Ahmed A",
+        "short_name": "Allam AA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, College of Science, Imam Mohammad Ibn Saud Islamic University (IMSIU), Riyadh, 11623, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Alfassam, Haifa E",
+        "short_name": "Alfassam HE",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, College of Science, Princess Nourah bint Abdulrahman University, P.O. BOX 84428, Riyadh, 11671, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Abalkhail, Adil",
+        "short_name": "Abalkhail A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Public Health, College of Applied Medical Sciences, Qassim University, Buraydah, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Aba Alkhayl, Faris F",
+        "short_name": "Aba Alkhayl FF",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Laboratories, College of Applied Medical Sciences, Qassim University, Buraydah, 51452, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Lamsabhi, Al Mokhtar",
+        "short_name": "Lamsabhi AM",
+        "identifiers": [],
+        "affiliations": [
+          "Departamento de Química and Institute for Advanced Research in Chemical Science (IAdChem), Facultad de Ciencias, Módulo 13, Universidad Autónoma de Madrid, Madrid, 28049, Spain."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of molecular graphics & modelling"
+    ],
+    "journal_abbrev": [
+      "J Mol Graph Model"
+    ],
+    "pub_date": "2026 Nov",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/08/28 23:34",
+    "fetched_at": "2026-09-08 12:11:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42664565",
+      "42442091",
+      "42592701",
+      "42633732",
+      "34491719",
+      "22474372",
+      "36883372",
+      "27082784",
+      "25740244",
+      "22438798",
+      "31515273",
+      "24340053",
+      "21497608",
+      "30232260",
+      "29394256",
+      "15019774",
+      "19220000",
+      "42611115",
+      "19737967",
+      "16253272",
+      "12205094",
+      "42019241",
+      "35058484",
+      "17707401",
+      "12384703",
+      "32098872",
+      "32430574",
+      "22972988",
+      "26195786",
+      "35408476",
+      "42397067",
+      "12196545",
+      "30301423",
+      "24596419",
+      "11073948",
+      "42665558",
+      "25002472",
+      "33382616",
+      "42658299",
+      "24753318",
+      "19821614",
+      "18070920",
+      "27080133",
+      "27032383",
+      "22387215",
+      "24682819",
+      "10815807",
+      "26631113",
+      "29890118",
+      "9765496",
+      "12437352",
+      "33284914",
+      "31633226",
+      "20573775",
+      "28786199",
+      "15943588",
+      "27707899",
+      "41381850",
+      "9210395",
+      "29317678",
+      "33527899",
+      "10409749",
+      "18599479",
+      "23618903",
+      "39148280",
+      "30784357",
+      "42210006",
+      "12724399",
+      "10350644",
+      "24019758",
+      "37525583",
+      "20167482",
+      "11585920",
+      "40818174",
+      "21317192",
+      "28476645",
+      "9528793",
+      "11094091",
+      "14744133",
+      "42043606",
+      "38086054",
+      "25651535",
+      "22725662",
+      "29228881",
+      "35452454",
+      "15507449",
+      "19880525",
+      "42498240",
+      "11864910",
+      "42196261",
+      "11017047",
+      "15796530",
+      "41253052",
+      "40058756",
+      "23625935",
+      "29430847",
+      "28017646",
+      "26274502",
+      "10644988",
+      "20962272"
+    ],
+    "review": [
+      "42664565",
+      "35408476",
+      "40818174"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1093-3263(26)00279-2",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1240",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "identity": {
+    "pmid": "42430983",
+    "doi": "10.1016/j.parkreldis.2026.108418",
+    "title": "Integrated multi-omics analysis identifies key microglial subpopulations and therapeutic targets in Parkinson's disease."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Parkinson's disease (PD) is a rapidly growing global health concern, with aging populations driving increasing prevalence. While neuronal degeneration is a hallmark, emerging evidence implicates chronic neuroinflammation as a key contributor to disease progression. Despite its recognized importance, the cellular sources, functional heterogeneity, and actionable mechanisms of inflammation in the human substantia nigra remain poorly understood, limiting the development of precise diagnostic biomarkers and therapeutic interventions. METHODS: We integrated single-nucleus RNA sequencing (snRNA-seq) from postmortem substantia nigra with bulk transcriptomic datasets (GSE133101, GSE7621) across multiple cohorts. Using Harmony-based batch correction, cell-type annotation, microglia-specific re-clustering (resolution = 0.1), pseudotime trajectory inference, weighted gene co-expression network analysis (WGCNA), and machine learning, we mapped the neuroinflammatory landscape of PD at single-cell resolution. Diagnostic performance was assessed via receiver operating characteristic (ROC) curve analysis (AUC >0.7), and druggable targets were prioritized through molecular docking and 100-ns molecular dynamics (MD) simulations. RESULTS: Microglia emerged as the principal immune driver of PD-associated inflammation. Six transcriptionally distinct microglial subpopulations were identified, with Micro1 enriched for antigen presentation, complement activation, and early pseudotime states. An 8-gene microglia-preferential signature (HSPA6, SERPINH1, CHORDC1, P4HA1, HSPH1, IER5, SLC38A2, and FKBP4), associated with ER stress, protein folding, and immune activation, achieved robust diagnostic performance (AUC >0.9) across cohorts. Gene set enrichment analysis revealed convergence on proteostasis and innate immune pathways, and pan-cellular activation patterns indicated a systemic, non-cell-autonomous inflammatory environment. MD simulations confirmed the structural stability of the FKBP4-SAR260301 complex, highlighting its therapeutic potential. CONCLUSIONS: By indicating microglial functional heterogeneity and defining a validated, biologically grounded diagnostic signature, this study advances the mechanistic understanding of PD neuroinflammation. This study transforms neuroinflammation from a correlative hallmark to a mechanistically actionable axis, providing an urgently needed roadmap for inflammation-informed precision medicine in PD.",
+    "keywords": [
+      "Machine learning",
+      "Microglial heterogeneity",
+      "Molecular docking",
+      "Parkinson's disease",
+      "Single-cell RNA sequencing",
+      "Weighted gene co-expression network analysis"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Microglia/metabolism/immunology",
+      "*Parkinson Disease/immunology/metabolism/genetics/drug therapy",
+      "*Substantia Nigra/metabolism",
+      "Multiomics",
+      "*Neuroinflammatory Diseases/immunology/metabolism",
+      "*Transcriptome",
+      "Single-Cell Gene Expression Analysis"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yang, Lei",
+        "Wang, Lu",
+        "Guo, Jiaxin",
+        "Zhang, Huan",
+        "Xu, Hao",
+        "He, Miaomiao",
+        "Wan, Guiping",
+        "Xia, Liexin",
+        "Zhou, Qingqing",
+        "Wang, Yamei"
+      ],
+      "short_names": [
+        "Yang L",
+        "Wang L",
+        "Guo J",
+        "Zhang H",
+        "Xu H",
+        "He M",
+        "Wan G",
+        "Xia L",
+        "Zhou Q",
+        "Wang Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Neurosurgery, The First Affiliated Hospital of Yangtze University, Jingzhou First People's Hospital, Jingzhou, 434000, China.",
+        "Department of Science and Education, The First Affiliated Hospital of Yangtze University, Jingzhou First People's Hospital, Jingzhou, 434000, China.",
+        "Department of Neurology, The First Affiliated Hospital of Yangtze University, Jingzhou First People's Hospital, Jingzhou, 434000, China; Yangtze University, Jingzhou, 434000, China.",
+        "Department of Neurology, The First Affiliated Hospital of Yangtze University, Jingzhou First People's Hospital, Jingzhou, 434000, China; Yangtze University, Jingzhou, 434000, China.",
+        "Department of Neurology, The First Affiliated Hospital of Yangtze University, Jingzhou First People's Hospital, Jingzhou, 434000, China; Yangtze University, Jingzhou, 434000, China.",
+        "Department of Neurology, The First Affiliated Hospital of Yangtze University, Jingzhou First People's Hospital, Jingzhou, 434000, China; Yangtze University, Jingzhou, 434000, China; Department of Neurology, Qianjiang People's Hospital, Qianjiang, 433100, China.",
+        "Department of Neurosurgery, The First Affiliated Hospital of Yangtze University, Jingzhou First People's Hospital, Jingzhou, 434000, China.",
+        "Department of Neurology, The First Affiliated Hospital of Yangtze University, Jingzhou First People's Hospital, Jingzhou, 434000, China. Electronic address: 448268597@qq.com.",
+        "Department of Neurosurgery, The First Affiliated Hospital of Yangtze University, Jingzhou First People's Hospital, Jingzhou, 434000, China. Electronic address: 397406589@qq.com.",
+        "Department of Neurology, The First Affiliated Hospital of Yangtze University, Jingzhou First People's Hospital, Jingzhou, 434000, China. Electronic address: 137365964@qq.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yang, Lei",
+        "short_name": "Yang L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosurgery, The First Affiliated Hospital of Yangtze University, Jingzhou First People's Hospital, Jingzhou, 434000, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Lu",
+        "short_name": "Wang L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Science and Education, The First Affiliated Hospital of Yangtze University, Jingzhou First People's Hospital, Jingzhou, 434000, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Jiaxin",
+        "short_name": "Guo J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology, The First Affiliated Hospital of Yangtze University, Jingzhou First People's Hospital, Jingzhou, 434000, China; Yangtze University, Jingzhou, 434000, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Huan",
+        "short_name": "Zhang H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology, The First Affiliated Hospital of Yangtze University, Jingzhou First People's Hospital, Jingzhou, 434000, China; Yangtze University, Jingzhou, 434000, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Hao",
+        "short_name": "Xu H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology, The First Affiliated Hospital of Yangtze University, Jingzhou First People's Hospital, Jingzhou, 434000, China; Yangtze University, Jingzhou, 434000, China."
+        ]
+      },
+      {
+        "full_name": "He, Miaomiao",
+        "short_name": "He M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology, The First Affiliated Hospital of Yangtze University, Jingzhou First People's Hospital, Jingzhou, 434000, China; Yangtze University, Jingzhou, 434000, China; Department of Neurology, Qianjiang People's Hospital, Qianjiang, 433100, China."
+        ]
+      },
+      {
+        "full_name": "Wan, Guiping",
+        "short_name": "Wan G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosurgery, The First Affiliated Hospital of Yangtze University, Jingzhou First People's Hospital, Jingzhou, 434000, China."
+        ]
+      },
+      {
+        "full_name": "Xia, Liexin",
+        "short_name": "Xia L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology, The First Affiliated Hospital of Yangtze University, Jingzhou First People's Hospital, Jingzhou, 434000, China. Electronic address: 448268597@qq.com."
+        ]
+      },
+      {
+        "full_name": "Zhou, Qingqing",
+        "short_name": "Zhou Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurosurgery, The First Affiliated Hospital of Yangtze University, Jingzhou First People's Hospital, Jingzhou, 434000, China. Electronic address: 397406589@qq.com."
+        ]
+      },
+      {
+        "full_name": "Wang, Yamei",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology, The First Affiliated Hospital of Yangtze University, Jingzhou First People's Hospital, Jingzhou, 434000, China. Electronic address: 137365964@qq.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Parkinsonism & related disorders"
+    ],
+    "journal_abbrev": [
+      "Parkinsonism Relat Disord"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/07/11 05:37",
+    "fetched_at": "2026-09-08 12:12:00"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42430983",
+      "42233387",
+      "42653145",
+      "41601671",
+      "42024670",
+      "40285838",
+      "41716413",
+      "41781332",
+      "41462565",
+      "40971318",
+      "42192776",
+      "40821793",
+      "42642681",
+      "41895505",
+      "38561620",
+      "42084601",
+      "39364414",
+      "42458112",
+      "27151770",
+      "42288542",
+      "42666489",
+      "42475469",
+      "41611834",
+      "39558055",
+      "40777016",
+      "42568060",
+      "42435052",
+      "41310117",
+      "34919646",
+      "40687147",
+      "42074514",
+      "42123445",
+      "41388523",
+      "42263400",
+      "40626535",
+      "41186507",
+      "41930954",
+      "38566100",
+      "41591671",
+      "26157004",
+      "42227003",
+      "42236612",
+      "42098867",
+      "39799354",
+      "41436831",
+      "42631563",
+      "38956662",
+      "41126838",
+      "41733593",
+      "41009952",
+      "42395344",
+      "40317014",
+      "40097519",
+      "42062698",
+      "41596612",
+      "42140356",
+      "40186271",
+      "42249649",
+      "38272954",
+      "42309401",
+      "41049291",
+      "42465723",
+      "42486346",
+      "41371106",
+      "42543885",
+      "41612311",
+      "41419122",
+      "40826098",
+      "42419583",
+      "41242266",
+      "29784049",
+      "40715263",
+      "42039174",
+      "39619132",
+      "42304359",
+      "42263871",
+      "41459671",
+      "38229084",
+      "40973880",
+      "35668422",
+      "41409278",
+      "42278544",
+      "40787447",
+      "41342434",
+      "42377012",
+      "42193325",
+      "40456297",
+      "42558367",
+      "41635814",
+      "42638119",
+      "41556698",
+      "41080564",
+      "42580240",
+      "41601623",
+      "41449193",
+      "38677173",
+      "42082621",
+      "42040898",
+      "41316541",
+      "42365694"
+    ],
+    "review": [
+      "42430983",
+      "42084601",
+      "40973880",
+      "35668422"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1353-8020(26)00245-2",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/parkinsonsdisease.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Parkinson's Disease"
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-526",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://www.clinicalkey.com/content/playBy/pii?v=S1353-8020(26)00245-2",
+        "provider": "ClinicalKey",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

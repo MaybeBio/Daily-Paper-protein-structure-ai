@@ -1,0 +1,285 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.01.748564",
+  "title": "PredIDR3: A new output-encoding scheme and abundant negative source provide more information for deep learning-based protein intrinsic disorder prediction",
+  "doi": "10.64898/2026.09.01.748564",
+  "abstract": "Many computational methods to predict intrinsic disordered regions (IDRs) in proteins have been developed and their performances are blindly evaluated in community-driven assessment, Critical Assessment of protein Intrinsic Disorder (CAID). In this study, we developed PredIDR3 series, an updated version of PredIDR2 tested in CAID3 to accurately predict IDRs from protein sequences. It includes two methods depending on ensemble way. The performances of PredIDR3 series (AUC_ROC=0.953) are remarkably better than our previous PredIDR2 (AUC_ROC=0.936) on Disorder-PDB dataset of CAID3, which is thought to be mainly attributed to the use of more information for intrinsic disorder prediction based on deep convolutional neural network. In details, we introduced a new output-encoding scheme permitting a large sliding window (size=91) for the first time and extracted negative samples of the training set from non-IDRs of both PDB and DisProt databases, allowing to use more information for prediction of intrinsic disorder. PredIDR3 achieved comparable performance to the top-ranking methods of CAID3 in all criteria measured. PredIDR3 series can be freely available through the CAID Prediction Portal at https://caid.idpcentral.org/portal or downloaded as a Singularity container from https://biocomputingup.it/shared/caid-predictors/.",
+  "authors": [
+    "Kun-Sop Han",
+    "Kyungmin Hwang",
+    "Sung-Myong O",
+    "Su-Jin Kim",
+    "Pyong-Zu Ri",
+    "Mun-Myong Choe",
+    "Piovesan Damiano"
+  ],
+  "published_date": "2026-09-04",
+  "updated_date": "2026-09-05T04:50:56Z",
+  "journal": "bioRxiv",
+  "category": "Bioinformatics",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.01.748564",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.01.748564.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [
+    "Bioinformatics"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Bioinformatics",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            5
+          ]
+        ],
+        "date-time": "2026-09-05T05:17:23Z",
+        "timestamp": 1788585443108,
+        "version": "build-2803163510"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            4
+          ]
+        ]
+      },
+      "group-title": "Bioinformatics",
+      "reference-count": 0,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                4
+              ]
+            ],
+            "date-time": "2026-09-04T00:00:00Z",
+            "timestamp": 1788480000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://www.biorxiv.org/about/FAQ#license"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            4
+          ]
+        ]
+      },
+      "abstract": "<jats:p>Many computational methods to predict intrinsic disordered regions (IDRs) in proteins have been developed and their performances are blindly evaluated in community-driven assessment, Critical Assessment of protein Intrinsic Disorder (CAID). In this study, we developed PredIDR3 series, an updated version of PredIDR2 tested in CAID3 to accurately predict IDRs from protein sequences. It includes two methods depending on ensemble way. The performances of PredIDR3 series (AUC_ROC=0.953) are remarkably better than our previous PredIDR2 (AUC_ROC=0.936) on Disorder-PDB dataset of CAID3, which is thought to be mainly attributed to the use of more information for intrinsic disorder prediction based on deep convolutional neural network. In details, we introduced a new output-encoding scheme permitting a large sliding window (size=91) for the first time and extracted negative samples of the training set from non-IDRs of both PDB and DisProt databases, allowing to use more information for prediction of intrinsic disorder. PredIDR3 achieved comparable performance to the top-ranking methods of CAID3 in all criteria measured. PredIDR3 series can be freely available through the CAID Prediction Portal at https://caid.idpcentral.org/portal or downloaded as a Singularity container from https://biocomputingup.it/shared/caid-predictors/.</jats:p>",
+      "DOI": "10.64898/2026.09.01.748564",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            5
+          ]
+        ],
+        "date-time": "2026-09-05T04:50:56Z",
+        "timestamp": 1788583856000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "PredIDR3: A new output-encoding scheme and abundant negative source provide more information for deep learning-based protein intrinsic disorder prediction"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "suffix": "Sr.",
+          "given": "Kun-Sop",
+          "family": "Han",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "University of science;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "suffix": "Sr.",
+          "given": "Kyungmin",
+          "family": "Hwang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of science;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "suffix": "Sr.",
+          "given": "Sung-Myong",
+          "family": "O",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Pyongsong University of Education;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "suffix": "Sr.",
+          "given": "Su-Jin",
+          "family": "Kim",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of science;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "suffix": "Sr.",
+          "given": "Pyong-Zu",
+          "family": "Ri",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of science;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "suffix": "Sr.",
+          "given": "Mun-Myong",
+          "family": "Choe",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of Science and Technology;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "suffix": "Sr.",
+          "given": "Piovesan",
+          "family": "Damiano",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Biomedical Sciences"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.09.01.748564",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            5
+          ]
+        ],
+        "date-time": "2026-09-05T04:50:56Z",
+        "timestamp": 1788583856000
+      },
+      "score": 39.056446,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.09.01.748564"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            4
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.64898/2026.09.01.748564",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            4
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

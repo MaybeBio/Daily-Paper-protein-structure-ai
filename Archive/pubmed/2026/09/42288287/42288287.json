@@ -1,0 +1,295 @@
+{
+  "identity": {
+    "pmid": "42288287",
+    "doi": "10.1016/j.pbiomolbio.2026.06.002",
+    "title": "Uncovering the biological mechanisms of TREM2 with molecular simulations: A comprehensive review and perspective."
+  },
+  "content": {
+    "abstract": "Triggering receptor expressed on myeloid cells 2 (TREM2) is a central regulator of microglia activation and lipid metabolism, linking immune signaling to neurodegenerative and metabolic disease. While experimental and clinical studies have greatly expanded our understanding of TREM2 biology, the molecular principles governing its conformational plasticity, interactions with membranes and ligands, and the behavior of disease-associated variants remain unresolved. Recent molecular dynamics (MD) simulations of TREM2 have provided an atomistic view of these mechanisms, revealing novel structural, dynamic, and energetic features inaccessible to experimental methods alone. In this Review, we comprehensively assess these MD studies, integrating mechanistic insights across protein domains and modeling approaches. We critically evaluate simulations that describe how missense mutations uniquely perturb TREM2's complementarity-determining region (CDR) ligand-binding sites, transmembrane domain signaling motifs, and multimerization interfaces. We further elucidate how simulations capture novel CDR2 dynamics that cannot be resolved using traditional experimental methods, and how in silico findings align with data from experimental binding assays and crystallographic studies. Finally, we outline how rigorously designed simulations-performed with sufficient replicates and timescales-can guide rational engineering of small-molecule and peptide modulators targeting TREM2, advancing therapeutic strategies that can restore TREM2-mediated lipid sensing and signaling in metabolic and neurodegenerative diseases.",
+    "keywords": [
+      "Alzheimer's disease",
+      "Lipid metabolism",
+      "Molecular dynamics simulations",
+      "Multiscale modeling",
+      "Neurodegeneration",
+      "Triggering receptor expressed on myeloid cells 2"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Membrane Glycoproteins/chemistry/metabolism/genetics",
+      "*Molecular Dynamics Simulation",
+      "*Receptors, Immunologic/chemistry/metabolism/genetics",
+      "Animals",
+      "Ligands",
+      "Binding Sites"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Lietzke, Emma E",
+        "Saeb, David",
+        "Aldrich, Emma C",
+        "de Menezes, Rafael Ferreira",
+        "Bruce, Kimberley D",
+        "Sprenger, Kayla G"
+      ],
+      "short_names": [
+        "Lietzke EE",
+        "Saeb D",
+        "Aldrich EC",
+        "de Menezes RF",
+        "Bruce KD",
+        "Sprenger KG"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Chemical and Biological Engineering, University of Colorado Boulder, Boulder, CO, 80303, United States; Division of Endocrinology, Metabolism, and Diabetes, University of Colorado Anschutz, Aurora, CO, 80045, United States.",
+        "Department of Chemical and Biological Engineering, University of Colorado Boulder, Boulder, CO, 80303, United States.",
+        "Department of Chemical and Biological Engineering, University of Colorado Boulder, Boulder, CO, 80303, United States.",
+        "Department of Chemical and Biological Engineering, University of Colorado Boulder, Boulder, CO, 80303, United States.",
+        "Division of Endocrinology, Metabolism, and Diabetes, University of Colorado Anschutz, Aurora, CO, 80045, United States. Electronic address: Kimberley.Bruce@cuanschutz.edu.",
+        "Department of Chemical and Biological Engineering, University of Colorado Boulder, Boulder, CO, 80303, United States. Electronic address: Kayla.Sprenger@colorado.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Lietzke, Emma E",
+        "short_name": "Lietzke EE",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical and Biological Engineering, University of Colorado Boulder, Boulder, CO, 80303, United States; Division of Endocrinology, Metabolism, and Diabetes, University of Colorado Anschutz, Aurora, CO, 80045, United States."
+        ]
+      },
+      {
+        "full_name": "Saeb, David",
+        "short_name": "Saeb D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical and Biological Engineering, University of Colorado Boulder, Boulder, CO, 80303, United States."
+        ]
+      },
+      {
+        "full_name": "Aldrich, Emma C",
+        "short_name": "Aldrich EC",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical and Biological Engineering, University of Colorado Boulder, Boulder, CO, 80303, United States."
+        ]
+      },
+      {
+        "full_name": "de Menezes, Rafael Ferreira",
+        "short_name": "de Menezes RF",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical and Biological Engineering, University of Colorado Boulder, Boulder, CO, 80303, United States."
+        ]
+      },
+      {
+        "full_name": "Bruce, Kimberley D",
+        "short_name": "Bruce KD",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Endocrinology, Metabolism, and Diabetes, University of Colorado Anschutz, Aurora, CO, 80045, United States. Electronic address: Kimberley.Bruce@cuanschutz.edu."
+        ]
+      },
+      {
+        "full_name": "Sprenger, Kayla G",
+        "short_name": "Sprenger KG",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical and Biological Engineering, University of Colorado Boulder, Boulder, CO, 80303, United States. Electronic address: Kayla.Sprenger@colorado.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Progress in biophysics and molecular biology"
+    ],
+    "journal_abbrev": [
+      "Prog Biophys Mol Biol"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/06/15 11:29",
+    "fetched_at": "2026-09-08 12:12:00"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42288287",
+      "41298271",
+      "40928206",
+      "40280075",
+      "38373093",
+      "39489390",
+      "41085188",
+      "32107424",
+      "29794134",
+      "40842082",
+      "42582058",
+      "40806186",
+      "41825226",
+      "28432014",
+      "33314333",
+      "39032157",
+      "42602355",
+      "27995897",
+      "41862118",
+      "42007542",
+      "40138757",
+      "41789102",
+      "39159814",
+      "40219843",
+      "39789647",
+      "40152357",
+      "42475469",
+      "41449430",
+      "40247363",
+      "28768545",
+      "28077724",
+      "39866401",
+      "41337883",
+      "32830336",
+      "40205810",
+      "28320424",
+      "30587772",
+      "41512220",
+      "38973875",
+      "35672339",
+      "24663666",
+      "41213496",
+      "41604675",
+      "37517293",
+      "26374899",
+      "33516818",
+      "34375614",
+      "40381736",
+      "29598827",
+      "25728668",
+      "40021075",
+      "41168805",
+      "34061398",
+      "27143430",
+      "41833769",
+      "35717259",
+      "30033062",
+      "28490631",
+      "40646506",
+      "33101276",
+      "25281879",
+      "41792456",
+      "36683512",
+      "34233201",
+      "25732305",
+      "35912412",
+      "30572908",
+      "38769824",
+      "41240472",
+      "29655369",
+      "32412103",
+      "41731491",
+      "37924367",
+      "28442216",
+      "38244651",
+      "39976515",
+      "33139402",
+      "20640189",
+      "33115519",
+      "32514138",
+      "27520774",
+      "28393702",
+      "37115208",
+      "23912807",
+      "32021611",
+      "26949937",
+      "42276260",
+      "26792193",
+      "32635934",
+      "33221505",
+      "38915213",
+      "39559879",
+      "40346446",
+      "40549067",
+      "41484634",
+      "33786894",
+      "35041990",
+      "29587871",
+      "39458551",
+      "27871212"
+    ],
+    "review": [
+      "42288287",
+      "40842082",
+      "42582058",
+      "40806186",
+      "28432014",
+      "42602355",
+      "41862118",
+      "41789102",
+      "40152357",
+      "41449430",
+      "40247363",
+      "28768545",
+      "30587772",
+      "41512220",
+      "41213496",
+      "37517293",
+      "33516818",
+      "40381736",
+      "40021075",
+      "41168805",
+      "41833769",
+      "30033062",
+      "40646506",
+      "25281879",
+      "41792456",
+      "36683512",
+      "30572908",
+      "38769824",
+      "29655369",
+      "28442216",
+      "38244651",
+      "39976515",
+      "28393702",
+      "32635934",
+      "38915213",
+      "39559879",
+      "33786894",
+      "35041990"
+    ],
+    "pmc": [
+      "13459026"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0079-6107(26)00041-6",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42288287/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

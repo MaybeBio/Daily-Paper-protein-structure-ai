@@ -1,0 +1,281 @@
+{
+  "identity": {
+    "pmid": "42641857",
+    "doi": "10.1016/j.envpol.2026.129000",
+    "title": "Polypropylene microplastics orchestrate oxidative stress microenvironment and trigger metabolic reprogramming in mouse kidney as revealed by Raman spectra and metabolomics."
+  },
+  "content": {
+    "abstract": "The high metabolism and homeostatic roles of kidney make it susceptible to microplastics (MPs); however, the specific antioxidant targets and resulting metabolic alterations remain largely unknown. In this study, the effects of polypropylene-MPs on oxidative homeostasis were refined by discriminating protein families and renal metabolic landscapes via Raman spectra and untargeted metabolomics. Polypropylene-MPs caused remarkable fluctuations in biochemical process, renal function and redox homeostasis exerting differential disturbances on expression of antioxidant genes such as Gpx5. Molecular docking results proposed the possible disruptions of polypropylene-MPs on protein structures of Gsta5, Gstt4, Gpx5 and Txnrd2. Additionally, polypropylene-MPs induced renal lesions and fibrosis, and mitochondrial cristae disorganization. A multilayer perceptron neural network illustrated the associations between key Raman spectral fingerprints (668, 1112 and 1300 cm(-1)) and the renal glomerular changes. Untargeted metabolomics confirmed myriad alterations in cellular metabolic processes manifesting detoxification overload reflected by sulfated metabolites and glutathione conjugates, phospholipid remodeling, mitochondrial energy crisis, and nutritional exhaustion. These metabolic reprogramming and reactive oxygen species imbalance were intimately correlated with Raman spectral fingerprints. Our findings provided theoretical clues on the disturbance of polypropylene-MPs on oxidative homeostasis by interacting with certain antioxidant enzymes, and the consequent renal metabolic reprogramming and dysfunctions.",
+    "keywords": [
+      "Health risks",
+      "Metabolomics",
+      "Molecular docking",
+      "Reactive oxygen species"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Jing",
+        "Tao, Fangfang",
+        "Wang, Dandan",
+        "Wang, Miao",
+        "Sun, Xinglin",
+        "Guo, Xiaoyi",
+        "Jin, Feier",
+        "Liu, Mingying",
+        "Zhang, Dayi"
+      ],
+      "short_names": [
+        "Wang J",
+        "Tao F",
+        "Wang D",
+        "Wang M",
+        "Sun X",
+        "Guo X",
+        "Jin F",
+        "Liu M",
+        "Zhang D"
+      ],
+      "auids": [],
+      "affiliations": [
+        "The Third School of Clinical Medicine, Zhejiang Chinese Medical University, Hangzhou, 310053, PR China.",
+        "School of Basic Medical Sciences, Zhejiang Chinese Medical University, Hangzhou, 310053, PR China.",
+        "School of Basic Medical Sciences, Zhejiang Chinese Medical University, Hangzhou, 310053, PR China.",
+        "School of Basic Medical Sciences, Zhejiang Chinese Medical University, Hangzhou, 310053, PR China.",
+        "School of Basic Medical Sciences, Zhejiang Chinese Medical University, Hangzhou, 310053, PR China.",
+        "The First School of Clinical Medicine, Zhejiang Chinese Medical University, Hangzhou, 310053, PR China.",
+        "The First School of Clinical Medicine, Zhejiang Chinese Medical University, Hangzhou, 310053, PR China.",
+        "School of Basic Medical Sciences, Zhejiang Chinese Medical University, Hangzhou, 310053, PR China. Electronic address: lmyxin@163.com.",
+        "Key Laboratory of Groundwater Resources and Environment, Ministry of Education, Changchun, 130021, PR China; College of New Energy and Environment, Jilin University, Changchun, 130021, PR China; Key Laboratory of Regional Environment and Eco-restoration, Ministry of Education, Shenyang University, Shenyang, 110044, PR China. Electronic address: zhangdayi@tsinghua.org.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Jing",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "The Third School of Clinical Medicine, Zhejiang Chinese Medical University, Hangzhou, 310053, PR China."
+        ]
+      },
+      {
+        "full_name": "Tao, Fangfang",
+        "short_name": "Tao F",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Zhejiang Chinese Medical University, Hangzhou, 310053, PR China."
+        ]
+      },
+      {
+        "full_name": "Wang, Dandan",
+        "short_name": "Wang D",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Zhejiang Chinese Medical University, Hangzhou, 310053, PR China."
+        ]
+      },
+      {
+        "full_name": "Wang, Miao",
+        "short_name": "Wang M",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Zhejiang Chinese Medical University, Hangzhou, 310053, PR China."
+        ]
+      },
+      {
+        "full_name": "Sun, Xinglin",
+        "short_name": "Sun X",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Zhejiang Chinese Medical University, Hangzhou, 310053, PR China."
+        ]
+      },
+      {
+        "full_name": "Guo, Xiaoyi",
+        "short_name": "Guo X",
+        "identifiers": [],
+        "affiliations": [
+          "The First School of Clinical Medicine, Zhejiang Chinese Medical University, Hangzhou, 310053, PR China."
+        ]
+      },
+      {
+        "full_name": "Jin, Feier",
+        "short_name": "Jin F",
+        "identifiers": [],
+        "affiliations": [
+          "The First School of Clinical Medicine, Zhejiang Chinese Medical University, Hangzhou, 310053, PR China."
+        ]
+      },
+      {
+        "full_name": "Liu, Mingying",
+        "short_name": "Liu M",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Zhejiang Chinese Medical University, Hangzhou, 310053, PR China. Electronic address: lmyxin@163.com."
+        ]
+      },
+      {
+        "full_name": "Zhang, Dayi",
+        "short_name": "Zhang D",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Groundwater Resources and Environment, Ministry of Education, Changchun, 130021, PR China; College of New Energy and Environment, Jilin University, Changchun, 130021, PR China; Key Laboratory of Regional Environment and Eco-restoration, Ministry of Education, Shenyang University, Shenyang, 110044, PR China. Electronic address: zhangdayi@tsinghua.org.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Environmental pollution (Barking, Essex : 1987)"
+    ],
+    "journal_abbrev": [
+      "Environ Pollut"
+    ],
+    "pub_date": "2026 Aug 25",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/08/25 23:33",
+    "fetched_at": "2026-09-08 12:11:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42641857",
+      "39667527",
+      "37356177",
+      "42173417",
+      "41142238",
+      "42175955",
+      "41883381",
+      "41748133",
+      "39634179",
+      "41266508",
+      "40835103",
+      "38167034",
+      "39128451",
+      "41285344",
+      "31268353",
+      "37619398",
+      "41389885",
+      "41966363",
+      "40738273",
+      "41903366",
+      "41544529",
+      "39248137",
+      "42229244",
+      "41953324",
+      "42680389",
+      "40189833",
+      "42163082",
+      "40472692",
+      "36181925",
+      "38367736",
+      "38772140",
+      "41861479",
+      "40286830",
+      "39571196",
+      "42067010",
+      "41151701",
+      "40578733",
+      "35504343",
+      "42570699",
+      "35714743",
+      "41762595",
+      "42512094",
+      "40045642",
+      "35987407",
+      "40619079",
+      "40316151",
+      "39505148",
+      "38200266",
+      "42276167",
+      "41990872",
+      "42153190",
+      "41687388",
+      "40418216",
+      "41796712",
+      "38603672",
+      "38799170",
+      "35526622",
+      "40199164",
+      "36356752",
+      "41955720",
+      "42456907",
+      "42001682",
+      "42650200",
+      "41427835",
+      "42637107",
+      "36696727",
+      "36334776",
+      "40844682",
+      "39103036",
+      "40651730",
+      "33352432",
+      "40925185",
+      "38718962",
+      "39754872",
+      "41690038",
+      "35931252",
+      "26177469",
+      "39150724",
+      "40660228",
+      "39499580",
+      "41864371",
+      "39674024",
+      "41114160",
+      "41865969",
+      "42176909",
+      "42126498",
+      "34793849",
+      "42197495",
+      "39722621",
+      "37863229",
+      "40513925",
+      "40304991",
+      "42448961",
+      "36029908",
+      "18061331",
+      "42445172",
+      "38211521",
+      "40262494",
+      "40682529",
+      "36188270"
+    ],
+    "review": [
+      "42641857",
+      "41748133",
+      "41953324",
+      "36181925",
+      "40578733"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0269-7491(26)01370-9",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-4037",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

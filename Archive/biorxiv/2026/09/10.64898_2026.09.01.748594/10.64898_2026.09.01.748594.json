@@ -1,0 +1,98 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.01.748594",
+  "title": "Structures of pUG-fold RNA bound to DNMT1 reveal a mechanism for RNA-mediated epigenetic regulation",
+  "doi": "10.64898/2026.09.01.748594",
+  "abstract": "Many chromatin-associated proteins have been found to bind RNA as a means of epigenetic regulation. Specifically, DNA methyltransferase 1 (DNMT1), which maintains cytosine methylation at CpG dinucleotides, is inhibited by RNA at transcribed DNA loci in cells. However, the mechanisms by which RNA binds DNMT1 and inhibits its activity remain unknown. Here, we determine a series of cryogenic electron microscopy (cryo-EM) structures of human DNMT1 bound to pUG-fold RNA, a non-canonical G-quadruplex previously observed to inhibit activity, revealing two distinct RNA-binding modes. The pUG-fold RNA binds the surface of DNMT1 in its autoinhibited conformation across a positively charged surface between the methyltransferase domain and the CXXC domain, and it binds directly in the active site of an open DNMT1 conformation. RNA binding is sterically incompatible with substrate DNA engagement in both states. Our 2.5 Å structure captures the intricate network of hydrogen bonds and electrostatic interactions between amino acids in the methyltransferase domain and the tetrad layers of pUG- fold RNA. Metadynamics molecular dynamics simulations provide an orthogonal view of the conformational landscape of DNMT1, revealing the two distinct RNA-binding modes. Furthermore, our analysis of published DNMT1 RIP-seq and eCLIP-seq data confirms that DNMT1-interacting RNAs in cells exhibit a strong propensity to form non-canonical G- quadruplex RNA structures. Collectively, our study provides the first structural basis for pUG- fold RNA recognition by a protein and illustrates how cryo-EM and AI-based methods for protein and RNA structure prediction synergize to inform the mechanism of RNA-mediated regulation of DNMT1.",
+  "authors": [
+    "Song JJ",
+    "Cech TR",
+    "Kasinath V"
+  ],
+  "published_date": "2026-09-03",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.01.748594",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.01.748594.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1313132",
+    "raw_record": {
+      "id": "PPR1313132",
+      "source": "PPR",
+      "doi": "10.64898/2026.09.01.748594",
+      "title": "Structures of pUG-fold RNA bound to DNMT1 reveal a mechanism for RNA-mediated epigenetic regulation",
+      "authorString": "Song JJ, Cech TR, Kasinath V.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Song JJ",
+            "firstName": "Jessica",
+            "lastName": "Song",
+            "initials": "JJ"
+          },
+          {
+            "fullName": "Cech TR",
+            "firstName": "Thomas",
+            "lastName": "Cech",
+            "initials": "TR"
+          },
+          {
+            "fullName": "Kasinath V",
+            "firstName": "Vignesh",
+            "lastName": "Kasinath",
+            "initials": "V"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Many chromatin-associated proteins have been found to bind RNA as a means of epigenetic regulation. Specifically, DNA methyltransferase 1 (DNMT1), which maintains cytosine methylation at CpG dinucleotides, is inhibited by RNA at transcribed DNA loci in cells. However, the mechanisms by which RNA binds DNMT1 and inhibits its activity remain unknown. Here, we determine a series of cryogenic electron microscopy (cryo-EM) structures of human DNMT1 bound to pUG-fold RNA, a non-canonical G-quadruplex previously observed to inhibit activity, revealing two distinct RNA-binding modes. The pUG-fold RNA binds the surface of DNMT1 in its autoinhibited conformation across a positively charged surface between the methyltransferase domain and the CXXC domain, and it binds directly in the active site of an open DNMT1 conformation. RNA binding is sterically incompatible with substrate DNA engagement in both states. Our 2.5 Å structure captures the intricate network of hydrogen bonds and electrostatic interactions between amino acids in the methyltransferase domain and the tetrad layers of pUG- fold RNA. Metadynamics molecular dynamics simulations provide an orthogonal view of the conformational landscape of DNMT1, revealing the two distinct RNA-binding modes. Furthermore, our analysis of published DNMT1 RIP-seq and eCLIP-seq data confirms that DNMT1-interacting RNAs in cells exhibit a strong propensity to form non-canonical G- quadruplex RNA structures. Collectively, our study provides the first structural basis for pUG- fold RNA recognition by a protein and illustrates how cryo-EM and AI-based methods for protein and RNA structure prediction synergize to inform the mechanism of RNA-mediated regulation of DNMT1.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.09.01.748594"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-09-07",
+      "firstIndexDate": "2026-09-07",
+      "firstPublicationDate": "2026-09-03"
+    }
+  }
+}

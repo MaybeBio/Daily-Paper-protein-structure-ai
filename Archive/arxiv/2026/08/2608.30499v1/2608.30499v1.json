@@ -1,0 +1,32 @@
+{
+  "source": "arxiv",
+  "source_id": "2608.30499v1",
+  "title": "Sensitivity Hot Spot Penalization: A Robust Topology Optimization Framework against First-Order Worst-Case Perturbations",
+  "doi": "",
+  "abstract": "Deterministic topology optimization can efficiently generate high-performance structural designs, but it does not explicitly control localized fragility induced by manufacturing variations and geometric uncertainties. Such fragility often appears as stress concentrations or hinge-like deformation mechanisms. Conventional robust topology optimization can suppress these features, but typically requires multiple design realizations and substantially increased computational cost. Recent work by Sigmund et al. (2026) introduced sensitivity hot spot penalization (SHoSP), which augments the nominal objective by a smooth maximum of its sensitivities and suppresses localized fragile features at low additional cost while promoting more even stress distributions. This paper establishes a general connection between SHoSP and a first-order worst-case robust approximation under a material-mass perturbation budget using a Taylor expansion and H{\"o}lder's duality. The original penalty weight is identified as a dimensionless norm-bounded perturbation budget relative to the area (2D) or volume (3D) of the design domain. This interpretation explains the suppression of sensitivity hot spots, hinge localization, and stress concentrations by limiting the maximum first-order degradation under budgeted perturbations. It is investigated for compliance minimization and compliant mechanism design. Robustness is assessed using a relaxed worst-case density perturbation and by comparing deterministic and SHoSP designs under equivalent perturbation budgets. Stress-related effects observed on structured meshes are cross-validated by stress-oriented topology optimization and body-fitted finite element analyses. Extensions to porous infill optimization, multiple load cases, and large-scale 3D examples further demonstrate the applicability and superior scalability of the SHoSP framework.",
+  "authors": [
+    "Junpeng Wang",
+    "Niels Aage",
+    "Ole Sigmund"
+  ],
+  "published_date": "2026-08-31T09:29:14Z",
+  "updated_date": "2026-08-31T09:29:14Z",
+  "journal": "",
+  "category": "cs.CE",
+  "landing_url": "https://arxiv.org/abs/2608.30499v1",
+  "pdf_url": "https://arxiv.org/pdf/2608.30499v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cs.CE"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2608.30499v1",
+    "raw_categories": [
+      "cs.CE"
+    ],
+    "journal_ref": ""
+  }
+}

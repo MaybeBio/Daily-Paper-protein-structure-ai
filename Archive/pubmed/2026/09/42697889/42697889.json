@@ -1,0 +1,334 @@
+{
+  "identity": {
+    "pmid": "42697889",
+    "doi": "10.1038/s41598-026-60957-1",
+    "title": "Antimicrobial peptides as computational candidates for SARS-CoV-2 papain-like protease inhibition."
+  },
+  "content": {
+    "abstract": "SARS-CoV-2 papain-like protease (PLpro) remains an attractive antiviral target because of its dual role in viral polyprotein processing and host immune modulation. In this study, we employed an exploratory structure-based computational workflow to identify antimicrobial peptide scaffolds with predicted PLpro-binding potential. A total of 6,615 peptides compiled from public databases were screened using protein-peptide docking, followed by molecular dynamics simulations and end-state binding energy analysis for selected complexes. Among the prioritized candidates, peptides 33,035 and 17,047 showed favorable predicted occupation of the catalytic region and persistent interactions with residues in the active-site environment. Molecular dynamics analyses suggested sustained peptide engagement within the PLpro binding region, although distinct degrees of conformational adaptation were observed across systems. MM/PBSA calculations provided additional energetic support for peptide-PLpro association in the selected complexes. In silico toxicity prediction further indicated that peptide 33,035 may require sequence optimization before translational consideration. Overall, our results identify peptide scaffolds worthy of future biochemical and antiviral validation, while reinforcing the need for experimental confirmation and further optimization before any therapeutic inference can be made.",
+    "keywords": [
+      "Antimicrobial peptides",
+      "MMPBSA",
+      "Molecular docking",
+      "Molecular dynamics",
+      "PLpro",
+      "SARS-CoV-2"
+    ],
+    "mesh_terms": [
+      "Molecular Dynamics Simulation",
+      "*Antimicrobial Peptides/chemistry/pharmacology/metabolism",
+      "*SARS-CoV-2/enzymology/drug effects",
+      "Molecular Docking Simulation",
+      "Humans",
+      "*Antiviral Agents/pharmacology/chemistry",
+      "Protein Binding",
+      "Catalytic Domain",
+      "*Protease Inhibitors/pharmacology/chemistry",
+      "COVID-19/virology",
+      "*Coronavirus Papain-Like Proteases/antagonists & inhibitors/metabolism",
+      "Binding Sites"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Dos Santos Moreira, Erenilson",
+        "Siqueira, Sergio",
+        "Barbosa, Fabricio Santos",
+        "da Silva Sousa, Jailan",
+        "Mercado, Hugo Mauricio Pena",
+        "Melo, Tarcisio Silva",
+        "Jaiswal, Arun Kumar",
+        "Azevedo, Vasco",
+        "Goes-Neto, Aristoteles",
+        "Andrade, Bruno Silva"
+      ],
+      "short_names": [
+        "Dos Santos Moreira E",
+        "Siqueira S",
+        "Barbosa FS",
+        "da Silva Sousa J",
+        "Mercado HMP",
+        "Melo TS",
+        "Jaiswal AK",
+        "Azevedo V",
+        "Goes-Neto A",
+        "Andrade BS"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-8031-9454"
+      ],
+      "affiliations": [
+        "Graduate Program in Chemistry (PGQUI), State University of Southwest Bahia, Jequie, 45031-900, BA, Brazil.",
+        "Laboratory of Bioinformatics and Computational Chemistry (LBQC), Department of Biological Sciences (DCB), State University of Southwest Bahia, Jequie, 45031-900, BA, Brazil.",
+        "Laboratory of Bioinformatics and Computational Chemistry (LBQC), Department of Biological Sciences (DCB), State University of Southwest Bahia, Jequie, 45031-900, BA, Brazil.",
+        "Graduate Program in Biotechnology, State University of Feira de Santana, Feira de Santana, 44036-900, BA, Brazil.",
+        "Laboratory of Bioinformatics and Computational Chemistry (LBQC), Department of Biological Sciences (DCB), State University of Southwest Bahia, Jequie, 45031-900, BA, Brazil.",
+        "Laboratory of Bioinformatics and Computational Chemistry (LBQC), Department of Biological Sciences (DCB), State University of Southwest Bahia, Jequie, 45031-900, BA, Brazil.",
+        "Inter-unit Graduate Program in Bioinformatics, Federal University of Minas Gerais, Belo Horizonte, 31270-901, MG, Brazil.",
+        "Department of Microbiology, Molecular and Computational Biology of Fungi Laboratory, Instituto de Ciencias Biologicas, Universidade Federal de Minas Gerais, Belo Horizonte, 31270-901, MG, Brazil.",
+        "Department of Genetics, Ecology, and Evolution, Federal University of Minas Gerais, Belo Horizonte, Brazil.",
+        "Laboratory of Bioinformatics and Computational Chemistry (LBQC), Department of Biological Sciences (DCB), State University of Southwest Bahia, Jequie, 45031-900, BA, Brazil.",
+        "Department of Genetics, Ecology, and Evolution, Federal University of Minas Gerais, Belo Horizonte, Brazil.",
+        "Laboratory of Cellular and Molecular Genetics (LGCM), PG Program in Bioinformatics, Department of Genetics, Ecology, and Evolution, Institute of Biological Sciences, Federal University of Minas Gerais (UFMG), Belo Horizonte, 31270-901, Brazil.",
+        "Inter-unit Graduate Program in Bioinformatics, Federal University of Minas Gerais, Belo Horizonte, 31270-901, MG, Brazil.",
+        "Department of Genetics, Ecology, and Evolution, Federal University of Minas Gerais, Belo Horizonte, Brazil.",
+        "Inter-unit Graduate Program in Bioinformatics, Federal University of Minas Gerais, Belo Horizonte, 31270-901, MG, Brazil.",
+        "Graduate Program in Biotechnology, State University of Feira de Santana, Feira de Santana, 44036-900, BA, Brazil.",
+        "Department of Microbiology, Molecular and Computational Biology of Fungi Laboratory, Instituto de Ciencias Biologicas, Universidade Federal de Minas Gerais, Belo Horizonte, 31270-901, MG, Brazil.",
+        "Inter-unit Graduate Program in Bioinformatics, Federal University of Minas Gerais, Belo Horizonte, 31270-901, MG, Brazil.",
+        "Graduate Program in Chemistry (PGQUI), State University of Southwest Bahia, Jequie, 45031-900, BA, Brazil. bandrade@uesb.edu.br.",
+        "Graduate Program in Biotechnology, State University of Feira de Santana, Feira de Santana, 44036-900, BA, Brazil. bandrade@uesb.edu.br.",
+        "Laboratory of Bioinformatics and Computational Chemistry (LBQC), Department of Biological Sciences (DCB), State University of Southwest Bahia, Jequie, 45031-900, BA, Brazil. bandrade@uesb.edu.br.",
+        "Inter-unit Graduate Program in Bioinformatics, Federal University of Minas Gerais, Belo Horizonte, 31270-901, MG, Brazil. bandrade@uesb.edu.br."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Dos Santos Moreira, Erenilson",
+        "short_name": "Dos Santos Moreira E",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate Program in Chemistry (PGQUI), State University of Southwest Bahia, Jequié, 45031-900, BA, Brazil.",
+          "Laboratory of Bioinformatics and Computational Chemistry (LBQC), Department of Biological Sciences (DCB), State University of Southwest Bahia, Jequié, 45031-900, BA, Brazil."
+        ]
+      },
+      {
+        "full_name": "Siqueira, Sergio",
+        "short_name": "Siqueira S",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Bioinformatics and Computational Chemistry (LBQC), Department of Biological Sciences (DCB), State University of Southwest Bahia, Jequié, 45031-900, BA, Brazil."
+        ]
+      },
+      {
+        "full_name": "Barbosa, Fabricio Santos",
+        "short_name": "Barbosa FS",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate Program in Biotechnology, State University of Feira de Santana, Feira de Santana, 44036-900, BA, Brazil.",
+          "Laboratory of Bioinformatics and Computational Chemistry (LBQC), Department of Biological Sciences (DCB), State University of Southwest Bahia, Jequié, 45031-900, BA, Brazil."
+        ]
+      },
+      {
+        "full_name": "da Silva Sousa, Jailan",
+        "short_name": "da Silva Sousa J",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Bioinformatics and Computational Chemistry (LBQC), Department of Biological Sciences (DCB), State University of Southwest Bahia, Jequié, 45031-900, BA, Brazil.",
+          "Inter-unit Graduate Program in Bioinformatics, Federal University of Minas Gerais, Belo Horizonte, 31270-901, MG, Brazil."
+        ]
+      },
+      {
+        "full_name": "Mercado, Hugo Mauricio Peña",
+        "short_name": "Mercado HMP",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology, Molecular and Computational Biology of Fungi Laboratory, Instituto de Ciências Biológicas, Universidade Federal de Minas Gerais, Belo Horizonte, 31270-901, MG, Brazil.",
+          "Department of Genetics, Ecology, and Evolution, Federal University of Minas Gerais, Belo Horizonte, Brazil."
+        ]
+      },
+      {
+        "full_name": "Melo, Tarcisio Silva",
+        "short_name": "Melo TS",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Bioinformatics and Computational Chemistry (LBQC), Department of Biological Sciences (DCB), State University of Southwest Bahia, Jequié, 45031-900, BA, Brazil."
+        ]
+      },
+      {
+        "full_name": "Jaiswal, Arun Kumar",
+        "short_name": "Jaiswal AK",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics, Ecology, and Evolution, Federal University of Minas Gerais, Belo Horizonte, Brazil.",
+          "Laboratory of Cellular and Molecular Genetics (LGCM), PG Program in Bioinformatics, Department of Genetics, Ecology, and Evolution, Institute of Biological Sciences, Federal University of Minas Gerais (UFMG), Belo Horizonte, 31270-901, Brazil.",
+          "Inter-unit Graduate Program in Bioinformatics, Federal University of Minas Gerais, Belo Horizonte, 31270-901, MG, Brazil."
+        ]
+      },
+      {
+        "full_name": "Azevedo, Vasco",
+        "short_name": "Azevedo V",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genetics, Ecology, and Evolution, Federal University of Minas Gerais, Belo Horizonte, Brazil.",
+          "Inter-unit Graduate Program in Bioinformatics, Federal University of Minas Gerais, Belo Horizonte, 31270-901, MG, Brazil."
+        ]
+      },
+      {
+        "full_name": "Góes-Neto, Aristóteles",
+        "short_name": "Góes-Neto A",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate Program in Biotechnology, State University of Feira de Santana, Feira de Santana, 44036-900, BA, Brazil.",
+          "Department of Microbiology, Molecular and Computational Biology of Fungi Laboratory, Instituto de Ciências Biológicas, Universidade Federal de Minas Gerais, Belo Horizonte, 31270-901, MG, Brazil.",
+          "Inter-unit Graduate Program in Bioinformatics, Federal University of Minas Gerais, Belo Horizonte, 31270-901, MG, Brazil."
+        ]
+      },
+      {
+        "full_name": "Andrade, Bruno Silva",
+        "short_name": "Andrade BS",
+        "identifiers": [
+          "0000-0002-8031-9454"
+        ],
+        "affiliations": [
+          "Graduate Program in Chemistry (PGQUI), State University of Southwest Bahia, Jequié, 45031-900, BA, Brazil. bandrade@uesb.edu.br.",
+          "Graduate Program in Biotechnology, State University of Feira de Santana, Feira de Santana, 44036-900, BA, Brazil. bandrade@uesb.edu.br.",
+          "Laboratory of Bioinformatics and Computational Chemistry (LBQC), Department of Biological Sciences (DCB), State University of Southwest Bahia, Jequié, 45031-900, BA, Brazil. bandrade@uesb.edu.br.",
+          "Inter-unit Graduate Program in Bioinformatics, Federal University of Minas Gerais, Belo Horizonte, 31270-901, MG, Brazil. bandrade@uesb.edu.br."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Scientific reports"
+    ],
+    "journal_abbrev": [
+      "Sci Rep"
+    ],
+    "pub_date": "2026 Sep 4",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/05 05:38",
+    "fetched_at": "2026-09-08 12:10:34"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42697889",
+      "38932170",
+      "40733251",
+      "39111477",
+      "39972932",
+      "40685447",
+      "40571587",
+      "42689513",
+      "39364869",
+      "37578047",
+      "40914919",
+      "33856591",
+      "42430953",
+      "34392751",
+      "41423169",
+      "41413356",
+      "38529845",
+      "40598773",
+      "34959151",
+      "35510600",
+      "34182889",
+      "39942596",
+      "41161128",
+      "39205213",
+      "41683451",
+      "34771004",
+      "40970671",
+      "41639476",
+      "34730069",
+      "37505097",
+      "41527419",
+      "39342997",
+      "33921228",
+      "33864621",
+      "39163165",
+      "32726803",
+      "38959551",
+      "40685718",
+      "39102360",
+      "39639531",
+      "35835027",
+      "35960688",
+      "39303064",
+      "39745898",
+      "34443484",
+      "39373955",
+      "39580003",
+      "37683544",
+      "38044142",
+      "33200683",
+      "34639036",
+      "36586228",
+      "41763003",
+      "38763750",
+      "33350309",
+      "34010326",
+      "34018687",
+      "38147408",
+      "32979815",
+      "34946540",
+      "37861016",
+      "40728751",
+      "33979649",
+      "36453012",
+      "39599882",
+      "33201386",
+      "39769245",
+      "36591698",
+      "41557701",
+      "38914283",
+      "42104549",
+      "34364941",
+      "34324152",
+      "33289456",
+      "39843610",
+      "33715595",
+      "34071582",
+      "33276953",
+      "38059400",
+      "34784198",
+      "35876061",
+      "35103413",
+      "32859008",
+      "40759077",
+      "37548619",
+      "34213728",
+      "34500548",
+      "34324157",
+      "39688934",
+      "40848380",
+      "37938133",
+      "41887806",
+      "37325819",
+      "22004941",
+      "39613993",
+      "42112093",
+      "40632195",
+      "36757134",
+      "39955340",
+      "33556646"
+    ],
+    "review": [
+      "42697889",
+      "39942596"
+    ],
+    "pmc": [
+      "13545218"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41598-026-60957-1",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-438",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

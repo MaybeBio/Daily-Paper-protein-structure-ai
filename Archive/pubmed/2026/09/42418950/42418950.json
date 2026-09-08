@@ -1,0 +1,259 @@
+{
+  "identity": {
+    "pmid": "42418950",
+    "doi": "10.1016/j.enzmictec.2026.110930",
+    "title": "Engineering AaADH1 for enhanced catalytic efficiency and solubility via substrate tunnel modulation."
+  },
+  "content": {
+    "abstract": "Artemisinic alcohol dehydrogenase 1 (AaADH1) plays a pivotal role in the biosynthesis of artemisinic acid, a key precursor of the antimalarial drug artemisinin. However, its low catalytic activity and poor yield limit its industrial application. In this study, we employed a structure-guided protein engineering approach to improve the enzymatic properties of AaADH1. Substrate tunnel analysis identified key bottleneck residues that were subjected to alanine scanning mutagenesis. Among the resulting mutants, L366A displayed a 30% increase in activity and a 53% enhancement in catalytic efficiency (k(cat)/K(M)), along with a 5-fold higher expression level than the wild type (WT). Consequently, a saturation mutagenesis was performed at position 366. Compared to the WT, the k(cat)/K(M) of the L366V, L366I, and L366F mutants increased by 100%, 38%, and 16%, respectively. Molecular dynamics simulations revealed that mutations at L366 enhanced the flexibility of the catalytic pocket and stabilized the local secondary structure, thereby contributing to both improved activity and expression. These findings provide a rational framework for further optimization of AaADH1 for industrial artemisinic acid production.",
+    "keywords": [
+      "Alanine scanning",
+      "Artemisinic alcohol dehydrogenase",
+      "Catalytic efficiency",
+      "Molecular Dynamics Simulation",
+      "Substrate Tunnel"
+    ],
+    "mesh_terms": [
+      "Protein Engineering",
+      "Molecular Dynamics Simulation",
+      "Mutagenesis, Site-Directed",
+      "Substrate Specificity",
+      "Artemisinins/metabolism",
+      "Kinetics",
+      "Solubility",
+      "Catalytic Domain",
+      "*Fungal Proteins/genetics/metabolism/chemistry",
+      "Recombinant Proteins/metabolism/genetics/chemistry",
+      "Mutation",
+      "Protein Conformation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Chenyu",
+        "Feng, Xiao",
+        "Zong, Lixia",
+        "Fan, Shuai",
+        "Yan, Maocai",
+        "Yang, Zhaoyong"
+      ],
+      "short_names": [
+        "Wang C",
+        "Feng X",
+        "Zong L",
+        "Fan S",
+        "Yan M",
+        "Yang Z"
+      ],
+      "auids": [],
+      "affiliations": [
+        "NHC Key Laboratory of Biotechnology of Antibiotics, Institute of Medicinal Biotechnology, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing 100050, China; School of Pharmacy, North China University of Science and Technology, Tangshan, Hebei 063210, China.",
+        "NHC Key Laboratory of Biotechnology of Antibiotics, Institute of Medicinal Biotechnology, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing 100050, China; NHC Key Laboratory of Systems Biology of Pathogens, Institute of Pathogen Biology, Chinese Academy of Medical Sciences & Peking Union Medical College, China.",
+        "School of Pharmacy, North China University of Science and Technology, Tangshan, Hebei 063210, China.",
+        "NHC Key Laboratory of Biotechnology of Antibiotics, Institute of Medicinal Biotechnology, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing 100050, China. Electronic address: sfan@imb.pumc.edu.cn.",
+        "School of Pharmacy, Jining Medical University, Rizhao, Shandong 276800, China. Electronic address: maocaiyan@mail.jnmc.edu.cn.",
+        "NHC Key Laboratory of Biotechnology of Antibiotics, Institute of Medicinal Biotechnology, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing 100050, China. Electronic address: zhaoyongy@imb.pumc.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Chenyu",
+        "short_name": "Wang C",
+        "identifiers": [],
+        "affiliations": [
+          "NHC Key Laboratory of Biotechnology of Antibiotics, Institute of Medicinal Biotechnology, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing 100050, China; School of Pharmacy, North China University of Science and Technology, Tangshan, Hebei 063210, China."
+        ]
+      },
+      {
+        "full_name": "Feng, Xiao",
+        "short_name": "Feng X",
+        "identifiers": [],
+        "affiliations": [
+          "NHC Key Laboratory of Biotechnology of Antibiotics, Institute of Medicinal Biotechnology, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing 100050, China; NHC Key Laboratory of Systems Biology of Pathogens, Institute of Pathogen Biology, Chinese Academy of Medical Sciences & Peking Union Medical College, China."
+        ]
+      },
+      {
+        "full_name": "Zong, Lixia",
+        "short_name": "Zong L",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, North China University of Science and Technology, Tangshan, Hebei 063210, China."
+        ]
+      },
+      {
+        "full_name": "Fan, Shuai",
+        "short_name": "Fan S",
+        "identifiers": [],
+        "affiliations": [
+          "NHC Key Laboratory of Biotechnology of Antibiotics, Institute of Medicinal Biotechnology, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing 100050, China. Electronic address: sfan@imb.pumc.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Yan, Maocai",
+        "short_name": "Yan M",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Jining Medical University, Rizhao, Shandong 276800, China. Electronic address: maocaiyan@mail.jnmc.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Yang, Zhaoyong",
+        "short_name": "Yang Z",
+        "identifiers": [],
+        "affiliations": [
+          "NHC Key Laboratory of Biotechnology of Antibiotics, Institute of Medicinal Biotechnology, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing 100050, China. Electronic address: zhaoyongy@imb.pumc.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Enzyme and microbial technology"
+    ],
+    "journal_abbrev": [
+      "Enzyme Microb Technol"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/07/09 00:40",
+    "fetched_at": "2026-09-08 12:12:00"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42418950",
+      "40139016",
+      "41448471",
+      "39151849",
+      "39079223",
+      "39454051",
+      "26804479",
+      "33310097",
+      "41992869",
+      "39645135",
+      "39540746",
+      "40424941",
+      "34436762",
+      "28471358",
+      "40198959",
+      "41941911",
+      "25957260",
+      "26284701",
+      "42421244",
+      "26930469",
+      "31550488",
+      "24034429",
+      "26672446",
+      "41063519",
+      "40062491",
+      "38582485",
+      "33735657",
+      "22674578",
+      "40517693",
+      "21748600",
+      "28782612",
+      "42083327",
+      "42319747",
+      "19370721",
+      "41655915",
+      "39869311",
+      "30658743",
+      "41617002",
+      "39468403",
+      "28445031",
+      "27871374",
+      "11722565",
+      "8931126",
+      "15660220",
+      "24684708",
+      "41033017",
+      "27613682",
+      "38802708",
+      "40418156",
+      "33034040",
+      "28875495",
+      "23617537",
+      "39800024",
+      "22112406",
+      "41482345",
+      "39024977",
+      "42275861",
+      "27479359",
+      "26457532",
+      "41260442",
+      "23438177",
+      "29109294",
+      "25343290",
+      "30609883",
+      "39179691",
+      "39951433",
+      "29124283",
+      "39732240",
+      "24267568",
+      "27909291",
+      "26959479",
+      "39557250",
+      "24815317",
+      "27702479",
+      "30578259",
+      "27010688",
+      "42264255",
+      "41037502",
+      "15713782",
+      "40448639",
+      "34837835",
+      "42443049",
+      "42085918",
+      "23262127",
+      "40517855",
+      "16363799",
+      "37191513",
+      "37650151",
+      "30097591",
+      "25639975",
+      "24295366",
+      "29594344",
+      "40205835",
+      "40448641",
+      "15774478",
+      "24402332",
+      "42047593",
+      "31373340",
+      "20526743",
+      "30200975"
+    ],
+    "review": [
+      "42418950",
+      "39179691"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0141-0229(26)00113-4",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-472",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}
