@@ -1,0 +1,422 @@
+{
+  "identity": {
+    "pmid": "42702748",
+    "doi": "10.1002/mrm.70586",
+    "title": "OpenMRF: A Modular, Vendor-Neutral Open-Source Framework for Magnetic Resonance Fingerprinting Using Pulseq."
+  },
+  "content": {
+    "abstract": "PURPOSE: Widespread adoption and methodological advancement of magnetic resonance fingerprinting (MRF) are limited by the lack of unified, reproducible implementation frameworks and fragmented open-source tools. To address these barriers, we introduce OpenMRF-a comprehensive Pulseq-based solution-designed to enable standardized and transferable MRF research across vendors, sites, and field strengths. METHODS: OpenMRF integrates modular Pulseq-based sequence design, Bloch-equation-based dictionary generation directly from .seq files, and iterative low-rank subspace reconstruction. The framework was evaluated through digital phantom simulations, a multi-site ISMRM/NIST phantom study on Siemens MRI systems at 0.55, 1.5, and 3 T, as well as GE and United Imaging 3 T platforms, and representative in vivo acquisitions in the liver (0.55 T), myocardium (1.5 T), and brain (3 T). RESULTS: Simulations demonstrated high mapping accuracy in an ISMRM/NIST-like digital phantom, with low-rank reconstruction yielding deviations of 0.03% +/- 0.32% (T(1)) and 0.12% +/- 1.94% (T(2)). The multi-site phantom study yielded relaxation times consistent with reference values at all field strengths, with mean deviations of -0.1% +/- 2.9% (T(1)), -1.5% +/- 8.7% (T(2)), and -4.0% +/- 7.2% (T(1rho)). In vivo acquisitions produced high-quality parameter maps across different anatomical applications and field strengths. CONCLUSION: OpenMRF provides a robust, open-source, end-to-end Pulseq-based solution for MRF designed to enable reproducible sequence implementation, physics-accurate dictionary simulation, and advanced reconstruction across vendors and field strengths. By providing a unified platform for method development, comparison, and cross-vendor application, OpenMRF aims to accelerate reproducible and harmonized quantitative MRI research within the community.",
+    "keywords": [
+      "MRF",
+      "Pulseq",
+      "T1rho",
+      "cross-vendor",
+      "open-source",
+      "quantitative MRI"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Griesler, Tom",
+        "Stebani, Jannik",
+        "Kaplan, Sydney",
+        "Angelov, Ivaylo",
+        "Albert, Petra",
+        "Wech, Tobias",
+        "Blaimer, Martin",
+        "Wang, Xiang",
+        "Chen, Qingping",
+        "Zaitsev, Maxim",
+        "Zhu, Zhibo",
+        "Liu, Qi",
+        "Martin, Peter",
+        "Nielsen, Jon-Fredrik",
+        "Hamilton, Jesse I",
+        "Nordbeck, Peter",
+        "Seiberlich, Nicole",
+        "Gram, Maximilian"
+      ],
+      "short_names": [
+        "Griesler T",
+        "Stebani J",
+        "Kaplan S",
+        "Angelov I",
+        "Albert P",
+        "Wech T",
+        "Blaimer M",
+        "Wang X",
+        "Chen Q",
+        "Zaitsev M",
+        "Zhu Z",
+        "Liu Q",
+        "Martin P",
+        "Nielsen JF",
+        "Hamilton JI",
+        "Nordbeck P",
+        "Seiberlich N",
+        "Gram M"
+      ],
+      "auids": [
+        "ORCID: 0009-0003-3777-5483",
+        "ORCID: 0009-0004-9631-9928",
+        "ORCID: 0000-0003-2580-3232",
+        "ORCID: 0000-0003-3646-7019",
+        "ORCID: 0000-0002-2813-7100",
+        "ORCID: 0000-0002-6360-9871",
+        "ORCID: 0000-0002-8719-7672",
+        "ORCID: 0000-0002-2058-3579",
+        "ORCID: 0000-0002-4463-481X",
+        "ORCID: 0000-0002-2560-4068",
+        "ORCID: 0000-0002-8356-5407",
+        "ORCID: 0000-0003-2184-3325"
+      ],
+      "affiliations": [
+        "Department of Radiology, University of Michigan, Ann Arbor, Michigan, USA.",
+        "Department of Biomedical Engineering, University of Michigan, Ann Arbor, Michigan, USA.",
+        "Experimental Physics 5, University of Wurzburg, Wurzburg, Germany.",
+        "Magnetic Resonance and X-Ray Imaging Department, Fraunhofer Institute for Integrated Circuits IIS, Division Development Center X-Ray Technology, Wurzburg, Germany.",
+        "Department of Radiology, University of Michigan, Ann Arbor, Michigan, USA.",
+        "Department of Biomedical Engineering, University of Michigan, Ann Arbor, Michigan, USA.",
+        "Experimental Physics 5, University of Wurzburg, Wurzburg, Germany.",
+        "Experimental Physics 5, University of Wurzburg, Wurzburg, Germany.",
+        "Department of Internal Medicine I, University Hospital Wurzburg, Wurzburg, Germany.",
+        "Department of Diagnostic and Interventional Radiology, University Hospital Wurzburg, Wurzburg, Germany.",
+        "Experimental Physics 5, University of Wurzburg, Wurzburg, Germany.",
+        "Magnetic Resonance and X-Ray Imaging Department, Fraunhofer Institute for Integrated Circuits IIS, Division Development Center X-Ray Technology, Wurzburg, Germany.",
+        "Institute of Neuroradiology, University Hospital Erlangen, Erlangen, Germany.",
+        "Division of Medical Physics, Department of Diagnostic and Interventional Radiology, University Medical Center Freiburg, Faculty of Medicine, University of Freiburg, Freiburg, Germany.",
+        "Division of Medical Physics, Department of Diagnostic and Interventional Radiology, University Medical Center Freiburg, Faculty of Medicine, University of Freiburg, Freiburg, Germany.",
+        "Division of Medical Physics, Department of Diagnostic and Interventional Radiology, University Medical Center Freiburg, Faculty of Medicine, University of Freiburg, Freiburg, Germany.",
+        "United Imaging Healthcare North America, Houston, Texas, USA.",
+        "United Imaging Healthcare North America, Houston, Texas, USA.",
+        "United Imaging Healthcare North America, Houston, Texas, USA.",
+        "Department of Radiology, University of Michigan, Ann Arbor, Michigan, USA.",
+        "Department of Biomedical Engineering, University of Michigan, Ann Arbor, Michigan, USA.",
+        "Department of Radiology, University of Michigan, Ann Arbor, Michigan, USA.",
+        "Department of Biomedical Engineering, University of Michigan, Ann Arbor, Michigan, USA.",
+        "Department of Internal Medicine I, University Hospital Wurzburg, Wurzburg, Germany.",
+        "Department of Radiology, University of Michigan, Ann Arbor, Michigan, USA.",
+        "Department of Biomedical Engineering, University of Michigan, Ann Arbor, Michigan, USA.",
+        "Department of Radiology, University of Michigan, Ann Arbor, Michigan, USA.",
+        "Experimental Physics 5, University of Wurzburg, Wurzburg, Germany.",
+        "Department of Internal Medicine I, University Hospital Wurzburg, Wurzburg, Germany."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Griesler, Tom",
+        "short_name": "Griesler T",
+        "identifiers": [
+          "0009-0003-3777-5483"
+        ],
+        "affiliations": [
+          "Department of Radiology, University of Michigan, Ann Arbor, Michigan, USA.",
+          "Department of Biomedical Engineering, University of Michigan, Ann Arbor, Michigan, USA."
+        ]
+      },
+      {
+        "full_name": "Stebani, Jannik",
+        "short_name": "Stebani J",
+        "identifiers": [
+          "0009-0004-9631-9928"
+        ],
+        "affiliations": [
+          "Experimental Physics 5, University of Würzburg, Würzburg, Germany.",
+          "Magnetic Resonance and X-Ray Imaging Department, Fraunhofer Institute for Integrated Circuits IIS, Division Development Center X-Ray Technology, Würzburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Kaplan, Sydney",
+        "short_name": "Kaplan S",
+        "identifiers": [
+          "0000-0003-2580-3232"
+        ],
+        "affiliations": [
+          "Department of Radiology, University of Michigan, Ann Arbor, Michigan, USA.",
+          "Department of Biomedical Engineering, University of Michigan, Ann Arbor, Michigan, USA."
+        ]
+      },
+      {
+        "full_name": "Angelov, Ivaylo",
+        "short_name": "Angelov I",
+        "identifiers": [],
+        "affiliations": [
+          "Experimental Physics 5, University of Würzburg, Würzburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Albert, Petra",
+        "short_name": "Albert P",
+        "identifiers": [
+          "0000-0003-3646-7019"
+        ],
+        "affiliations": [
+          "Experimental Physics 5, University of Würzburg, Würzburg, Germany.",
+          "Department of Internal Medicine I, University Hospital Würzburg, Würzburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Wech, Tobias",
+        "short_name": "Wech T",
+        "identifiers": [
+          "0000-0002-2813-7100"
+        ],
+        "affiliations": [
+          "Department of Diagnostic and Interventional Radiology, University Hospital Würzburg, Würzburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Blaimer, Martin",
+        "short_name": "Blaimer M",
+        "identifiers": [
+          "0000-0002-6360-9871"
+        ],
+        "affiliations": [
+          "Experimental Physics 5, University of Würzburg, Würzburg, Germany.",
+          "Magnetic Resonance and X-Ray Imaging Department, Fraunhofer Institute for Integrated Circuits IIS, Division Development Center X-Ray Technology, Würzburg, Germany.",
+          "Institute of Neuroradiology, University Hospital Erlangen, Erlangen, Germany."
+        ]
+      },
+      {
+        "full_name": "Wang, Xiang",
+        "short_name": "Wang X",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Medical Physics, Department of Diagnostic and Interventional Radiology, University Medical Center Freiburg, Faculty of Medicine, University of Freiburg, Freiburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Chen, Qingping",
+        "short_name": "Chen Q",
+        "identifiers": [
+          "0000-0002-8719-7672"
+        ],
+        "affiliations": [
+          "Division of Medical Physics, Department of Diagnostic and Interventional Radiology, University Medical Center Freiburg, Faculty of Medicine, University of Freiburg, Freiburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Zaitsev, Maxim",
+        "short_name": "Zaitsev M",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Medical Physics, Department of Diagnostic and Interventional Radiology, University Medical Center Freiburg, Faculty of Medicine, University of Freiburg, Freiburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Zhu, Zhibo",
+        "short_name": "Zhu Z",
+        "identifiers": [],
+        "affiliations": [
+          "United Imaging Healthcare North America, Houston, Texas, USA."
+        ]
+      },
+      {
+        "full_name": "Liu, Qi",
+        "short_name": "Liu Q",
+        "identifiers": [],
+        "affiliations": [
+          "United Imaging Healthcare North America, Houston, Texas, USA."
+        ]
+      },
+      {
+        "full_name": "Martin, Peter",
+        "short_name": "Martin P",
+        "identifiers": [],
+        "affiliations": [
+          "United Imaging Healthcare North America, Houston, Texas, USA."
+        ]
+      },
+      {
+        "full_name": "Nielsen, Jon-Fredrik",
+        "short_name": "Nielsen JF",
+        "identifiers": [
+          "0000-0002-2058-3579"
+        ],
+        "affiliations": [
+          "Department of Radiology, University of Michigan, Ann Arbor, Michigan, USA.",
+          "Department of Biomedical Engineering, University of Michigan, Ann Arbor, Michigan, USA."
+        ]
+      },
+      {
+        "full_name": "Hamilton, Jesse I",
+        "short_name": "Hamilton JI",
+        "identifiers": [
+          "0000-0002-4463-481X"
+        ],
+        "affiliations": [
+          "Department of Radiology, University of Michigan, Ann Arbor, Michigan, USA.",
+          "Department of Biomedical Engineering, University of Michigan, Ann Arbor, Michigan, USA."
+        ]
+      },
+      {
+        "full_name": "Nordbeck, Peter",
+        "short_name": "Nordbeck P",
+        "identifiers": [
+          "0000-0002-2560-4068"
+        ],
+        "affiliations": [
+          "Department of Internal Medicine I, University Hospital Würzburg, Würzburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Seiberlich, Nicole",
+        "short_name": "Seiberlich N",
+        "identifiers": [
+          "0000-0002-8356-5407"
+        ],
+        "affiliations": [
+          "Department of Radiology, University of Michigan, Ann Arbor, Michigan, USA.",
+          "Department of Biomedical Engineering, University of Michigan, Ann Arbor, Michigan, USA."
+        ]
+      },
+      {
+        "full_name": "Gram, Maximilian",
+        "short_name": "Gram M",
+        "identifiers": [
+          "0000-0003-2184-3325"
+        ],
+        "affiliations": [
+          "Department of Radiology, University of Michigan, Ann Arbor, Michigan, USA.",
+          "Experimental Physics 5, University of Würzburg, Würzburg, Germany.",
+          "Department of Internal Medicine I, University Hospital Würzburg, Würzburg, Germany."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Magnetic resonance in medicine"
+    ],
+    "journal_abbrev": [
+      "Magn Reson Med"
+    ],
+    "pub_date": "2026 Sep 6",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/07 05:35",
+    "fetched_at": "2026-09-08 15:48:04"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42702748",
+      "42078496",
+      "42558037",
+      "40542972",
+      "40420483",
+      "33690905",
+      "40173321",
+      "41903184",
+      "35084744",
+      "41387985",
+      "40235764",
+      "37015305",
+      "34752644",
+      "39965744",
+      "41569085",
+      "35815660",
+      "41587646",
+      "31217366",
+      "39718435",
+      "38469671",
+      "40274701",
+      "29540330",
+      "35811730",
+      "34091035",
+      "36422648",
+      "34191819",
+      "36347826",
+      "31834641",
+      "34116134",
+      "40380988",
+      "27790751",
+      "37202655",
+      "40605822",
+      "33949741",
+      "39169559",
+      "38386904",
+      "39219179",
+      "35434217",
+      "36877139",
+      "42306264",
+      "40665614",
+      "40950473",
+      "40387505",
+      "35403235",
+      "41395807",
+      "34487357",
+      "33554369",
+      "34792212",
+      "36764630",
+      "40800746",
+      "30720209",
+      "38523462",
+      "40944613",
+      "38380700",
+      "34799854",
+      "30582254",
+      "42539102",
+      "33221451",
+      "31740194",
+      "32500541",
+      "27277048",
+      "33464181",
+      "40407793",
+      "36796102",
+      "30499221",
+      "33513165",
+      "27981641",
+      "32406125",
+      "37885320",
+      "35657066",
+      "40995826",
+      "37946191",
+      "41665217",
+      "42528010",
+      "30834594",
+      "40259681",
+      "37812483",
+      "40808280",
+      "41085013",
+      "28666939",
+      "34601737",
+      "39602889",
+      "34506911",
+      "41558953",
+      "27660042",
+      "35968675",
+      "28411394",
+      "38192263",
+      "38156945",
+      "35199877",
+      "36574163",
+      "38282270",
+      "42475469",
+      "41558177",
+      "35129226",
+      "30229558",
+      "40967293",
+      "29972693",
+      "32434276",
+      "32739341"
+    ],
+    "review": [
+      "42702748"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

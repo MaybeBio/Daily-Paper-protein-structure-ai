@@ -1,0 +1,298 @@
+{
+  "identity": {
+    "pmid": "42681018",
+    "doi": "10.1007/978-1-0716-5515-3_15",
+    "title": "CryoEM Strategies for Elucidating the Closed State Architecture of CCT."
+  },
+  "content": {
+    "abstract": "Cryo-electron microscopy (CryoEM) has emerged as a state-of-the-art technique in structural biology, thanks to advances in sample preparation, high-voltage electron microscopy, direct electron detectors, and sophisticated image processing software. In this study, we investigate the eukaryotic chaperonin CCT, a ~1 MDa hetero-oligomeric complex essential for the folding of key substrates such as actin, tubulin, and WD40 family members. While several open-state structures of CCT have been resolved, the highest-resolution reconstructions have been obtained in the closed state. This is primarily due to the increased structural rigidity of the complex when its apical domains become immobilized in this conformation. However, the pseudo-symmetric arrangement of subunits in the closed state poses challenges for subunit identification. Here, we present a workflow for obtaining a high-resolution CryoEM structure of closed CCT, achieved without the use of nanobodies, substrates, or any tools designed to increase CCT asymmetry. Our results demonstrate that subunit assignment and atomic modeling are achievable by exploiting subunit-intrinsic structural features alone.",
+    "keywords": [
+      "ATP-AlFx",
+      "ATPase cycle",
+      "CCT",
+      "Chaperonin",
+      "Closed conformation",
+      "Cryo-electron microscopy",
+      "Docking and atomic model",
+      "Electron microscopy",
+      "Image processing",
+      "Molecular chaperone",
+      "Three-dimensional reconstruction"
+    ],
+    "mesh_terms": [
+      "*Cryoelectron Microscopy/methods",
+      "*Chaperonin Containing TCP-1/chemistry/metabolism/ultrastructure",
+      "Models, Molecular",
+      "Protein Conformation",
+      "Image Processing, Computer-Assisted/methods"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Gutierrez-Seijo, Jorge",
+        "Cuervo, Ana",
+        "Pipaon, Sergio",
+        "Gil-Cantero, David",
+        "Majano, Carmen",
+        "Santiago, Cesar",
+        "Valpuesta, Jose Maria",
+        "Cuellar, Jorge"
+      ],
+      "short_names": [
+        "Gutierrez-Seijo J",
+        "Cuervo A",
+        "Pipaon S",
+        "Gil-Cantero D",
+        "Majano C",
+        "Santiago C",
+        "Valpuesta JM",
+        "Cuellar J"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Centro Nacional de Biotecnologia, Consejo Superior de Investigaciones Cientificas, Madrid, Spain.",
+        "Centro Nacional de Biotecnologia, Consejo Superior de Investigaciones Cientificas, Madrid, Spain.",
+        "Centro Nacional de Biotecnologia, Consejo Superior de Investigaciones Cientificas, Madrid, Spain.",
+        "Centro Nacional de Biotecnologia, Consejo Superior de Investigaciones Cientificas, Madrid, Spain.",
+        "Centro Nacional de Biotecnologia, Consejo Superior de Investigaciones Cientificas, Madrid, Spain.",
+        "Centro Nacional de Biotecnologia, Consejo Superior de Investigaciones Cientificas, Madrid, Spain.",
+        "Centro Nacional de Biotecnologia, Consejo Superior de Investigaciones Cientificas, Madrid, Spain.",
+        "Centro Nacional de Biotecnologia, Consejo Superior de Investigaciones Cientificas, Madrid, Spain. jcuellar@cnb.csic.es."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Gutiérrez-Seijo, Jorge",
+        "short_name": "Gutiérrez-Seijo J",
+        "identifiers": [],
+        "affiliations": [
+          "Centro Nacional de Biotecnología, Consejo Superior de Investigaciones Científicas, Madrid, Spain."
+        ]
+      },
+      {
+        "full_name": "Cuervo, Ana",
+        "short_name": "Cuervo A",
+        "identifiers": [],
+        "affiliations": [
+          "Centro Nacional de Biotecnología, Consejo Superior de Investigaciones Científicas, Madrid, Spain."
+        ]
+      },
+      {
+        "full_name": "Pipaón, Sergio",
+        "short_name": "Pipaón S",
+        "identifiers": [],
+        "affiliations": [
+          "Centro Nacional de Biotecnología, Consejo Superior de Investigaciones Científicas, Madrid, Spain."
+        ]
+      },
+      {
+        "full_name": "Gil-Cantero, David",
+        "short_name": "Gil-Cantero D",
+        "identifiers": [],
+        "affiliations": [
+          "Centro Nacional de Biotecnología, Consejo Superior de Investigaciones Científicas, Madrid, Spain."
+        ]
+      },
+      {
+        "full_name": "Majano, Carmen",
+        "short_name": "Majano C",
+        "identifiers": [],
+        "affiliations": [
+          "Centro Nacional de Biotecnología, Consejo Superior de Investigaciones Científicas, Madrid, Spain."
+        ]
+      },
+      {
+        "full_name": "Santiago, César",
+        "short_name": "Santiago C",
+        "identifiers": [],
+        "affiliations": [
+          "Centro Nacional de Biotecnología, Consejo Superior de Investigaciones Científicas, Madrid, Spain."
+        ]
+      },
+      {
+        "full_name": "Valpuesta, José María",
+        "short_name": "Valpuesta JM",
+        "identifiers": [],
+        "affiliations": [
+          "Centro Nacional de Biotecnología, Consejo Superior de Investigaciones Científicas, Madrid, Spain."
+        ]
+      },
+      {
+        "full_name": "Cuéllar, Jorge",
+        "short_name": "Cuéllar J",
+        "identifiers": [],
+        "affiliations": [
+          "Centro Nacional de Biotecnología, Consejo Superior de Investigaciones Científicas, Madrid, Spain. jcuellar@cnb.csic.es."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Methods in molecular biology (Clifton, N.J.)"
+    ],
+    "journal_abbrev": [
+      "Methods Mol Biol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/02 05:36",
+    "fetched_at": "2026-09-08 15:48:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42681018",
+      "42681019",
+      "32866476",
+      "31492816",
+      "11080144",
+      "11483510",
+      "38848218",
+      "22503819",
+      "30978594",
+      "23478063",
+      "21701561",
+      "27775711",
+      "30955883",
+      "21151115",
+      "23612981",
+      "20194787",
+      "10604479",
+      "36196890",
+      "27572730",
+      "12456645",
+      "25675501",
+      "39663456",
+      "17304242",
+      "34158536",
+      "25651412",
+      "39914052",
+      "9553054",
+      "32297209",
+      "29735743",
+      "10748209",
+      "10404219",
+      "27806916",
+      "16415341",
+      "25760083",
+      "31939165",
+      "7953530",
+      "26638773",
+      "30291170",
+      "22045336",
+      "36493755",
+      "18403197",
+      "29625202",
+      "21501817",
+      "32006285",
+      "24420718",
+      "16672233",
+      "42681004",
+      "24375412",
+      "35785962",
+      "36921056",
+      "25416944",
+      "37193829",
+      "21056978",
+      "26395202",
+      "10926512",
+      "31253771",
+      "34896365",
+      "25936650",
+      "31410727",
+      "28368275",
+      "18536725",
+      "16762366",
+      "15583139",
+      "10383429",
+      "11580270",
+      "10998624",
+      "20696391",
+      "37414374",
+      "27572733",
+      "25342745",
+      "40400346",
+      "20090755",
+      "23041314",
+      "34076596",
+      "27615185",
+      "29119431",
+      "40675044",
+      "29095551",
+      "25544475",
+      "9153422",
+      "38280673",
+      "39181502",
+      "35602608",
+      "11532003",
+      "17277411",
+      "29526767",
+      "10671484",
+      "27572732",
+      "30509756",
+      "16770691",
+      "33836586",
+      "42055641",
+      "20888467",
+      "27572724",
+      "35679404",
+      "26401895",
+      "27276256",
+      "39147729",
+      "29864529",
+      "27572727"
+    ],
+    "review": [
+      "42681018",
+      "30978594",
+      "36196890",
+      "27572730",
+      "39914052",
+      "32297209",
+      "29735743",
+      "31939165",
+      "26638773",
+      "30291170",
+      "18403197",
+      "21501817",
+      "35785962",
+      "25936650",
+      "28368275",
+      "37414374",
+      "27572733",
+      "27615185",
+      "25544475",
+      "38280673",
+      "39181502",
+      "35602608",
+      "29526767",
+      "27572732",
+      "30509756",
+      "27572724",
+      "26401895"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1007/978-1-0716-5515-3_15",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

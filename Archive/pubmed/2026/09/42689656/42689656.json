@@ -1,0 +1,239 @@
+{
+  "identity": {
+    "pmid": "42689656",
+    "doi": "10.1021/acs.langmuir.6c01915",
+    "title": "Cholesterol-Enriched Membranes Reshape the Conformational Ensemble and Interfacial Mechanics of ACE2."
+  },
+  "content": {
+    "abstract": "Angiotensin-converting enzyme 2 (ACE2) is a type I transmembrane protein that functions as the primary entry receptor for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). ACE2 comprises a zinc-dependent extracellular domain (ECD) and forms homodimers, as resolved by cryoelectron microscopy (cryo-EM). Experimental evidence indicates that membrane lipid composition, particularly cholesterol enrichment and partitioning into lipid raft microdomains, modulates ACE2 organization. However, the molecular mechanisms by which the lipid environment governs ACE2 conformational dynamics and oligomeric stability remain insufficiently characterized. Here, we performed multireplica all-atom molecular dynamics (MD) simulations of monomeric and dimeric ACE2 embedded in membrane models spanning fluid phospholipid bilayers to cholesterol- and sphingolipid-enriched raft-like environments. The membrane composition reproducibly reshaped ACE2 conformational ensembles. In fluid bilayers, monomeric ACE2 exhibited increased transmembrane (TM) helix tilting and enhanced bending of the ECD toward the membrane surface, resulting in a broader distribution of ECD orientations. This increased extracellular domain flexibility promotes conformations in which the spike-binding epitope is oriented toward the membrane, thereby reducing its geometric accessibility for viral attachment. Potential of mean force (PMF) profiles further supported the membrane-dependent shift in the energetic landscape of monomeric ACE2. In contrast, raft-like membranes restricted large-scale motions, favored smaller TM helix tilt angles, and stabilized a more upright ECD orientation. Together, these findings support the coupling between the transmembrane helix orientation and ECD positioning, whereby the lipid environment modulates the receptor-scale conformational flexibility. Moreover, in ACE2 homodimers, cholesterol-rich environments are associated with reduced interprotomer fluctuations, supporting the membrane-dependent modulation of dimer dynamics. These results identify membrane composition as a conformational gatekeeper of ACE2, coupling bilayer organization to receptor structural ensembles and regulating the accessibility of the viral-binding interface.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Angiotensin-Converting Enzyme 2/chemistry/metabolism",
+      "*Cholesterol/chemistry/metabolism",
+      "Molecular Dynamics Simulation",
+      "*Lipid Bilayers/chemistry/metabolism",
+      "Humans",
+      "Membrane Microdomains/chemistry/metabolism",
+      "Protein Conformation",
+      "SARS-CoV-2"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Orzel, Urszula",
+        "Filipek, Slawomir",
+        "Moreira, Irina S"
+      ],
+      "short_names": [
+        "Orzel U",
+        "Filipek S",
+        "Moreira IS"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-2970-5250"
+      ],
+      "affiliations": [
+        "Department of Life Sciences, University of Coimbra, Calcada Martim de Freitas, Coimbra3000-456, Portugal.",
+        "PhD in Biosciences, Department of Life Sciences, University of Coimbra, Calcada Martim de Freitas, Coimbra3000-456, Portugal.",
+        "CNC - Center for Neuroscience and Cell Biology, CIBB - Center for Innovative Biomedicine and Biotechnology, University of Coimbra, Coimbra3004-504, Portugal.",
+        "Faculty of Chemistry, University of Warsaw, Warsaw02-093, Poland.",
+        "Biological and Chemical Research Centre, University of Warsaw, Warsaw02-089, Poland.",
+        "Faculty of Chemistry, University of Warsaw, Warsaw02-093, Poland.",
+        "Biological and Chemical Research Centre, University of Warsaw, Warsaw02-089, Poland.",
+        "Department of Life Sciences, University of Coimbra, Calcada Martim de Freitas, Coimbra3000-456, Portugal.",
+        "CNC - Center for Neuroscience and Cell Biology, CIBB - Center for Innovative Biomedicine and Biotechnology, University of Coimbra, Coimbra3004-504, Portugal."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Orzeł, Urszula",
+        "short_name": "Orzeł U",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Life Sciences, University of Coimbra, Calçada Martim de Freitas, Coimbra3000-456, Portugal.",
+          "PhD in Biosciences, Department of Life Sciences, University of Coimbra, Calçada Martim de Freitas, Coimbra3000-456, Portugal.",
+          "CNC - Center for Neuroscience and Cell Biology, CIBB - Center for Innovative Biomedicine and Biotechnology, University of Coimbra, Coimbra3004-504, Portugal.",
+          "Faculty of Chemistry, University of Warsaw, Warsaw02-093, Poland.",
+          "Biological and Chemical Research Centre, University of Warsaw, Warsaw02-089, Poland."
+        ]
+      },
+      {
+        "full_name": "Filipek, Sławomir",
+        "short_name": "Filipek S",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Chemistry, University of Warsaw, Warsaw02-093, Poland.",
+          "Biological and Chemical Research Centre, University of Warsaw, Warsaw02-089, Poland."
+        ]
+      },
+      {
+        "full_name": "Moreira, Irina S",
+        "short_name": "Moreira IS",
+        "identifiers": [
+          "0000-0003-2970-5250"
+        ],
+        "affiliations": [
+          "Department of Life Sciences, University of Coimbra, Calçada Martim de Freitas, Coimbra3000-456, Portugal.",
+          "CNC - Center for Neuroscience and Cell Biology, CIBB - Center for Innovative Biomedicine and Biotechnology, University of Coimbra, Coimbra3004-504, Portugal."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Langmuir : the ACS journal of surfaces and colloids"
+    ],
+    "journal_abbrev": [
+      "Langmuir"
+    ],
+    "pub_date": "2026 Sep 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/03 17:36",
+    "fetched_at": "2026-09-08 15:48:04"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42689656",
+      "39570043",
+      "33189680",
+      "41177220",
+      "38869513",
+      "20804205",
+      "39339934",
+      "32995769",
+      "18814896",
+      "42075932",
+      "42522576",
+      "39692154",
+      "33657325",
+      "40474679",
+      "33864655",
+      "34105996",
+      "40539804",
+      "41712319",
+      "33172372",
+      "39962897",
+      "23896554",
+      "34874124",
+      "38344933",
+      "32848162",
+      "37769161",
+      "33493919",
+      "42106139",
+      "42331085",
+      "40704806",
+      "41155509",
+      "36277437",
+      "38696745",
+      "41484143",
+      "35620980",
+      "33274945",
+      "40643983",
+      "41706884",
+      "35249180",
+      "31816323",
+      "17520480",
+      "42391802",
+      "38373700",
+      "34516024",
+      "41033117",
+      "39385589",
+      "40494932",
+      "37137903",
+      "39471972",
+      "30102747",
+      "41707057",
+      "37896850",
+      "39401361",
+      "34169390",
+      "36014919",
+      "38634827",
+      "33432247",
+      "34188005",
+      "33277323",
+      "34930910",
+      "33103998",
+      "33737804",
+      "33785634",
+      "32762417",
+      "33611368",
+      "34375467",
+      "34603638",
+      "39066230",
+      "38909280",
+      "32833435",
+      "33914685",
+      "34975904",
+      "35194049",
+      "37477247",
+      "40763330",
+      "34445414",
+      "33619962",
+      "35455955",
+      "35343766",
+      "12655369",
+      "33003587",
+      "35323111",
+      "33689337",
+      "20017540",
+      "34494876",
+      "41152301",
+      "37842796",
+      "33387467",
+      "37643074",
+      "34762895",
+      "38885191",
+      "33669132",
+      "33767306",
+      "34655895",
+      "34570497",
+      "41422309",
+      "40733630",
+      "37976416",
+      "35736838",
+      "40673918",
+      "39349594"
+    ],
+    "review": [
+      "42689656",
+      "34975904"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/cholesterol.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Cholesterol"
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-438",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/langd5/article-lookup/doi/10.1021/acs.langmuir.6c01915",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

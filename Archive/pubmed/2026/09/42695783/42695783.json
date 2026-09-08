@@ -1,0 +1,259 @@
+{
+  "identity": {
+    "pmid": "42695783",
+    "doi": "10.7554/eLife.108186",
+    "title": "Squidly harnesses enzyme functional hierarchy and contrastive learning to efficiently predict catalytic residues from sequence."
+  },
+  "content": {
+    "abstract": "Enzymes present a sustainable alternative to traditional chemical industries, drug synthesis, and bioremediation applications. Because catalytic residues are the key amino acids that drive enzyme function, their accurate prediction facilitates enzyme function prediction. Sequence similarity-based approaches such as BLAST are fast but require previously annotated homologues. Machine-learning (ML) approaches aim to overcome this limitation; however, current gold-standard ML-based methods require high-quality 3D structures limiting their application to large datasets. To address these challenges, we developed Squidly, a sequence-only tool that leverages contrastive representation learning with a biology-informed, rationally designed pairing scheme to distinguish catalytic from non-catalytic residues using per-token Protein Language Model embeddings. Squidly surpasses state-of-the-art ML annotation methods in catalytic residue prediction while remaining sufficiently fast to enable wide-scale screening of databases. We ensemble Squidly with BLAST to provide an efficient tool that annotates catalytic residues with high precision and recall for both in- and out-of-distribution sequences.",
+    "keywords": [
+      "biochemistry",
+      "catalytic residues",
+      "chemical biology",
+      "computational biology",
+      "enzymes",
+      "machine learning",
+      "systems biology"
+    ],
+    "mesh_terms": [
+      "*Enzymes/chemistry/metabolism/genetics",
+      "*Machine Learning",
+      "Prediction Algorithms",
+      "*Computational Biology/methods",
+      "Catalytic Domain",
+      "Predictive Learning Models"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Rieger, William J F",
+        "Boden, Mikael",
+        "Arnold, Frances",
+        "Mora, Ariane"
+      ],
+      "short_names": [
+        "Rieger WJF",
+        "Boden M",
+        "Arnold F",
+        "Mora A"
+      ],
+      "auids": [
+        "ORCID: 0009-0005-9574-3468",
+        "ORCID: 0000-0002-4027-364X",
+        "ORCID: 0000-0003-1331-8192"
+      ],
+      "affiliations": [
+        "School of Chemistry and Molecular Biology, University of Queensland, Queensland, Australia.",
+        "School of Chemistry and Molecular Biology, University of Queensland, Queensland, Australia.",
+        "Division of Chemistry and Chemical Engineering, California Institute of Technology, Pasadena, United States.",
+        "Division of Chemistry and Chemical Engineering, California Institute of Technology, Pasadena, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Rieger, William J F",
+        "short_name": "Rieger WJF",
+        "identifiers": [
+          "0009-0005-9574-3468"
+        ],
+        "affiliations": [
+          "School of Chemistry and Molecular Biology, University of Queensland, Queensland, Australia."
+        ]
+      },
+      {
+        "full_name": "Bodén, Mikael",
+        "short_name": "Bodén M",
+        "identifiers": [],
+        "affiliations": [
+          "School of Chemistry and Molecular Biology, University of Queensland, Queensland, Australia."
+        ]
+      },
+      {
+        "full_name": "Arnold, Frances",
+        "short_name": "Arnold F",
+        "identifiers": [
+          "0000-0002-4027-364X"
+        ],
+        "affiliations": [
+          "Division of Chemistry and Chemical Engineering, California Institute of Technology, Pasadena, United States."
+        ]
+      },
+      {
+        "full_name": "Mora, Ariane",
+        "short_name": "Mora A",
+        "identifiers": [
+          "0000-0003-1331-8192"
+        ],
+        "affiliations": [
+          "Division of Chemistry and Chemical Engineering, California Institute of Technology, Pasadena, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "eLife"
+    ],
+    "journal_abbrev": [
+      "Elife"
+    ],
+    "pub_date": "2026 Sep 4",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/04 17:40",
+    "fetched_at": "2026-09-08 15:48:04"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42695783",
+      "39724324",
+      "40171777",
+      "42126889",
+      "26261982",
+      "21976378",
+      "39187482",
+      "18096640",
+      "40833413",
+      "39167509",
+      "16790052",
+      "18710875",
+      "17887954",
+      "29408627",
+      "26538500",
+      "29273005",
+      "39715863",
+      "18287176",
+      "23110141",
+      "20796320",
+      "26077845",
+      "26542446",
+      "36996195",
+      "41943190",
+      "40016653",
+      "39162313",
+      "23433045",
+      "42059635",
+      "20551136",
+      "42563495",
+      "42412796",
+      "42374910",
+      "39294165",
+      "23675414",
+      "41581118",
+      "30277150",
+      "41904150",
+      "38740355",
+      "41108546",
+      "26412789",
+      "42441732",
+      "40885347",
+      "40971691",
+      "18206645",
+      "28627775",
+      "42616438",
+      "21079665",
+      "21689481",
+      "42248581",
+      "33001599",
+      "20072606",
+      "26956673",
+      "22558194",
+      "42561589",
+      "40548541",
+      "42475469",
+      "39657158",
+      "21254002",
+      "18190718",
+      "41741511",
+      "30241466",
+      "35533564",
+      "41855415",
+      "42173334",
+      "19361344",
+      "42312747",
+      "12662930",
+      "42244114",
+      "41329596",
+      "40079266",
+      "31847804",
+      "41259416",
+      "42265586",
+      "37905033",
+      "31796628",
+      "39921889",
+      "40127128",
+      "41642902",
+      "40601249",
+      "20980272",
+      "21714026",
+      "24885296",
+      "35325031",
+      "38743747",
+      "41168713",
+      "42469205",
+      "29536446",
+      "36964722",
+      "40545645",
+      "41310253",
+      "23117653",
+      "41990738",
+      "39780486",
+      "26426731",
+      "41652158",
+      "24416252",
+      "22574904",
+      "39665266",
+      "41406463",
+      "33076816"
+    ],
+    "review": [
+      "42695783",
+      "41581118",
+      "30277150",
+      "38740355",
+      "40885347",
+      "42616438",
+      "35533564",
+      "31796628",
+      "41652158"
+    ],
+    "pmc": [
+      "13544906"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42695783/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD48-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.7554/eLife.108186",
+        "provider": "eLife Sciences Publications, Ltd",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

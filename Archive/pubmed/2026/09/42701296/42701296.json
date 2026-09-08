@@ -1,0 +1,230 @@
+{
+  "identity": {
+    "pmid": "42701296",
+    "doi": "10.1021/jacs.6c11584",
+    "title": "Tuning the ZIKV NS3 Helicase Motor Activity through Magnesium Coordination and RNA-Driven Allostery."
+  },
+  "content": {
+    "abstract": "Viral NS3 helicases convert the chemical energy of ATP hydrolysis into directional motion along nucleic acids, but the molecular basis of this coupling remains unclear. Here, we combine AI-based structural modeling, molecular dynamics simulations, and hybrid QM/MM free energy calculations to investigate ATP hydrolysis in the Zika virus NS3 helicase (ZIKV NS3h). We first address the structural limitations of the available ternary crystallographic structure, which displays a noncanonical ATP-Mg2+ coordination mode and an RNA-binding arrangement inconsistent with the expected ATP-bound state. Our simulations show that alternative ATP-Mg2+ coordination modes can form stable but less favorable local minima, potentially associated with the secondary pyrophosphatase activity reported for this enzyme. Instead, the AlphaFold-predicted ternary complex provides a catalytically competent model with canonical coordination and the expected two-nucleotide separation between conserved \"pincer\" residues. We then use this model to explain the origin of RNA-stimulated ATPase activity. In the absence of ssRNA, the ATPase active site samples a broad conformational ensemble dominated by open, catalytically impaired states. Binding of ssRNA restricts this landscape and stabilizes a closed conformation in which the catalytic motifs are properly aligned. QM/MM free energy profiles show that the open state is effectively inactive, whereas the closed state lowers the activation barrier for ATP hydrolysis by optimizing active-site interactions with ATP and the nucleophilic water molecule. These results rationalize RNA-stimulated ATPase activity as an allosteric conformational selection mechanism that links RNA binding to optimal organization of the ATPase active site.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Magnesium/metabolism/chemistry",
+      "Molecular Dynamics Simulation",
+      "Adenosine Triphosphate/metabolism/chemistry",
+      "*Viral Nonstructural Proteins/chemistry/metabolism",
+      "*RNA Helicases/metabolism/chemistry",
+      "Allosteric Regulation",
+      "*Zika Virus/enzymology",
+      "*RNA/metabolism/chemistry",
+      "Viral Proteases",
+      "DEAD-box RNA Helicases",
+      "Hydrolysis",
+      "Serine Endopeptidases/metabolism/chemistry",
+      "Nucleoside-Triphosphatase"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Garcia-Martinez, Adrian",
+        "Ruiz-Pernia, J Javier",
+        "Tunon, Inaki"
+      ],
+      "short_names": [
+        "Garcia-Martinez A",
+        "Ruiz-Pernia JJ",
+        "Tunon I"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-4640-0419",
+        "ORCID: 0000-0002-6995-1838"
+      ],
+      "affiliations": [
+        "Departamento de Quimica Fisica, Universitat de Valencia, Burjassot46100, Spain.",
+        "Departamento de Quimica Fisica, Universitat de Valencia, Burjassot46100, Spain.",
+        "Departamento de Quimica Fisica, Universitat de Valencia, Burjassot46100, Spain."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "García-Martínez, Adrián",
+        "short_name": "García-Martínez A",
+        "identifiers": [],
+        "affiliations": [
+          "Departamento de Química Física, Universitat de València, Burjassot46100, Spain."
+        ]
+      },
+      {
+        "full_name": "Ruiz-Pernía, J Javier",
+        "short_name": "Ruiz-Pernía JJ",
+        "identifiers": [
+          "0000-0002-4640-0419"
+        ],
+        "affiliations": [
+          "Departamento de Química Física, Universitat de València, Burjassot46100, Spain."
+        ]
+      },
+      {
+        "full_name": "Tuñón, Iñaki",
+        "short_name": "Tuñón I",
+        "identifiers": [
+          "0000-0002-6995-1838"
+        ],
+        "affiliations": [
+          "Departamento de Química Física, Universitat de València, Burjassot46100, Spain."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of the American Chemical Society"
+    ],
+    "journal_abbrev": [
+      "J Am Chem Soc"
+    ],
+    "pub_date": "2026 Sep 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/06 05:40",
+    "fetched_at": "2026-09-08 15:48:04"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42701296",
+      "38884215",
+      "41558996",
+      "41104139",
+      "29659571",
+      "28341122",
+      "31914411",
+      "42103212",
+      "31361901",
+      "19008861",
+      "37712848",
+      "30672289",
+      "39469836",
+      "32371149",
+      "35987382",
+      "23526990",
+      "41373905",
+      "37528667",
+      "37823592",
+      "22558403",
+      "27915293",
+      "34904824",
+      "29913559",
+      "41762031",
+      "29165589",
+      "42655654",
+      "37747074",
+      "41833763",
+      "33080173",
+      "15289579",
+      "41448050",
+      "27226535",
+      "12162749",
+      "11000246",
+      "32105483",
+      "20421212",
+      "41667483",
+      "41062463",
+      "26358809",
+      "10074162",
+      "10497107",
+      "37921592",
+      "10769077",
+      "27430951",
+      "29526431",
+      "41581884",
+      "39733219",
+      "17373706",
+      "19166847",
+      "36926902",
+      "42364892",
+      "39116118",
+      "23893289",
+      "34516356",
+      "15464841",
+      "41428810",
+      "24228882",
+      "12660239",
+      "42366916",
+      "31461176",
+      "39499073",
+      "41855844",
+      "11846566",
+      "12944414",
+      "28835495",
+      "17319156",
+      "28689970",
+      "17084859",
+      "24465900",
+      "42288166",
+      "28202376",
+      "42213869",
+      "27940580",
+      "40866424",
+      "27273003",
+      "21145896",
+      "30281972",
+      "25223789",
+      "23703611",
+      "38673962",
+      "41104130",
+      "22138238",
+      "34388402",
+      "28461069",
+      "29633968",
+      "18201743",
+      "20887735",
+      "11483774",
+      "10574797",
+      "41652071",
+      "28542603",
+      "42323182",
+      "16397502",
+      "22535622",
+      "42494850",
+      "17893366",
+      "39684391",
+      "19153239",
+      "25653438",
+      "12324462"
+    ],
+    "review": [
+      "42701296",
+      "38673962"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/zikavirus.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Zika Virus"
+      },
+      {
+        "url": "https://pubs.acs.org/jacsat/article-lookup/doi/10.1021/jacs.6c11584",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "identity": {
+    "pmid": "42680991",
+    "doi": "10.1007/978-1-0716-5408-8_6",
+    "title": "Phylogenetic Domain Adaption for Linear B-Cell Epitope Prediction."
+  },
+  "content": {
+    "abstract": "Phylogenetic relationships among organisms define hierarchical structures that can be leveraged for domain adaptation. Traditional approaches in domain adaptation often assume homogeneous source domains or merge heterogeneous sources into a single dataset, which neglects informative inter-domain differences and may lead to negative transfer. In this chapter, a method is presented that explicitly models dependencies among source domains derived from phylogenetic trees, using taxonomy as a proxy for phylogeny and weighting the relative importance of training data across levels for the development of predictive models for linear B-cell epitopes. By capturing these relationships, the approach enhances the adaptability of neural language models and improves generalization across evolutionary branches. Computational results across multiple pathogen taxa indicate consistent performance gains compared to three state-of-the-art baselines, demonstrating the advantages of incorporating phylogenetic information into domain adaptation for epitope prediction.",
+    "keywords": [
+      "Linear B-cell epitope prediction",
+      "Phylogenetic domain adaptation",
+      "Protein language models"
+    ],
+    "mesh_terms": [
+      "*Phylogeny",
+      "*Epitopes, B-Lymphocyte/immunology/genetics/chemistry",
+      "Prediction Algorithms",
+      "*Computational Biology/methods",
+      "Humans",
+      "Protein Domains",
+      "Epitope Mapping/methods",
+      "Animals"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Leite, Lindeberg P",
+        "de Campos, Teofilo Emidio",
+        "Campelo, Felipe"
+      ],
+      "short_names": [
+        "Leite LP",
+        "de Campos TE",
+        "Campelo F"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Computer Science, University of Brasilia, DF, Brazil.",
+        "Directorate of IT and Innovation, Brazilian Federal Police, DF, Brazil.",
+        "Applied Sciences Group, Microsoft, Reading, UK.",
+        "School of Engineering Mathematics and Technology, University of Bristol, Bristol, UK. f.campelo@bristol.ac.uk."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Leite, Lindeberg P",
+        "short_name": "Leite LP",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Computer Science, University of Brasilia, DF, Brazil.",
+          "Directorate of IT and Innovation, Brazilian Federal Police, DF, Brazil."
+        ]
+      },
+      {
+        "full_name": "de Campos, Teófilo Emidio",
+        "short_name": "de Campos TE",
+        "identifiers": [],
+        "affiliations": [
+          "Applied Sciences Group, Microsoft, Reading, UK."
+        ]
+      },
+      {
+        "full_name": "Campelo, Felipe",
+        "short_name": "Campelo F",
+        "identifiers": [],
+        "affiliations": [
+          "School of Engineering Mathematics and Technology, University of Bristol, Bristol, UK. f.campelo@bristol.ac.uk."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Methods in molecular biology (Clifton, N.J.)"
+    ],
+    "journal_abbrev": [
+      "Methods Mol Biol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/02 05:36",
+    "fetched_at": "2026-09-08 15:48:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42680991",
+      "42475469",
+      "25523327",
+      "32162262",
+      "36366745",
+      "32162268",
+      "19377956",
+      "31776090",
+      "26680271",
+      "28273384",
+      "23484214",
+      "30100904",
+      "34659206",
+      "32162263",
+      "38888783",
+      "30297733",
+      "42048356",
+      "23667458",
+      "25403375",
+      "21846404",
+      "18443018",
+      "26370412",
+      "19087303",
+      "26406767",
+      "27189949",
+      "32162252",
+      "33809918",
+      "23281855",
+      "28127568",
+      "22427913",
+      "34127050",
+      "25048130",
+      "42374910",
+      "36346595",
+      "42323433",
+      "17627593",
+      "17001032",
+      "29714008",
+      "25048126",
+      "34289025",
+      "39503522",
+      "19055730",
+      "28984193",
+      "41527265",
+      "39528630",
+      "25575051",
+      "40666892",
+      "27787831",
+      "20637083",
+      "22784991",
+      "34650130",
+      "41572292",
+      "30863406",
+      "22927994",
+      "18496882",
+      "17910770",
+      "34717182",
+      "23512478",
+      "18546503",
+      "25705652",
+      "18947876",
+      "40885405",
+      "19642274",
+      "29107145",
+      "42467983",
+      "16819790",
+      "30965063",
+      "23371837",
+      "22994709",
+      "22984622",
+      "31931475",
+      "19653209",
+      "23977087",
+      "26804644",
+      "25048127",
+      "41348167",
+      "25048122",
+      "26715528",
+      "38288827",
+      "36611255",
+      "39938510",
+      "39271143",
+      "39199371",
+      "25048125",
+      "23568468",
+      "29714015",
+      "35998895",
+      "39178274",
+      "40346118",
+      "26424259",
+      "24726865",
+      "35684648",
+      "34497604",
+      "25048129",
+      "20001928",
+      "42024908",
+      "41902287",
+      "40622481",
+      "31114919",
+      "28361709"
+    ],
+    "review": [
+      "42680991",
+      "32162252",
+      "33809918",
+      "28127568",
+      "41572292",
+      "42467983",
+      "25048127",
+      "41348167",
+      "36611255",
+      "39199371"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1007/978-1-0716-5408-8_6",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "identity": {
+    "pmid": "42696540",
+    "doi": "10.1073/pnas.2605178123",
+    "title": "Systematic discovery of circular permutations across the protein universe using CIRPIN."
+  },
+  "content": {
+    "abstract": "Protein structure search has been revolutionized by deep learning methods that can rapidly search massive databases. However, current structure search tools often miss proteins related by topological rearrangements, particularly circular permutation, wherein proteins share highly similar structure but differ in the positioning of their termini. We introduce a circular permutation-invariant graph neural network (CIRPIN) that addresses this limitation through a data augmentation strategy using synthetic circular permutations. We demonstrate that CIRPIN learns representations of proteins that are invariant to circular permutation, enabling it to identify structurally similar proteins within the Structural Classification of Proteins and AlphaFold Cluster Representatives databases. Using CIRPIN, we created CIRPIN-DB, a database of 18.3 million protein pairs highly enriched for circular permutation relationships. Our database contains structures from 845 unique topologies in the CATH Protein Structure Classification database representing the largest and most comprehensive resource of proteins related by a circular permutation assembled to date. Notably, among several novel circular permutants, we find that the PDZ domain-the most commonly inserted domain within multidomain proteins-exists in four distinct circularly permuted forms. Our results establish CIRPIN as a powerful tool to investigate the evolutionary mechanisms underlying circularly permuted proteins.",
+    "keywords": [
+      "PDZ domain",
+      "circular permutation",
+      "protein evolution",
+      "structural bioinformatics"
+    ],
+    "mesh_terms": [
+      "*Proteins/chemistry",
+      "Databases, Protein",
+      "Graph Neural Networks",
+      "Protein Conformation",
+      "*Computational Biology/methods"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kolodziej, Aiden R",
+        "Abulnaga, S Mazdak",
+        "Ovchinnikov, Sergey"
+      ],
+      "short_names": [
+        "Kolodziej AR",
+        "Abulnaga SM",
+        "Ovchinnikov S"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-0745-1157",
+        "ORCID: 0000-0003-2774-2744"
+      ],
+      "affiliations": [
+        "Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 02139. ROR: https://ror.org/042nb2s44",
+        "Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology, Cambridge, MA 02139. ROR: https://ror.org/042nb2s44",
+        "Department of Radiology, Massachusetts General Hospital, Boston, MA 02115. ROR: https://ror.org/002pd6e78",
+        "Harvard Medical School, Boston, MA 02115.",
+        "Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 02139. ROR: https://ror.org/042nb2s44"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kolodziej, Aiden R",
+        "short_name": "Kolodziej AR",
+        "identifiers": [
+          "0000-0003-0745-1157"
+        ],
+        "affiliations": [
+          "Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 02139."
+        ]
+      },
+      {
+        "full_name": "Abulnaga, S Mazdak",
+        "short_name": "Abulnaga SM",
+        "identifiers": [],
+        "affiliations": [
+          "Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology, Cambridge, MA 02139.",
+          "Department of Radiology, Massachusetts General Hospital, Boston, MA 02115.",
+          "Harvard Medical School, Boston, MA 02115."
+        ]
+      },
+      {
+        "full_name": "Ovchinnikov, Sergey",
+        "short_name": "Ovchinnikov S",
+        "identifiers": [
+          "0000-0003-2774-2744"
+        ],
+        "affiliations": [
+          "Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 02139."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Proceedings of the National Academy of Sciences of the United States of America"
+    ],
+    "journal_abbrev": [
+      "Proc Natl Acad Sci U S A"
+    ],
+    "pub_date": "2026 Sep 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/04 17:40",
+    "fetched_at": "2026-09-08 15:48:04"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42696540",
+      "41332582",
+      "18201387",
+      "36582435",
+      "11579221",
+      "11514678",
+      "42063286",
+      "24564500",
+      "25505094",
+      "18842637",
+      "26976658",
+      "17937816",
+      "19906706",
+      "40889693",
+      "20112421",
+      "42475469",
+      "23185531",
+      "40343712",
+      "20525292",
+      "18263589",
+      "40326701",
+      "21376059",
+      "26517951",
+      "41633121",
+      "15558583",
+      "41432288",
+      "41911251",
+      "29746549",
+      "41288334",
+      "40483648",
+      "42119874",
+      "21898647",
+      "9489923",
+      "10743559",
+      "14698301",
+      "38505995",
+      "38870521",
+      "40418090",
+      "42088442",
+      "42028635",
+      "37704730",
+      "31702846",
+      "16543276",
+      "41468157",
+      "40569048",
+      "40839423",
+      "11551177",
+      "37933859",
+      "34641789",
+      "39145441",
+      "42508035",
+      "36540969",
+      "39672676",
+      "42412800",
+      "40630016",
+      "42587429",
+      "19908380",
+      "31602685",
+      "27899584",
+      "17672887",
+      "40920534",
+      "34265844",
+      "16648363",
+      "39197652",
+      "38114456",
+      "38501649",
+      "15096625",
+      "20163191",
+      "19679085",
+      "19557139",
+      "16188926",
+      "39446541",
+      "38718225",
+      "39223474",
+      "20186337",
+      "42166265",
+      "27709583",
+      "17270854",
+      "40852847",
+      "42398027",
+      "28150234",
+      "41936196",
+      "37448360",
+      "16431849",
+      "28403668",
+      "42691505",
+      "25576953",
+      "41325379",
+      "39480926",
+      "15701525",
+      "30040199",
+      "26087950",
+      "40728607",
+      "40624848",
+      "41174310",
+      "40174317",
+      "34999124",
+      "39848362",
+      "9309224",
+      "22081520"
+    ],
+    "review": [
+      "42696540",
+      "41432288",
+      "11551177",
+      "40630016"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.pnas.org/doi/10.1073/pnas.2605178123?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-4044",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

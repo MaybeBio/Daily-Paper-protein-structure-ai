@@ -1,0 +1,286 @@
+{
+  "identity": {
+    "pmid": "42692654",
+    "doi": "10.1016/j.foodres.2026.120157",
+    "title": "A new perspective on protein gelation regulation based on the \"skeleton effect\" of ovomucin: from molecular interactions to network structure."
+  },
+  "content": {
+    "abstract": "Previous studies have found that ovomucin (OVM) exerted a \"skeleton effect\" in egg-white thermal gels, but few studies have investigated its regulatory role in other protein systems. To expore whether the scaffolding behavior previously observed in egg-white systems can be extended to structurally different protein matrices, this study investigated the structure-dependent scaffolding effects of OVM on the thermal gelation of two separate OVM-containing protein systems: one was based on a typical plant protein, pea protein isolate (PPI), and the other was based on an animal protein, myofibrillar protein (MP). By integrating textural, rheological, microstructural, SAXS, R(net)/R(non), and molecular docking analyses, this study provided multiscale evidence for the structure-dependent regulatory effects of OVM on PPI and MP thermal gels. For PPI, the addition of OVM increased the gel hardness to approximately 5.0 times that of the PPI control, raised the network protein content to 83.50%, and resulted in the formation of a dense lamellar structure. These changes were associated with improved structural order and connectivity of protein aggregates after OVM addition. Conversely, in the fibrous MP system, OVM appeared to contribute mainly to localized reinforcement and inter-fiber association. While the gel hardness increased, the elasticity decreased, and the network exhibited a porous structure with thick intertwined fibers. Molecular docking simulations suggested that Mucin 5B had a stronger tendency for non-covalent recognition with MP than with PPI. These predicted interactions may provide initial anchoring sites on fibrous MP, whereas the final gel network was likely further stabilized by heat-induced covalent interactions. These findings suggested a possible structure-dependent regulatory mode by which OVM differentially modulated the gel properties of globular PPI and fibrous MP, providing useful theoretical guidance for precision gel modification and the structural design of plant-based and hybrid plant-animal protein foods.",
+    "keywords": [
+      "Molecular docking",
+      "Myofibrillar protein",
+      "Ovomucin",
+      "Pea protein isolate",
+      "Structure-dependent scaffolding",
+      "Thermal gelation"
+    ],
+    "mesh_terms": [
+      "*Ovomucin/chemistry",
+      "Gels/chemistry",
+      "Molecular Docking Simulation",
+      "Animals",
+      "Rheology",
+      "*Pea Proteins/chemistry",
+      "Hot Temperature",
+      "X-Ray Diffraction",
+      "Muscle Proteins/chemistry",
+      "Protein Conformation",
+      "Hardness",
+      "Scattering, Small Angle",
+      "Egg White/chemistry"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "He, Mengyu",
+        "Liu, Xin",
+        "Yang, Yanting",
+        "Ouyang, Hui",
+        "Gao, Ying",
+        "Ma, Lulu",
+        "Huo, Jiaying",
+        "Dong, Shijian",
+        "Li, Shugang"
+      ],
+      "short_names": [
+        "He M",
+        "Liu X",
+        "Yang Y",
+        "Ouyang H",
+        "Gao Y",
+        "Ma L",
+        "Huo J",
+        "Dong S",
+        "Li S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Engineering Research Center of Bio-process of Ministry of Education/Key Laboratory for Agricultural Products Processing of Anhui Province/Key Laboratory of Animal Source of Anhui Province/School of Food and Biological Engineering, Hefei University of Technology, Hefei 230601, China.",
+        "Engineering Research Center of Bio-process of Ministry of Education/Key Laboratory for Agricultural Products Processing of Anhui Province/Key Laboratory of Animal Source of Anhui Province/School of Food and Biological Engineering, Hefei University of Technology, Hefei 230601, China; Institute of Urban Agriculture, Chinese Academy of Agricultural Sciences, Chengdu National Agricultural Science & Technology Center, Chengdu 610213, China.",
+        "Engineering Research Center of Bio-process of Ministry of Education/Key Laboratory for Agricultural Products Processing of Anhui Province/Key Laboratory of Animal Source of Anhui Province/School of Food and Biological Engineering, Hefei University of Technology, Hefei 230601, China.",
+        "Engineering Research Center of Bio-process of Ministry of Education/Key Laboratory for Agricultural Products Processing of Anhui Province/Key Laboratory of Animal Source of Anhui Province/School of Food and Biological Engineering, Hefei University of Technology, Hefei 230601, China.",
+        "Engineering Research Center of Bio-process of Ministry of Education/Key Laboratory for Agricultural Products Processing of Anhui Province/Key Laboratory of Animal Source of Anhui Province/School of Food and Biological Engineering, Hefei University of Technology, Hefei 230601, China.",
+        "Engineering Research Center of Bio-process of Ministry of Education/Key Laboratory for Agricultural Products Processing of Anhui Province/Key Laboratory of Animal Source of Anhui Province/School of Food and Biological Engineering, Hefei University of Technology, Hefei 230601, China.",
+        "Engineering Research Center of Bio-process of Ministry of Education/Key Laboratory for Agricultural Products Processing of Anhui Province/Key Laboratory of Animal Source of Anhui Province/School of Food and Biological Engineering, Hefei University of Technology, Hefei 230601, China.",
+        "Anhui Rongda Food Co., Ltd., Guangde 242200, China.",
+        "Engineering Research Center of Bio-process of Ministry of Education/Key Laboratory for Agricultural Products Processing of Anhui Province/Key Laboratory of Animal Source of Anhui Province/School of Food and Biological Engineering, Hefei University of Technology, Hefei 230601, China. Electronic address: lishugang2020@hfut.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "He, Mengyu",
+        "short_name": "He M",
+        "identifiers": [],
+        "affiliations": [
+          "Engineering Research Center of Bio-process of Ministry of Education/Key Laboratory for Agricultural Products Processing of Anhui Province/Key Laboratory of Animal Source of Anhui Province/School of Food and Biological Engineering, Hefei University of Technology, Hefei 230601, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Xin",
+        "short_name": "Liu X",
+        "identifiers": [],
+        "affiliations": [
+          "Engineering Research Center of Bio-process of Ministry of Education/Key Laboratory for Agricultural Products Processing of Anhui Province/Key Laboratory of Animal Source of Anhui Province/School of Food and Biological Engineering, Hefei University of Technology, Hefei 230601, China; Institute of Urban Agriculture, Chinese Academy of Agricultural Sciences, Chengdu National Agricultural Science & Technology Center, Chengdu 610213, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Yanting",
+        "short_name": "Yang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Engineering Research Center of Bio-process of Ministry of Education/Key Laboratory for Agricultural Products Processing of Anhui Province/Key Laboratory of Animal Source of Anhui Province/School of Food and Biological Engineering, Hefei University of Technology, Hefei 230601, China."
+        ]
+      },
+      {
+        "full_name": "Ouyang, Hui",
+        "short_name": "Ouyang H",
+        "identifiers": [],
+        "affiliations": [
+          "Engineering Research Center of Bio-process of Ministry of Education/Key Laboratory for Agricultural Products Processing of Anhui Province/Key Laboratory of Animal Source of Anhui Province/School of Food and Biological Engineering, Hefei University of Technology, Hefei 230601, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Ying",
+        "short_name": "Gao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Engineering Research Center of Bio-process of Ministry of Education/Key Laboratory for Agricultural Products Processing of Anhui Province/Key Laboratory of Animal Source of Anhui Province/School of Food and Biological Engineering, Hefei University of Technology, Hefei 230601, China."
+        ]
+      },
+      {
+        "full_name": "Ma, Lulu",
+        "short_name": "Ma L",
+        "identifiers": [],
+        "affiliations": [
+          "Engineering Research Center of Bio-process of Ministry of Education/Key Laboratory for Agricultural Products Processing of Anhui Province/Key Laboratory of Animal Source of Anhui Province/School of Food and Biological Engineering, Hefei University of Technology, Hefei 230601, China."
+        ]
+      },
+      {
+        "full_name": "Huo, Jiaying",
+        "short_name": "Huo J",
+        "identifiers": [],
+        "affiliations": [
+          "Engineering Research Center of Bio-process of Ministry of Education/Key Laboratory for Agricultural Products Processing of Anhui Province/Key Laboratory of Animal Source of Anhui Province/School of Food and Biological Engineering, Hefei University of Technology, Hefei 230601, China."
+        ]
+      },
+      {
+        "full_name": "Dong, Shijian",
+        "short_name": "Dong S",
+        "identifiers": [],
+        "affiliations": [
+          "Anhui Rongda Food Co., Ltd., Guangde 242200, China."
+        ]
+      },
+      {
+        "full_name": "Li, Shugang",
+        "short_name": "Li S",
+        "identifiers": [],
+        "affiliations": [
+          "Engineering Research Center of Bio-process of Ministry of Education/Key Laboratory for Agricultural Products Processing of Anhui Province/Key Laboratory of Animal Source of Anhui Province/School of Food and Biological Engineering, Hefei University of Technology, Hefei 230601, China. Electronic address: lishugang2020@hfut.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Food research international (Ottawa, Ont.)"
+    ],
+    "journal_abbrev": [
+      "Food Res Int"
+    ],
+    "pub_date": "2026 Nov 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/03 23:36",
+    "fetched_at": "2026-09-08 15:48:04"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42692654",
+      "39111502",
+      "41652698",
+      "42169278",
+      "42576325",
+      "40136881",
+      "40253183",
+      "39004037",
+      "41074284",
+      "39121770",
+      "39614498",
+      "40024414",
+      "38850985",
+      "38519164",
+      "38964095",
+      "39126944",
+      "42637363",
+      "42637343",
+      "39277259",
+      "41763430",
+      "42637445",
+      "23912807",
+      "40467205",
+      "39528197",
+      "39366621",
+      "29210457",
+      "36461267",
+      "41508482",
+      "39721208",
+      "41819306",
+      "39643338",
+      "35690159",
+      "39461647",
+      "36241312",
+      "38823865",
+      "33038801",
+      "38497905",
+      "41508486",
+      "36054511",
+      "40058910",
+      "39793819",
+      "32978960",
+      "40446657",
+      "39617827",
+      "40282692",
+      "41178157",
+      "40086975",
+      "26916602",
+      "40992479",
+      "39517197",
+      "39626553",
+      "41722192",
+      "28119227",
+      "40359795",
+      "39732081",
+      "40356096",
+      "31862566",
+      "38489882",
+      "39324370",
+      "29579966",
+      "36577472",
+      "38447238",
+      "37948797",
+      "35717909",
+      "30575035",
+      "20492228",
+      "41455215",
+      "27664686",
+      "41643957",
+      "36789854",
+      "41002527",
+      "42386217",
+      "28873725",
+      "32807542",
+      "28374425",
+      "32540524",
+      "42215080",
+      "41855834",
+      "37356685",
+      "35634708",
+      "39602998",
+      "40058895",
+      "41485214",
+      "41086586",
+      "35407127",
+      "42637374",
+      "40263807",
+      "30724262",
+      "38865845",
+      "40717482",
+      "39900155",
+      "34151424",
+      "37950529",
+      "37714238",
+      "35940098",
+      "40784380",
+      "41687985",
+      "41412652",
+      "38820644",
+      "41662800"
+    ],
+    "review": [
+      "42692654"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0963-9969(26)01843-0",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

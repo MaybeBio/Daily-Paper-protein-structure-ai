@@ -1,0 +1,34 @@
+{
+  "source": "arxiv",
+  "source_id": "2609.02001v1",
+  "title": "Machine-learning screening and first-principles lattice dynamics resolve the most stable structure of NaCa(BH$_4$)$_3$ from a data-driven candidate search",
+  "doi": "",
+  "abstract": "Equimolar NaCa(BH$_4$)$_3$ offers a theoretical hydrogen capacity of 11.24 wt.% and a decomposition enthalpy expected to fall between those of NaBH$_4$ and Ca(BH$_4$)$_2$, but it has never been prepared and no crystal structure has been reported. Predictions for it have so far been built within the perovskite family that its heavier homologues adopt. Here that assumption is removed. Six candidate frameworks were assembled from three independent sources --- experimentally determined ABX$_3$ borohydrides, a distorted perovskite from data-driven structure prediction, and an unbiased search over a structural database in which all 2238 generated candidates were relaxed with none excluded --- and at fixed charge-neutral composition the cation arrangement of every framework was enumerated exhaustively, 420 decorations reducing to 118 symmetry-inequivalent configurations, screened with a machine-learning potential and settled from first principles. The most stable structure is not a perovskite. It is a monoclinic framework of space group Cm, reached only by the unrestricted search, at $-$4.185640 eV/atom, 7.67 meV/atom below the best framework available beforehand; two chemically unrelated donor prototypes converge on it to 0.076 meV/atom, and its ordered cation arrangement is the ground state of its own series. Its phonon spectrum carries no imaginary mode at any wavevector the supercell resolves exactly and its relaxed-ion elastic tensor is positive definite, whereas the orthorhombic perovskite candidate is unstable to $-$2.401 THz. That contrast supplies a physical reason for the reported failure to obtain this composition in perovskite form, and the simulated diffraction pattern reported here identifies the predicted framework by seven reflections that neither parent phase nor the competing framework produces.",
+  "authors": [
+    "Sanaa Ismail",
+    "Ricardo Amaral",
+    "Attia A. Gadallah",
+    "Hassan Mohamed El-Said Azzazy",
+    "Zi-Kui Liu"
+  ],
+  "published_date": "2026-09-02T02:20:23Z",
+  "updated_date": "2026-09-02T02:20:23Z",
+  "journal": "",
+  "category": "cond-mat.mtrl-sci",
+  "landing_url": "https://arxiv.org/abs/2609.02001v1",
+  "pdf_url": "https://arxiv.org/pdf/2609.02001v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cond-mat.mtrl-sci"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2609.02001v1",
+    "raw_categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "journal_ref": ""
+  }
+}

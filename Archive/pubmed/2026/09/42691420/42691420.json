@@ -1,0 +1,267 @@
+{
+  "identity": {
+    "pmid": "42691420",
+    "doi": "10.1021/acs.jpcb.6c02971",
+    "title": "Impact of Phosphorylation on the Conformational Landscape and Aggregation Behavior of Abeta40: A Comprehensive Computational Study."
+  },
+  "content": {
+    "abstract": "Phosphorylation of amyloid-beta (Abeta40) at Ser8 and Ser26 exerts opposing effects on fibril formation: Ser8 phosphorylation promotes aggregation, whereas Ser26 phosphorylation strongly inhibits it. Using replica exchange with solute tempering (REST2) simulations and coarse-grained modeling, we reveal the atomic-level mechanisms underlying these effects. Ser26 phosphorylation forms a highly stable pS26-K28 salt bridge that competes with and disrupts the native E22/D23-K28 interaction required for hairpin formation and fibrillization, yielding a compact, globular conformation that is aggregation-incompetent. In contrast, Ser8 phosphorylation stabilizes the hairpin structure with a preformed N-terminal attachment (the S* structure) via pS8-K16/K28 salt bridges, lowering the entropic barrier for N-terminal alignment. This mechanism aligns with experimental observations that pS8 fibrils gain stability due to N-terminal incorporation into the fibril core, thereby promoting fibrillization. Together, these results demonstrate that monomeric conformational landscapes directly encode aggregation propensity, providing a mechanistic framework for understanding how post-translational modifications modulate amyloid assembly pathways.",
+    "keywords": [],
+    "mesh_terms": [
+      "Phosphorylation",
+      "*Amyloid beta-Peptides/chemistry/metabolism",
+      "*Molecular Dynamics Simulation",
+      "Protein Aggregates",
+      "*Peptide Fragments/chemistry/metabolism",
+      "Protein Conformation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ye, Zaihang",
+        "Wang, Chen",
+        "Tu, Bin",
+        "Yang, Yanlian",
+        "Fang, Qiaojun"
+      ],
+      "short_names": [
+        "Ye Z",
+        "Wang C",
+        "Tu B",
+        "Yang Y",
+        "Fang Q"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-2306-9089",
+        "ORCID: 0000-0002-2106-1190",
+        "ORCID: 0000-0002-5607-5509",
+        "ORCID: 0000-0002-2856-3281"
+      ],
+      "affiliations": [
+        "Laboratory of Theoretical and Computational Nanoscience, CAS Key Laboratory for Biomedical Effects of Nanomaterials and Nanosafety, CAS Key Laboratory of Standardization and Measurement for Nanotechnology, National Center for Nanoscience and Technology, Beijing100190, China.",
+        "Sino-Danish Center for Education and Research, Beijing101408, China.",
+        "University of Chinese Academy of Sciences , Beijing100049, China.",
+        "Laboratory of Theoretical and Computational Nanoscience, CAS Key Laboratory for Biomedical Effects of Nanomaterials and Nanosafety, CAS Key Laboratory of Standardization and Measurement for Nanotechnology, National Center for Nanoscience and Technology, Beijing100190, China.",
+        "Sino-Danish Center for Education and Research, Beijing101408, China.",
+        "University of Chinese Academy of Sciences , Beijing100049, China.",
+        "Laboratory of Theoretical and Computational Nanoscience, CAS Key Laboratory for Biomedical Effects of Nanomaterials and Nanosafety, CAS Key Laboratory of Standardization and Measurement for Nanotechnology, National Center for Nanoscience and Technology, Beijing100190, China.",
+        "University of Chinese Academy of Sciences , Beijing100049, China.",
+        "Laboratory of Theoretical and Computational Nanoscience, CAS Key Laboratory for Biomedical Effects of Nanomaterials and Nanosafety, CAS Key Laboratory of Standardization and Measurement for Nanotechnology, National Center for Nanoscience and Technology, Beijing100190, China.",
+        "Sino-Danish Center for Education and Research, Beijing101408, China.",
+        "University of Chinese Academy of Sciences , Beijing100049, China.",
+        "Laboratory of Theoretical and Computational Nanoscience, CAS Key Laboratory for Biomedical Effects of Nanomaterials and Nanosafety, CAS Key Laboratory of Standardization and Measurement for Nanotechnology, National Center for Nanoscience and Technology, Beijing100190, China.",
+        "Sino-Danish Center for Education and Research, Beijing101408, China.",
+        "University of Chinese Academy of Sciences , Beijing100049, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ye, Zaihang",
+        "short_name": "Ye Z",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Theoretical and Computational Nanoscience, CAS Key Laboratory for Biomedical Effects of Nanomaterials and Nanosafety, CAS Key Laboratory of Standardization and Measurement for Nanotechnology, National Center for Nanoscience and Technology, Beijing100190, China.",
+          "Sino-Danish Center for Education and Research, Beijing101408, China.",
+          "University of Chinese Academy of Sciences , Beijing100049, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Chen",
+        "short_name": "Wang C",
+        "identifiers": [
+          "0000-0003-2306-9089"
+        ],
+        "affiliations": [
+          "Laboratory of Theoretical and Computational Nanoscience, CAS Key Laboratory for Biomedical Effects of Nanomaterials and Nanosafety, CAS Key Laboratory of Standardization and Measurement for Nanotechnology, National Center for Nanoscience and Technology, Beijing100190, China.",
+          "Sino-Danish Center for Education and Research, Beijing101408, China.",
+          "University of Chinese Academy of Sciences , Beijing100049, China."
+        ]
+      },
+      {
+        "full_name": "Tu, Bin",
+        "short_name": "Tu B",
+        "identifiers": [
+          "0000-0002-2106-1190"
+        ],
+        "affiliations": [
+          "Laboratory of Theoretical and Computational Nanoscience, CAS Key Laboratory for Biomedical Effects of Nanomaterials and Nanosafety, CAS Key Laboratory of Standardization and Measurement for Nanotechnology, National Center for Nanoscience and Technology, Beijing100190, China.",
+          "University of Chinese Academy of Sciences , Beijing100049, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Yanlian",
+        "short_name": "Yang Y",
+        "identifiers": [
+          "0000-0002-5607-5509"
+        ],
+        "affiliations": [
+          "Laboratory of Theoretical and Computational Nanoscience, CAS Key Laboratory for Biomedical Effects of Nanomaterials and Nanosafety, CAS Key Laboratory of Standardization and Measurement for Nanotechnology, National Center for Nanoscience and Technology, Beijing100190, China.",
+          "Sino-Danish Center for Education and Research, Beijing101408, China.",
+          "University of Chinese Academy of Sciences , Beijing100049, China."
+        ]
+      },
+      {
+        "full_name": "Fang, Qiaojun",
+        "short_name": "Fang Q",
+        "identifiers": [
+          "0000-0002-2856-3281"
+        ],
+        "affiliations": [
+          "Laboratory of Theoretical and Computational Nanoscience, CAS Key Laboratory for Biomedical Effects of Nanomaterials and Nanosafety, CAS Key Laboratory of Standardization and Measurement for Nanotechnology, National Center for Nanoscience and Technology, Beijing100190, China.",
+          "Sino-Danish Center for Education and Research, Beijing101408, China.",
+          "University of Chinese Academy of Sciences , Beijing100049, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The journal of physical chemistry. B"
+    ],
+    "journal_abbrev": [
+      "J Phys Chem B"
+    ],
+    "pub_date": "2026 Sep 3",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/03 17:36",
+    "fetched_at": "2026-09-08 15:48:04"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42691420",
+      "19125574",
+      "23811057",
+      "30076733",
+      "30605312",
+      "29940109",
+      "32207962",
+      "42261871",
+      "41173868",
+      "21761818",
+      "22755606",
+      "20888834",
+      "27171340",
+      "25010208",
+      "34472835",
+      "32143150",
+      "29900443",
+      "24617810",
+      "28406293",
+      "31834770",
+      "26871000",
+      "30582723",
+      "28834717",
+      "31091893",
+      "34383481",
+      "26046578",
+      "16731963",
+      "33006281",
+      "34830214",
+      "27091578",
+      "25825723",
+      "27698130",
+      "26097047",
+      "42691413",
+      "17693400",
+      "18408165",
+      "32732434",
+      "31245536",
+      "40378310",
+      "29539391",
+      "26017140",
+      "40554613",
+      "40628933",
+      "24857343",
+      "41202479",
+      "38731878",
+      "37126408",
+      "32954172",
+      "39908957",
+      "28427941",
+      "34617758",
+      "34887476",
+      "31365254",
+      "36302506",
+      "35258946",
+      "25625571",
+      "29211680",
+      "40167418",
+      "10583407",
+      "41553152",
+      "31474736",
+      "34518234",
+      "32794732",
+      "35209177",
+      "33687193",
+      "31900057",
+      "27844078",
+      "30821624",
+      "22509291",
+      "37139594",
+      "26827680",
+      "33024142",
+      "21219143",
+      "27454036",
+      "17293399",
+      "24449257",
+      "23790380",
+      "25330398",
+      "32241918",
+      "31600048",
+      "29750857",
+      "31073226",
+      "23421682",
+      "42347970",
+      "36052514",
+      "35041853",
+      "22947874",
+      "28095675",
+      "41872054",
+      "33375086",
+      "25418174",
+      "20734314",
+      "25050788",
+      "27135646",
+      "41520445",
+      "28684415",
+      "28445751",
+      "33399148",
+      "39479923",
+      "42409643"
+    ],
+    "review": [
+      "42691420",
+      "29211680"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-KRT+Group+A-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/jpcbfk/article-lookup/doi/10.1021/acs.jpcb.6c02971",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

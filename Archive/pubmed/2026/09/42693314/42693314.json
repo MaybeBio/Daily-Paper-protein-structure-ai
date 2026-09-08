@@ -1,0 +1,242 @@
+{
+  "identity": {
+    "pmid": "42693314",
+    "doi": "10.1007/s11030-026-11714-z",
+    "title": "De novo generation and computational screening of dual-targeting short peptide inhibitors against PBP2b and PBP2x in drug-resistant Streptococcus Pneumoniae."
+  },
+  "content": {
+    "abstract": "Deep learning has greatly advanced de novo protein design, yet its application to rational short peptide design remains underexplored. Here, we developed SPB-Seeker (Short Peptide Binder Seeker), an integrated pipeline combining deep learning-based generative models with computational chemistry screening to discover dual-target short peptide inhibitors. Using penicillin-binding proteins PBP2b and PBP2x from drug-resistant Streptococcus pneumoniae as targets, AFDesign, RFdiffusion, and BoltzGen were employed to generate an initial library of 1101 candidate sequences. Subsequently, ESM2 was employed to extract sequence embeddings for diversity analysis, which revealed distinct algorithmic biases among the three generative models, and was then used as the feature extractor of a prediction framework for early-stage toxicity screening. Candidates were further prioritized through molecular docking, tiered molecular dynamics simulations, and MM/PB(GB)SA binding free energy calculations. Three peptides, AFD1, BG3, and RFD2, showed high binding stability, with BG3 displaying the strongest dual-target binding, achieving binding free energies of - 52.777 kcal/mol for PBP2b and - 74.071 kcal/mol for PBP2x. Interestingly, quantum chemical calculations using cluster model and the Interaction Region Indicator (IRI) method analyses indicated that BG3 adopts a stable cyclic-like conformation when bound to PBP2x, driven by proline-induced turns, intramolecular hydrogen bonds, and terminal C-H...pi interactions. Overall, SPB-Seeker provides an extensible computational framework for targeted short peptide binder discovery and offers a basis for subsequent affinity optimization and stability enhancement.",
+    "keywords": [
+      "Computational chemistry",
+      "Deep learning",
+      "Dual-target inhibitor",
+      "Penicillin-binding protein",
+      "Short peptide binder"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Zhizhi",
+        "Tian, Fang",
+        "Jiang, Shuning",
+        "Dong, Shanshan",
+        "Tian, Feifei"
+      ],
+      "short_names": [
+        "Li Z",
+        "Tian F",
+        "Jiang S",
+        "Dong S",
+        "Tian F"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Life Science and Engineering, Southwest Jiaotong University, Chengdu, 610031, China.",
+        "School of Life Science and Engineering, Southwest Jiaotong University, Chengdu, 610031, China.",
+        "School of Life Science and Engineering, Southwest Jiaotong University, Chengdu, 610031, China.",
+        "Department of Clinical Laboratory, University-Town Hospital of Chongqing Medical University, Chongqing, 401331, China.",
+        "School of Life Science and Engineering, Southwest Jiaotong University, Chengdu, 610031, China. tulwar@home.swjtu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Zhizhi",
+        "short_name": "Li Z",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Science and Engineering, Southwest Jiaotong University, Chengdu, 610031, China."
+        ]
+      },
+      {
+        "full_name": "Tian, Fang",
+        "short_name": "Tian F",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Science and Engineering, Southwest Jiaotong University, Chengdu, 610031, China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Shuning",
+        "short_name": "Jiang S",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Science and Engineering, Southwest Jiaotong University, Chengdu, 610031, China."
+        ]
+      },
+      {
+        "full_name": "Dong, Shanshan",
+        "short_name": "Dong S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Clinical Laboratory, University-Town Hospital of Chongqing Medical University, Chongqing, 401331, China."
+        ]
+      },
+      {
+        "full_name": "Tian, Feifei",
+        "short_name": "Tian F",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Science and Engineering, Southwest Jiaotong University, Chengdu, 610031, China. tulwar@home.swjtu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular diversity"
+    ],
+    "journal_abbrev": [
+      "Mol Divers"
+    ],
+    "pub_date": "2026 Sep 3",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/04 05:36",
+    "fetched_at": "2026-09-08 15:48:04"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42693314",
+      "41524971",
+      "28260518",
+      "38954072",
+      "42198410",
+      "41346856",
+      "39266056",
+      "42118388",
+      "41203706",
+      "39682166",
+      "42227492",
+      "41780347",
+      "41497266",
+      "42653766",
+      "42406259",
+      "41881211",
+      "22639308",
+      "39148280",
+      "40123800",
+      "42332812",
+      "40223692",
+      "2615650",
+      "41442019",
+      "42011130",
+      "40371895",
+      "41967399",
+      "33164832",
+      "40466244",
+      "42136682",
+      "40593894",
+      "41360016",
+      "35921951",
+      "41739384",
+      "41621295",
+      "40033499",
+      "40804473",
+      "42571165",
+      "16368701",
+      "20441706",
+      "41483313",
+      "41111131",
+      "42282523",
+      "40287570",
+      "38627456",
+      "41683131",
+      "39424745",
+      "41442824",
+      "39341398",
+      "19736537",
+      "41922433",
+      "41019811",
+      "42648275",
+      "41752823",
+      "40973684",
+      "42185552",
+      "40419055",
+      "41452360",
+      "39338285",
+      "42515682",
+      "24503740",
+      "42353044",
+      "41160337",
+      "42549426",
+      "39613993",
+      "41386877",
+      "22563422",
+      "39091799",
+      "33855929",
+      "39937582",
+      "41934387",
+      "36898348",
+      "36774892",
+      "42254291",
+      "37686057",
+      "41452532",
+      "41373728",
+      "38790018",
+      "42330574",
+      "42667756",
+      "42322786",
+      "41351698",
+      "40047244",
+      "41251237",
+      "40897867",
+      "41240885",
+      "40143396",
+      "41465468",
+      "29557723",
+      "42043606",
+      "36724090",
+      "39605685",
+      "38679255",
+      "40632195",
+      "41251882",
+      "42190581",
+      "41729012",
+      "41915253",
+      "42112455",
+      "41920244",
+      "41970871"
+    ],
+    "review": [
+      "42693314",
+      "42515682"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1007/s11030-026-11714-z",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-SERPINA1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-651",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

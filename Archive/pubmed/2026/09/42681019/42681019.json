@@ -1,0 +1,296 @@
+{
+  "identity": {
+    "pmid": "42681019",
+    "doi": "10.1007/978-1-0716-5515-3_16",
+    "title": "The Open Conformation of CCT: How to Achieve High Resolution Using CryoEM."
+  },
+  "content": {
+    "abstract": "Cryo-electron microscopy (CryoEM) has revolutionized structural biology, establishing itself as a versatile and powerful technique for determining protein structures at near-atomic resolution. Compared to X-ray crystallography and nuclear magnetic resonance (NMR), it enables the study of proteins across a broad molecular weight range in their native state and captures multiple conformational states without requiring crystallization or large amounts of sample. The protocol described herein focuses on the eukaryotic chaperonin CCT (Chaperonin Containing TCP-1), a 1 MDa protein complex whose flexibility and lack of symmetry present challenges for structural determination. Using CryoEM, we achieve a 4 A resolution 3D reconstruction of CCT in its open conformation, successfully resolving even its highly flexible apical domains.",
+    "keywords": [
+      "CCT",
+      "Chaperonin",
+      "Cryo-electron microscopy",
+      "Docking and atomic model",
+      "Electron microscopy",
+      "Flexibility",
+      "Image processing",
+      "Molecular chaperone",
+      "Three-dimensional reconstruction"
+    ],
+    "mesh_terms": [
+      "*Cryoelectron Microscopy/methods",
+      "Protein Conformation",
+      "*Chaperonin Containing TCP-1/chemistry/ultrastructure",
+      "Models, Molecular",
+      "Imaging, Three-Dimensional"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Gutierrez-Seijo, Jorge",
+        "Santiago, Cesar",
+        "Pipaon, Sergio",
+        "Gil-Cantero, David",
+        "Cuervo, Ana",
+        "Cuellar, Jorge",
+        "Valpuesta, Jose Maria"
+      ],
+      "short_names": [
+        "Gutierrez-Seijo J",
+        "Santiago C",
+        "Pipaon S",
+        "Gil-Cantero D",
+        "Cuervo A",
+        "Cuellar J",
+        "Valpuesta JM"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Centro Nacional de Biotecnologia, Consejo Superior de Investigaciones Cientificas, Madrid, Spain.",
+        "Centro Nacional de Biotecnologia, Consejo Superior de Investigaciones Cientificas, Madrid, Spain.",
+        "Centro Nacional de Biotecnologia, Consejo Superior de Investigaciones Cientificas, Madrid, Spain.",
+        "Centro Nacional de Biotecnologia, Consejo Superior de Investigaciones Cientificas, Madrid, Spain.",
+        "Centro Nacional de Biotecnologia, Consejo Superior de Investigaciones Cientificas, Madrid, Spain.",
+        "Centro Nacional de Biotecnologia, Consejo Superior de Investigaciones Cientificas, Madrid, Spain.",
+        "Centro Nacional de Biotecnologia, Consejo Superior de Investigaciones Cientificas, Madrid, Spain. jmv@cnb.csic.es."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Gutiérrez-Seijo, Jorge",
+        "short_name": "Gutiérrez-Seijo J",
+        "identifiers": [],
+        "affiliations": [
+          "Centro Nacional de Biotecnología, Consejo Superior de Investigaciones Científicas, Madrid, Spain."
+        ]
+      },
+      {
+        "full_name": "Santiago, César",
+        "short_name": "Santiago C",
+        "identifiers": [],
+        "affiliations": [
+          "Centro Nacional de Biotecnología, Consejo Superior de Investigaciones Científicas, Madrid, Spain."
+        ]
+      },
+      {
+        "full_name": "Pipaón, Sergio",
+        "short_name": "Pipaón S",
+        "identifiers": [],
+        "affiliations": [
+          "Centro Nacional de Biotecnología, Consejo Superior de Investigaciones Científicas, Madrid, Spain."
+        ]
+      },
+      {
+        "full_name": "Gil-Cantero, David",
+        "short_name": "Gil-Cantero D",
+        "identifiers": [],
+        "affiliations": [
+          "Centro Nacional de Biotecnología, Consejo Superior de Investigaciones Científicas, Madrid, Spain."
+        ]
+      },
+      {
+        "full_name": "Cuervo, Ana",
+        "short_name": "Cuervo A",
+        "identifiers": [],
+        "affiliations": [
+          "Centro Nacional de Biotecnología, Consejo Superior de Investigaciones Científicas, Madrid, Spain."
+        ]
+      },
+      {
+        "full_name": "Cuéllar, Jorge",
+        "short_name": "Cuéllar J",
+        "identifiers": [],
+        "affiliations": [
+          "Centro Nacional de Biotecnología, Consejo Superior de Investigaciones Científicas, Madrid, Spain."
+        ]
+      },
+      {
+        "full_name": "Valpuesta, José María",
+        "short_name": "Valpuesta JM",
+        "identifiers": [],
+        "affiliations": [
+          "Centro Nacional de Biotecnología, Consejo Superior de Investigaciones Científicas, Madrid, Spain. jmv@cnb.csic.es."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Methods in molecular biology (Clifton, N.J.)"
+    ],
+    "journal_abbrev": [
+      "Methods Mol Biol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/02 05:36",
+    "fetched_at": "2026-09-08 15:48:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42681019",
+      "42681018",
+      "25760083",
+      "32866476",
+      "38848218",
+      "28368275",
+      "18403197",
+      "27572730",
+      "21501817",
+      "27775711",
+      "21151115",
+      "11080144",
+      "25955078",
+      "31492816",
+      "25651412",
+      "25675501",
+      "11483510",
+      "19464952",
+      "41709867",
+      "10404219",
+      "20194787",
+      "9553054",
+      "30509756",
+      "29625202",
+      "20885381",
+      "30978594",
+      "10604479",
+      "18238898",
+      "31461845",
+      "26638773",
+      "25544475",
+      "34076596",
+      "37930544",
+      "39663456",
+      "11376797",
+      "25278130",
+      "32735944",
+      "39789967",
+      "39738945",
+      "27615185",
+      "10933581",
+      "12456645",
+      "29080674",
+      "31768063",
+      "37308646",
+      "30955883",
+      "24630999",
+      "17277411",
+      "23612981",
+      "31253771",
+      "23546618",
+      "23132064",
+      "15583139",
+      "11580261",
+      "21121065",
+      "42681004",
+      "10203794",
+      "32470354",
+      "10966635",
+      "23996170",
+      "28710336",
+      "29735743",
+      "32028106",
+      "28192420",
+      "10998630",
+      "33760078",
+      "27572732",
+      "24333094",
+      "27671094",
+      "26671943",
+      "30605120",
+      "36196890",
+      "39192129",
+      "32006285",
+      "17977017",
+      "24565374",
+      "23181775",
+      "25910204",
+      "39955301",
+      "21701561",
+      "22503819",
+      "21115172",
+      "22670690",
+      "19339173",
+      "31525409",
+      "24748171",
+      "15139808",
+      "42055641",
+      "23291268",
+      "29605905",
+      "22297510",
+      "34905177",
+      "17943277",
+      "27572727",
+      "38656500",
+      "21860371",
+      "20109465",
+      "17951721",
+      "33582281",
+      "26777413"
+    ],
+    "review": [
+      "42681019",
+      "28368275",
+      "18403197",
+      "27572730",
+      "21501817",
+      "25955078",
+      "19464952",
+      "30509756",
+      "30978594",
+      "31461845",
+      "26638773",
+      "25544475",
+      "37930544",
+      "11376797",
+      "39789967",
+      "39738945",
+      "27615185",
+      "10933581",
+      "37308646",
+      "10966635",
+      "29735743",
+      "32028106",
+      "33760078",
+      "27572732",
+      "27671094",
+      "26671943",
+      "30605120",
+      "36196890",
+      "23181775",
+      "25910204",
+      "21115172",
+      "22670690",
+      "19339173",
+      "31525409",
+      "15139808",
+      "23291268",
+      "29605905",
+      "22297510"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1007/978-1-0716-5515-3_16",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

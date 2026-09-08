@@ -1,0 +1,242 @@
+{
+  "identity": {
+    "pmid": "42680392",
+    "doi": "10.1016/j.jes.2025.09.071",
+    "title": "Molecular mechanisms of ciprofloxacin-loaded nanoplastics on human serum albumin: Protein denaturation and binding site recognition."
+  },
+  "content": {
+    "abstract": "Nanoplastics (NPs) and antibiotics are prevalent environmental pollutants that coexist and interact in the environment, leading to complex multi-level toxicities. However, there is currently insufficient research on the effects of co-exposure to polystyrene nanoplastics (PSNPs) and ciprofloxacin (CIP) on key human proteins, such as human serum albumin (HSA), and the interaction mechanisms and binding modes between them remain unclear. This study investigated the effects of CIP-loaded PSNPs (PSNPs@CIP) on HSA's function and structure and explored the binding mode through site competition and molecular docking. The results revealed that PSNPs@CIP inhibited HSA's esterase-like activity (62.0 %), more significantly than CIP (72.2 %) or PSNPs (87.0 %), indicating stronger functional disruption. Meanwhile, PSNPs@CIP caused more severe structural disruption of HSA, including alterations in backbone conformation, secondary structure, and the amino acid microenvironment. PSNPs@CIP interfered with the n-->pi* electronic transition of the peptide backbone (absorption reduced by 0.99, red shift 6.0 nm), and promoted the decrease of alpha-helix content to 47.3 %. A red shift of 9.8 nm (Deltalambda=60 nm) indicated an altered tryptophan (Trp) microenvironment. CIP preferentially binds to Sudlow site I of HSA via hydrogen bonding with Ala215, Lys199, and Lys195. This study demonstrates that PSNPs@CIP composite contamination aggravates HSA structural and functional impairment by promoting the direct binding of CIP to Sudlow site I and facilitating HSA adsorption onto PSNPs as a \"protein corona\". This study elucidates the molecular-level mechanisms and binding modes of PSNPs@CIP affecting HSA, providing crucial evidence for assessing NPs co-pollution and environmental behavior.",
+    "keywords": [
+      "Ciprofloxacin",
+      "Competitive binding",
+      "Human serum albumin",
+      "Nanoplastics",
+      "Protein denaturation",
+      "Synergistic toxicity"
+    ],
+    "mesh_terms": [
+      "*Ciprofloxacin/chemistry/toxicity",
+      "Binding Sites",
+      "Humans",
+      "*Serum Albumin, Human/chemistry",
+      "Protein Denaturation",
+      "Molecular Docking Simulation",
+      "Polystyrenes/chemistry",
+      "Anti-Bacterial Agents/toxicity/chemistry",
+      "*Environmental Pollutants/toxicity/chemistry",
+      "Protein Binding"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yin, Qianyue",
+        "Qi, Yuntao",
+        "Zong, Wansong",
+        "Liu, Rutao"
+      ],
+      "short_names": [
+        "Yin Q",
+        "Qi Y",
+        "Zong W",
+        "Liu R"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Environmental Science and Engineering, Shandong University, China-America CRC for Environment & Health, Qingdao 266237, China.",
+        "School of Environmental Science and Engineering, Shandong University, China-America CRC for Environment & Health, Qingdao 266237, China.",
+        "College of Geography and Environment, Shandong Normal University, Jinan 250014, China.",
+        "School of Environmental Science and Engineering, Shandong University, China-America CRC for Environment & Health, Qingdao 266237, China. Electronic address: rutaoliu@sdu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yin, Qianyue",
+        "short_name": "Yin Q",
+        "identifiers": [],
+        "affiliations": [
+          "School of Environmental Science and Engineering, Shandong University, China-America CRC for Environment & Health, Qingdao 266237, China."
+        ]
+      },
+      {
+        "full_name": "Qi, Yuntao",
+        "short_name": "Qi Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Environmental Science and Engineering, Shandong University, China-America CRC for Environment & Health, Qingdao 266237, China."
+        ]
+      },
+      {
+        "full_name": "Zong, Wansong",
+        "short_name": "Zong W",
+        "identifiers": [],
+        "affiliations": [
+          "College of Geography and Environment, Shandong Normal University, Jinan 250014, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Rutao",
+        "short_name": "Liu R",
+        "identifiers": [],
+        "affiliations": [
+          "School of Environmental Science and Engineering, Shandong University, China-America CRC for Environment & Health, Qingdao 266237, China. Electronic address: rutaoliu@sdu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of environmental sciences (China)"
+    ],
+    "journal_abbrev": [
+      "J Environ Sci (China)"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/01 23:34",
+    "fetched_at": "2026-09-08 15:48:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42680392",
+      "39860052",
+      "35934234",
+      "39117213",
+      "42066572",
+      "38253152",
+      "38422930",
+      "40789107",
+      "37634731",
+      "41990534",
+      "40871588",
+      "41638345",
+      "29432019",
+      "40602794",
+      "29096094",
+      "40819364",
+      "29603446",
+      "34882798",
+      "30481647",
+      "38992361",
+      "41240697",
+      "33302053",
+      "41600561",
+      "37597672",
+      "33228044",
+      "33780895",
+      "29512220",
+      "33388505",
+      "30256599",
+      "28753123",
+      "40174686",
+      "41793427",
+      "31711864",
+      "28380300",
+      "41879642",
+      "41967545",
+      "30047309",
+      "34656558",
+      "28693993",
+      "40562333",
+      "30124142",
+      "39116983",
+      "28414112",
+      "30074732",
+      "40719576",
+      "39490476",
+      "40449463",
+      "39761886",
+      "42336179",
+      "27484966",
+      "35550965",
+      "35526438",
+      "28537197",
+      "38027364",
+      "41351371",
+      "40662580",
+      "29436988",
+      "42034740",
+      "38761495",
+      "38906347",
+      "27897084",
+      "39500200",
+      "34072751",
+      "39002877",
+      "41047062",
+      "35268627",
+      "30226718",
+      "34245828",
+      "35583763",
+      "29787915",
+      "37862782",
+      "33360194",
+      "41516426",
+      "28039847",
+      "30101825",
+      "40289912",
+      "40972385",
+      "40627905",
+      "39116592",
+      "25220335",
+      "39339470",
+      "30629454",
+      "40707696",
+      "29301411",
+      "38192057",
+      "27691050",
+      "41967538",
+      "31726261",
+      "27424099",
+      "30056779",
+      "40286040",
+      "36155929",
+      "40037098",
+      "28987797",
+      "39608527",
+      "33032113",
+      "31280128",
+      "37666342",
+      "36926008",
+      "38685222"
+    ],
+    "review": [
+      "42680392"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1001-0742(25)00641-2",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-SERPINA1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-651",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

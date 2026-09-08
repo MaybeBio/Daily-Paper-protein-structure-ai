@@ -1,0 +1,338 @@
+{
+  "identity": {
+    "pmid": "42693796",
+    "doi": "10.1042/BCJ20260179",
+    "title": "Graph-based representations in modern protein science."
+  },
+  "content": {
+    "abstract": "For more than 50 years, the linear sequence and the multiple sequence alignment have been the foundational data structures of protein science, and they remain central to homology search, phylogenetic inference, covariance-based contact prediction, and modern protein language models. However, relational and graph-based representations are increasingly being adopted alongside sequence-based methods to capture biological relationships that linear data structures express only implicitly. Proteins fold as three-dimensional residue interaction networks, evolve through high-dimensional genotype networks defined by mutational connectivity, and operate within cellular protein-protein interaction graphs. Here, we review how graph theory is being used to describe and understand these relationships across protein science, with an emphasis on what these methods offer biochemists working on enzyme superfamilies, protein engineering, drug targets, and functional annotation. We trace the development of these ideas from early theoretical topologies, through statistical coupling and the structural network analyses, to the geometric and graph-like representations used in recent machine-learning-driven advances. Throughout, we emphasise that graphs do not replace sequences or MSAs but provide a complementary representation for biochemical relationships that are difficult to express in one dimension.",
+    "keywords": [
+      "protein evolution",
+      "protein structure",
+      "protein-protein interactions"
+    ],
+    "mesh_terms": [
+      "*Proteins/chemistry/metabolism",
+      "Humans",
+      "Models, Molecular",
+      "Protein Conformation"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Matthews, Dana S",
+        "Pulsford, Sacha B",
+        "Barancewicz, Anthony",
+        "Chen, John Z",
+        "Gall, Barnabas",
+        "Sandhu, Mahakaran",
+        "Spence, Matthew A",
+        "Jackson, Colin J"
+      ],
+      "short_names": [
+        "Matthews DS",
+        "Pulsford SB",
+        "Barancewicz A",
+        "Chen JZ",
+        "Gall B",
+        "Sandhu M",
+        "Spence MA",
+        "Jackson CJ"
+      ],
+      "auids": [
+        "ORCID: 0009-0009-7283-4884",
+        "ORCID: 0000-0001-9179-9214",
+        "ORCID: 0009-0009-1081-4298",
+        "ORCID: 0000-0002-2628-5820",
+        "ORCID: 0009-0003-3182-9911",
+        "ORCID: 0000-0003-2284-2498",
+        "ORCID: 0000-0001-6150-3822"
+      ],
+      "affiliations": [
+        "Research School of Chemistry, The Australian National University, Canberra, ACT 2601, Australia.",
+        "ARC Centre of Excellence for Innovations in Peptide & Protein Science, Research School of Chemistry, The Australian National University, Canberra, ACT 2601, Australia.",
+        "Research School of Chemistry, The Australian National University, Canberra, ACT 2601, Australia.",
+        "ARC Centre of Excellence in Synthetic Biology, Research School of Biology, The Australian National University, Canberra, ACT 2601, Australia.",
+        "ARC Centre of Excellence for Innovations in Peptide & Protein Science, Research School of Chemistry, The Australian National University, Canberra, ACT 2601, Australia.",
+        "Research School of Biology, The Australian National University, Canberra, ACT 2601, Australia.",
+        "Research School of Chemistry, The Australian National University, Canberra, ACT 2601, Australia.",
+        "ARC Centre of Excellence in Synthetic Biology, Research School of Biology, The Australian National University, Canberra, ACT 2601, Australia.",
+        "Research School of Chemistry, The Australian National University, Canberra, ACT 2601, Australia.",
+        "ARC Centre of Excellence for Innovations in Peptide & Protein Science, Research School of Chemistry, The Australian National University, Canberra, ACT 2601, Australia.",
+        "Research School of Chemistry, The Australian National University, Canberra, ACT 2601, Australia.",
+        "ARC Centre of Excellence in Synthetic Biology, Research School of Biology, The Australian National University, Canberra, ACT 2601, Australia.",
+        "ARC Centre of Excellence for Innovations in Peptide & Protein Science, Research School of Chemistry, The Australian National University, Canberra, ACT 2601, Australia.",
+        "Research School of Biology, The Australian National University, Canberra, ACT 2601, Australia.",
+        "ARC Centre of Excellence in Mathematical Analysis of Cellular Systems, Research School of Biology, The Australian National University, Canberra, ACT 2601, Australia.",
+        "Research School of Chemistry, The Australian National University, Canberra, ACT 2601, Australia.",
+        "ARC Centre of Excellence for Innovations in Peptide & Protein Science, Research School of Chemistry, The Australian National University, Canberra, ACT 2601, Australia.",
+        "Research School of Biology, The Australian National University, Canberra, ACT 2601, Australia.",
+        "ARC Centre of Excellence in Synthetic Biology, Research School of Biology, The Australian National University, Canberra, ACT 2601, Australia."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Matthews, Dana S",
+        "short_name": "Matthews DS",
+        "identifiers": [
+          "0009-0009-7283-4884"
+        ],
+        "affiliations": [
+          "Research School of Chemistry, The Australian National University, Canberra, ACT 2601, Australia.",
+          "ARC Centre of Excellence for Innovations in Peptide & Protein Science, Research School of Chemistry, The Australian National University, Canberra, ACT 2601, Australia."
+        ]
+      },
+      {
+        "full_name": "Pulsford, Sacha B",
+        "short_name": "Pulsford SB",
+        "identifiers": [
+          "0000-0001-9179-9214"
+        ],
+        "affiliations": [
+          "Research School of Chemistry, The Australian National University, Canberra, ACT 2601, Australia.",
+          "ARC Centre of Excellence in Synthetic Biology, Research School of Biology, The Australian National University, Canberra, ACT 2601, Australia."
+        ]
+      },
+      {
+        "full_name": "Barancewicz, Anthony",
+        "short_name": "Barancewicz A",
+        "identifiers": [
+          "0009-0009-1081-4298"
+        ],
+        "affiliations": [
+          "ARC Centre of Excellence for Innovations in Peptide & Protein Science, Research School of Chemistry, The Australian National University, Canberra, ACT 2601, Australia.",
+          "Research School of Biology, The Australian National University, Canberra, ACT 2601, Australia."
+        ]
+      },
+      {
+        "full_name": "Chen, John Z",
+        "short_name": "Chen JZ",
+        "identifiers": [
+          "0000-0002-2628-5820"
+        ],
+        "affiliations": [
+          "Research School of Chemistry, The Australian National University, Canberra, ACT 2601, Australia.",
+          "ARC Centre of Excellence in Synthetic Biology, Research School of Biology, The Australian National University, Canberra, ACT 2601, Australia."
+        ]
+      },
+      {
+        "full_name": "Gall, Barnabas",
+        "short_name": "Gall B",
+        "identifiers": [
+          "0009-0003-3182-9911"
+        ],
+        "affiliations": [
+          "Research School of Chemistry, The Australian National University, Canberra, ACT 2601, Australia.",
+          "ARC Centre of Excellence for Innovations in Peptide & Protein Science, Research School of Chemistry, The Australian National University, Canberra, ACT 2601, Australia."
+        ]
+      },
+      {
+        "full_name": "Sandhu, Mahakaran",
+        "short_name": "Sandhu M",
+        "identifiers": [],
+        "affiliations": [
+          "Research School of Chemistry, The Australian National University, Canberra, ACT 2601, Australia.",
+          "ARC Centre of Excellence in Synthetic Biology, Research School of Biology, The Australian National University, Canberra, ACT 2601, Australia."
+        ]
+      },
+      {
+        "full_name": "Spence, Matthew A",
+        "short_name": "Spence MA",
+        "identifiers": [
+          "0000-0003-2284-2498"
+        ],
+        "affiliations": [
+          "ARC Centre of Excellence for Innovations in Peptide & Protein Science, Research School of Chemistry, The Australian National University, Canberra, ACT 2601, Australia.",
+          "Research School of Biology, The Australian National University, Canberra, ACT 2601, Australia.",
+          "ARC Centre of Excellence in Mathematical Analysis of Cellular Systems, Research School of Biology, The Australian National University, Canberra, ACT 2601, Australia."
+        ]
+      },
+      {
+        "full_name": "Jackson, Colin J",
+        "short_name": "Jackson CJ",
+        "identifiers": [
+          "0000-0001-6150-3822"
+        ],
+        "affiliations": [
+          "Research School of Chemistry, The Australian National University, Canberra, ACT 2601, Australia.",
+          "ARC Centre of Excellence for Innovations in Peptide & Protein Science, Research School of Chemistry, The Australian National University, Canberra, ACT 2601, Australia.",
+          "Research School of Biology, The Australian National University, Canberra, ACT 2601, Australia.",
+          "ARC Centre of Excellence in Synthetic Biology, Research School of Biology, The Australian National University, Canberra, ACT 2601, Australia."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The Biochemical journal"
+    ],
+    "journal_abbrev": [
+      "Biochem J"
+    ],
+    "pub_date": "2026 Oct 7",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/04 05:36",
+    "fetched_at": "2026-09-08 15:48:04"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42693796",
+      "42475469",
+      "42119874",
+      "23912807",
+      "42336024",
+      "40609014",
+      "37448360",
+      "38365583",
+      "42278281",
+      "32717382",
+      "42478599",
+      "39223474",
+      "40971691",
+      "39487084",
+      "19557139",
+      "40728607",
+      "41031876",
+      "40790157",
+      "42154341",
+      "40625100",
+      "40920534",
+      "40174317",
+      "39766238",
+      "41633121",
+      "40119464",
+      "34944427",
+      "32144844",
+      "19178743",
+      "22574904",
+      "42450193",
+      "42341701",
+      "38360082",
+      "27159634",
+      "41839238",
+      "39858535",
+      "42400844",
+      "41199760",
+      "27802931",
+      "38833802",
+      "35108362",
+      "39332048",
+      "42015308",
+      "39848362",
+      "38501649",
+      "17124867",
+      "36088285",
+      "41902842",
+      "31693276",
+      "15726585",
+      "41652158",
+      "15217820",
+      "38564358",
+      "10966778",
+      "20502673",
+      "26042329",
+      "42470695",
+      "28056090",
+      "20887265",
+      "40483648",
+      "35275993",
+      "33001599",
+      "40784875",
+      "36171544",
+      "41385420",
+      "40745316",
+      "42190366",
+      "29982330",
+      "1579565",
+      "33323120",
+      "39446541",
+      "40966797",
+      "39294145",
+      "42312747",
+      "41505730",
+      "40466979",
+      "33817007",
+      "19190775",
+      "42319252",
+      "36540969",
+      "40815964",
+      "15523667",
+      "40903750",
+      "16108709",
+      "42670878",
+      "41687237",
+      "40728618",
+      "19183478",
+      "42439477",
+      "35073170",
+      "41441912",
+      "36682013",
+      "41536689",
+      "37824738",
+      "31918654",
+      "34706640",
+      "40465845",
+      "30985027",
+      "36321557",
+      "18831774",
+      "35018418"
+    ],
+    "review": [
+      "42693796",
+      "42278281",
+      "40728607",
+      "39766238",
+      "41839238",
+      "39858535",
+      "42400844",
+      "39332048",
+      "42015308",
+      "17124867",
+      "41652158",
+      "42470695",
+      "20887265",
+      "35275993"
+    ],
+    "pmc": [
+      "13543026"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42693796/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://portlandpress.com/biochemj/article-lookup/doi/10.1042/BCJ20260179",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://yoda.yale.edu/clinical-trial/nct00367237-a-randomized-multicenter-international-open-label-study-of-infliximab-plus-methotrexate-versus-methotrexate-mtx-alone-for-the-treatment-of-mtx-naive-subjects-with-active-psoriatic/",
+        "provider": "The YODA Project",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "A Randomized, Multicenter, International, Open-label Study of Infliximab Plus Methotrexate Versus Methotrexate (MTX) Alone for the Treatment of MTX naïve Subjects With Active Psoriatic Arthritis"
+      }
+    ],
+    "text_mined": []
+  }
+}

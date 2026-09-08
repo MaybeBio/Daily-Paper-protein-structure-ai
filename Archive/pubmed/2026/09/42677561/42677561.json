@@ -1,0 +1,236 @@
+{
+  "identity": {
+    "pmid": "42677561",
+    "doi": "10.1021/jacs.6c10101",
+    "title": "Structure and Dynamics of the HIV-1 Envelope Protein on the Virion Envelope."
+  },
+  "content": {
+    "abstract": "HIV-1 buds from infected cells as immature virion particles with a scattered envelope glycoprotein (Env) distribution on their envelope. It then undergoes maturation, during which the viral protease cleaves the Gag polyprotein at multiple sites, leading to structural reorganization of the viral particle and lateral redistribution of Env proteins, ultimately rendering the virion infectious. However, the underlying mechanism of maturation-induced Env reorganization remains elusive. In this study, we combine microsecond-long all-atom (AA) and bottom-up coarse-grained (CG) molecular dynamics simulations and diffusion model-based backmapping to investigate the structural organization and key interactions of Env in viral membranes. AA simulations of fully glycosylated Env embedded in HIV-1 mimetic asymmetric bilayers were first performed to characterize its conformational dynamics and Env-lipid interactions. We then developed a bottom-up CG model of glycosylated Env from the AA data and simulated the mature HIV-1 virion envelope containing multiple Env proteins. The CG simulations predict that Env proteins form clusters through interactions mediated by the cytoplasmic tail domain and adopt diverse tilted conformations within these clusters. These CG simulations were then backmapped to AA resolution, and further AA simulations were carried out to identify, in detail, the specific interacting residues in the Env clusters. Additionally, analysis of epitope accessibility shows that broadly neutralizing antibodies (bnAbs) targeting the V1/V2 and V3 loops may efficiently interact with Env clusters on the mature virion surface. Together, these results provide a molecular mechanism for Env oligomerization during viral maturation and offer new insights into the accessibility of bnAb epitopes on Env clusters.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Molecular Dynamics Simulation",
+      "*HIV-1/chemistry",
+      "*Virion/chemistry",
+      "Protein Conformation",
+      "*env Gene Products, Human Immunodeficiency Virus/chemistry",
+      "Glycosylation"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Majumder, Ayan",
+        "Dutta, Mandira",
+        "Cherek, Levi",
+        "Voth, Gregory A"
+      ],
+      "short_names": [
+        "Majumder A",
+        "Dutta M",
+        "Cherek L",
+        "Voth GA"
+      ],
+      "auids": [
+        "ORCID: 0009-0005-4218-3276",
+        "ORCID: 0000-0002-3267-6748"
+      ],
+      "affiliations": [
+        "Department of Chemistry, Chicago Center for Theoretical Chemistry, Institute for Biophysical Dynamics, and James Franck Institute, The University of Chicago, Chicago, Illinois60637, United States.",
+        "Department of Chemistry, Chicago Center for Theoretical Chemistry, Institute for Biophysical Dynamics, and James Franck Institute, The University of Chicago, Chicago, Illinois60637, United States.",
+        "Department of Chemistry, Chicago Center for Theoretical Chemistry, Institute for Biophysical Dynamics, and James Franck Institute, The University of Chicago, Chicago, Illinois60637, United States.",
+        "Department of Chemistry, Chicago Center for Theoretical Chemistry, Institute for Biophysical Dynamics, and James Franck Institute, The University of Chicago, Chicago, Illinois60637, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Majumder, Ayan",
+        "short_name": "Majumder A",
+        "identifiers": [
+          "0009-0005-4218-3276"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Chicago Center for Theoretical Chemistry, Institute for Biophysical Dynamics, and James Franck Institute, The University of Chicago, Chicago, Illinois60637, United States."
+        ]
+      },
+      {
+        "full_name": "Dutta, Mandira",
+        "short_name": "Dutta M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Chicago Center for Theoretical Chemistry, Institute for Biophysical Dynamics, and James Franck Institute, The University of Chicago, Chicago, Illinois60637, United States."
+        ]
+      },
+      {
+        "full_name": "Cherek, Levi",
+        "short_name": "Cherek L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Chicago Center for Theoretical Chemistry, Institute for Biophysical Dynamics, and James Franck Institute, The University of Chicago, Chicago, Illinois60637, United States."
+        ]
+      },
+      {
+        "full_name": "Voth, Gregory A",
+        "short_name": "Voth GA",
+        "identifiers": [
+          "0000-0002-3267-6748"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Chicago Center for Theoretical Chemistry, Institute for Biophysical Dynamics, and James Franck Institute, The University of Chicago, Chicago, Illinois60637, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of the American Chemical Society"
+    ],
+    "journal_abbrev": [
+      "J Am Chem Soc"
+    ],
+    "pub_date": "2026 Aug 26",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/01 11:39",
+    "fetched_at": "2026-09-08 15:48:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42677561",
+      "42239368",
+      "39508605",
+      "36815832",
+      "40958474",
+      "41295975",
+      "31852789",
+      "28978711",
+      "31619553",
+      "41986331",
+      "33148792",
+      "28743743",
+      "32669335",
+      "37681958",
+      "28916807",
+      "30567996",
+      "29618643",
+      "26018173",
+      "37696048",
+      "35475646",
+      "38289101",
+      "28250125",
+      "23305456",
+      "30894475",
+      "35123651",
+      "39248459",
+      "28381572",
+      "31937648",
+      "30185554",
+      "32315598",
+      "32522853",
+      "28446609",
+      "35584191",
+      "41930967",
+      "29212940",
+      "36629414",
+      "23384254",
+      "29237828",
+      "37255444",
+      "27871328",
+      "39136462",
+      "34549974",
+      "41363844",
+      "26246566",
+      "41778789",
+      "24352455",
+      "38412036",
+      "38470051",
+      "41277144",
+      "34668778",
+      "29593217",
+      "21471242",
+      "28667249",
+      "30894464",
+      "36445130",
+      "24179160",
+      "42360802",
+      "14512572",
+      "7533854",
+      "15833740",
+      "35110562",
+      "28202756",
+      "24352444",
+      "27928004",
+      "35305826",
+      "40231821",
+      "30538178",
+      "30728245",
+      "15582650",
+      "28424455",
+      "29898396",
+      "27489265",
+      "31263112",
+      "23468635",
+      "29056482",
+      "32817216",
+      "29268688",
+      "39998217",
+      "31126879",
+      "25589637",
+      "28890362",
+      "34353956",
+      "35980207",
+      "20531016",
+      "21931551",
+      "26457433",
+      "28446665",
+      "26433050",
+      "15016865",
+      "30650070",
+      "8107229",
+      "28615206",
+      "26098315",
+      "39836706",
+      "32949621",
+      "30944182",
+      "23112332",
+      "40919814",
+      "30029604",
+      "29420040"
+    ],
+    "review": [
+      "42677561",
+      "29268688"
+    ],
+    "pmc": [
+      "13523751"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42677561/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/jacsat/article-lookup/doi/10.1021/jacs.6c10101",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

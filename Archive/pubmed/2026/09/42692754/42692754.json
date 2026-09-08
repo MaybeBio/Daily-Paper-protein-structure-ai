@@ -1,0 +1,236 @@
+{
+  "identity": {
+    "pmid": "42692754",
+    "doi": "10.1016/bs.mie.2026.05.045",
+    "title": "Critical structural features of HDAC11 inhibitors."
+  },
+  "content": {
+    "abstract": "Histone deacetylase 11 (HDAC11), the sole member of the class IV HDACs, has gained significance as a key regulator of a wide range of physiological and pathological processes. The structural characterization of HDAC11 remains challenging due to the absence of an experimentally determined crystal structure. Proper analysis of reported HDAC11 inhibitors can yield valuable insights into the key structural fingerprints essential for inhibition. Using a diverse range of descriptor sets, including various 2D descriptors and fingerprint-based descriptors, it becomes possible to effectively identify critical structural features associated with HDAC11 inhibitory activity. These fingerprints enable the recognition of substructural features that play an important role in binding within the HDAC11 catalytic site and in achieving selective inhibition. In the present chapter, various computational methodologies, including Bayesian classification, Recursive partitioning approaches and machine learning-based classification models, have been discussed in a user-friendly manner to identify the critical structural features required for effective HDAC11 inhibition. The insights derived from these approaches are expected to assist researchers in the rational design of selective HDAC11 inhibitors, which may be further validated through experimental studies.",
+    "keywords": [
+      "Bayesian classification",
+      "Classification QSAR",
+      "Fingerprints",
+      "HDAC11",
+      "Machine learning",
+      "Recursive partitioning"
+    ],
+    "mesh_terms": [
+      "*Histone Deacetylase Inhibitors/chemistry/pharmacology",
+      "*Histone Deacetylases/chemistry/metabolism",
+      "Humans",
+      "Machine Learning",
+      "Quantitative Structure-Activity Relationship",
+      "Bayes Theorem",
+      "Models, Molecular",
+      "Catalytic Domain"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Dasgupta, Indrasis",
+        "Sinha, Srijoni",
+        "Gayen, Shovanlal"
+      ],
+      "short_names": [
+        "Dasgupta I",
+        "Sinha S",
+        "Gayen S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Laboratory of Drug Design and Discovery, Department of Pharmaceutical Technology, Jadavpur University, Kolkata, India.",
+        "Laboratory of Drug Design and Discovery, Department of Pharmaceutical Technology, Jadavpur University, Kolkata, India.",
+        "Laboratory of Drug Design and Discovery, Department of Pharmaceutical Technology, Jadavpur University, Kolkata, India. Electronic address: shovanlal.gayen@gmail.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Dasgupta, Indrasis",
+        "short_name": "Dasgupta I",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Drug Design and Discovery, Department of Pharmaceutical Technology, Jadavpur University, Kolkata, India."
+        ]
+      },
+      {
+        "full_name": "Sinha, Srijoni",
+        "short_name": "Sinha S",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Drug Design and Discovery, Department of Pharmaceutical Technology, Jadavpur University, Kolkata, India."
+        ]
+      },
+      {
+        "full_name": "Gayen, Shovanlal",
+        "short_name": "Gayen S",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Drug Design and Discovery, Department of Pharmaceutical Technology, Jadavpur University, Kolkata, India. Electronic address: shovanlal.gayen@gmail.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Methods in enzymology"
+    ],
+    "journal_abbrev": [
+      "Methods Enzymol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/03 23:36",
+    "fetched_at": "2026-09-08 15:48:04"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42692754",
+      "40380989",
+      "37216830",
+      "38321909",
+      "38788962",
+      "37972533",
+      "39608552",
+      "38871969",
+      "40649728",
+      "38757181",
+      "38530703",
+      "29953251",
+      "38972077",
+      "31830865",
+      "25687212",
+      "30633630",
+      "28501514",
+      "31264832",
+      "39978120",
+      "39717958",
+      "38279359",
+      "29731425",
+      "36533308",
+      "37608752",
+      "27447046",
+      "31773377",
+      "42207263",
+      "17285800",
+      "30044204",
+      "19239270",
+      "30145395",
+      "27542119",
+      "33891374",
+      "21872466",
+      "33034447",
+      "42308148",
+      "25060069",
+      "39710831",
+      "42475469",
+      "40617084",
+      "37567072",
+      "41760657",
+      "30179749",
+      "33067876",
+      "33523672",
+      "23024001",
+      "11948178",
+      "36548122",
+      "16006131",
+      "33925246",
+      "25597521",
+      "30347148",
+      "38657469",
+      "25986171",
+      "37659201",
+      "38870352",
+      "41885766",
+      "18412327",
+      "38996352",
+      "32841898",
+      "37870047",
+      "38340912",
+      "33742608",
+      "19136179",
+      "26873193",
+      "42107269",
+      "18061500",
+      "31181405",
+      "42398801",
+      "28332438",
+      "35408604",
+      "34355614",
+      "33759126",
+      "34936867",
+      "29616828",
+      "26595183",
+      "28259528",
+      "28496307",
+      "22521374",
+      "41539273",
+      "17698257",
+      "25581683",
+      "41533017",
+      "30743180",
+      "22762501",
+      "24261862",
+      "41719801",
+      "40532552",
+      "39581247",
+      "27121714",
+      "37170840",
+      "23209570",
+      "27055940",
+      "40109001",
+      "19182860",
+      "29222071",
+      "38254672",
+      "39007781",
+      "34979835",
+      "27454931"
+    ],
+    "review": [
+      "42692754",
+      "38788962",
+      "38530703",
+      "38972077",
+      "25687212",
+      "27447046",
+      "33891374",
+      "21872466",
+      "30179749",
+      "33523672",
+      "25597521",
+      "38657469",
+      "37659201",
+      "32841898",
+      "26873193",
+      "42398801",
+      "29616828",
+      "25581683",
+      "30743180",
+      "41719801",
+      "27121714",
+      "29222071"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0076-6879(26)00173-4",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "identity": {
+    "pmid": "42681250",
+    "doi": "10.1007/978-1-0716-5316-6_9",
+    "title": "Molecular Dynamics Simulation Analyses of the Conformational Change of an Escherichia coli Multidrug Exporter, MdfA."
+  },
+  "content": {
+    "abstract": "Molecular dynamics (MD) simulations are a powerful tool to investigate the dynamics and the conformational distributions of proteins. My collaborators and I applied them to study the proton transport-coupled conformational change of an Escherichia coli multidrug exporter, MdfA. In this chapter, I first describe the theoretical basis for studying the dynamics and the conformational distributions of a protein using MD simulations. Second, I describe the methods to construct the simulation system, in which the protein is embedded in a solvated lipid bilayer, and those employed to conduct the MD simulations and to analyze the results. Finally, I describe the problems that remain unsolved and present a plan to further study the transport mechanism of MdfA using MD methods.",
+    "keywords": [
+      "Conformational change",
+      "Conformational distribution",
+      "Free energy",
+      "Molecular dynamics",
+      "Newton's equations of motion",
+      "Potential energy function",
+      "Statistical ensemble"
+    ],
+    "mesh_terms": [
+      "*Molecular Dynamics Simulation",
+      "*Escherichia coli Proteins/chemistry/metabolism",
+      "*Escherichia coli/metabolism",
+      "Protein Conformation",
+      "Lipid Bilayers/chemistry/metabolism",
+      "Thermodynamics",
+      "*Membrane Transport Proteins/chemistry/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Terada, Tohru"
+      ],
+      "short_names": [
+        "Terada T"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-7091-0646"
+      ],
+      "affiliations": [
+        "Department of Biotechnology, Graduate School of Agricultural and Life Sciences, The University of Tokyo, Tokyo, Japan. tterada@bi.a.u-tokyo.ac.jp."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Terada, Tohru",
+        "short_name": "Terada T",
+        "identifiers": [
+          "0000-0002-7091-0646"
+        ],
+        "affiliations": [
+          "Department of Biotechnology, Graduate School of Agricultural and Life Sciences, The University of Tokyo, Tokyo, Japan. tterada@bi.a.u-tokyo.ac.jp."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Methods in molecular biology (Clifton, N.J.)"
+    ],
+    "journal_abbrev": [
+      "Methods Mol Biol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/02 05:36",
+    "fetched_at": "2026-09-08 15:48:04"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42681250",
+      "41667004",
+      "32860775",
+      "17114895",
+      "31146923",
+      "22434745",
+      "22960041",
+      "29339082",
+      "39066727",
+      "27055595",
+      "30275448",
+      "30026196",
+      "36613823",
+      "29117682",
+      "30297844",
+      "28951231",
+      "39329451",
+      "30790265",
+      "15557318",
+      "29530612",
+      "27497175",
+      "25330967",
+      "19808670",
+      "18835894",
+      "24706332",
+      "19927326",
+      "25729859",
+      "41739525",
+      "29072107",
+      "34272395",
+      "40891313",
+      "31059259",
+      "20922370",
+      "28844594",
+      "31998988",
+      "22825052",
+      "30241934",
+      "23146938",
+      "14688269",
+      "16855255",
+      "33420032",
+      "33877631",
+      "31467343",
+      "39042711",
+      "31633205",
+      "32609716",
+      "36715097",
+      "22339851",
+      "31517484",
+      "16158230",
+      "24083838",
+      "17637346",
+      "28695852",
+      "22841484",
+      "29470981",
+      "33582994",
+      "30509977",
+      "20596946",
+      "16274234",
+      "37947833",
+      "36007614",
+      "39699738",
+      "30987187",
+      "38180013",
+      "28335678",
+      "41747953",
+      "41370088",
+      "26238402",
+      "31302180",
+      "26695055",
+      "25088546",
+      "22802625",
+      "39266522",
+      "40618440",
+      "32534517",
+      "27616441",
+      "39475239",
+      "12944258",
+      "30482840",
+      "20816073",
+      "20483324",
+      "26946244",
+      "29177832",
+      "18004782",
+      "42681251",
+      "40581816",
+      "23416557",
+      "27023848",
+      "31813734",
+      "27959539",
+      "39322794",
+      "33291882",
+      "26014489",
+      "24415929",
+      "16675700",
+      "27493064",
+      "19129186",
+      "28388089",
+      "42227972",
+      "33825681"
+    ],
+    "review": [
+      "42681250",
+      "41667004",
+      "17114895",
+      "28951231",
+      "27497175",
+      "31302180",
+      "26946244",
+      "27023848"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1007/978-1-0716-5316-6_9",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

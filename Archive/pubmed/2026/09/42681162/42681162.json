@@ -1,0 +1,222 @@
+{
+  "identity": {
+    "pmid": "42681162",
+    "doi": "10.1007/978-1-0716-5194-0_15",
+    "title": "Construction of an In Silico Model to Study the Molecular Functions of Type I Collagen."
+  },
+  "content": {
+    "abstract": "Modeling of fibrillar collagen such as type I collagen is challenging mainly due to the large size of this protein, its peculiar secondary structure of polyproline II type, found mainly in extracellular matrix proteins, and the presence of posttranslational modifications essential to its function. In this chapter, we present a protocol that allows us to model, at the atomic level, the three-dimensional structure of type I collagen with the THeBuScr and SIDEpro software. The resulting conformation could be used for further molecular docking or molecular dynamics investigations.",
+    "keywords": [
+      "Collagen",
+      "Fibrillar",
+      "Molecular modeling",
+      "Posttranslational modification",
+      "SIDEpro",
+      "THeBuscr"
+    ],
+    "mesh_terms": [
+      "*Collagen Type I/chemistry/metabolism",
+      "*Models, Molecular",
+      "Software",
+      "Computer Simulation",
+      "Protein Conformation",
+      "Protein Processing, Post-Translational",
+      "Molecular Dynamics Simulation",
+      "Humans",
+      "Protein Structure, Secondary",
+      "Molecular Docking Simulation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Msoili, Zara",
+        "Wong, Hua",
+        "Baud, Stephanie"
+      ],
+      "short_names": [
+        "Msoili Z",
+        "Wong H",
+        "Baud S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Universite de Reims Champagne-Ardenne, CNRS, MEDYC, Reims, France.",
+        "Universite de Reims Champagne-Ardenne, CNRS, MEDYC, Reims, France.",
+        "Universite de Reims Champagne-Ardenne, CNRS, MEDYC, Reims, France. stephanie.baud@uni-reims.fr."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Msoili, Zara",
+        "short_name": "Msoili Z",
+        "identifiers": [],
+        "affiliations": [
+          "Université de Reims Champagne-Ardenne, CNRS, MEDYC, Reims, France."
+        ]
+      },
+      {
+        "full_name": "Wong, Hua",
+        "short_name": "Wong H",
+        "identifiers": [],
+        "affiliations": [
+          "Université de Reims Champagne-Ardenne, CNRS, MEDYC, Reims, France."
+        ]
+      },
+      {
+        "full_name": "Baud, Stéphanie",
+        "short_name": "Baud S",
+        "identifiers": [],
+        "affiliations": [
+          "Université de Reims Champagne-Ardenne, CNRS, MEDYC, Reims, France. stephanie.baud@uni-reims.fr."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Methods in molecular biology (Clifton, N.J.)"
+    ],
+    "journal_abbrev": [
+      "Methods Mol Biol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/02 05:36",
+    "fetched_at": "2026-09-08 15:48:04"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42681162",
+      "15581348",
+      "14696182",
+      "21121047",
+      "29260165",
+      "21405976",
+      "23131209",
+      "22072531",
+      "30413772",
+      "12729079",
+      "24574112",
+      "26730484",
+      "26436211",
+      "28385890",
+      "28078591",
+      "32687633",
+      "30527445",
+      "31256377",
+      "15980018",
+      "11727705",
+      "9053901",
+      "24269790",
+      "29931970",
+      "27327186",
+      "18067320",
+      "29594778",
+      "25642729",
+      "23089616",
+      "27589372",
+      "17156988",
+      "17412657",
+      "25327850",
+      "25863690",
+      "24586843",
+      "10951330",
+      "23399546",
+      "15246109",
+      "16751282",
+      "24336963",
+      "16671409",
+      "19897098",
+      "20056598",
+      "32385162",
+      "14642758",
+      "32737667",
+      "30943891",
+      "27799304",
+      "30269884",
+      "19862557",
+      "41176616",
+      "31452109",
+      "38801671",
+      "29380684",
+      "26017138",
+      "17210119",
+      "33631195",
+      "15612545",
+      "11709170",
+      "27914049",
+      "24164447",
+      "32240155",
+      "37528650",
+      "23132064",
+      "33524049",
+      "38987465",
+      "30058226",
+      "23996786",
+      "30900708",
+      "16852392",
+      "28150242",
+      "41766569",
+      "25381619",
+      "39841124",
+      "41096886",
+      "25385079",
+      "36293432",
+      "29086303",
+      "29797604",
+      "28150235",
+      "24968150",
+      "28631261",
+      "15819976",
+      "32188979",
+      "22847422",
+      "9083105",
+      "27410733",
+      "15136578",
+      "9144767",
+      "36662478",
+      "28964337",
+      "19753304",
+      "39194135",
+      "21207932",
+      "17034259",
+      "23658222",
+      "42657169",
+      "22830394",
+      "22378540",
+      "37356910",
+      "23927189"
+    ],
+    "review": [
+      "42681162",
+      "26730484",
+      "11727705",
+      "29931970",
+      "25327850",
+      "19862557"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1007/978-1-0716-5194-0_15",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

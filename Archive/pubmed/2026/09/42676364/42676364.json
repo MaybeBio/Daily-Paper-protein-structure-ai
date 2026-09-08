@@ -1,0 +1,314 @@
+{
+  "identity": {
+    "pmid": "42676364",
+    "doi": "10.3389/fimmu.2026.1861005",
+    "title": "Computational analysis of CD40L missense variants A123E, S222F, and G257R predicts altered CD40 binding and trimeric stability in X-linked hyper-IgM syndrome."
+  },
+  "content": {
+    "abstract": "INTRODUCTION: CD40L (CD154) is a homotrimeric member of the TNF superfamily protein expressed on activated CD4+ T cells whose interaction with CD40 is required for class-switch recombination, somatic hypermutation, and B cell terminal differentiation. Loss-of-function mutations in gene CD40LG cause X-linked hyper-IgM syndrome type 1 (HIGM1), characterized by recurrent infections, lack of IgG, IgA and IgE, and near-normal or elevated IgM. METHODS: We implemented computational strategies to describe the structure and dynamics of the CD40L-CD40 complex for the native protein and three missense variants not previously characterized at the molecular level: A123E, S222F and G257R. Two independent 300 ns simulations were run per system in explicit solvent at 300 K and 0.15 M NaCl. In addition, we evaluated the energetics and electrostatics of the complex using continuum solvent models, such as molecular mechanics-Poisson-Boltzmann Surface Area (MM-PBSA) and Adaptive Poisson-Boltzmann Solver (APBS). RESULTS: We found that A123E caused a moderate, energetically coherent reduction in binding affinity consistent with partial loss of function. S222F caused the largest reduction in binding free energy (weakest binder by MM-PBSA) along with an increase of the CD40L-CD40 contact area, consistent with a geometrically expanded but energetically disrupted interface where the aromatic side chain offsets paradoxically favorable electrostatic reorganization. G257R maintained near-native binding free energies but reduced the trimeric contact area by 20-22%, and increased the radius of gyration of CD40L, consistent with structural loosening of the homotrimer that we predict could uncouple binding competence from signaling competence, with potential effects on CD40 receptor mobility and mechanotransduction at the immunological synapse that remain to be tested experimentally. DISCUSSION: These findings may offer a structural basis for the clinical heterogeneity of HIGM1 and illustrate what computational approaches can contribute to the interpretation of CD40LG variants, including novel variants identified in Latin American patients where experimental validation is rarely available.",
+    "keywords": [
+      "CD40",
+      "CD40L",
+      "X-linked hyper-IgM syndrome",
+      "binding free energy",
+      "inborn errors of immunity",
+      "missense mutations",
+      "molecular dynamics"
+    ],
+    "mesh_terms": [
+      "*CD40 Ligand/genetics/chemistry/metabolism",
+      "*CD40 Antigens/metabolism/chemistry/genetics",
+      "Humans",
+      "*Mutation, Missense",
+      "Protein Binding",
+      "*Hyper-IgM Immunodeficiency Syndrome, Type 1/genetics/metabolism/immunology",
+      "Immunoinformatics",
+      "Molecular Dynamics Simulation",
+      "Protein Stability",
+      "Protein Conformation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Velasquez-Ortiz, Maria Guadalupe",
+        "Jardon-Valadez, Eduardo",
+        "Reyes-Huerta, Raul Fernando",
+        "Catalan-Dibene, Jovani",
+        "Berron-Ruiz, Laura",
+        "Lopez-Herrera, Gabriela",
+        "Meza-Sanchez, David Eduardo",
+        "Maravillas-Montero, Jose Luis"
+      ],
+      "short_names": [
+        "Velasquez-Ortiz MG",
+        "Jardon-Valadez E",
+        "Reyes-Huerta RF",
+        "Catalan-Dibene J",
+        "Berron-Ruiz L",
+        "Lopez-Herrera G",
+        "Meza-Sanchez DE",
+        "Maravillas-Montero JL"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Departamento de Medicina Molecular y Bioprocesos, Instituto de Biotecnologia, Universidad Nacional Autonoma de Mexico, Cuernavaca, Morelos, Mexico.",
+        "Posgrado en Ciencias Biologicas, Universidad Nacional Autonoma de Mexico, Unidad de Posgrado, Ciudad Universitaria, Coyoacan, Mexico City, Mexico.",
+        "Departamento de Recursos de la Tierra, Universidad Autonoma Metropolitana, Estado de Mexico, Mexico.",
+        "Departamento de Medicina Molecular y Bioprocesos, Instituto de Biotecnologia, Universidad Nacional Autonoma de Mexico, Cuernavaca, Morelos, Mexico.",
+        "Doctorado en Ciencias Biomedicas, Universidad Nacional Autonoma de Mexico, Unidad de Posgrado, Ciudad Universitaria, Coyoacan, Mexico City, Mexico.",
+        "Division of Biomedical Sciences, School of Medicine, University of California, Riverside, Riverside, CA, United States.",
+        "Laboratorio de Inmunodeficiencias, Instituto Nacional de Pediatria, Coyoacan, Mexico City, Mexico.",
+        "Laboratorio de Inmunodeficiencias, Instituto Nacional de Pediatria, Coyoacan, Mexico City, Mexico.",
+        "Red de Apoyo a la Investigacion, Universidad Nacional Autonoma de Mexico-Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran, Mexico City, Mexico.",
+        "Departamento de Medicina Molecular y Bioprocesos, Instituto de Biotecnologia, Universidad Nacional Autonoma de Mexico, Cuernavaca, Morelos, Mexico."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Velásquez-Ortiz, María Guadalupe",
+        "short_name": "Velásquez-Ortiz MG",
+        "identifiers": [],
+        "affiliations": [
+          "Departamento de Medicina Molecular y Bioprocesos, Instituto de Biotecnología, Universidad Nacional Autónoma de México, Cuernavaca, Morelos, Mexico.",
+          "Posgrado en Ciencias Biológicas, Universidad Nacional Autónoma de México, Unidad de Posgrado, Ciudad Universitaria, Coyoacán, Mexico City, Mexico."
+        ]
+      },
+      {
+        "full_name": "Jardón-Valadez, Eduardo",
+        "short_name": "Jardón-Valadez E",
+        "identifiers": [],
+        "affiliations": [
+          "Departamento de Recursos de la Tierra, Universidad Autónoma Metropolitana, Estado de México, Mexico."
+        ]
+      },
+      {
+        "full_name": "Reyes-Huerta, Raúl Fernando",
+        "short_name": "Reyes-Huerta RF",
+        "identifiers": [],
+        "affiliations": [
+          "Departamento de Medicina Molecular y Bioprocesos, Instituto de Biotecnología, Universidad Nacional Autónoma de México, Cuernavaca, Morelos, Mexico.",
+          "Doctorado en Ciencias Biomédicas, Universidad Nacional Autónoma de México, Unidad de Posgrado, Ciudad Universitaria, Coyoacán, Mexico City, Mexico."
+        ]
+      },
+      {
+        "full_name": "Catalán-Dibene, Jovani",
+        "short_name": "Catalán-Dibene J",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Biomedical Sciences, School of Medicine, University of California, Riverside, Riverside, CA, United States."
+        ]
+      },
+      {
+        "full_name": "Berrón-Ruiz, Laura",
+        "short_name": "Berrón-Ruiz L",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratorio de Inmunodeficiencias, Instituto Nacional de Pediatría, Coyoacán, Mexico City, Mexico."
+        ]
+      },
+      {
+        "full_name": "López-Herrera, Gabriela",
+        "short_name": "López-Herrera G",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratorio de Inmunodeficiencias, Instituto Nacional de Pediatría, Coyoacán, Mexico City, Mexico."
+        ]
+      },
+      {
+        "full_name": "Meza-Sánchez, David Eduardo",
+        "short_name": "Meza-Sánchez DE",
+        "identifiers": [],
+        "affiliations": [
+          "Red de Apoyo a la Investigación, Universidad Nacional Autónoma de México-Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán, Mexico City, Mexico."
+        ]
+      },
+      {
+        "full_name": "Maravillas-Montero, José Luis",
+        "short_name": "Maravillas-Montero JL",
+        "identifiers": [],
+        "affiliations": [
+          "Departamento de Medicina Molecular y Bioprocesos, Instituto de Biotecnología, Universidad Nacional Autónoma de México, Cuernavaca, Morelos, Mexico."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in immunology"
+    ],
+    "journal_abbrev": [
+      "Front Immunol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/01 05:41",
+    "fetched_at": "2026-09-08 15:48:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42676364",
+      "36478253",
+      "37433422",
+      "40391217",
+      "31331973",
+      "39546606",
+      "7915248",
+      "17307885",
+      "27324886",
+      "12823286",
+      "26903548",
+      "23010537",
+      "9746782",
+      "21285457",
+      "40939507",
+      "25268346",
+      "20591076",
+      "22750225",
+      "24929972",
+      "11817328",
+      "11525169",
+      "30681380",
+      "29132233",
+      "20702779",
+      "7916370",
+      "35572607",
+      "25752457",
+      "31401902",
+      "10196221",
+      "38587548",
+      "19170966",
+      "42009946",
+      "19575287",
+      "33571526",
+      "7539026",
+      "19023113",
+      "20301576",
+      "37566056",
+      "7532185",
+      "17244160",
+      "17360404",
+      "17562816",
+      "40262278",
+      "8094231",
+      "23538518",
+      "15997875",
+      "22154528",
+      "9605317",
+      "23604614",
+      "39615244",
+      "7679801",
+      "22193914",
+      "7964460",
+      "8759730",
+      "7506037",
+      "16311023",
+      "14610488",
+      "9086433",
+      "7679206",
+      "22125452",
+      "15358621",
+      "23797640",
+      "8589998",
+      "26545377",
+      "34114358",
+      "33764006",
+      "34842998",
+      "37546834",
+      "9933119",
+      "37173671",
+      "10640744",
+      "29780795",
+      "23463508",
+      "37457961",
+      "24402618",
+      "11675497",
+      "30131802",
+      "20981468",
+      "41478393",
+      "26064940",
+      "42657169",
+      "11892071",
+      "24768948",
+      "15319456",
+      "10878352",
+      "29518426",
+      "8580079",
+      "38129705",
+      "29303623",
+      "16509032",
+      "11801691",
+      "30053428",
+      "24845792",
+      "38657446",
+      "32500460",
+      "15661021",
+      "31831191",
+      "31754970",
+      "16547227",
+      "22322937"
+    ],
+    "review": [
+      "42676364",
+      "7915248",
+      "11817328",
+      "30681380",
+      "29132233",
+      "39615244",
+      "7506037",
+      "9086433",
+      "22125452",
+      "23797640",
+      "20981468",
+      "11892071",
+      "15319456",
+      "38129705",
+      "15661021"
+    ],
+    "pmc": [
+      "13526676"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42676364/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD4-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-76",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fimmu.2026.1861005",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

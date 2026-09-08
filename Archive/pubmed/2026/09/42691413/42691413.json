@@ -1,0 +1,259 @@
+{
+  "identity": {
+    "pmid": "42691413",
+    "doi": "10.1021/acs.jpcb.6c04178",
+    "title": "Conformational Features of Abeta25-35 and Its Mutants Suggest Toxic Structural Determinants: Insights from REST2 Simulations."
+  },
+  "content": {
+    "abstract": "The Abeta25-35 fragment is the shortest proteolytic fragment retaining the core neurotoxicity of full-length Alzheimer's amyloid-beta (Abeta). To elucidate the structure-neurotoxicity relationships, we performed replica exchange with solute tempering 2 (REST2) simulations on wild-type (WT), N27A (less toxic), and M35A (more toxic) Abeta25-35 hexamers in explicit solvent. Our simulations show that N27A, WT, and M35A hexamers predominantly adopt 4-stranded, 6-stranded, and 5-stranded beta-barrels, respectively, driven by hydrophobic interactions within residues I30-G33. Hydrogen bond counts and binding energies for adjacent peptide contacts and peptide-water interactions indicate that both beta-barrel disassembly propensity and N-terminal hydration (residues G25-K28) correlate with the cytotoxicity trend (N27A < WT < M35A). Integrating our findings with established membrane damage mechanisms, we propose that (I) the disassembly propensity of dominant beta-barrels governs their transition from off-pathway states to cytotoxic oligomers, and (II) N-terminal domain exposure (G25-K28) in on-pathway intermediates modulates peptide-membrane interactions. To reduce Abeta25-35 oligomeric toxicity, we recommend inhibiting hydrophobic core residues (A30-G33) to suppress aggregation and modulating N-terminal contacts to limit solvent exposure and membrane binding. Our simulations provide new insights into WT and mutant Abeta25-35 cytotoxicity and suggest therapeutic strategies for its attenuation.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Amyloid beta-Peptides/chemistry/genetics/toxicity/metabolism",
+      "*Peptide Fragments/chemistry/genetics/toxicity/metabolism",
+      "*Molecular Dynamics Simulation",
+      "Mutation",
+      "Hydrophobic and Hydrophilic Interactions",
+      "Hydrogen Bonding",
+      "Protein Conformation",
+      "Humans"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Mo, Yuxiang",
+        "Hou, Yonghui",
+        "Su, Rui",
+        "Huang, Zhijing",
+        "Tang, Guoning",
+        "Du, Liang",
+        "Lu, Yan"
+      ],
+      "short_names": [
+        "Mo Y",
+        "Hou Y",
+        "Su R",
+        "Huang Z",
+        "Tang G",
+        "Du L",
+        "Lu Y"
+      ],
+      "auids": [
+        "ORCID: 0009-0005-3233-7964",
+        "ORCID: 0000-0002-9086-3576"
+      ],
+      "affiliations": [
+        "College of Physics and Technology, Guangxi Normal University, Guilin, Guangxi541004, People's Republic of China.",
+        "College of Physics and Technology, Guangxi Normal University, Guilin, Guangxi541004, People's Republic of China.",
+        "College of Physics and Technology, Guangxi Normal University, Guilin, Guangxi541004, People's Republic of China.",
+        "College of Physics and Technology, Guangxi Normal University, Guilin, Guangxi541004, People's Republic of China.",
+        "College of Physics and Technology, Guangxi Normal University, Guilin, Guangxi541004, People's Republic of China.",
+        "College of Physics and Technology, Guangxi Normal University, Guilin, Guangxi541004, People's Republic of China.",
+        "School of Physics and Optoelectronic Engineering, Hainan University, Haikou570228, People's Republic of China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Mo, Yuxiang",
+        "short_name": "Mo Y",
+        "identifiers": [
+          "0009-0005-3233-7964"
+        ],
+        "affiliations": [
+          "College of Physics and Technology, Guangxi Normal University, Guilin, Guangxi541004, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Hou, Yonghui",
+        "short_name": "Hou Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Physics and Technology, Guangxi Normal University, Guilin, Guangxi541004, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Su, Rui",
+        "short_name": "Su R",
+        "identifiers": [],
+        "affiliations": [
+          "College of Physics and Technology, Guangxi Normal University, Guilin, Guangxi541004, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Huang, Zhijing",
+        "short_name": "Huang Z",
+        "identifiers": [],
+        "affiliations": [
+          "College of Physics and Technology, Guangxi Normal University, Guilin, Guangxi541004, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Tang, Guoning",
+        "short_name": "Tang G",
+        "identifiers": [],
+        "affiliations": [
+          "College of Physics and Technology, Guangxi Normal University, Guilin, Guangxi541004, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Du, Liang",
+        "short_name": "Du L",
+        "identifiers": [],
+        "affiliations": [
+          "College of Physics and Technology, Guangxi Normal University, Guilin, Guangxi541004, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Lu, Yan",
+        "short_name": "Lu Y",
+        "identifiers": [
+          "0000-0002-9086-3576"
+        ],
+        "affiliations": [
+          "School of Physics and Optoelectronic Engineering, Hainan University, Haikou570228, People's Republic of China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The journal of physical chemistry. B"
+    ],
+    "journal_abbrev": [
+      "J Phys Chem B"
+    ],
+    "pub_date": "2026 Sep 3",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/03 17:36",
+    "fetched_at": "2026-09-08 15:48:04"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42691413",
+      "21192698",
+      "29727180",
+      "31073226",
+      "24000923",
+      "19751686",
+      "41872054",
+      "18479708",
+      "20229606",
+      "29186195",
+      "19515926",
+      "23421682",
+      "30821624",
+      "27091578",
+      "33621087",
+      "16731963",
+      "39908957",
+      "25137638",
+      "27933940",
+      "29465978",
+      "33289734",
+      "21687730",
+      "23811057",
+      "36888995",
+      "35209177",
+      "26237080",
+      "36052514",
+      "25650940",
+      "41410547",
+      "28292185",
+      "23926957",
+      "27560127",
+      "40776447",
+      "16766615",
+      "30605312",
+      "28162045",
+      "21186801",
+      "24729535",
+      "31994886",
+      "24857343",
+      "24261958",
+      "28855598",
+      "31566950",
+      "28245647",
+      "26629788",
+      "20480256",
+      "23051147",
+      "40955736",
+      "31738555",
+      "39945395",
+      "36150020",
+      "26871000",
+      "23440928",
+      "29900443",
+      "32541820",
+      "17115426",
+      "15530822",
+      "28004051",
+      "27602722",
+      "19486667",
+      "19053400",
+      "39126645",
+      "38809059",
+      "23606599",
+      "33480728",
+      "24756858",
+      "23868536",
+      "33006281",
+      "31271401",
+      "28817283",
+      "27137996",
+      "22339868",
+      "21761818",
+      "20734314",
+      "24494584",
+      "23015407",
+      "20428075",
+      "31899612",
+      "28294556",
+      "31931566",
+      "12070316",
+      "32557766",
+      "22242635",
+      "29953467",
+      "18215070",
+      "42691420",
+      "42629610",
+      "34383481",
+      "30080867",
+      "30771375",
+      "19685013",
+      "25117080",
+      "30571122",
+      "39158263",
+      "22281438",
+      "19108587",
+      "28684415",
+      "21486050",
+      "18408165",
+      "20550130"
+    ],
+    "review": [
+      "42691413"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/jpcbfk/article-lookup/doi/10.1021/acs.jpcb.6c04178",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

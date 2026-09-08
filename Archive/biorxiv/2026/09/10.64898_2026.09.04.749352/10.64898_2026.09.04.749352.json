@@ -1,0 +1,268 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.04.749352",
+  "title": "AtlasFold: Protein structure prediction with metagenomic-scale language models",
+  "doi": "10.64898/2026.09.04.749352",
+  "abstract": "Protein language models (PLMs) trained on evolutionary sequences learn representations that encode protein structure, enabling direct structure prediction without multiple-sequence alignments (MSAs). Here we present the Atlas model family, an open and trainable system spanning protein language modeling, monomer folding, and protein-complex prediction. AtlasLM-3B is a 3B-scale language model trained with masked language modeling on approximately 1.56 billion sequences, including metagenomic data, and outperforms the similarly sized ESM2-3B in unsupervised contact prediction. Building on these representations, AtlasFold predicts all-atom protein structures and achieves state-of-the-art accuracy among PLM-based folding models. Fine-tuning AtlasFold for protein-complex prediction produces AtlasFold-Multimer (AtlasFold-M), whose antibody-antigen prediction performance is comparable to that of AlphaFold3 and ESMFold2. This protein-specific folding architecture enables fast, memory-efficient inference with AtlasFold and AtlasFold-M. By releasing the training code and data, stage checkpoints, and model weights under the MIT License, we provide a foundation for advancing PLM-based protein structure prediction.",
+  "authors": [
+    "Seonghwan Seo",
+    "Hyeongwoo Kim",
+    "Seokhyun Moon",
+    "Woo Youn Kim",
+    "Team KAIST"
+  ],
+  "published_date": "2026-09-07",
+  "updated_date": "2026-09-08T05:05:13Z",
+  "journal": "bioRxiv",
+  "category": "Bioinformatics",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.04.749352",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.04.749352.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [
+    "Bioinformatics"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Bioinformatics",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            8
+          ]
+        ],
+        "date-time": "2026-09-08T08:09:55Z",
+        "timestamp": 1788854995456,
+        "version": "build-2803163510"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            7
+          ]
+        ]
+      },
+      "group-title": "Bioinformatics",
+      "reference-count": 0,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                7
+              ]
+            ],
+            "date-time": "2026-09-07T00:00:00Z",
+            "timestamp": 1788739200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "award": [
+            "PJT-26-100009"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "PJT-26-100009"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/026v53e29",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            7
+          ]
+        ]
+      },
+      "abstract": "<jats:p>Protein language models (PLMs) trained on evolutionary sequences learn representations that encode protein structure, enabling direct structure prediction without multiple-sequence alignments (MSAs). Here we present the Atlas model family, an open and trainable system spanning protein language modeling, monomer folding, and protein-complex prediction. AtlasLM-3B is a 3B-scale language model trained with masked language modeling on approximately 1.56 billion sequences, including metagenomic data, and outperforms the similarly sized ESM2-3B in unsupervised contact prediction. Building on these representations, AtlasFold predicts all-atom protein structures and achieves state-of-the-art accuracy among PLM-based folding models. Fine-tuning AtlasFold for protein-complex prediction produces AtlasFold-Multimer (AtlasFold-M), whose antibody-antigen prediction performance is comparable to that of AlphaFold3 and ESMFold2. This protein-specific folding architecture enables fast, memory-efficient inference with AtlasFold and AtlasFold-M. By releasing the training code and data, stage checkpoints, and model weights under the MIT License, we provide a foundation for advancing PLM-based protein structure prediction.</jats:p>",
+      "DOI": "10.64898/2026.09.04.749352",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            8
+          ]
+        ],
+        "date-time": "2026-09-08T05:05:13Z",
+        "timestamp": 1788843913000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "AtlasFold: Protein structure prediction with metagenomic-scale language models"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-4090-7825",
+          "authenticated-orcid": false,
+          "given": "Seonghwan",
+          "family": "Seo",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Korea Advanced Institute of Science and Technology (KAIST)"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0002-0376-8616",
+          "authenticated-orcid": false,
+          "given": "Hyeongwoo",
+          "family": "Kim",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Korea Advanced Institute of Science and Technology (KAIST)"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5197-0096",
+          "authenticated-orcid": false,
+          "given": "Seokhyun",
+          "family": "Moon",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Korea Advanced Institute of Science and Technology (KAIST)"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-7152-2111",
+          "authenticated-orcid": false,
+          "given": "Woo Youn",
+          "family": "Kim",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Korea Advanced Institute of Science and Technology (KAIST)"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "name": "Team KAIST",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.09.04.749352",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            8
+          ]
+        ],
+        "date-time": "2026-09-08T07:55:16Z",
+        "timestamp": 1788854116000
+      },
+      "score": 55.671257,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.09.04.749352"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            7
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.64898/2026.09.04.749352",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            7
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

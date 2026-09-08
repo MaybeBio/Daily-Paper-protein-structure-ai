@@ -1,0 +1,271 @@
+{
+  "identity": {
+    "pmid": "42680273",
+    "doi": "10.1016/j.foodres.2026.119944",
+    "title": "Ternary deep eutectic solvents simultaneously enhance the activity, thermal stability, and selectivity of CALB for efficient diacylglycerol production."
+  },
+  "content": {
+    "abstract": "Solvent engineering plays a crucial role in improving lipase performance in non-aqueous biocatalytic systems, particularly for the efficient and selective production of functional lipids. In this study, choline chloride-glycerol-urea ternary deep eutectic solvents (TDESs) were constructed to regulate the catalytic behavior of Candida antarctica lipase B (CALB), and the relationships between solvent physicochemical properties, enzyme conformation, and catalytic performance were systematically evaluated through enzymatic assays, fluorescence spectroscopy, and molecular dynamics simulations. Compared with binary DES and solvent free systems, TDESs exhibited lower water activity, tunable viscosity, and strengthened hydrogen-bonding networks, providing a more stable microenvironment for CALB. The optimal ChCl:Gly:U (1:1:1) system enhanced catalytic activity by 2.8-fold and retained over 80% residual activity after thermal treatment. Simulation results indicated reduced RMSD, RMSF, and SASA values, suggesting improved structural compactness. Subtle changes in interaction behavior within the catalytic triad (Ser105-His224-Asp187) were also observed, indicating localized modulation of active-site dynamics that may contribute to enhanced flexibility. In esterification, ChCl:Gly:U increased DAG content to 61% and reduced MAG content to <15% (vs. 45% DAG and 32% MAG in the solvent free system). In addition, the selectivity of DAG formation in TDES systems increased significantly from 57.66% to 73.61%. These findings demonstrate that rationally designed TDESs effectively enhance CALB activity, stability, and DAG selectivity, providing a feasible and sustainable strategy for enzymatic lipid modification.",
+    "keywords": [
+      "Candida antarctica lipase B",
+      "Diacylglycerol",
+      "Enzyme activation",
+      "Molecular dynamics",
+      "Ternary deep eutectic solvents",
+      "Thermal stability"
+    ],
+    "mesh_terms": [
+      "*Diglycerides/biosynthesis/metabolism",
+      "*Lipase/metabolism/chemistry",
+      "*Fungal Proteins/metabolism/chemistry",
+      "*Deep Eutectic Solvents/chemistry",
+      "Molecular Dynamics Simulation",
+      "Choline/chemistry",
+      "Esterification",
+      "Enzyme Stability",
+      "Urea/chemistry",
+      "Glycerol/chemistry",
+      "Solvents/chemistry",
+      "Protein Conformation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Daoming",
+        "Li, Gaimiao",
+        "Wang, Jiandong",
+        "Li, Yuhao",
+        "Gao, Minguang",
+        "Zhu, Zhenbao",
+        "Zhou, Duan"
+      ],
+      "short_names": [
+        "Li D",
+        "Li G",
+        "Wang J",
+        "Li Y",
+        "Gao M",
+        "Zhu Z",
+        "Zhou D"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Food Science and Engineering, Shaanxi University of Science and Technology, Xi'an 710021, Shannxi, China. Electronic address: dmli@sust.edu.cn.",
+        "School of Food Science and Engineering, Shaanxi University of Science and Technology, Xi'an 710021, Shannxi, China.",
+        "Hebei Yuxing Food Co., Ltd., Xingtai 055550, Hebei, China.",
+        "School of Food Science and Engineering, Shaanxi University of Science and Technology, Xi'an 710021, Shannxi, China; Henan Jinyufeng Biotechnology Co., Ltd., Zhumadian 463000, Henan, China.",
+        "Shandong Shou Bainian Special Medical Food Co., Ltd., Binzhou 256200, Shandong, China.",
+        "School of Food Science and Engineering, Shaanxi University of Science and Technology, Xi'an 710021, Shannxi, China.",
+        "School of Biological Medicine and Food Engineering, Shangluo University, Shangluo 726000, Shaanxi, China. Electronic address: 792776826@qq.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Daoming",
+        "short_name": "Li D",
+        "identifiers": [],
+        "affiliations": [
+          "School of Food Science and Engineering, Shaanxi University of Science and Technology, Xi'an 710021, Shannxi, China. Electronic address: dmli@sust.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Li, Gaimiao",
+        "short_name": "Li G",
+        "identifiers": [],
+        "affiliations": [
+          "School of Food Science and Engineering, Shaanxi University of Science and Technology, Xi'an 710021, Shannxi, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Jiandong",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "Hebei Yuxing Food Co., Ltd., Xingtai 055550, Hebei, China."
+        ]
+      },
+      {
+        "full_name": "Li, Yuhao",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Food Science and Engineering, Shaanxi University of Science and Technology, Xi'an 710021, Shannxi, China; Henan Jinyufeng Biotechnology Co., Ltd., Zhumadian 463000, Henan, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Minguang",
+        "short_name": "Gao M",
+        "identifiers": [],
+        "affiliations": [
+          "Shandong Shou Bainian Special Medical Food Co., Ltd., Binzhou 256200, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Zhenbao",
+        "short_name": "Zhu Z",
+        "identifiers": [],
+        "affiliations": [
+          "School of Food Science and Engineering, Shaanxi University of Science and Technology, Xi'an 710021, Shannxi, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Duan",
+        "short_name": "Zhou D",
+        "identifiers": [],
+        "affiliations": [
+          "School of Biological Medicine and Food Engineering, Shangluo University, Shangluo 726000, Shaanxi, China. Electronic address: 792776826@qq.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Food research international (Ottawa, Ont.)"
+    ],
+    "journal_abbrev": [
+      "Food Res Int"
+    ],
+    "pub_date": "2026 Oct 31",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/01 23:34",
+    "fetched_at": "2026-09-08 15:48:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42680273",
+      "40086960",
+      "31233790",
+      "40005090",
+      "24930496",
+      "26210852",
+      "39064875",
+      "41365414",
+      "30172818",
+      "41692202",
+      "41412243",
+      "20601697",
+      "33658468",
+      "21978621",
+      "39402266",
+      "41176017",
+      "34497176",
+      "37499720",
+      "37787564",
+      "37909488",
+      "40595937",
+      "34636834",
+      "31909616",
+      "35113231",
+      "23178554",
+      "38692127",
+      "24424278",
+      "40680945",
+      "40186427",
+      "35265607",
+      "32940465",
+      "39818846",
+      "37442394",
+      "26437947",
+      "42657809",
+      "41520981",
+      "38791124",
+      "41586837",
+      "40712940",
+      "37380035",
+      "39835430",
+      "41240864",
+      "42069202",
+      "33456003",
+      "39387359",
+      "28215070",
+      "38697420",
+      "22041165",
+      "38081487",
+      "38010210",
+      "42605015",
+      "41005398",
+      "39019372",
+      "42531767",
+      "40939785",
+      "41980446",
+      "27184256",
+      "36453254",
+      "36701046",
+      "39821504",
+      "30055273",
+      "37175305",
+      "42632672",
+      "41108079",
+      "18254946",
+      "39615088",
+      "40725207",
+      "39733341",
+      "30341806",
+      "39884632",
+      "40105133",
+      "31734716",
+      "11255163",
+      "40818551",
+      "42011928",
+      "36069142",
+      "28283247",
+      "29082418",
+      "38716816",
+      "41187397",
+      "24448805",
+      "25973762",
+      "25270022",
+      "36049567",
+      "35653959",
+      "26343327",
+      "42521163",
+      "40446859",
+      "38583673",
+      "37923242",
+      "25252004",
+      "30908847",
+      "33837552",
+      "39525963",
+      "37423894",
+      "37470288",
+      "41314570",
+      "35084121",
+      "27304947",
+      "42177866"
+    ],
+    "review": [
+      "42680273",
+      "22041165"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0963-9969(26)01628-5",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-ERCC2-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

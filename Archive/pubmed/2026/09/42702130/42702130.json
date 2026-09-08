@@ -1,0 +1,243 @@
+{
+  "identity": {
+    "pmid": "42702130",
+    "doi": "10.1016/j.bioorg.2026.110461",
+    "title": "Discovery of Emodin as a novel competitive KPC-2 inhibitor through virtual screening: Synergistic efficacy with Meropenem against Carbapenem-resistant Klebsiella pneumoniae infection."
+  },
+  "content": {
+    "abstract": "Carbapenem-resistant Klebsiella pneumoniae produces the carbapenemase KPC-2, which rapidly confers resistance and poses a significant threat to public health worldwide. Natural compounds have broad application potential, novel structures, and are not easily recognized by existing bacterial resistance mechanisms. Therefore, through virtual screening based on the KPC-2 protein structure and in vitro antimicrobial assessment, the natural anthraquinone compound emodin was identified as a KPC-2 inhibitor (IC(50) = 24.4 muM) and a synergist of meropenem. Molecular dynamics simulation and interaction analyses indicated that emodin competitively occupied the active site of KPC-2 at Trp105 and Thr237, resulting in reduced alpha-helices and increased beta-sheets, thereby inhibiting KPC-2 activity. The combination of emodin and MEM exhibited a synergistic effect. Furthermore, emodin modulates succinate dehydrogenase (SDH) activity and its transcriptional expression, resulting in metabolic perturbation that renders bacteria susceptible to meropenem, thereby potentiating the synergistic antibacterial activity of the combination. This disrupted the metabolic homeostasis of the bacteria, thereby compromising the integrity of bacterial cells and biofilms. No resistance development was observed over 30 generations of passage. In a mouse model of pneumonia, the combination therapy significantly reduced MEM usage, decreased the pulmonary bacterial load by 1.43 log CFU/g of model group, attenuated lung inflammation, and restored normal lung histology. These findings suggest that emodin acts as a promising candidate of KPC-2 inhibitor, which is capable of reinstating carbapenem efficacy against carbapenem-resistant Gram-negative pathogens in vitro and in vivo.",
+    "keywords": [
+      "Antibiotic synergist",
+      "Carbapenem-resistant Klebsiella pneumoniae",
+      "Emodin",
+      "Enzyme inhibitor",
+      "KPC-2"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Yan",
+        "Geng, Jiamin",
+        "Li, Bingyan",
+        "Deng, Xuming",
+        "Wang, Jiaxi",
+        "Guo, Na"
+      ],
+      "short_names": [
+        "Wang Y",
+        "Geng J",
+        "Li B",
+        "Deng X",
+        "Wang J",
+        "Guo N"
+      ],
+      "auids": [],
+      "affiliations": [
+        "College of Food Science and Engineering, Jilin University, Changchun 130062, China.",
+        "College of Food Science and Engineering, Jilin University, Changchun 130062, China.",
+        "College of Food Science and Engineering, Jilin University, Changchun 130062, China.",
+        "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Key Laboratory for Zoonosis Research of the Ministry of Education, Institute of Zoonosis, and College of Veterinary Medicine, Jilin University, Changchun 130062, China.",
+        "College of Food Science and Engineering, Jilin University, Changchun 130062, China.",
+        "College of Food Science and Engineering, Jilin University, Changchun 130062, China. Electronic address: guona@jlu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Yan",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science and Engineering, Jilin University, Changchun 130062, China."
+        ]
+      },
+      {
+        "full_name": "Geng, Jiamin",
+        "short_name": "Geng J",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science and Engineering, Jilin University, Changchun 130062, China."
+        ]
+      },
+      {
+        "full_name": "Li, Bingyan",
+        "short_name": "Li B",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science and Engineering, Jilin University, Changchun 130062, China."
+        ]
+      },
+      {
+        "full_name": "Deng, Xuming",
+        "short_name": "Deng X",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory for Diagnosis and Treatment of Severe Zoonotic Infectious Diseases, Key Laboratory for Zoonosis Research of the Ministry of Education, Institute of Zoonosis, and College of Veterinary Medicine, Jilin University, Changchun 130062, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Jiaxi",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science and Engineering, Jilin University, Changchun 130062, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Na",
+        "short_name": "Guo N",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science and Engineering, Jilin University, Changchun 130062, China. Electronic address: guona@jlu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Bioorganic chemistry"
+    ],
+    "journal_abbrev": [
+      "Bioorg Chem"
+    ],
+    "pub_date": "2026 Sep 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/06 23:34",
+    "fetched_at": "2026-09-08 15:48:04"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42702130",
+      "33025557",
+      "30479755",
+      "33017041",
+      "39190636",
+      "38526879",
+      "38712934",
+      "33789129",
+      "42545018",
+      "35647694",
+      "42482988",
+      "38972552",
+      "38289044",
+      "38319084",
+      "40815156",
+      "37086891",
+      "33707959",
+      "41660983",
+      "30712199",
+      "40794265",
+      "31182530",
+      "41315177",
+      "42043345",
+      "39723630",
+      "40815144",
+      "36154170",
+      "38193656",
+      "40546282",
+      "39480156",
+      "36414199",
+      "31114565",
+      "39293771",
+      "29109160",
+      "36619764",
+      "40179579",
+      "42080564",
+      "41790301",
+      "39704532",
+      "36374086",
+      "40266683",
+      "39234551",
+      "34484166",
+      "36622238",
+      "38008277",
+      "36167781",
+      "39709132",
+      "32810638",
+      "31553260",
+      "29089425",
+      "40231682",
+      "11257029",
+      "35471622",
+      "29230684",
+      "33617571",
+      "42001835",
+      "39133021",
+      "41858919",
+      "35477227",
+      "21811540",
+      "34630354",
+      "39727024",
+      "34855767",
+      "38933778",
+      "36537823",
+      "39545736",
+      "39711783",
+      "40810515",
+      "33843058",
+      "41651947",
+      "40207055",
+      "36433637",
+      "30617090",
+      "29427523",
+      "32297801",
+      "41436714",
+      "34674551",
+      "39911707",
+      "35477226",
+      "39856702",
+      "35693053",
+      "35107303",
+      "38980018",
+      "36649860",
+      "40149875",
+      "31511369",
+      "41532999",
+      "29038260",
+      "35833009",
+      "39699187",
+      "39490595",
+      "30835635",
+      "38505552",
+      "42165965",
+      "28031201",
+      "39734741",
+      "21135187",
+      "30012751",
+      "39655914",
+      "38599013",
+      "38709005"
+    ],
+    "review": [
+      "42702130",
+      "33025557",
+      "33017041",
+      "30712199",
+      "29230684",
+      "29427523"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0045-2068(26)00997-1",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

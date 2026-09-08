@@ -1,0 +1,91 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.02.748856",
+  "title": "BAGEL-CAR: Reflections on the Bits to Binders Competition",
+  "doi": "10.64898/2026.09.02.748856",
+  "abstract": "The antigen-binding segment of chimeric antigen receptors (CARs) in CAR-T therapy has emerged as a compelling application of de novo AI protein design. In the Bits to Binders competition, our group submitted 414 BAGEL-CAR designs for CD20-directed CAR binding segments, 38.4% of which were statistically enriched in a pooled CAR-T proliferation screen, the highest among all teams and more than double the next-best. Strikingly, after detailing the three design strategies employed, we show that two of them carry the entire success of our campaign, with both of them outcompeting all the other teams' aggregate results. Crucially, during the competition, we did not refold any of the binders after backbone painting. Had we applied this typical validation step with ESMFold, all experimentally enriched designs would have been filtered out. Our findings show that each filtering step should be stress-tested per biomolecular system and intermediate outputs of design pipelines should be assayed regardless of 'common practice'. Additionally, we appear to be the only team that designed against ESMFold's predicted CD20 dimer geometry, which diverges substantially from the experimentally resolved 6Y97 structure, raising, but not resolving, the possibility that this alternative target geometry contributed to our high hit rate. We hope these reflections help inform the future of effective CAR-T and binder design campaigns.",
+  "authors": [
+    "Lála J",
+    "Angioletti-Uberti S"
+  ],
+  "published_date": "2026-09-04",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.02.748856",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.02.748856.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1312976",
+    "raw_record": {
+      "id": "PPR1312976",
+      "source": "PPR",
+      "doi": "10.64898/2026.09.02.748856",
+      "title": "BAGEL-CAR: Reflections on the Bits to Binders Competition",
+      "authorString": "Lála J, Angioletti-Uberti S.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Lála J",
+            "firstName": "Jakub",
+            "lastName": "Lála",
+            "initials": "J"
+          },
+          {
+            "fullName": "Angioletti-Uberti S",
+            "firstName": "Stefano",
+            "lastName": "Angioletti-Uberti",
+            "initials": "S"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "The antigen-binding segment of chimeric antigen receptors (CARs) in CAR-T therapy has emerged as a compelling application of de novo AI protein design. In the Bits to Binders competition, our group submitted 414 BAGEL-CAR designs for CD20-directed CAR binding segments, 38.4% of which were statistically enriched in a pooled CAR-T proliferation screen, the highest among all teams and more than double the next-best. Strikingly, after detailing the three design strategies employed, we show that two of them carry the entire success of our campaign, with both of them outcompeting all the other teams' aggregate results. Crucially, during the competition, we did not refold any of the binders after backbone painting. Had we applied this typical validation step with ESMFold, all experimentally enriched designs would have been filtered out. Our findings show that each filtering step should be stress-tested per biomolecular system and intermediate outputs of design pipelines should be assayed regardless of 'common practice'. Additionally, we appear to be the only team that designed against ESMFold's predicted CD20 dimer geometry, which diverges substantially from the experimentally resolved 6Y97 structure, raising, but not resolving, the possibility that this alternative target geometry contributed to our high hit rate. We hope these reflections help inform the future of effective CAR-T and binder design campaigns.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.09.02.748856"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-09-06",
+      "firstIndexDate": "2026-09-06",
+      "firstPublicationDate": "2026-09-04"
+    }
+  }
+}

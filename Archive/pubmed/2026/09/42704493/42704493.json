@@ -1,0 +1,226 @@
+{
+  "identity": {
+    "pmid": "42704493",
+    "doi": "10.1007/s00894-026-06945-8",
+    "title": "Comparative molecular dynamics of two cyclic peptide inhibitors bound to the Zika virus NS2B/NS3 protease."
+  },
+  "content": {
+    "abstract": "CONTEXT: The Zika virus NS2B/NS3 protease is an important antiviral target, and macrocyclic peptide inhibitors represent promising scaffolds because they combine multibasic recognition motifs with conformational restriction. Here, we investigated two structurally related cyclic peptide inhibitors, referred to as CP1 and CP2, which share a conserved macrocyclic framework but differ in the chemical nature of their linker substituents. Molecular dynamics simulations showed that both peptides display broad intramolecular distance distributions in aqueous solution, indicating that key crystallographic contacts are not intrinsically maintained in the unbound state. Upon binding to the protease, CP2 adopted a more defined conformational ensemble and preserved a short intramolecular contact compatible with its crystallographic arrangement, whereas CP1 lost its crystallographic d2 contact and sampled a broader bound-state distribution. CP2 also showed a more focused interaction network involving residues from the catalytic and substrate-recognition regions and more favorable binding free-energy estimates. METHODS: Molecular dynamics simulations were performed for each cyclic peptide in aqueous solution and bound to the Zika virus NS2B/NS3 protease using Amber 20. The protein was described with the ff14SB force field, the cyclic peptides with GAFF2, and the systems were solvated with the TIP3P water model. Three independent 500 ns simulations were performed for each system. Trajectories were analyzed using structural clustering, intramolecular distance distributions, residue-level interaction analysis, and MM/PBSA and MM/GBSA binding free-energy calculations.",
+    "keywords": [
+      "Binding free energy",
+      "Conformational preorganization",
+      "Macrocyclic peptides",
+      "ZIKV protease"
+    ],
+    "mesh_terms": [
+      "*Molecular Dynamics Simulation",
+      "*Zika Virus/enzymology/drug effects",
+      "*Viral Nonstructural Proteins/chemistry/antagonists & inhibitors/metabolism",
+      "*Peptides, Cyclic/chemistry/pharmacology",
+      "Viral Proteases",
+      "*Serine Endopeptidases/chemistry/metabolism",
+      "Nucleoside-Triphosphatase",
+      "*Protease Inhibitors/chemistry/pharmacology",
+      "Protein Binding",
+      "DEAD-box RNA Helicases",
+      "Protein Conformation"
+    ],
+    "pub_types": [
+      "Comparative Study",
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Marinho, Camilla Vitoria Silva",
+        "de Oliveira, Maycon Vinicius Damasceno",
+        "Lima, Anderson H"
+      ],
+      "short_names": [
+        "Marinho CVS",
+        "de Oliveira MVD",
+        "Lima AH"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6162-3848",
+        "ORCID: 0000-0003-2263-2124",
+        "ORCID: 0000-0002-8451-9912"
+      ],
+      "affiliations": [
+        "Laboratorio de Planejamento e Desenvolvimento de Farmacos, Instituto de Ciencias Exatas e Naturais, Universidade Federal do Para, Belem, Para, 66075-110, Brazil.",
+        "Laboratorio de Planejamento e Desenvolvimento de Farmacos, Instituto de Ciencias Exatas e Naturais, Universidade Federal do Para, Belem, Para, 66075-110, Brazil.",
+        "Laboratorio de Planejamento e Desenvolvimento de Farmacos, Instituto de Ciencias Exatas e Naturais, Universidade Federal do Para, Belem, Para, 66075-110, Brazil. anderson@ufpa.br."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Marinho, Camilla Vitoria Silva",
+        "short_name": "Marinho CVS",
+        "identifiers": [
+          "0000-0002-6162-3848"
+        ],
+        "affiliations": [
+          "Laboratório de Planejamento e Desenvolvimento de Fármacos, Instituto de Ciências Exatas e Naturais, Universidade Federal do Pará, Belém, Pará, 66075-110, Brazil."
+        ]
+      },
+      {
+        "full_name": "de Oliveira, Maycon Vinicius Damasceno",
+        "short_name": "de Oliveira MVD",
+        "identifiers": [
+          "0000-0003-2263-2124"
+        ],
+        "affiliations": [
+          "Laboratório de Planejamento e Desenvolvimento de Fármacos, Instituto de Ciências Exatas e Naturais, Universidade Federal do Pará, Belém, Pará, 66075-110, Brazil."
+        ]
+      },
+      {
+        "full_name": "Lima, Anderson H",
+        "short_name": "Lima AH",
+        "identifiers": [
+          "0000-0002-8451-9912"
+        ],
+        "affiliations": [
+          "Laboratório de Planejamento e Desenvolvimento de Fármacos, Instituto de Ciências Exatas e Naturais, Universidade Federal do Pará, Belém, Pará, 66075-110, Brazil. anderson@ufpa.br."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of molecular modeling"
+    ],
+    "journal_abbrev": [
+      "J Mol Model"
+    ],
+    "pub_date": "2026 Sep 7",
+    "pub_year": "2026",
+    "pub_types": [
+      "Comparative Study",
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/07 17:36",
+    "fetched_at": "2026-09-08 15:48:04"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42704493",
+      "37747074",
+      "37528667",
+      "39469836",
+      "41062463",
+      "39733219",
+      "41428810",
+      "39116118",
+      "31461176",
+      "41652071",
+      "38673962",
+      "41855844",
+      "41373905",
+      "41833763",
+      "38809037",
+      "29526431",
+      "39039677",
+      "42323182",
+      "42701296",
+      "34180376",
+      "42557991",
+      "37712848",
+      "28689970",
+      "26086900",
+      "28298600",
+      "42366916",
+      "28461069",
+      "31077760",
+      "31401441",
+      "30393012",
+      "35238272",
+      "35123179",
+      "41104139",
+      "27940580",
+      "41637016",
+      "38834129",
+      "42213869",
+      "40768804",
+      "29845530",
+      "30315877",
+      "41667483",
+      "28336347",
+      "36077486",
+      "34319220",
+      "32618974",
+      "41693318",
+      "32501637",
+      "37747078",
+      "42364892",
+      "27714789",
+      "39684391",
+      "28712942",
+      "40891203",
+      "31209577",
+      "38582134",
+      "37232419",
+      "28342876",
+      "33899341",
+      "42337180",
+      "32014497",
+      "27386922",
+      "28341122",
+      "36480352",
+      "42494850",
+      "34636434",
+      "38373021",
+      "19693793",
+      "36965673",
+      "38796112",
+      "39861795",
+      "31953156",
+      "40773989",
+      "22833015",
+      "36121092",
+      "39274895",
+      "31769670",
+      "37379675",
+      "28539222",
+      "31344613",
+      "39841317",
+      "38881303",
+      "22007671",
+      "41478287",
+      "38735453",
+      "37243192",
+      "31676367",
+      "31920173",
+      "39546935",
+      "35891424",
+      "35475620",
+      "35618201",
+      "35458761",
+      "28202376",
+      "34871140",
+      "35128923",
+      "29908184",
+      "31880199",
+      "35950997",
+      "41762031",
+      "28034744"
+    ],
+    "review": [
+      "42704493",
+      "38673962",
+      "31077760",
+      "29845530",
+      "42494850",
+      "34636434",
+      "39274895"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

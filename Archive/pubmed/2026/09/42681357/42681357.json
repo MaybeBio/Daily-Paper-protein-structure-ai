@@ -1,0 +1,207 @@
+{
+  "identity": {
+    "pmid": "42681357",
+    "doi": "10.1007/978-1-0716-5158-2_5",
+    "title": "Using AlphaFold3 for the Interrogation of Protein Disulfide Bonds."
+  },
+  "content": {
+    "abstract": "Disulfide bonds play critical roles in stabilizing protein structure and modulating protein function. Traditional approaches to studying these bonds have often relied on generating cysteine mutations to remove disulfide bonds, followed by labor-intensive biochemical characterization of the resulting variants. With the advent of AlphaFold3 (AF3) by Google DeepMind, in silico structural interrogation of disulfide bonds has been made possible. By integrating AF3's predictive capabilities with PyMOL-based structural analysis, researchers can rapidly assess the structural impact of removing disulfide bonds. This workflow provides informed predictions regarding the functional consequences of such modifications and enables investigators to refine hypotheses for other experimental approaches. Here, we describe a practical protocol for employing AF3 to investigate the contribution of disulfide bonds to protein stability and function.",
+    "keywords": [
+      "AlphaFold",
+      "Disulfide bond",
+      "Integrin",
+      "Membrane protein"
+    ],
+    "mesh_terms": [
+      "*Disulfides/chemistry",
+      "*Proteins/chemistry",
+      "*Software",
+      "Cysteine/chemistry",
+      "Protein Conformation",
+      "Protein Folding",
+      "Models, Molecular",
+      "Protein Stability",
+      "*Computational Biology/methods"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Pijning, Aster E"
+      ],
+      "short_names": [
+        "Pijning AE"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Life Sciences, University of Technology Sydney, Sydney, NSW, Australia. a.pijning@centenary.org.au.",
+        "Centenary Institute, University of Sydney, Sydney, NSW, Australia. a.pijning@centenary.org.au."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Pijning, Aster E",
+        "short_name": "Pijning AE",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Sciences, University of Technology Sydney, Sydney, NSW, Australia. a.pijning@centenary.org.au.",
+          "Centenary Institute, University of Sydney, Sydney, NSW, Australia. a.pijning@centenary.org.au."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Methods in molecular biology (Clifton, N.J.)"
+    ],
+    "journal_abbrev": [
+      "Methods Mol Biol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/02 05:36",
+    "fetched_at": "2026-09-08 15:48:04"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42681357",
+      "42681353",
+      "24817698",
+      "42681354",
+      "20127740",
+      "17285623",
+      "40741763",
+      "22591475",
+      "30694665",
+      "10891282",
+      "20851707",
+      "14985535",
+      "19559710",
+      "42400845",
+      "29256076",
+      "26161671",
+      "16768438",
+      "18203772",
+      "17545999",
+      "42681356",
+      "17584119",
+      "10757967",
+      "15585533",
+      "10632727",
+      "39941016",
+      "40851426",
+      "26297249",
+      "30403347",
+      "24066859",
+      "15645448",
+      "28642368",
+      "30980592",
+      "9477955",
+      "42681355",
+      "40332289",
+      "31069762",
+      "7578147",
+      "9045630",
+      "28376774",
+      "40345559",
+      "29139344",
+      "24692015",
+      "16460007",
+      "39970826",
+      "33765253",
+      "28585528",
+      "18959394",
+      "33550156",
+      "31106356",
+      "18372287",
+      "2217140",
+      "24692017",
+      "28608407",
+      "24289175",
+      "15194477",
+      "18653472",
+      "12234192",
+      "20603141",
+      "20884319",
+      "32717949",
+      "16214873",
+      "9521822",
+      "23912807",
+      "12702798",
+      "35975925",
+      "26806159",
+      "30550863",
+      "28106297",
+      "15099746",
+      "42681365",
+      "37979393",
+      "15765547",
+      "11467944",
+      "14698301",
+      "34695570",
+      "26921956",
+      "20831445",
+      "31013569",
+      "25716754",
+      "12524212",
+      "12421832",
+      "10972999",
+      "40427567",
+      "41599399",
+      "1328685",
+      "10220333",
+      "42300078",
+      "30658470",
+      "10433712",
+      "11009618",
+      "41170922",
+      "42681364",
+      "15287732",
+      "18854167",
+      "25703060",
+      "16820415",
+      "16126224",
+      "9343348",
+      "30747488",
+      "17098195"
+    ],
+    "review": [
+      "42681357",
+      "29256076",
+      "17584119",
+      "10757967",
+      "40332289",
+      "24692015",
+      "39970826",
+      "33765253",
+      "18372287",
+      "24692017",
+      "20603141",
+      "20831445",
+      "12524212",
+      "40427567"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1007/978-1-0716-5158-2_5",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

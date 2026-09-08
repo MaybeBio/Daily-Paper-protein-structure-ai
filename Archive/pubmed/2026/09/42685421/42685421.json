@@ -1,0 +1,247 @@
+{
+  "identity": {
+    "pmid": "42685421",
+    "doi": "10.1016/j.foodchem.2026.150801",
+    "title": "Decoding structure-function synergies in plant proteins using AlphaFold and deep learning tools."
+  },
+  "content": {
+    "abstract": "The transition to sustainable plant-based proteins requires a molecular-level understanding of structure-function relationships that traditional analytical techniques struggle to fully characterize. This comprehensive review explores the potential of artificial intelligence in elucidating the structure-function relationship of plant proteins, particularly addressing AlphaFold and deep learning-based structural predictors to bridge this characterization gap. Through neural network architectures including graph convolutional networks, attention-based transformers, and protein language models, primary sequences are mapped to three-dimensional structures and correlated with macroscopic techno-functional attributes. Comparative profiling of soybean glycinin, pea vicilin, and faba bean legumin demonstrates how computational modeling bridges genomic sequences with food material performance. Specifically, AlphaFold structural predictions reveal that soybean glycinin G1 possesses a total monomer solvent accessible surface area (SASA) of  approximately 18,500 A(2), a highly hydrophobic fraction of  approximately 41.2% ( approximately 7,622 A(2)), and 31 beta-sheet strands. This unique spatial topography, coupled with conserved disulfide bridges, specifically the mature intramolecular Cys12-Cys45 bond (precursor Cys35-Cys68) and the interchain disulfide bond involving mature acidic Cys88 (precursor Cys111) and basic Cys298 (precursor Cys321), explains its superior interfacial adsorption, film-forming capacity, and strong hydrogel network formation compared to pea vicilin, which lacks disulfide stabilization and has a lower hydrophobic fraction ( approximately 37.5%). However, a critical limitation has been identified: prior state modeling restricts AlphaFold predictions to static native conformations under idealized conditions (pLDDT: 84.35), whereas processing-dependent technological functionalities emerge in non-equilibrium states. Thus, structural templates need to be integrated with processing parameters (pH, temperature) and molecular dynamics to simulate conformational transitions and active site exposure; this represents a paradigm shift in computer-aided precision food design.",
+    "keywords": [
+      "AlphaFold",
+      "Deep learning",
+      "Plant-based proteins",
+      "Protein function",
+      "Protein structure"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Unal, Evrim",
+        "Capanoglu, Esra",
+        "Can Karaca, Asli"
+      ],
+      "short_names": [
+        "Unal E",
+        "Capanoglu E",
+        "Can Karaca A"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Food Engineering, Faculty of Chemical and Metallurgical Engineering, Istanbul Technical University, 34469 Istanbul, Turkiye.",
+        "Department of Food Engineering, Faculty of Chemical and Metallurgical Engineering, Istanbul Technical University, 34469 Istanbul, Turkiye.",
+        "Department of Food Engineering, Faculty of Chemical and Metallurgical Engineering, Istanbul Technical University, 34469 Istanbul, Turkiye. Electronic address: cankaraca@itu.edu.tr."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Unal, Evrim",
+        "short_name": "Unal E",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Food Engineering, Faculty of Chemical and Metallurgical Engineering, Istanbul Technical University, 34469 Istanbul, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Capanoglu, Esra",
+        "short_name": "Capanoglu E",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Food Engineering, Faculty of Chemical and Metallurgical Engineering, Istanbul Technical University, 34469 Istanbul, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Can Karaca, Asli",
+        "short_name": "Can Karaca A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Food Engineering, Faculty of Chemical and Metallurgical Engineering, Istanbul Technical University, 34469 Istanbul, Türkiye. Electronic address: cankaraca@itu.edu.tr."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Food chemistry"
+    ],
+    "journal_abbrev": [
+      "Food Chem"
+    ],
+    "pub_date": "2026 Aug 21",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/03 01:19",
+    "fetched_at": "2026-09-08 15:48:04"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42685421",
+      "42475469",
+      "40658102",
+      "38352360",
+      "40663654",
+      "34904892",
+      "23912807",
+      "40460619",
+      "39125995",
+      "39643340",
+      "42119874",
+      "40815964",
+      "42044246",
+      "14705889",
+      "35593869",
+      "38545599",
+      "40233800",
+      "41055214",
+      "40973394",
+      "39444187",
+      "42334640",
+      "40852847",
+      "41895993",
+      "41286386",
+      "41197316",
+      "34265844",
+      "40725172",
+      "35129957",
+      "38365583",
+      "41051642",
+      "41155426",
+      "42409488",
+      "42572360",
+      "42356807",
+      "34599769",
+      "31424720",
+      "35769913",
+      "38601958",
+      "11727705",
+      "41864380",
+      "15291477",
+      "39108640",
+      "39215127",
+      "41352986",
+      "41222234",
+      "40663537",
+      "40287075",
+      "41209584",
+      "40062613",
+      "40121710",
+      "15326600",
+      "41910880",
+      "39858443",
+      "34418423",
+      "40610378",
+      "35134816",
+      "40919912",
+      "42491247",
+      "36420164",
+      "38236500",
+      "41986008",
+      "41154856",
+      "42029797",
+      "37789284",
+      "41672347",
+      "41880461",
+      "39576576",
+      "42499499",
+      "39197652",
+      "39967158",
+      "41554209",
+      "40919100",
+      "40387957",
+      "33760451",
+      "30985027",
+      "37939407",
+      "38552697",
+      "39673690",
+      "40865815",
+      "12767219",
+      "31693199",
+      "41448320",
+      "41174399",
+      "39544090",
+      "33844136",
+      "26268369",
+      "41614412",
+      "39756261",
+      "36540969",
+      "41310253",
+      "40402396",
+      "36876042",
+      "39150724",
+      "39684679",
+      "42505246",
+      "41432299",
+      "41284811",
+      "40383024",
+      "42335477",
+      "40060804"
+    ],
+    "review": [
+      "42685421",
+      "40663654",
+      "39125995",
+      "40233800",
+      "40973394",
+      "39444187",
+      "41895993",
+      "41286386",
+      "40725172",
+      "41155426",
+      "42409488",
+      "42572360",
+      "42356807",
+      "11727705",
+      "41222234",
+      "41209584",
+      "40121710",
+      "41910880",
+      "34418423",
+      "42491247",
+      "36420164",
+      "41986008",
+      "41154856",
+      "42029797",
+      "41672347",
+      "39576576",
+      "40387957",
+      "37939407",
+      "39673690",
+      "33844136",
+      "39756261",
+      "40402396",
+      "39150724",
+      "42505246"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0308-8146(26)02961-4",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1548",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

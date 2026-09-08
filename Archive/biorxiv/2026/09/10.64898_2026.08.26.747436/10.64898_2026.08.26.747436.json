@@ -1,0 +1,99 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.08.26.747436",
+  "title": "From Prompt to Provenance: BloClaw, a Capability-Gated AI4S Workstation for Auditable Computational Biology",
+  "doi": "10.64898/2026.08.26.747436",
+  "abstract": "Scientific agents can produce plausible answers while remaining unable to establish whether the computation behind an answer is executable, recoverable, or reproducible. We present B lo C law , an AI4S workstation built around a simple principle: a scientific agent should know what it can do, show how it did it, and state what remains unvalidated. Each capability declares an execution state, input constraints, dependencies, expected outputs, and scientific limitations. Natural-language requests are translated into structured tasks, validated against this registry, executed through scientific tools, and recorded in a provenance-aware Living Lab Notebook. The system is designed to detect invalid inputs, failed tool calls, missing dependencies, and remote timeouts, and to route them to repair, retry, or escalation. The implemented and tested scope comprises RDKit-based molecular property and rule screening, protein structure analysis, docking-pose inspection, 3D visualization, and structured reporting. We demonstrate the workflow on a PubChem-retrieved osimertinib structure and a supplied 6LU7 docking artifact: the former yields deterministic descriptors (molecular weight 499.619 Da, cLogP 4.5098, TPSA 87.55 A 2 ), while the latter contains 2,387 protein ATOM records, 309 residues, and nine pose records. These examples are workflow demonstrations, not efficacy or affinity studies. Beyond retrospective prediction, the manuscript specifies a prior-minimized constructive mode in which a desired function is compiled into explicit physical, chemical, and systems constraints, candidate mechanisms are simulated, and observations are reintroduced for calibration and falsification; this is a proposed extension rather than a result of the present case studies. We describe an evaluation protocol that compares BloClaw with a standard single-agent workflow and fixed-script execution using task completion, scientific correctness, recovery success, provenance completeness, reproducibility, human review time, latency, and cost. This manuscript reports the system design, verified capability boundary, deterministic software artifacts, and a reproducible evaluation protocol; it does not claim benchmark improvements before those experiments are run. BloClaw is an execution and accountability layer for AI-assisted research, complementing expert review and experimental validation rather than replacing them.",
+  "authors": [
+    "Qin Y",
+    "Pang J",
+    "Zhang X"
+  ],
+  "published_date": "2026-09-01",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.08.26.747436",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.08.26.747436.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1311138",
+    "raw_record": {
+      "id": "PPR1311138",
+      "source": "PPR",
+      "doi": "10.64898/2026.08.26.747436",
+      "title": "From Prompt to Provenance: BloClaw, a Capability-Gated AI4S Workstation for Auditable Computational Biology",
+      "authorString": "Qin Y, Pang J, Zhang X.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Qin Y",
+            "firstName": "Yao",
+            "lastName": "Qin",
+            "initials": "Y"
+          },
+          {
+            "fullName": "Pang J",
+            "firstName": "Jinhua",
+            "lastName": "Pang",
+            "initials": "J"
+          },
+          {
+            "fullName": "Zhang X",
+            "firstName": "Xiaoming",
+            "lastName": "Zhang",
+            "initials": "X"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Scientific agents can produce plausible answers while remaining unable to establish whether the computation behind an answer is executable, recoverable, or reproducible. We present B  lo C  law , an AI4S workstation built around a simple principle: a scientific agent should know what it can do, show how it did it, and state what remains unvalidated. Each capability declares an execution state, input constraints, dependencies, expected outputs, and scientific limitations. Natural-language requests are translated into structured tasks, validated against this registry, executed through scientific tools, and recorded in a provenance-aware Living Lab Notebook. The system is designed to detect invalid inputs, failed tool calls, missing dependencies, and remote timeouts, and to route them to repair, retry, or escalation. The implemented and tested scope comprises RDKit-based molecular property and rule screening, protein structure analysis, docking-pose inspection, 3D visualization, and structured reporting. We demonstrate the workflow on a PubChem-retrieved osimertinib structure and a supplied 6LU7 docking artifact: the former yields deterministic descriptors (molecular weight 499.619 Da, cLogP 4.5098, TPSA 87.55 A  2 ), while the latter contains 2,387 protein ATOM records, 309 residues, and nine pose records. These examples are workflow demonstrations, not efficacy or affinity studies. Beyond retrospective prediction, the manuscript specifies a prior-minimized constructive mode in which a desired function is compiled into explicit physical, chemical, and systems constraints, candidate mechanisms are simulated, and observations are reintroduced for calibration and falsification; this is a proposed extension rather than a result of the present case studies. We describe an evaluation protocol that compares BloClaw with a standard single-agent workflow and fixed-script execution using task completion, scientific correctness, recovery success, provenance completeness, reproducibility, human review time, latency, and cost. This manuscript reports the system design, verified capability boundary, deterministic software artifacts, and a reproducible evaluation protocol; it does not claim benchmark improvements before those experiments are run. BloClaw is an execution and accountability layer for AI-assisted research, complementing expert review and experimental validation rather than replacing them.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.08.26.747436"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "license": "cc by-nc-nd",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-09-03",
+      "firstIndexDate": "2026-09-03",
+      "firstPublicationDate": "2026-09-01"
+    }
+  }
+}

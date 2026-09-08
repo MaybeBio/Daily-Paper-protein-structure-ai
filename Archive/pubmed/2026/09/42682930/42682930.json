@@ -1,0 +1,254 @@
+{
+  "identity": {
+    "pmid": "42682930",
+    "doi": "10.1039/d6sc02655a",
+    "title": "Teaching diffusion models physics: reinforcement learning for physically valid diffusion-based docking."
+  },
+  "content": {
+    "abstract": "Molecular docking aims to predict the binding conformation of a small molecule to its protein target. Recent work has proposed diffusion models for this task, from rigid-body docking that diffuses over ligand degrees of freedom to co-folding approaches that jointly generate protein structure and ligand pose. However, diffusion-based docking models have been shown to frequently produce physically implausible poses and fail to consistently recover key protein-ligand interactions. To address this, we introduce a reinforcement learning framework for training diffusion-based docking models directly on non-differentiable objectives. Fine-tuning DiffDock-Pocket for physical validity with our approach substantially increases the number of generated poses that are physically valid and interaction-preserving, with no increase in inference-time compute. Importantly, this comes without sacrificing structural accuracy; in fact, our approach increases the proportion of structures with near-native poses. These effects are most pronounced for protein targets that are dissimilar to the training data. Our fine-tuned DiffDock-Pocket model outperforms both classical docking algorithms and machine learning-based approaches on the PoseBusters set. Our results demonstrate that reinforcement learning can teach diffusion-based docking models to better respect physical constraints and recover key interactions, without the requirement to rely on inference-time corrections.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Broster, J Henry",
+        "Popovic, Bojana",
+        "Kondinskaia, Diana",
+        "Deane, Charlotte M",
+        "Imrie, Fergus"
+      ],
+      "short_names": [
+        "Broster JH",
+        "Popovic B",
+        "Kondinskaia D",
+        "Deane CM",
+        "Imrie F"
+      ],
+      "auids": [
+        "ORCID: 0009-0005-1578-7488",
+        "ORCID: 0000-0002-0756-5149",
+        "ORCID: 0009-0005-8850-9091",
+        "ORCID: 0000-0003-1388-2252",
+        "ORCID: 0000-0002-6241-0123"
+      ],
+      "affiliations": [
+        "Department of Statistics, University of Oxford Oxford OX1 3LB UK imrie@stats.ox.ac.uk.",
+        "Cambridge Crystallographic Data Centre Cambridge CB2 1EZ UK.",
+        "Cambridge Crystallographic Data Centre Cambridge CB2 1EZ UK.",
+        "Department of Statistics, University of Oxford Oxford OX1 3LB UK imrie@stats.ox.ac.uk.",
+        "Department of Statistics, University of Oxford Oxford OX1 3LB UK imrie@stats.ox.ac.uk."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Broster, J Henry",
+        "short_name": "Broster JH",
+        "identifiers": [
+          "0009-0005-1578-7488"
+        ],
+        "affiliations": [
+          "Department of Statistics, University of Oxford Oxford OX1 3LB UK imrie@stats.ox.ac.uk."
+        ]
+      },
+      {
+        "full_name": "Popovic, Bojana",
+        "short_name": "Popovic B",
+        "identifiers": [
+          "0000-0002-0756-5149"
+        ],
+        "affiliations": [
+          "Cambridge Crystallographic Data Centre Cambridge CB2 1EZ UK."
+        ]
+      },
+      {
+        "full_name": "Kondinskaia, Diana",
+        "short_name": "Kondinskaia D",
+        "identifiers": [
+          "0009-0005-8850-9091"
+        ],
+        "affiliations": [
+          "Cambridge Crystallographic Data Centre Cambridge CB2 1EZ UK."
+        ]
+      },
+      {
+        "full_name": "Deane, Charlotte M",
+        "short_name": "Deane CM",
+        "identifiers": [
+          "0000-0003-1388-2252"
+        ],
+        "affiliations": [
+          "Department of Statistics, University of Oxford Oxford OX1 3LB UK imrie@stats.ox.ac.uk."
+        ]
+      },
+      {
+        "full_name": "Imrie, Fergus",
+        "short_name": "Imrie F",
+        "identifiers": [
+          "0000-0002-6241-0123"
+        ],
+        "affiliations": [
+          "Department of Statistics, University of Oxford Oxford OX1 3LB UK imrie@stats.ox.ac.uk."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Chemical science"
+    ],
+    "journal_abbrev": [
+      "Chem Sci"
+    ],
+    "pub_date": "2026 Aug 18",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/02 11:39",
+    "fetched_at": "2026-09-08 15:48:04"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42682930",
+      "42475469",
+      "38425520",
+      "42023722",
+      "42423919",
+      "42069689",
+      "29495922",
+      "23912807",
+      "39830331",
+      "42380495",
+      "41729820",
+      "42670838",
+      "40900115",
+      "38817560",
+      "25724101",
+      "42268396",
+      "36154119",
+      "33979150",
+      "37745489",
+      "36502369",
+      "41777155",
+      "30577740",
+      "29190087",
+      "42563208",
+      "30182836",
+      "41429653",
+      "39558632",
+      "38577892",
+      "39823352",
+      "42523485",
+      "42471645",
+      "41950314",
+      "41835581",
+      "37159314",
+      "42209152",
+      "32427491",
+      "42113584",
+      "41115690",
+      "41984966",
+      "24171431",
+      "41231530",
+      "38706316",
+      "32144844",
+      "41439702",
+      "41088767",
+      "40389970",
+      "39497201",
+      "39928910",
+      "42296306",
+      "41030805",
+      "35901959",
+      "41526649",
+      "33985583",
+      "32077698",
+      "32383873",
+      "38827235",
+      "30802041",
+      "40343848",
+      "28424069",
+      "29934750",
+      "34704754",
+      "25916860",
+      "41636346",
+      "30877639",
+      "37166179",
+      "41873490",
+      "33034007",
+      "18636505",
+      "27587691",
+      "41697919",
+      "37175495",
+      "35699430",
+      "40251288",
+      "40901622",
+      "15981266",
+      "34656169",
+      "25266271",
+      "30390544",
+      "38148272",
+      "40652425",
+      "41617188",
+      "35447030",
+      "38076510",
+      "24498255",
+      "37550462",
+      "36430841",
+      "42439998",
+      "25940276",
+      "39862170",
+      "37606194",
+      "41171175",
+      "32737667",
+      "42048634",
+      "29683661",
+      "42163392",
+      "41921096",
+      "36671507",
+      "39613993",
+      "17096427",
+      "40966105"
+    ],
+    "review": [
+      "42682930",
+      "41729820",
+      "40900115",
+      "30182836",
+      "38577892",
+      "38827235",
+      "30877639",
+      "41873490",
+      "35699430"
+    ],
+    "pmc": [
+      "13531412"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42682930/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.1039/d6sc02655a",
+        "provider": "Royal Society of Chemistry",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

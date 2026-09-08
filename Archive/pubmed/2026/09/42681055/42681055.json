@@ -1,0 +1,218 @@
+{
+  "identity": {
+    "pmid": "42681055",
+    "doi": "10.1007/978-1-0716-5364-7_30",
+    "title": "Computational Identification and Structural Analysis of Ustilago maydis Effector Proteins."
+  },
+  "content": {
+    "abstract": "To successfully colonize their hosts, fungi secrete specialized proteins known as effectors that manipulate host physiology, for example, by suppressing immune responses or altering host cellular processes. Effector proteins are central to fungal virulence, yet they frequently lack recognizable domains and show little to no sequence conservation, reflecting their rapid adaptation during host-pathogen coevolution. As a result, annotation is limited and structure-function relationships remain poorly understood. In this study, a systematic computational workflow is presented for the identification and structural analysis of putative effector proteins in Ustilago maydis, a biotrophic model fungus. The protocol begins with retrieval of genome-derived protein sequences, prediction of secretion signals, and conversion of identifiers into standardized formats. Structural models are then obtained from the AlphaFold Protein Structure Database or generated de novo using AlphaFold 3/ColabFold. To facilitate comparative analysis, predicted structures can subsequently be clustered and explored using tools such as FoldMason and Foldseek, enabling inference of potential functional relationships. This approach integrates widely available resources with accessible computational steps, lowering the barrier for researchers without extensive bioinformatics expertise. It provides a framework to prioritize effector candidates for experimental validation and can be readily applied to diverse fungal pathogens.",
+    "keywords": [
+      "Effector proteins",
+      "Host-pathogen interactions",
+      "Structural bioinformatics",
+      "Structure prediction",
+      "Structure-based clustering"
+    ],
+    "mesh_terms": [
+      "*Fungal Proteins/chemistry/metabolism/genetics",
+      "*Computational Biology/methods",
+      "*Ustilago/metabolism/genetics",
+      "Software",
+      "Protein Conformation",
+      "Models, Molecular",
+      "Host-Pathogen Interactions",
+      "Databases, Protein",
+      "Basidiomycota"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Heinen, Max",
+        "Altegoer, Florian"
+      ],
+      "short_names": [
+        "Heinen M",
+        "Altegoer F"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Institute of Microbiology, Cluster of Excellence on Plant Sciences, Heinrich Heine University, 40225, Dusseldorf, Germany.",
+        "Institute of Microbiology, Cluster of Excellence on Plant Sciences, Heinrich Heine University, 40225, Dusseldorf, Germany. altegoer@hhu.de."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Heinen, Max",
+        "short_name": "Heinen M",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Microbiology, Cluster of Excellence on Plant Sciences, Heinrich Heine University, 40225, Düsseldorf, Germany."
+        ]
+      },
+      {
+        "full_name": "Altegoer, Florian",
+        "short_name": "Altegoer F",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Microbiology, Cluster of Excellence on Plant Sciences, Heinrich Heine University, 40225, Düsseldorf, Germany. altegoer@hhu.de."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Methods in molecular biology (Clifton, N.J.)"
+    ],
+    "journal_abbrev": [
+      "Methods Mol Biol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/02 05:36",
+    "fetched_at": "2026-09-08 15:48:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42681055",
+      "41055214",
+      "42681051",
+      "28479603",
+      "40975950",
+      "29745456",
+      "30510169",
+      "36940017",
+      "40153705",
+      "18456523",
+      "17917743",
+      "38037456",
+      "41284811",
+      "39237206",
+      "42681053",
+      "40852847",
+      "26118724",
+      "30663769",
+      "37450139",
+      "32112567",
+      "27279632",
+      "34166468",
+      "37000361",
+      "38717940",
+      "42475469",
+      "17080091",
+      "37225161",
+      "18508396",
+      "38416124",
+      "29703884",
+      "42681050",
+      "25628012",
+      "21435244",
+      "39021059",
+      "26357869",
+      "33570802",
+      "30047221",
+      "31337276",
+      "32375409",
+      "23459172",
+      "21148393",
+      "23973481",
+      "18096044",
+      "33080488",
+      "26680733",
+      "29462764",
+      "31803201",
+      "40541232",
+      "42668358",
+      "29897130",
+      "33247447",
+      "22416226",
+      "23800965",
+      "18579420",
+      "33941900",
+      "26863136",
+      "22628532",
+      "35227707",
+      "40158405",
+      "36354345",
+      "25346968",
+      "34884778",
+      "35815936",
+      "35679407",
+      "34270791",
+      "40130672",
+      "34611252",
+      "30980908",
+      "31792250",
+      "41291409",
+      "41813799",
+      "34415195",
+      "34468307",
+      "41903508",
+      "20673282",
+      "19197359",
+      "41947423",
+      "17965183",
+      "38658795",
+      "17892571",
+      "19390696",
+      "42681029",
+      "42347224",
+      "37047233",
+      "38109060",
+      "26861502",
+      "11849538",
+      "31848283",
+      "22658704",
+      "39526346",
+      "25283249",
+      "24887029",
+      "24329174",
+      "25678342",
+      "21692877",
+      "26487566",
+      "39180827",
+      "22076138",
+      "36562128",
+      "27332891"
+    ],
+    "review": [
+      "42681055",
+      "28479603",
+      "40975950",
+      "18456523",
+      "18508396",
+      "31337276",
+      "33080488",
+      "29462764",
+      "40541232",
+      "18579420",
+      "35227707",
+      "34884778",
+      "40130672",
+      "41903508",
+      "22658704"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1007/978-1-0716-5364-7_30",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

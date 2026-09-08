@@ -1,0 +1,31 @@
+{
+  "source": "arxiv",
+  "source_id": "2609.01929v1",
+  "title": "Risk-Sensitive Reward Composition for Conditional GFlowNets",
+  "doi": "",
+  "abstract": "Generative Flow Networks (GFlowNets) for structure-based drug design condition on one rigid protein structure. A flexible target holds several distinct structural shapes, its conformations, each occupied for a fraction of the simulation time. Scoring a candidate against all of them raises an open question: how do K scores become one reward? The designer cannot choose arbitrarily. Populations carry simulation error, and biology dictates which conformations are deal-breakers, so a candidate that fails one is disqualified, not merely ranked lower. No standard rule captures this. We compose the reward from a conditional value-at-risk (CVaR), a worst-case score rule, and an ambiguity radius expressing distrust in the stated weights. Together, these define a family of targets, amortised by a single conditional GFlowNet. We answer whether such a sampler can be trained on fully enumerable synthetic worlds, where every error is exact rather than estimated. Pricing the tail rather than averaging moves 2-10 times more mass to candidates that pass every conformation. One network covers the family to within 0.37-2.7x the error of a perfect sampler. An exact-KL oracle, a copy trained on the true target, shows if a shortfall is the optimiser's or the architecture's. When good candidates are rare, exploration decides: injecting unseen states finds 0.987-1.000 of good regions, while reweighting visited finds 0.35-0.76.",
+  "authors": [
+    "Carine Ribeiro dos Santos",
+    "Ina Pöhner"
+  ],
+  "published_date": "2026-09-01T22:58:19Z",
+  "updated_date": "2026-09-01T22:58:19Z",
+  "journal": "",
+  "category": "cs.CE",
+  "landing_url": "https://arxiv.org/abs/2609.01929v1",
+  "pdf_url": "https://arxiv.org/pdf/2609.01929v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cs.CE"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2609.01929v1",
+    "raw_categories": [
+      "cs.CE"
+    ],
+    "journal_ref": ""
+  }
+}

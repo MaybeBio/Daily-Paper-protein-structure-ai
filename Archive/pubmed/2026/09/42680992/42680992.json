@@ -1,0 +1,241 @@
+{
+  "identity": {
+    "pmid": "42680992",
+    "doi": "10.1007/978-1-0716-5408-8_7",
+    "title": "Machine Learning Approaches for Interpretable Antibody Property Prediction Using Structural Data."
+  },
+  "content": {
+    "abstract": "Understanding the relationship between antibody sequence, structure, and function is essential for the design of antibody-based therapeutics and research tools. Recently, machine learning (ML) models mostly based on the application of large language models to sequence information have been developed to predict antibody properties. Yet there are open directions to incorporate structural information, not only to enhance prediction but also to offer insights into the underlying molecular mechanisms. This chapter provides an overview of these approaches and describes two ML frameworks that integrate structural data (via graph representations) with neural networks to predict properties of antibodies: ANTIPASTI predicts binding affinity (a global property) whereas INFUSSE predicts residue flexibility (a local property). We survey the principles underpinning these models; the ways in which they encode structural knowledge; and the strategies that can be used to extract biologically relevant statistical signals that can help discover and disentangle molecular determinants of the properties of interest.",
+    "keywords": [
+      "Antibody",
+      "Binding affinity",
+      "Flexibility",
+      "Graph representations",
+      "Interpretability",
+      "Machine learning",
+      "Molecular design",
+      "Structural biology"
+    ],
+    "mesh_terms": [
+      "*Machine Learning",
+      "*Antibodies/chemistry",
+      "Humans",
+      "Prediction Algorithms",
+      "Predictive Learning Models",
+      "Protein Conformation",
+      "Neural Networks, Computer",
+      "Models, Molecular",
+      "*Computational Biology/methods",
+      "Antibody Affinity"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Michalewicz, Kevin",
+        "Barahona, Mauricio",
+        "Bravi, Barbara"
+      ],
+      "short_names": [
+        "Michalewicz K",
+        "Barahona M",
+        "Bravi B"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Mathematics, Imperial College London, London, United Kingdom.",
+        "Instituto de Ingenieria Biomedica, Facultad de Ingenieria, Universidad de Buenos Aires, Buenos Aires, Argentina.",
+        "Department of Mathematics, Imperial College London, London, United Kingdom.",
+        "Department of Mathematics, Imperial College London, London, United Kingdom. b.bravi@imperial.ac.uk."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Michalewicz, Kevin",
+        "short_name": "Michalewicz K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Mathematics, Imperial College London, London, United Kingdom.",
+          "Instituto de Ingeniería Biomédica, Facultad de Ingeniería, Universidad de Buenos Aires, Buenos Aires, Argentina."
+        ]
+      },
+      {
+        "full_name": "Barahona, Mauricio",
+        "short_name": "Barahona M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Mathematics, Imperial College London, London, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Bravi, Barbara",
+        "short_name": "Bravi B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Mathematics, Imperial College London, London, United Kingdom. b.bravi@imperial.ac.uk."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Methods in molecular biology (Clifton, N.J.)"
+    ],
+    "journal_abbrev": [
+      "Methods Mol Biol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/02 05:36",
+    "fetched_at": "2026-09-08 15:48:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42680992",
+      "42475469",
+      "39461331",
+      "39363630",
+      "39511202",
+      "42374910",
+      "42455078",
+      "41652158",
+      "41803448",
+      "42119874",
+      "41729820",
+      "38627249",
+      "40971691",
+      "42229773",
+      "31693276",
+      "39576576",
+      "42670878",
+      "38254672",
+      "42473865",
+      "40784078",
+      "41666404",
+      "38920342",
+      "32804365",
+      "39938510",
+      "34139171",
+      "42427317",
+      "39858535",
+      "33534534",
+      "42123672",
+      "42129086",
+      "41652166",
+      "40252145",
+      "41138893",
+      "42034905",
+      "41082689",
+      "42093179",
+      "33450251",
+      "39862352",
+      "38758624",
+      "33837771",
+      "36540969",
+      "42200306",
+      "42286075",
+      "41847928",
+      "41983348",
+      "39444340",
+      "34418678",
+      "40728607",
+      "40602636",
+      "38913733",
+      "40017403",
+      "31847804",
+      "39700492",
+      "39978970",
+      "40399818",
+      "38896523",
+      "39913849",
+      "41709935",
+      "38833802",
+      "41359542",
+      "28361672",
+      "39776277",
+      "39848362",
+      "40601253",
+      "41808445",
+      "38960407",
+      "37037059",
+      "40346589",
+      "40728618",
+      "34133929",
+      "41004127",
+      "40119464",
+      "40811271",
+      "33842944",
+      "41910880",
+      "36356467",
+      "33347301",
+      "40815964",
+      "42003620",
+      "41350235",
+      "41654089",
+      "25724101",
+      "38501649",
+      "39506679",
+      "40381479",
+      "40220943",
+      "33780441",
+      "40811293",
+      "41889032",
+      "37277767",
+      "42536998",
+      "40143108",
+      "34653224",
+      "40270304",
+      "39987715",
+      "39242604",
+      "39921889",
+      "39523624",
+      "33706810",
+      "37968495"
+    ],
+    "review": [
+      "42680992",
+      "41652158",
+      "41803448",
+      "41729820",
+      "39576576",
+      "38254672",
+      "42473865",
+      "40784078",
+      "41666404",
+      "32804365",
+      "39858535",
+      "42123672",
+      "41652166",
+      "40728607",
+      "39978970",
+      "41709935",
+      "40346589",
+      "33842944",
+      "41910880",
+      "41654089",
+      "40220943"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1007/978-1-0716-5408-8_7",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "identity": {
+    "pmid": "42696891",
+    "doi": "10.1016/j.compbiolchem.2026.109387",
+    "title": "In silico identification of flavonoid inhibitors targeting cholera toxin from Vibrio cholerae: Molecular docking, ADMET profiling, and molecular dynamics simulation."
+  },
+  "content": {
+    "abstract": "An integrated computational strategy was used to identify potential inhibitors of the NAD (+)-arginine ADP-ribosyl transferase of cholera toxin. The target protein structure was obtained from the UniProt database and validated using PROCHECK. The potential binding pockets were predicted using DeepSite. A total of 50 flavonoids were screened using structure based virtual screening (VS), of which Kaempferol (-9.1 kcal/mol) and Taxifolin (-8.9 kcal/mol) were identified as potential inhibitors. Molecular interaction studies indicated that kaempferol had a substantially larger interaction network (greater number of hydrogen bonds, pi-pi interactions and hydrophobic interactions) than taxifolin. ADMET and toxicity profiling for each compound indicated that both compounds had favorable drug-like properties including high GI absorption, low BBB penetrability, and acceptable toxicity profiles. 100 ns molecular dynamics analyses showed stable binding for both ligands. Kaempferol had faster equilibration times, less flexible protein, and less solvent exposure than taxifolin. Additionally, MM-GBSA binding free energy analyses further corroborate the binding affinity of kaempferol/taxifolin was stronger (-36.28 vs -30.62 Kcal/mol binding affinity). Collectively, these findings show that kaempferol is a viable lead compound for cholera toxin suppression and serve as the foundation for future antitoxin medication development and experimental validation.",
+    "keywords": [
+      "ADMET profiling",
+      "Cholera toxin",
+      "Flavonoids",
+      "NAD + -arginine ADP-ribosyl transferase",
+      "Protein-ligand interactions"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zohaib, Hafiz Muhammad",
+        "Saqlain, Madiha",
+        "Tabassum, Iqra",
+        "Ahmad, Hammad",
+        "Ismail, Hammad"
+      ],
+      "short_names": [
+        "Zohaib HM",
+        "Saqlain M",
+        "Tabassum I",
+        "Ahmad H",
+        "Ismail H"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Institute of Biopharmaceutical and Health Engineering, Shenzhen International Graduate School, Tsinghua University, Shenzhen, 518055, China; Key Laboratory of Bioactive Proteins and Peptides Green Biomanufacturing of Guangdong Higher Education Institutes, Shenzhen International Graduate School, Tsinghua University, Shenzhen, 518055, China. Electronic address: zohaib@sz.tsinghua.edu.cn.",
+        "Key Laboratory of Cluster Science of Ministry of Education,, School of Chemistry and Chemical Engineering, Beijing Institute of Technology, Beijing, 100081, China. Electronic address: madihasaqlain@gmail.com.",
+        "School of Life Science, Beijing Institute of Technology (BIT), Beijing, 100081, China. Electronic address: iqrarose9@gmail.com.",
+        "School of Mechanical Engineering, Beijing Institute of Technology (BIT), Beijing, 100081, China. Electronic address: malikhammad@163.com.",
+        "Department of Biochemistry and Biotechnology, University of Gujrat, Gujrat, 50700, Pakistan. Electronic address: hammad.ismail@uog.edu.pk."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zohaib, Hafiz Muhammad",
+        "short_name": "Zohaib HM",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Biopharmaceutical and Health Engineering, Shenzhen International Graduate School, Tsinghua University, Shenzhen, 518055, China; Key Laboratory of Bioactive Proteins and Peptides Green Biomanufacturing of Guangdong Higher Education Institutes, Shenzhen International Graduate School, Tsinghua University, Shenzhen, 518055, China. Electronic address: zohaib@sz.tsinghua.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Saqlain, Madiha",
+        "short_name": "Saqlain M",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Cluster Science of Ministry of Education,, School of Chemistry and Chemical Engineering, Beijing Institute of Technology, Beijing, 100081, China. Electronic address: madihasaqlain@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Tabassum, Iqra",
+        "short_name": "Tabassum I",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Science, Beijing Institute of Technology (BIT), Beijing, 100081, China. Electronic address: iqrarose9@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Ahmad, Hammad",
+        "short_name": "Ahmad H",
+        "identifiers": [],
+        "affiliations": [
+          "School of Mechanical Engineering, Beijing Institute of Technology (BIT), Beijing, 100081, China. Electronic address: malikhammad@163.com."
+        ]
+      },
+      {
+        "full_name": "Ismail, Hammad",
+        "short_name": "Ismail H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Biotechnology, University of Gujrat, Gujrat, 50700, Pakistan. Electronic address: hammad.ismail@uog.edu.pk."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Computational biology and chemistry"
+    ],
+    "journal_abbrev": [
+      "Comput Biol Chem"
+    ],
+    "pub_date": "2026 Sep 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/04 23:36",
+    "fetched_at": "2026-09-08 15:48:04"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42696891",
+      "42141107",
+      "41224866",
+      "41621295",
+      "42295684",
+      "30557817",
+      "41469454",
+      "41084624",
+      "41817950",
+      "42510941",
+      "42371179",
+      "31494206",
+      "41544341",
+      "42112455",
+      "42651805",
+      "40632195",
+      "36927394",
+      "40117728",
+      "41045314",
+      "41386877",
+      "42356531",
+      "42043606",
+      "41465468",
+      "41557214",
+      "41140705",
+      "33226303",
+      "40252254",
+      "41330962",
+      "29842849",
+      "40737296",
+      "42494425",
+      "42541422",
+      "39802857",
+      "34770925",
+      "39293331",
+      "36586228",
+      "32120300",
+      "40471955",
+      "39233923",
+      "41286755",
+      "40352218",
+      "40308267",
+      "41337159",
+      "40798865",
+      "41020042",
+      "42332812",
+      "37668010",
+      "41092822",
+      "42672009",
+      "40114577",
+      "41688667",
+      "25698576",
+      "40430528",
+      "36808033",
+      "41184441",
+      "42494928",
+      "42286162",
+      "42390567",
+      "41253052",
+      "41762611",
+      "39262264",
+      "40924381",
+      "40857985",
+      "40864788",
+      "39777139",
+      "42118388",
+      "40743310",
+      "40125411",
+      "40464176",
+      "42421348",
+      "40792456",
+      "42431013",
+      "40051864",
+      "41761798",
+      "40939396",
+      "42223488",
+      "41418352",
+      "38274328",
+      "41780347",
+      "29600755",
+      "40019889",
+      "35744817",
+      "41384349",
+      "41872468",
+      "40126695",
+      "38189304",
+      "40857815",
+      "38500508",
+      "42312514",
+      "40007185",
+      "40945531",
+      "42468132",
+      "42436711",
+      "40779485",
+      "41238606",
+      "38285669",
+      "40054651",
+      "37904331",
+      "41120520",
+      "40649923"
+    ],
+    "review": [
+      "42696891"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1476-9271(26)00514-1",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-SERPINA1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-651",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,447 @@
+{
+  "identity": {
+    "pmid": "42680755",
+    "doi": "10.1038/s41421-026-00916-2",
+    "title": "Cross-protective human antibodies against the Mpox virus discovered through structure-guided screening."
+  },
+  "content": {
+    "abstract": "Mpox virus (MPXV) poses an increasing global health threat, as underscored by two World Health Organization declarations of Public Health Emergencies of International Concern, particularly after the emergence of a novel Clade Ib strain that exhibited high human-to-human transmissibility in the Democratic Republic of the Congo. However, the treatment options for MPXV infection remain extremely limited. To address this unmet need, we established an integrated platform combining single-cell transcriptomics and deep learning-based structural prediction to discover effective human monoclonal antibodies against MPXV. By integrating computational prediction with experimental validation, we identified five neutralizing antibodies targeting the following distinct viral forms: BA345, MA42, and MA49, which engage the extracellular enveloped virus-associated A35R glycoprotein; BAL31, which binds intracellular mature virus (IMV) protein A29L; and HB05, which targets IMV antigen H3L. Importantly, the elite monoclonal antibody BA345 conferred effective protection against MPXV and vaccinia virus both in vitro and in vivo. Combined in silico structure prediction and X-ray crystallography revealed a highly conserved epitope shared across orthopoxviruses. Surface plasmon resonance measurements revealed nanomolar equilibrium dissociation constants of BA345 for A35R homologs, corroborating its cross-reactive, broad-spectrum neutralizing activity against orthopoxviruses. Moreover, the BA345/BAL31 and MA49/BAL31 antibody cocktails developed in this study conferred robust therapeutic protection in MPXV-infected animals, substantially reducing disease severity and viral load. Our findings not only establish a practical paradigm for antibody discovery through the integration of deep learning-driven structure prediction with single-cell multiomics but also inform next-generation biodefense countermeasures against MPXV and related orthopoxviruses.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Sun, Dongdong",
+        "Jia, Zihan",
+        "Han, Hongyu",
+        "Zhang, Nan",
+        "Guo, Yiying",
+        "Hou, Ruitian",
+        "Zhao, Wenli",
+        "Yu, Haiyan",
+        "Wang, Lulu",
+        "Wang, Yuhui",
+        "Dai, Jun",
+        "Shang, Hang",
+        "Liu, Yamin",
+        "Li, Ding",
+        "Tao, Wenhui",
+        "Sun, Zixian",
+        "Li, Ying",
+        "Ni, Zhiyu",
+        "Zheng, Wei",
+        "Yu, Haisheng",
+        "Guo, Yu"
+      ],
+      "short_names": [
+        "Sun D",
+        "Jia Z",
+        "Han H",
+        "Zhang N",
+        "Guo Y",
+        "Hou R",
+        "Zhao W",
+        "Yu H",
+        "Wang L",
+        "Wang Y",
+        "Dai J",
+        "Shang H",
+        "Liu Y",
+        "Li D",
+        "Tao W",
+        "Sun Z",
+        "Li Y",
+        "Ni Z",
+        "Zheng W",
+        "Yu H",
+        "Guo Y"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-5796-8851",
+        "ORCID: 0000-0002-0096-6185",
+        "ORCID: 0000-0002-1757-1411",
+        "ORCID: 0000-0002-8109-7515"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Medicinal Chemical Biology and College of Life Sciences, AAIS, Nankai University, Tianjin, China.",
+        "Guangzhou Laboratory, Guangzhou, Guangdong, China.",
+        "Guangzhou Key Laboratory of Clinical Pathogen Research for Infectious Diseases, Institute of Infectious Diseases, Guangzhou Eighth People's Hospital, Guangzhou Medical University, Guangzhou, Guangdong, China.",
+        "College of Pharmacy and Drug Discovery Center for Infectious Disease, Nankai University, Tianjin, China.",
+        "State Key Laboratory of Medicinal Chemical Biology and College of Life Sciences, AAIS, Nankai University, Tianjin, China.",
+        "Guangzhou Key Laboratory of Clinical Pathogen Research for Infectious Diseases, Institute of Infectious Diseases, Guangzhou Eighth People's Hospital, Guangzhou Medical University, Guangzhou, Guangdong, China.",
+        "College of Veterinary Medicine, Shanxi Agricultural University, Taigu, Shanxi, China.",
+        "State Key Laboratory of Medicinal Chemical Biology and College of Life Sciences, AAIS, Nankai University, Tianjin, China.",
+        "NITFID, School of Statistics and Data Science, AAIS, LPMC, and KLMDASR, Nankai University, Tianjin, China.",
+        "Guangzhou Key Laboratory of Clinical Pathogen Research for Infectious Diseases, Institute of Infectious Diseases, Guangzhou Eighth People's Hospital, Guangzhou Medical University, Guangzhou, Guangdong, China.",
+        "State Key Laboratory of Medicinal Chemical Biology and College of Life Sciences, AAIS, Nankai University, Tianjin, China.",
+        "State Key Laboratory of Medicinal Chemical Biology and College of Life Sciences, AAIS, Nankai University, Tianjin, China.",
+        "State Key Laboratory of Medicinal Chemical Biology and College of Life Sciences, AAIS, Nankai University, Tianjin, China.",
+        "State Key Laboratory of Medicinal Chemical Biology and College of Life Sciences, AAIS, Nankai University, Tianjin, China.",
+        "Guangzhou Key Laboratory of Clinical Pathogen Research for Infectious Diseases, Institute of Infectious Diseases, Guangzhou Eighth People's Hospital, Guangzhou Medical University, Guangzhou, Guangdong, China.",
+        "State Key Laboratory of Medicinal Chemical Biology and College of Life Sciences, AAIS, Nankai University, Tianjin, China.",
+        "Tianjin Second People's Hospital, Tianjin, China.",
+        "State Key Laboratory of Medicinal Chemical Biology and College of Life Sciences, AAIS, Nankai University, Tianjin, China.",
+        "State Key Laboratory of Medicinal Chemical Biology and College of Life Sciences, AAIS, Nankai University, Tianjin, China.",
+        "Guangzhou Key Laboratory of Clinical Pathogen Research for Infectious Diseases, Institute of Infectious Diseases, Guangzhou Eighth People's Hospital, Guangzhou Medical University, Guangzhou, Guangdong, China.",
+        "Tianjin Second People's Hospital, Tianjin, China. liying9886@126.com.",
+        "Central Laboratory, Hebei Collaborative Innovation Center of Tumor Microecological Metabolism Regulation, Affiliated Hospital of Hebei University, Baoding, Hebei, China. nizhiyu@hbu.edu.cn.",
+        "State Key Laboratory of Medicinal Chemical Biology and College of Life Sciences, AAIS, Nankai University, Tianjin, China. jlspzw@nankai.edu.cn.",
+        "NITFID, School of Statistics and Data Science, AAIS, LPMC, and KLMDASR, Nankai University, Tianjin, China. jlspzw@nankai.edu.cn.",
+        "Guangzhou Key Laboratory of Clinical Pathogen Research for Infectious Diseases, Institute of Infectious Diseases, Guangzhou Eighth People's Hospital, Guangzhou Medical University, Guangzhou, Guangdong, China. yuhaisheng@gzhmu.edu.cn.",
+        "State Key Laboratory of Medicinal Chemical Biology and College of Life Sciences, AAIS, Nankai University, Tianjin, China. guoyu@nankai.edu.cn.",
+        "Guangzhou Laboratory, Guangzhou, Guangdong, China. guoyu@nankai.edu.cn.",
+        "Frontiers Science Center for New Organic Matter, Nankai University, Tianjin, China. guoyu@nankai.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Sun, Dongdong",
+        "short_name": "Sun D",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Medicinal Chemical Biology and College of Life Sciences, AAIS, Nankai University, Tianjin, China.",
+          "Guangzhou Laboratory, Guangzhou, Guangdong, China.",
+          "Guangzhou Key Laboratory of Clinical Pathogen Research for Infectious Diseases, Institute of Infectious Diseases, Guangzhou Eighth People's Hospital, Guangzhou Medical University, Guangzhou, Guangdong, China.",
+          "College of Pharmacy and Drug Discovery Center for Infectious Disease, Nankai University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Jia, Zihan",
+        "short_name": "Jia Z",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Medicinal Chemical Biology and College of Life Sciences, AAIS, Nankai University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Han, Hongyu",
+        "short_name": "Han H",
+        "identifiers": [],
+        "affiliations": [
+          "Guangzhou Key Laboratory of Clinical Pathogen Research for Infectious Diseases, Institute of Infectious Diseases, Guangzhou Eighth People's Hospital, Guangzhou Medical University, Guangzhou, Guangdong, China.",
+          "College of Veterinary Medicine, Shanxi Agricultural University, Taigu, Shanxi, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Nan",
+        "short_name": "Zhang N",
+        "identifiers": [
+          "0000-0002-5796-8851"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Medicinal Chemical Biology and College of Life Sciences, AAIS, Nankai University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Yiying",
+        "short_name": "Guo Y",
+        "identifiers": [],
+        "affiliations": [
+          "NITFID, School of Statistics and Data Science, AAIS, LPMC, and KLMDASR, Nankai University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Hou, Ruitian",
+        "short_name": "Hou R",
+        "identifiers": [],
+        "affiliations": [
+          "Guangzhou Key Laboratory of Clinical Pathogen Research for Infectious Diseases, Institute of Infectious Diseases, Guangzhou Eighth People's Hospital, Guangzhou Medical University, Guangzhou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Wenli",
+        "short_name": "Zhao W",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Medicinal Chemical Biology and College of Life Sciences, AAIS, Nankai University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Haiyan",
+        "short_name": "Yu H",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Medicinal Chemical Biology and College of Life Sciences, AAIS, Nankai University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Lulu",
+        "short_name": "Wang L",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Medicinal Chemical Biology and College of Life Sciences, AAIS, Nankai University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yuhui",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Medicinal Chemical Biology and College of Life Sciences, AAIS, Nankai University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Dai, Jun",
+        "short_name": "Dai J",
+        "identifiers": [],
+        "affiliations": [
+          "Guangzhou Key Laboratory of Clinical Pathogen Research for Infectious Diseases, Institute of Infectious Diseases, Guangzhou Eighth People's Hospital, Guangzhou Medical University, Guangzhou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Shang, Hang",
+        "short_name": "Shang H",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Medicinal Chemical Biology and College of Life Sciences, AAIS, Nankai University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Yamin",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Tianjin Second People's Hospital, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Li, Ding",
+        "short_name": "Li D",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Medicinal Chemical Biology and College of Life Sciences, AAIS, Nankai University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Tao, Wenhui",
+        "short_name": "Tao W",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Medicinal Chemical Biology and College of Life Sciences, AAIS, Nankai University, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Zixian",
+        "short_name": "Sun Z",
+        "identifiers": [
+          "0000-0002-0096-6185"
+        ],
+        "affiliations": [
+          "Guangzhou Key Laboratory of Clinical Pathogen Research for Infectious Diseases, Institute of Infectious Diseases, Guangzhou Eighth People's Hospital, Guangzhou Medical University, Guangzhou, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Li, Ying",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "Tianjin Second People's Hospital, Tianjin, China. liying9886@126.com."
+        ]
+      },
+      {
+        "full_name": "Ni, Zhiyu",
+        "short_name": "Ni Z",
+        "identifiers": [],
+        "affiliations": [
+          "Central Laboratory, Hebei Collaborative Innovation Center of Tumor Microecological Metabolism Regulation, Affiliated Hospital of Hebei University, Baoding, Hebei, China. nizhiyu@hbu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Zheng, Wei",
+        "short_name": "Zheng W",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Medicinal Chemical Biology and College of Life Sciences, AAIS, Nankai University, Tianjin, China. jlspzw@nankai.edu.cn.",
+          "NITFID, School of Statistics and Data Science, AAIS, LPMC, and KLMDASR, Nankai University, Tianjin, China. jlspzw@nankai.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Yu, Haisheng",
+        "short_name": "Yu H",
+        "identifiers": [
+          "0000-0002-1757-1411"
+        ],
+        "affiliations": [
+          "Guangzhou Key Laboratory of Clinical Pathogen Research for Infectious Diseases, Institute of Infectious Diseases, Guangzhou Eighth People's Hospital, Guangzhou Medical University, Guangzhou, Guangdong, China. yuhaisheng@gzhmu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Guo, Yu",
+        "short_name": "Guo Y",
+        "identifiers": [
+          "0000-0002-8109-7515"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Medicinal Chemical Biology and College of Life Sciences, AAIS, Nankai University, Tianjin, China. guoyu@nankai.edu.cn.",
+          "Guangzhou Laboratory, Guangzhou, Guangdong, China. guoyu@nankai.edu.cn.",
+          "Frontiers Science Center for New Organic Matter, Nankai University, Tianjin, China. guoyu@nankai.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cell discovery"
+    ],
+    "journal_abbrev": [
+      "Cell Discov"
+    ],
+    "pub_date": "2026 Sep 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/02 05:36",
+    "fetched_at": "2026-09-08 15:48:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42680755",
+      "40178288",
+      "42358411",
+      "37288876",
+      "42497650",
+      "40625755",
+      "39994775",
+      "41583908",
+      "42475469",
+      "42314719",
+      "41126351",
+      "41941064",
+      "41110472",
+      "42099561",
+      "41543221",
+      "40105863",
+      "40432083",
+      "40432124",
+      "38366141",
+      "39570405",
+      "40172630",
+      "41474326",
+      "40193168",
+      "39726255",
+      "42207442",
+      "40311645",
+      "37792954",
+      "38531869",
+      "26468533",
+      "41471249",
+      "42294713",
+      "41459934",
+      "40164599",
+      "41589837",
+      "39233480",
+      "39423738",
+      "41643965",
+      "41365301",
+      "40162783",
+      "38182667",
+      "39321566",
+      "41258006",
+      "34662052",
+      "41493341",
+      "39861905",
+      "42383740",
+      "40839572",
+      "38787725",
+      "39417768",
+      "37784185",
+      "40502772",
+      "40400715",
+      "42099555",
+      "36947428",
+      "39511612",
+      "37800627",
+      "38821921",
+      "40470950",
+      "34033365",
+      "41213280",
+      "42535863",
+      "16140750",
+      "37429529",
+      "25031354",
+      "38366591",
+      "36687315",
+      "40778847",
+      "41518080",
+      "40865529",
+      "41370398",
+      "41724269",
+      "39554528",
+      "34033342",
+      "39205158",
+      "36321557",
+      "39181538",
+      "42192453",
+      "40921877",
+      "42326914",
+      "37709783",
+      "34634945",
+      "37766097",
+      "42593124",
+      "41428316",
+      "37117161",
+      "40239465",
+      "37353117",
+      "39540739",
+      "40764511",
+      "34662075",
+      "41725805",
+      "40681850",
+      "41086112",
+      "42410978",
+      "42499172",
+      "40675496",
+      "40399314",
+      "34406868",
+      "40192291",
+      "38801574"
+    ],
+    "review": [
+      "42680755",
+      "41126351",
+      "41941064",
+      "41543221",
+      "40193168",
+      "39417768",
+      "40470950",
+      "41518080",
+      "36321557",
+      "39181538",
+      "41428316",
+      "37353117",
+      "39540739",
+      "42410978",
+      "42499172"
+    ],
+    "pmc": [
+      "13534486"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41421-026-00916-2",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42680755/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

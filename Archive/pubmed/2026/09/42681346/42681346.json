@@ -1,0 +1,228 @@
+{
+  "identity": {
+    "pmid": "42681346",
+    "doi": "10.1007/978-1-0716-5186-5_11",
+    "title": "Design and Optimization of BRIL Fusion Constructs for Membrane Protein Cryo-EM Studies."
+  },
+  "content": {
+    "abstract": "Structural determination of small membrane proteins by cryo-electron microscopy (cryo-EM) remains inherently challenging due to their low molecular weight, conformational heterogeneity, and lack of prominent structural features for reliable particle alignment. In this chapter, we describe how to design and perform biophysical characterization of BRIL fusion constructs that may facilitate structure determination by single-particle cryogenic electron microscopy (cryo-EM) analysis. We present a streamlined approach to select optimal constructs using AlphaFold predictions and characterization by mass photometry and thermal stability assays. We demonstrate the suitability of BRIL fusion strategy as a versatile approach for facilitating structural studies of small membrane proteins by cryo-EM.",
+    "keywords": [
+      "BRIL fusion constructs",
+      "Cryo-EM",
+      "Fiducial marker",
+      "Membrane proteins"
+    ],
+    "mesh_terms": [
+      "*Cryoelectron Microscopy/methods",
+      "*Membrane Proteins/chemistry/genetics/metabolism",
+      "*Recombinant Fusion Proteins/chemistry/genetics/metabolism",
+      "Protein Conformation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chidananda, Amrutha H",
+        "Perez, Camilo"
+      ],
+      "short_names": [
+        "Chidananda AH",
+        "Perez C"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Biochemistry & Molecular Biology, University of Georgia, Athens, GA, USA.",
+        "Department of Biochemistry & Molecular Biology, University of Georgia, Athens, GA, USA. camilo.perez@uga.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chidananda, Amrutha H",
+        "short_name": "Chidananda AH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry & Molecular Biology, University of Georgia, Athens, GA, USA."
+        ]
+      },
+      {
+        "full_name": "Perez, Camilo",
+        "short_name": "Perez C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry & Molecular Biology, University of Georgia, Athens, GA, USA. camilo.perez@uga.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Methods in molecular biology (Clifton, N.J.)"
+    ],
+    "journal_abbrev": [
+      "Methods Mol Biol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/02 05:36",
+    "fetched_at": "2026-09-08 15:48:04"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42681346",
+      "39746942",
+      "42134495",
+      "32112328",
+      "40108246",
+      "27485862",
+      "39565314",
+      "41309181",
+      "31461845",
+      "35902590",
+      "41309179",
+      "34782475",
+      "41842660",
+      "32221310",
+      "41825111",
+      "33408407",
+      "37470714",
+      "42681345",
+      "42681347",
+      "40658860",
+      "32112327",
+      "40228430",
+      "31080120",
+      "40817135",
+      "41507421",
+      "39471802",
+      "41233542",
+      "40927951",
+      "35909370",
+      "37315821",
+      "28779836",
+      "41606274",
+      "38012131",
+      "41789471",
+      "28646653",
+      "42138221",
+      "33954837",
+      "37834233",
+      "40446521",
+      "32680969",
+      "42681344",
+      "33408403",
+      "32112326",
+      "24780590",
+      "33719392",
+      "39115781",
+      "28993151",
+      "42028876",
+      "33217329",
+      "33877627",
+      "36248264",
+      "30299652",
+      "40390365",
+      "29344776",
+      "33077960",
+      "41120715",
+      "32487353",
+      "25438672",
+      "40620219",
+      "24957666",
+      "25958107",
+      "25950973",
+      "41101423",
+      "41008622",
+      "36029606",
+      "32006282",
+      "26278176",
+      "26950744",
+      "23056562",
+      "27273628",
+      "40277178",
+      "39548288",
+      "34930672",
+      "33016175",
+      "38890341",
+      "30804214",
+      "31480377",
+      "33368006",
+      "30219656",
+      "29507202",
+      "35813810",
+      "34267200",
+      "37982712",
+      "42109252",
+      "31084637",
+      "38507207",
+      "42463260",
+      "29227642",
+      "27572726",
+      "40262726",
+      "37277992",
+      "39738945",
+      "23728976",
+      "42463252",
+      "42247183",
+      "38517699",
+      "28949136",
+      "20665268",
+      "31877353",
+      "35866608"
+    ],
+    "review": [
+      "42681346",
+      "31461845",
+      "41825111",
+      "37470714",
+      "40228430",
+      "41507421",
+      "35909370",
+      "41606274",
+      "41789471",
+      "28646653",
+      "33954837",
+      "37834233",
+      "40446521",
+      "42028876",
+      "36248264",
+      "29344776",
+      "32487353",
+      "25958107",
+      "41008622",
+      "36029606",
+      "27273628",
+      "39548288",
+      "34930672",
+      "33016175",
+      "30804214",
+      "30219656",
+      "42463260",
+      "27572726",
+      "39738945",
+      "23728976",
+      "31877353"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1007/978-1-0716-5186-5_11",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "identity": {
+    "pmid": "42677662",
+    "doi": "10.1021/acs.jafc.6c08393",
+    "title": "Expanding Aldopentose Catalysis of a Novel PQQ-Dependent Glucose Dehydrogenase without Compromising Native d-Glucose Activity."
+  },
+  "content": {
+    "abstract": "Lignocellulosic biomass is an abundant renewable resource that is rich in aldohexoses and aldopentoses. Efficient biocatalysts for aldopentose oxidation remain limited, and few enzymes exhibit high catalytic efficiency toward both aldohexoses and aldopentoses. Here, a naturally promiscuous pyrroloquinoline quinone-dependent glucose dehydrogenase (PQQ-GDH) from Pseudomonas fragi NL20W was selected as an engineering template and tailored by semirational design to expand aldopentose oxidation while preserving native d-glucose activity. The V706P/L723 M mutant exhibited markedly enhanced catalytic efficiency toward d-xylose and l-arabinose, reaching 8.0- and 2.4-fold those of the wild-type, respectively, while its efficiency toward d-glucose was 1.3-fold that of the wild-type. Molecular simulations suggested that the improved catalysis was associated with an optimized substrate positioning and enhanced conformational flexibility of the active-site region. This study highlights the significance of natural enzyme scaffold selection in substrate scope engineering and expands the application potential of PQQ-GDH in the sustainable valorization of lignocellulosic sugars.",
+    "keywords": [
+      "PQQ-dependent glucose dehydrogenase",
+      "Pseudomonas sp.",
+      "molecular dynamics simulation",
+      "pentose",
+      "semirational design"
+    ],
+    "mesh_terms": [
+      "*Glucose/chemistry/metabolism",
+      "Biocatalysis",
+      "*Bacterial Proteins/chemistry/genetics/metabolism",
+      "Substrate Specificity",
+      "*PQQ Cofactor/metabolism/chemistry",
+      "Kinetics",
+      "*Pentoses/chemistry/metabolism",
+      "Catalytic Domain",
+      "*Pseudomonas/enzymology/chemistry/genetics",
+      "Xylose/metabolism/chemistry",
+      "*Glucose Dehydrogenases/chemistry/metabolism/genetics",
+      "Arabinose/metabolism/chemistry",
+      "Oxidation-Reduction",
+      "*Glucose 1-Dehydrogenase/chemistry/metabolism/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Yuehua",
+        "Liu, Peng",
+        "Sheng, Binbin",
+        "Xing, Jiaxin",
+        "Ouyang, Jia",
+        "Zheng, Zhaojuan"
+      ],
+      "short_names": [
+        "Chen Y",
+        "Liu P",
+        "Sheng B",
+        "Xing J",
+        "Ouyang J",
+        "Zheng Z"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-8110-209X",
+        "ORCID: 0000-0002-3467-253X",
+        "ORCID: 0000-0002-0550-7455"
+      ],
+      "affiliations": [
+        "State Key Laboratory for Development and Utilization of Forest Food Resources, Nanjing Forestry University, Nanjing210037, People's Republic of China.",
+        "Co-Innovation Center for Efficient Processing and Utilization of Forest Resources, College of Chemical Engineering, Nanjing Forestry University, Nanjing210037, People's Republic of China.",
+        "School of Grain Science and Technology, Jiangsu University of Science and Technology, Zhenjiang212003, People's Republic of China.",
+        "School of Basic Medical Sciences, Guangdong Pharmaceutical University, Guangzhou510006, People's Republic of China.",
+        "State Key Laboratory for Development and Utilization of Forest Food Resources, Nanjing Forestry University, Nanjing210037, People's Republic of China.",
+        "Co-Innovation Center for Efficient Processing and Utilization of Forest Resources, College of Chemical Engineering, Nanjing Forestry University, Nanjing210037, People's Republic of China.",
+        "State Key Laboratory for Development and Utilization of Forest Food Resources, Nanjing Forestry University, Nanjing210037, People's Republic of China.",
+        "Co-Innovation Center for Efficient Processing and Utilization of Forest Resources, College of Chemical Engineering, Nanjing Forestry University, Nanjing210037, People's Republic of China.",
+        "State Key Laboratory for Development and Utilization of Forest Food Resources, Nanjing Forestry University, Nanjing210037, People's Republic of China.",
+        "Co-Innovation Center for Efficient Processing and Utilization of Forest Resources, College of Chemical Engineering, Nanjing Forestry University, Nanjing210037, People's Republic of China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Yuehua",
+        "short_name": "Chen Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory for Development and Utilization of Forest Food Resources, Nanjing Forestry University, Nanjing210037, People's Republic of China.",
+          "Co-Innovation Center for Efficient Processing and Utilization of Forest Resources, College of Chemical Engineering, Nanjing Forestry University, Nanjing210037, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Liu, Peng",
+        "short_name": "Liu P",
+        "identifiers": [
+          "0000-0001-8110-209X"
+        ],
+        "affiliations": [
+          "School of Grain Science and Technology, Jiangsu University of Science and Technology, Zhenjiang212003, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Sheng, Binbin",
+        "short_name": "Sheng B",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Guangdong Pharmaceutical University, Guangzhou510006, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Xing, Jiaxin",
+        "short_name": "Xing J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory for Development and Utilization of Forest Food Resources, Nanjing Forestry University, Nanjing210037, People's Republic of China.",
+          "Co-Innovation Center for Efficient Processing and Utilization of Forest Resources, College of Chemical Engineering, Nanjing Forestry University, Nanjing210037, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Ouyang, Jia",
+        "short_name": "Ouyang J",
+        "identifiers": [
+          "0000-0002-3467-253X"
+        ],
+        "affiliations": [
+          "State Key Laboratory for Development and Utilization of Forest Food Resources, Nanjing Forestry University, Nanjing210037, People's Republic of China.",
+          "Co-Innovation Center for Efficient Processing and Utilization of Forest Resources, College of Chemical Engineering, Nanjing Forestry University, Nanjing210037, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Zheng, Zhaojuan",
+        "short_name": "Zheng Z",
+        "identifiers": [
+          "0000-0002-0550-7455"
+        ],
+        "affiliations": [
+          "State Key Laboratory for Development and Utilization of Forest Food Resources, Nanjing Forestry University, Nanjing210037, People's Republic of China.",
+          "Co-Innovation Center for Efficient Processing and Utilization of Forest Resources, College of Chemical Engineering, Nanjing Forestry University, Nanjing210037, People's Republic of China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of agricultural and food chemistry"
+    ],
+    "journal_abbrev": [
+      "J Agric Food Chem"
+    ],
+    "pub_date": "2026 Aug 26",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/01 11:39",
+    "fetched_at": "2026-09-08 15:48:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42677662",
+      "31604769",
+      "31604773",
+      "10359647",
+      "32394472",
+      "20886312",
+      "25645559",
+      "41817278",
+      "30580186",
+      "27287323",
+      "15556370",
+      "8385642",
+      "41037502",
+      "23934069",
+      "27491947",
+      "29150499",
+      "10702303",
+      "9578566",
+      "10924133",
+      "12765523",
+      "22814119",
+      "16864586",
+      "10508152",
+      "42177502",
+      "40609",
+      "39326560",
+      "18586973",
+      "18550551",
+      "12686124",
+      "34431658",
+      "42010116",
+      "10933491",
+      "20602352",
+      "20936374",
+      "15234269",
+      "28445031",
+      "9266710",
+      "22076150",
+      "18957858",
+      "23777884",
+      "20702080",
+      "1335716",
+      "40739871",
+      "29940229",
+      "20669254",
+      "15113562",
+      "16944137",
+      "12686133",
+      "42083327",
+      "29468297",
+      "10518528",
+      "23273282",
+      "1654044",
+      "38687614",
+      "32080751",
+      "14741705",
+      "3768003",
+      "11400050",
+      "15713782",
+      "16556607",
+      "3513704",
+      "17150757",
+      "25839331",
+      "9792456",
+      "38294585",
+      "42463472",
+      "29684749",
+      "21306430",
+      "10970809",
+      "35613468",
+      "42012189",
+      "21780841",
+      "1659611",
+      "18002547",
+      "3382545",
+      "21926197",
+      "2673030",
+      "32956752",
+      "24967753",
+      "22076331",
+      "2549864",
+      "27506274",
+      "24965558",
+      "14219044",
+      "16131222",
+      "41925033",
+      "24475934",
+      "9353919",
+      "15094044",
+      "15618614",
+      "24287902",
+      "21662989",
+      "36054785",
+      "16267040",
+      "8573321",
+      "2023950",
+      "42400521",
+      "39613190",
+      "39869311",
+      "15167795"
+    ],
+    "review": [
+      "42677662",
+      "30580186",
+      "12686124",
+      "10933491",
+      "15234269",
+      "18957858"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/jafcau/article-lookup/doi/10.1021/acs.jafc.6c08393",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

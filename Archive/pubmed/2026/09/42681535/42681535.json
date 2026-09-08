@@ -1,0 +1,287 @@
+{
+  "identity": {
+    "pmid": "42681535",
+    "doi": "10.1007/978-1-0716-5284-8_11",
+    "title": "RNA Structure and Its Function."
+  },
+  "content": {
+    "abstract": "RNA molecules were once regarded merely as intermediates in the transmission of genetic information from DNA, but are now emerging as key players in complex cellular regulation. Driven by the recent discovery of diverse functions of non-coding and coding RNAs, a deep understanding of RNA structure, and ultimately their interaction has become essential for both basic and applied research in RNA biology, including drug discovery efforts targeting RNA. However, its inherent structural instability and variability have made experimental analyses, such as X-ray crystallography and NMR, challenging and often inadequate. For this reason, continuous efforts have been devoted to advancing computational structure prediction. With growing attention to the role of RNA as a signaling molecule, a vast amount of functional RNA sequence and structure data has been accumulated so that it makes it feasible to apply machine learning (ML) and artificial intelligence (AI) technologies to further enhance the power of computational structure analysis in a data-driven manner. In this section, we introduce current gold-standard RNA structure prediction approaches and cutting-edge ML methods that can contribute to inferring RNA functions. We first describe the basics of RNA structure classification and diverse non-coding functional RNAs identified so far. Next, the example use cases of several RNA analysis tools, including computational prediction with the aid of structure probing methods, are provided. Finally, we introduce software protocols for generating RNA family sequences using a novel methodology called RfamGen, enabling readers to explore how cutting-edge ML can be leveraged for not only structure prediction but also the design of artificial RNA sequences to engineer novel RNA functions.",
+    "keywords": [
+      "Cross-linking and immunoprecipitation (CLIP)",
+      "RNA binding protein (RBP)",
+      "RNA family",
+      "RNA secondary structure",
+      "RNA tertiary structure",
+      "Variational autoencoder"
+    ],
+    "mesh_terms": [
+      "*Nucleic Acid Conformation",
+      "*RNA/chemistry/metabolism/genetics",
+      "*Computational Biology/methods",
+      "Machine Learning",
+      "Models, Molecular",
+      "Software"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Sumi, Shunsuke",
+        "Ito, Fumiya",
+        "Xu, Ruiqi",
+        "Saito, Hirohide",
+        "Kawaguchi, Risa Karakida"
+      ],
+      "short_names": [
+        "Sumi S",
+        "Ito F",
+        "Xu R",
+        "Saito H",
+        "Kawaguchi RK"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-1007-9472",
+        "ORCID: 0009-0009-5220-2927",
+        "ORCID: 0009-0003-5548-6343",
+        "ORCID: 0000-0002-8570-5784",
+        "ORCID: 0000-0003-1764-5721"
+      ],
+      "affiliations": [
+        "Institute for Quantitative Biosciences, The University of Tokyo, Bunkyo City, Tokyo, Japan.",
+        "Institute for Quantitative Biosciences, The University of Tokyo, Bunkyo City, Tokyo, Japan.",
+        "Center for iPS Cell Research and Application, Kyoto University, Kyoto, Japan.",
+        "Center for iPS Cell Research and Application, Kyoto University, Kyoto, Japan.",
+        "Institute for Quantitative Biosciences, The University of Tokyo, Bunkyo City, Tokyo, Japan.",
+        "Center for iPS Cell Research and Application, Kyoto University, Kyoto, Japan.",
+        "Center for iPS Cell Research and Application, Kyoto University, Kyoto, Japan. rkawaguc@mol.f.u-tokyo.ac.jp.",
+        "Graduate School of Pharmaceutical Sciences, The University of Tokyo, Bunkyo City, Tokyo, Japan. rkawaguc@mol.f.u-tokyo.ac.jp."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Sumi, Shunsuke",
+        "short_name": "Sumi S",
+        "identifiers": [
+          "0000-0003-1007-9472"
+        ],
+        "affiliations": [
+          "Institute for Quantitative Biosciences, The University of Tokyo, Bunkyo City, Tokyo, Japan."
+        ]
+      },
+      {
+        "full_name": "Ito, Fumiya",
+        "short_name": "Ito F",
+        "identifiers": [
+          "0009-0009-5220-2927"
+        ],
+        "affiliations": [
+          "Institute for Quantitative Biosciences, The University of Tokyo, Bunkyo City, Tokyo, Japan.",
+          "Center for iPS Cell Research and Application, Kyoto University, Kyoto, Japan."
+        ]
+      },
+      {
+        "full_name": "Xu, Ruiqi",
+        "short_name": "Xu R",
+        "identifiers": [
+          "0009-0003-5548-6343"
+        ],
+        "affiliations": [
+          "Center for iPS Cell Research and Application, Kyoto University, Kyoto, Japan."
+        ]
+      },
+      {
+        "full_name": "Saito, Hirohide",
+        "short_name": "Saito H",
+        "identifiers": [
+          "0000-0002-8570-5784"
+        ],
+        "affiliations": [
+          "Institute for Quantitative Biosciences, The University of Tokyo, Bunkyo City, Tokyo, Japan.",
+          "Center for iPS Cell Research and Application, Kyoto University, Kyoto, Japan."
+        ]
+      },
+      {
+        "full_name": "Kawaguchi, Risa Karakida",
+        "short_name": "Kawaguchi RK",
+        "identifiers": [
+          "0000-0003-1764-5721"
+        ],
+        "affiliations": [
+          "Center for iPS Cell Research and Application, Kyoto University, Kyoto, Japan. rkawaguc@mol.f.u-tokyo.ac.jp.",
+          "Graduate School of Pharmaceutical Sciences, The University of Tokyo, Bunkyo City, Tokyo, Japan. rkawaguc@mol.f.u-tokyo.ac.jp."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Methods in molecular biology (Clifton, N.J.)"
+    ],
+    "journal_abbrev": [
+      "Methods Mol Biol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/02 05:36",
+    "fetched_at": "2026-09-08 15:48:04"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42681535",
+      "42475469",
+      "26585404",
+      "41755596",
+      "36203019",
+      "41478913",
+      "31808801",
+      "25922372",
+      "29284541",
+      "39321802",
+      "24785264",
+      "41320116",
+      "41803448",
+      "23912807",
+      "38648189",
+      "23812998",
+      "41873866",
+      "39983363",
+      "25687190",
+      "25910700",
+      "28315749",
+      "41758998",
+      "41650708",
+      "21899297",
+      "39933218",
+      "39775239",
+      "39312137",
+      "21514143",
+      "39312134",
+      "39961524",
+      "40593636",
+      "40981507",
+      "39737572",
+      "38552946",
+      "39572716",
+      "31483777",
+      "27095200",
+      "34437528",
+      "41577452",
+      "41739924",
+      "39456178",
+      "28274760",
+      "39312142",
+      "39341115",
+      "41183118",
+      "31028927",
+      "25577370",
+      "39837861",
+      "40728942",
+      "38780739",
+      "39581872",
+      "34445436",
+      "24564983",
+      "38780728",
+      "33001599",
+      "41174200",
+      "29970003",
+      "27256381",
+      "38040490",
+      "40778521",
+      "30670629",
+      "41165252",
+      "40977268",
+      "42155621",
+      "39317944",
+      "17279496",
+      "41311232",
+      "41701781",
+      "40134455",
+      "24217996",
+      "31067608",
+      "40399037",
+      "27665601",
+      "33960770",
+      "34663179",
+      "20193785",
+      "39350066",
+      "40594473",
+      "40210487",
+      "31215361",
+      "38780734",
+      "39312143",
+      "24951655",
+      "41206113",
+      "40553326",
+      "25649229",
+      "38348910",
+      "32224462",
+      "42584949",
+      "37232359",
+      "28349426",
+      "37371726",
+      "42409189",
+      "20843778",
+      "40961942",
+      "18373878",
+      "42001425",
+      "18688270",
+      "39501155",
+      "31450739"
+    ],
+    "review": [
+      "42681535",
+      "26585404",
+      "41755596",
+      "36203019",
+      "39321802",
+      "24785264",
+      "41803448",
+      "41873866",
+      "39983363",
+      "25687190",
+      "28315749",
+      "41650708",
+      "39933218",
+      "21514143",
+      "34437528",
+      "41577452",
+      "39456178",
+      "31028927",
+      "34445436",
+      "38040490",
+      "30670629",
+      "41311232",
+      "24217996",
+      "31067608",
+      "33960770",
+      "20193785",
+      "31215361",
+      "24951655",
+      "41206113",
+      "37232359",
+      "42409189"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1007/978-1-0716-5284-8_11",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

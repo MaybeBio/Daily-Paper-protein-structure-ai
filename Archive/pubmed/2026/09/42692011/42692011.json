@@ -1,0 +1,387 @@
+{
+  "identity": {
+    "pmid": "42692011",
+    "doi": "10.1016/j.stemcr.2026.103075",
+    "title": "Methylome profiling of SetDB1-deficient ESCs reveals coordinated epigenetic cross-talk during pluripotency."
+  },
+  "content": {
+    "abstract": "SetDB1 is best known for catalyzing H3K9me3, but it also influences H3K27me3 deposition, CTCF-binding, and DNA methylation (DNAme). Given the interplay between DNAme and the other epigenetic features, we profiled DNAme following Setdb1 knockout (KO) in ground-state and serum-grown mouse embryonic stem cells (ESCs) to illuminate DNAme-dependent and -independent functions of SetDB1. Time-course whole-genome bisulfite sequencing of serum-grown ESCs shows that nearly half of SetDB1 binding sites are enriched with DNAme and H3K9me3, primarily at retrotransposons. Upon Setdb1 KO, both H3K9me3 and DNAme are reduced, with DNAme rapidly removed at many sites by TET enzymes. Some retrotransposons, primarily IAPs, are TET-resistant and lose DNAme slowly via passive dilution. Notably, SetDB1-mediated regulation of H3K27me3, CTCF-binding, and SMAD3 are uncoupled from the DNAme-H3K9me3 axis, and from each other. AlphaFold modeling and co-immunoprecipitation mass spectrometry suggest this uncoupling involves competitive binding to distinct SetDB1 protein domains, highlighting the complex coordination underlying SetDB1 functions.",
+    "keywords": [
+      "AlphaFold modeling",
+      "DNA methylation",
+      "SetDB1",
+      "chromatin",
+      "embryonic stem cells",
+      "epigenetic crosstalk",
+      "interaction proteomics",
+      "pluripotency",
+      "retrotransposons",
+      "whole-genome bisulfite sequencing"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Bovee, Nick G P",
+        "Habibi, Ehsan",
+        "Liu, Zicong",
+        "Hoogland, Stefan H A",
+        "Frolich, Siebren",
+        "Diepenbroek, Danielle",
+        "Bosman, Kim C M",
+        "Arand, Julia",
+        "Maksakova, Irina A",
+        "Kranenbarg, Anouk Klein",
+        "Walter, Jorn",
+        "Brinkman, Arie B",
+        "Mulder, Klaas W",
+        "Jansen, Joop H",
+        "Vermeulen, Michiel",
+        "Lorincz, Matthew",
+        "Stunnenberg, Hendrik G",
+        "Marks, Hendrik"
+      ],
+      "short_names": [
+        "Bovee NGP",
+        "Habibi E",
+        "Liu Z",
+        "Hoogland SHA",
+        "Frolich S",
+        "Diepenbroek D",
+        "Bosman KCM",
+        "Arand J",
+        "Maksakova IA",
+        "Kranenbarg AK",
+        "Walter J",
+        "Brinkman AB",
+        "Mulder KW",
+        "Jansen JH",
+        "Vermeulen M",
+        "Lorincz M",
+        "Stunnenberg HG",
+        "Marks H"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Molecular Biology, Faculty of Science, Radboud Institute for Molecular Life Sciences (RIMLS), Radboud University, Nijmegen, the Netherlands.",
+        "Department of Molecular Biology, Faculty of Science, Radboud Institute for Molecular Life Sciences (RIMLS), Radboud University, Nijmegen, the Netherlands.",
+        "Department of Molecular Biology, Faculty of Science, Radboud Institute for Molecular Life Sciences (RIMLS), Radboud University, Nijmegen, the Netherlands.",
+        "Department of Molecular Biology, Faculty of Science, Radboud Institute for Molecular Life Sciences (RIMLS), Radboud University, Nijmegen, the Netherlands.",
+        "Department of Molecular Developmental Biology, Faculty of Science, Radboud Institute for Molecular Life Sciences (RIMLS), Radboud University, Nijmegen, the Netherlands.",
+        "Department of Molecular Biology, Faculty of Science, Radboud Institute for Molecular Life Sciences (RIMLS), Radboud University, Nijmegen, the Netherlands.",
+        "Department of Molecular Biology, Faculty of Science, Radboud Institute for Molecular Life Sciences (RIMLS), Radboud University, Nijmegen, the Netherlands.",
+        "Center for Anatomy and Cell Biology, Division of Cell and Developmental Biology, Medical University of Vienna, Vienna, Austria.",
+        "Department of Medical Genetics, Life Sciences Institute, University of British Columbia, Vancouver, BC, Canada.",
+        "Department of Molecular Biology, Faculty of Science, Radboud Institute for Molecular Life Sciences (RIMLS), Radboud University, Nijmegen, the Netherlands.",
+        "Department of Life Sciences, Laboratory of Genetics, Saarland University, Saarbrucken, Germany.",
+        "Department of Molecular Biology, Faculty of Science, Radboud Institute for Molecular Life Sciences (RIMLS), Radboud University, Nijmegen, the Netherlands.",
+        "Department of Molecular Developmental Biology, Faculty of Science, Radboud Institute for Molecular Life Sciences (RIMLS), Radboud University, Nijmegen, the Netherlands.",
+        "Department of Laboratory Medicine, Laboratory of Hematology, Radboud University Medical Center and Radboud Institute for Molecular Life Sciences (RIMLS), Nijmegen, the Netherlands.",
+        "Department of Molecular Biology, Faculty of Science, Radboud Institute for Molecular Life Sciences (RIMLS), Oncode Institute, Radboud University, Nijmegen, the Netherlands; Division of Molecular Genetics, Netherlands Cancer Institute, Amsterdam, the Netherlands.",
+        "Department of Medical Genetics, Life Sciences Institute, University of British Columbia, Vancouver, BC, Canada.",
+        "Department of Molecular Biology, Faculty of Science, Radboud Institute for Molecular Life Sciences (RIMLS), Radboud University, Nijmegen, the Netherlands.",
+        "Department of Molecular Biology, Faculty of Science, Radboud Institute for Molecular Life Sciences (RIMLS), Radboud University, Nijmegen, the Netherlands. Electronic address: hendrik.marks@ru.nl."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Bovee, Nick G P",
+        "short_name": "Bovee NGP",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Biology, Faculty of Science, Radboud Institute for Molecular Life Sciences (RIMLS), Radboud University, Nijmegen, the Netherlands."
+        ]
+      },
+      {
+        "full_name": "Habibi, Ehsan",
+        "short_name": "Habibi E",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Biology, Faculty of Science, Radboud Institute for Molecular Life Sciences (RIMLS), Radboud University, Nijmegen, the Netherlands."
+        ]
+      },
+      {
+        "full_name": "Liu, Zicong",
+        "short_name": "Liu Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Biology, Faculty of Science, Radboud Institute for Molecular Life Sciences (RIMLS), Radboud University, Nijmegen, the Netherlands."
+        ]
+      },
+      {
+        "full_name": "Hoogland, Stefan H A",
+        "short_name": "Hoogland SHA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Biology, Faculty of Science, Radboud Institute for Molecular Life Sciences (RIMLS), Radboud University, Nijmegen, the Netherlands."
+        ]
+      },
+      {
+        "full_name": "Frölich, Siebren",
+        "short_name": "Frölich S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Developmental Biology, Faculty of Science, Radboud Institute for Molecular Life Sciences (RIMLS), Radboud University, Nijmegen, the Netherlands."
+        ]
+      },
+      {
+        "full_name": "Diepenbroek, Daniëlle",
+        "short_name": "Diepenbroek D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Biology, Faculty of Science, Radboud Institute for Molecular Life Sciences (RIMLS), Radboud University, Nijmegen, the Netherlands."
+        ]
+      },
+      {
+        "full_name": "Bosman, Kim C M",
+        "short_name": "Bosman KCM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Biology, Faculty of Science, Radboud Institute for Molecular Life Sciences (RIMLS), Radboud University, Nijmegen, the Netherlands."
+        ]
+      },
+      {
+        "full_name": "Arand, Julia",
+        "short_name": "Arand J",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Anatomy and Cell Biology, Division of Cell and Developmental Biology, Medical University of Vienna, Vienna, Austria."
+        ]
+      },
+      {
+        "full_name": "Maksakova, Irina A",
+        "short_name": "Maksakova IA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Genetics, Life Sciences Institute, University of British Columbia, Vancouver, BC, Canada."
+        ]
+      },
+      {
+        "full_name": "Kranenbarg, Anouk Klein",
+        "short_name": "Kranenbarg AK",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Biology, Faculty of Science, Radboud Institute for Molecular Life Sciences (RIMLS), Radboud University, Nijmegen, the Netherlands."
+        ]
+      },
+      {
+        "full_name": "Walter, Jörn",
+        "short_name": "Walter J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Life Sciences, Laboratory of Genetics, Saarland University, Saarbrücken, Germany."
+        ]
+      },
+      {
+        "full_name": "Brinkman, Arie B",
+        "short_name": "Brinkman AB",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Biology, Faculty of Science, Radboud Institute for Molecular Life Sciences (RIMLS), Radboud University, Nijmegen, the Netherlands."
+        ]
+      },
+      {
+        "full_name": "Mulder, Klaas W",
+        "short_name": "Mulder KW",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Developmental Biology, Faculty of Science, Radboud Institute for Molecular Life Sciences (RIMLS), Radboud University, Nijmegen, the Netherlands."
+        ]
+      },
+      {
+        "full_name": "Jansen, Joop H",
+        "short_name": "Jansen JH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Laboratory Medicine, Laboratory of Hematology, Radboud University Medical Center and Radboud Institute for Molecular Life Sciences (RIMLS), Nijmegen, the Netherlands."
+        ]
+      },
+      {
+        "full_name": "Vermeulen, Michiel",
+        "short_name": "Vermeulen M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Biology, Faculty of Science, Radboud Institute for Molecular Life Sciences (RIMLS), Oncode Institute, Radboud University, Nijmegen, the Netherlands; Division of Molecular Genetics, Netherlands Cancer Institute, Amsterdam, the Netherlands."
+        ]
+      },
+      {
+        "full_name": "Lorincz, Matthew",
+        "short_name": "Lorincz M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Genetics, Life Sciences Institute, University of British Columbia, Vancouver, BC, Canada."
+        ]
+      },
+      {
+        "full_name": "Stunnenberg, Hendrik G",
+        "short_name": "Stunnenberg HG",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Biology, Faculty of Science, Radboud Institute for Molecular Life Sciences (RIMLS), Radboud University, Nijmegen, the Netherlands."
+        ]
+      },
+      {
+        "full_name": "Marks, Hendrik",
+        "short_name": "Marks H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Biology, Faculty of Science, Radboud Institute for Molecular Life Sciences (RIMLS), Radboud University, Nijmegen, the Netherlands. Electronic address: hendrik.marks@ru.nl."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Stem cell reports"
+    ],
+    "journal_abbrev": [
+      "Stem Cell Reports"
+    ],
+    "pub_date": "2026 Sep 3",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/03 23:36",
+    "fetched_at": "2026-09-08 15:48:04"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42692011",
+      "30472157",
+      "29351814",
+      "34857746",
+      "23326524",
+      "35776115",
+      "34986190",
+      "25228647",
+      "38961490",
+      "26160163",
+      "23850244",
+      "27151458",
+      "38167730",
+      "31557926",
+      "36702107",
+      "35431282",
+      "26865862",
+      "33256805",
+      "36123357",
+      "23933322",
+      "30948436",
+      "31914391",
+      "27863519",
+      "29703894",
+      "30352361",
+      "24991018",
+      "21170338",
+      "37488353",
+      "37845773",
+      "24757056",
+      "41641702",
+      "25611934",
+      "33971063",
+      "30850015",
+      "39774947",
+      "36375246",
+      "27179026",
+      "29636490",
+      "39180406",
+      "42225060",
+      "31722211",
+      "39540436",
+      "40727931",
+      "35361678",
+      "41493679",
+      "28890329",
+      "30403691",
+      "31219242",
+      "40612682",
+      "23987249",
+      "24096207",
+      "22466170",
+      "21774827",
+      "36577070",
+      "42089935",
+      "28879500",
+      "38057834",
+      "41482819",
+      "27732843",
+      "20935159",
+      "24852249",
+      "35396277",
+      "32768498",
+      "21624812",
+      "35365225",
+      "34706774",
+      "35617427",
+      "36335068",
+      "25223896",
+      "23748610",
+      "28032673",
+      "36100837",
+      "38904842",
+      "28946896",
+      "36335090",
+      "37559904",
+      "35081363",
+      "26975355",
+      "26181258",
+      "23850245",
+      "24812327",
+      "27301860",
+      "27739137",
+      "25134795",
+      "39689172",
+      "33636115",
+      "35918713",
+      "42086780",
+      "27236334",
+      "39345615",
+      "42334949",
+      "32694513",
+      "32486217",
+      "31543342",
+      "27639379",
+      "31858687",
+      "32944600",
+      "26481358",
+      "28420800",
+      "37703822"
+    ],
+    "review": [
+      "42692011",
+      "36702107",
+      "35431282",
+      "30850015",
+      "24096207",
+      "38057834"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2213-6711(26)00286-9",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-KRT+Group+B-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "source": "arxiv",
+  "source_id": "2609.03761v1",
+  "title": "Robot Aware Computational Design of Object Specific Passive Grippers for Additive Manufacturing",
+  "doi": "",
+  "abstract": "This paper presents an end-to-end computational pipeline that converts a selected object mesh, a measured object state, and a selected six-axis robot into an object-specific, unactuated, additively manufacturable gripper. The method couples exact-mesh RGB-D/ICP pose registration, deterministic surface-contact sampling, uncertainty-aware wrench screening, selection among six passive capture mechanisms, object-conformal surface synthesis, full-orientation robot inverse kinematics, a swept-volume-aware manufacturing domain, directional fused-deposition finite-element screening, and constrained three-dimensional SIMP topology optimization. Unlike workflows that treat grasp selection, tool geometry, motion, and structural design as separate problems, every exported design is bound to the source mesh, object pose, robot flange, contact set, and insertion hypothesis by a traceable design identifier. We derive the implemented registration, contact, fit-tolerance, finite-element, and density-optimization equations and prove three properties of the numerical construction: nodal load preservation, monotonic compliance sensitivity under SIMP interpolation, and voxel-domain containment after topology post-processing. Four archived object-specific attempts - a rabbit, camera flange, 3DBenchy, and faceted bust - meet the nominal fit, uncertain-wrench, runtime-sweep, and baseline/post-topology FEA gates. A deliberately enlarged +/-3 mm, +/-5 degree pose stress check differentiates the designs, retaining 29-134 of 160 simulated trials. Their reconstructed topologies retain 92.0-97.6% of the FE domain because functional regions are protected. Archived robot photographs show the corresponding printed assemblies qualitatively, while nominal material properties and absent coupon-calibrated, instrumented tests keep all four at digital-screening status rather than operational release.",
+  "authors": [
+    "Abdullah Yahya Abdullah Omaisan",
+    "Ibrahim Sheikh Mohamed"
+  ],
+  "published_date": "2026-09-03T12:29:03Z",
+  "updated_date": "2026-09-03T12:29:03Z",
+  "journal": "",
+  "category": "cs.RO",
+  "landing_url": "https://arxiv.org/abs/2609.03761v1",
+  "pdf_url": "https://arxiv.org/pdf/2609.03761v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cs.RO"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2609.03761v1",
+    "raw_categories": [
+      "cs.RO"
+    ],
+    "journal_ref": ""
+  }
+}

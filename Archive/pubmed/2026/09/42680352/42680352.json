@@ -1,0 +1,276 @@
+{
+  "identity": {
+    "pmid": "42680352",
+    "doi": "10.1016/j.foodres.2026.120066",
+    "title": "Inhibitory mechanism of phloretin on the AgrA LytTR domain-agr operon complex formation and its application in beef."
+  },
+  "content": {
+    "abstract": "Staphylococcus aureus (S. aureus) represents a major foodborne pathogen whose enterotoxin production poses significant challenges to food safety due to its high environmental resistance and limited efficacy of conventional sterilization. Since the expression of enterotoxins is predominantly governed by the agr quorum sensing system, targeting this regulatory pathway has become a strategic choice for virulence control. This study elucidated the mechanism by which phloretin, a potential quorum sensing inhibitor, interferes with the agr system to attenuate virulence. To achieve this, the recombinant AgrA LytTR domain was expressed and purified, and its interaction with phloretin was characterized using thermal shift assays (TSA), electrophoretic mobility shift assays (EMSA), and molecular dynamics (MD) simulations. The results showed that phloretin specifically binds to the AgrA LytTR domain, enhancing its thermal stability and disrupting AgrA LytTR-agr operon binding by reducing the free energy of interaction between them, without causing significant structural rearrangement. Mechanistic analysis indicated that phloretin sterically hinders key beta-sheet turn residues (HIS169, ASN201, ARG233), thereby impairing DNA recognition, downregulating RNAIII transcription, and inhibiting agr signaling. In cooked beef, phloretin significantly inhibited the secretion of enterotoxins and alpha-hemolysin, while delaying lipid oxidation and protein degradation, and maintaining the meat texture. These findings suggested that phloretin is a multifunctional substance with anti-virulence, antioxidant, and preservative properties, demonstrating its potential as a natural food preservative.",
+    "keywords": [
+      "AgrA LytTR domain",
+      "Cooked beef",
+      "Molecular dynamics simulation",
+      "Phloretin",
+      "Quorum sensing",
+      "Staphylococcus aureus"
+    ],
+    "mesh_terms": [
+      "*Phloretin/pharmacology",
+      "*Bacterial Proteins/genetics/metabolism",
+      "*Staphylococcus aureus/drug effects/genetics/pathogenicity/metabolism",
+      "*Red Meat/microbiology",
+      "Animals",
+      "*Operon/drug effects",
+      "*Trans-Activators/genetics/metabolism",
+      "Cattle",
+      "Quorum Sensing/drug effects",
+      "Enterotoxins/metabolism",
+      "Molecular Dynamics Simulation",
+      "Food Microbiology",
+      "Virulence/drug effects",
+      "Protein Domains"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Hong",
+        "Cui, Haiying",
+        "Aziz, Tariq",
+        "Shami, Ashwag",
+        "Ahmed, Abdelrahman R",
+        "Al-Joufi, Fakhria A",
+        "Lin, Lin"
+      ],
+      "short_names": [
+        "Li H",
+        "Cui H",
+        "Aziz T",
+        "Shami A",
+        "Ahmed AR",
+        "Al-Joufi FA",
+        "Lin L"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Food and Biological Engineering, Jiangsu University, Zhenjiang 212013, China; College of Biological and Food Engineering, Anhui Polytechnic University, 241000 Wuhu, China.",
+        "School of Food and Biological Engineering, Jiangsu University, Zhenjiang 212013, China. Electronic address: cuihaiying@ujs.edu.cn.",
+        "School of Food and Biological Engineering, Jiangsu University, Zhenjiang 212013, China.",
+        "Department of Biology, College of Science, Princess Nourah bint Abdulrahman University, P.O. Box 84428, Riyadh 11671, Saudi Arabia.",
+        "Department of Food and Nutrition Sciences, College of Agricultural and Food Sciences, King Faisal University, Al Ahsa, 31982, Saudi Arabia.",
+        "Department of Pharmacology, College of Pharmacy, Jouf University, Aljouf 72341, Saudi Arabia.",
+        "School of Food and Biological Engineering, Jiangsu University, Zhenjiang 212013, China. Electronic address: linl@ujs.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Hong",
+        "short_name": "Li H",
+        "identifiers": [],
+        "affiliations": [
+          "School of Food and Biological Engineering, Jiangsu University, Zhenjiang 212013, China; College of Biological and Food Engineering, Anhui Polytechnic University, 241000 Wuhu, China."
+        ]
+      },
+      {
+        "full_name": "Cui, Haiying",
+        "short_name": "Cui H",
+        "identifiers": [],
+        "affiliations": [
+          "School of Food and Biological Engineering, Jiangsu University, Zhenjiang 212013, China. Electronic address: cuihaiying@ujs.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Aziz, Tariq",
+        "short_name": "Aziz T",
+        "identifiers": [],
+        "affiliations": [
+          "School of Food and Biological Engineering, Jiangsu University, Zhenjiang 212013, China."
+        ]
+      },
+      {
+        "full_name": "Shami, Ashwag",
+        "short_name": "Shami A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, College of Science, Princess Nourah bint Abdulrahman University, P.O. Box 84428, Riyadh 11671, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Ahmed, Abdelrahman R",
+        "short_name": "Ahmed AR",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Food and Nutrition Sciences, College of Agricultural and Food Sciences, King Faisal University, Al Ahsa, 31982, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Al-Joufi, Fakhria A",
+        "short_name": "Al-Joufi FA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology, College of Pharmacy, Jouf University, Aljouf 72341, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Lin, Lin",
+        "short_name": "Lin L",
+        "identifiers": [],
+        "affiliations": [
+          "School of Food and Biological Engineering, Jiangsu University, Zhenjiang 212013, China. Electronic address: linl@ujs.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Food research international (Ottawa, Ont.)"
+    ],
+    "journal_abbrev": [
+      "Food Res Int"
+    ],
+    "pub_date": "2026 Oct 31",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/01 23:34",
+    "fetched_at": "2026-09-08 15:48:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42680352",
+      "38422678",
+      "24945495",
+      "42397843",
+      "25352558",
+      "28289032",
+      "31358609",
+      "21741390",
+      "37140461",
+      "35044202",
+      "33662434",
+      "42190376",
+      "41622182",
+      "33536503",
+      "21908676",
+      "31043623",
+      "39261350",
+      "29706505",
+      "31164467",
+      "38810547",
+      "18851841",
+      "22586129",
+      "31488708",
+      "15516566",
+      "38615572",
+      "38341904",
+      "22467783",
+      "39328594",
+      "24957093",
+      "41644069",
+      "40952178",
+      "8837472",
+      "35331848",
+      "23143800",
+      "39814109",
+      "29661157",
+      "38659576",
+      "41347504",
+      "21701848",
+      "24391052",
+      "23181972",
+      "25645827",
+      "40762857",
+      "42234660",
+      "23294220",
+      "17606604",
+      "33633702",
+      "28841182",
+      "40409430",
+      "34290689",
+      "42208101",
+      "42457099",
+      "17548478",
+      "38246026",
+      "27718524",
+      "24416329",
+      "24858185",
+      "28005941",
+      "16428734",
+      "39966225",
+      "40849622",
+      "35862951",
+      "33435417",
+      "24164684",
+      "27915107",
+      "38289073",
+      "14996810",
+      "29066545",
+      "25192992",
+      "25300477",
+      "35138170",
+      "23459693",
+      "9446568",
+      "38687677",
+      "39120147",
+      "37578046",
+      "41429753",
+      "26731096",
+      "32752273",
+      "36700647",
+      "29500427",
+      "31722996",
+      "39394082",
+      "34070323",
+      "11489134",
+      "15731040",
+      "29733353",
+      "12496184",
+      "33852876",
+      "12368457",
+      "21169484",
+      "33926572",
+      "16030224",
+      "37578829",
+      "41210938",
+      "15060046",
+      "40240425",
+      "41103102",
+      "27329753",
+      "29476092"
+    ],
+    "review": [
+      "42680352",
+      "41622182",
+      "24957093",
+      "25300477",
+      "37578829"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0963-9969(26)01750-3",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-PRDX2-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

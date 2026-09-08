@@ -1,0 +1,363 @@
+{
+  "identity": {
+    "pmid": "42685200",
+    "doi": "10.1126/sciadv.aeg1640",
+    "title": "Aortic disease-linked mutations reveal unexpected convergent allosteric mechanisms of protein kinase G misregulation."
+  },
+  "content": {
+    "abstract": "Thoracic aortic aneurysms and dissections (TAAD) are life-threatening conditions linked to gain-of-function mutations in cGMP-dependent protein kinase I (PKG I), a central regulator of vascular smooth muscle signaling. Among these, substitutions at Val(234) have been associated with kinase overactivation and early-onset disease, despite this residue being distal from the active site and cGMP binding regions. Using NMR, molecular dynamics simulations, and complementary kinase and binding assays, we show that Val(234) acts as a crucial allosteric hub of PKG autoinhibition. TAAD-associated variants at Val(234) disrupt PKG regulation through two distinct yet complementary allosteric mechanisms: by biasing the kinase toward active conformations that increase sensitivity to cGMP and by decreasing the folding stability of the regulatory domain, thereby weakening inhibitory contacts independently of cGMP control. Despite these differences, both mechanisms result in excessive PKG signaling at basal and intermediate cGMP levels, while maximal activity remains unaltered. Together, these findings explain how distal mutations can unpredictably rewire kinase allostery and drive pathogenic vascular signaling.",
+    "keywords": [],
+    "mesh_terms": [
+      "Allosteric Regulation",
+      "Humans",
+      "*Mutation",
+      "*Cyclic GMP-Dependent Protein Kinase Type I/genetics/metabolism/chemistry",
+      "Cyclic GMP/metabolism",
+      "Molecular Dynamics Simulation",
+      "Signal Transduction",
+      "*Aortic Aneurysm, Thoracic/genetics/metabolism",
+      "Dissection, Thoracic Aorta",
+      "*Cyclic GMP-Dependent Protein Kinases/genetics/metabolism/chemistry",
+      "Protein Binding",
+      "Protein Conformation",
+      "Catalytic Domain",
+      "*Aortic Dissection/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Martinez Pomier, Karla",
+        "Jahn, Leopold",
+        "VanSchouwen, Bryan",
+        "Mohamed, Hebatallah",
+        "Akimoto, Madoka",
+        "Jung, Sun Woo",
+        "Bertinetti, Daniela",
+        "Mehringer, Johannes",
+        "Della Libera, Leonardo",
+        "Cuello, Friederike",
+        "Herberg, Friedrich W",
+        "Melacini, Giuseppe"
+      ],
+      "short_names": [
+        "Martinez Pomier K",
+        "Jahn L",
+        "VanSchouwen B",
+        "Mohamed H",
+        "Akimoto M",
+        "Jung SW",
+        "Bertinetti D",
+        "Mehringer J",
+        "Della Libera L",
+        "Cuello F",
+        "Herberg FW",
+        "Melacini G"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-1411-3383",
+        "ORCID: 0000-0001-7298-262X",
+        "ORCID: 0000-0002-2272-2173",
+        "ORCID: 0000-0003-0510-5613",
+        "ORCID: 0000-0003-1150-3765",
+        "ORCID: 0000-0003-2650-1850",
+        "ORCID: 0000-0002-6475-2186",
+        "ORCID: 0000-0003-1612-1715",
+        "ORCID: 0000-0001-7117-7653",
+        "ORCID: 0000-0003-1164-2853"
+      ],
+      "affiliations": [
+        "Department of Chemistry and Chemical Biology, McMaster University, Hamilton, ON, Canada.",
+        "Institute for Biology, Department of Biochemistry, University of Kassel, Kassel, Germany.",
+        "Department of Chemistry and Chemical Biology, McMaster University, Hamilton, ON, Canada.",
+        "Department of Chemistry and Chemical Biology, McMaster University, Hamilton, ON, Canada.",
+        "Department of Chemistry and Chemical Biology, McMaster University, Hamilton, ON, Canada.",
+        "Department of Chemistry and Chemical Biology, McMaster University, Hamilton, ON, Canada.",
+        "Institute for Biology, Department of Biochemistry, University of Kassel, Kassel, Germany.",
+        "Kurt Schwabe Institute for Sensor Technologies, Waldheim, Germany.",
+        "Department of Chemistry and Chemical Biology, McMaster University, Hamilton, ON, Canada.",
+        "Institute of Experimental Pharmacology and Toxicology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany.",
+        "DZHK (German Center for Cardiovascular Research), Partner site North, University Medical Center Hamburg-Eppendorf, Hamburg, Germany.",
+        "Institute for Biology, Department of Biochemistry, University of Kassel, Kassel, Germany.",
+        "Department of Chemistry and Chemical Biology, McMaster University, Hamilton, ON, Canada.",
+        "Department of Biochemistry and Biomedical Sciences, McMaster University, Hamilton, ON, Canada."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Martinez Pomier, Karla",
+        "short_name": "Martinez Pomier K",
+        "identifiers": [
+          "0000-0003-1411-3383"
+        ],
+        "affiliations": [
+          "Department of Chemistry and Chemical Biology, McMaster University, Hamilton, ON, Canada."
+        ]
+      },
+      {
+        "full_name": "Jahn, Leopold",
+        "short_name": "Jahn L",
+        "identifiers": [
+          "0000-0001-7298-262X"
+        ],
+        "affiliations": [
+          "Institute for Biology, Department of Biochemistry, University of Kassel, Kassel, Germany."
+        ]
+      },
+      {
+        "full_name": "VanSchouwen, Bryan",
+        "short_name": "VanSchouwen B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry and Chemical Biology, McMaster University, Hamilton, ON, Canada."
+        ]
+      },
+      {
+        "full_name": "Mohamed, Hebatallah",
+        "short_name": "Mohamed H",
+        "identifiers": [
+          "0000-0002-2272-2173"
+        ],
+        "affiliations": [
+          "Department of Chemistry and Chemical Biology, McMaster University, Hamilton, ON, Canada."
+        ]
+      },
+      {
+        "full_name": "Akimoto, Madoka",
+        "short_name": "Akimoto M",
+        "identifiers": [
+          "0000-0003-0510-5613"
+        ],
+        "affiliations": [
+          "Department of Chemistry and Chemical Biology, McMaster University, Hamilton, ON, Canada."
+        ]
+      },
+      {
+        "full_name": "Jung, Sun Woo",
+        "short_name": "Jung SW",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry and Chemical Biology, McMaster University, Hamilton, ON, Canada."
+        ]
+      },
+      {
+        "full_name": "Bertinetti, Daniela",
+        "short_name": "Bertinetti D",
+        "identifiers": [
+          "0000-0003-1150-3765"
+        ],
+        "affiliations": [
+          "Institute for Biology, Department of Biochemistry, University of Kassel, Kassel, Germany."
+        ]
+      },
+      {
+        "full_name": "Mehringer, Johannes",
+        "short_name": "Mehringer J",
+        "identifiers": [
+          "0000-0003-2650-1850"
+        ],
+        "affiliations": [
+          "Kurt Schwabe Institute for Sensor Technologies, Waldheim, Germany."
+        ]
+      },
+      {
+        "full_name": "Della Libera, Leonardo",
+        "short_name": "Della Libera L",
+        "identifiers": [
+          "0000-0002-6475-2186"
+        ],
+        "affiliations": [
+          "Department of Chemistry and Chemical Biology, McMaster University, Hamilton, ON, Canada."
+        ]
+      },
+      {
+        "full_name": "Cuello, Friederike",
+        "short_name": "Cuello F",
+        "identifiers": [
+          "0000-0003-1612-1715"
+        ],
+        "affiliations": [
+          "Institute of Experimental Pharmacology and Toxicology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany.",
+          "DZHK (German Center for Cardiovascular Research), Partner site North, University Medical Center Hamburg-Eppendorf, Hamburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Herberg, Friedrich W",
+        "short_name": "Herberg FW",
+        "identifiers": [
+          "0000-0001-7117-7653"
+        ],
+        "affiliations": [
+          "Institute for Biology, Department of Biochemistry, University of Kassel, Kassel, Germany."
+        ]
+      },
+      {
+        "full_name": "Melacini, Giuseppe",
+        "short_name": "Melacini G",
+        "identifiers": [
+          "0000-0003-1164-2853"
+        ],
+        "affiliations": [
+          "Department of Chemistry and Chemical Biology, McMaster University, Hamilton, ON, Canada.",
+          "Department of Biochemistry and Biomedical Sciences, McMaster University, Hamilton, ON, Canada."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Science advances"
+    ],
+    "journal_abbrev": [
+      "Sci Adv"
+    ],
+    "pub_date": "2026 Sep 4",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/03 01:13",
+    "fetched_at": "2026-09-08 15:48:04"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42685200",
+      "23910461",
+      "32506052",
+      "27879251",
+      "27066748",
+      "16407222",
+      "32317283",
+      "12591946",
+      "35929723",
+      "35427632",
+      "10567406",
+      "10785399",
+      "12617722",
+      "31387997",
+      "16146737",
+      "11884369",
+      "12080049",
+      "18082764",
+      "41820291",
+      "19168131",
+      "23277076",
+      "35868561",
+      "29251493",
+      "12093798",
+      "26370085",
+      "21893290",
+      "8977108",
+      "30206122",
+      "21351102",
+      "29602907",
+      "12933804",
+      "27914169",
+      "30577811",
+      "21526164",
+      "35143840",
+      "26773602",
+      "15051728",
+      "18535260",
+      "24469460",
+      "14766375",
+      "8923211",
+      "26769964",
+      "24239458",
+      "26124274",
+      "31239348",
+      "15465351",
+      "11914085",
+      "21328456",
+      "17403045",
+      "27885524",
+      "11696008",
+      "11897122",
+      "34400180",
+      "22942288",
+      "12817987",
+      "28465425",
+      "31575723",
+      "14610087",
+      "23831687",
+      "34576086",
+      "27302407",
+      "10864932",
+      "23006734",
+      "29519942",
+      "15337747",
+      "12524425",
+      "23836689",
+      "11389733",
+      "33976159",
+      "14985234",
+      "28793191",
+      "12855709",
+      "24826884",
+      "33271627",
+      "16027248",
+      "11278298",
+      "12393944",
+      "30104414",
+      "28855531",
+      "8702997",
+      "9395541",
+      "26946174",
+      "10617599",
+      "22618526",
+      "22740515",
+      "9271402",
+      "11294687",
+      "9395542",
+      "11509544",
+      "8630352",
+      "27810897",
+      "38935780",
+      "23526219",
+      "21097501",
+      "9852090",
+      "30958912",
+      "21160032",
+      "20018259",
+      "15123611",
+      "12177418"
+    ],
+    "review": [
+      "42685200",
+      "27879251",
+      "35427632",
+      "16146737",
+      "27885524",
+      "33271627",
+      "12393944"
+    ],
+    "pmc": [
+      "13537252"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https:///www.science.org/doi/10.1126/sciadv.aeg1640?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42685200/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}
