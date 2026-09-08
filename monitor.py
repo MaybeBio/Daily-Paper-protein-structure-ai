@@ -245,6 +245,52 @@ def _zotero_id(row):
     return row["id"]
 
 
+def _state_path(out_dir, topic):
+    return os.path.join(out_dir, ".monitor_state", f"{topic}.json")
+
+
+def _load_state(path):
+    if not os.path.exists(path):
+        return set()
+    try:
+        with open(path, encoding="utf-8") as f:
+            data = json.load(f)
+        return set(data) if isinstance(data, list) else set()
+    except Exception:
+        return set()
+
+
+def _save_state(path, state):
+    if not state:
+        return
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    tmp = path + ".tmp"
+    with open(tmp, "w", encoding="utf-8") as f:
+        json.dump(sorted(state), f, ensure_ascii=False, indent=2)
+    os.replace(tmp, path)
+
+
+def _seed_state(out_dir, topic):
+    """Build initial emitted-ID state from existing Discovery *_ids.txt files.
+
+    On the first overlap-window run there is no state file yet, and the wide
+    window would otherwise re-emit every paper already captured by prior narrow
+    runs. Reading the per-run id manifests makes the state start from history.
+    """
+    ids = set()
+    base = os.path.join(out_dir, "Discovery")
+    if os.path.isdir(base):
+        for dirpath, _dirs, files in os.walk(base):
+            for fn in files:
+                if fn.startswith(f"{topic}_") and fn.endswith("_ids.txt"):
+                    try:
+                        with open(os.path.join(dirpath, fn), encoding="utf-8") as f:
+                            ids.update(line.strip() for line in f if line.strip())
+                    except OSError:
+                        continue
+    return ids
+
+
 def write_discovery(out_dir, topic, date_str, all_rows):
     year, month, _ = date_str.split("-")
     d = os.path.join(out_dir, "Discovery", year, month)
@@ -290,7 +336,7 @@ def issue_title(start, end, total):
     return f"📅 {start} ~ {end} 本周文献推送（{total} 篇）"
 
 
-def build_issue(rows_by_platform, start, end):
+def build_issue(rows_by_platform, start, end, compact=False):
     total = sum(len(v) for v in rows_by_platform.values())
     if total == 0:
         return ""
@@ -301,13 +347,22 @@ def build_issue(rows_by_platform, start, end):
             continue
         lines.append(f"## {platform}（{len(rows)}）")
         lines.append("")
-        lines.append("| 标题 | 作者 | 日期 |")
-        lines.append("|---|---|---|")
-        for r in rows:
-            title = (r["title"] or "untitled").replace("|", "\\|").replace("\n", " ")
-            url = r["url"] or ""
-            cell = f"[{title}]({url})" if url else title
-            lines.append(f"| {cell} | {_short_authors(r['authors'])} | {(r['published_date'] or '')[:10]} |")
+        if compact:
+            lines.append("| 标题 | 日期 |")
+            lines.append("|---|---|")
+            for r in rows:
+                title = (r["title"] or "untitled").replace("|", "\\|").replace("\n", " ")
+                url = r["url"] or ""
+                cell = f"[{title}]({url})" if url else title
+                lines.append(f"| {cell} | {(r['published_date'] or '')[:10]} |")
+        else:
+            lines.append("| 标题 | 作者 | 日期 |")
+            lines.append("|---|---|---|")
+            for r in rows:
+                title = (r["title"] or "untitled").replace("|", "\\|").replace("\n", " ")
+                url = r["url"] or ""
+                cell = f"[{title}]({url})" if url else title
+                lines.append(f"| {cell} | {_short_authors(r['authors'])} | {(r['published_date'] or '')[:10]} |")
         lines.append("")
     return "\n".join(lines)
 
@@ -327,6 +382,15 @@ def main():
         print("No platforms configured.", file=sys.stderr)
         sys.exit(1)
 
+    dedup = bool(cfg.get("dedup", False))
+    compact_issue = bool(cfg.get("compact_issue", False))
+    state = set()
+    state_path = _state_path(args.out_dir, topic)
+    if dedup:
+        state = _load_state(state_path)
+        if not state:
+            state = _seed_state(args.out_dir, topic)
+
     tmp = tempfile.mkdtemp(prefix="monitor_")
     rows_by_platform = {}
     all_rows = []
@@ -335,9 +399,14 @@ def main():
         for platform in platforms:
             try:
                 rows, metas = fetch_platform(platform, cfg, start, end, tmp)
+                # Archive is append-only and idempotent (same id overwrites same path),
+                # so it keeps every fetch regardless of dedup; Discovery/issue are deduped.
+                archived = write_archive(args.out_dir, metas)
+                if dedup:
+                    rows = [r for r in rows if _zotero_id(r) not in state]
+                    state.update(_zotero_id(r) for r in rows)
                 rows_by_platform[platform] = rows
                 all_rows.extend(rows)
-                archived = write_archive(args.out_dir, metas)
                 print(f"[{platform}] {len(rows)} records (archived {archived})")
             except Exception as e:
                 print(f"[{platform}] FAILED: {e}", file=sys.stderr)
@@ -345,13 +414,16 @@ def main():
     finally:
         shutil.rmtree(tmp, ignore_errors=True)
 
+    if dedup:
+        _save_state(state_path, state)
+
     csv_path, ids_path, n = write_discovery(args.out_dir, topic, run_date, all_rows)
     print(f"[total] {n} records -> {csv_path} + {ids_path}")
 
     total = sum(len(v) for v in rows_by_platform.values())
     if args.issue_body:
         with open(args.issue_body, "w", encoding="utf-8") as f:
-            f.write(build_issue(rows_by_platform, start, end))
+            f.write(build_issue(rows_by_platform, start, end, compact=compact_issue))
     if args.issue_title and total > 0:
         with open(args.issue_title, "w", encoding="utf-8") as f:
             f.write(issue_title(start, end, total) + "\n")

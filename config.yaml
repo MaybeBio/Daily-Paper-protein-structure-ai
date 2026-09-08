@@ -1,10 +1,19 @@
 # 课题短名，用于产出文件名与 Issue 标题
-# 蛋白质结构 × 深度学习（为 idp-interaction-ai 信息差/灵感，比 topic1 宽）
-# 对象(结构预测/蛋白结构/蛋白设计/蛋白折叠/构象) × 方法(限定深度学习等 AI，不含 MD/对接)
+# 蛋白质结构 × 计算方法（深度学习等 AI + 分子动力学/模拟/对接；为 idp-interaction-ai 信息差/灵感，比 topic1 宽）
+# 对象(结构预测/蛋白结构/蛋白设计/蛋白折叠/构象) × 方法(限定深度学习等 AI、分子动力学/模拟/对接)
 topic: protein-structure-ai
 
 # 抓取时间窗口（天），每周自动跑默认 7；手动跑可改 1
-window_days: 7
+# 反漏设计：推送周期 P=7（每周一跑），窗口 W=14 > P，重叠半窗由 dedup 状态文件去重；
+# 保证 W ≥ P + L（L=PubMed [dp] 标引时滞上限 ~7 天），不漏上新条目
+window_days: 14
+
+# 重叠窗口去重：monitor.py 读 .monitor_state/<topic>.json 里已 emit 的 id 集合，
+# 写 CSV/issue 前过滤，写后回写新 id；首次从已有 *_ids.txt 播种，避免重发历史
+dedup: true
+
+# 收紧 issue：只留 「标题 | 日期」两列（去掉作者列），防止长 issue 超出 GitHub 65KB 上限
+compact_issue: true
 
 # PubMed 的 ENTREZ_EMAIL（必填）/ NCBI_API_KEY（可选）从环境变量读，不写进文件
 #   GitHub Actions：repo Settings → Secrets and variables → Actions
@@ -12,24 +21,37 @@ window_days: 7
 
 platforms:
   pubmed:
-    # 对象(结构) × 方法(AI)，两段式；词干 * 在引号短语末尾有效（实测单复数召回翻倍）
+    # 对象(结构) × 方法(AI ∪ MD/对接，仿 idp-interaction-ai)，两段式；词干 * 在引号短语末尾有效（实测单复数召回翻倍）
     # 注意先收集 mesh 条目，再收集 tiab：mesh 对最新文献不够及时（标引时滞），
-    # tiab 是精确匹配、mesh 是词义匹配，二者互补（mesh 适合长期回溯，周窗腿主要靠 tiab firing）
-    # conformational 保留在 PubMed：在 [tiab]+AI 约束下不爆量（arXiv 侧已去掉，见下）
+    # tiab 是精确匹配、mesh 是词义匹配，二者互补（mesh 适合长期回溯，周窗召回主要靠 tiab firing）
+    # 结构元素 MeSH 参考：https://www.ncbi.nlm.nih.gov/mesh?Db=mesh&Cmd=DetailsSearch&Term=%22Protein+Conformation%22%5BMeSH+Terms%5D
     query: >
       ( "Protein Conformation"[Mesh]
       OR "Protein Folding"[Mesh]
       OR "Protein Structure, Secondary"[Mesh]
       OR "Protein Structure, Tertiary"[Mesh]
       OR "Protein Structure, Quaternary"[Mesh]
-      OR "Protein Engineering"[Mesh]
+      OR "Protein Conformation, alpha-Helical"[Mesh]
+      OR "Protein Conformation, beta-Strand"[Mesh]
+      OR "Protein Domains"[Mesh]
+      OR "Structural Homology, Protein"[Mesh]
       OR "protein structure*"[tiab]
+      OR "protein domain*"[tiab]
+      OR "domain architecture"[tiab]
+      OR "fold recognition"[tiab]
+      OR "homology model*"[tiab]
       OR "structure prediction*"[tiab]
-      OR "protein design*"[tiab]
       OR "protein folding"[tiab]
-      OR "conformation*"[tiab]
-      OR "inverse folding"[tiab]
-      OR "protein engineering"[tiab] )
+      OR "protein design*"[tiab]
+      OR "backbone design"[tiab]
+      OR "sequence design"[tiab]
+      OR "structure design"[tiab]
+      OR "inverse folding"[tiab] 
+      OR "protein conformation"[tiab]
+      OR "conformational ensemble"[tiab]
+      OR "protein engineering"[tiab] 
+      OR "drug design"[tiab]
+      )
       AND
       ( "Artificial Intelligence"[Mesh]
       OR "Deep Learning"[Mesh]
@@ -46,13 +68,16 @@ platforms:
       OR "generative*"[tiab]
       OR "foundation model*"[tiab]
       OR "flow matching"[tiab]
+      OR "molecular dynamics"[tiab]
+      OR simulation*[tiab]
+      OR docking[tiab]
       OR alphafold[tiab]
       OR esmfold[tiab]
-      OR rosettafold[tiab] )
+      OR rosetta*[tiab] )
   arxiv:
     # arXiv 原生布尔：写 all: 字段形式原样透传（无 : 的纯词会被强制全 AND，OR 失效）
-    # ⚠️ 去掉 conformational：实测 all:conformational 单 token 周命中 84（conform/conformal 物理噪声），
-    #   去后 7 条/周 ~4-5 对题（protein codesign/inverse folding/抗体表示）
+    # ⚠️ conformational 曾去掉（2026-09-06：all:conformational 单 token 周命中 84，conform/conformal 物理噪声）；
+    # 考虑缩小推送周期，不再每周推送，每几天或每天推送
     # max_results：native 后端不加会翻整周全部命中 → 限速挂起；结构×AI 周命中 ~7，100 足够覆盖
     max_results: 100
     query: >
@@ -61,7 +86,16 @@ platforms:
       OR all:"protein design"
       OR all:"protein folding"
       OR all:"inverse folding"
-      OR all:"protein engineering")
+      OR all:"protein domain"
+      OR all:"domain architecture"
+      OR all:"fold recognition"
+      OR all:"homology modeling"
+      OR all:"backbone design"
+      OR all:"sequence design"
+      OR all:"structure design"
+      OR all:"conformational ensemble"
+      OR all:"protein conformation"
+      OR all:"drug design")
       AND
       (all:"deep learning"
       OR all:"machine learning"
@@ -73,25 +107,33 @@ platforms:
       OR all:generative
       OR all:"foundation model"
       OR all:"flow matching"
+      OR all:"molecular dynamics"
+      OR all:simulation
+      OR all:docking
       OR all:alphafold
       OR all:esmfold
-      OR all:rosettafold)
+      OR all:rosetta)
   biorxiv:
     # 与 arXiv 同构的括号两段式（对象×方法，纯短语、无字段前缀）。实测（2026-09-07，见 idp-interaction-ai）：
     #   为什么必须保留括号、不能改平铺 DNF：Europe PMC（Lucene）对无括号的 AND/OR 混排会拍平错乱
-    #   → 括号两段式 = 把正确性押在 Europe PMC 上，是最优解。
-    #   Europe PMC 腿：原生支持括号布尔、严格两段式（权威腿，精确吃满 query）。
-    #   Crossref 服务端 query.bibliographic：词袋相关性排序，无布尔能力（硬墙，改 pyPaperFlow 源码也补不了）。
-    #   Crossref 客户端 basic_boolean_text_match：括号当字面词 → 查询退化成单词 OR（超集/过召回，只多不漏）；
-    #     边界短语因括号粘词落入永不命中子句，由 Europe PMC 严格腿补上，仅 chemrxiv 暴露（窗内近 0）。
-    #   用户拍板：Europe PMC 严格 + Crossref 超集 + 每周 Zotero 筛 = 最优，维持括号两段式。
+    #   → 括号两段式 = 把正确性押在 Europe PMC 上，是最优解
+    #   Europe PMC 严格 + Crossref 超集 + 每周 Zotero 筛 = 最优，维持括号两段式
     query: >
       ("protein structure"
       OR "structure prediction"
       OR "protein design"
       OR "protein folding"
       OR "inverse folding"
-      OR "protein engineering")
+      OR "protein domain"
+      OR "domain architecture"
+      OR "fold recognition"
+      OR "homology modeling"
+      OR "backbone design"
+      OR "sequence design"
+      OR "structure design"
+      OR "protein conformation"
+      OR "conformational ensemble"
+      OR "drug design")
       AND
       ("deep learning"
       OR "machine learning"
@@ -103,20 +145,33 @@ platforms:
       OR generative
       OR "foundation model"
       OR "flow matching"
+      OR "molecular dynamics"
+      OR simulation
+      OR docking
       OR alphafold
       OR esmfold
-      OR rosettafold)
+      OR rosetta)
   medrxiv:
-    # 与 bioRxiv 同串（同一 BioRxivFetcher，platform=medrxiv）。双腿混合：Europe PMC 严格 + Crossref 超集，
+    # 与 bioRxiv 同串（同一 BioRxivFetcher，platform=medrxiv）
+    # 混合：Europe PMC 严格 + Crossref 超集，
     # 每周 Zotero 筛（详见 bioRxiv 注释：为何不能改平铺 DNF、边界短语如何补齐）。
-    # 结构×AI 在 medRxiv 本就稀疏，空属正常。
+    # 结构×AI 在 medRxiv 本就稀疏，空属正常
     query: >
       ("protein structure"
       OR "structure prediction"
       OR "protein design"
       OR "protein folding"
       OR "inverse folding"
-      OR "protein engineering")
+      OR "protein domain"
+      OR "domain architecture"
+      OR "fold recognition"
+      OR "homology modeling"
+      OR "backbone design"
+      OR "sequence design"
+      OR "structure design"
+      OR "protein conformation"
+      OR "conformational ensemble"
+      OR "drug design")
       AND
       ("deep learning"
       OR "machine learning"
@@ -128,21 +183,33 @@ platforms:
       OR generative
       OR "foundation model"
       OR "flow matching"
+      OR "molecular dynamics"
+      OR simulation
+      OR docking
       OR alphafold
       OR esmfold
-      OR rosettafold)
+      OR rosetta)
   chemrxiv:
     # 与 bioRxiv 同串（ChemRxiv Crossref prefix 10.26434）。chemRxiv 只有 Crossref，Europe PMC 不收录
     # （实测前缀 10.26434 无命中）→ 括号两段式无法严格。是唯一无 Europe PMC 覆盖的腿，
     # 边界短语在 Crossref 客户端会漏，但窗内近 0。用户拍板（2026-09-07）：维持两段式语义对齐、
-    # 接受噪声，每周 Zotero 筛。不能改平铺 DNF（Europe PMC 会拍平错乱）；改源码方向相反（客户端改严格=压缩超集）。
+    # 接受噪声，每周 Zotero 筛。不能改平铺 DNF（Europe PMC 会拍平错乱）；改源码方向相反（客户端改严格=压缩超集）
     query: >
       ("protein structure"
       OR "structure prediction"
       OR "protein design"
       OR "protein folding"
       OR "inverse folding"
-      OR "protein engineering")
+      OR "protein domain"
+      OR "domain architecture"
+      OR "fold recognition"
+      OR "homology modeling"
+      OR "backbone design"
+      OR "sequence design"
+      OR "structure design"
+      OR "protein conformation"
+      OR "conformational ensemble"
+      OR "drug design")
       AND
       ("deep learning"
       OR "machine learning"
@@ -154,6 +221,9 @@ platforms:
       OR generative
       OR "foundation model"
       OR "flow matching"
+      OR "molecular dynamics"
+      OR simulation
+      OR docking
       OR alphafold
       OR esmfold
-      OR rosettafold)
+      OR rosetta)
