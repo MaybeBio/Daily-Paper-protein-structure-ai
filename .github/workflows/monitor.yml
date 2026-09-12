@@ -2,7 +2,8 @@ name: literature-monitor
 
 on:
   schedule:
-    - cron: "23 9 * * 1"   # 每周一 09:23 UTC（避免整点拥挤）
+    - cron: "0 16 * * 0"
+      timezone: "Asia/Shanghai"
   workflow_dispatch: {}
 
 permissions:
