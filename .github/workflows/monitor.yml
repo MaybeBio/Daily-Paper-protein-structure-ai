@@ -2,7 +2,7 @@ name: literature-monitor
 
 on:
   schedule:
-    - cron: "0 16 * * 0"
+    - cron: "0 10 * * 0"
       timezone: "Asia/Shanghai"
   workflow_dispatch: {}
 
