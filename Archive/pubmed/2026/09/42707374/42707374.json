@@ -1,0 +1,278 @@
+{
+  "identity": {
+    "pmid": "42707374",
+    "doi": "10.1007/s40203-026-00727-z",
+    "title": "Computational prediction of flavonoid inhibitors targeting the infectious bronchitis virus spike protein through integrated virtual screening and molecular dynamics."
+  },
+  "content": {
+    "abstract": "Infectious bronchitis virus (IBV) remains a major threat to the poultry industry owing to its high transmissibility and the continuous emergence of antigenically diverse variants that compromise vaccine efficacy. The viral spike protein, which mediates host cell attachment and membrane fusion, represents an attractive target for antiviral intervention. In this study, a structure-based computational approach was employed to identify phytochemical inhibitors targeting the IBV spike protein. A curated library (PCLibVer2) comprising 2,400 phytochemicals derived from poultry-safe botanicals was subjected to hierarchical virtual screening using Glide against two receptor-binding domain-associated binding pockets. The three top-ranked lead phytochemicals were evaluated by three independent 100 ns molecular dynamics simulations, followed by trajectory-based Prime MM-GBSA binding free energy calculations and principal component analysis. All three phytochemicals exhibited favourable docking scores and stable protein-ligand interactions throughout the simulations. Molecular dynamics analyses demonstrated stable structural behaviour, persistent hydrogen-bond interactions, and reduced conformational sampling relative to the apo protein. MM-GBSA analysis predicted favourable binding free energies for all complexes, with Rutin exhibiting the strongest binding affinity at both binding pockets (- 50.07 +/- 13.14 and - 55.14 +/- 20.22 kcal/mol). Principal component analysis further showed that Rutin consistently produced the most compact conformational ensemble, indicating reduced protein flexibility. In silico ADMET analysis identified comparable pharmacokinetic profiles for the three lead phytochemicals. Collectively, these findings highlight the potential of flavonoid-based phytochemicals as natural inhibitors of IBV spike-mediated viral entry. This study provides a computational framework for the development of phytochemical-based interventions that may complement existing vaccination strategies and support efforts to reduce antibiotic use in poultry, pending experimental validation. SUPPLEMENTARY INFORMATION: The online version contains supplementary material available at https://doi.org/10.1007/s40203-026-00727-z.",
+    "keywords": [
+      "Flavonoids",
+      "Infectious bronchitis virus",
+      "Molecular docking",
+      "Molecular dynamics simulation",
+      "Phytochemicals",
+      "Poultry antiviral strategies"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Gul, Irfan",
+        "Bashir, Sadaf",
+        "Aman, Muttahir",
+        "Hassan, Amreena",
+        "Rather, Muzamil Ahmad",
+        "Sofi, Ubaid",
+        "Chikan, Naveed Anjum",
+        "Shabir, Nadeem"
+      ],
+      "short_names": [
+        "Gul I",
+        "Bashir S",
+        "Aman M",
+        "Hassan A",
+        "Rather MA",
+        "Sofi U",
+        "Chikan NA",
+        "Shabir N"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-6358-5251"
+      ],
+      "affiliations": [
+        "Division of Animal Biotechnology, Faculty of Veterinary Sciences and Animal Husbandry, Sher-e-Kashmir University of Agricultural Sciences and Technology, Shuhama, Kashmir, 190006 India. ROR: https://ror.org/00jgwn197. GRID: grid.444725.4. ISNI: 0000 0004 0500 6225",
+        "Division of Animal Biotechnology, Faculty of Veterinary Sciences and Animal Husbandry, Sher-e-Kashmir University of Agricultural Sciences and Technology, Shuhama, Kashmir, 190006 India. ROR: https://ror.org/00jgwn197. GRID: grid.444725.4. ISNI: 0000 0004 0500 6225",
+        "Division of Animal Biotechnology, Faculty of Veterinary Sciences and Animal Husbandry, Sher-e-Kashmir University of Agricultural Sciences and Technology, Shuhama, Kashmir, 190006 India. ROR: https://ror.org/00jgwn197. GRID: grid.444725.4. ISNI: 0000 0004 0500 6225",
+        "Department of Biotechnology, University of Kashmir, Kashmir, 190006 India. ROR: https://ror.org/032xfst36. GRID: grid.412997.0. ISNI: 0000 0001 2294 5433",
+        "Division of Animal Biotechnology, Faculty of Veterinary Sciences and Animal Husbandry, Sher-e-Kashmir University of Agricultural Sciences and Technology, Shuhama, Kashmir, 190006 India. ROR: https://ror.org/00jgwn197. GRID: grid.444725.4. ISNI: 0000 0004 0500 6225",
+        "Department of Biotechnology, University of Kashmir, Kashmir, 190006 India. ROR: https://ror.org/032xfst36. GRID: grid.412997.0. ISNI: 0000 0001 2294 5433",
+        "Division of Animal Biotechnology, Faculty of Veterinary Sciences and Animal Husbandry, Sher-e-Kashmir University of Agricultural Sciences and Technology, Shuhama, Kashmir, 190006 India. ROR: https://ror.org/00jgwn197. GRID: grid.444725.4. ISNI: 0000 0004 0500 6225",
+        "Division of Animal Biotechnology, Faculty of Veterinary Sciences and Animal Husbandry, Sher-e-Kashmir University of Agricultural Sciences and Technology, Shuhama, Kashmir, 190006 India. ROR: https://ror.org/00jgwn197. GRID: grid.444725.4. ISNI: 0000 0004 0500 6225",
+        "Department of Biotechnology, University of Kashmir, Kashmir, 190006 India. ROR: https://ror.org/032xfst36. GRID: grid.412997.0. ISNI: 0000 0001 2294 5433",
+        "Division of Computational Biology, Daskdan Innovations, PVT Ltd., Kashmir, 190006 India.",
+        "Division of Animal Biotechnology, Faculty of Veterinary Sciences and Animal Husbandry, Sher-e-Kashmir University of Agricultural Sciences and Technology, Shuhama, Kashmir, 190006 India. ROR: https://ror.org/00jgwn197. GRID: grid.444725.4. ISNI: 0000 0004 0500 6225"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Gul, Irfan",
+        "short_name": "Gul I",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Animal Biotechnology, Faculty of Veterinary Sciences and Animal Husbandry, Sher-e-Kashmir University of Agricultural Sciences and Technology, Shuhama, Kashmir, 190006 India."
+        ]
+      },
+      {
+        "full_name": "Bashir, Sadaf",
+        "short_name": "Bashir S",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Animal Biotechnology, Faculty of Veterinary Sciences and Animal Husbandry, Sher-e-Kashmir University of Agricultural Sciences and Technology, Shuhama, Kashmir, 190006 India."
+        ]
+      },
+      {
+        "full_name": "Aman, Muttahir",
+        "short_name": "Aman M",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Animal Biotechnology, Faculty of Veterinary Sciences and Animal Husbandry, Sher-e-Kashmir University of Agricultural Sciences and Technology, Shuhama, Kashmir, 190006 India.",
+          "Department of Biotechnology, University of Kashmir, Kashmir, 190006 India."
+        ]
+      },
+      {
+        "full_name": "Hassan, Amreena",
+        "short_name": "Hassan A",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Animal Biotechnology, Faculty of Veterinary Sciences and Animal Husbandry, Sher-e-Kashmir University of Agricultural Sciences and Technology, Shuhama, Kashmir, 190006 India.",
+          "Department of Biotechnology, University of Kashmir, Kashmir, 190006 India."
+        ]
+      },
+      {
+        "full_name": "Rather, Muzamil Ahmad",
+        "short_name": "Rather MA",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Animal Biotechnology, Faculty of Veterinary Sciences and Animal Husbandry, Sher-e-Kashmir University of Agricultural Sciences and Technology, Shuhama, Kashmir, 190006 India."
+        ]
+      },
+      {
+        "full_name": "Sofi, Ubaid",
+        "short_name": "Sofi U",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Animal Biotechnology, Faculty of Veterinary Sciences and Animal Husbandry, Sher-e-Kashmir University of Agricultural Sciences and Technology, Shuhama, Kashmir, 190006 India.",
+          "Department of Biotechnology, University of Kashmir, Kashmir, 190006 India."
+        ]
+      },
+      {
+        "full_name": "Chikan, Naveed Anjum",
+        "short_name": "Chikan NA",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Computational Biology, Daskdan Innovations, PVT Ltd., Kashmir, 190006 India."
+        ]
+      },
+      {
+        "full_name": "Shabir, Nadeem",
+        "short_name": "Shabir N",
+        "identifiers": [
+          "0000-0001-6358-5251"
+        ],
+        "affiliations": [
+          "Division of Animal Biotechnology, Faculty of Veterinary Sciences and Animal Husbandry, Sher-e-Kashmir University of Agricultural Sciences and Technology, Shuhama, Kashmir, 190006 India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "In silico pharmacology"
+    ],
+    "journal_abbrev": [
+      "In Silico Pharmacol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/08 12:33",
+    "fetched_at": "2026-09-13 13:07:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42707374",
+      "41084624",
+      "42043606",
+      "41780347",
+      "42707152",
+      "42651805",
+      "41552638",
+      "42234666",
+      "42254291",
+      "42254289",
+      "34169390",
+      "42549426",
+      "42542672",
+      "42393873",
+      "41280492",
+      "42112455",
+      "38115191",
+      "41938340",
+      "42141107",
+      "41652071",
+      "41621295",
+      "42708318",
+      "41484143",
+      "42295684",
+      "40945531",
+      "41282960",
+      "41140705",
+      "41461937",
+      "40632195",
+      "42614366",
+      "42376479",
+      "41184441",
+      "42708261",
+      "40125411",
+      "42011130",
+      "42390567",
+      "41693318",
+      "42672009",
+      "42694262",
+      "40865231",
+      "42012261",
+      "42510941",
+      "40596019",
+      "40047244",
+      "40657273",
+      "40291443",
+      "41887806",
+      "40093584",
+      "34443556",
+      "42353044",
+      "39890175",
+      "38732174",
+      "42344111",
+      "42412272",
+      "40685718",
+      "42561603",
+      "35728285",
+      "40520959",
+      "40737296",
+      "42344112",
+      "39777139",
+      "41872468",
+      "42707384",
+      "41045314",
+      "40132354",
+      "40261587",
+      "37112828",
+      "34033342",
+      "37925643",
+      "40126695",
+      "41704643",
+      "41244930",
+      "42118388",
+      "42418067",
+      "38050479",
+      "40836994",
+      "40308267",
+      "40973684",
+      "40273187",
+      "41654575",
+      "42332812",
+      "38520147",
+      "42648275",
+      "41654585",
+      "39282169",
+      "42696893",
+      "42515684",
+      "41224866",
+      "34306960",
+      "42511483",
+      "42453924",
+      "35163918",
+      "41226580",
+      "41113175",
+      "35335139",
+      "40616975",
+      "39774339",
+      "40593894",
+      "41552643",
+      "38919703"
+    ],
+    "review": [
+      "42707374"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://dx.doi.org/10.1007/s40203-026-00727-z",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-76",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

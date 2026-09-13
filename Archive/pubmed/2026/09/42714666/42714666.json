@@ -1,0 +1,279 @@
+{
+  "identity": {
+    "pmid": "42714666",
+    "doi": "10.1007/s00894-026-06923-0",
+    "title": "Molecular modeling design of antitrypanosomal pyrazolone derivatives targeting Chagas disease: QSAR, docking, molecular dynamics and free energy calculations."
+  },
+  "content": {
+    "abstract": "CONTEXT: Chagas disease, caused by T. cruzi, remains a neglected tropical disease with limited therapeutic options, underscoring the urgent need for novel antitrypanosomal agents. A computer-aided drug design (CADD) protocol was applied to investigate pyrazolone derivatives with reported antitrypanosomal activity and their putative interaction with cruzain (Cz), a cysteine protease essential for parasite survival. A 2D-QSAR model built from a curated set of 33 phenyl-dihydropyrazolone derivatives guided the design of four new candidates (LMM1-LMM4), which showed intermediate predicted antitrypanosomal activity within the chemical space of the original pyrazolone series. Molecular docking identified favorable binding within the Cz active site, with contacts at residues Ser61, Gly66, and Leu67. MD simulations indicated overall structural stability of the protein-ligand complexes and revealed ligand-dependent conformational behavior within the Cz binding site. MM/GBSA calculations suggested that van der Waals interactions are major contributors to the computed binding energies; however, the MM/GBSA ranking did not fully reproduce the phenotypic antitrypanosomal activity trend. Per-residue decomposition and free energy landscape analyses were therefore interpreted qualitatively, suggesting that contacts with S2/S3 subsite residues and conformational adaptability may contribute to Cz recognition but do not, alone, explain whole-cell potency. These findings support pyrazolones as antitrypanosomal scaffolds and provide structural hypotheses for future experimental validation against Cz. METHODS: Molecular geometries were optimized at the PM6 level (MOPAC2016); descriptors were calculated with ChemDes and UseGalaxy, selected via OPS and a genetic algorithm (QSARINS), and the QSAR model was built using PLS regression (QSAR modeling software). Molecular docking was performed with GOLD, FITTED, and AutoDock Vina 1.2.3 against Cz (PDB: 3KKU). ADMET properties were predicted using OSIRIS Property Explorer, SwissADME, and ADMET-AI. Partial atomic charges were derived at the HF/6-31G* level with RESP fitting (Gaussian 09); MD simulations (3 x 250 ns per system) were run with AMBER20 using GAFF/ff14SB force fields and TIP3P solvent. Binding free energies were calculated by MM/GBSA (MMPBSA.py).",
+    "keywords": [
+      "2D-QSAR",
+      "Chagas disease",
+      "Cruzain",
+      "Drug-likeness",
+      "MM/GBSA",
+      "Molecular dynamics",
+      "Pyrazolone derivatives"
+    ],
+    "mesh_terms": [
+      "Quantitative Structure-Activity Relationship",
+      "*Pyrazolones/chemistry/pharmacology",
+      "*Molecular Docking Simulation",
+      "*Molecular Dynamics Simulation",
+      "*Trypanocidal Agents/chemistry/pharmacology",
+      "*Drug Design",
+      "*Trypanosoma cruzi/drug effects",
+      "*Chagas Disease/drug therapy/parasitology",
+      "Cysteine Endopeptidases/chemistry/metabolism",
+      "Protozoan Proteins/chemistry/antagonists & inhibitors/metabolism",
+      "Binding Sites",
+      "Ligands",
+      "Thermodynamics",
+      "Catalytic Domain",
+      "Protein Binding"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Sousa, Karen Karla F",
+        "Barbosa, Ana Beatriz S",
+        "Cardoso, Fabio Jose B",
+        "Silva, Jose Rogerio A",
+        "Molfetta, Fabio A"
+      ],
+      "short_names": [
+        "Sousa KKF",
+        "Barbosa ABS",
+        "Cardoso FJB",
+        "Silva JRA",
+        "Molfetta FA"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-2310-5107",
+        "ORCID: 0000-0002-6773-6923"
+      ],
+      "affiliations": [
+        "Laboratorio de Modelagem Molecular, Instituto de Ciencias Exatas e Naturais, Universidade Federal do Para, Belem, 66075-110, Brazil.",
+        "Laboratorio de Modelagem Molecular, Instituto de Ciencias Exatas e Naturais, Universidade Federal do Para, Belem, 66075-110, Brazil.",
+        "Laboratorio de Modelagem Molecular, Instituto de Ciencias Exatas e Naturais, Universidade Federal do Para, Belem, 66075-110, Brazil.",
+        "Laboratory of Computer Modeling of Molecular Biosystems (CompMBio), Federal University of Para, Belem, 66075-110, Brazil. rogerio@ufpa.br.",
+        "Catalysis and Peptide Research Unit, University of KwaZulu-Natal, Durban, 4000, South Africa. rogerio@ufpa.br.",
+        "Laboratorio de Modelagem Molecular, Instituto de Ciencias Exatas e Naturais, Universidade Federal do Para, Belem, 66075-110, Brazil. fabioam@ufpa.br."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Sousa, Karen Karla F",
+        "short_name": "Sousa KKF",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratório de Modelagem Molecular, Instituto de Ciências Exatas e Naturais, Universidade Federal do Pará, Belém, 66075-110, Brazil."
+        ]
+      },
+      {
+        "full_name": "Barbosa, Ana Beatriz S",
+        "short_name": "Barbosa ABS",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratório de Modelagem Molecular, Instituto de Ciências Exatas e Naturais, Universidade Federal do Pará, Belém, 66075-110, Brazil."
+        ]
+      },
+      {
+        "full_name": "Cardoso, Fábio José B",
+        "short_name": "Cardoso FJB",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratório de Modelagem Molecular, Instituto de Ciências Exatas e Naturais, Universidade Federal do Pará, Belém, 66075-110, Brazil."
+        ]
+      },
+      {
+        "full_name": "Silva, José Rogério A",
+        "short_name": "Silva JRA",
+        "identifiers": [
+          "0000-0003-2310-5107"
+        ],
+        "affiliations": [
+          "Laboratory of Computer Modeling of Molecular Biosystems (CompMBio), Federal University of Pará, Belém, 66075-110, Brazil. rogerio@ufpa.br.",
+          "Catalysis and Peptide Research Unit, University of KwaZulu-Natal, Durban, 4000, South Africa. rogerio@ufpa.br."
+        ]
+      },
+      {
+        "full_name": "Molfetta, Fábio A",
+        "short_name": "Molfetta FA",
+        "identifiers": [
+          "0000-0002-6773-6923"
+        ],
+        "affiliations": [
+          "Laboratório de Modelagem Molecular, Instituto de Ciências Exatas e Naturais, Universidade Federal do Pará, Belém, 66075-110, Brazil. fabioam@ufpa.br."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of molecular modeling"
+    ],
+    "journal_abbrev": [
+      "J Mol Model"
+    ],
+    "pub_date": "2026 Sep 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/09 17:47",
+    "fetched_at": "2026-09-13 13:07:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42714666",
+      "28509592",
+      "30682119",
+      "39971997",
+      "42290031",
+      "42432433",
+      "42449968",
+      "42418033",
+      "39084432",
+      "27064715",
+      "42043606",
+      "28629155",
+      "28795372",
+      "41204893",
+      "33992862",
+      "27345756",
+      "36617352",
+      "39275072",
+      "37957896",
+      "42086017",
+      "40960400",
+      "42263497",
+      "29564808",
+      "23340525",
+      "20856868",
+      "35543430",
+      "22613098",
+      "26173110",
+      "15727867",
+      "19683450",
+      "37338041",
+      "41773296",
+      "33920961",
+      "39136604",
+      "42510696",
+      "29682904",
+      "40095214",
+      "38444393",
+      "37888814",
+      "38856753",
+      "19376735",
+      "41775123",
+      "42653975",
+      "32471245",
+      "34708659",
+      "33058457",
+      "30324898",
+      "26414241",
+      "27396731",
+      "27232454",
+      "42376479",
+      "25697479",
+      "41251882",
+      "38930828",
+      "40398358",
+      "41817950",
+      "39748011",
+      "38310575",
+      "42561603",
+      "30469538",
+      "38673904",
+      "22779790",
+      "35510607",
+      "37424193",
+      "28938860",
+      "38059345",
+      "40033499",
+      "30211406",
+      "40326027",
+      "30562700",
+      "37656159",
+      "40726304",
+      "38759776",
+      "41533263",
+      "32125159",
+      "27295485",
+      "33164832",
+      "24592161",
+      "41932198",
+      "41337159",
+      "30210004",
+      "37674430",
+      "42275761",
+      "15723522",
+      "23941500",
+      "27475533",
+      "31569301",
+      "42248340",
+      "38353497",
+      "25965914",
+      "39403785",
+      "38204222",
+      "28242550",
+      "24358778",
+      "22480344",
+      "39769245",
+      "28524659",
+      "30175693",
+      "41353744",
+      "42136309"
+    ],
+    "review": [
+      "42714666",
+      "42290031",
+      "37888814"
+    ],
+    "pmc": [
+      "13558299"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/chagasdisease.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Chagas Disease"
+      },
+      {
+        "url": "https://dx.doi.org/10.1007/s00894-026-06923-0",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-GZMA-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-76",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

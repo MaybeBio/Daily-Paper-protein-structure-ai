@@ -1,0 +1,299 @@
+{
+  "identity": {
+    "pmid": "42720486",
+    "doi": "10.1021/acs.jmedchem.6c01926",
+    "title": "HighMorph: De Novo Cyclic Peptide Sequence Design via Protein-Protein Interaction Recapitulation."
+  },
+  "content": {
+    "abstract": "Cyclic peptides have emerged as a compelling class of bioactive scaffolds, but de novo design of target-binding cyclic peptides from protein structures remains challenging. Here, we present HighMorph, an interaction-guided framework that combines protein-protein interaction information with artificial intelligence for rational cyclic peptide design. HighMorph integrates Monte Carlo tree search with a Transformer-based policy-value network to efficiently explore cyclic peptide sequence space, while incorporating explicit atomic-level hydrogen bond constraints extracted from reference protein-protein complexes to guide sequence optimization. The framework is systematically validated on two clinically relevant targets, programmed death-ligand 1 (PD-L1) and kallikrein-related peptidase 4 (KLK4). Notably, 33.3% and 40% of the generated candidates are active against PD-L1 and KLK4, respectively, with active cyclic peptides exhibiting micromolar binding affinities (approximately 10-6 M). These results validate our approach for cyclic peptide design. Additionally, interaction analysis provides insights for developing therapeutics targeting challenging protein interfaces.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Peptides, Cyclic/chemistry/metabolism/pharmacology/chemical synthesis",
+      "*Drug Design",
+      "Protein Binding",
+      "Monte Carlo Method",
+      "Models, Molecular",
+      "Humans",
+      "Amino Acid Sequence",
+      "*Kallikreins/metabolism/chemistry"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Lan, Minhui",
+        "Zhang, Chengyun",
+        "Wang, Wentong",
+        "Hu, Haomeng",
+        "Lin, Huitian",
+        "Cao, Sen",
+        "Guo, Jingjing",
+        "Duan, Hongliang"
+      ],
+      "short_names": [
+        "Lan M",
+        "Zhang C",
+        "Wang W",
+        "Hu H",
+        "Lin H",
+        "Cao S",
+        "Guo J",
+        "Duan H"
+      ],
+      "auids": [
+        "ORCID: 0009-0006-8862-0563",
+        "ORCID: 0000-0002-8499-5273",
+        "ORCID: 0009-0001-6897-7040",
+        "ORCID: 0009-0009-8779-7449",
+        "ORCID: 0000-0002-4632-4364",
+        "ORCID: 0000-0002-9194-0115"
+      ],
+      "affiliations": [
+        "College of Pharmaceutical Sciences, Zhejiang University of Technology, Hangzhou310014, China.",
+        "Faculty of Applied Sciences, Macao Polytechnic University, Macao999078China.",
+        "AI Department, Shenzhen Highslab Therapeutics. Inc, Shenzhen518000, China.",
+        "College of Pharmaceutical Sciences, Zhejiang University of Technology, Hangzhou310014, China.",
+        "College of Pharmaceutical Sciences, Zhejiang University of Technology, Hangzhou310014, China.",
+        "Faculty of Applied Sciences, Macao Polytechnic University, Macao999078China.",
+        "Faculty of Applied Sciences, Macao Polytechnic University, Macao999078China.",
+        "Faculty of Applied Sciences, Macao Polytechnic University, Macao999078China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Lan, Minhui",
+        "short_name": "Lan M",
+        "identifiers": [
+          "0009-0006-8862-0563"
+        ],
+        "affiliations": [
+          "College of Pharmaceutical Sciences, Zhejiang University of Technology, Hangzhou310014, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Chengyun",
+        "short_name": "Zhang C",
+        "identifiers": [
+          "0000-0002-8499-5273"
+        ],
+        "affiliations": [
+          "Faculty of Applied Sciences, Macao Polytechnic University, Macao999078China."
+        ]
+      },
+      {
+        "full_name": "Wang, Wentong",
+        "short_name": "Wang W",
+        "identifiers": [],
+        "affiliations": [
+          "AI Department, Shenzhen Highslab Therapeutics. Inc, Shenzhen518000, China."
+        ]
+      },
+      {
+        "full_name": "Hu, Haomeng",
+        "short_name": "Hu H",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmaceutical Sciences, Zhejiang University of Technology, Hangzhou310014, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Huitian",
+        "short_name": "Lin H",
+        "identifiers": [
+          "0009-0001-6897-7040"
+        ],
+        "affiliations": [
+          "College of Pharmaceutical Sciences, Zhejiang University of Technology, Hangzhou310014, China."
+        ]
+      },
+      {
+        "full_name": "Cao, Sen",
+        "short_name": "Cao S",
+        "identifiers": [
+          "0009-0009-8779-7449"
+        ],
+        "affiliations": [
+          "Faculty of Applied Sciences, Macao Polytechnic University, Macao999078China."
+        ]
+      },
+      {
+        "full_name": "Guo, Jingjing",
+        "short_name": "Guo J",
+        "identifiers": [
+          "0000-0002-4632-4364"
+        ],
+        "affiliations": [
+          "Faculty of Applied Sciences, Macao Polytechnic University, Macao999078China."
+        ]
+      },
+      {
+        "full_name": "Duan, Hongliang",
+        "short_name": "Duan H",
+        "identifiers": [
+          "0000-0002-9194-0115"
+        ],
+        "affiliations": [
+          "Faculty of Applied Sciences, Macao Polytechnic University, Macao999078China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of medicinal chemistry"
+    ],
+    "journal_abbrev": [
+      "J Med Chem"
+    ],
+    "pub_date": "2026 Sep 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/10 11:53",
+    "fetched_at": "2026-09-13 13:07:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42720486",
+      "40824037",
+      "40223692",
+      "31058493",
+      "40406858",
+      "42468337",
+      "41696819",
+      "42225940",
+      "41934387",
+      "42441251",
+      "33051202",
+      "40782270",
+      "25264829",
+      "41266029",
+      "40399308",
+      "26894578",
+      "41435973",
+      "36898348",
+      "42450332",
+      "31599007",
+      "41373467",
+      "12712499",
+      "25668361",
+      "28013146",
+      "42606067",
+      "26863382",
+      "16923020",
+      "39783893",
+      "28719188",
+      "11427046",
+      "33426882",
+      "37686057",
+      "41539507",
+      "17486664",
+      "42222300",
+      "35298817",
+      "41824911",
+      "28388463",
+      "25968458",
+      "33065433",
+      "19053244",
+      "39266056",
+      "41881211",
+      "15298179",
+      "38232955",
+      "22578098",
+      "34099674",
+      "38131333",
+      "33069067",
+      "15743195",
+      "29105934",
+      "30731167",
+      "24587223",
+      "41503904",
+      "25555728",
+      "34163753",
+      "25268696",
+      "29102725",
+      "39841846",
+      "7492543",
+      "40495275",
+      "25913771",
+      "11311745",
+      "7492542",
+      "33022847",
+      "42599668",
+      "41980672",
+      "33134275",
+      "11341843",
+      "41333850",
+      "40317592",
+      "18972044",
+      "22943434",
+      "41082435",
+      "35652781",
+      "26016940",
+      "15465056",
+      "26393374",
+      "28249193",
+      "8589245",
+      "18985310",
+      "40464341",
+      "33046654",
+      "37236147",
+      "15084118",
+      "15595835",
+      "39148280",
+      "1420959",
+      "29117896",
+      "41483313",
+      "42537265",
+      "34617942",
+      "7738606",
+      "37827517",
+      "25616331",
+      "21575663",
+      "40083048",
+      "41319044",
+      "25079086",
+      "24115455"
+    ],
+    "review": [
+      "42720486",
+      "42450332",
+      "31599007",
+      "33426882",
+      "28388463",
+      "25968458",
+      "38131333",
+      "42599668",
+      "28249193",
+      "40464341",
+      "25616331"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD274-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/jmcmar/article-lookup/doi/10.1021/acs.jmedchem.6c01926",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

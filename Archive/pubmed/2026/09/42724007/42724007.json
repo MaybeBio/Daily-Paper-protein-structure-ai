@@ -1,0 +1,308 @@
+{
+  "identity": {
+    "pmid": "42724007",
+    "doi": "10.34133/csbj.0179",
+    "title": "Multi-state Structure Prediction of G Protein-Coupled Receptor Proteins via Prompting on AlphaFold."
+  },
+  "content": {
+    "abstract": "G protein-coupled receptors (GPCRs), an essential family of transmembrane proteins, widely participate in signal transduction in organisms and have long been recognized as a major class of therapeutic targets. In structure-based drug design, high-resolution structures of GPCRs in both active and inactive states are essential for designing agonists and antagonists, respectively. However, obtaining experimental GPCR structures is costly, while homology modeling and artificial-intelligence-driven approaches including AlphaFold 2 and AlphaFold 3 often show reduced accuracy for active-state conformations. To address the above limitations, we propose PromptGPCR, an AlphaFold-based inference framework aiming to predict highly accurate structures of GPCRs in both active and inactive states. We provide AlphaFold-Multimer and AlphaFold 3 with biological sequences based on knowledge of structural biology as prompts to guide the models in the multi-state prediction task. Experimental results demonstrate that PromptGPCR can accurately predict active and inactive structures compared to baselines, suggesting its ability to provide structural hypotheses where state-resolved experimental structures are unavailable. Furthermore, PromptGPCR exhibits higher success rates in molecular docking than baselines, and this indicates that the predictions of PromptGPCR may have a certain degree of usability in downstream application scenarios involving specific GPCR conformational states.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Sun, Zhigang",
+        "Zhang, Tao",
+        "Zhang, Kexin",
+        "Pang, Anqi",
+        "Yu, Jiale",
+        "Zeng, Liting",
+        "Yang, Sibei",
+        "Zhao, Suwen",
+        "Zheng, Jie"
+      ],
+      "short_names": [
+        "Sun Z",
+        "Zhang T",
+        "Zhang K",
+        "Pang A",
+        "Yu J",
+        "Zeng L",
+        "Yang S",
+        "Zhao S",
+        "Zheng J"
+      ],
+      "auids": [
+        "ORCID: 0009-0007-6133-2243",
+        "ORCID: 0009-0007-9813-5956",
+        "ORCID: 0000-0002-8144-7351",
+        "ORCID: 0000-0001-5609-434X",
+        "ORCID: 0000-0001-6774-9786"
+      ],
+      "affiliations": [
+        "School of Information Science and Technology, ShanghaiTech University, Shanghai, China.",
+        "School of Information Science and Technology, ShanghaiTech University, Shanghai, China.",
+        "School of Information Science and Technology, ShanghaiTech University, Shanghai, China.",
+        "School of Information Science and Technology, ShanghaiTech University, Shanghai, China.",
+        "School of Information Science and Technology, ShanghaiTech University, Shanghai, China.",
+        "School of Life Science and Technology, ShanghaiTech University, Shanghai, China.",
+        "School of Computer Science and Engineering, Sun Yat-sen University, Guangzhou, China.",
+        "School of Life Science and Technology, ShanghaiTech University, Shanghai, China.",
+        "iHuman Institute, ShanghaiTech University, Shanghai, China.",
+        "School of Information Science and Technology, ShanghaiTech University, Shanghai, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Sun, Zhigang",
+        "short_name": "Sun Z",
+        "identifiers": [
+          "0009-0007-6133-2243"
+        ],
+        "affiliations": [
+          "School of Information Science and Technology, ShanghaiTech University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Tao",
+        "short_name": "Zhang T",
+        "identifiers": [
+          "0009-0007-9813-5956"
+        ],
+        "affiliations": [
+          "School of Information Science and Technology, ShanghaiTech University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Kexin",
+        "short_name": "Zhang K",
+        "identifiers": [],
+        "affiliations": [
+          "School of Information Science and Technology, ShanghaiTech University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Pang, Anqi",
+        "short_name": "Pang A",
+        "identifiers": [],
+        "affiliations": [
+          "School of Information Science and Technology, ShanghaiTech University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Jiale",
+        "short_name": "Yu J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Information Science and Technology, ShanghaiTech University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Zeng, Liting",
+        "short_name": "Zeng L",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Science and Technology, ShanghaiTech University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Sibei",
+        "short_name": "Yang S",
+        "identifiers": [
+          "0000-0002-8144-7351"
+        ],
+        "affiliations": [
+          "School of Computer Science and Engineering, Sun Yat-sen University, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Suwen",
+        "short_name": "Zhao S",
+        "identifiers": [
+          "0000-0001-5609-434X"
+        ],
+        "affiliations": [
+          "School of Life Science and Technology, ShanghaiTech University, Shanghai, China.",
+          "iHuman Institute, ShanghaiTech University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Zheng, Jie",
+        "short_name": "Zheng J",
+        "identifiers": [
+          "0000-0001-6774-9786"
+        ],
+        "affiliations": [
+          "School of Information Science and Technology, ShanghaiTech University, Shanghai, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Computational and structural biotechnology journal"
+    ],
+    "journal_abbrev": [
+      "Comput Struct Biotechnol J"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/11 11:38",
+    "fetched_at": "2026-09-13 13:07:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42724007",
+      "35510704",
+      "28964335",
+      "42475469",
+      "32901584",
+      "31408606",
+      "27028541",
+      "24041646",
+      "39881398",
+      "39137328",
+      "19447219",
+      "34979368",
+      "28699533",
+      "40472416",
+      "40610378",
+      "30265513",
+      "40658102",
+      "39337622",
+      "39643640",
+      "35945035",
+      "38352360",
+      "31985399",
+      "18638482",
+      "16485037",
+      "40476317",
+      "26072970",
+      "38212515",
+      "40440630",
+      "26042329",
+      "38131311",
+      "35282868",
+      "21920326",
+      "30989574",
+      "34907092",
+      "21605354",
+      "30039423",
+      "42093884",
+      "35778488",
+      "40496892",
+      "40149959",
+      "27492237",
+      "26978043",
+      "35769913",
+      "28347873",
+      "38034960",
+      "31855381",
+      "42425235",
+      "40285358",
+      "21337626",
+      "27332120",
+      "40076783",
+      "42300078",
+      "14626443",
+      "25537861",
+      "10911020",
+      "39497074",
+      "25506327",
+      "42677493",
+      "34302671",
+      "35140883",
+      "41825109",
+      "41074841",
+      "36619585",
+      "28967738",
+      "35762713",
+      "23912807",
+      "41326937",
+      "26928553",
+      "42492505",
+      "40973394",
+      "31693199",
+      "22275072",
+      "40286430",
+      "19756152",
+      "37693436",
+      "32168319",
+      "39209310",
+      "23042299",
+      "36686396",
+      "41885376",
+      "24158800",
+      "30311978",
+      "39298653",
+      "16787212",
+      "41209584",
+      "40815964",
+      "25950981",
+      "12382069",
+      "35677880",
+      "36865316",
+      "36711515",
+      "35073311",
+      "40663654",
+      "39337567",
+      "40424178",
+      "38100422",
+      "39110804",
+      "37546760",
+      "38139789",
+      "29306746"
+    ],
+    "review": [
+      "42724007",
+      "32901584",
+      "24041646",
+      "19447219",
+      "28699533",
+      "35282868",
+      "21920326",
+      "34907092",
+      "35778488",
+      "40149959",
+      "27492237",
+      "28347873",
+      "42425235",
+      "14626443",
+      "25537861",
+      "10911020",
+      "25506327",
+      "42677493",
+      "41825109",
+      "36619585",
+      "28967738",
+      "41326937",
+      "40973394",
+      "40286430",
+      "39209310",
+      "24158800",
+      "30311978",
+      "16787212",
+      "41209584",
+      "25950981",
+      "12382069",
+      "35677880"
+    ],
+    "pmc": [
+      "13558818"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

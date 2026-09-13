@@ -41,11 +41,11 @@
           [
             2026,
             9,
-            8
+            12
           ]
         ],
-        "date-time": "2026-09-08T06:08:55Z",
-        "timestamp": 1788847735502,
+        "date-time": "2026-09-12T09:07:10Z",
+        "timestamp": 1789204030645,
         "version": "build-2803163510"
       },
       "posted": {
@@ -58,7 +58,7 @@
         ]
       },
       "group-title": "Bioinformatics",
-      "reference-count": 0,
+      "reference-count": 31,
       "publisher": "openRxiv",
       "license": [
         {
@@ -210,7 +210,7 @@
           [
             2026,
             9,
-            7
+            11
           ]
         ]
       },
@@ -341,6 +341,197 @@
         }
       ],
       "member": "54368",
+      "reference": [
+        {
+          "key": "2026091112151721000_2026.09.06.749733v1.1",
+          "unstructured": "John Ingraham , Vikas Garg , Regina Barzilay , and Tommi Jaakkola . Generative models for graph-based protein design. Advances in neural information processing systems, 32, 2019."
+        },
+        {
+          "key": "2026091112151721000_2026.09.06.749733v1.2",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Chloe Hsu , Robert Verkuil , Jason Liu , Zeming Lin , Brian Hie , Tom Sercu , Adam Lerer , and Alexander Rives . Learning inverse folding from millions of predicted structures. In International conference on machine learning, pages 8946–8970. PMLR, 2022.",
+          "DOI": "10.1101/2022.04.10.487779"
+        },
+        {
+          "key": "2026091112151721000_2026.09.06.749733v1.3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.abn2100"
+        },
+        {
+          "key": "2026091112151721000_2026.09.06.749733v1.4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41586-023-05696-3"
+        },
+        {
+          "issue": "1",
+          "key": "2026091112151721000_2026.09.06.749733v1.5",
+          "first-page": "vbae202",
+          "article-title": "AntiFold: improved structure-based antibody design using inverse folding",
+          "volume": "5",
+          "year": "2025",
+          "journal-title": "Bioinformatics Advances"
+        },
+        {
+          "key": "2026091112151721000_2026.09.06.749733v1.6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.add2187"
+        },
+        {
+          "key": "2026091112151721000_2026.09.06.749733v1.7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41586-023-06415-8"
+        },
+        {
+          "key": "2026091112151721000_2026.09.06.749733v1.8",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Justas Dauparas , Gyu Rie Lee , Robert Pecoraro , Linna An , Ivan Anishchenko , Cameron Glasscock , and David Baker . Atomic context-conditioned protein sequence design using ligandmpnn. Nature Methods, pages 1–7, 2025.",
+          "DOI": "10.1038/s41592-025-02626-1"
+        },
+        {
+          "key": "2026091112151721000_2026.09.06.749733v1.9",
+          "unstructured": "Talal Widatalla , Richard W Shuai , Brian Hie , and Possu Huang . Sidechain conditioning and modeling for full-atom protein sequence design with fampnn. In Forty-second International Conference on Machine Learning, 2025."
+        },
+        {
+          "key": "2026091112151721000_2026.09.06.749733v1.10",
+          "unstructured": "Zhangyang Gao , Cheng Tan , Pablo Chacón , and Stan Z Li . Pifold: Toward effective and efficient protein inverse folding. arXiv preprint arXiv:2209.12643, 2022."
+        },
+        {
+          "key": "2026091112151721000_2026.09.06.749733v1.11",
+          "unstructured": "Hannes Stark , Bowen Jing , Chenyu Wang , Gabriele Corso , Bonnie Berger , Regina Barzilay , and Tommi Jaakkola . Dirichlet flow matching with applications to dna sequence design. arXiv preprint arXiv:2402.05841, 2024."
+        },
+        {
+          "key": "2026091112151721000_2026.09.06.749733v1.12",
+          "unstructured": "Pavel Avdeyev , Chenlai Shi , Yuhao Tan , Kseniia Dudnyk , and Jian Zhou . Dirichlet diffusion score model for biological sequence generation. In International Conference on Machine Learning, pages 1276–1301. PMLR, 2023."
+        },
+        {
+          "issue": "12",
+          "key": "2026091112151721000_2026.09.06.749733v1.13",
+          "doi-asserted-by": "crossref",
+          "first-page": "2577",
+          "DOI": "10.1002/bip.360221211",
+          "article-title": "Dictionary of protein secondary structure: pattern recognition of hydrogen-bonded and geometrical features",
+          "volume": "22",
+          "year": "1983",
+          "journal-title": "Biopolymers: Original Research on Biomolecules"
+        },
+        {
+          "key": "2026091112151721000_2026.09.06.749733v1.14",
+          "first-page": "500902",
+          "volume": "2022",
+          "year": "2022",
+          "journal-title": "Language models of protein sequences at the scale of evolution enable accurate structure prediction. BioRxiv"
+        },
+        {
+          "key": "2026091112151721000_2026.09.06.749733v1.15",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/gki524"
+        },
+        {
+          "key": "2026091112151721000_2026.09.06.749733v1.16",
+          "unstructured": "Peizhen Bai , Filip Miljković , Xianyuan Liu , Leonardo De Maria , Rebecca Croasdale-Wood , Owen Rackham , and Haiping Lu . Mask-prior-guided denoising diffusion improves inverse protein folding. Nature Machine Intelligence, pages 1–13, 2025."
+        },
+        {
+          "key": "2026091112151721000_2026.09.06.749733v1.17",
+          "first-page": "64331",
+          "article-title": "Proteingym: Large-scale benchmarks for protein fitness prediction and design",
+          "volume": "36",
+          "year": "2023",
+          "journal-title": "Advances in Neural Information Processing Systems"
+        },
+        {
+          "key": "2026091112151721000_2026.09.06.749733v1.18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/pro.519"
+        },
+        {
+          "key": "2026091112151721000_2026.09.06.749733v1.19",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.91.12.5426"
+        },
+        {
+          "key": "2026091112151721000_2026.09.06.749733v1.20",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Saro Passaro , Gabriele Corso , Jeremy Wohlwend , Mateo Reveiz , Stephan Thaler , Vignesh Ram Somnath , Noah Getz , Tally Portnoi , Julien Roy , Hannes Stark , et al. Boltz-2: Towards accurate and efficient binding affinity prediction. BioRxiv, 2025.",
+          "DOI": "10.1101/2025.06.14.659707"
+        },
+        {
+          "key": "2026091112151721000_2026.09.06.749733v1.21",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/NAR/GKAB1061"
+        },
+        {
+          "key": "2026091112151721000_2026.09.06.749733v1.22",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41586-023-06510-w"
+        },
+        {
+          "key": "2026091112151721000_2026.09.06.749733v1.23",
+          "unstructured": "Bowen Jing , Stephan Eismann , Patricia Suriana , Raphael JL Townshend , and Ron Dror . Learning from protein structure with geometric vector perceptrons. arXiv preprint arXiv:2009.01411, 2020."
+        },
+        {
+          "key": "2026091112151721000_2026.09.06.749733v1.24",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Michel van Kempen , Stephanie S Kim , Charlotte Tumescheit , Milot Mirdita , Cameron LM Gilchrist , Johannes Söding , and Martin Steinegger . Foldseek: fast and accurate protein structure search. Biorxiv, pages 2022–02, 2022.",
+          "DOI": "10.1101/2022.02.07.479398"
+        },
+        {
+          "key": "2026091112151721000_2026.09.06.749733v1.25",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Michael C. Jewett , Kara A. Calhoun , Alexei Voloshin , Jessica J. Wuu , and James R. Swartz . An integrated cell-free metabolic platform for protein production and synthetic biology. Molecular Systems Biology, 4:220, 2008.",
+          "DOI": "10.1038/msb.2008.57"
+        },
+        {
+          "key": "2026091112151721000_2026.09.06.749733v1.26",
+          "doi-asserted-by": "crossref",
+          "first-page": "8663",
+          "DOI": "10.1038/srep08663",
+          "article-title": "High-throughput preparation methods of crude extract for robust cell-free protein synthesis",
+          "volume": "5",
+          "year": "2015",
+          "journal-title": "Scientific Reports"
+        },
+        {
+          "issue": "7",
+          "key": "2026091112151721000_2026.09.06.749733v1.27",
+          "doi-asserted-by": "crossref",
+          "first-page": "2374",
+          "DOI": "10.1038/s41596-022-00799-z",
+          "article-title": "Rapid biosynthesis of glycoprotein therapeutics and vaccines from freeze-dried bacterial cell lysates",
+          "volume": "18",
+          "year": "2023",
+          "journal-title": "Nature Protocols"
+        },
+        {
+          "key": "2026091112151721000_2026.09.06.749733v1.28",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/bit.20026"
+        },
+        {
+          "key": "2026091112151721000_2026.09.06.749733v1.29",
+          "doi-asserted-by": "crossref",
+          "first-page": "3478",
+          "DOI": "10.1038/s41467-026-69605-8",
+          "article-title": "Design-driven optimization of low-cost reagent formulations for reproducible and high-yielding cell-free gene expression",
+          "volume": "17",
+          "year": "2026",
+          "journal-title": "Nature Communications"
+        },
+        {
+          "key": "2026091112151721000_2026.09.06.749733v1.30",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/scitranslmed.abn1252"
+        },
+        {
+          "key": "2026091112151721000_2026.09.06.749733v1.31",
+          "doi-asserted-by": "crossref",
+          "first-page": "3897",
+          "DOI": "10.1038/s41467-023-38965-w",
+          "article-title": "A rapid cell-free expression and screening platform for antibody discovery",
+          "volume": "14",
+          "year": "2023",
+          "journal-title": "Nature Communications"
+        }
+      ],
       "link": [
         {
           "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.09.06.749733",
@@ -354,13 +545,13 @@
           [
             2026,
             9,
-            8
+            12
           ]
         ],
-        "date-time": "2026-09-08T06:00:19Z",
-        "timestamp": 1788847219000
+        "date-time": "2026-09-12T08:05:15Z",
+        "timestamp": 1789200315000
       },
-      "score": 86.33371,
+      "score": 86.3547,
       "resource": {
         "primary": {
           "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.09.06.749733"
@@ -375,7 +566,7 @@
           ]
         ]
       },
-      "references-count": 0,
+      "references-count": 31,
       "URL": "https://doi.org/10.64898/2026.09.06.749733",
       "published": {
         "date-parts": [

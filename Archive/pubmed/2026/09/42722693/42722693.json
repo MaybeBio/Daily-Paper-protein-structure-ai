@@ -1,0 +1,335 @@
+{
+  "identity": {
+    "pmid": "42722693",
+    "doi": "10.1038/s41467-026-77556-3",
+    "title": "Structural basis of active state coupling of metabotropic glutamate receptor 8 to beta-arrestins."
+  },
+  "content": {
+    "abstract": "Metabotropic glutamate receptors (mGluRs) are prototypical, dimeric family C G protein-coupled receptors (GPCR) that perform crucial modulatory roles throughout the nervous system. While mGluR activation and signaling through G proteins has been studied extensively, how these receptors interact with and are desensitized by beta-arrestins (beta-arrs) is not well understood. Here, we use an integrative biophysical and structural approach to probe the coupling of mGluR8 and beta-arrs. Using negative stain electron microscopy (EM), we identify tail- and core-bound orientations and stoichiometries of mGluR8/beta-arr complexes. Cryo-EM structures of mGluR8 alone or bound to either G proteins or beta-arr1 reveal mGluR8 active states with transducer-specific differences. The mGluR8/beta-arr structure shows a distinct complex orientation compared to other GPCR/beta-arr structures which supports a steric mechanism of mGluR desensitization involving interactions with both subunits and the lipid bilayer. Coupling of mGluR8 to beta-arr1 in an active-like conformation is verified by live-cell and single molecule FRET analysis. Finally, molecular dynamics simulations further define the positioning and dynamics of mGluR8-bound beta-arr1 and the importance of critical mGluR8 residues for stabilizing beta-arr1 complexes. Together, our data provide a framework for agonist-driven family C GPCR/beta-arr coupling.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Receptors, Metabotropic Glutamate/metabolism/chemistry/genetics/ultrastructure",
+      "Cryoelectron Microscopy",
+      "*beta-Arrestins/metabolism/chemistry/ultrastructure/genetics",
+      "Humans",
+      "Protein Binding",
+      "Animals",
+      "Models, Molecular",
+      "Protein Conformation",
+      "HEK293 Cells"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Marx, Dagan C",
+        "Huynh, Kevin",
+        "Gonzalez-Hernandez, Alberto J",
+        "Strauss, Alexa",
+        "Rico, Carlos",
+        "Gallo, Pamela N",
+        "Sharghi Moshtaghin, Sheida",
+        "Arefin, Anisul",
+        "Broichhagen, Johannes",
+        "Eliezer, David",
+        "Khelashvili, George",
+        "Levitz, Joshua"
+      ],
+      "short_names": [
+        "Marx DC",
+        "Huynh K",
+        "Gonzalez-Hernandez AJ",
+        "Strauss A",
+        "Rico C",
+        "Gallo PN",
+        "Sharghi Moshtaghin S",
+        "Arefin A",
+        "Broichhagen J",
+        "Eliezer D",
+        "Khelashvili G",
+        "Levitz J"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-2817-2475",
+        "ORCID: 0000-0001-5485-5395",
+        "ORCID: 0000-0003-3084-6595",
+        "ORCID: 0000-0002-1311-7537",
+        "ORCID: 0000-0001-7235-8579",
+        "ORCID: 0000-0002-8169-6323"
+      ],
+      "affiliations": [
+        "Department of Biochemistry and Biophysics, Weill Cornell Medicine, New York, NY, USA.",
+        "Department of Biochemistry and Biophysics, Weill Cornell Medicine, New York, NY, USA.",
+        "Department of Biochemistry and Biophysics, Weill Cornell Medicine, New York, NY, USA.",
+        "Department of Biochemistry and Biophysics, Weill Cornell Medicine, New York, NY, USA.",
+        "Tri-Institutional Program in Chemical Biology, New York, NY, USA.",
+        "Department of Biochemistry and Biophysics, Weill Cornell Medicine, New York, NY, USA.",
+        "Department of Biochemistry and Biophysics, Weill Cornell Medicine, New York, NY, USA.",
+        "Department of Biochemistry and Biophysics, Weill Cornell Medicine, New York, NY, USA.",
+        "Department of Biochemistry and Biophysics, Weill Cornell Medicine, New York, NY, USA.",
+        "Leibniz-Forschungsinstitut fur Molekulare Pharmakologie (FMP), Berlin, Germany.",
+        "Department of Biochemistry and Biophysics, Weill Cornell Medicine, New York, NY, USA.",
+        "Tri-Institutional Program in Chemical Biology, New York, NY, USA.",
+        "Department of Systems and Computational Biomedicine, Weill Cornell Medicine, New York, NY, USA.",
+        "Institute of Computational Biomedicine, Weill Cornell Medicine, New York, NY, USA.",
+        "Department of Biochemistry and Biophysics, Weill Cornell Medicine, New York, NY, USA. jtl2003@med.cornell.edu.",
+        "Tri-Institutional Program in Chemical Biology, New York, NY, USA. jtl2003@med.cornell.edu.",
+        "Department of Psychiatry, Weill Cornell Medicine, New York, NY, USA. jtl2003@med.cornell.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Marx, Dagan C",
+        "short_name": "Marx DC",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Biophysics, Weill Cornell Medicine, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Huynh, Kevin",
+        "short_name": "Huynh K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Biophysics, Weill Cornell Medicine, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Gonzalez-Hernandez, Alberto J",
+        "short_name": "Gonzalez-Hernandez AJ",
+        "identifiers": [
+          "0000-0002-2817-2475"
+        ],
+        "affiliations": [
+          "Department of Biochemistry and Biophysics, Weill Cornell Medicine, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Strauss, Alexa",
+        "short_name": "Strauss A",
+        "identifiers": [
+          "0000-0001-5485-5395"
+        ],
+        "affiliations": [
+          "Department of Biochemistry and Biophysics, Weill Cornell Medicine, New York, NY, USA.",
+          "Tri-Institutional Program in Chemical Biology, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Rico, Carlos",
+        "short_name": "Rico C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Biophysics, Weill Cornell Medicine, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Gallo, Pamela N",
+        "short_name": "Gallo PN",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Biophysics, Weill Cornell Medicine, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Sharghi Moshtaghin, Sheida",
+        "short_name": "Sharghi Moshtaghin S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Biophysics, Weill Cornell Medicine, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Arefin, Anisul",
+        "short_name": "Arefin A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Biophysics, Weill Cornell Medicine, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Broichhagen, Johannes",
+        "short_name": "Broichhagen J",
+        "identifiers": [
+          "0000-0003-3084-6595"
+        ],
+        "affiliations": [
+          "Leibniz-Forschungsinstitut für Molekulare Pharmakologie (FMP), Berlin, Germany."
+        ]
+      },
+      {
+        "full_name": "Eliezer, David",
+        "short_name": "Eliezer D",
+        "identifiers": [
+          "0000-0002-1311-7537"
+        ],
+        "affiliations": [
+          "Department of Biochemistry and Biophysics, Weill Cornell Medicine, New York, NY, USA.",
+          "Tri-Institutional Program in Chemical Biology, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Khelashvili, George",
+        "short_name": "Khelashvili G",
+        "identifiers": [
+          "0000-0001-7235-8579"
+        ],
+        "affiliations": [
+          "Department of Systems and Computational Biomedicine, Weill Cornell Medicine, New York, NY, USA.",
+          "Institute of Computational Biomedicine, Weill Cornell Medicine, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Levitz, Joshua",
+        "short_name": "Levitz J",
+        "identifiers": [
+          "0000-0002-8169-6323"
+        ],
+        "affiliations": [
+          "Department of Biochemistry and Biophysics, Weill Cornell Medicine, New York, NY, USA. jtl2003@med.cornell.edu.",
+          "Tri-Institutional Program in Chemical Biology, New York, NY, USA. jtl2003@med.cornell.edu.",
+          "Department of Psychiatry, Weill Cornell Medicine, New York, NY, USA. jtl2003@med.cornell.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Sep 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/11 05:36",
+    "fetched_at": "2026-09-13 13:07:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42722693",
+      "39975168",
+      "42722688",
+      "38055809",
+      "40972528",
+      "25762450",
+      "42343124",
+      "31740855",
+      "40050438",
+      "33605032",
+      "26621121",
+      "38985766",
+      "33421644",
+      "39609406",
+      "27405242",
+      "23420844",
+      "39090128",
+      "34469715",
+      "11723231",
+      "42463693",
+      "33880992",
+      "32169216",
+      "31530642",
+      "41152269",
+      "22988116",
+      "32019899",
+      "26258295",
+      "31855381",
+      "32555462",
+      "25043026",
+      "41803130",
+      "34576210",
+      "36335829",
+      "15870073",
+      "18315847",
+      "15817468",
+      "9473604",
+      "34135510",
+      "25193666",
+      "42034616",
+      "28223524",
+      "42430471",
+      "33690974",
+      "33621418",
+      "39763753",
+      "42115176",
+      "18445134",
+      "12176073",
+      "28363980",
+      "27499021",
+      "42115346",
+      "22584219",
+      "33398167",
+      "31945772",
+      "16787923",
+      "16144832",
+      "42330960",
+      "24148810",
+      "39565314",
+      "32692555",
+      "33910009",
+      "15447681",
+      "32376687",
+      "15755905",
+      "17855348",
+      "30919359",
+      "42475469",
+      "12829438",
+      "39094559",
+      "35275053",
+      "29044966",
+      "25934394",
+      "11133983",
+      "35275055",
+      "37146613",
+      "12519791",
+      "32413442",
+      "31553900",
+      "42696580",
+      "12473660",
+      "9016353",
+      "37645938",
+      "11880656",
+      "16574233",
+      "29146594",
+      "40442125",
+      "30919352",
+      "20826542",
+      "37774973",
+      "25503927",
+      "21672544",
+      "15623786",
+      "11279203",
+      "40773476",
+      "31804469",
+      "23169816",
+      "23604254",
+      "34793198",
+      "41980950",
+      "12668664"
+    ],
+    "review": [
+      "42722693",
+      "33421644",
+      "33690974",
+      "33621418",
+      "12176073",
+      "35275053",
+      "16574233"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

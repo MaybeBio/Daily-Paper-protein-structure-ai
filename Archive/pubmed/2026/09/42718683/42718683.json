@@ -1,0 +1,221 @@
+{
+  "identity": {
+    "pmid": "42718683",
+    "doi": "10.3389/fdgth.2026.1845955",
+    "title": "Deep DNA and protein level feature integration for robust clinical variant interpretation using probabilistic gradient boosting."
+  },
+  "content": {
+    "abstract": "A major challenge in clinical genomics is to classify genetic variations correctly, since it directly affects disease diagnosis and personal care. The existing methods tend to be based on the combination of different factors, such as protein structure, population frequencies, phenotypic annotations, and sequence conservation. Nevertheless, these methods often cannot be used to achieve the necessary interpretability, quantify uncertainty, and address rare cases. This paper presents a probabilistic gradient boosting model on variant pathogenicity prediction. The suggested framework applies biological characteristics at both level of DNA and protein levels while also scaling the level of uncertainty in clinical decision making. Our machine learning aims to solve the issues of variant interpretation by managing the features and through probability-based pathogenicity prediction. The framework formulation is aimed at generalizing over various datasets and minimizing overfitting. At the same time, it can ensure reasonable performance to facilitate clinical experiments. The model has also been tested on three standard datasets and demonstrated to be more predictive of the pathogenic effect of variants, in comparison with a variety of existing tools. The probabilistic gradient boosting model proposed had ROC AUC values of 0.9293, 0.9610, and 0.9646 on ClinVar variants, GRCh37, and GRCh38 human genome respectively. Furthermore, the dataset was ensured to include both exonic and intronic variants, and Variants of Uncertain Significance were also taken into consideration for Performance Testing. Through this it also aims to provide better clinical significance which will lead to a good interpretable tool for priority of variants for a large variety of disease conditions.",
+    "keywords": [
+      "ClinVar",
+      "clinical genomics",
+      "probabilistic gradient boosting",
+      "protein structure",
+      "variant interpretation",
+      "variant pathogenicity"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Karthik, V",
+        "Prejesh, S",
+        "Kudale, Sumedh Deepak",
+        "OmKumar, Chandra Umakanthan"
+      ],
+      "short_names": [
+        "Karthik V",
+        "Prejesh S",
+        "Kudale SD",
+        "OmKumar CU"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Computer Science and Engineering, Vellore Institute of Technology, Chennai, India.",
+        "School of Computer Science and Engineering, Vellore Institute of Technology, Chennai, India.",
+        "School of Computer Science and Engineering, Vellore Institute of Technology, Chennai, India.",
+        "School of Computer Science and Engineering, Vellore Institute of Technology, Chennai, India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Karthik, V",
+        "short_name": "Karthik V",
+        "identifiers": [],
+        "affiliations": [
+          "School of Computer Science and Engineering, Vellore Institute of Technology, Chennai, India."
+        ]
+      },
+      {
+        "full_name": "Prejesh, S",
+        "short_name": "Prejesh S",
+        "identifiers": [],
+        "affiliations": [
+          "School of Computer Science and Engineering, Vellore Institute of Technology, Chennai, India."
+        ]
+      },
+      {
+        "full_name": "Kudale, Sumedh Deepak",
+        "short_name": "Kudale SD",
+        "identifiers": [],
+        "affiliations": [
+          "School of Computer Science and Engineering, Vellore Institute of Technology, Chennai, India."
+        ]
+      },
+      {
+        "full_name": "OmKumar, Chandra Umakanthan",
+        "short_name": "OmKumar CU",
+        "identifiers": [],
+        "affiliations": [
+          "School of Computer Science and Engineering, Vellore Institute of Technology, Chennai, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in digital health"
+    ],
+    "journal_abbrev": [
+      "Front Digit Health"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/10 11:54",
+    "fetched_at": "2026-09-13 13:07:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42718683",
+      "42475469",
+      "42614771",
+      "41508098",
+      "42045441",
+      "41781977",
+      "32282466",
+      "40931232",
+      "41901583",
+      "42177353",
+      "40632807",
+      "42242678",
+      "42199731",
+      "41155097",
+      "40251830",
+      "41072899",
+      "40205335",
+      "40246288",
+      "38627847",
+      "35182233",
+      "38048895",
+      "39469763",
+      "42553427",
+      "35543671",
+      "42574277",
+      "36575831",
+      "41154264",
+      "33586368",
+      "41141684",
+      "36305854",
+      "41688057",
+      "33761318",
+      "35940520",
+      "42661945",
+      "41957161",
+      "39085881",
+      "42536998",
+      "40251429",
+      "41606056",
+      "42304195",
+      "38575818",
+      "40930399",
+      "35143088",
+      "38309959",
+      "40797289",
+      "30937429",
+      "39333267",
+      "42045389",
+      "42481813",
+      "40397311",
+      "30220433",
+      "42510946",
+      "41888534",
+      "39440667",
+      "42506358",
+      "42724333",
+      "41368432",
+      "34411772",
+      "41245897",
+      "41124652",
+      "35180781",
+      "38284225",
+      "42171127",
+      "37895222",
+      "36593954",
+      "41749231",
+      "36321557",
+      "25542617",
+      "42380674",
+      "38370976",
+      "41000707",
+      "37030591",
+      "36716986",
+      "41687013",
+      "40759979",
+      "41606475",
+      "38509596",
+      "42556139",
+      "41687774",
+      "29914921",
+      "41772529",
+      "41867208",
+      "37645797",
+      "40416619",
+      "41991376",
+      "42106717",
+      "41263939",
+      "41822751",
+      "29308445",
+      "37817060",
+      "39852553",
+      "42129635",
+      "41027023",
+      "33046849",
+      "41988296",
+      "41904679",
+      "41912385",
+      "42546502",
+      "42510858",
+      "42200208"
+    ],
+    "review": [
+      "42718683",
+      "36321557",
+      "25542617"
+    ],
+    "pmc": [
+      "13553750"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.3389/fdgth.2026.1845955",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

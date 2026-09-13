@@ -1,0 +1,304 @@
+{
+  "identity": {
+    "pmid": "42715962",
+    "doi": "10.1021/acs.jafc.6c05159",
+    "title": "Structural Characterization and Engineering of a GH134 beta-Mannanase from Aspergillus nidulans for Enhancement of Activity and Stability."
+  },
+  "content": {
+    "abstract": "Mannans are abundant plant hemicelluloses, and endo-beta-mannanases are important biocatalysts for their conversion into functional manno-oligosaccharides. Here, we report the structural and functional characterization of a glycoside hydrolase family 134 beta-mannanase from Aspergillus nidulans (AnGH134) and a structure-guided engineering strategy to improve its performance on locust bean gum. The 1.75 A crystal structure reveals the conserved lysozyme-like fold of GH134 enzymes and supports an inverting catalytic mechanism with Glu43 and Asp55 as the putative catalytic residues. Docking, mutational, and molecular dynamics analyses indicate that AnGH134 uses an extended substrate-binding groove and that groove-exit residues and the C-terminal region contribute to productive catalysis. Guided by these findings, N-terminal fusion of CBM10 enhanced catalytic efficiency and thermal stability, whereas C-terminal fusion was detrimental. These results provide a framework for engineering GH134 mannanases.",
+    "keywords": [
+      "CBM",
+      "GH134",
+      "crystallography",
+      "mannanase",
+      "protein engineering"
+    ],
+    "mesh_terms": [
+      "*Aspergillus nidulans/enzymology/chemistry/genetics",
+      "*beta-Mannosidase/chemistry/genetics/metabolism",
+      "Protein Engineering",
+      "Enzyme Stability",
+      "*Fungal Proteins/chemistry/genetics/metabolism",
+      "Substrate Specificity",
+      "Biocatalysis",
+      "Mannans/metabolism",
+      "Protein Conformation",
+      "Kinetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Sheng-Chia",
+        "Kuo, Po-Chih",
+        "Chen, Wen-Ming",
+        "Sheu, Shih-Yi",
+        "Huang, Yu-Bin",
+        "Huang, Cheng-Yang",
+        "Chien, I-Weh",
+        "Lee, Tzong-Huei",
+        "Hsu, Chun-Hua"
+      ],
+      "short_names": [
+        "Chen SC",
+        "Kuo PC",
+        "Chen WM",
+        "Sheu SY",
+        "Huang YB",
+        "Huang CY",
+        "Chien IW",
+        "Lee TH",
+        "Hsu CH"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-8036-7563",
+        "ORCID: 0000-0002-0008-7383"
+      ],
+      "affiliations": [
+        "Department of Agricultural Chemistry, National Taiwan University, Taipei106319, Taiwan.",
+        "Department of Seafood Science, National Kaohsiung University of Science and Technology, Kaohsiung811213, Taiwan.",
+        "Department of Agricultural Chemistry, National Taiwan University, Taipei106319, Taiwan.",
+        "Department of Seafood Science, National Kaohsiung University of Science and Technology, Kaohsiung811213, Taiwan.",
+        "Department of Marine Biotechnology, National Kaohsiung University of Science and Technology, Kaohsiung811213, Taiwan.",
+        "Department of Seafood Science, National Kaohsiung University of Science and Technology, Kaohsiung811213, Taiwan.",
+        "Department of Agricultural Chemistry, National Taiwan University, Taipei106319, Taiwan.",
+        "Department of Agricultural Chemistry, National Taiwan University, Taipei106319, Taiwan.",
+        "Institute of Fisheries Sciences, National Taiwan University, Taipei106319, Taiwan.",
+        "Department of Life Science, College of Life Science, National Taiwan University, Taipei106319, Taiwan.",
+        "Center for Biotechnology, National Taiwan University, Taipei106319, Taiwan.",
+        "Department of Agricultural Chemistry, National Taiwan University, Taipei106319, Taiwan.",
+        "Institute of Biochemical Sciences, National Taiwan University, Taipei106319, Taiwan.",
+        "Genome and Systems Biology Degree Program, National Taiwan University and Academia Sinica, Taipei106319, Taiwan.",
+        "Center for Computational and Systems Biology, National Taiwan University, Taipei106319, Taiwan."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Sheng-Chia",
+        "short_name": "Chen SC",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Agricultural Chemistry, National Taiwan University, Taipei106319, Taiwan.",
+          "Department of Seafood Science, National Kaohsiung University of Science and Technology, Kaohsiung811213, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Kuo, Po-Chih",
+        "short_name": "Kuo PC",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Agricultural Chemistry, National Taiwan University, Taipei106319, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Chen, Wen-Ming",
+        "short_name": "Chen WM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Seafood Science, National Kaohsiung University of Science and Technology, Kaohsiung811213, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Sheu, Shih-Yi",
+        "short_name": "Sheu SY",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Marine Biotechnology, National Kaohsiung University of Science and Technology, Kaohsiung811213, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Huang, Yu-Bin",
+        "short_name": "Huang YB",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Seafood Science, National Kaohsiung University of Science and Technology, Kaohsiung811213, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Huang, Cheng-Yang",
+        "short_name": "Huang CY",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Agricultural Chemistry, National Taiwan University, Taipei106319, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Chien, I-Weh",
+        "short_name": "Chien IW",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Agricultural Chemistry, National Taiwan University, Taipei106319, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Lee, Tzong-Huei",
+        "short_name": "Lee TH",
+        "identifiers": [
+          "0000-0001-8036-7563"
+        ],
+        "affiliations": [
+          "Institute of Fisheries Sciences, National Taiwan University, Taipei106319, Taiwan.",
+          "Department of Life Science, College of Life Science, National Taiwan University, Taipei106319, Taiwan.",
+          "Center for Biotechnology, National Taiwan University, Taipei106319, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Hsu, Chun-Hua",
+        "short_name": "Hsu CH",
+        "identifiers": [
+          "0000-0002-0008-7383"
+        ],
+        "affiliations": [
+          "Department of Agricultural Chemistry, National Taiwan University, Taipei106319, Taiwan.",
+          "Institute of Biochemical Sciences, National Taiwan University, Taipei106319, Taiwan.",
+          "Genome and Systems Biology Degree Program, National Taiwan University and Academia Sinica, Taipei106319, Taiwan.",
+          "Center for Computational and Systems Biology, National Taiwan University, Taipei106319, Taiwan."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of agricultural and food chemistry"
+    ],
+    "journal_abbrev": [
+      "J Agric Food Chem"
+    ],
+    "pub_date": "2026 Sep 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/09 23:36",
+    "fetched_at": "2026-09-13 13:07:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42715962",
+      "26385921",
+      "25348022",
+      "27773606",
+      "26777252",
+      "29871927",
+      "32665004",
+      "33838183",
+      "31435842",
+      "29550433",
+      "42561523",
+      "26215338",
+      "42677620",
+      "21867780",
+      "29997257",
+      "25659626",
+      "28105485",
+      "33865894",
+      "26678079",
+      "24021641",
+      "27373078",
+      "25372687",
+      "33032458",
+      "29305697",
+      "26616977",
+      "30518205",
+      "26558435",
+      "27233126",
+      "27872187",
+      "41980643",
+      "19884778",
+      "24493565",
+      "29153955",
+      "19912637",
+      "20541570",
+      "12523968",
+      "42473898",
+      "27836790",
+      "18239434",
+      "25104029",
+      "25487894",
+      "27702490",
+      "40994130",
+      "31000630",
+      "20030048",
+      "28220352",
+      "27038954",
+      "18998121",
+      "30215129",
+      "26921423",
+      "34726170",
+      "36680817",
+      "27542747",
+      "42133002",
+      "39680639",
+      "36322419",
+      "18799462",
+      "35708079",
+      "24570006",
+      "38632679",
+      "24480109",
+      "29738194",
+      "22225502",
+      "27447091",
+      "39098698",
+      "24950755",
+      "25082572",
+      "32146937",
+      "22265897",
+      "41491408",
+      "30037547",
+      "23741390",
+      "27739373",
+      "18455734",
+      "30797481",
+      "29680901",
+      "19129644",
+      "29028116",
+      "15014076",
+      "25868895",
+      "37409813",
+      "24116166",
+      "19787349",
+      "31945375",
+      "21436878",
+      "12523937",
+      "40421474",
+      "29563492",
+      "41375162",
+      "31871050",
+      "23965285",
+      "20380743",
+      "38885857",
+      "19441796",
+      "35452491",
+      "28712957",
+      "23090396",
+      "30098601",
+      "30783168",
+      "30078113"
+    ],
+    "review": [
+      "42715962",
+      "33032458",
+      "27836790",
+      "20030048"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/jafcau/article-lookup/doi/10.1021/acs.jafc.6c05159",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

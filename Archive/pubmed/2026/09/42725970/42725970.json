@@ -1,0 +1,255 @@
+{
+  "identity": {
+    "pmid": "42725970",
+    "doi": "10.1021/acsinfecdis.6c00512",
+    "title": "Deciphering the Role of the Nonactive Site Ancillary Residues in Maintaining the Activity and Substrate Specificity of the OXA-232 beta-Lactamase."
+  },
+  "content": {
+    "abstract": "OXA-232, an OXA-48 - like carbapenemase stands among newly identified beta-lactamases that causes of the extensive of beta-lactam resistance. While active-site residues are well characterized, the contributions of conserved nonactive-site residues in exerting enzymatic activity remain unexplored, limiting our understanding about the roles of these residues in the overall OXA-232 function. To address these gaps, the conserved residues S118, V120, L158, and D159 of OXA-232 positioned adjacent to the active-site motifs and within the Omega-loop were substituted with alanine. Substitutions of S118A and D159A rendered the expressing cells susceptible to penicillins, cephalosporins, and carbapenems, whereas the cells harboring OXA-232V120A and OXA-232L158A exhibited substrate-selective susceptibility changes. Kinetic analysis with purified proteins revealed the reduction in catalytic efficiency of all the mutants compared to wild-type protein. Though the L158A and D159A mutated proteins become deacylation-deficient, the mutations S118A and V120A exhibited selective acylation defects without trapping intermediates. It is evident from circular dichroism spectroscopy and molecular dynamics simulations that OXA-232S118A, OXA-232V120A, OXA-232L158A and OXA-232D159A nearly retained their secondary structures and compactness. Interestingly, bicarbonate supplementation partially rescued the lost activities in soluble mutants, underscoring the carbamylation dependence. Taken together, these findings establish S118 and D159 as essential for core catalysis and structural integrity, with V120 and L158 modulating substrate-specific turnover and orientation. The current study reappraised the mechanistic insights of OXA-48-like carbapenemases, providing significant resources in rationally designing future therapeutics to combat carbapenem resistance.",
+    "keywords": [
+      "AMR mechanism",
+      "OXA-type beta-lactamase",
+      "antimicrobial resistance",
+      "carbapenemase",
+      "enzymatic performance",
+      "protein structure-function",
+      "Omega-loop",
+      "beta-lactam antibiotics"
+    ],
+    "mesh_terms": [
+      "*beta-Lactamases/metabolism/genetics/chemistry",
+      "Substrate Specificity",
+      "Catalytic Domain",
+      "Anti-Bacterial Agents/pharmacology",
+      "Carbapenems/pharmacology",
+      "Kinetics",
+      "Escherichia coli/genetics/enzymology/drug effects",
+      "Amino Acid Substitution",
+      "Microbial Sensitivity Tests",
+      "beta-Lactam Resistance",
+      "*Bacterial Proteins/metabolism/genetics/chemistry",
+      "Cephalosporins/pharmacology"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Tejavath, Ajith",
+        "Biju, Bayomi",
+        "Panda, Aditya Prasad",
+        "Jain, Diamond",
+        "Chowdhury, Chiranjit",
+        "Ghosh, Anindya Sundar"
+      ],
+      "short_names": [
+        "Tejavath A",
+        "Biju B",
+        "Panda AP",
+        "Jain D",
+        "Chowdhury C",
+        "Ghosh AS"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-2026-5324",
+        "ORCID: 0000-0001-6403-032X"
+      ],
+      "affiliations": [
+        "Department of Bioscience and Biotechnology, Indian Institute of Technology Kharagpur, Kharagpur721302, West Bengal, India.",
+        "Department of Bioscience and Biotechnology, Indian Institute of Technology Kharagpur, Kharagpur721302, West Bengal, India.",
+        "Department of Bioscience and Biotechnology, Indian Institute of Technology Kharagpur, Kharagpur721302, West Bengal, India.",
+        "Department of Bioscience and Biotechnology, Indian Institute of Technology Kharagpur, Kharagpur721302, West Bengal, India.",
+        "Biochemical Sciences Division, CSIR- National Chemical Laboratory, Pune411008, India.",
+        "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad201002, India.",
+        "Department of Bioscience and Biotechnology, Indian Institute of Technology Kharagpur, Kharagpur721302, West Bengal, India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Tejavath, Ajith",
+        "short_name": "Tejavath A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bioscience and Biotechnology, Indian Institute of Technology Kharagpur, Kharagpur721302, West Bengal, India."
+        ]
+      },
+      {
+        "full_name": "Biju, Bayomi",
+        "short_name": "Biju B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bioscience and Biotechnology, Indian Institute of Technology Kharagpur, Kharagpur721302, West Bengal, India."
+        ]
+      },
+      {
+        "full_name": "Panda, Aditya Prasad",
+        "short_name": "Panda AP",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bioscience and Biotechnology, Indian Institute of Technology Kharagpur, Kharagpur721302, West Bengal, India."
+        ]
+      },
+      {
+        "full_name": "Jain, Diamond",
+        "short_name": "Jain D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bioscience and Biotechnology, Indian Institute of Technology Kharagpur, Kharagpur721302, West Bengal, India."
+        ]
+      },
+      {
+        "full_name": "Chowdhury, Chiranjit",
+        "short_name": "Chowdhury C",
+        "identifiers": [
+          "0000-0003-2026-5324"
+        ],
+        "affiliations": [
+          "Biochemical Sciences Division, CSIR- National Chemical Laboratory, Pune411008, India.",
+          "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad201002, India."
+        ]
+      },
+      {
+        "full_name": "Ghosh, Anindya Sundar",
+        "short_name": "Ghosh AS",
+        "identifiers": [
+          "0000-0001-6403-032X"
+        ],
+        "affiliations": [
+          "Department of Bioscience and Biotechnology, Indian Institute of Technology Kharagpur, Kharagpur721302, West Bengal, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS infectious diseases"
+    ],
+    "journal_abbrev": [
+      "ACS Infect Dis"
+    ],
+    "pub_date": "2026 Sep 11",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/11 17:36",
+    "fetched_at": "2026-09-13 13:07:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42725970",
+      "42725982",
+      "38526049",
+      "29229762",
+      "34768916",
+      "33273017",
+      "35766983",
+      "30397053",
+      "28087620",
+      "30538183",
+      "27783477",
+      "31358584",
+      "39799381",
+      "40293226",
+      "42210695",
+      "37095236",
+      "39417625",
+      "8606154",
+      "39361442",
+      "26126492",
+      "41143423",
+      "29089425",
+      "42047351",
+      "42165580",
+      "42053451",
+      "32071047",
+      "22687511",
+      "30918055",
+      "39248479",
+      "41660846",
+      "23877677",
+      "41989176",
+      "35562886",
+      "33109613",
+      "20086146",
+      "34022225",
+      "21896903",
+      "40377322",
+      "32683794",
+      "19812041",
+      "33910990",
+      "36648230",
+      "35420470",
+      "22908166",
+      "25870062",
+      "39601221",
+      "19485421",
+      "25713062",
+      "40973806",
+      "22042844",
+      "27125555",
+      "24012371",
+      "27480863",
+      "23305656",
+      "30348667",
+      "25485972",
+      "33257320",
+      "20662006",
+      "23142087",
+      "26042471",
+      "33492952",
+      "19477418",
+      "15649299",
+      "28777084",
+      "41949313",
+      "28115348",
+      "36963495",
+      "28613873",
+      "26169409",
+      "28807908",
+      "41643494",
+      "28859446",
+      "24468777",
+      "24982075",
+      "22252797",
+      "36129295",
+      "32712930",
+      "22083489",
+      "38729259",
+      "25583748",
+      "26369960",
+      "15616297",
+      "19656947",
+      "41790301",
+      "40473134",
+      "38778284",
+      "23629710",
+      "30917978",
+      "39319679",
+      "9521648",
+      "23879430",
+      "8328781",
+      "33993262",
+      "26248364",
+      "22232281",
+      "26856833",
+      "25667006",
+      "39118086",
+      "22908150",
+      "25870058"
+    ],
+    "review": [
+      "42725970"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

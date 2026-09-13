@@ -2,7 +2,7 @@
   "identity": {
     "pmid": "42700916",
     "doi": "10.1016/j.antiviral.2026.106529",
-    "title": "Application of Emerging Technologies in the Antiviral Field."
+    "title": "Application of emerging technologies in the antiviral field."
   },
   "content": {
     "abstract": "Viral diseases pose a serious threat to global public health, agriculture, and biosecurity. Conventional antiviral strategies are often limited by an incomplete understanding of disease mechanisms, poor targeting precision, and slow response times. Emerging technologies are now reshaping the landscape of antiviral research. This review examines the roles of four key frontiers, including organoid models, gene editing, AI-driven molecular design, and synthetic biology. Organoids provide physiologically relevant platforms that model virus-host interactions and disease progression. Viral infections remain a major challenge to human and animal health, agriculture, and biosecurity. Progress in antiviral research is constrained by the complexity of viral pathogenesis, the diversity and rapid evolution of viruses, and the limited translational relevance of some traditional model systems. Recent advances in organoid technology, gene editing, artificial intelligence, and synthetic biology are expanding the toolkit available for antiviral research and development. In this review, we discuss how these four technological frontiers contribute to disease modeling, target discovery, molecular design, and translational innovation. Organoids, in particular, provide physiologically relevant systems for investigating viral infection, tissue tropism, host responses, and pathogenesis. Gene editing tools, such as CRISPR, enable precise manipulation of host and viral genomes, facilitating the development of resistant organisms and next-generation vaccine platforms. AI technologies, including AlphaFold for structure prediction and platforms for de novo protein design, address long-standing bottlenecks in structural biology and offer powerful means to engineer antiviral proteins, antibodies, and vaccine antigens. Synthetic biology, guided by the Design-Build-Test-Learn cycle, integrates computational design, genetic assembly, and functional validation into a cohesive pipeline. Together, these technologies form a synergistic workflow that spans disease modeling, target discovery, molecular design, construction, testing, and iterative optimization. This integrated approach is shifting antiviral development from traditional empirical methods toward more precise, intelligent strategies. The review also highlights ongoing challenges in integration and scalability, stressing that high-quality biological datasets and stronger interdisciplinary collaboration are essential for realizing translational potential. By presenting a cohesive view of these converging methodologies, this review offers a framework to guide the intelligent evolution of antiviral strategies in both human and animal health.",
@@ -40,12 +40,12 @@
       ],
       "auids": [],
       "affiliations": [
-        "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou 450046, China.",
-        "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou 450046, China.",
-        "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou 450046, China.",
-        "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou 450046, China. Electronic address: wenjuandu111@163.com.",
-        "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou 450046, China. Electronic address: shengwang@henau.edu.cn.",
-        "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou 450046, China. Electronic address: yongtaole@126.com."
+        "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou, 450046, China.",
+        "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou, 450046, China.",
+        "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou, 450046, China.",
+        "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou, 450046, China. Electronic address: wenjuandu111@163.com.",
+        "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou, 450046, China. Electronic address: shengwang@henau.edu.cn.",
+        "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou, 450046, China. Electronic address: yongtaole@126.com."
       ]
     },
     "xml": [
@@ -54,7 +54,7 @@
         "short_name": "Zhang X",
         "identifiers": [],
         "affiliations": [
-          "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou 450046, China."
+          "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou, 450046, China."
         ]
       },
       {
@@ -62,7 +62,7 @@
         "short_name": "Zhang L",
         "identifiers": [],
         "affiliations": [
-          "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou 450046, China."
+          "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou, 450046, China."
         ]
       },
       {
@@ -70,7 +70,7 @@
         "short_name": "Guo T",
         "identifiers": [],
         "affiliations": [
-          "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou 450046, China."
+          "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou, 450046, China."
         ]
       },
       {
@@ -78,7 +78,7 @@
         "short_name": "Du W",
         "identifiers": [],
         "affiliations": [
-          "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou 450046, China. Electronic address: wenjuandu111@163.com."
+          "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou, 450046, China. Electronic address: wenjuandu111@163.com."
         ]
       },
       {
@@ -86,7 +86,7 @@
         "short_name": "Wang S",
         "identifiers": [],
         "affiliations": [
-          "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou 450046, China. Electronic address: shengwang@henau.edu.cn."
+          "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou, 450046, China. Electronic address: shengwang@henau.edu.cn."
         ]
       },
       {
@@ -94,7 +94,7 @@
         "short_name": "Li Y",
         "identifiers": [],
         "affiliations": [
-          "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou 450046, China. Electronic address: yongtaole@126.com."
+          "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou, 450046, China. Electronic address: yongtaole@126.com."
         ]
       }
     ]
@@ -115,7 +115,7 @@
   },
   "metadata": {
     "entrez_date": "2026/09/06 01:18",
-    "fetched_at": "2026-09-08 15:48:04"
+    "fetched_at": "2026-09-13 13:07:01"
   },
   "links": {
     "cites": [],
@@ -139,8 +139,8 @@
       "41516041",
       "26269925",
       "42044246",
-      "41966053",
       "40069074",
+      "41966053",
       "42164816",
       "42164657",
       "42218467",
@@ -174,8 +174,8 @@
       "30212088",
       "40763280",
       "41769292",
-      "42364829",
       "41649705",
+      "42364829",
       "42080108",
       "41788548",
       "39265553",
@@ -187,6 +187,8 @@
       "39988220",
       "30704043",
       "41999049",
+      "42711723",
+      "42586508",
       "41073589",
       "42075136",
       "42482485",
@@ -199,12 +201,12 @@
       "42058982",
       "42199149",
       "42607939",
-      "41674784",
       "42111325",
+      "41674784",
+      "42715733",
       "29019352",
       "42515606",
       "41595782",
-      "42586508",
       "40647462",
       "42198874",
       "41910880",
@@ -213,14 +215,12 @@
       "40305163",
       "42180850",
       "42528148",
-      "41751160",
       "41840308",
       "42428244",
+      "41751160",
       "41472258",
       "41064793",
-      "42329464",
-      "42072662",
-      "41254174"
+      "42329464"
     ],
     "review": [
       "42700916",
@@ -237,8 +237,8 @@
       "41656303",
       "40879383",
       "41516041",
-      "41966053",
       "40069074",
+      "41966053",
       "42164816",
       "42164657",
       "42218467",
@@ -266,8 +266,8 @@
       "42616280",
       "40763280",
       "41769292",
-      "42364829",
       "41649705",
+      "42364829",
       "42080108",
       "41788548",
       "39265553",
@@ -278,6 +278,8 @@
       "39988220",
       "30704043",
       "41999049",
+      "42711723",
+      "42586508",
       "41073589",
       "42075136",
       "42482485",
@@ -288,10 +290,10 @@
       "41740329",
       "42058982",
       "42607939",
-      "41674784",
       "42111325",
+      "41674784",
+      "42715733",
       "42515606",
-      "42586508",
       "40647462",
       "42198874",
       "41910880",
@@ -300,14 +302,12 @@
       "40305163",
       "42180850",
       "42528148",
-      "41751160",
       "41840308",
       "42428244",
+      "41751160",
       "41472258",
       "41064793",
-      "42329464",
-      "42072662",
-      "41254174"
+      "42329464"
     ],
     "pmc": [],
     "entrez": {},

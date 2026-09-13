@@ -1,0 +1,304 @@
+{
+  "identity": {
+    "pmid": "42715978",
+    "doi": "10.1021/acs.jafc.6c07558",
+    "title": "Xanthine Oxidase Inhibitory Peptides from Sesame 11S Globulin Target the FAD Domain: Kinetics, Molecular Dynamics, and Validation in a Zebrafish Hyperuricemia Model."
+  },
+  "content": {
+    "abstract": "Food-derived bioactive peptides are promising alternatives to conventional xanthine oxidase (XO) inhibitors, yet individual XO inhibitory peptides from sesame protein remain uncharacterized. Here, sesame and peanut protein isolates were screened with four proteases; the trypsin hydrolyzate of sesame (TSH, 120 min) showed the highest XO inhibition (47.16%). Eight 11S globulin peptides were identified by nanoUHPLC-ESI-Q-TOF MS/MS. QGDIVAIPSGAAHW (IC50 = 467.2 muM) and AFYLAGGVPR (IC50 = 536.1 muM) exhibited mixed-type inhibition (alpha > 1). Molecular docking against two XO crystal structures (3NVY, 3NRZ) consistently favored the FAD domain, and 500 ns molecular dynamics simulations with MM-GBSA analysis provided convergent support (DeltaG = -160 to -317 kJ mol-1). In a zebrafish hyperuricemia model, TSH reduced uric acid and XO activity while upregulating purine salvage (hprt1) and urate transport (oat1) genes. These findings support sesame-derived peptides as functional food candidates with preferential association with the XO FAD domain.",
+    "keywords": [
+      "MM-GBSA",
+      "bioactive peptide",
+      "hyperuricemia",
+      "mixed-type inhibition",
+      "molecular docking",
+      "molecular dynamics simulation",
+      "sesame protein hydrolyzate",
+      "xanthine oxidase",
+      "zebrafish model"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "Zebrafish",
+      "*Sesamum/chemistry",
+      "*Xanthine Oxidase/chemistry/antagonists & inhibitors/metabolism/genetics",
+      "*Hyperuricemia/enzymology/drug therapy/metabolism/genetics",
+      "Kinetics",
+      "Molecular Dynamics Simulation",
+      "*Enzyme Inhibitors/chemistry/administration & dosage",
+      "Molecular Docking Simulation",
+      "*Peptides/chemistry/administration & dosage",
+      "*Plant Proteins/chemistry/administration & dosage",
+      "Bioactive Peptides, Dietary",
+      "Uric Acid/metabolism",
+      "Amino Acid Sequence",
+      "Protein Domains",
+      "Humans"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Mei-Ling",
+        "Huang, Shang-Ming",
+        "Lin, Yu-Shun",
+        "Wu, Pei-Yu",
+        "Chen, Yu-Hsuan",
+        "Chuang, Yi-Jing",
+        "Yang, Jiann-Jou",
+        "Hsu, Kuo-Chiang"
+      ],
+      "short_names": [
+        "Li ML",
+        "Huang SM",
+        "Lin YS",
+        "Wu PY",
+        "Chen YH",
+        "Chuang YJ",
+        "Yang JJ",
+        "Hsu KC"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-7194-7555",
+        "ORCID: 0000-0002-2470-1376",
+        "ORCID: 0000-0002-9019-2178",
+        "ORCID: 0000-0002-3449-8447"
+      ],
+      "affiliations": [
+        "Department of Nutrition, China Medical University, 100 Jingmao Road Sec. 1, Beitun District, Taichung406040, Taiwan.",
+        "Department of Nutrition, China Medical University, 100 Jingmao Road Sec. 1, Beitun District, Taichung406040, Taiwan.",
+        "Department of Nutrition, China Medical University, 100 Jingmao Road Sec. 1, Beitun District, Taichung406040, Taiwan.",
+        "Department of Nutrition, China Medical University, 100 Jingmao Road Sec. 1, Beitun District, Taichung406040, Taiwan.",
+        "Department of Nutrition, China Medical University, 100 Jingmao Road Sec. 1, Beitun District, Taichung406040, Taiwan.",
+        "Department of Nutrition, China Medical University, 100 Jingmao Road Sec. 1, Beitun District, Taichung406040, Taiwan.",
+        "Department of Biomedical Sciences, Chung Shan Medical University, 110 Jianguo North Road Sec. 1, Taichung402, Taiwan.",
+        "Department of Nutrition, China Medical University, 100 Jingmao Road Sec. 1, Beitun District, Taichung406040, Taiwan.",
+        "Department of Food Nutrition and Health Biotechnology, Asia University, 500 Lioufeng Road, Wufeng, Taichung41354, Taiwan."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Mei-Ling",
+        "short_name": "Li ML",
+        "identifiers": [
+          "0000-0002-7194-7555"
+        ],
+        "affiliations": [
+          "Department of Nutrition, China Medical University, 100 Jingmao Road Sec. 1, Beitun District, Taichung406040, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Huang, Shang-Ming",
+        "short_name": "Huang SM",
+        "identifiers": [
+          "0000-0002-2470-1376"
+        ],
+        "affiliations": [
+          "Department of Nutrition, China Medical University, 100 Jingmao Road Sec. 1, Beitun District, Taichung406040, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Lin, Yu-Shun",
+        "short_name": "Lin YS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nutrition, China Medical University, 100 Jingmao Road Sec. 1, Beitun District, Taichung406040, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Wu, Pei-Yu",
+        "short_name": "Wu PY",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nutrition, China Medical University, 100 Jingmao Road Sec. 1, Beitun District, Taichung406040, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Chen, Yu-Hsuan",
+        "short_name": "Chen YH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nutrition, China Medical University, 100 Jingmao Road Sec. 1, Beitun District, Taichung406040, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Chuang, Yi-Jing",
+        "short_name": "Chuang YJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nutrition, China Medical University, 100 Jingmao Road Sec. 1, Beitun District, Taichung406040, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Yang, Jiann-Jou",
+        "short_name": "Yang JJ",
+        "identifiers": [
+          "0000-0002-9019-2178"
+        ],
+        "affiliations": [
+          "Department of Biomedical Sciences, Chung Shan Medical University, 110 Jianguo North Road Sec. 1, Taichung402, Taiwan."
+        ]
+      },
+      {
+        "full_name": "Hsu, Kuo-Chiang",
+        "short_name": "Hsu KC",
+        "identifiers": [
+          "0000-0002-3449-8447"
+        ],
+        "affiliations": [
+          "Department of Nutrition, China Medical University, 100 Jingmao Road Sec. 1, Beitun District, Taichung406040, Taiwan.",
+          "Department of Food Nutrition and Health Biotechnology, Asia University, 500 Lioufeng Road, Wufeng, Taichung41354, Taiwan."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of agricultural and food chemistry"
+    ],
+    "journal_abbrev": [
+      "J Agric Food Chem"
+    ],
+    "pub_date": "2026 Sep 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/09 23:36",
+    "fetched_at": "2026-09-13 13:07:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42715978",
+      "42046110",
+      "40553021",
+      "41780118",
+      "32820534",
+      "41360558",
+      "42158992",
+      "39826518",
+      "40467230",
+      "39168219",
+      "42167182",
+      "37923199",
+      "36625439",
+      "40010462",
+      "35985156",
+      "42498241",
+      "30309568",
+      "28655421",
+      "32014678",
+      "39491505",
+      "42259146",
+      "37345239",
+      "39368582",
+      "35726432",
+      "37230458",
+      "39128372",
+      "34688012",
+      "37254330",
+      "42578472",
+      "42148895",
+      "33450289",
+      "41187988",
+      "36240568",
+      "42109015",
+      "41520617",
+      "42411513",
+      "32342806",
+      "29772470",
+      "38168773",
+      "25539132",
+      "39986773",
+      "29189174",
+      "32777423",
+      "40344588",
+      "34506859",
+      "29019366",
+      "40847943",
+      "39368569",
+      "30554642",
+      "23993547",
+      "30096398",
+      "37478683",
+      "39348762",
+      "40441027",
+      "41855634",
+      "39317659",
+      "35430257",
+      "34677437",
+      "33565626",
+      "31927335",
+      "28167361",
+      "38216015",
+      "29843539",
+      "40125929",
+      "32033479",
+      "31584375",
+      "41687941",
+      "30114281",
+      "28302506",
+      "39504900",
+      "34360886",
+      "34151757",
+      "41286186",
+      "23994369",
+      "33486365",
+      "36527991",
+      "35077850",
+      "25623823",
+      "41025887",
+      "26774578",
+      "21167141",
+      "39731464",
+      "34992040",
+      "30077718",
+      "41265253",
+      "39581390",
+      "29042453",
+      "27616694",
+      "28290251",
+      "34058176",
+      "35907782",
+      "36431832",
+      "27696407",
+      "38691887",
+      "33075645",
+      "26275460",
+      "26875636",
+      "39031172",
+      "39526475",
+      "39528682"
+    ],
+    "review": [
+      "42715978",
+      "39168219"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/CPTAC-216",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/jafcau/article-lookup/doi/10.1021/acs.jafc.6c07558",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

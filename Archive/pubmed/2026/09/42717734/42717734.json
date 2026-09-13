@@ -1,0 +1,235 @@
+{
+  "identity": {
+    "pmid": "42717734",
+    "doi": "10.1017/S0007485326101308",
+    "title": "Molecular characterization of vitellogenin and its receptor with CRISPR-based sgRNA validation in the legume pod borer, Maruca vitrata (Geyer) (Lepidoptera: Crambidae)."
+  },
+  "content": {
+    "abstract": "Maruca vitrata, the legume pod borer, causes yield losses of up to 80% in grain legumes. Increasing insecticide resistance and environmental concerns necessitate sustainable pest management alternatives. In the present study, the complete vitellogenin (Vg) coding sequence (CDS), a key reproductive gene involved in oogenesis and embryonic development, was cloned and molecularly characterised from M. vitrata. The assembled Vg CDS ( approximately 5.3 kb) shared 99.04% sequence identity with the reported M. vitrata Vg sequence (MG799570.1). Phylogenetic analysis demonstrated close evolutionary association with related Lepidopteran species, while protein domain analysis identified three conserved domains, namely LPD_N, DUF1943, and VWD. Among these, the single exon-encoded LPD_N domain was selected as the target region for CRISPR/Cas9-mediated editing. Homology models of Vg and vitellogenin receptor (VgR) (Global Model Quality Estimation (GMQE): 0.58 and 0.51) showed a favourable interaction by protein-protein docking (score: -295.66). Three single-guide RNAs (sgRNAs) were designed, synthesised through in-vitro transcription, and evaluated using in vitro cleavage assays. sgRNA1 targeting the LPD_N domain and sgRNA2 targeting the signal peptide region exhibited efficient site-specific cleavage activity, whereas sgRNA3 failed to induce cleavage because of an unfavourable secondary structure that likely impaired Cas9-sgRNA complex formation. Overall, this study provides the first CRISPR-oriented functional characterisation and sgRNA validation of the M. vitrata Vg gene, together with structural characterisation of VgR and Vg-VgR interaction analysis, providing preliminary molecular resources for future CRISPR/Cas9 studies and supporting future embryo microinjection and heritable genome editing for sustainable management of M. vitrata.",
+    "keywords": [
+      "CRISPR/Cas9",
+      "M. vitrata",
+      "docking",
+      "vitellogenin",
+      "vitellogenin receptor"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Pradeep, Chalapathi",
+        "Sujatha, Parvathy Madhusoodanan",
+        "Nagesha, Somakalahalli Narasimhappa",
+        "Asokan, Ramasamy",
+        "Karuppannasamy, Ashok"
+      ],
+      "short_names": [
+        "Pradeep C",
+        "Sujatha PM",
+        "Nagesha SN",
+        "Asokan R",
+        "Karuppannasamy A"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-8402-424X",
+        "ORCID: 0000-0002-4094-6285"
+      ],
+      "affiliations": [
+        "Molecular Biology Section, Central Sericultural Research and Training Institute, Mysuru, India. ROR: https://ror.org/04ghh8334",
+        "Department of Plant Biotechnology, University of Agricultural Sciences, GKVK, Bengaluru, India. ROR: https://ror.org/03js6zg56",
+        "Department of Plant Biotechnology, University of Agricultural Sciences, GKVK, Bengaluru, India. ROR: https://ror.org/03js6zg56",
+        "Division of Basic Sciences, ICAR-Indian Institute of Horticultural Research, Bengaluru, India. ROR: https://ror.org/00s2dqx11",
+        "Division of Entomology, ICAR-Indian Agricultural Research Institute, New Delhi, India. ROR: https://ror.org/01bzgdw81"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Pradeep, Chalapathi",
+        "short_name": "Pradeep C",
+        "identifiers": [
+          "0000-0002-8402-424X"
+        ],
+        "affiliations": [
+          "Molecular Biology Section, Central Sericultural Research and Training Institute, Mysuru, India."
+        ]
+      },
+      {
+        "full_name": "Sujatha, Parvathy Madhusoodanan",
+        "short_name": "Sujatha PM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Plant Biotechnology, University of Agricultural Sciences, GKVK, Bengaluru, India."
+        ]
+      },
+      {
+        "full_name": "Nagesha, Somakalahalli Narasimhappa",
+        "short_name": "Nagesha SN",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Plant Biotechnology, University of Agricultural Sciences, GKVK, Bengaluru, India."
+        ]
+      },
+      {
+        "full_name": "Asokan, Ramasamy",
+        "short_name": "Asokan R",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Basic Sciences, ICAR-Indian Institute of Horticultural Research, Bengaluru, India."
+        ]
+      },
+      {
+        "full_name": "Karuppannasamy, Ashok",
+        "short_name": "Karuppannasamy A",
+        "identifiers": [
+          "0000-0002-4094-6285"
+        ],
+        "affiliations": [
+          "Division of Entomology, ICAR-Indian Agricultural Research Institute, New Delhi, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Bulletin of entomological research"
+    ],
+    "journal_abbrev": [
+      "Bull Entomol Res"
+    ],
+    "pub_date": "2026 Sep 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/10 11:53",
+    "fetched_at": "2026-09-13 13:07:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42717734",
+      "39277149",
+      "31589887",
+      "31277577",
+      "21754987",
+      "42286481",
+      "31953705",
+      "33471196",
+      "26517714",
+      "39294198",
+      "42310064",
+      "37639835",
+      "41800802",
+      "37890743",
+      "22717014",
+      "25893977",
+      "35700449",
+      "32038281",
+      "21311752",
+      "26280704",
+      "41361700",
+      "32825771",
+      "35221579",
+      "31967641",
+      "31406641",
+      "34234208",
+      "24459775",
+      "24409312",
+      "33927988",
+      "30536703",
+      "34276424",
+      "33177064",
+      "41051673",
+      "35524183",
+      "39816115",
+      "29935203",
+      "20496006",
+      "40304168",
+      "33487760",
+      "23515308",
+      "37849767",
+      "37510337",
+      "39626969",
+      "32485215",
+      "27698435",
+      "37035655",
+      "34637095",
+      "31494246",
+      "33417822",
+      "30068653",
+      "41105390",
+      "31920726",
+      "20955241",
+      "31859577",
+      "33609360",
+      "16033432",
+      "41696049",
+      "41882500",
+      "41234164",
+      "41747982",
+      "24647356",
+      "37874448",
+      "9692232",
+      "24785903",
+      "30553881",
+      "30699341",
+      "31821359",
+      "29718485",
+      "38132605",
+      "33571307",
+      "29219081",
+      "39647515",
+      "30828225",
+      "42488191",
+      "39295240",
+      "30279662",
+      "40019805",
+      "26813419",
+      "20337554",
+      "35766512",
+      "20842412",
+      "38974867",
+      "28598376",
+      "25499034",
+      "26891616",
+      "28341547",
+      "34055482",
+      "33690264",
+      "42611132",
+      "35165339",
+      "17521666",
+      "31139538",
+      "37844014",
+      "30368976",
+      "42475469",
+      "37562129",
+      "41678668",
+      "38537809",
+      "29331077",
+      "27159161"
+    ],
+    "review": [
+      "42717734",
+      "33417822"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.cambridge.org/core/product/identifier/S0007485326101308/type/journal_article",
+        "provider": "Cambridge University Press",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "identity": {
+    "pmid": "42727572",
+    "doi": "10.1039/d6cp01933a",
+    "title": "Computational investigation of ternary Mg-Co-B compounds as cathode materials for Mg-ion batteries."
+  },
+  "content": {
+    "abstract": "The sluggish development of Mg-ion batteries is largely attributed to the scarcity of cathode materials that concurrently offer high specific capacity, suitable intercalation voltages, and low Mg-ion migration barriers. In this work, a structure prediction workflow combining an evolutionary algorithm with convex hull analysis was employed to generate and screen Mg-Co-B ternary boride materials, from which three thermodynamically stable compounds MgCoB, MgCo(3)B(2), and Mg(3)Co(3)B(2) were identified. The dynamical, thermodynamic, and ground-state stability of all three compounds was thoroughly confirmed through phonon dispersion calculations, Gibbs free energy analysis, and convex hull formation energies, respectively. To efficiently screen the large number of possible symmetry inequivalent Mg-extraction configurations, a machine learning interatomic potential was employed for structural exploration, followed by DFT calculations for accurate energetic evaluation, thereby substantially reducing the computational cost. Subsequent DFT-based electrochemical analysis reveals that Mg(3)Co(3)B(2) is electrochemically unsuitable due to anomalously large negative intercalation voltages, while MgCo(3)B(2) is limited by a prohibitively high Mg-ion migration barrier of 0.75 eV. In contrast, MgCoB emerges as the most promising material, exhibiting a theoretical specific capacity of 356.2 mAh g(-1), a gravimetric energy density of 278 Wh kg(-1), and a substantially reduced Mg-ion migration barrier of 0.35 eV, depicting it as a highly competitive cathode material for next-generation Mg-ion batteries.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Paitandi, Somnath",
+        "Upadhyay, Shivansh",
+        "Bhattacharyya, Kalishankar"
+      ],
+      "short_names": [
+        "Paitandi S",
+        "Upadhyay S",
+        "Bhattacharyya K"
+      ],
+      "auids": [
+        "ORCID: 0009-0006-1850-6968",
+        "ORCID: 0000-0002-1445-4631"
+      ],
+      "affiliations": [
+        "Department of Chemistry, Indian Institute of Technology Guwahati, Assam, 781039, India. ksb@iitg.ac.in.",
+        "Department of Chemistry, Indian Institute of Technology Guwahati, Assam, 781039, India. ksb@iitg.ac.in.",
+        "Department of Chemistry, Indian Institute of Technology Guwahati, Assam, 781039, India. ksb@iitg.ac.in."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Paitandi, Somnath",
+        "short_name": "Paitandi S",
+        "identifiers": [
+          "0009-0006-1850-6968"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Indian Institute of Technology Guwahati, Assam, 781039, India. ksb@iitg.ac.in."
+        ]
+      },
+      {
+        "full_name": "Upadhyay, Shivansh",
+        "short_name": "Upadhyay S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Indian Institute of Technology Guwahati, Assam, 781039, India. ksb@iitg.ac.in."
+        ]
+      },
+      {
+        "full_name": "Bhattacharyya, Kalishankar",
+        "short_name": "Bhattacharyya K",
+        "identifiers": [
+          "0000-0002-1445-4631"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Indian Institute of Technology Guwahati, Assam, 781039, India. ksb@iitg.ac.in."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Physical chemistry chemical physics : PCCP"
+    ],
+    "journal_abbrev": [
+      "Phys Chem Chem Phys"
+    ],
+    "pub_date": "2026 Sep 11",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/11 23:36",
+    "fetched_at": "2026-09-13 13:07:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42727572",
+      "42690472",
+      "38693838",
+      "38113116",
+      "37901147",
+      "31459871",
+      "42568927",
+      "41426058",
+      "41947745",
+      "32019197",
+      "42704484",
+      "39519851",
+      "36441867",
+      "39137405",
+      "34582182",
+      "32392033",
+      "37677129",
+      "40807267",
+      "40989961",
+      "42475469",
+      "42013528",
+      "33864351",
+      "42176590",
+      "40735023",
+      "38441538",
+      "42300516",
+      "36731208",
+      "37696006",
+      "32776405",
+      "31814193",
+      "41014231",
+      "34772156",
+      "36495810",
+      "31765124",
+      "38695117",
+      "39623888",
+      "42508169",
+      "30758018",
+      "38755241",
+      "29365213",
+      "32709197",
+      "31335114",
+      "39580670",
+      "42425891",
+      "39291686",
+      "33719387",
+      "42438971",
+      "39807751",
+      "34755421",
+      "39549350",
+      "38541432",
+      "38059756",
+      "39830216",
+      "39468912",
+      "40820924",
+      "35689302",
+      "32144250",
+      "40853038",
+      "32905380",
+      "34450609",
+      "40223403",
+      "41561483",
+      "34931840",
+      "36868966",
+      "32028767",
+      "40130655",
+      "36082794",
+      "35258924",
+      "39229792",
+      "33780584",
+      "42420188",
+      "38084449",
+      "34873861",
+      "30192559",
+      "36153955",
+      "40661209",
+      "35103464",
+      "37933454",
+      "41537521",
+      "32130749",
+      "28230377",
+      "38582524",
+      "41069371",
+      "39467088",
+      "39692626",
+      "35275611",
+      "37069774",
+      "29899467",
+      "42170083",
+      "38552573",
+      "40922017",
+      "41186011",
+      "38622923",
+      "28938066",
+      "29795779",
+      "39529558",
+      "38893960",
+      "42280133",
+      "39797777",
+      "37666244"
+    ],
+    "review": [
+      "42727572"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

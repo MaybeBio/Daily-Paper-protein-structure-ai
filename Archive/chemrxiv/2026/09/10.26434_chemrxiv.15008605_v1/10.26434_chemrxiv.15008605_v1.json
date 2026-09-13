@@ -1,0 +1,355 @@
+{
+  "source": "chemrxiv",
+  "source_id": "10.26434/chemrxiv.15008605/v1",
+  "title": "Data-driven strategies for enzyme engineering: From machine learning to protein language models",
+  "doi": "10.26434/chemrxiv.15008605/v1",
+  "abstract": "Enzymes are key biocatalysts that drive diverse biological processes and industrial applications, offering sustainable alternatives to conventional chemical catalysis. However, the enormous enzyme sequence space and the limited functional annotation have created an urgent demand for computational approaches to accelerate enzyme discovery and engineering. Recent advances in computational methods are accelerating enzyme engineering from empirical trial and error toward predictive design. This review summarizes representative computational tools and predictive models in the enzyme engineering workflow, including (1) enzyme data resources, (2) functional enzyme discovery, (3) enzyme property prediction (e.g., kinetics, optimal temperature and PH, solubility, promiscuity, and specificity), (4) de novo enzyme design, and (5) computationally guided enzyme optimization. We further compare current computational strategies, discuss their strengths and limitations in different engineering scenarios, and highlight emerging trends toward foundation models, generative artificial intelligence, multimodal learning, and closed-loop design–build–test–learn platforms.",
+  "authors": [
+    "Shaozhen Ding",
+    "Peng Wu",
+    "Shubo Li",
+    "Yuxuan Yang",
+    "Han Zhu",
+    "Heng Yu",
+    "Yu Tian",
+    "Dachuan Zhang",
+    "Qian-Nan Hu"
+  ],
+  "published_date": "2026-09-09",
+  "updated_date": "2026-09-10T06:02:01Z",
+  "journal": "ChemRxiv",
+  "category": "",
+  "landing_url": "https://doi.org/10.26434/chemrxiv.15008605/v1",
+  "pdf_url": "https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15008605/v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "publisher": "American Chemical Society (ACS)",
+    "prefix": "10.26434",
+    "type": "posted-content",
+    "group_title": "",
+    "raw_record": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            10
+          ]
+        ],
+        "date-time": "2026-09-10T06:08:15Z",
+        "timestamp": 1789020495215,
+        "version": "build-2803163510"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            9
+          ]
+        ]
+      },
+      "reference-count": 0,
+      "publisher": "American Chemical Society (ACS)",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "abstract": "<jats:p>Enzymes are key biocatalysts that drive diverse biological processes and industrial applications, offering sustainable alternatives to conventional chemical catalysis. However, the enormous enzyme sequence space and the limited functional annotation have created an urgent demand for computational approaches to accelerate enzyme discovery and engineering. Recent advances in computational methods are accelerating enzyme engineering from empirical trial and error toward predictive design. This review summarizes representative computational tools and predictive models in the enzyme engineering workflow, including (1) enzyme data resources, (2) functional enzyme discovery, (3) enzyme property prediction (e.g., kinetics, optimal temperature and PH, solubility, promiscuity, and specificity), (4) de novo enzyme design, and (5) computationally guided enzyme optimization. We further compare current computational strategies, discuss their strengths and limitations in different engineering scenarios, and highlight emerging trends toward foundation models, generative artificial intelligence, multimodal learning, and closed-loop design–build–test–learn platforms.</jats:p>",
+      "DOI": "10.26434/chemrxiv.15008605/v1",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            10
+          ]
+        ],
+        "date-time": "2026-09-10T06:02:01Z",
+        "timestamp": 1789020121000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Data-driven strategies for enzyme engineering: From machine learning to protein language models"
+      ],
+      "prefix": "10.26434",
+      "author": [
+        {
+          "given": "Shaozhen",
+          "family": "Ding",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Chemical and Biomolecular Engineering, School of Life Science and Technology",
+              "place": [
+                "Wuhan, China"
+              ]
+            },
+            {
+              "name": "Wuhan Polytechnic University",
+              "place": [
+                "Wuhan, China"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Peng",
+          "family": "Wu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Artificial Intelligence",
+              "place": [
+                "Wuhan, China"
+              ]
+            },
+            {
+              "name": "Wuhan University",
+              "place": [
+                "Wuhan, China"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Shubo",
+          "family": "Li",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Chemical and Biomolecular Engineering, School of Life Science and Technology",
+              "place": [
+                "Wuhan, China"
+              ]
+            },
+            {
+              "name": "Wuhan Polytechnic University",
+              "place": [
+                "Wuhan, China"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yuxuan",
+          "family": "Yang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Chemical and Biomolecular Engineering, School of Life Science and Technology",
+              "place": [
+                "Wuhan, China"
+              ]
+            },
+            {
+              "name": "Wuhan Polytechnic University",
+              "place": [
+                "Wuhan, China"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Han",
+          "family": "Zhu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Chemical and Biomolecular Engineering, School of Life Science and Technology",
+              "place": [
+                "Wuhan, China"
+              ]
+            },
+            {
+              "name": "Wuhan Polytechnic University",
+              "place": [
+                "Wuhan, China"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Heng",
+          "family": "Yu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Hubei Jiangxia Laboratory",
+              "place": [
+                "Wuhan, China"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yu",
+          "family": "Tian",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Chemical and Biomolecular Engineering, School of Life Science and Technology",
+              "place": [
+                "Wuhan, China"
+              ]
+            },
+            {
+              "name": "Wuhan Polytechnic University",
+              "place": [
+                "Wuhan, China"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Dachuan",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Food Science and Technology",
+              "place": [
+                "Singapore"
+              ]
+            },
+            {
+              "name": "National University of Singapore",
+              "place": [
+                "Singapore"
+              ]
+            },
+            {
+              "name": "Bezos Centre for Sustainable Protein, National University of Singapore, 2 Science Drive 2, Singapore, 117542"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Qian-Nan",
+          "family": "Hu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Artificial Intelligence",
+              "place": [
+                "Wuhan, China"
+              ]
+            },
+            {
+              "name": "Wuhan University",
+              "place": [
+                "Wuhan, China"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "316",
+      "link": [
+        {
+          "URL": "https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15008605/v1",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            10
+          ]
+        ],
+        "date-time": "2026-09-10T06:02:01Z",
+        "timestamp": 1789020121000
+      },
+      "score": 42.80331,
+      "resource": {
+        "primary": {
+          "URL": "https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008605/v1"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            9
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.26434/chemrxiv.15008605/v1",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            9
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

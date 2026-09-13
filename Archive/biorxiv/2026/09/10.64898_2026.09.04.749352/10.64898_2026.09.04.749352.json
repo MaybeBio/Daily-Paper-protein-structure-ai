@@ -3,7 +3,7 @@
   "source_id": "10.64898/2026.09.04.749352",
   "title": "AtlasFold: Protein structure prediction with metagenomic-scale language models",
   "doi": "10.64898/2026.09.04.749352",
-  "abstract": "Protein language models (PLMs) trained on evolutionary sequences learn representations that encode protein structure, enabling direct structure prediction without multiple-sequence alignments (MSAs). Here we present the Atlas model family, an open and trainable system spanning protein language modeling, monomer folding, and protein-complex prediction. AtlasLM-3B is a 3B-scale language model trained with masked language modeling on approximately 1.56 billion sequences, including metagenomic data, and outperforms the similarly sized ESM2-3B in unsupervised contact prediction. Building on these representations, AtlasFold predicts all-atom protein structures and achieves state-of-the-art accuracy among PLM-based folding models. Fine-tuning AtlasFold for protein-complex prediction produces AtlasFold-Multimer (AtlasFold-M), whose antibody-antigen prediction performance is comparable to that of AlphaFold3 and ESMFold2. This protein-specific folding architecture enables fast, memory-efficient inference with AtlasFold and AtlasFold-M. By releasing the training code and data, stage checkpoints, and model weights under the MIT License, we provide a foundation for advancing PLM-based protein structure prediction.",
+  "abstract": "Protein language models (PLMs) trained on evolutionary sequences learn representations that encode protein structure, enabling direct structure prediction without multiple-sequence alignments (MSAs). Here we present the Atlas model family, an open and trainable system spanning protein language modeling, monomer folding, and protein-complex prediction. AtlasLM-3B is a 3B-scale language model trained with masked language modeling on approximately 1.56 billion sequences, including metagenomic data, and outperforms the similarly sized ESM2-3B in unsupervised contact prediction. Building on these representations, AtlasFold predicts all-atom protein structures and achieves state-of-the-art accuracy among PLM-based folding models. Fine-tuning AtlasFold for protein-complex prediction produces AtlasFold-Multimer (AtlasFold-M), whose antibody–antigen prediction performance is comparable to that of AlphaFold3 and ESMFold2. This protein-specific folding architecture enables fast, memory-efficient inference with AtlasFold and AtlasFold-M. By releasing the training code and data, stage checkpoints, and model weights under the MIT License, we provide a foundation for advancing PLM-based protein structure prediction. 1",
   "authors": [
     "Seonghwan Seo",
     "Hyeongwoo Kim",
@@ -40,11 +40,11 @@
           [
             2026,
             9,
-            8
+            11
           ]
         ],
-        "date-time": "2026-09-08T08:09:55Z",
-        "timestamp": 1788854995456,
+        "date-time": "2026-09-11T19:07:32Z",
+        "timestamp": 1789153652182,
         "version": "build-2803163510"
       },
       "posted": {
@@ -57,7 +57,7 @@
         ]
       },
       "group-title": "Bioinformatics",
-      "reference-count": 0,
+      "reference-count": 33,
       "publisher": "openRxiv",
       "license": [
         {
@@ -111,7 +111,7 @@
           ]
         ]
       },
-      "abstract": "<jats:p>Protein language models (PLMs) trained on evolutionary sequences learn representations that encode protein structure, enabling direct structure prediction without multiple-sequence alignments (MSAs). Here we present the Atlas model family, an open and trainable system spanning protein language modeling, monomer folding, and protein-complex prediction. AtlasLM-3B is a 3B-scale language model trained with masked language modeling on approximately 1.56 billion sequences, including metagenomic data, and outperforms the similarly sized ESM2-3B in unsupervised contact prediction. Building on these representations, AtlasFold predicts all-atom protein structures and achieves state-of-the-art accuracy among PLM-based folding models. Fine-tuning AtlasFold for protein-complex prediction produces AtlasFold-Multimer (AtlasFold-M), whose antibody-antigen prediction performance is comparable to that of AlphaFold3 and ESMFold2. This protein-specific folding architecture enables fast, memory-efficient inference with AtlasFold and AtlasFold-M. By releasing the training code and data, stage checkpoints, and model weights under the MIT License, we provide a foundation for advancing PLM-based protein structure prediction.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  Protein language models (PLMs) trained on evolutionary sequences learn representations that encode protein structure, enabling direct structure prediction without multiple-sequence alignments (MSAs). Here we present the Atlas model family, an open and trainable system spanning protein language modeling, monomer folding, and protein-complex prediction. AtlasLM-3B is a 3B-scale language model trained with masked language modeling on approximately 1.56 billion sequences, including metagenomic data, and outperforms the similarly sized ESM2-3B in unsupervised contact prediction. Building on these representations, AtlasFold predicts all-atom protein structures and achieves state-of-the-art accuracy among PLM-based folding models. Fine-tuning AtlasFold for protein-complex prediction produces AtlasFold-Multimer (AtlasFold-M), whose antibody–antigen prediction performance is comparable to that of AlphaFold3 and ESMFold2. This protein-specific folding architecture enables fast, memory-efficient inference with AtlasFold and AtlasFold-M. By releasing the training code and data, stage checkpoints, and model weights under the MIT License, we provide a foundation for advancing PLM-based protein structure prediction.\n                  <jats:sup>1</jats:sup>\n                </jats:p>",
       "DOI": "10.64898/2026.09.04.749352",
       "type": "posted-content",
       "created": {
@@ -140,7 +140,10 @@
           "sequence": "first",
           "affiliation": [
             {
-              "name": "Korea Advanced Institute of Science and Technology (KAIST)"
+              "name": "Department of Chemistry, KAIST, Daejeon, Republic of Korea"
+            },
+            {
+              "name": "Team KAIST, Daejeon, Republic of Korea"
             }
           ],
           "role": [
@@ -158,7 +161,10 @@
           "sequence": "additional",
           "affiliation": [
             {
-              "name": "Korea Advanced Institute of Science and Technology (KAIST)"
+              "name": "Department of Chemistry, KAIST, Daejeon, Republic of Korea"
+            },
+            {
+              "name": "Team KAIST, Daejeon, Republic of Korea"
             }
           ],
           "role": [
@@ -176,7 +182,10 @@
           "sequence": "additional",
           "affiliation": [
             {
-              "name": "Korea Advanced Institute of Science and Technology (KAIST)"
+              "name": "Department of Chemistry, KAIST, Daejeon, Republic of Korea"
+            },
+            {
+              "name": "Team KAIST, Daejeon, Republic of Korea"
             }
           ],
           "role": [
@@ -194,7 +203,13 @@
           "sequence": "additional",
           "affiliation": [
             {
-              "name": "Korea Advanced Institute of Science and Technology (KAIST)"
+              "name": "Department of Chemistry, KAIST, Daejeon, Republic of Korea"
+            },
+            {
+              "name": "Team KAIST, Daejeon, Republic of Korea"
+            },
+            {
+              "name": "HITS, Seoul, Republic of Korea"
             }
           ],
           "role": [
@@ -217,6 +232,189 @@
         }
       ],
       "member": "54368",
+      "reference": [
+        {
+          "key": "2026091111202164000_2026.09.04.749352v2.1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/S41586-021-03819-2"
+        },
+        {
+          "key": "2026091111202164000_2026.09.04.749352v2.2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1101/2021.10.04.463034"
+        },
+        {
+          "key": "2026091111202164000_2026.09.04.749352v2.3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/S41586-024-07487-W"
+        },
+        {
+          "key": "2026091111202164000_2026.09.04.749352v2.4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1101/2024.10.10.615955"
+        },
+        {
+          "key": "2026091111202164000_2026.09.04.749352v2.5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1101/2024.11.19.624167"
+        },
+        {
+          "key": "2026091111202164000_2026.09.04.749352v2.6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.64898/2026.02.05.703733"
+        },
+        {
+          "key": "2026091111202164000_2026.09.04.749352v2.7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1101/2020.12.15.422761"
+        },
+        {
+          "key": "2026091111202164000_2026.09.04.749352v2.8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.ade2574"
+        },
+        {
+          "key": "2026091111202164000_2026.09.04.749352v2.9",
+          "unstructured": "Chengyue Gong , Xinshi Chen , Yuxuan Zhang , Yuxuan Song , Hao Zhou , and Wenzhi Xiao. Protenix-mini: Efficient structure predictor via compact architecture, few-step diffusion and switchable plm. 2025. URL https://arxiv.org/abs/2507.11839."
+        },
+        {
+          "key": "2026091111202164000_2026.09.04.749352v2.10",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Salvatore Candido , Thomas Hayes , Alexander Derry , Roshan Rao , Zeming Lin , Robert Verkuil , Bryan Z Wu , Jin Sub Lee , Elise S Bruguera , Jehan A Keval , et al. Language modeling materializes a world model of protein biology. bioRxiv, pages 2026–06, 2026.",
+          "DOI": "10.64898/2026.06.03.729735"
+        },
+        {
+          "issue": "1",
+          "key": "2026091111202164000_2026.09.04.749352v2.11",
+          "doi-asserted-by": "crossref",
+          "first-page": "442",
+          "DOI": "10.1038/s41467-025-67127-3",
+          "article-title": "Bench-marking all-atom biomolecular structure prediction with FoldBench",
+          "volume": "17",
+          "year": "2025",
+          "journal-title": "Nature Communications"
+        },
+        {
+          "key": "2026091111202164000_2026.09.04.749352v2.12",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/bioinformatics/btm098"
+        },
+        {
+          "key": "2026091111202164000_2026.09.04.749352v2.13",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/gkz1035"
+        },
+        {
+          "key": "2026091111202164000_2026.09.04.749352v2.14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41467-018-04964-5"
+        },
+        {
+          "key": "2026091111202164000_2026.09.04.749352v2.15",
+          "unstructured": "Roshan M Rao , Jason Liu , Robert Verkuil , Joshua Meier , John Canny , Pieter Abbeel , Tom Sercu , and Alexander Rives . MSA Transformer. In Marina Meila and Tong Zhang , editors, Proceedings of the 38th International Conference on Machine Learning, volume 139 of Proceedings of Machine Learning Research, pages 8844–8856. PMLR, 18–24 Jul 2021. URL https://proceedings.mlr.press/v139/rao21a.html."
+        },
+        {
+          "key": "2026091111202164000_2026.09.04.749352v2.16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41592-024-02272-z"
+        },
+        {
+          "key": "2026091111202164000_2026.09.04.749352v2.17",
+          "doi-asserted-by": "crossref",
+          "first-page": "387",
+          "DOI": "10.1002/prot.25431",
+          "article-title": "Continuous automated model evaluation (CAMEO) complementing the critical assessment of structure prediction in CASP12",
+          "volume": "86",
+          "year": "2018",
+          "journal-title": "Proteins: Structure, Function, and Bioinformatics"
+        },
+        {
+          "key": "2026091111202164000_2026.09.04.749352v2.18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.abj8754"
+        },
+        {
+          "key": "2026091111202164000_2026.09.04.749352v2.19",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Minkyung Baek , Ivan Anishchenko , Ian R Humphreys , Qian Cong , David Baker , and Frank DiMaio . Efficient and accurate prediction of protein structure using RoseTTAFold2. BioRxiv, 2023.",
+          "DOI": "10.1101/2023.05.24.542179"
+        },
+        {
+          "key": "2026091111202164000_2026.09.04.749352v2.20",
+          "unstructured": "Yuyang Wang , Jiarui Lu , Navdeep Jaitly , Joshua Susskind , and Miguel Angel Bautista . SimpleFold: Folding proteins is simpler than you think. In International Conference on Learning Representations, volume 2026, pages 32027–32054, 2026."
+        },
+        {
+          "issue": "12",
+          "key": "2026091111202164000_2026.09.04.749352v2.21",
+          "doi-asserted-by": "crossref",
+          "first-page": "1925",
+          "DOI": "10.1002/prot.26582",
+          "article-title": "Critical assessment of protein intrinsic disorder prediction (CAID)-results of round 2",
+          "volume": "91",
+          "year": "2023",
+          "journal-title": "Proteins: Structure, Function, and Bioinformatics"
+        },
+        {
+          "key": "2026091111202164000_2026.09.04.749352v2.22",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.ads0018"
+        },
+        {
+          "key": "2026091111202164000_2026.09.04.749352v2.23",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Tero Karras , Miika Aittala , Timo Aila , and Samuli Laine . Elucidating the Design Space of Diffusion-Based Generative Models, October 2022. arXiv:2206.00364.",
+          "DOI": "10.52202/068431-1926"
+        },
+        {
+          "key": "2026091111202164000_2026.09.04.749352v2.24",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Yewon Han , Maxim I Tsenkov , Niccolò AE Venanzi , Sooyoung Cha , Nilkanth Patel , Sreenath Nair , Razan Abbara , Damian Bertoni , Alejandro Chacón , Nick Dietrich , et al. Alphafold database expands to proteome-scale quaternary structures. bioRxiv, pages 2026–03, 2026.",
+          "DOI": "10.64898/2026.03.27.714458"
+        },
+        {
+          "key": "2026091111202164000_2026.09.04.749352v2.25",
+          "unstructured": "PyTorch Foundation. PyTorch 2.10 Release Blog, January 2026. URL https://pytorch.org/blog/pytorch-2-10-release-blog/. Accessed 2026-08-27."
+        },
+        {
+          "key": "2026091111202164000_2026.09.04.749352v2.26",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/28.1.235"
+        },
+        {
+          "key": "2026091111202164000_2026.09.04.749352v2.27",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/prot.20014"
+        },
+        {
+          "key": "2026091111202164000_2026.09.04.749352v2.28",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/bioinformatics/btt473"
+        },
+        {
+          "key": "2026091111202164000_2026.09.04.749352v2.29",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1107/S0907444913007051"
+        },
+        {
+          "key": "2026091111202164000_2026.09.04.749352v2.30",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41592-022-01488-1"
+        },
+        {
+          "key": "2026091111202164000_2026.09.04.749352v2.31",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nbt.3988"
+        },
+        {
+          "key": "2026091111202164000_2026.09.04.749352v2.32",
+          "unstructured": "NVIDIA. cuEquivariance: Accelerated geometric neural-network operations, 2026. URL https://github.com/NVIDIA/cuEquivariance. Accessed 2026-08-27."
+        },
+        {
+          "key": "2026091111202164000_2026.09.04.749352v2.33",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pone.0162755"
+        }
+      ],
       "link": [
         {
           "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.09.04.749352",
@@ -230,13 +428,13 @@
           [
             2026,
             9,
-            8
+            11
           ]
         ],
-        "date-time": "2026-09-08T07:55:16Z",
-        "timestamp": 1788854116000
+        "date-time": "2026-09-11T18:20:35Z",
+        "timestamp": 1789150835000
       },
-      "score": 55.671257,
+      "score": 55.70519,
       "resource": {
         "primary": {
           "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.09.04.749352"
@@ -251,7 +449,7 @@
           ]
         ]
       },
-      "references-count": 0,
+      "references-count": 33,
       "URL": "https://doi.org/10.64898/2026.09.04.749352",
       "published": {
         "date-parts": [

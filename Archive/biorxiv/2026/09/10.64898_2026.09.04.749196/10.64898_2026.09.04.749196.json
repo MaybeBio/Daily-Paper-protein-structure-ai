@@ -3,10 +3,10 @@
   "source_id": "10.64898/2026.09.04.749196",
   "title": "De Novo Design and AlphaFold3 Evaluation of Protein Binders Targeting Specific Sites of MAP4K4",
   "doi": "10.64898/2026.09.04.749196",
-  "abstract": "MAP4K4 is a serine/threonine kinase member of the mitogen activated protein kinase family. It acts through the JNK, p38 MAPK, and ERK1/2 pathways and is implicated in cancer proliferation and invasion, TNF-α-driven insulin resistance, macrophage-mediated inflammation, and cardiomyocyte apoptosis in heart failure. No selective small-molecule inhibitor of MAP4K4 has reached clinical use, and knowledge of the specific epitopes on MAP4K4 is lacking for some existing antibodies, leaving a role for small protein binders directed at specific surface sites. We used a computational pipeline that combines RFdiffusion, ProteinMPNN, and AlphaFold2, as well as BindCraft, an integrated \"one-shot\" tool, for de novo design of small protein binders (~50–130 residues) to specific MAP4K4 surface hotspots. We also created an automated hotspot determination algorithm that weighs geometry, chemistry, rigidity, and AlphaFold pLDDT. From thousands of candidate sequences, we evaluated 20 of the most promising binders with AlphaFold3 (AF3). The interface predicted template modeling (ipTM) scores ranged from 0.16 to 0.90, with nine candidates having ipTM ≥ 0.80, and five scoring ≥ 0.87. Two binders engage non-overlapping hotspots on opposite faces of MAP4K4, making them a candidate pair for a sandwich assay. BLASTp searches of all designed protein sequences returned only low-significance matches to half of them, indicating that they represent truly novel binding solutions and previously unexplored regions of protein sequence space rather than rediscovered natural motifs. We subjected five complexes spanning the observed AF3 confidence range to 100-ns explicit-solvent molecular dynamics simulation. Interchain contacts were retained throughout, with stability varying substantially between systems. Confidence in the binding specificity of the nine highest-confidence candidates was bolstered by juxtaposition with AF3 evaluations of their interaction with CDK2, a negative-control kinase. This comparison yielded a significant, consistent reduction in ipTM (p = 0.0039) for the control binding partner. ToxinPred2 and AlgPred 2.0 screening suggested that one candidate was a potential allergen and two were potential toxins. These results support that de novo design of small, site-specific protein probes for an underserved disease target is achievable using free, publicly available computational tools and minimal resources, pointing to a greater role for the public and amateur scientists to contribute to biotechnological advancement.",
+  "abstract": "MAP4K4 is a serine/threonine kinase member of the mitogen activated protein kinase family. It acts through the JNK, p38 MAPK, and ERK1/2 pathways and is implicated in cancer proliferation and invasion, TNF-α-driven insulin resistance, macrophage-mediated inflammation, and cardiomyocyte apoptosis in heart failure. No selective small-molecule inhibitor of MAP4K4 has reached clinical use, and knowledge of the specific epitopes on MAP4K4 is lacking for some existing antibodies, leaving a role for small protein binders directed at specific surface sites. We used a computational pipeline that combines RFdiffusion, ProteinMPNN, and AlphaFold2, as well as BindCraft, an integrated “one-shot” tool, for de novo design of small protein binders (∼50–130 residues) to specific MAP4K4 surface hotspots. We also created an automated hotspot determination algorithm that weighs geometry, chemistry, rigidity, and AlphaFold pLDDT. From thousands of candidate sequences, we evaluated 20 of the most promising binders with AlphaFold3 (AF3). The interface predicted template modeling (ipTM) scores ranged from 0.16 to 0.90, with nine candidates having ipTM ≥ 0.80, and five scoring ≥ 0.87. Two binders engage non-overlapping hotspots on opposite faces of MAP4K4, making them a candidate pair for a sandwich assay. BLASTp searches of all designed protein sequences returned only low-significance matches to half of them, indicating that they represent truly novel binding solutions and previously unexplored regions of protein sequence space rather than rediscovered natural motifs. We subjected five complexes spanning the observed AF3 confidence range to 100-ns explicit-solvent molecular dynamics simulation. Interchain contacts were retained throughout, with stability varying substantially between systems. Confidence in the binding specificity of the nine highest-confidence candidates was bolstered by juxtaposition with AF3 evaluations of their interaction with CDK2, a negative-control kinase. This comparison yielded a significant, consistent reduction in ipTM (p = 0.0039) for the control binding partner. ToxinPred2 and AlgPred 2.0 screening suggested that one candidate was a potential allergen and two were potential toxins. These results support that de novo design of small, site-specific protein probes for an underserved disease target is achievable using free, publicly available computational tools and minimal resources, pointing to a greater role for the public and amateur scientists to contribute to biotechnological advancement.",
   "authors": [
     "Aarnav Jain",
-    "Alexander V Tobias"
+    "Alexander V. Tobias"
   ],
   "published_date": "2026-09-07",
   "updated_date": "2026-09-07T21:10:22Z",
@@ -37,11 +37,11 @@
           [
             2026,
             9,
-            7
+            10
           ]
         ],
-        "date-time": "2026-09-07T22:07:19Z",
-        "timestamp": 1788818839901,
+        "date-time": "2026-09-10T12:20:21Z",
+        "timestamp": 1789042821058,
         "version": "build-2803163510"
       },
       "posted": {
@@ -54,7 +54,7 @@
         ]
       },
       "group-title": "Bioengineering",
-      "reference-count": 0,
+      "reference-count": 25,
       "publisher": "openRxiv",
       "license": [
         {
@@ -87,7 +87,7 @@
           ]
         ]
       },
-      "abstract": "<jats:p>MAP4K4 is a serine/threonine kinase member of the mitogen activated protein kinase family. It acts through the JNK, p38 MAPK, and ERK1/2 pathways and is implicated in cancer proliferation and invasion, TNF-α-driven insulin resistance, macrophage-mediated inflammation, and cardiomyocyte apoptosis in heart failure. No selective small-molecule inhibitor of MAP4K4 has reached clinical use, and knowledge of the specific epitopes on MAP4K4 is lacking for some existing antibodies, leaving a role for small protein binders directed at specific surface sites. We used a computational pipeline that combines RFdiffusion, ProteinMPNN, and AlphaFold2, as well as BindCraft, an integrated \"one-shot\" tool, for de novo design of small protein binders (~50–130 residues) to specific MAP4K4 surface hotspots. We also created an automated hotspot determination algorithm that weighs geometry, chemistry, rigidity, and AlphaFold pLDDT. From thousands of candidate sequences, we evaluated 20 of the most promising binders with AlphaFold3 (AF3). The interface predicted template modeling (ipTM) scores ranged from 0.16 to 0.90, with nine candidates having ipTM ≥ 0.80, and five scoring ≥ 0.87. Two binders engage non-overlapping hotspots on opposite faces of MAP4K4, making them a candidate pair for a sandwich assay. BLASTp searches of all designed protein sequences returned only low-significance matches to half of them, indicating that they represent truly novel binding solutions and previously unexplored regions of protein sequence space rather than rediscovered natural motifs. We subjected five complexes spanning the observed AF3 confidence range to 100-ns explicit-solvent molecular dynamics simulation. Interchain contacts were retained throughout, with stability varying substantially between systems. Confidence in the binding specificity of the nine highest-confidence candidates was bolstered by juxtaposition with AF3 evaluations of their interaction with CDK2, a negative-control kinase. This comparison yielded a significant, consistent reduction in ipTM (p = 0.0039) for the control binding partner. ToxinPred2 and AlgPred 2.0 screening suggested that one candidate was a potential allergen and two were potential toxins. These results support that de novo design of small, site-specific protein probes for an underserved disease target is achievable using free, publicly available computational tools and minimal resources, pointing to a greater role for the public and amateur scientists to contribute to biotechnological advancement.</jats:p>",
+      "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  MAP4K4 is a serine/threonine kinase member of the mitogen activated protein kinase family. It acts through the JNK, p38 MAPK, and ERK1/2 pathways and is implicated in cancer proliferation and invasion, TNF-α-driven insulin resistance, macrophage-mediated inflammation, and cardiomyocyte apoptosis in heart failure. No selective small-molecule inhibitor of MAP4K4 has reached clinical use, and knowledge of the specific epitopes on MAP4K4 is lacking for some existing antibodies, leaving a role for small protein binders directed at specific surface sites. We used a computational pipeline that combines RFdiffusion, ProteinMPNN, and AlphaFold2, as well as BindCraft, an integrated “one-shot” tool, for\n                  <jats:italic>de novo</jats:italic>\n                  design of small protein binders (∼50–130 residues) to specific MAP4K4 surface hotspots. We also created an automated hotspot determination algorithm that weighs geometry, chemistry, rigidity, and AlphaFold pLDDT. From thousands of candidate sequences, we evaluated 20 of the most promising binders with AlphaFold3 (AF3). The interface predicted template modeling (ipTM) scores ranged from 0.16 to 0.90, with nine candidates having ipTM ≥ 0.80, and five scoring ≥ 0.87. Two binders engage non-overlapping hotspots on opposite faces of MAP4K4, making them a candidate pair for a sandwich assay. BLASTp searches of all designed protein sequences returned only low-significance matches to half of them, indicating that they represent truly novel binding solutions and previously unexplored regions of protein sequence space rather than rediscovered natural motifs. We subjected five complexes spanning the observed AF3 confidence range to 100-ns explicit-solvent molecular dynamics simulation. Interchain contacts were retained throughout, with stability varying substantially between systems. Confidence in the binding specificity of the nine highest-confidence candidates was bolstered by juxtaposition with AF3 evaluations of their interaction with CDK2, a negative-control kinase. This comparison yielded a significant, consistent reduction in ipTM (p = 0.0039) for the control binding partner. ToxinPred2 and AlgPred 2.0 screening suggested that one candidate was a potential allergen and two were potential toxins. These results support that\n                  <jats:italic>de novo</jats:italic>\n                  design of small, site-specific protein probes for an underserved disease target is achievable using free, publicly available computational tools and minimal resources, pointing to a greater role for the public and amateur scientists to contribute to biotechnological advancement.\n                </jats:p>",
       "DOI": "10.64898/2026.09.04.749196",
       "type": "posted-content",
       "created": {
@@ -114,7 +114,10 @@
           "sequence": "first",
           "affiliation": [
             {
-              "name": "Illinois Mathematics and Science Academy;"
+              "name": "Illinois Mathematics and Science Academy, Aurora, IL, USA"
+            },
+            {
+              "name": "Throop Research Academy, Gaithersburg, MD, USA"
             }
           ],
           "role": [
@@ -127,12 +130,12 @@
         {
           "ORCID": "https://orcid.org/0000-0002-5866-5254",
           "authenticated-orcid": false,
-          "given": "Alexander V",
+          "given": "Alexander V.",
           "family": "Tobias",
           "sequence": "additional",
           "affiliation": [
             {
-              "name": "Throop Research Academy"
+              "name": "Throop Research Academy, Gaithersburg, MD, USA"
             }
           ],
           "role": [
@@ -144,6 +147,142 @@
         }
       ],
       "member": "54368",
+      "reference": [
+        {
+          "key": "2026091005000794000_2026.09.04.749196v1.1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3390/cancers15082272"
+        },
+        {
+          "key": "2026091005000794000_2026.09.04.749196v1.2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1074/jbc.M608602200"
+        },
+        {
+          "key": "2026091005000794000_2026.09.04.749196v1.3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nature07774"
+        },
+        {
+          "key": "2026091005000794000_2026.09.04.749196v1.4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/ncomms5602"
+        },
+        {
+          "key": "2026091005000794000_2026.09.04.749196v1.5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.stem.2019.01.013"
+        },
+        {
+          "key": "2026091005000794000_2026.09.04.749196v1.6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7554/eLife.100211"
+        },
+        {
+          "key": "2026091005000794000_2026.09.04.749196v1.7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41586-023-06415-8"
+        },
+        {
+          "key": "2026091005000794000_2026.09.04.749196v1.8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.add2187"
+        },
+        {
+          "key": "2026091005000794000_2026.09.04.749196v1.9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/S41586-021-03819-2"
+        },
+        {
+          "key": "2026091005000794000_2026.09.04.749196v1.10",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Pacesa, M. , Nickel, L. , Schellhaas, C. , Schmidt, J. , Pyatova, E. , Kissling, L. , Barendse, P. , Choudhury, J. , Kapoor, S. , Alcaraz-Serna, A. , Cho, Y. , Ghamary, K.H. , Vinué, L. , Yachnin, B.J. , Wollacott, A.M. , Buckley, S. , Westphal, A.H. , Lindhoud, S. , Georgeon, S. , Goverde, C.A. , Hatzopoulos, G.N. , Gönczy, P. , Muller, Y.D. , Schwank, G. , Swarts, D.C. , Vecchio, A.J. , Schneider, B.L. , Ovchinnikov, S. , Correia, B.E. BindCraft: One-Shot Design of Functional Protein Binders. bioRxiv (2024). https://github.com/martinpacesa/BindCraft",
+          "DOI": "10.1101/2024.09.30.615802"
+        },
+        {
+          "key": "2026091005000794000_2026.09.04.749196v1.11",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/S41586-024-07487-W"
+        },
+        {
+          "key": "2026091005000794000_2026.09.04.749196v1.12",
+          "doi-asserted-by": "crossref",
+          "first-page": "3671",
+          "DOI": "10.3390/ijms26083671",
+          "article-title": "AlphaFold3: An Overview of Applications and Performance Insights",
+          "volume": "26",
+          "year": "2025",
+          "journal-title": "Int. J. Mol. Sci"
+        },
+        {
+          "key": "2026091005000794000_2026.09.04.749196v1.13",
+          "unstructured": "Griffin, C. , Howard, H. , Paterson, A. , Swanson, N. , Bloxwich, D. , Jumper, J. , Kohli, P. , Lundblad, N . Our approach to biosecurity for AlphaFold 3. Google DeepMind (2024)."
+        },
+        {
+          "key": "2026091005000794000_2026.09.04.749196v1.14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/25.17.3389"
+        },
+        {
+          "key": "2026091005000794000_2026.09.04.749196v1.15",
+          "unstructured": "National Center for Biotechnology Information (NCBI). Protein BLAST. U.S. National Library of Medicine. Retrieved August 13, 2026, from https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE=Protein (2026)."
+        },
+        {
+          "key": "2026091005000794000_2026.09.04.749196v1.16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5281/zenodo.15161108"
+        },
+        {
+          "key": "2026091005000794000_2026.09.04.749196v1.17",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/PRO.3943"
+        },
+        {
+          "key": "2026091005000794000_2026.09.04.749196v1.18",
+          "unstructured": "Wu, P. , Chen, H. , Coons, M. , Crawford, T.D. , Kirkpatrick, D.S. , Murray, L. , Ndubaku, C.O. , Nonomiya, J. , Pham, V. , Schmidt, S. , Smysczek, T. , Vitorino, P. , Ye, W. , Harris, S.F. Structural Plasticity and Kinase Activation in a Cohort of MAP4K4 Structures. RCSB Protein Data Bank, PDB ID 4U40 (2016)."
+        },
+        {
+          "key": "2026091005000794000_2026.09.04.749196v1.19",
+          "doi-asserted-by": "crossref",
+          "first-page": "19",
+          "DOI": "10.1016/j.softx.2015.06.001",
+          "article-title": "GROMACS: High Performance Molecular Simulations through Multi-Level Parallelism from Laptops to Supercomputers",
+          "volume": "1-2",
+          "year": "2015",
+          "journal-title": "SoftwareX"
+        },
+        {
+          "key": "2026091005000794000_2026.09.04.749196v1.20",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nmeth.4067"
+        },
+        {
+          "key": "2026091005000794000_2026.09.04.749196v1.21",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/363595a0"
+        },
+        {
+          "key": "2026091005000794000_2026.09.04.749196v1.22",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/bib/bbac174"
+        },
+        {
+          "key": "2026091005000794000_2026.09.04.749196v1.23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/bib/bbaa294"
+        },
+        {
+          "key": "2026091005000794000_2026.09.04.749196v1.24",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Ozden, B. , Cuesta Astroz, Y. , Karaca, E. AlphaFold2 and AlphaFold3 lead to significantly different results in human-parasite interaction prediction. bioRxiv 2024.09.19.613643 (2024).",
+          "DOI": "10.1101/2024.09.19.613643"
+        },
+        {
+          "key": "2026091005000794000_2026.09.04.749196v1.25",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/(SICI)1234-981X(199707)5:3<305::AID-EURO184>3.0.CO;2-4"
+        }
+      ],
       "link": [
         {
           "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.09.04.749196",
@@ -157,13 +296,13 @@
           [
             2026,
             9,
-            7
+            10
           ]
         ],
-        "date-time": "2026-09-07T21:10:22Z",
-        "timestamp": 1788815422000
+        "date-time": "2026-09-10T12:00:19Z",
+        "timestamp": 1789041619000
       },
-      "score": 48.36752,
+      "score": 48.370235,
       "resource": {
         "primary": {
           "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.09.04.749196"
@@ -178,7 +317,7 @@
           ]
         ]
       },
-      "references-count": 0,
+      "references-count": 25,
       "URL": "https://doi.org/10.64898/2026.09.04.749196",
       "published": {
         "date-parts": [

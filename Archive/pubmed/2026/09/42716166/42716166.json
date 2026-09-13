@@ -1,0 +1,250 @@
+{
+  "identity": {
+    "pmid": "42716166",
+    "doi": "10.1016/j.ijbiomac.2026.154387",
+    "title": "Balanced regulation of UvsX activity and thermostability based on active learning."
+  },
+  "content": {
+    "abstract": "Recombinase polymerase amplification (RPA) enables isothermal nucleic acid detection. However, the key enzyme UvsX of RPA exhibits suboptimal efficiency at low-temperature conditions and low template concentration. Here, we employed a directed engineering strategy combining energy-based screening and protein language models (PLMs). Through semi rational design and iterative optimization with EVOLVEpro, we obtained a triple mutant, TIG (S233T/A311I/A341G), which achieved 1.89-fold RPA relative activity of the wild-type (WT) at a template concentration of 1 x 10(5) copies reaction(-1), and showed higher amplification activity to WT across 37.5-44.3  degrees C at a template concentration of 1 x 10(4) copies reaction(-1). Molecular dynamics simulations revealed that TIG enhances residue flexibility and remodels the ATP-binding pocket, thereby improving DNA-binding pathway connectivity and strengthening the coupling between ATP hydrolysis and DNA strand exchange. Per-residue energy decomposition and protein structure network analyses further elucidate how key mutations modulate DNA-binding pathways. Finally, under optimized expression conditions (20  degrees C, 12 h, 0.1 mM IPTG), the yield reached 206.87 +/- 3.56 mg L(-1) of TIG. Collectively, this study provides a strategy for UvsX engineering and establishes a foundation for the development of more robust RPA assays.",
+    "keywords": [
+      "Nucleic acid amplification",
+      "Protein engineering",
+      "Protein language model",
+      "Recombinase polymerase amplification",
+      "UvsX recombinase"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Lingsong",
+        "Zhang, Lin",
+        "Li, Dongxiao",
+        "Zhang, Jiaxing",
+        "You, Shengping",
+        "Su, Rongxin",
+        "Qi, Wei"
+      ],
+      "short_names": [
+        "Li L",
+        "Zhang L",
+        "Li D",
+        "Zhang J",
+        "You S",
+        "Su R",
+        "Qi W"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Chemical Engineering Research Center, School of Chemical Engineering and Technology, Tianjin University, Tianjin, 300350, PR China.",
+        "Chemical Engineering Research Center, School of Chemical Engineering and Technology, Tianjin University, Tianjin, 300350, PR China.",
+        "Yuantian Biotechnology (Tianjin) Co., Ltd., Tianjin, 300457, China.",
+        "Chemical Engineering Research Center, School of Chemical Engineering and Technology, Tianjin University, Tianjin, 300350, PR China; State Key Laboratory of Chemical Engineering and Low-Carbon Technology, Tianjin University, Tianjin, 300350, PR China. Electronic address: zhangjiaxing7137@tju.edu.cn.",
+        "Chemical Engineering Research Center, School of Chemical Engineering and Technology, Tianjin University, Tianjin, 300350, PR China. Electronic address: ysp@tju.edu.cn.",
+        "Chemical Engineering Research Center, School of Chemical Engineering and Technology, Tianjin University, Tianjin, 300350, PR China; State Key Laboratory of Chemical Engineering and Low-Carbon Technology, Tianjin University, Tianjin, 300350, PR China; Collaborative Innovation Center of Chemical Science and Engineering (Tianjin), Tianjin, 300072, PR China; Tianjin Key Laboratory of Membrane Science and Desalination Technology, Tianjin University, Tianjin, 300072, PR China.",
+        "Chemical Engineering Research Center, School of Chemical Engineering and Technology, Tianjin University, Tianjin, 300350, PR China; State Key Laboratory of Chemical Engineering and Low-Carbon Technology, Tianjin University, Tianjin, 300350, PR China; Collaborative Innovation Center of Chemical Science and Engineering (Tianjin), Tianjin, 300072, PR China; Tianjin Key Laboratory of Membrane Science and Desalination Technology, Tianjin University, Tianjin, 300072, PR China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Lingsong",
+        "short_name": "Li L",
+        "identifiers": [],
+        "affiliations": [
+          "Chemical Engineering Research Center, School of Chemical Engineering and Technology, Tianjin University, Tianjin, 300350, PR China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Lin",
+        "short_name": "Zhang L",
+        "identifiers": [],
+        "affiliations": [
+          "Chemical Engineering Research Center, School of Chemical Engineering and Technology, Tianjin University, Tianjin, 300350, PR China."
+        ]
+      },
+      {
+        "full_name": "Li, Dongxiao",
+        "short_name": "Li D",
+        "identifiers": [],
+        "affiliations": [
+          "Yuantian Biotechnology (Tianjin) Co., Ltd., Tianjin, 300457, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Jiaxing",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "Chemical Engineering Research Center, School of Chemical Engineering and Technology, Tianjin University, Tianjin, 300350, PR China; State Key Laboratory of Chemical Engineering and Low-Carbon Technology, Tianjin University, Tianjin, 300350, PR China. Electronic address: zhangjiaxing7137@tju.edu.cn."
+        ]
+      },
+      {
+        "full_name": "You, Shengping",
+        "short_name": "You S",
+        "identifiers": [],
+        "affiliations": [
+          "Chemical Engineering Research Center, School of Chemical Engineering and Technology, Tianjin University, Tianjin, 300350, PR China. Electronic address: ysp@tju.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Su, Rongxin",
+        "short_name": "Su R",
+        "identifiers": [],
+        "affiliations": [
+          "Chemical Engineering Research Center, School of Chemical Engineering and Technology, Tianjin University, Tianjin, 300350, PR China; State Key Laboratory of Chemical Engineering and Low-Carbon Technology, Tianjin University, Tianjin, 300350, PR China; Collaborative Innovation Center of Chemical Science and Engineering (Tianjin), Tianjin, 300072, PR China; Tianjin Key Laboratory of Membrane Science and Desalination Technology, Tianjin University, Tianjin, 300072, PR China."
+        ]
+      },
+      {
+        "full_name": "Qi, Wei",
+        "short_name": "Qi W",
+        "identifiers": [],
+        "affiliations": [
+          "Chemical Engineering Research Center, School of Chemical Engineering and Technology, Tianjin University, Tianjin, 300350, PR China; State Key Laboratory of Chemical Engineering and Low-Carbon Technology, Tianjin University, Tianjin, 300350, PR China; Collaborative Innovation Center of Chemical Science and Engineering (Tianjin), Tianjin, 300072, PR China; Tianjin Key Laboratory of Membrane Science and Desalination Technology, Tianjin University, Tianjin, 300072, PR China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of biological macromolecules"
+    ],
+    "journal_abbrev": [
+      "Int J Biol Macromol"
+    ],
+    "pub_date": "2026 Sep 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/09 23:36",
+    "fetched_at": "2026-09-13 13:07:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42716166",
+      "40448616",
+      "41485486",
+      "40261914",
+      "34166918",
+      "40158835",
+      "35098395",
+      "39948709",
+      "40970715",
+      "41467381",
+      "36806411",
+      "33177003",
+      "19027026",
+      "40821985",
+      "40599263",
+      "37718149",
+      "42197341",
+      "14634008",
+      "41538097",
+      "42075253",
+      "38719683",
+      "42189760",
+      "40601569",
+      "36170603",
+      "39492216",
+      "32487081",
+      "36076203",
+      "38375936",
+      "42052644",
+      "40042274",
+      "29141528",
+      "34506127",
+      "39778823",
+      "1649833",
+      "20304972",
+      "40460986",
+      "31399021",
+      "32793160",
+      "36321557",
+      "42086922",
+      "41538944",
+      "21476587",
+      "41495887",
+      "30196454",
+      "42638067",
+      "36466644",
+      "24629133",
+      "41133889",
+      "41850450",
+      "42475469",
+      "19244311",
+      "37977801",
+      "42082535",
+      "29524216",
+      "40472005",
+      "42134603",
+      "39862676",
+      "32206697",
+      "26215347",
+      "38460421",
+      "37874890",
+      "42425668",
+      "41873075",
+      "31340841",
+      "40273346",
+      "40277382",
+      "33718285",
+      "28342800",
+      "31904418",
+      "34847361",
+      "33718281",
+      "29378166",
+      "39557250",
+      "42722070",
+      "41742454",
+      "35595156",
+      "38252231",
+      "40243272",
+      "39506601",
+      "38411701",
+      "37854940",
+      "30572884",
+      "38319081",
+      "34123877",
+      "9065463",
+      "42246097",
+      "33539437",
+      "35766476",
+      "37672070",
+      "41729380",
+      "27593155",
+      "25264766",
+      "30458768",
+      "40253476",
+      "16829679",
+      "34801595",
+      "25560368",
+      "35200333",
+      "34578312",
+      "26804479"
+    ],
+    "review": [
+      "42716166",
+      "42052644"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0141-8130(26)04333-3",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "identity": {
+    "pmid": "42724590",
+    "doi": "10.62347/EKCM7279",
+    "title": "AI-assisted design and virtual profiling of targeted degraders for pancreatic cancer therapy via PROTAC technology."
+  },
+  "content": {
+    "abstract": "Pancreatic cancer remains one of the most lethal malignancies because of late diagnosis, aggressive progression, therapy resistance, and limited effective treatment options. Bromodomain-containing protein 4 (BRD4) is an important epigenetic regulator implicated in pancreatic cancer progression through its role in transcriptional control, cell proliferation, and survival signaling. Targeted protein degradation using proteolysis-targeting chimeras (PROTACs) offers a potential strategy for eliminating disease-associated proteins through ubiquitin-proteasome-mediated degradation rather than transient pharmacological inhibition. In this study, an AI-assisted and structure-guided computational workflow was used to design and virtually prioritize BRD4-targeting PROTAC candidates recruiting DCAF15 as the E3 ligase component. The workflow integrated protein-structure evaluation, pharmacophore-based ligand screening, ADMET and Lipinski filtering, binary protein-ligand docking, molecular-interaction analysis, rational linker selection, BRD4-DCAF15 protein-protein docking, PROTAC-mediated ternary-complex docking, and molecular dynamics simulation. The results identified CLTTMPBA-linker-E7820 as a computationally prioritized PROTAC architecture with favorable predicted binding behavior, residue-level interaction patterns, and simulated ternary-complex stability. Importantly, this study is entirely computational and should be interpreted as an early-stage in silico prioritization framework rather than experimental evidence of BRD4 degradation or anticancer efficacy. The proposed BRD4-DCAF15 PROTAC candidates represent lead hypotheses that require biochemical, cellular, pharmacological, and in vivo validation, including confirmation of target engagement, ternary-complex formation, proteasome-dependent BRD4 degradation, downstream transcriptional modulation, pancreatic cancer cell inhibition, selectivity, pharmacokinetics, toxicity, and antitumor efficacy.",
+    "keywords": [
+      "AI-assisted drug design",
+      "BRD4 oncogenic protein",
+      "PROTAC technology",
+      "Pancreatic cancer",
+      "targeted protein degradation"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Du, Bing",
+        "Wang, Kunjie",
+        "Wu, Zhu",
+        "Qiu, Shaofan",
+        "Konstantinos, Filippiadis Dimitrios",
+        "Yu, Shuo"
+      ],
+      "short_names": [
+        "Du B",
+        "Wang K",
+        "Wu Z",
+        "Qiu S",
+        "Konstantinos FD",
+        "Yu S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Oncology, The Second Hospital of Hebei Medical University Shijiazhuang 050000, Hebei, China.",
+        "Department of Oncology, Affiliated Hospital of Hebei University Baoding 071000, Hebei, China.",
+        "The Hunan Provincial Key Laboratory of The TCM Agricultural Biogenomics, Changsha Medical University Changsha 410219, Hunan, China.",
+        "Department of Gastrointestinal Surgery, The Second Hospital of Hebei Medical University Shijiazhuang 050000, Hebei, China.",
+        "Evgenidion University Hospital Athens 11528, Greece.",
+        "Department of Surgical Oncology, The Second Hospital of Hebei Medical University Shijiazhuang 050000, Hebei, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Du, Bing",
+        "short_name": "Du B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Oncology, The Second Hospital of Hebei Medical University Shijiazhuang 050000, Hebei, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Kunjie",
+        "short_name": "Wang K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Oncology, Affiliated Hospital of Hebei University Baoding 071000, Hebei, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Zhu",
+        "short_name": "Wu Z",
+        "identifiers": [],
+        "affiliations": [
+          "The Hunan Provincial Key Laboratory of The TCM Agricultural Biogenomics, Changsha Medical University Changsha 410219, Hunan, China."
+        ]
+      },
+      {
+        "full_name": "Qiu, Shaofan",
+        "short_name": "Qiu S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastrointestinal Surgery, The Second Hospital of Hebei Medical University Shijiazhuang 050000, Hebei, China."
+        ]
+      },
+      {
+        "full_name": "Konstantinos, Filippiadis Dimitrios",
+        "short_name": "Konstantinos FD",
+        "identifiers": [],
+        "affiliations": [
+          "Evgenidion University Hospital Athens 11528, Greece."
+        ]
+      },
+      {
+        "full_name": "Yu, Shuo",
+        "short_name": "Yu S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Surgical Oncology, The Second Hospital of Hebei Medical University Shijiazhuang 050000, Hebei, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "American journal of cancer research"
+    ],
+    "journal_abbrev": [
+      "Am J Cancer Res"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/11 11:38",
+    "fetched_at": "2026-09-13 13:07:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42724590",
+      "40014381",
+      "38746111",
+      "41635951",
+      "42107508",
+      "36787659",
+      "39571228",
+      "40667573",
+      "42635221",
+      "30721025",
+      "42509556",
+      "36841551",
+      "41045927",
+      "40659131",
+      "40223615",
+      "40380932",
+      "40295770",
+      "37443112",
+      "40012379",
+      "40946517",
+      "40202531",
+      "40671234",
+      "42094600",
+      "34432243",
+      "32404196",
+      "40516451",
+      "40665123",
+      "40317844",
+      "31767403",
+      "37683536",
+      "32338867",
+      "36606710",
+      "39892097",
+      "41194767",
+      "39476572",
+      "33773286",
+      "39816690",
+      "39953061",
+      "40700052",
+      "37388700",
+      "41876032",
+      "42709500",
+      "41160773",
+      "38284361",
+      "35101445",
+      "38383787",
+      "42176657",
+      "41750393",
+      "32082969",
+      "38069776",
+      "35734447",
+      "35084845",
+      "38524483",
+      "31746102",
+      "41618393",
+      "40788235",
+      "42239905",
+      "42108630",
+      "32893006",
+      "42556270",
+      "42233498",
+      "37877240",
+      "30788082",
+      "39783892",
+      "42263581",
+      "41170202",
+      "41659405",
+      "31734632",
+      "37614621",
+      "39475482",
+      "41558059",
+      "41471282",
+      "39483225",
+      "34494353",
+      "39219068",
+      "36300631",
+      "28288108",
+      "38609561",
+      "33792163",
+      "42224977",
+      "42146509",
+      "41577441",
+      "40567248",
+      "38907538",
+      "38702019",
+      "31708096",
+      "41740583",
+      "38513086",
+      "40623734",
+      "38408512",
+      "42178082",
+      "42184786",
+      "42656129",
+      "36142231",
+      "41850817",
+      "41643153",
+      "41935385",
+      "40188374",
+      "37904950",
+      "41635150"
+    ],
+    "review": [
+      "42724590",
+      "41635951",
+      "42107508",
+      "40667573",
+      "40012379",
+      "40946517",
+      "40671234",
+      "32404196",
+      "41160773",
+      "41750393",
+      "32082969",
+      "30788082",
+      "41471282",
+      "34494353",
+      "39219068",
+      "42224977",
+      "40567248",
+      "42178082",
+      "36142231",
+      "41643153",
+      "40188374"
+    ],
+    "pmc": [
+      "13559328"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

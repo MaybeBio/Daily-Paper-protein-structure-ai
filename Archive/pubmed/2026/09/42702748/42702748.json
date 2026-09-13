@@ -304,7 +304,7 @@
   },
   "metadata": {
     "entrez_date": "2026/09/07 05:35",
-    "fetched_at": "2026-09-08 15:48:04"
+    "fetched_at": "2026-09-13 13:07:01"
   },
   "links": {
     "cites": [],
@@ -340,8 +340,8 @@
       "31834641",
       "34116134",
       "40380988",
-      "27790751",
       "37202655",
+      "27790751",
       "40605822",
       "33949741",
       "39169559",
@@ -373,8 +373,8 @@
       "27277048",
       "33464181",
       "40407793",
-      "36796102",
       "30499221",
+      "36796102",
       "33513165",
       "27981641",
       "32406125",
@@ -416,7 +416,22 @@
     ],
     "pmc": [],
     "entrez": {},
-    "external": [],
+    "external": [
+      {
+        "url": "https://doi.org/10.1002/mrm.70586",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3480",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
     "text_mined": []
   }
 }

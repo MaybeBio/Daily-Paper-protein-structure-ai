@@ -1,0 +1,236 @@
+{
+  "identity": {
+    "pmid": "42708699",
+    "doi": "10.1021/acs.jctc.6c00914",
+    "title": "From Enhanced Sampling to Human-Readable Representations of Protein Dynamics."
+  },
+  "content": {
+    "abstract": "Understanding protein conformational dynamics is essential for elucidating biological function but remains challenging due to the wide range of time scales and the complexity of collective motions. Enhanced sampling methods overcome time scale limitations of conventional molecular dynamics, yet their effectiveness depends on the choice of collective variables (CVs), which are often difficult to define and may lack physical interpretability. In particular, collective variables derived from machine learning or collective vibrational modes can efficiently capture slow dynamics but are not easily mapped onto intuitive structural descriptors. Here, we present a fully automated framework that transforms enhanced sampling trajectories into human-readable representations of protein dynamics. Our approach combines enhanced sampling along CVs derived from frequency-selective anharmonic mode analysis with a post hoc analysis of biased trajectories using weighted dynamic cross-correlation matrices. From these, we identify residue pairs and domains exhibiting correlated and anticorrelated motions, yielding simple domain-domain distances that serve as physically interpretable CVs. We apply this method to five proteins, including KRAS and HIV-1 protease, and show that it consistently identifies biologically relevant domains and motions without prior system-specific knowledge. Projection onto these distances produces free energy surfaces that reproduce known conformational states with low statistical uncertainty while maximizing independent dynamical information. This workflow enables systematic recasting of complex CVs into simple geometric descriptors without loss of essential dynamics. Its generality and automation make it broadly applicable for interpreting enhanced sampling simulations and generating interpretable conformational ensembles for integration with emerging machine learning approaches.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Molecular Dynamics Simulation",
+      "Humans",
+      "*HIV Protease/chemistry/metabolism",
+      "Protein Conformation",
+      "*Proto-Oncogene Proteins p21(ras)/chemistry/metabolism",
+      "*Proteins/chemistry",
+      "Machine Learning"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Mondal, Souvik",
+        "Sauer, Michael A",
+        "Heyden, Matthias"
+      ],
+      "short_names": [
+        "Mondal S",
+        "Sauer MA",
+        "Heyden M"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-5225-6233",
+        "ORCID: 0000-0002-7956-5287"
+      ],
+      "affiliations": [
+        "School of Molecular Sciences, Arizona State University, Tempe, Arizona85287, United States.",
+        "School of Molecular Sciences & Center for Biological Physics, Arizona State University, Tempe, Arizona85287, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Mondal, Souvik",
+        "short_name": "Mondal S",
+        "identifiers": [
+          "0000-0001-5225-6233"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Sauer, Michael A",
+        "short_name": "Sauer MA",
+        "identifiers": [],
+        "affiliations": [
+          "School of Molecular Sciences, Arizona State University, Tempe, Arizona85287, United States."
+        ]
+      },
+      {
+        "full_name": "Heyden, Matthias",
+        "short_name": "Heyden M",
+        "identifiers": [
+          "0000-0002-7956-5287"
+        ],
+        "affiliations": [
+          "School of Molecular Sciences & Center for Biological Physics, Arizona State University, Tempe, Arizona85287, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of chemical theory and computation"
+    ],
+    "journal_abbrev": [
+      "J Chem Theory Comput"
+    ],
+    "pub_date": "2026 Sep 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/08 12:33",
+    "fetched_at": "2026-09-13 13:07:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42708699",
+      "42475469",
+      "26575568",
+      "25659594",
+      "41817229",
+      "38986052",
+      "41894491",
+      "32756904",
+      "23912807",
+      "38329095",
+      "38932456",
+      "41994866",
+      "40742756",
+      "41592446",
+      "39824807",
+      "41056100",
+      "31793290",
+      "40254940",
+      "33351613",
+      "39301626",
+      "41925825",
+      "39905595",
+      "42275476",
+      "32145945",
+      "37279354",
+      "37241789",
+      "25625937",
+      "39273672",
+      "42340349",
+      "39513439",
+      "41389037",
+      "15842167",
+      "20449375",
+      "29394043",
+      "31176319",
+      "42123414",
+      "34551528",
+      "38918177",
+      "38792177",
+      "37036804",
+      "33932974",
+      "41652161",
+      "24565158",
+      "38529923",
+      "33383937",
+      "38018910",
+      "42361450",
+      "42065439",
+      "21639141",
+      "36367826",
+      "42268730",
+      "41001960",
+      "40339149",
+      "28623339",
+      "39601677",
+      "23638941",
+      "41489074",
+      "39772512",
+      "41288287",
+      "36199882",
+      "37603295",
+      "41986548",
+      "38568182",
+      "41554569",
+      "39684679",
+      "30368832",
+      "40375602",
+      "40960922",
+      "27394125",
+      "12479929",
+      "39795072",
+      "34706940",
+      "27845397",
+      "39265157",
+      "41427532",
+      "42454650",
+      "38665160",
+      "42376479",
+      "40495006",
+      "41346034",
+      "42599200",
+      "39287954",
+      "42084183",
+      "29293335",
+      "27049936",
+      "32281802",
+      "26482713",
+      "34939790",
+      "11746677",
+      "10737930",
+      "32930679",
+      "40064416",
+      "26536148",
+      "42096314",
+      "39663763",
+      "41266028",
+      "42118388",
+      "40373777",
+      "36449380",
+      "40671268"
+    ],
+    "review": [
+      "42708699",
+      "32756904",
+      "38329095",
+      "31793290",
+      "37241789",
+      "25625937",
+      "39273672",
+      "41652161",
+      "42361450",
+      "36199882"
+    ],
+    "pmc": [
+      "13557184"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42708699/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1550",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/jctcce/article-lookup/doi/10.1021/acs.jctc.6c00914",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

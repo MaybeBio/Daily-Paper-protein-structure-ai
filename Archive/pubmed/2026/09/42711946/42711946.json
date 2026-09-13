@@ -1,0 +1,238 @@
+{
+  "identity": {
+    "pmid": "42711946",
+    "doi": "10.1002/prot.70163",
+    "title": "Supervised Protein Structure Classification Using Topological Persistence With DeltaFold."
+  },
+  "content": {
+    "abstract": "Recent advances in protein structure prediction have considerably increased the number of available structures, underscoring the need for scalable and accurate methods to compare and classify this huge amount of data. Current approaches based on sequence alignment or structural superposition often lack sensitivity and/or are computationally expensive. Here, we introduce the DeltaFold Classifier (DFC), a fast, alignment-free, protein structure classification pipeline based on topological data analysis. Protein three-dimensional structures are encoded using fixed-length vectors derived from persistent homology applied to point clouds of their spatial representation. These vectors, known as Biotopological Markers (BTMs), capture the intrinsic topological features of protein structure geometry-such as cycles and cavities-across multiple spatial scales. BTMs are invariant under translations and rotations, thereby avoiding the need for structural superposition. The DFC pipeline uses the features of these BTMs to train machine learning models for protein structure classification at various hierarchical levels defined in the SCOP and CATH classifications. It achieves performance comparable to that of structure-based comparison methods while substantially improving computational efficiency. It also outperforms sequence-based methods in tasks involving distant homology detection. In-depth analyses confirm that most BTM features contribute significantly to classification performance. These findings highlight the potential of topological vectorisations in structural bioinformatics and support the DFC pipeline as an effective and scalable tool for automated protein structure classification and annotation.",
+    "keywords": [
+      "3D structure",
+      "BTM",
+      "CATH",
+      "DeltaFold",
+      "SCOP",
+      "biotopological marker",
+      "domain",
+      "machine learning",
+      "persistent homology"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Nardin-Gennequin, Joseph",
+        "Ciuperca, Gabriela",
+        "Brochier-Armanet, Celine",
+        "Malbos, Philippe"
+      ],
+      "short_names": [
+        "Nardin-Gennequin J",
+        "Ciuperca G",
+        "Brochier-Armanet C",
+        "Malbos P"
+      ],
+      "auids": [
+        "ORCID: 0009-0004-4903-1497",
+        "ORCID: 0000-0001-5467-9774",
+        "ORCID: 0000-0003-4669-3589",
+        "ORCID: 0000-0003-4449-0091"
+      ],
+      "affiliations": [
+        "Universite Claude Bernard Lyon 1, LBBE, UMR 5558, CNRS, VAS, Villeurbanne, France.",
+        "Universite Claude Bernard Lyon 1, CNRS, Institut Camille Jordan, UMR5208, Villeurbanne, France.",
+        "Universite Claude Bernard Lyon 1, CNRS, Institut Camille Jordan, UMR5208, Villeurbanne, France.",
+        "Universite Claude Bernard Lyon 1, LBBE, UMR 5558, CNRS, VAS, Villeurbanne, France.",
+        "Institut Universitaire de, Villeurbanne, France.",
+        "Universite Claude Bernard Lyon 1, CNRS, Institut Camille Jordan, UMR5208, Villeurbanne, France."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Nardin-Gennequin, Joseph",
+        "short_name": "Nardin-Gennequin J",
+        "identifiers": [
+          "0009-0004-4903-1497"
+        ],
+        "affiliations": [
+          "Université Claude Bernard Lyon 1, LBBE, UMR 5558, CNRS, VAS, Villeurbanne, France.",
+          "Université Claude Bernard Lyon 1, CNRS, Institut Camille Jordan, UMR5208, Villeurbanne, France."
+        ]
+      },
+      {
+        "full_name": "Ciuperca, Gabriela",
+        "short_name": "Ciuperca G",
+        "identifiers": [
+          "0000-0001-5467-9774"
+        ],
+        "affiliations": [
+          "Université Claude Bernard Lyon 1, CNRS, Institut Camille Jordan, UMR5208, Villeurbanne, France."
+        ]
+      },
+      {
+        "full_name": "Brochier-Armanet, Céline",
+        "short_name": "Brochier-Armanet C",
+        "identifiers": [
+          "0000-0003-4669-3589"
+        ],
+        "affiliations": [
+          "Université Claude Bernard Lyon 1, LBBE, UMR 5558, CNRS, VAS, Villeurbanne, France.",
+          "Institut Universitaire de, Villeurbanne, France."
+        ]
+      },
+      {
+        "full_name": "Malbos, Philippe",
+        "short_name": "Malbos P",
+        "identifiers": [
+          "0000-0003-4449-0091"
+        ],
+        "affiliations": [
+          "Université Claude Bernard Lyon 1, CNRS, Institut Camille Jordan, UMR5208, Villeurbanne, France."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Proteins"
+    ],
+    "journal_abbrev": [
+      "Proteins"
+    ],
+    "pub_date": "2026 Sep 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/09 11:38",
+    "fetched_at": "2026-09-13 13:07:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42711946",
+      "24564500",
+      "40889305",
+      "42475469",
+      "19325884",
+      "19374763",
+      "17488755",
+      "38014181",
+      "41533616",
+      "42248581",
+      "18237410",
+      "17570145",
+      "17142240",
+      "20470364",
+      "15229882",
+      "14990442",
+      "10508779",
+      "16872501",
+      "18452616",
+      "26705370",
+      "17379694",
+      "33842944",
+      "40712249",
+      "19135454",
+      "35441395",
+      "18186470",
+      "36321557",
+      "10966776",
+      "18052539",
+      "38505995",
+      "11835515",
+      "17825110",
+      "40671957",
+      "27688811",
+      "34820649",
+      "33520934",
+      "19606223",
+      "17634986",
+      "39761698",
+      "42636030",
+      "16187404",
+      "26139634",
+      "39851442",
+      "17384423",
+      "18689847",
+      "34628062",
+      "40062613",
+      "42312747",
+      "22574904",
+      "25205495",
+      "40346184",
+      "34111515",
+      "36517749",
+      "32621218",
+      "9309224",
+      "35325031",
+      "16108083",
+      "24130308",
+      "34078920",
+      "32742675",
+      "17407606",
+      "40640710",
+      "40251890",
+      "36917664",
+      "40170109",
+      "16448009",
+      "10211816",
+      "40971691",
+      "26357263",
+      "36371184",
+      "42546201",
+      "24053649",
+      "39196754",
+      "20980272",
+      "17688700",
+      "39776277",
+      "20529369",
+      "27307635",
+      "40093062",
+      "20981890",
+      "25679476",
+      "26269925",
+      "42655528",
+      "37346603",
+      "18313074",
+      "42572181",
+      "42196370",
+      "17608939",
+      "19908380",
+      "21596786",
+      "24564893",
+      "42335477",
+      "15706493",
+      "42519855",
+      "39316715",
+      "36642409",
+      "11125098",
+      "26831713",
+      "40554399",
+      "21704312"
+    ],
+    "review": [
+      "42711946",
+      "33842944"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1002/prot.70163",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

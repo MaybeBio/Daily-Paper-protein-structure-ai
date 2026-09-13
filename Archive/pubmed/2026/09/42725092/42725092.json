@@ -1,0 +1,242 @@
+{
+  "identity": {
+    "pmid": "42725092",
+    "doi": "10.1016/j.xcrp.2026.103448",
+    "title": "Explainable AI reveals the allosteric blind spot in protein-ligand binding predictions."
+  },
+  "content": {
+    "abstract": "Artificial intelligence (AI) has transformed prediction of protein structure and interactions, yet modeling of allosteric binding remains a persistent challenge. We develop an explainable AI framework that interrogates AI models AlphaFold3, Protenix, Boltz-2, Chai-1, and DynamicBind on rigorously stratified datasets of orthosteric and allosteric ligand-protein complexes. While AI models excel in accurate modeling of orthosteric ligand binding, a consistent and substantial performance gap observed across diverse architectures emerges in prediction of allosteric complexes. The biophysical logic for this dichotomy is unveiled through physics-based lens of the energy landscape theory. Orthosteric binding creates dominant energetic funnels via ligand-induced minimal frustration quenching, while allosteric sites preserve neutral frustration landscapes in both apo and holo protein states. By linking prediction outcomes to frustration landscapes, this study recasts AI shortcomings in prediction of allosteric ligand binding as diagnostic indicators of allostery, establishing a physics-informed framework that turns the allosteric blind spot into mechanistic insight.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Parikh, Vedant",
+        "Foley, Brandon",
+        "Gatlin, Will",
+        "Ludwick, Max",
+        "Turano, Lucas",
+        "Verkhivker, Gennady M"
+      ],
+      "short_names": [
+        "Parikh V",
+        "Foley B",
+        "Gatlin W",
+        "Ludwick M",
+        "Turano L",
+        "Verkhivker GM"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Keck Center for Science and Engineering, Graduate Program in Computational and Data Sciences, Schmid College of Science and Technology, Chapman University, Orange, CA 92866, USA.",
+        "Keck Center for Science and Engineering, Graduate Program in Computational and Data Sciences, Schmid College of Science and Technology, Chapman University, Orange, CA 92866, USA.",
+        "Keck Center for Science and Engineering, Graduate Program in Computational and Data Sciences, Schmid College of Science and Technology, Chapman University, Orange, CA 92866, USA.",
+        "Keck Center for Science and Engineering, Graduate Program in Computational and Data Sciences, Schmid College of Science and Technology, Chapman University, Orange, CA 92866, USA.",
+        "Keck Center for Science and Engineering, Graduate Program in Computational and Data Sciences, Schmid College of Science and Technology, Chapman University, Orange, CA 92866, USA.",
+        "Keck Center for Science and Engineering, Graduate Program in Computational and Data Sciences, Schmid College of Science and Technology, Chapman University, Orange, CA 92866, USA.",
+        "Department of Biomedical and Pharmaceutical Sciences, Chapman University School of Pharmacy, Irvine, CA 92618, USA.",
+        "Department of Pharmacology, Skaggs School of Pharmacy and Pharmaceutical Sciences, University of California, San Diego, 9500 Gilman Drive, La Jolla, CA 92093, USA.",
+        "Lead contact."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Parikh, Vedant",
+        "short_name": "Parikh V",
+        "identifiers": [],
+        "affiliations": [
+          "Keck Center for Science and Engineering, Graduate Program in Computational and Data Sciences, Schmid College of Science and Technology, Chapman University, Orange, CA 92866, USA."
+        ]
+      },
+      {
+        "full_name": "Foley, Brandon",
+        "short_name": "Foley B",
+        "identifiers": [],
+        "affiliations": [
+          "Keck Center for Science and Engineering, Graduate Program in Computational and Data Sciences, Schmid College of Science and Technology, Chapman University, Orange, CA 92866, USA."
+        ]
+      },
+      {
+        "full_name": "Gatlin, Will",
+        "short_name": "Gatlin W",
+        "identifiers": [],
+        "affiliations": [
+          "Keck Center for Science and Engineering, Graduate Program in Computational and Data Sciences, Schmid College of Science and Technology, Chapman University, Orange, CA 92866, USA."
+        ]
+      },
+      {
+        "full_name": "Ludwick, Max",
+        "short_name": "Ludwick M",
+        "identifiers": [],
+        "affiliations": [
+          "Keck Center for Science and Engineering, Graduate Program in Computational and Data Sciences, Schmid College of Science and Technology, Chapman University, Orange, CA 92866, USA."
+        ]
+      },
+      {
+        "full_name": "Turano, Lucas",
+        "short_name": "Turano L",
+        "identifiers": [],
+        "affiliations": [
+          "Keck Center for Science and Engineering, Graduate Program in Computational and Data Sciences, Schmid College of Science and Technology, Chapman University, Orange, CA 92866, USA."
+        ]
+      },
+      {
+        "full_name": "Verkhivker, Gennady M",
+        "short_name": "Verkhivker GM",
+        "identifiers": [],
+        "affiliations": [
+          "Keck Center for Science and Engineering, Graduate Program in Computational and Data Sciences, Schmid College of Science and Technology, Chapman University, Orange, CA 92866, USA.",
+          "Department of Biomedical and Pharmaceutical Sciences, Chapman University School of Pharmacy, Irvine, CA 92618, USA.",
+          "Department of Pharmacology, Skaggs School of Pharmacy and Pharmaceutical Sciences, University of California, San Diego, 9500 Gilman Drive, La Jolla, CA 92093, USA.",
+          "Lead contact."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cell reports. Physical science"
+    ],
+    "journal_abbrev": [
+      "Cell Rep Phys Sci"
+    ],
+    "pub_date": "2026 Aug 19",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/11 17:36",
+    "fetched_at": "2026-09-13 13:07:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42725092",
+      "41884562",
+      "42423121",
+      "41542461",
+      "41884561",
+      "42093179",
+      "39684679",
+      "41537309",
+      "42465297",
+      "27580047",
+      "42579383",
+      "39484820",
+      "37175454",
+      "42196328",
+      "42713223",
+      "30525607",
+      "32471245",
+      "24058293",
+      "40634710",
+      "42653807",
+      "42080590",
+      "38732174",
+      "41901326",
+      "36827465",
+      "33536342",
+      "41777155",
+      "39999605",
+      "42567392",
+      "42475469",
+      "40286982",
+      "39574675",
+      "40671268",
+      "36692197",
+      "41497662",
+      "28945962",
+      "40167386",
+      "32931270",
+      "39975035",
+      "42439392",
+      "41429653",
+      "27253209",
+      "31885251",
+      "42021142",
+      "42539081",
+      "42465357",
+      "42538972",
+      "37826990",
+      "35079717",
+      "39441864",
+      "24021214",
+      "35595169",
+      "28165718",
+      "41831109",
+      "39876941",
+      "32783977",
+      "25185787",
+      "40672205",
+      "32389635",
+      "42533714",
+      "24224873",
+      "41166421",
+      "23604140",
+      "39076021",
+      "25489080",
+      "35202628",
+      "37896786",
+      "41548135",
+      "40672254",
+      "40662794",
+      "40510570",
+      "31004156",
+      "40609632",
+      "35298129",
+      "39643640",
+      "40563459",
+      "39163334",
+      "17973384",
+      "40842437",
+      "41689234",
+      "39849666",
+      "35377633",
+      "25537684",
+      "42511621",
+      "30652534",
+      "37175495",
+      "40320551",
+      "40166291",
+      "20066034",
+      "35976160",
+      "35416820",
+      "39485490",
+      "38665669",
+      "42558420",
+      "30688063",
+      "26080355",
+      "41959328",
+      "22403063",
+      "38354652",
+      "42172616",
+      "41352488"
+    ],
+    "review": [
+      "42725092",
+      "37175454",
+      "42196328",
+      "42653807",
+      "41901326",
+      "36827465",
+      "39999605",
+      "42567392",
+      "40286982",
+      "40671268",
+      "39849666",
+      "35976160",
+      "38354652"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

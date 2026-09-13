@@ -1,0 +1,252 @@
+{
+  "identity": {
+    "pmid": "42727359",
+    "doi": "10.1016/j.compbiolchem.2026.109394",
+    "title": "Uncovering hub genes and key pathways responsive to drought stress in rice via meta-analysis of transcriptomic data."
+  },
+  "content": {
+    "abstract": "Drought stress presents a formidable threat to global rice cultivation, triggering complex molecular responses that impact plant growth and productivity. To decipher the underlying gene expression dynamics, we performed a comprehensive meta-analysis of transcriptomic datasets derived from drought-tolerant rice genotypes. Via microarray data from three independent studies, we identified a set of consistently expressed differentially expressed genes (DEGs) under drought conditions. Integration of functional annotation tools, including GO and KEGG pathway enrichment, revealed key biological processes and signaling cascades involved in stress mitigation, such as ABA signaling, protein folding, and photosynthesis suppression. Protein-protein interaction (PPI) network construction, followed by hub gene identification via maximal clique centrality (MCC), highlighted pivotal regulators including LEA proteins, dehydrins, HSP70, and several transcription factors. Machine learning approaches further prioritize potential biomarkers, with Random Forest models achieving high classification accuracy and pinpointing key predictive genes. Chromosomal localization analysis provided spatial insights into the distribution of these hub genes, whose expression patterns were further compared against qRT-PCR data from previously published studies. This integrative approach identifies candidate genomic markers and mechanistic insights that may support future breeding strategies for drought-tolerant rice, pending experimental validation.",
+    "keywords": [
+      "Cytoscape",
+      "DAVID",
+      "Differentially expressed genes",
+      "Hub genes",
+      "Meta-analysis",
+      "Rice",
+      "STRING"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Joshi, Sachin",
+        "Chaudhary, Parneeta",
+        "Mrinal, Rishi",
+        "Chauhan, Ankita",
+        "Pandey, Niharika",
+        "Gautam, Sneh",
+        "Lohani, Pushpa"
+      ],
+      "short_names": [
+        "Joshi S",
+        "Chaudhary P",
+        "Mrinal R",
+        "Chauhan A",
+        "Pandey N",
+        "Gautam S",
+        "Lohani P"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Molecular Biology and Genetic Engineering, Govind Pant University of Agriculture and Technology, Pantnagar, Uttarakhand, 263145, India.",
+        "Department of Applied Sciences and Humanities, Vivekananda Institute of Professional Studies - Technical Campus, Pitampura, Delhi, India. Electronic address: parnitachaudhary@gmail.com.",
+        "Department of Biotechnology, Delhi Technological University, Bawana Rd, Shahbad Daulatpur Village, Rohini, Delhi, 110042, India.",
+        "Department of Molecular Biology and Genetic Engineering, Govind Pant University of Agriculture and Technology, Pantnagar, Uttarakhand, 263145, India.",
+        "Department of Molecular Biology and Genetic Engineering, Govind Pant University of Agriculture and Technology, Pantnagar, Uttarakhand, 263145, India.",
+        "Department of Molecular Biology and Genetic Engineering, Govind Pant University of Agriculture and Technology, Pantnagar, Uttarakhand, 263145, India.",
+        "Department of Molecular Biology and Genetic Engineering, Govind Pant University of Agriculture and Technology, Pantnagar, Uttarakhand, 263145, India. Electronic address: pushpa.lohani@yahoo.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Joshi, Sachin",
+        "short_name": "Joshi S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Biology and Genetic Engineering, Govind Pant University of Agriculture and Technology, Pantnagar, Uttarakhand, 263145, India."
+        ]
+      },
+      {
+        "full_name": "Chaudhary, Parneeta",
+        "short_name": "Chaudhary P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Applied Sciences and Humanities, Vivekananda Institute of Professional Studies - Technical Campus, Pitampura, Delhi, India. Electronic address: parnitachaudhary@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Mrinal, Rishi",
+        "short_name": "Mrinal R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology, Delhi Technological University, Bawana Rd, Shahbad Daulatpur Village, Rohini, Delhi, 110042, India."
+        ]
+      },
+      {
+        "full_name": "Chauhan, Ankita",
+        "short_name": "Chauhan A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Biology and Genetic Engineering, Govind Pant University of Agriculture and Technology, Pantnagar, Uttarakhand, 263145, India."
+        ]
+      },
+      {
+        "full_name": "Pandey, Niharika",
+        "short_name": "Pandey N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Biology and Genetic Engineering, Govind Pant University of Agriculture and Technology, Pantnagar, Uttarakhand, 263145, India."
+        ]
+      },
+      {
+        "full_name": "Gautam, Sneh",
+        "short_name": "Gautam S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Biology and Genetic Engineering, Govind Pant University of Agriculture and Technology, Pantnagar, Uttarakhand, 263145, India."
+        ]
+      },
+      {
+        "full_name": "Lohani, Pushpa",
+        "short_name": "Lohani P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Biology and Genetic Engineering, Govind Pant University of Agriculture and Technology, Pantnagar, Uttarakhand, 263145, India. Electronic address: pushpa.lohani@yahoo.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Computational biology and chemistry"
+    ],
+    "journal_abbrev": [
+      "Comput Biol Chem"
+    ],
+    "pub_date": "2026 Sep 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/11 23:36",
+    "fetched_at": "2026-09-13 13:07:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42727359",
+      "42289463",
+      "31059518",
+      "42475469",
+      "41415264",
+      "40259217",
+      "40069264",
+      "38524085",
+      "40628511",
+      "33081724",
+      "39111872",
+      "36882493",
+      "42064297",
+      "40972926",
+      "41006883",
+      "41764430",
+      "24093224",
+      "41469486",
+      "41257602",
+      "24076355",
+      "42265583",
+      "42115553",
+      "42509823",
+      "41220776",
+      "31485134",
+      "42338983",
+      "42263869",
+      "36474134",
+      "42038403",
+      "41664335",
+      "32482924",
+      "42053674",
+      "42421348",
+      "40604083",
+      "36292617",
+      "37212262",
+      "41868520",
+      "39944354",
+      "41405958",
+      "26858735",
+      "28432618",
+      "31258663",
+      "36166989",
+      "42410333",
+      "39697326",
+      "35996248",
+      "40331545",
+      "35798354",
+      "40406126",
+      "42046351",
+      "27215785",
+      "41288681",
+      "27499678",
+      "35495609",
+      "34553293",
+      "41647012",
+      "38816789",
+      "25428615",
+      "42345426",
+      "41253465",
+      "40362669",
+      "36674519",
+      "42711459",
+      "33420869",
+      "40151199",
+      "23390349",
+      "34257537",
+      "41375354",
+      "32916530",
+      "39180632",
+      "41044520",
+      "33409810",
+      "42074497",
+      "39403102",
+      "40596168",
+      "29312925",
+      "39742782",
+      "36992583",
+      "39068695",
+      "40901474",
+      "42642681",
+      "42115945",
+      "33282565",
+      "39273165",
+      "41424172",
+      "42292696",
+      "41620995",
+      "42265520",
+      "41688827",
+      "32271791",
+      "23194183",
+      "33061942",
+      "42348043",
+      "41281310",
+      "31286320",
+      "37985548",
+      "38259479",
+      "36284279",
+      "41826854",
+      "42238753"
+    ],
+    "review": [
+      "42727359",
+      "42289463",
+      "31059518",
+      "42115553",
+      "32482924",
+      "37212262",
+      "35798354",
+      "38816789",
+      "39068695",
+      "41620995"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

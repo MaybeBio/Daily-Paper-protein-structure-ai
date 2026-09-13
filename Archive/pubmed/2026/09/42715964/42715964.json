@@ -1,0 +1,311 @@
+{
+  "identity": {
+    "pmid": "42715964",
+    "doi": "10.1021/acs.jafc.6c09645",
+    "title": "Hydrophobic Microenvironment Engineering Enhances Proton Transfer and Hydrolytic Activity of Zearalenone Lactonases."
+  },
+  "content": {
+    "abstract": "Zearalenone (ZEN) lactonases are promising biocatalysts for ZEN detoxification, yet the catalytic mechanism underlying ZEN hydrolysis remains poorly understood. Here, we combined structural analysis, quantum-mechanical (QM) calculations, and molecular dynamics (MD) simulations to elucidate the catalytic mechanism and guide enzyme engineering. QM and MD analyses identified a near-attack conformation of the catalytic His245 as essential for proton transfer. Crystal structure analysis revealed that mutations within the active pocket enhanced the local hydrophobic microenvironment, thereby optimizing the reactive conformation through an improved substrate positioning and catalytic residue alignment. Engineering the hydrophobic microenvironment significantly enhanced the activity of ZENM toward multiple substrates. Transfer of the engineered region to another ZEN lactonase, ZHD101, also significantly improved the hydrolytic activity, supporting the potential general applicability of this strategy. Hydrophobic microenvironment engineering might represent a promising strategy for modulating proton transfer and provide a potential framework for improving the activity of ZEN lactonases for food and feed detoxification.",
+    "keywords": [
+      "ZEN lactonase",
+      "detoxification",
+      "hydrophobic microenvironment",
+      "near-attack conformation",
+      "proton transfer"
+    ],
+    "mesh_terms": [
+      "Protons",
+      "Hydrophobic and Hydrophilic Interactions",
+      "Hydrolysis",
+      "*Zearalenone/chemistry/metabolism",
+      "Biocatalysis",
+      "Molecular Dynamics Simulation",
+      "*Carboxylic Ester Hydrolases/chemistry/metabolism/genetics",
+      "Protein Engineering",
+      "Catalytic Domain",
+      "*Fungal Proteins/chemistry/genetics/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ouyang, Binbin",
+        "Huang, Zhaolin",
+        "Song, Chenshuo",
+        "Yin, Dejing",
+        "Ni, Dawei",
+        "Zhang, Wenli",
+        "Rao, Yijian",
+        "Xu, Wei",
+        "Mu, Wanmeng"
+      ],
+      "short_names": [
+        "Ouyang B",
+        "Huang Z",
+        "Song C",
+        "Yin D",
+        "Ni D",
+        "Zhang W",
+        "Rao Y",
+        "Xu W",
+        "Mu W"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-7429-4089",
+        "ORCID: 0000-0002-7861-0170",
+        "ORCID: 0000-0003-2481-0588",
+        "ORCID: 0000-0001-5053-2441",
+        "ORCID: 0000-0001-6597-527X"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Food Science and Resources, Jiangnan University, Wuxi, Jiangsu214122, China.",
+        "School of Food Science and Technology, Jiangnan University, Wuxi, Jiangsu214122, China.",
+        "State Key Laboratory of Food Science and Resources, Jiangnan University, Wuxi, Jiangsu214122, China.",
+        "School of Food Science and Technology, Jiangnan University, Wuxi, Jiangsu214122, China.",
+        "School of Biotechnology, Jiangnan University, Wuxi, Jiangsu214122, China.",
+        "School of Biotechnology, Jiangnan University, Wuxi, Jiangsu214122, China.",
+        "State Key Laboratory of Food Science and Resources, Jiangnan University, Wuxi, Jiangsu214122, China.",
+        "School of Food Science and Technology, Jiangnan University, Wuxi, Jiangsu214122, China.",
+        "State Key Laboratory of Food Science and Resources, Jiangnan University, Wuxi, Jiangsu214122, China.",
+        "School of Food Science and Technology, Jiangnan University, Wuxi, Jiangsu214122, China.",
+        "School of Biotechnology, Jiangnan University, Wuxi, Jiangsu214122, China.",
+        "State Key Laboratory of Food Science and Resources, Jiangnan University, Wuxi, Jiangsu214122, China.",
+        "School of Food Science and Technology, Jiangnan University, Wuxi, Jiangsu214122, China.",
+        "State Key Laboratory of Food Science and Resources, Jiangnan University, Wuxi, Jiangsu214122, China.",
+        "School of Food Science and Technology, Jiangnan University, Wuxi, Jiangsu214122, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ouyang, Binbin",
+        "short_name": "Ouyang B",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Food Science and Resources, Jiangnan University, Wuxi, Jiangsu214122, China.",
+          "School of Food Science and Technology, Jiangnan University, Wuxi, Jiangsu214122, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Zhaolin",
+        "short_name": "Huang Z",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Food Science and Resources, Jiangnan University, Wuxi, Jiangsu214122, China.",
+          "School of Food Science and Technology, Jiangnan University, Wuxi, Jiangsu214122, China."
+        ]
+      },
+      {
+        "full_name": "Song, Chenshuo",
+        "short_name": "Song C",
+        "identifiers": [],
+        "affiliations": [
+          "School of Biotechnology, Jiangnan University, Wuxi, Jiangsu214122, China."
+        ]
+      },
+      {
+        "full_name": "Yin, Dejing",
+        "short_name": "Yin D",
+        "identifiers": [],
+        "affiliations": [
+          "School of Biotechnology, Jiangnan University, Wuxi, Jiangsu214122, China."
+        ]
+      },
+      {
+        "full_name": "Ni, Dawei",
+        "short_name": "Ni D",
+        "identifiers": [
+          "0000-0001-7429-4089"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Food Science and Resources, Jiangnan University, Wuxi, Jiangsu214122, China.",
+          "School of Food Science and Technology, Jiangnan University, Wuxi, Jiangsu214122, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Wenli",
+        "short_name": "Zhang W",
+        "identifiers": [
+          "0000-0002-7861-0170"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Food Science and Resources, Jiangnan University, Wuxi, Jiangsu214122, China.",
+          "School of Food Science and Technology, Jiangnan University, Wuxi, Jiangsu214122, China."
+        ]
+      },
+      {
+        "full_name": "Rao, Yijian",
+        "short_name": "Rao Y",
+        "identifiers": [
+          "0000-0003-2481-0588"
+        ],
+        "affiliations": [
+          "School of Biotechnology, Jiangnan University, Wuxi, Jiangsu214122, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Wei",
+        "short_name": "Xu W",
+        "identifiers": [
+          "0000-0001-5053-2441"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Food Science and Resources, Jiangnan University, Wuxi, Jiangsu214122, China.",
+          "School of Food Science and Technology, Jiangnan University, Wuxi, Jiangsu214122, China."
+        ]
+      },
+      {
+        "full_name": "Mu, Wanmeng",
+        "short_name": "Mu W",
+        "identifiers": [
+          "0000-0001-6597-527X"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Food Science and Resources, Jiangnan University, Wuxi, Jiangsu214122, China.",
+          "School of Food Science and Technology, Jiangnan University, Wuxi, Jiangsu214122, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of agricultural and food chemistry"
+    ],
+    "journal_abbrev": [
+      "J Agric Food Chem"
+    ],
+    "pub_date": "2026 Sep 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/09 23:36",
+    "fetched_at": "2026-09-13 13:07:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42715964",
+      "28876230",
+      "42217501",
+      "39191068",
+      "37990968",
+      "42116502",
+      "38332488",
+      "28695844",
+      "36173450",
+      "42623862",
+      "39653226",
+      "15184117",
+      "31887512",
+      "31760747",
+      "41660875",
+      "25066066",
+      "29949749",
+      "42521427",
+      "31816236",
+      "42188631",
+      "42225414",
+      "41240862",
+      "35349103",
+      "35202110",
+      "39273612",
+      "27613682",
+      "26672446",
+      "26188792",
+      "41875043",
+      "38449531",
+      "42206765",
+      "40740023",
+      "34105548",
+      "40843929",
+      "33606796",
+      "17209063",
+      "40273004",
+      "32604744",
+      "41856030",
+      "30231501",
+      "40679260",
+      "42176064",
+      "41794237",
+      "42677639",
+      "36764030",
+      "41611028",
+      "37401996",
+      "24521098",
+      "42045117",
+      "29129140",
+      "41482345",
+      "41108205",
+      "37499311",
+      "28323400",
+      "39326316",
+      "28096445",
+      "41037502",
+      "40802843",
+      "27554410",
+      "40460037",
+      "41222013",
+      "18627130",
+      "42616434",
+      "40938899",
+      "38300990",
+      "32054684",
+      "40891340",
+      "41308761",
+      "29563492",
+      "41418965",
+      "41500189",
+      "41796813",
+      "40011254",
+      "39095391",
+      "28128951",
+      "41617720",
+      "33389775",
+      "42562991",
+      "34984886",
+      "41258255",
+      "16245162",
+      "42418950",
+      "41841573",
+      "27479508",
+      "28370478",
+      "42629987",
+      "34436762",
+      "19932971",
+      "31324776",
+      "41083092",
+      "29949676",
+      "41521602",
+      "41344234",
+      "40244570",
+      "39126280",
+      "23837603",
+      "42400226",
+      "41140181",
+      "33640771",
+      "39151849"
+    ],
+    "review": [
+      "42715964",
+      "36173450"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/jafcau/article-lookup/doi/10.1021/acs.jafc.6c09645",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

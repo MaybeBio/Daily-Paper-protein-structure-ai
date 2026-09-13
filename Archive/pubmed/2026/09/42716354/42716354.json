@@ -1,0 +1,302 @@
+{
+  "identity": {
+    "pmid": "42716354",
+    "doi": "10.1016/j.biotechadv.2026.109039",
+    "title": "Deep generative models in biological sequence and structure analysis and design."
+  },
+  "content": {
+    "abstract": "Deep generative models have transformed biological sequence modeling from predictive analysis toward increasingly controllable design. Early biological applications of Variational Autoencoders (VAEs) and Generative Adversarial Networks (GANs) established latent representation learning and sequence synthesis, while recent advances in transformer-based language models, discrete diffusion, flow-matching, and multimodal generative frameworks have substantially expanded the scope of biological design. This review examines generative models for DNA, RNA, and protein sequence design, emphasizing how different model classes represent biological constraints, operate over discrete and continuous spaces, and integrate sequence, structure, and function. We compare VAEs, GANs, autoregressive and masked language models, diffusion models, and flow-based approaches across genomics, transcriptomics, and proteomics, with particular attention to controllability, long-range dependency modeling, structural grounding, generalization, and experimental utility. We further examine evaluation strategies, out-of-distribution generalization, and closed-loop design-build-test-learn workflows that connect in silico generation with empirical validation. We distinguish fundamental modality-dependent constraints including sequence discreteness, context length, structural coupling, and physical or thermodynamic requirements from architecture-dependent advantages that reflect the current state of the field. Current studies suggest that long-context models are particularly useful for genome-scale representation and sequence modeling, whereas structure-aware diffusion, flow-based, and inverse-folding approaches provide better frameworks for geometry-constrained RNA and protein design. This perspective provides a critical framework for understanding the present capabilities, limitations, and convergence of generative approaches toward reliable and experimentally grounded biological design.",
+    "keywords": [
+      "Biological sequence analysis",
+      "De novo design",
+      "Deep generative models",
+      "Diffusion models",
+      "Foundation models",
+      "Generative biology"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Palizban, Fahimeh",
+        "Sarbishegi, Mohammadmahdi",
+        "Qu, Huiqi",
+        "Saeidian, Amir Hossein",
+        "Mehrmohamadi, Mahya",
+        "Glessner, Joseph",
+        "Hakonarson, Hakon"
+      ],
+      "short_names": [
+        "Palizban F",
+        "Sarbishegi M",
+        "Qu H",
+        "Saeidian AH",
+        "Mehrmohamadi M",
+        "Glessner J",
+        "Hakonarson H"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Center for Applied Genomics (CAG), The Children's Hospital of Philadelphia, Philadelphia, PA, United States of America.",
+        "Department of Biotechnology, College of Science, University of Tehran, Tehran, Iran.",
+        "Center for Applied Genomics (CAG), The Children's Hospital of Philadelphia, Philadelphia, PA, United States of America.",
+        "Center for Applied Genomics (CAG), The Children's Hospital of Philadelphia, Philadelphia, PA, United States of America; Department of Molecular and Human Genetics,Baylor College of Medicine, Houston, TX, United States of America.",
+        "Department of Biotechnology, College of Science, University of Tehran, Tehran, Iran.",
+        "Center for Applied Genomics (CAG), The Children's Hospital of Philadelphia, Philadelphia, PA, United States of America; Department of Human Genetics,University of Pennsylvania, Perelman School of Medicine, Philadelphia, PA, United States of America.",
+        "Center for Applied Genomics (CAG), The Children's Hospital of Philadelphia, Philadelphia, PA, United States of America; Department of Human Genetics,University of Pennsylvania, Perelman School of Medicine, Philadelphia, PA, United States of America; Division of Human Genetics, Children's Hospital of Philadelphia, Philadelphia, PA, United States of America; Division of Pulmonary Medicine, The Children'sHospital of Philadelphia, Philadelphia, PA, United States of America. Electronic address: hakonarson@chop.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Palizban, Fahimeh",
+        "short_name": "Palizban F",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Applied Genomics (CAG), The Children's Hospital of Philadelphia, Philadelphia, PA, United States of America."
+        ]
+      },
+      {
+        "full_name": "Sarbishegi, Mohammadmahdi",
+        "short_name": "Sarbishegi M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology, College of Science, University of Tehran, Tehran, Iran."
+        ]
+      },
+      {
+        "full_name": "Qu, Huiqi",
+        "short_name": "Qu H",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Applied Genomics (CAG), The Children's Hospital of Philadelphia, Philadelphia, PA, United States of America."
+        ]
+      },
+      {
+        "full_name": "Saeidian, Amir Hossein",
+        "short_name": "Saeidian AH",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Applied Genomics (CAG), The Children's Hospital of Philadelphia, Philadelphia, PA, United States of America; Department of Molecular and Human Genetics,Baylor College of Medicine, Houston, TX, United States of America."
+        ]
+      },
+      {
+        "full_name": "Mehrmohamadi, Mahya",
+        "short_name": "Mehrmohamadi M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology, College of Science, University of Tehran, Tehran, Iran."
+        ]
+      },
+      {
+        "full_name": "Glessner, Joseph",
+        "short_name": "Glessner J",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Applied Genomics (CAG), The Children's Hospital of Philadelphia, Philadelphia, PA, United States of America; Department of Human Genetics,University of Pennsylvania, Perelman School of Medicine, Philadelphia, PA, United States of America."
+        ]
+      },
+      {
+        "full_name": "Hakonarson, Hakon",
+        "short_name": "Hakonarson H",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Applied Genomics (CAG), The Children's Hospital of Philadelphia, Philadelphia, PA, United States of America; Department of Human Genetics,University of Pennsylvania, Perelman School of Medicine, Philadelphia, PA, United States of America; Division of Human Genetics, Children's Hospital of Philadelphia, Philadelphia, PA, United States of America; Division of Pulmonary Medicine, The Children'sHospital of Philadelphia, Philadelphia, PA, United States of America. Electronic address: hakonarson@chop.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biotechnology advances"
+    ],
+    "journal_abbrev": [
+      "Biotechnol Adv"
+    ],
+    "pub_date": "2026 Sep 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/09 23:36",
+    "fetched_at": "2026-09-13 13:07:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42716354",
+      "42475469",
+      "23912807",
+      "41665230",
+      "42584105",
+      "42054758",
+      "42226153",
+      "41309366",
+      "38883240",
+      "42492189",
+      "42123499",
+      "42211230",
+      "42653156",
+      "41729820",
+      "42655407",
+      "42605681",
+      "41253282",
+      "41778634",
+      "42463579",
+      "42159544",
+      "37864295",
+      "41839238",
+      "41356669",
+      "41753681",
+      "34699719",
+      "41840728",
+      "41750280",
+      "41404488",
+      "40456205",
+      "40567675",
+      "41909740",
+      "41206951",
+      "41584810",
+      "38940178",
+      "39558376",
+      "40917152",
+      "42118199",
+      "34591756",
+      "39217355",
+      "41216666",
+      "41389438",
+      "37277701",
+      "41456696",
+      "38530724",
+      "42452174",
+      "41661333",
+      "41675592",
+      "33370107",
+      "36544476",
+      "42410671",
+      "42546051",
+      "41977864",
+      "37915466",
+      "42510030",
+      "35052081",
+      "39524356",
+      "26269925",
+      "42642697",
+      "36734516",
+      "41409142",
+      "41052214",
+      "37614363",
+      "36222162",
+      "41844874",
+      "41745129",
+      "42357559",
+      "42036410",
+      "42022690",
+      "42428047",
+      "37988083",
+      "37292476",
+      "42153319",
+      "41730503",
+      "38759948",
+      "38960404",
+      "34325627",
+      "39050782",
+      "39103144",
+      "41446059",
+      "37487072",
+      "42218716",
+      "33931726",
+      "33336200",
+      "40306261",
+      "37052978",
+      "39983410",
+      "40027759",
+      "42527525",
+      "35339849",
+      "36700110",
+      "41086821",
+      "40311301",
+      "35203433",
+      "42351883",
+      "37137168",
+      "41236386",
+      "38266474",
+      "37621778",
+      "35490852",
+      "41941849"
+    ],
+    "review": [
+      "42716354",
+      "41665230",
+      "42054758",
+      "41309366",
+      "42492189",
+      "42123499",
+      "42211230",
+      "42653156",
+      "41729820",
+      "42655407",
+      "42605681",
+      "41253282",
+      "41778634",
+      "42463579",
+      "42159544",
+      "37864295",
+      "41839238",
+      "41753681",
+      "34699719",
+      "41404488",
+      "40456205",
+      "41909740",
+      "41584810",
+      "39558376",
+      "40917152",
+      "34591756",
+      "39217355",
+      "41389438",
+      "41456696",
+      "42452174",
+      "41661333",
+      "36544476",
+      "42546051",
+      "41977864",
+      "42510030",
+      "35052081",
+      "41745129",
+      "42357559",
+      "42428047",
+      "42153319",
+      "41730503",
+      "38759948",
+      "39050782",
+      "39103144",
+      "33336200",
+      "37052978",
+      "39983410",
+      "35339849",
+      "41086821",
+      "40311301",
+      "42351883"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0734-9750(26)00245-4",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

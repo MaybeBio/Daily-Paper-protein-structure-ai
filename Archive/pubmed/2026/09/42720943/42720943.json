@@ -1,0 +1,221 @@
+{
+  "identity": {
+    "pmid": "42720943",
+    "doi": "10.1093/bioinformatics/btag667",
+    "title": "Gradient-based Optimization for mRNA Sequence Design."
+  },
+  "content": {
+    "abstract": "MOTIVATION: Designing mRNA coding sequences that simultaneously optimize RNA accessibility in the translation initiation region and codon adaptation while preserving the encoded protein requires navigating a vast discrete combinatorial space. The inherently discrete nature of codon choices prevents direct application of gradient-based optimization, despite the availability of accurate deep learning predictors such as DeepRaccess for RNA accessibility prediction. RESULTS: We present the Input Data Differentiable Designer (ID3), a unified framework for mRNA codon optimization. ID3 treats trained models as fixed differentiable functions and optimizes input data through continuous probability distributions while preserving the encoded amino acid sequence through three constraint mechanisms. The framework shows strong performance in both accessibility optimization and joint accessibility-CAI optimization across diverse protein targets. We also provide convergence analyses from the perspective of trained model input optimization. AVAILABILITY AND IMPLEMENTATION: Code, datasets, and reproduction scripts are available at https://github.com/Li-Hongmin/ID3.git and archived on Zenodo (DOI: 10.5281/zenodo.18917770).",
+    "keywords": [
+      "ID3",
+      "RNA sequence optimization",
+      "codon adaptation index",
+      "codon optimization",
+      "constraint mechanisms",
+      "deep learning integration",
+      "discrete-continuous optimization",
+      "gradient",
+      "mRNA accessibility",
+      "theoretical convergence"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Hongmin",
+        "Terai, Goro",
+        "Otagaki, Takumi",
+        "Asai, Kiyoshi"
+      ],
+      "short_names": [
+        "Li H",
+        "Terai G",
+        "Otagaki T",
+        "Asai K"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, University of Tokyo, 5-1-5 Kashiwanoha, 277-8561, Kashiwa-shi, Chiba, Japan.",
+        "Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, University of Tokyo, 5-1-5 Kashiwanoha, 277-8561, Kashiwa-shi, Chiba, Japan.",
+        "Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, University of Tokyo, 5-1-5 Kashiwanoha, 277-8561, Kashiwa-shi, Chiba, Japan.",
+        "Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, University of Tokyo, 5-1-5 Kashiwanoha, 277-8561, Kashiwa-shi, Chiba, Japan."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Hongmin",
+        "short_name": "Li H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, University of Tokyo, 5-1-5 Kashiwanoha, 277-8561, Kashiwa-shi, Chiba, Japan."
+        ]
+      },
+      {
+        "full_name": "Terai, Goro",
+        "short_name": "Terai G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, University of Tokyo, 5-1-5 Kashiwanoha, 277-8561, Kashiwa-shi, Chiba, Japan."
+        ]
+      },
+      {
+        "full_name": "Otagaki, Takumi",
+        "short_name": "Otagaki T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, University of Tokyo, 5-1-5 Kashiwanoha, 277-8561, Kashiwa-shi, Chiba, Japan."
+        ]
+      },
+      {
+        "full_name": "Asai, Kiyoshi",
+        "short_name": "Asai K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, University of Tokyo, 5-1-5 Kashiwanoha, 277-8561, Kashiwa-shi, Chiba, Japan."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Bioinformatics (Oxford, England)"
+    ],
+    "journal_abbrev": [
+      "Bioinformatics"
+    ],
+    "pub_date": "2026 Sep 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/10 17:42",
+    "fetched_at": "2026-09-13 13:07:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42720943",
+      "38788220",
+      "42475469",
+      "37881622",
+      "41129300",
+      "40279486",
+      "41726877",
+      "42412804",
+      "40662823",
+      "40116777",
+      "39132286",
+      "42705098",
+      "41991479",
+      "41662350",
+      "40971691",
+      "42405277",
+      "38719586",
+      "38416637",
+      "40463199",
+      "34260697",
+      "33479731",
+      "40569190",
+      "40894773",
+      "34670493",
+      "41902842",
+      "40830753",
+      "40929136",
+      "36718935",
+      "40981507",
+      "36642413",
+      "33961009",
+      "40306261",
+      "42644799",
+      "41808445",
+      "15478601",
+      "40797643",
+      "42421318",
+      "37039673",
+      "34415301",
+      "34459867",
+      "17956616",
+      "37524064",
+      "41703024",
+      "34478704",
+      "40278103",
+      "42594282",
+      "37016283",
+      "41967848",
+      "18230160",
+      "42412827",
+      "40223268",
+      "40728942",
+      "38507682",
+      "40742755",
+      "42036810",
+      "42720611",
+      "40511990",
+      "41580967",
+      "42412847",
+      "31796388",
+      "33077783",
+      "41596045",
+      "39678209",
+      "42412822",
+      "15969104",
+      "38684178",
+      "39041594",
+      "39713799",
+      "42108565",
+      "42482120",
+      "34908121",
+      "40160427",
+      "41993269",
+      "41352986",
+      "41224770",
+      "41726975",
+      "40119908",
+      "40233101",
+      "40156867",
+      "42560030",
+      "42038710",
+      "17168332",
+      "28881981",
+      "31510698",
+      "36502369",
+      "19889723",
+      "40621603",
+      "32311016",
+      "28449031",
+      "42560856",
+      "42296331",
+      "41438772",
+      "41323649",
+      "42412846",
+      "34986221",
+      "41172803",
+      "41782685",
+      "31746978",
+      "39230690",
+      "40027759"
+    ],
+    "review": [
+      "42720943"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btag667",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

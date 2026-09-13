@@ -1,0 +1,256 @@
+{
+  "identity": {
+    "pmid": "42711129",
+    "doi": "10.3760/cma.j.cn511374-20250402-00197",
+    "title": "[Genetic analysis of a male with Multiple morphological abnormalities of sperm flagella combined with sperm head abnormalities due to compound heterozygous variants of DNAH1 gene and a literature review]."
+  },
+  "content": {
+    "abstract": "OBJECTIVE: To explore the clinical phenotype and genetic etiology of a male with Multiple morphological abnormalities of sperm flagella (MMAF) combined with sperm head abnormalities due to compound heterozygous variants of DNAH1 gene, with an aim to provide guidance for assisted reproductive technology in his family. METHODS: A man with MMAF combined with sperm head abnormalities who visited Women and Children's Hospital of Ningbo University in October 2024 was selected as study subject. Clinical data of the patient's family were retrospectively collected. Peripheral blood samples were collected from the patient and his spouse, and G-banding karyotyping and whole exome sequencing (WES) were carried out. Candidate variants were validated by Sanger sequencing. Conservation of the DNAH1 protein was queried on the UCSC website. The difference between wild type and variant DNAH1 proteins were analyzed using AlphaFold v3.0.1 and PyMOL v2.5.6. The pathogenicity of variant was rated based on the guidelines from American College of Medical Genetics and Genomics (ACMG). Previous literature was searched using keywords \"DNAH1 gene\" and \"multiple morphological abnormalities of the sperm flagella\" on CNKI, Wanfang Data Knowledge Service Platform, and PubMed database to identify cases of MMAF attributed to biallelic DNAH1 gene variants. The retrieval period was set from the establishment of the databases to December 31, 2025. The genotypes and clinical phenotypes of patients with biallelic DNAH1 mutations were analyzed. This study was approved by the Medical Ethics Committee of the hospital (Ethics No.: EC2023-094). RESULTS: The 30-year-old patient and his 30-year-old wife had infertility for 2 years. Semen analysis revealed no motile sperm and a 99.0% abnormal morphology rate. Typical MMAF was observed with phase-contrast microscopy. Sperm morphology analysis revealed abnormalities of the head, neck, and tail with an approximate ratio of 9:5:1. The patient's karyotype was 46,XY, and his wife's karyotype was 45,X[4]/47,XXX[1]/46,XX[84]. WES and Sanger sequencing revealed that the patient harbored compound heterozygous variants of the DNAH1 gene, namely c.1435_1444+3del and c.12204_12206del (p.Asn4069del), but their origin remained unidentified. UCSC genome browser query results showed that the amino acid residue at position 4 069 of the DNAH1 protein is highly conserved across various species. Protein structure prediction reveals that, in the wild-type DNAH1 protein, the Asparagine at position 4 069 (Asn4069) can form hydrogen bonds with the Leucine on the main chain at position 4 086 (Leu4086) and the Serine on the side chain at position 4 087 (Ser4087). The c.12204_12206del variant, resulting in deletion of Asn4069, disrupts these hydrogen bonds and does not generate any compensatory interactions. Based on the ACMG guidelines, the c.1435_1444+3del variant was predicted to be likely pathogenic (PM2_Supporting+PVS1), and the c.12204_12206del(p.Asn4069del) variant was rated as likely pathogenic (PM2_Supporting+PM4+PM3+PP4). The couple had elected for in vitro fertilization using donor sperm. During this cycle, 12 oocytes were retrieved, 10 oocytes were successfully fertilized, 1 embryo and 6 blastocysts were obtained. Following the first transfer of a frozen-thawed blastocyst, implantation of an empty gestational sac occurred, which led to a miscarriage. After the second transfer of a high-quality blastocyst, the embryo split into twins following implantation, and the spouse had selected fetal reduction. The gestational age was 33(+3) weeks on June 1, 2026. Literature review identified three studies reporting biallelic mutations of the DNAH1 gene in association with MMAF combined with sperm head abnormalities. Together with the patient from this study, a total of 20 patients were included in the analysis. The rate of sperm flagellar abnormalities in these patients was above 80.0%, while the rate of sperm head abnormalities has ranged from 12.0% to 100.0%. In four patients, the genetic basis was unknown. In the remaining 16 patients, 35 mutations were detected, with c.8626-1G>A being the most common (22.9%, 8/35). CONCLUSION: This patient showed MMAF with frequent sperm head defects. Compound heterozygous variants of the DNAH1 gene probably underlay these abnormalities, which in turn has led to his primary infertility. This study revealed the phenotypic variability of MMAF and broadened the mutational spectrum of the DNAH1 gene.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "Male",
+      "*Sperm Tail/pathology/metabolism",
+      "Heterozygote",
+      "*Sperm Head/pathology/metabolism",
+      "Adult",
+      "*Dyneins/genetics",
+      "Pedigree",
+      "Mutation",
+      "*Infertility, Male/genetics",
+      "Female",
+      "Exome Sequencing"
+    ],
+    "pub_types": [
+      "Case Reports",
+      "English Abstract",
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liu, Yingwen",
+        "Yan, Lulu",
+        "Li, Haibo",
+        "Chen, Changshui",
+        "Wang, Yongjun"
+      ],
+      "short_names": [
+        "Liu Y",
+        "Yan L",
+        "Li H",
+        "Chen C",
+        "Wang Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Central Laboratory of Birth Defects Prevention and Control, The Affiliated Women and Children's Hospital of Ningbo University, Ningbo, Zhejiang 315000, China. 714878122@qq.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Liu, Yingwen",
+        "short_name": "Liu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Central Laboratory of Birth Defects Prevention and Control, The Affiliated Women and Children's Hospital of Ningbo University, Ningbo, Zhejiang 315000, China. 714878122@qq.com."
+        ]
+      },
+      {
+        "full_name": "Yan, Lulu",
+        "short_name": "Yan L",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Li, Haibo",
+        "short_name": "Li H",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Chen, Changshui",
+        "short_name": "Chen C",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Wang, Yongjun",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Zhonghua yi xue yi chuan xue za zhi = Zhonghua yixue yichuanxue zazhi = Chinese journal of medical genetics"
+    ],
+    "journal_abbrev": [
+      "Zhonghua Yi Xue Yi Chuan Xue Za Zhi"
+    ],
+    "pub_date": "2026 Oct 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Case Reports",
+      "English Abstract",
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/08 23:35",
+    "fetched_at": "2026-09-13 13:07:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42711129",
+      "27798045",
+      "42663026",
+      "40763970",
+      "36510862",
+      "27094479",
+      "30137358",
+      "41451491",
+      "41645375",
+      "40788209",
+      "37302001",
+      "41811047",
+      "34487528",
+      "42342639",
+      "39528282",
+      "42087738",
+      "40372224",
+      "42114970",
+      "40350393",
+      "40350394",
+      "42597842",
+      "40555660",
+      "42342638",
+      "41451494",
+      "39996363",
+      "41451501",
+      "41070650",
+      "39528281",
+      "40372223",
+      "31501240",
+      "35932098",
+      "35232447",
+      "34529793",
+      "41230593",
+      "41645377",
+      "34791246",
+      "33929677",
+      "42091198",
+      "42342640",
+      "27573432",
+      "42386665",
+      "33989052",
+      "41834962",
+      "37532500",
+      "42091194",
+      "39528284",
+      "28577616",
+      "34867808",
+      "41811044",
+      "40372227",
+      "31676830",
+      "38650655",
+      "30251428",
+      "41451493",
+      "42087737",
+      "40158138",
+      "40372222",
+      "40763971",
+      "42091199",
+      "39217486",
+      "39841794",
+      "41549443",
+      "28552195",
+      "41793497",
+      "40372220",
+      "34493464",
+      "40372226",
+      "30904354",
+      "38745955",
+      "34674941",
+      "33968654",
+      "41811043",
+      "41451492",
+      "41811042",
+      "31278745",
+      "30122540",
+      "41549427",
+      "41645374",
+      "39653356",
+      "42663027",
+      "41214471",
+      "37594300",
+      "31048344",
+      "42091196",
+      "32619401",
+      "40009974",
+      "41615819",
+      "38818563",
+      "42432871",
+      "40763966",
+      "42321500",
+      "41230592",
+      "31292949",
+      "34089056",
+      "41621844",
+      "40372221",
+      "40350401",
+      "40555663",
+      "39780445",
+      "42087735"
+    ],
+    "review": [
+      "42711129",
+      "40763970",
+      "41451491",
+      "41645375",
+      "39528282",
+      "40350394",
+      "41451494",
+      "41070650",
+      "40372223",
+      "41230593",
+      "41645377",
+      "33929677",
+      "37532500",
+      "40372227",
+      "41451493",
+      "42087737",
+      "40372222",
+      "40763971",
+      "39217486",
+      "40372226",
+      "42432871",
+      "41621844"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.yiigle.com/LinkIn.do?linkin_type=pubmed&DOI=10.3760/cma.j.cn511374-20250402-00197",
+        "provider": "Chinese Medical Association Publishing House Ltd.",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/maleinfertility.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Male Infertility"
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.05.749573",
+  "title": "Empirical Geometry-Guided Modeling Enables Robust, High-Throughput Collagen Structure Prediction",
+  "doi": "10.64898/2026.09.05.749573",
+  "abstract": "<h4>ABSTRACT</h4> Protein structure prediction is increasingly dominated by large learned generative models, yet for proteins governed by strong structural constraints, much of the relevant conformational space may be captured by substantially more compact representations. Collagen provides a compelling test case: its repeating Gly-X-Y sequence, restricted backbone conformations, and conserved triple-helical topology define a highly constrained structural manifold. Here, we develop a Collagen-specific Deterministic Structure Modeler (CDSM), extending the empirical geometric parameterization of THeBuScr into a robust, all-atom structure-prediction pipeline, and benchmark it against AlphaFold 3, Boltz-2, Chai-1, and Protenix-v1 on 80 experimentally resolved collagen triple-helical structures. CDSM increases coverage of this benchmark from 8.8% for native THeBuScr to 93.8%. Across the 75 structures successfully predicted by all methods, CDSM closely reproduces experimental backbone and global geometry, with fewer large-error predictions, while the learned models achieve modestly higher local and side-chain accuracy. When evaluated only on structures deposited after each learned model’s training-data cutoff, CDSM becomes more competitive, with aggregate win rates increasing from 29% to 55% for TM-score and from 40% to 65% for backbone RMSD, while CDSM performance remains comparatively stable across the same subsets. CDSM generates structures in 2.4 s on a single CPU core at approximately $3 × 10 −5 per structure, making it 400 to 790× cheaper than the learned methods even when each is run on its lowest-cost compatible GPU. These results demonstrate how identifying and explicitly encoding relevant geometric constraints can dramatically compress a structure-prediction problem, retaining much of the accuracy at orders-of-magnitude lower computational cost. More broadly, CDSM illustrates the potential for compact, executable scientific representations that complement large learned models, and motivates future AI-driven searches over algorithms, representations, and empirical parameterizations to discover and continually refine such models for other structural protein domains.",
+  "authors": [
+    "Howard B",
+    "Bauer M",
+    "Buehler MJ"
+  ],
+  "published_date": "2026-09-09",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.05.749573",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.05.749573.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1316898",
+    "raw_record": {
+      "id": "PPR1316898",
+      "source": "PPR",
+      "doi": "10.64898/2026.09.05.749573",
+      "title": "Empirical Geometry-Guided Modeling Enables Robust, High-Throughput Collagen Structure Prediction",
+      "authorString": "Howard B, Bauer M, Buehler MJ.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Howard B",
+            "firstName": "Bruno",
+            "lastName": "Howard",
+            "initials": "B"
+          },
+          {
+            "fullName": "Bauer M",
+            "firstName": "Maxwell",
+            "lastName": "Bauer",
+            "initials": "M"
+          },
+          {
+            "fullName": "Buehler MJ",
+            "firstName": "Markus",
+            "lastName": "Buehler",
+            "initials": "MJ"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "<h4>ABSTRACT</h4>  Protein structure prediction is increasingly dominated by large learned generative models, yet for proteins governed by strong structural constraints, much of the relevant conformational space may be captured by substantially more compact representations. Collagen provides a compelling test case: its repeating Gly-X-Y sequence, restricted backbone conformations, and conserved triple-helical topology define a highly constrained structural manifold. Here, we develop a Collagen-specific Deterministic Structure Modeler (CDSM), extending the empirical geometric parameterization of THeBuScr into a robust, all-atom structure-prediction pipeline, and benchmark it against AlphaFold 3, Boltz-2, Chai-1, and Protenix-v1 on 80 experimentally resolved collagen triple-helical structures. CDSM increases coverage of this benchmark from 8.8% for native THeBuScr to 93.8%. Across the 75 structures successfully predicted by all methods, CDSM closely reproduces experimental backbone and global geometry, with fewer large-error predictions, while the learned models achieve modestly higher local and side-chain accuracy. When evaluated only on structures deposited after each learned model’s training-data cutoff, CDSM becomes more competitive, with aggregate win rates increasing from 29% to 55% for TM-score and from 40% to 65% for backbone RMSD, while CDSM performance remains comparatively stable across the same subsets. CDSM generates structures in 2.4 s on a single CPU core at approximately $3 × 10  −5 per structure, making it 400 to 790× cheaper than the learned methods even when each is run on its lowest-cost compatible GPU. These results demonstrate how identifying and explicitly encoding relevant geometric constraints can dramatically compress a structure-prediction problem, retaining much of the accuracy at orders-of-magnitude lower computational cost. More broadly, CDSM illustrates the potential for compact, executable scientific representations that complement large learned models, and motivates future AI-driven searches over algorithms, representations, and empirical parameterizations to discover and continually refine such models for other structural protein domains.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.09.05.749573"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "license": "cc by-nc",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-09-11",
+      "firstIndexDate": "2026-09-11",
+      "firstPublicationDate": "2026-09-09"
+    }
+  }
+}

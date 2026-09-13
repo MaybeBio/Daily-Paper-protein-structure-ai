@@ -1,0 +1,206 @@
+{
+  "identity": {
+    "pmid": "42725553",
+    "doi": "10.1107/S2052252526007797",
+    "title": "Structure and spectroscopy of propane and propene in the solid state from neutron powder diffraction and inelastic neutron scattering."
+  },
+  "content": {
+    "abstract": "Using high-resolution neutron powder diffraction data, we have refined the previously determined monoclinic structure of the stable beta-phase of perdeuterated propane at 10 K and characterized the anisotropic thermal expansion from 10 to 80 K. Using the same methods, we have determined the structure of the stable orthorhombic beta-phase of perdeuterated propene for the first time and similarly characterized its thermal expansion between 10 and 85 K. Combining these results with published thermodynamic data, we estimate the magnitude of the volume isotope effect (VIE) in propane and propene to provide parameterizations of the density of each substance in the natural protiated form from limiting low temperature up to their respective melting points. We have been able to establish, using force-field-based structure prediction methods, that the metastable alpha-phase of propene forms a body-centred tetragonal crystal with a nearly identical packing arrangement to the stable beta-phase. This represents an original use of structure prediction methods to obtain results retrospectively from a 28-year-old powder diffraction study with data of low quality, rather than the more usual application of pro-active materials discovery, suggesting promising computational - and perhaps AI or machine learning driven - routes to extracting value from archived historical data. Inelastic neutron scattering spectroscopy, combined with density functional theory calculations, have yielded vibrational mode assignments for beta-propane, and for both alpha- and beta-propene, in protiated and deuterated isotopologues. This work provides astronomers with the data required to interpret accurately the infrared spectra of interstellar ice grains and cloud condensates in gas giant planet atmospheres, and provides planetary scientists with information on the temperature-dependent densities necessary to model accurately the behaviour of hydrocarbon sediment grains in various extraterrestrial fluid environments, such as Titan's ethane rivers and seas.",
+    "keywords": [
+      "extraterrestrial compounds",
+      "inelastic neutron spectroscopy",
+      "neutron diffraction",
+      "polymorphism",
+      "propane",
+      "propene",
+      "propylene",
+      "thermal expansion"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Fortes, A Dominic",
+        "Howard, Christopher M",
+        "Parker, Stewart F"
+      ],
+      "short_names": [
+        "Fortes AD",
+        "Howard CM",
+        "Parker SF"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-5907-2285"
+      ],
+      "affiliations": [
+        "ISIS Neutron and Muon Facility, STFC Rutherford Appleton Laboratory, Harwell Science and Innovation Campus, Chilton, Oxfordshire OX11 0QX, United Kingdom.",
+        "ISIS Neutron and Muon Facility, STFC Rutherford Appleton Laboratory, Harwell Science and Innovation Campus, Chilton, Oxfordshire OX11 0QX, United Kingdom.",
+        "Forschungs-Neutronenquelle Heinz Maier-Leibnitz (FRM II), Lichtenbergstrasse 1, Garching 85748, Germany.",
+        "ISIS Neutron and Muon Facility, STFC Rutherford Appleton Laboratory, Harwell Science and Innovation Campus, Chilton, Oxfordshire OX11 0QX, United Kingdom."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Fortes, A Dominic",
+        "short_name": "Fortes AD",
+        "identifiers": [
+          "0000-0001-5907-2285"
+        ],
+        "affiliations": [
+          "ISIS Neutron and Muon Facility, STFC Rutherford Appleton Laboratory, Harwell Science and Innovation Campus, Chilton, Oxfordshire OX11 0QX, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Howard, Christopher M",
+        "short_name": "Howard CM",
+        "identifiers": [],
+        "affiliations": [
+          "ISIS Neutron and Muon Facility, STFC Rutherford Appleton Laboratory, Harwell Science and Innovation Campus, Chilton, Oxfordshire OX11 0QX, United Kingdom.",
+          "Forschungs-Neutronenquelle Heinz Maier-Leibnitz (FRM II), Lichtenbergstrasse 1, Garching 85748, Germany."
+        ]
+      },
+      {
+        "full_name": "Parker, Stewart F",
+        "short_name": "Parker SF",
+        "identifiers": [],
+        "affiliations": [
+          "ISIS Neutron and Muon Facility, STFC Rutherford Appleton Laboratory, Harwell Science and Innovation Campus, Chilton, Oxfordshire OX11 0QX, United Kingdom."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "IUCrJ"
+    ],
+    "journal_abbrev": [
+      "IUCrJ"
+    ],
+    "pub_date": "2026 Nov 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/11 17:36",
+    "fetched_at": "2026-09-13 13:07:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42725553",
+      "18553898",
+      "24508882",
+      "25795611",
+      "41235951",
+      "35702963",
+      "34897323",
+      "34358222",
+      "42475469",
+      "31868754",
+      "28263590",
+      "41427749",
+      "41489915",
+      "22114013",
+      "18266454",
+      "32985416",
+      "28989631",
+      "32831248",
+      "37449834",
+      "30915268",
+      "24984893",
+      "31702745",
+      "40336242",
+      "34904892",
+      "29766168",
+      "28664955",
+      "11717473",
+      "16552163",
+      "25278188",
+      "10877357",
+      "26942430",
+      "16851920",
+      "25449618",
+      "36112983",
+      "19754191",
+      "26027007",
+      "16610838",
+      "38487813",
+      "35516867",
+      "34780153",
+      "23912807",
+      "26751175",
+      "33711836",
+      "33825461",
+      "16840808",
+      "34252896",
+      "30614077",
+      "35495334",
+      "17129141",
+      "42559210",
+      "32894948",
+      "26318704",
+      "21442090",
+      "20166734",
+      "29616994",
+      "29504571",
+      "28989714",
+      "21691009",
+      "19937663",
+      "32954723",
+      "32309684",
+      "26879259",
+      "39320308",
+      "28192312",
+      "30129564",
+      "39878607",
+      "41004621",
+      "35573109",
+      "20383004",
+      "19830331",
+      "16204895",
+      "30040898",
+      "29393644",
+      "10794270",
+      "39584504",
+      "21386225",
+      "39281952",
+      "21576771",
+      "42277331",
+      "30483494",
+      "18004040",
+      "26491642",
+      "24828367",
+      "25185952",
+      "34138514",
+      "23224355",
+      "36071798",
+      "31949905",
+      "40008142",
+      "27195477",
+      "18578525",
+      "27531711",
+      "28088154",
+      "23044752",
+      "2231714",
+      "10961397",
+      "32168860",
+      "42723222",
+      "31737836",
+      "30735379"
+    ],
+    "review": [
+      "42725553"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

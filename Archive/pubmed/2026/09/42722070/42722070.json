@@ -1,0 +1,263 @@
+{
+  "identity": {
+    "pmid": "42722070",
+    "doi": "10.3168/jds.2026-29005",
+    "title": "Consensus design and in silico screening of GH42 beta-galactosidase for enhanced catalytic hydrolysis of whey lactose."
+  },
+  "content": {
+    "abstract": "This study addresses a major bottleneck in dairy waste management by engineering a highly efficient, thermophilic enzyme for lactose hydrolysis, transforming the cheese manufacturing by-product whey into a high-value resource. While traditional glycoside hydrolase family 2 (GH2) enzymes suffer from poor industrial thermostability, thermophilic GH42 alternatives lack the catalytic efficiency required for practical processing. To bridge this gap, a synergistic engineering strategy combining consensus sequence design and virtual binding energy screening was applied to Tn1577, a home-discovered GH42-galactosidase from Thermotoga naphthophila RUK10. Through homologous sequence analysis and iterative saturation mutagenesis, a superior triple mutant designated M10 (H271Q/V357G/Q340E) was successfully developed. Molecular dynamics (MD) simulations revealed that M10s performance is driven by 3 key structural alterations. First, a remodeled substrate tunnel accelerates lactose entry and product release while minimizing molecular congestion in the active cavity. Second, consensus mutations rigidify the catalytic pocket to preserve its geometry under thermal stress. Finally, a distal Q340E mutation rearranges local hydrogen bonding and forms a new anion-pi interaction, anchoring the protein backbone to stabilize the overall conformation via allosteric regulation. This engineered rigidity introduces a beneficial kinetic trade-off: it drastically accelerates catalytic turnover by intentionally weakening substrate affinity, preventing enzyme stagnation and ensuring continuous catalytic cycling. Consequently, mutant M10 achieves a remarkable 6.5-fold increase in lactose hydrolysis activity at 55 degrees C compared with the wild-type enzyme. Response surface methodology established ideal industrial parameters: 52.7 degrees C, pH 5.5, and an enzyme dosage of 2.9 U/mL. Under these conditions, M10 accomplishes near-complete lactose hydrolysis of raw whey within a brief 2-h window. Operating at a temperature below the thermal unfolding point of core whey proteins ( approximately 60 degrees C), this mild thermal regimen shortens processing times and prevents the thermal denaturation of other valuable whey components, demonstrating M10s immense potential for high-efficiency, stable lactose-free dairy processing.",
+    "keywords": [
+      "glycoside hydrolase family 42 (GH 42)",
+      "molecular dynamics",
+      "whey lactose",
+      "beta-galactosidase"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ding, Simeng",
+        "Li, Jiajia",
+        "Li, Jiahui",
+        "Nie, Huayu",
+        "Li, Yongxin",
+        "Guo, Zheng",
+        "Gao, Renjun"
+      ],
+      "short_names": [
+        "Ding S",
+        "Li J",
+        "Li J",
+        "Nie H",
+        "Li Y",
+        "Guo Z",
+        "Gao R"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Key Laboratory for Molecular Enzymology and Engineering of Ministry of Education, School of Life Sciences, Jilin University, Changchun 130012, China; Department of Biological and Chemical Engineering, Faculty of Technical Sciences, Aarhus University, Gustav Wieds Vej 10, Aarhus 8000, Denmark.",
+        "Key Laboratory for Molecular Enzymology and Engineering of Ministry of Education, School of Life Sciences, Jilin University, Changchun 130012, China.",
+        "Key Laboratory for Molecular Enzymology and Engineering of Ministry of Education, School of Life Sciences, Jilin University, Changchun 130012, China.",
+        "Key Laboratory for Molecular Enzymology and Engineering of Ministry of Education, School of Life Sciences, Jilin University, Changchun 130012, China.",
+        "Key Laboratory for Molecular Enzymology and Engineering of Ministry of Education, School of Life Sciences, Jilin University, Changchun 130012, China.",
+        "Department of Biological and Chemical Engineering, Faculty of Technical Sciences, Aarhus University, Gustav Wieds Vej 10, Aarhus 8000, Denmark. Electronic address: guo@bce.au.dk.",
+        "Key Laboratory for Molecular Enzymology and Engineering of Ministry of Education, School of Life Sciences, Jilin University, Changchun 130012, China. Electronic address: gaorj@jlu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ding, Simeng",
+        "short_name": "Ding S",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory for Molecular Enzymology and Engineering of Ministry of Education, School of Life Sciences, Jilin University, Changchun 130012, China; Department of Biological and Chemical Engineering, Faculty of Technical Sciences, Aarhus University, Gustav Wieds Vej 10, Aarhus 8000, Denmark."
+        ]
+      },
+      {
+        "full_name": "Li, Jiajia",
+        "short_name": "Li J",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory for Molecular Enzymology and Engineering of Ministry of Education, School of Life Sciences, Jilin University, Changchun 130012, China."
+        ]
+      },
+      {
+        "full_name": "Li, Jiahui",
+        "short_name": "Li J",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory for Molecular Enzymology and Engineering of Ministry of Education, School of Life Sciences, Jilin University, Changchun 130012, China."
+        ]
+      },
+      {
+        "full_name": "Nie, Huayu",
+        "short_name": "Nie H",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory for Molecular Enzymology and Engineering of Ministry of Education, School of Life Sciences, Jilin University, Changchun 130012, China."
+        ]
+      },
+      {
+        "full_name": "Li, Yongxin",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory for Molecular Enzymology and Engineering of Ministry of Education, School of Life Sciences, Jilin University, Changchun 130012, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Zheng",
+        "short_name": "Guo Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biological and Chemical Engineering, Faculty of Technical Sciences, Aarhus University, Gustav Wieds Vej 10, Aarhus 8000, Denmark. Electronic address: guo@bce.au.dk."
+        ]
+      },
+      {
+        "full_name": "Gao, Renjun",
+        "short_name": "Gao R",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory for Molecular Enzymology and Engineering of Ministry of Education, School of Life Sciences, Jilin University, Changchun 130012, China. Electronic address: gaorj@jlu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of dairy science"
+    ],
+    "journal_abbrev": [
+      "J Dairy Sci"
+    ],
+    "pub_date": "2026 Sep 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/10 23:36",
+    "fetched_at": "2026-09-13 13:07:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42722070",
+      "31477300",
+      "42632727",
+      "36282727",
+      "22166118",
+      "27393145",
+      "29384047",
+      "26586589",
+      "26627651",
+      "39154676",
+      "38440989",
+      "22086565",
+      "27059625",
+      "23497058",
+      "26587283",
+      "41204652",
+      "40145755",
+      "27236766",
+      "32741059",
+      "42333613",
+      "41490603",
+      "34126150",
+      "41676231",
+      "38964512",
+      "35590081",
+      "40615754",
+      "16736094",
+      "15479416",
+      "27141233",
+      "31510031",
+      "24500798",
+      "20472057",
+      "40992629",
+      "18309273",
+      "28652150",
+      "19786095",
+      "37991101",
+      "42085918",
+      "23585056",
+      "39769117",
+      "41084035",
+      "30333954",
+      "24462527",
+      "40916978",
+      "39899880",
+      "40388995",
+      "41260473",
+      "42083161",
+      "33287624",
+      "25682138",
+      "33144261",
+      "35450720",
+      "38582485",
+      "42677653",
+      "41161424",
+      "41459252",
+      "40220440",
+      "33052483",
+      "42075253",
+      "38108277",
+      "31932907",
+      "41941911",
+      "18431601",
+      "28577554",
+      "21345211",
+      "37119622",
+      "39557250",
+      "40391832",
+      "35159524",
+      "41802478",
+      "32363751",
+      "38823749",
+      "40622661",
+      "38670341",
+      "26804479",
+      "40562246",
+      "19082762",
+      "41138874",
+      "38802708",
+      "34334201",
+      "26122513",
+      "26313518",
+      "26215347",
+      "29129140",
+      "19662397",
+      "24933681",
+      "20822875",
+      "36843197",
+      "41638280",
+      "39033918",
+      "40734437",
+      "27885320",
+      "40023413",
+      "18420605",
+      "35628204",
+      "22806727",
+      "33923711",
+      "38156992",
+      "33589258",
+      "40163623"
+    ],
+    "review": [
+      "42722070",
+      "38108277"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0022-0302(26)03256-X",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-GSTP1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-651",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

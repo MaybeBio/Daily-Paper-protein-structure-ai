@@ -1,0 +1,217 @@
+{
+  "identity": {
+    "pmid": "42715075",
+    "doi": "10.1073/pnas.2605103123",
+    "title": "Gating crosstalk in potassium channels."
+  },
+  "content": {
+    "abstract": "Ion permeation through potassium channels is regulated by multiple gates. In particular, conformational changes in the central cavity (the activation gate) can propagate to the selectivity filter (an inactivation gate), resulting in altered filter structure and suppression of ion permeation. Despite extensive studies, the detailed mechanism underlying the allosteric coupling between these two gating elements is not entirely understood. In this work, we investigate this question using extensive molecular dynamics (MD) simulations of multiple channels. We show that opening and closing of the central cavity simultaneously modulate cavity hydration level and the width of the selectivity filter entrance. Both structural features influence ion permeation rate. Cavity hydration reshapes the free energy of K(+) entry into the cavity. Crucially, the filter entrance size regulates ion occupancy at the selectivity filter, with maximal permeation occurring at an optimal size. Coupling between the filter entrance size and opening and closing of the central cavity is mediated by a hydrophobic residue on the inner transmembrane helix. Experimental structures from the Protein Data Bank also reveal state-dependent differences in the filter entrance size, thus establishing a direct link between experimental observations and our simulations. In summary, our results support a gating crosstalk model in which cavity hydration and the filter entrance size are coordinated to regulate ion permeation. This mechanism was consistently observed across six channels spanning several subfamilies, including MthK, cBK, TREK-2, KcsA, Kv4.2, and aBK, and may extend to other members of the K(+) channel family.",
+    "keywords": [
+      "gating mechanism",
+      "ion channel",
+      "molecular dynamics simulation"
+    ],
+    "mesh_terms": [
+      "*Ion Channel Gating/physiology",
+      "Molecular Dynamics Simulation",
+      "*Potassium Channels/chemistry/metabolism",
+      "Potassium/metabolism/chemistry",
+      "Protein Conformation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Hu, Lyubin",
+        "de Groot, Bert L",
+        "Gu, Ruo-Xu"
+      ],
+      "short_names": [
+        "Hu L",
+        "de Groot BL",
+        "Gu RX"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-3570-3534",
+        "ORCID: 0000-0003-2587-0232"
+      ],
+      "affiliations": [
+        "Department of Bioinformatics and Biostatistics, College of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200240, China. ROR: https://ror.org/0220qvk04",
+        "Department of Theoretical and Computational Biophysics, Max Planck Institute for Multidisciplinary Sciences, Gottingen 37077, Germany. ROR: https://ror.org/03av75f26",
+        "Department of Bioinformatics and Biostatistics, College of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200240, China. ROR: https://ror.org/0220qvk04"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Hu, Lyubin",
+        "short_name": "Hu L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bioinformatics and Biostatistics, College of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200240, China."
+        ]
+      },
+      {
+        "full_name": "de Groot, Bert L",
+        "short_name": "de Groot BL",
+        "identifiers": [
+          "0000-0003-3570-3534"
+        ],
+        "affiliations": [
+          "Department of Theoretical and Computational Biophysics, Max Planck Institute for Multidisciplinary Sciences, Göttingen 37077, Germany."
+        ]
+      },
+      {
+        "full_name": "Gu, Ruo-Xu",
+        "short_name": "Gu RX",
+        "identifiers": [
+          "0000-0003-2587-0232"
+        ],
+        "affiliations": [
+          "Department of Bioinformatics and Biostatistics, College of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200240, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Proceedings of the National Academy of Sciences of the United States of America"
+    ],
+    "journal_abbrev": [
+      "Proc Natl Acad Sci U S A"
+    ],
+    "pub_date": "2026 Sep 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/09 17:47",
+    "fetched_at": "2026-09-13 13:07:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42715075",
+      "31772184",
+      "37318452",
+      "29735651",
+      "22124115",
+      "28994652",
+      "32358584",
+      "34357375",
+      "35248543",
+      "34627789",
+      "20613845",
+      "23882077",
+      "39615205",
+      "16907122",
+      "34769384",
+      "28472884",
+      "41989881",
+      "15837197",
+      "30631074",
+      "12566539",
+      "33154158",
+      "17336921",
+      "24621378",
+      "14976245",
+      "24733889",
+      "33741736",
+      "24166878",
+      "24429344",
+      "15240462",
+      "11838236",
+      "35500647",
+      "28265056",
+      "11606263",
+      "18621821",
+      "20600123",
+      "28768808",
+      "24465882",
+      "23262489",
+      "24483491",
+      "39530849",
+      "27682982",
+      "33891905",
+      "23658510",
+      "15345533",
+      "23892782",
+      "20231479",
+      "17922011",
+      "12857817",
+      "30053405",
+      "12719225",
+      "31947679",
+      "21281577",
+      "26598654",
+      "21730186",
+      "10653771",
+      "18588293",
+      "21402935",
+      "29206105",
+      "38856894",
+      "17070844",
+      "26621745",
+      "19962419",
+      "37040262",
+      "37069187",
+      "21554888",
+      "14581184",
+      "11806907",
+      "35022758",
+      "25933117",
+      "17043150",
+      "40307591",
+      "28076820",
+      "20613835",
+      "31456113",
+      "42094417",
+      "20624398",
+      "14572644",
+      "11842204",
+      "16636204",
+      "11696609",
+      "17415597",
+      "26370089",
+      "32267231",
+      "12407083",
+      "41320924",
+      "24019483",
+      "29991721",
+      "16980355",
+      "11513964",
+      "26896693",
+      "31203196",
+      "16242718",
+      "16532009",
+      "29476260",
+      "21865461",
+      "21220117",
+      "40768588",
+      "11018728",
+      "33335691",
+      "27454924"
+    ],
+    "review": [
+      "42715075",
+      "11838236"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.pnas.org/doi/10.1073/pnas.2605103123?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

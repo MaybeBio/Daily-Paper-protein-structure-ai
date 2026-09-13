@@ -102,7 +102,7 @@
   },
   "metadata": {
     "entrez_date": "2026/09/07 17:36",
-    "fetched_at": "2026-09-08 15:48:04"
+    "fetched_at": "2026-09-13 13:07:01"
   },
   "links": {
     "cites": [],
@@ -191,8 +191,8 @@
       "38881303",
       "22007671",
       "41478287",
-      "38735453",
       "37243192",
+      "38735453",
       "31676367",
       "31920173",
       "39546935",
@@ -218,9 +218,40 @@
       "34636434",
       "39274895"
     ],
-    "pmc": [],
+    "pmc": [
+      "13550072"
+    ],
     "entrez": {},
-    "external": [],
+    "external": [
+      {
+        "url": "https://medlineplus.gov/zikavirus.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Zika Virus"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42704493/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://dx.doi.org/10.1007/s00894-026-06945-8",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-76",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
     "text_mined": []
   }
 }

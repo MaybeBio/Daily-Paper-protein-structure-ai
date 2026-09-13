@@ -1,0 +1,261 @@
+{
+  "identity": {
+    "pmid": "42725182",
+    "doi": "10.3389/fmicb.2026.1907662",
+    "title": "Investigation of salt-bridge interactions underlying salt activation of halophilic methionine sulfoxide reductase A."
+  },
+  "content": {
+    "abstract": "INTRODUCTION: Halophilic microorganisms inhabit hypersaline environments where sustained ionic stress challenges protein structure and function, making salt-responsive enzymes important for cellular fitness. Here, we investigated the salt-bridge interactions that support salt-dependent activation of a halophilic methionine sulfoxide reductase A from Halobacterium hubeiense (HhMsrA), a key enzyme involved in repairing oxidized methionine residues. METHODS: Molecular dynamics (MD) simulations, mutagenesis analyses, enzyme activity assays, and circular dichroism (CD) measurements were used to identify key salt-bridge-forming residues and evaluate their contributions to the salt-dependent structural and functional behavior of HhMsrA. RESULTS: MD simulations and mutagenesis analyses identified Arg106 and Lys76 as prominent salt-bridge nodes, and charge-conservative substitutions at these positions largely preserved the high-salt activity profile, whereas non-conservative substitutions (e.g., acidic, hydrophobic, aromatic, or proline replacements) generally reduced activity. Moreover, combined proline substitutions produced a pronounced cumulative effect, leaving the enzyme with only minimal activity even under high-salt conditions. MD analyses further associated these site-specific salt-bridge interactions with the maintenance of the salt-adapted structural state required for HhMsrA activity. CD measurements further showed a strong KCl-dependent helical response in HhMsrA that was attenuated to varying degrees across mutants targeting salt-bridge-forming residues. DISCUSSION: These findings demonstrate that salt-dependent activity of HhMsrA is supported by a small set of salt-bridge nodes that contribute to maintaining a high-salt structural state compatible with HhMsrA catalytic function.",
+    "keywords": [
+      "halophilic enzyme",
+      "methionine sulfoxide reductase A",
+      "molecular dynamics",
+      "salt activation",
+      "salt bridge"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Shuhong",
+        "Liu, Lianghui",
+        "Zhou, Hailang",
+        "Kuang, Xiaoxue",
+        "Li, Ye",
+        "Liu, Rong",
+        "Yang, Jiawei",
+        "Cheng, Xiaoling"
+      ],
+      "short_names": [
+        "Chen S",
+        "Liu L",
+        "Zhou H",
+        "Kuang X",
+        "Li Y",
+        "Liu R",
+        "Yang J",
+        "Cheng X"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Biochemistry, School of Preclinical Medicine, Zunyi Medical University, Zunyi, Guizhou, China.",
+        "Department of Clinical Laboratory, Guizhou Aerospace Hospital, Zunyi, Guizhou, China.",
+        "Department of Biochemistry, School of Preclinical Medicine, Zunyi Medical University, Zunyi, Guizhou, China.",
+        "Department of Biochemistry, School of Preclinical Medicine, Zunyi Medical University, Zunyi, Guizhou, China.",
+        "Department of Biochemistry, School of Preclinical Medicine, Zunyi Medical University, Zunyi, Guizhou, China.",
+        "Department of Biochemistry, School of Preclinical Medicine, Zunyi Medical University, Zunyi, Guizhou, China.",
+        "Department of Biochemistry, School of Preclinical Medicine, Zunyi Medical University, Zunyi, Guizhou, China.",
+        "Department of Biochemistry, School of Preclinical Medicine, Zunyi Medical University, Zunyi, Guizhou, China.",
+        "Department of Cell Biology, School of Preclinical Medicine, Zunyi Medical University, Zunyi, Guizhou, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Shuhong",
+        "short_name": "Chen S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, School of Preclinical Medicine, Zunyi Medical University, Zunyi, Guizhou, China.",
+          "Department of Clinical Laboratory, Guizhou Aerospace Hospital, Zunyi, Guizhou, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Lianghui",
+        "short_name": "Liu L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, School of Preclinical Medicine, Zunyi Medical University, Zunyi, Guizhou, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Hailang",
+        "short_name": "Zhou H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, School of Preclinical Medicine, Zunyi Medical University, Zunyi, Guizhou, China."
+        ]
+      },
+      {
+        "full_name": "Kuang, Xiaoxue",
+        "short_name": "Kuang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, School of Preclinical Medicine, Zunyi Medical University, Zunyi, Guizhou, China."
+        ]
+      },
+      {
+        "full_name": "Li, Ye",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, School of Preclinical Medicine, Zunyi Medical University, Zunyi, Guizhou, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Rong",
+        "short_name": "Liu R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, School of Preclinical Medicine, Zunyi Medical University, Zunyi, Guizhou, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Jiawei",
+        "short_name": "Yang J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, School of Preclinical Medicine, Zunyi Medical University, Zunyi, Guizhou, China."
+        ]
+      },
+      {
+        "full_name": "Cheng, Xiaoling",
+        "short_name": "Cheng X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cell Biology, School of Preclinical Medicine, Zunyi Medical University, Zunyi, Guizhou, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in microbiology"
+    ],
+    "journal_abbrev": [
+      "Front Microbiol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/11 17:36",
+    "fetched_at": "2026-09-13 13:07:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42725182",
+      "39297162",
+      "42475469",
+      "23912807",
+      "9677300",
+      "41581652",
+      "18704948",
+      "7499204",
+      "29997580",
+      "17652781",
+      "21423654",
+      "19759821",
+      "24743799",
+      "33807684",
+      "42112889",
+      "30504211",
+      "34904892",
+      "24116134",
+      "42662572",
+      "24097943",
+      "21449557",
+      "17442340",
+      "12435508",
+      "23077573",
+      "22286872",
+      "27327567",
+      "28733281",
+      "38747380",
+      "2795658",
+      "42253053",
+      "8845764",
+      "19100869",
+      "41736169",
+      "12962480",
+      "18930847",
+      "9493269",
+      "39211508",
+      "37844739",
+      "40916978",
+      "29150976",
+      "17997579",
+      "1854726",
+      "7601139",
+      "10623547",
+      "12488000",
+      "9106366",
+      "35575549",
+      "29401622",
+      "1438245",
+      "12662936",
+      "1917982",
+      "19646993",
+      "42415280",
+      "21949863",
+      "39459303",
+      "25617115",
+      "39150724",
+      "17477549",
+      "32411108",
+      "10604981",
+      "25041847",
+      "26865631",
+      "24594651",
+      "25650046",
+      "40953730",
+      "29420254",
+      "34650535",
+      "31435155",
+      "29109294",
+      "26215075",
+      "12381324",
+      "30545068",
+      "26049530",
+      "25681179",
+      "10360685",
+      "27412608",
+      "32682073",
+      "37935252",
+      "20510353",
+      "9133613",
+      "9670797",
+      "31354198",
+      "26461418",
+      "15709757",
+      "30206276",
+      "10966804",
+      "40626661",
+      "42176064",
+      "12145281",
+      "42470104",
+      "31900057",
+      "19049972",
+      "41745468",
+      "27900506",
+      "9890888",
+      "11026680",
+      "23772368",
+      "24865847",
+      "18255097",
+      "36321557"
+    ],
+    "review": [
+      "42725182",
+      "41581652",
+      "9106366",
+      "39150724",
+      "40953730",
+      "30545068",
+      "9670797",
+      "11026680"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

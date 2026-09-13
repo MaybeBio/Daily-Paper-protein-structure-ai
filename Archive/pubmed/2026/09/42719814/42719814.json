@@ -1,0 +1,285 @@
+{
+  "identity": {
+    "pmid": "42719814",
+    "doi": "10.1093/bioadv/vbag223",
+    "title": "Benchmarking antibody modeling tools across structure prediction, docking, and paratope-epitope interface analysis."
+  },
+  "content": {
+    "abstract": "MOTIVATION: Computational antibody engineering requires reliable prediction of antibody variable-fragment structures, antigen-antibody complexes, and binding interfaces. However, publicly available tools for these tasks have rarely been compared across the complete workflow under a controlled and statistically grounded design. RESULTS: We evaluated ImmuneBuilder, IgFold, AlphaFold3, GRAMM, and dyMEAN on 50 non-redundant humanized antibody-antigen complexes using multiple retained predictions and paired statistical testing. All three antibody structure predictors were accurate, with AlphaFold3 performing best overall and for the third complementarity-determining region of the heavy chain. AlphaFold3 also substantially outperformed GRAMM and dyMEAN in complex prediction, producing medium- or high-quality binding interfaces for 46% of the complexes, although overall interface accuracy remained limited. When docking was reliable, AlphaFold3 accurately recovered epitope and paratope residues, salt bridges, and non-bonded contacts, but reproduced hydrogen bonds and fine-grained contact strengths less consistently. These findings provide practical guidance for selecting tools across antibody-modeling workflows and identify persistent limitations in fine-grained interface prediction. AVAILABILITY AND IMPLEMENTATION: Data, structural predictions, evaluation results, and analysis code are available from Zenodo under record 20710876.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yu, Zeyuan",
+        "Wu, Jilei",
+        "Ning, Ziyao",
+        "Qiao, Chunxia",
+        "Wang, Jing",
+        "Li, Xinying",
+        "Liu, Chenghua",
+        "Chen, Guojiang",
+        "Feng, Jiannan",
+        "Yu, Jijun"
+      ],
+      "short_names": [
+        "Yu Z",
+        "Wu J",
+        "Ning Z",
+        "Qiao C",
+        "Wang J",
+        "Li X",
+        "Liu C",
+        "Chen G",
+        "Feng J",
+        "Yu J"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-0005-8726"
+      ],
+      "affiliations": [
+        "School of Artificial Intelligence and Data Science, University of Science and Technology of China, Hefei, Anhui 230026, China.",
+        "College of Biotechnology, Jiangsu University of Science and Technology, Zhenjiang, Jiangsu 212100, China.",
+        "School of Pharmacy, Qingdao University, Qingdao, Shandong 266071, China.",
+        "State Key Laboratory of National Security Specially Needed Medicines, Beijing 100000, China.",
+        "State Key Laboratory of National Security Specially Needed Medicines, Beijing 100000, China.",
+        "State Key Laboratory of National Security Specially Needed Medicines, Beijing 100000, China.",
+        "State Key Laboratory of National Security Specially Needed Medicines, Beijing 100000, China.",
+        "State Key Laboratory of National Security Specially Needed Medicines, Beijing 100000, China.",
+        "State Key Laboratory of National Security Specially Needed Medicines, Beijing 100000, China.",
+        "State Key Laboratory of National Security Specially Needed Medicines, Beijing 100000, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yu, Zeyuan",
+        "short_name": "Yu Z",
+        "identifiers": [
+          "0000-0002-0005-8726"
+        ],
+        "affiliations": [
+          "School of Artificial Intelligence and Data Science, University of Science and Technology of China, Hefei, Anhui 230026, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Jilei",
+        "short_name": "Wu J",
+        "identifiers": [],
+        "affiliations": [
+          "College of Biotechnology, Jiangsu University of Science and Technology, Zhenjiang, Jiangsu 212100, China."
+        ]
+      },
+      {
+        "full_name": "Ning, Ziyao",
+        "short_name": "Ning Z",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Qingdao University, Qingdao, Shandong 266071, China."
+        ]
+      },
+      {
+        "full_name": "Qiao, Chunxia",
+        "short_name": "Qiao C",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of National Security Specially Needed Medicines, Beijing 100000, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Jing",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of National Security Specially Needed Medicines, Beijing 100000, China."
+        ]
+      },
+      {
+        "full_name": "Li, Xinying",
+        "short_name": "Li X",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of National Security Specially Needed Medicines, Beijing 100000, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Chenghua",
+        "short_name": "Liu C",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of National Security Specially Needed Medicines, Beijing 100000, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Guojiang",
+        "short_name": "Chen G",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of National Security Specially Needed Medicines, Beijing 100000, China."
+        ]
+      },
+      {
+        "full_name": "Feng, Jiannan",
+        "short_name": "Feng J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of National Security Specially Needed Medicines, Beijing 100000, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Jijun",
+        "short_name": "Yu J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of National Security Specially Needed Medicines, Beijing 100000, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Bioinformatics advances"
+    ],
+    "journal_abbrev": [
+      "Bioinform Adv"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/10 11:53",
+    "fetched_at": "2026-09-13 13:07:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42719814",
+      "42201327",
+      "20098500",
+      "41667775",
+      "42620036",
+      "40135432",
+      "33730590",
+      "38385879",
+      "41993534",
+      "40692622",
+      "36959454",
+      "28633399",
+      "23053206",
+      "41313605",
+      "34838187",
+      "38161735",
+      "41432374",
+      "23285112",
+      "36641210",
+      "39348157",
+      "40188508",
+      "39921885",
+      "24938786",
+      "10828942",
+      "35893479",
+      "41142756",
+      "29943545",
+      "41863324",
+      "32683441",
+      "42248582",
+      "24753488",
+      "42252708",
+      "27153634",
+      "17910770",
+      "30761651",
+      "1381757",
+      "41706817",
+      "28155721",
+      "38791470",
+      "40512975",
+      "42489170",
+      "9485517",
+      "40225296",
+      "42475469",
+      "36321557",
+      "9464564",
+      "38372774",
+      "39167052",
+      "41088767",
+      "35720345",
+      "10488102",
+      "40966105",
+      "19062174",
+      "30863406",
+      "33934602",
+      "37390893",
+      "27591792",
+      "35704640",
+      "26370412",
+      "39625988",
+      "42693924",
+      "9698550",
+      "42129086",
+      "40814020",
+      "41712687",
+      "22860101",
+      "42558420",
+      "41261173",
+      "40630526",
+      "41310253",
+      "39936575",
+      "10679615",
+      "41275817",
+      "42465237",
+      "9753694",
+      "32719844",
+      "40465588",
+      "35874680",
+      "28729757",
+      "41797001",
+      "42048142",
+      "21383422",
+      "40285358",
+      "34447370",
+      "40980933",
+      "42565482",
+      "32189312",
+      "34176161",
+      "35593869",
+      "41268176",
+      "24488795",
+      "34432559",
+      "36558771",
+      "35125075",
+      "27131379",
+      "42554515",
+      "33330636",
+      "42471645",
+      "36088633",
+      "28560699"
+    ],
+    "review": [
+      "42719814",
+      "36321557",
+      "35720345",
+      "39936575"
+    ],
+    "pmc": [
+      "13557113"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://academic.oup.com/bioinformaticsadvances/article-lookup/doi/10.1093/bioadv/vbag223",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

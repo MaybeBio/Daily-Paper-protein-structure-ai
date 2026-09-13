@@ -1,0 +1,275 @@
+{
+  "identity": {
+    "pmid": "42710629",
+    "doi": "10.1016/j.virusres.2026.199796",
+    "title": "Deep learning-based structural prediction (AlphaFold 3) of shrimp IMNV RdRp and identification of seaweed-derived metabolites for antiviral intervention in aquaculture."
+  },
+  "content": {
+    "abstract": "Infectious Myonecrosis Virus (IMNV) remains a major global threat to shrimp aquaculture, causing severe economic losses due to the lack of approved antiviral therapeutics. In this study, an advanced in silico approach was employed, utilizing a deep learning-based prediction of AlphaFold 3 protein structures and large-scale virtual screening of seaweed-derived metabolites to identify potential inhibitors targeting RNA-dependent RNA polymerase (RdRp). To identify potential seaweed-derived candidate compounds against IMNV, a total of 1,077 compounds were screened against the RdRp_M01 protein. The docking results suggest the top-ranked three bioactive compounds, such as GA002 (-13.0 kcal/mol), RC003 (-10.9 kcal/mol), and BE012 (-10.8 kcal/mol), based on their highest binding energy score and molecular interactions, for further analysis. The 200 ns molecular dynamics simulations showed that the selected complexes exhibited stable behavior throughout the simulation time, with relatively low standard deviation values. Post-simulation MMGBSA analysis revealed total binding free energies (DeltaG_total) of -24.726, -26.722, and -34.850 kcal/mol for RdRp_M01_GA002, RdRp_M01_RC003, and RdRp_M01_BE012, respectively, indicating favorable binding affinity and stable protein-ligand interactions. The drug-likeness and physicochemical profiles of the selected compounds were acceptable, supporting their further investigation. Therefore, further validation through in vitro and in vivo studies is necessary to confirm their applicability in shrimp systems and to explore the potential of seaweed metabolites as candidate compounds targeting the IMNV RdRp and alternatives to synthetic drugs.",
+    "keywords": [
+      "AlphaFold 3",
+      "Deep Learning",
+      "Infectious Myonecrosis Virus",
+      "RNA-dependent RNA polymerase",
+      "Seaweed Metabolites"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Rahman, Mostafizur",
+        "Ali, Md Ahad",
+        "Samara, Tahosin Tasneem",
+        "Saha, Monish",
+        "Kundu, Pritom",
+        "Sarker, Hriddhi",
+        "Dutta, Ankita",
+        "Kumar, Neeraj"
+      ],
+      "short_names": [
+        "Rahman M",
+        "Ali MA",
+        "Samara TT",
+        "Saha M",
+        "Kundu P",
+        "Sarker H",
+        "Dutta A",
+        "Kumar N"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Biotechnology and Genetic Engineering, Gopalganj Science and Technology University, Gopalganj, Bangladesh; Department of Computational Chemistry and Drug Design, Panacea Research Center, Bangladesh. Electronic address: mostafizbge@gmail.com.",
+        "Department of Computational Chemistry and Drug Design, Panacea Research Center, Bangladesh; Department of Biochemistry and Molecular Biology, University of Rajshahi, Rajshahi, Bangladesh. Electronic address: ahad.chembd@gmail.com.",
+        "Department of Computational Chemistry and Drug Design, Panacea Research Center, Bangladesh; Department of Life Sciences, Independent University, Dhaka, Bangladesh. Electronic address: tahsinsamara0@gmail.com.",
+        "Department of Computational Chemistry and Drug Design, Panacea Research Center, Bangladesh; Department of Biochemistry and Cell Biology, Bangladesh University of Health Sciences, Dhaka, Bangladesh. Electronic address: monishsaha333@gmail.com.",
+        "Department of Computational Chemistry and Drug Design, Panacea Research Center, Bangladesh; Department of Pharmacy, University of Rajshahi, Rajshahi, Bangladesh. Electronic address: pritom.kundu.ru@gmail.com.",
+        "Department of Computational Chemistry and Drug Design, Panacea Research Center, Bangladesh; Department of Biochemistry and Molecular Biology, University of Rajshahi, Rajshahi, Bangladesh. Electronic address: hriddhisarkerborno@gmail.com.",
+        "Department of Computational Chemistry and Drug Design, Panacea Research Center, Bangladesh; Department of Pharmacy, University of Science and Technology Chittagong, Chittagong, Bangladesh. Electronic address: ankitadutta14857@gmail.com.",
+        "Department of Pharmaceutical Chemistry, Bhupal Nobles' College of Pharmacy, Udaipur 313001, Rajasthan, India. Electronic address: neerajkumarkamra@gmail.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Rahman, Mostafizur",
+        "short_name": "Rahman M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology and Genetic Engineering, Gopalganj Science and Technology University, Gopalganj, Bangladesh; Department of Computational Chemistry and Drug Design, Panacea Research Center, Bangladesh. Electronic address: mostafizbge@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Ali, Md Ahad",
+        "short_name": "Ali MA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Computational Chemistry and Drug Design, Panacea Research Center, Bangladesh; Department of Biochemistry and Molecular Biology, University of Rajshahi, Rajshahi, Bangladesh. Electronic address: ahad.chembd@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Samara, Tahosin Tasneem",
+        "short_name": "Samara TT",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Computational Chemistry and Drug Design, Panacea Research Center, Bangladesh; Department of Life Sciences, Independent University, Dhaka, Bangladesh. Electronic address: tahsinsamara0@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Saha, Monish",
+        "short_name": "Saha M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Computational Chemistry and Drug Design, Panacea Research Center, Bangladesh; Department of Biochemistry and Cell Biology, Bangladesh University of Health Sciences, Dhaka, Bangladesh. Electronic address: monishsaha333@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Kundu, Pritom",
+        "short_name": "Kundu P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Computational Chemistry and Drug Design, Panacea Research Center, Bangladesh; Department of Pharmacy, University of Rajshahi, Rajshahi, Bangladesh. Electronic address: pritom.kundu.ru@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Sarker, Hriddhi",
+        "short_name": "Sarker H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Computational Chemistry and Drug Design, Panacea Research Center, Bangladesh; Department of Biochemistry and Molecular Biology, University of Rajshahi, Rajshahi, Bangladesh. Electronic address: hriddhisarkerborno@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Dutta, Ankita",
+        "short_name": "Dutta A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Computational Chemistry and Drug Design, Panacea Research Center, Bangladesh; Department of Pharmacy, University of Science and Technology Chittagong, Chittagong, Bangladesh. Electronic address: ankitadutta14857@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Kumar, Neeraj",
+        "short_name": "Kumar N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmaceutical Chemistry, Bhupal Nobles' College of Pharmacy, Udaipur 313001, Rajasthan, India. Electronic address: neerajkumarkamra@gmail.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Virus research"
+    ],
+    "journal_abbrev": [
+      "Virus Res"
+    ],
+    "pub_date": "2026 Sep 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/08 23:35",
+    "fetched_at": "2026-09-13 13:07:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42710629",
+      "41140705",
+      "39102385",
+      "42142462",
+      "37811742",
+      "42461522",
+      "34311539",
+      "41084624",
+      "38084877",
+      "37728536",
+      "40685718",
+      "41291849",
+      "36990409",
+      "42693727",
+      "41588893",
+      "38483871",
+      "33715595",
+      "38415996",
+      "39986499",
+      "35796443",
+      "37464870",
+      "41472282",
+      "36467260",
+      "35000060",
+      "38002085",
+      "42342737",
+      "42011130",
+      "42112455",
+      "36016449",
+      "40657679",
+      "42708261",
+      "33190493",
+      "34238122",
+      "40471955",
+      "40082688",
+      "39757685",
+      "38441606",
+      "36801630",
+      "41386877",
+      "33786291",
+      "41002275",
+      "36902433",
+      "42418067",
+      "41654575",
+      "42707374",
+      "33168456",
+      "42254291",
+      "34637693",
+      "41045314",
+      "40638564",
+      "33716752",
+      "39937582",
+      "37861016",
+      "41552638",
+      "41757133",
+      "42708318",
+      "37515188",
+      "34717229",
+      "40033499",
+      "33615998",
+      "36432204",
+      "34159141",
+      "37551016",
+      "40051864",
+      "34248355",
+      "39639531",
+      "40464176",
+      "35642087",
+      "33475069",
+      "35744817",
+      "33959472",
+      "36442514",
+      "37528667",
+      "42589125",
+      "35458761",
+      "35510619",
+      "40019889",
+      "40114577",
+      "39777139",
+      "34169390",
+      "41442824",
+      "40699714",
+      "35136534",
+      "40355437",
+      "39072259",
+      "40555000",
+      "37301607",
+      "40973684",
+      "32718300",
+      "37386350",
+      "36299509",
+      "41857590",
+      "37021347",
+      "36635906",
+      "40945531",
+      "40616975",
+      "33110386",
+      "36883874",
+      "38347786",
+      "32720577"
+    ],
+    "review": [
+      "42710629",
+      "36635906"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0168-1702(26)00115-2",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-RDRP-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-76",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "identity": {
+    "pmid": "42717085",
+    "doi": "10.1038/s41586-026-11025-1",
+    "title": "Breaking timescales with generative sampling of conformational transitions."
+  },
+  "content": {
+    "abstract": "Molecular transitions, including protein folding, allostery and membrane transport, are central to biological functions, yet remain notoriously difficult to simulate. Their intrinsic rarity places them beyond the reach of standard molecular dynamics, whereas enhanced-sampling strategies are computationally demanding and often depend on arbitrarily chosen parameters and variables that bias outcomes(1-3). Here we introduce Gen-COMPAS, a generative committor-guided path-sampling framework that reconstructs transition pathways without predefined collective variables and at acceptable computational cost. Gen-COMPAS couples a denoising diffusion probabilistic model, which produces structurally plausible intermediate targets, with committor-based filtering to identify transition states(4,5). Short unbiased simulations from these intermediates yield transition-region ensembles at nanosecond-to-submicrosecond aggregate sampling scales for which conventional approaches require orders of magnitude more sampling. Applied to systems ranging from a miniprotein to a pentameric, ligand-gated ion channel, Gen-COMPAS recovers committors, transition states and free-energy landscapes from known end-point structures alone, without predefined reaction coordinates or prior mechanistic knowledge, thereby providing a computationally tractable route to mechanistic insight in biomolecular systems that have so far resisted conventional simulation approaches.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Tang, Chenyu",
+        "Pandey, Mayank Prakash",
+        "Chen, Cheng Giuseppe",
+        "Megias, Alberto",
+        "Dehez, Francois",
+        "Chipot, Christophe"
+      ],
+      "short_names": [
+        "Tang C",
+        "Pandey MP",
+        "Chen CG",
+        "Megias A",
+        "Dehez F",
+        "Chipot C"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6914-7348",
+        "ORCID: 0000-0002-2490-5571",
+        "ORCID: 0000-0002-7889-1312",
+        "ORCID: 0000-0001-8076-6222",
+        "ORCID: 0000-0002-9122-1698"
+      ],
+      "affiliations": [
+        "Laboratoire de Physique et Chimie Theoriques (LPCT), Universite de Lorraine, CNRS, Nancy, France. chenyu.tang@univ-lorraine.fr.",
+        "Laboratoire de Physique et Chimie Theoriques (LPCT), Universite de Lorraine, CNRS, Nancy, France. mayank.pandey@univ-lorraine.fr.",
+        "Laboratoire de Physique et Chimie Theoriques (LPCT), Universite de Lorraine, CNRS, Nancy, France.",
+        "Complex Systems Group and Department of Applied Mathematics, Universidad Politecnica de Madrid, Madrid, Spain.",
+        "Laboratoire de Physique et Chimie Theoriques (LPCT), Universite de Lorraine, CNRS, Nancy, France.",
+        "Laboratoire de Physique et Chimie Theoriques (LPCT), Universite de Lorraine, CNRS, Nancy, France. chipot@illinois.edu.",
+        "Department of Biochemistry and Molecular Biology, University of Chicago, Chicago, IL, USA. chipot@illinois.edu.",
+        "Theoretical and Computational Biophysics Group, Beckman Institute, and Department of Physics, University of Illinois at Urbana-Champaign, Urbana, IL, USA. chipot@illinois.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Tang, Chenyu",
+        "short_name": "Tang C",
+        "identifiers": [
+          "0000-0002-6914-7348"
+        ],
+        "affiliations": [
+          "Laboratoire de Physique et Chimie Théoriques (LPCT), Université de Lorraine, CNRS, Nancy, France. chenyu.tang@univ-lorraine.fr."
+        ]
+      },
+      {
+        "full_name": "Pandey, Mayank Prakash",
+        "short_name": "Pandey MP",
+        "identifiers": [
+          "0000-0002-2490-5571"
+        ],
+        "affiliations": [
+          "Laboratoire de Physique et Chimie Théoriques (LPCT), Université de Lorraine, CNRS, Nancy, France. mayank.pandey@univ-lorraine.fr."
+        ]
+      },
+      {
+        "full_name": "Chen, Cheng Giuseppe",
+        "short_name": "Chen CG",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratoire de Physique et Chimie Théoriques (LPCT), Université de Lorraine, CNRS, Nancy, France."
+        ]
+      },
+      {
+        "full_name": "Megías, Alberto",
+        "short_name": "Megías A",
+        "identifiers": [
+          "0000-0002-7889-1312"
+        ],
+        "affiliations": [
+          "Complex Systems Group and Department of Applied Mathematics, Universidad Politécnica de Madrid, Madrid, Spain."
+        ]
+      },
+      {
+        "full_name": "Dehez, François",
+        "short_name": "Dehez F",
+        "identifiers": [
+          "0000-0001-8076-6222"
+        ],
+        "affiliations": [
+          "Laboratoire de Physique et Chimie Théoriques (LPCT), Université de Lorraine, CNRS, Nancy, France."
+        ]
+      },
+      {
+        "full_name": "Chipot, Christophe",
+        "short_name": "Chipot C",
+        "identifiers": [
+          "0000-0002-9122-1698"
+        ],
+        "affiliations": [
+          "Laboratoire de Physique et Chimie Théoriques (LPCT), Université de Lorraine, CNRS, Nancy, France. chipot@illinois.edu.",
+          "Department of Biochemistry and Molecular Biology, University of Chicago, Chicago, IL, USA. chipot@illinois.edu.",
+          "Theoretical and Computational Biophysics Group, Beckman Institute, and Department of Physics, University of Illinois at Urbana-Champaign, Urbana, IL, USA. chipot@illinois.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature"
+    ],
+    "journal_abbrev": [
+      "Nature"
+    ],
+    "pub_date": "2026 Sep 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/10 05:36",
+    "fetched_at": "2026-09-13 13:07:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42717085",
+      "42475469",
+      "41165096",
+      "25659594",
+      "32145945",
+      "31396907",
+      "41994866",
+      "42340349",
+      "41389037",
+      "42578645",
+      "26891818",
+      "39513439",
+      "42427182",
+      "36511548",
+      "34899998",
+      "27984811",
+      "26586510",
+      "42096314",
+      "32756904",
+      "31703501",
+      "41544196",
+      "23572592",
+      "41950332",
+      "41817229",
+      "38568182",
+      "33383937",
+      "40588545",
+      "30557019",
+      "39824807",
+      "36379761",
+      "42720343",
+      "23912807",
+      "40960922",
+      "26787868",
+      "42126921",
+      "26583873",
+      "26547154",
+      "24565158",
+      "34647743",
+      "33291927",
+      "30134692",
+      "17979313",
+      "42065439",
+      "37285481",
+      "26593843",
+      "21054008",
+      "30240203",
+      "31743478",
+      "31396904",
+      "35899416",
+      "32145946",
+      "41128318",
+      "40613529",
+      "33376207",
+      "28410930",
+      "41288964",
+      "30969408",
+      "42268730",
+      "42708699",
+      "37279354",
+      "38018910",
+      "38662196",
+      "37224455",
+      "41790944",
+      "34652272",
+      "41851975",
+      "31680510",
+      "41894491",
+      "27578633",
+      "38986052",
+      "29720925",
+      "42458838",
+      "39420582",
+      "31539245",
+      "40958768",
+      "20483345",
+      "40506852",
+      "26866996",
+      "20819242",
+      "29667836",
+      "40275583",
+      "25691321",
+      "41925293",
+      "38932456",
+      "28170260",
+      "41481844",
+      "21942785",
+      "32268066",
+      "24476246",
+      "30222340",
+      "29501958",
+      "27090846",
+      "22347892",
+      "33728914",
+      "39085770",
+      "28345907",
+      "27730231",
+      "42430724",
+      "36165347",
+      "38290241"
+    ],
+    "review": [
+      "42717085",
+      "26891818",
+      "27984811",
+      "32756904",
+      "31743478",
+      "28410930",
+      "31680510"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41586-026-11025-1",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

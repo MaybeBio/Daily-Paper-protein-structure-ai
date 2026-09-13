@@ -1,0 +1,314 @@
+{
+  "identity": {
+    "pmid": "42716964",
+    "doi": "10.1038/s41551-026-01790-9",
+    "title": "Sequence and structural determinants of efficacious de novo chimaeric antigen receptors."
+  },
+  "content": {
+    "abstract": "Advances in generative protein design using artificial intelligence (AI) have enabled the rapid development of binders against heterogeneous targets, including tumour-associated antigens. Despite extensive biochemical characterization, these novel protein binders have had limited evaluation in candidate therapeutics, including chimaeric antigen receptor (CAR) T cells. Here we synthesize generative protein design workflows to screen 1,758 newly designed protein binders targeting BCMA, CD19 and CD22 for efficacy in scalable protein-binding, T-cell activation and in vivo killing assays. We characterize three main challenges that hinder the utility of de novo protein binders as CARs, including tonic signalling, occluded epitope engagement and off-target activity. We develop computational and experimental heuristics to overcome these limitations, including screens of sequence variants of individual parental structures, that retain on-target CAR activation while mitigating liabilities. Together, our framework accelerates the development of AI-designed proteins for future preclinical therapeutic screening, helping enable a new generation of cellular therapies.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chow, Arthur",
+        "Chu, Hoyin",
+        "Li, Ruofan",
+        "Nalbant, Benan N",
+        "Dozic, Abdul Vehab",
+        "Kida, Laura C",
+        "Tang, Zeyu",
+        "Palmeri, Joseph R",
+        "Lareau, Caleb A"
+      ],
+      "short_names": [
+        "Chow A",
+        "Chu H",
+        "Li R",
+        "Nalbant BN",
+        "Dozic AV",
+        "Kida LC",
+        "Tang Z",
+        "Palmeri JR",
+        "Lareau CA"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-8630-3667",
+        "ORCID: 0009-0005-6553-2483",
+        "ORCID: 0000-0003-3789-2906",
+        "ORCID: 0000-0003-4179-4807"
+      ],
+      "affiliations": [
+        "Computational and Systems Biology Program, Memorial Sloan Kettering Cancer Center, New York, NY, USA.",
+        "Computational and Systems Biology Program, Memorial Sloan Kettering Cancer Center, New York, NY, USA.",
+        "Computational and Systems Biology Program, Memorial Sloan Kettering Cancer Center, New York, NY, USA.",
+        "Computational and Systems Biology Program, Memorial Sloan Kettering Cancer Center, New York, NY, USA.",
+        "Computational and Systems Biology Program, Memorial Sloan Kettering Cancer Center, New York, NY, USA.",
+        "Computational and Systems Biology Program, Memorial Sloan Kettering Cancer Center, New York, NY, USA.",
+        "Computational and Systems Biology Program, Memorial Sloan Kettering Cancer Center, New York, NY, USA.",
+        "Computational and Systems Biology Program, Memorial Sloan Kettering Cancer Center, New York, NY, USA.",
+        "Computational and Systems Biology Program, Memorial Sloan Kettering Cancer Center, New York, NY, USA. lareauc@mskcc.org."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chow, Arthur",
+        "short_name": "Chow A",
+        "identifiers": [],
+        "affiliations": [
+          "Computational and Systems Biology Program, Memorial Sloan Kettering Cancer Center, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Chu, Hoyin",
+        "short_name": "Chu H",
+        "identifiers": [
+          "0000-0001-8630-3667"
+        ],
+        "affiliations": [
+          "Computational and Systems Biology Program, Memorial Sloan Kettering Cancer Center, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Li, Ruofan",
+        "short_name": "Li R",
+        "identifiers": [],
+        "affiliations": [
+          "Computational and Systems Biology Program, Memorial Sloan Kettering Cancer Center, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Nalbant, Benan N",
+        "short_name": "Nalbant BN",
+        "identifiers": [],
+        "affiliations": [
+          "Computational and Systems Biology Program, Memorial Sloan Kettering Cancer Center, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Dozic, Abdul Vehab",
+        "short_name": "Dozic AV",
+        "identifiers": [],
+        "affiliations": [
+          "Computational and Systems Biology Program, Memorial Sloan Kettering Cancer Center, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Kida, Laura C",
+        "short_name": "Kida LC",
+        "identifiers": [
+          "0009-0005-6553-2483"
+        ],
+        "affiliations": [
+          "Computational and Systems Biology Program, Memorial Sloan Kettering Cancer Center, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Tang, Zeyu",
+        "short_name": "Tang Z",
+        "identifiers": [
+          "0000-0003-3789-2906"
+        ],
+        "affiliations": [
+          "Computational and Systems Biology Program, Memorial Sloan Kettering Cancer Center, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Palmeri, Joseph R",
+        "short_name": "Palmeri JR",
+        "identifiers": [],
+        "affiliations": [
+          "Computational and Systems Biology Program, Memorial Sloan Kettering Cancer Center, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Lareau, Caleb A",
+        "short_name": "Lareau CA",
+        "identifiers": [
+          "0000-0003-4179-4807"
+        ],
+        "affiliations": [
+          "Computational and Systems Biology Program, Memorial Sloan Kettering Cancer Center, New York, NY, USA. lareauc@mskcc.org."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature biomedical engineering"
+    ],
+    "journal_abbrev": [
+      "Nat Biomed Eng"
+    ],
+    "pub_date": "2026 Sep 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/10 05:36",
+    "fetched_at": "2026-09-13 13:07:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42716964",
+      "41415384",
+      "39694704",
+      "42273674",
+      "39420062",
+      "41238217",
+      "42222300",
+      "28515942",
+      "40887563",
+      "39086976",
+      "38960449",
+      "39803556",
+      "39763064",
+      "40897171",
+      "40298385",
+      "41449802",
+      "40537997",
+      "32788237",
+      "39835140",
+      "41793851",
+      "40821776",
+      "30581986",
+      "42349054",
+      "40306957",
+      "41383027",
+      "40677216",
+      "36323436",
+      "41177417",
+      "40686280",
+      "38007238",
+      "41775430",
+      "38596311",
+      "36945773",
+      "39868233",
+      "29306566",
+      "33888899",
+      "42125659",
+      "32689954",
+      "39086686",
+      "38743236",
+      "41319471",
+      "41253492",
+      "36016950",
+      "42365891",
+      "33478595",
+      "38066564",
+      "41465327",
+      "33762438",
+      "39885989",
+      "29540509",
+      "31548346",
+      "34253594",
+      "32435496",
+      "42386499",
+      "41428622",
+      "23344265",
+      "31005597",
+      "41469141",
+      "40155973",
+      "39508140",
+      "28928126",
+      "34840026",
+      "31698455",
+      "41993194",
+      "42515682",
+      "41100732",
+      "33499253",
+      "25878112",
+      "34412685",
+      "42410671",
+      "39169622",
+      "40576564",
+      "42582347",
+      "41547950",
+      "27068947",
+      "38720898",
+      "42546051",
+      "41530035",
+      "36409926",
+      "35605184",
+      "42329247",
+      "31852337",
+      "37295816",
+      "42081386",
+      "36418477",
+      "42167809",
+      "30984613",
+      "35419923",
+      "37873222",
+      "40726984",
+      "36122078",
+      "38466264",
+      "41867703",
+      "34769211",
+      "39652779",
+      "32385241",
+      "31043341",
+      "32582204",
+      "35464394",
+      "42533521"
+    ],
+    "review": [
+      "42716964",
+      "40887563",
+      "40897171",
+      "40537997",
+      "39835140",
+      "42349054",
+      "40677216",
+      "36016950",
+      "42365891",
+      "41465327",
+      "29540509",
+      "42386499",
+      "41428622",
+      "40155973",
+      "28928126",
+      "34840026",
+      "41993194",
+      "42515682",
+      "34412685",
+      "42582347",
+      "27068947",
+      "42546051",
+      "41530035",
+      "42329247",
+      "42081386",
+      "36418477",
+      "30984613",
+      "40726984",
+      "38466264",
+      "34769211"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41551-026-01790-9",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-TNFRSF17-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

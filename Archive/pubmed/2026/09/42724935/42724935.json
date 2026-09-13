@@ -1,0 +1,238 @@
+{
+  "identity": {
+    "pmid": "42724935",
+    "doi": "10.21769/BioProtoc.5816",
+    "title": "Humanizing Antibodies and Nanobodies From Scratch With HuDiff."
+  },
+  "content": {
+    "abstract": "Antibody (Ab) and nanobody (Nb) humanization is essential for reducing immunogenicity in therapeutic applications. HuDiff is an adaptive autoregressive diffusion approach that generates humanized antibodies and nanobodies from scratch using only complementarity-determining region sequences as input, eliminating the need for preexisting human templates. The method follows a two-stage training pipeline: pretraining on human antibody sequences to learn framework region patterns, followed by fine-tuning on target-species sequences. HuDiff-Ab processes paired heavy and light chains for conventional antibodies, while HuDiff-Nb can incorporate a specialized inpainting mode to preserve critical nanobody framework residues. This protocol provides a complete step-by-step guide for implementing HuDiff, covering data preparation, model training, and sequence generation. Key features * Requires only CDR sequences as input and does not require human template selection. * Uses a two-stage training strategy, with pretraining on human antibody sequences and fine-tuning on target-species sequences guided by humanness scores. * HuDiff-Ab humanizes paired heavy and light chains simultaneously, whereas HuDiff-Nb provides an inpainting mode to preserve key framework residues. * Generates multiple diverse humanized candidates for downstream experimental screening.",
+    "keywords": [
+      "Antibody",
+      "Autoregressive diffusion model",
+      "Deep learning",
+      "Humanization",
+      "Nanobody",
+      "Protein design"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Nan, Yang",
+        "Sun, Hongshuai",
+        "Zhang, Bo",
+        "Yang, Yue",
+        "He, Jianxin",
+        "Bai, Qifeng"
+      ],
+      "short_names": [
+        "Nan Y",
+        "Sun H",
+        "Zhang B",
+        "Yang Y",
+        "He J",
+        "Bai Q"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Basic Medical Sciences, Lanzhou University, Lanzhou 730000, China.",
+        "School of Basic Medical Sciences, Lanzhou University, Lanzhou 730000, China.",
+        "School of Basic Medical Sciences, Lanzhou University, Lanzhou 730000, China.",
+        "Key Laboratory of Environmental Ecology and Population Health in Northwest Minority Areas, State Ethnic Affairs Commission, Northwest Minzu University, No.1 Xibeixincun, Chengguan District, Lanzhou, Gansu 730030, China.",
+        "College of Basic Medicine, Gansu University of Chinese Medicine, Lanzhou, China.",
+        "School of Basic Medical Sciences, Lanzhou University, Lanzhou 730000, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Nan, Yang",
+        "short_name": "Nan Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Lanzhou University, Lanzhou 730000, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Hongshuai",
+        "short_name": "Sun H",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Lanzhou University, Lanzhou 730000, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Bo",
+        "short_name": "Zhang B",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Lanzhou University, Lanzhou 730000, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Yue",
+        "short_name": "Yang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Environmental Ecology and Population Health in Northwest Minority Areas, State Ethnic Affairs Commission, Northwest Minzu University, No.1 Xibeixincun, Chengguan District, Lanzhou, Gansu 730030, China."
+        ]
+      },
+      {
+        "full_name": "He, Jianxin",
+        "short_name": "He J",
+        "identifiers": [],
+        "affiliations": [
+          "College of Basic Medicine, Gansu University of Chinese Medicine, Lanzhou, China."
+        ]
+      },
+      {
+        "full_name": "Bai, Qifeng",
+        "short_name": "Bai Q",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Lanzhou University, Lanzhou 730000, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Bio-protocol"
+    ],
+    "journal_abbrev": [
+      "Bio Protoc"
+    ],
+    "pub_date": "2026 Sep 5",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/11 11:38",
+    "fetched_at": "2026-09-13 13:07:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42724935",
+      "15261458",
+      "23816785",
+      "42475469",
+      "7493379",
+      "40966656",
+      "34373858",
+      "38515052",
+      "30287940",
+      "41947016",
+      "38812514",
+      "19010777",
+      "10556035",
+      "42479849",
+      "27625211",
+      "15848073",
+      "42053822",
+      "12097421",
+      "24444705",
+      "26683180",
+      "28165915",
+      "26621728",
+      "9671778",
+      "8309946",
+      "34895471",
+      "30400198",
+      "29213270",
+      "41561375",
+      "39189360",
+      "26252731",
+      "20043919",
+      "7937712",
+      "35133949",
+      "39076979",
+      "16360012",
+      "30386328",
+      "35157279",
+      "42129099",
+      "9154469",
+      "40328712",
+      "24966517",
+      "40775723",
+      "42623408",
+      "26036575",
+      "30196489",
+      "41867620",
+      "33530572",
+      "37364719",
+      "22180101",
+      "38921957",
+      "23826749",
+      "40659740",
+      "17079018",
+      "42638051",
+      "40678479",
+      "15642142",
+      "10788485",
+      "38072062",
+      "41986730",
+      "40715549",
+      "36346585",
+      "33169668",
+      "41270823",
+      "36341416",
+      "37550425",
+      "40367237",
+      "39611407",
+      "39422475",
+      "8931129",
+      "8152440",
+      "1798701",
+      "20400861",
+      "38736021",
+      "12218124",
+      "39051333",
+      "19939452",
+      "9140729",
+      "23355464",
+      "37909045",
+      "24481222",
+      "40070407",
+      "10640759",
+      "41096532",
+      "15848072",
+      "39973811",
+      "40347542",
+      "38898362",
+      "32129452",
+      "41723205",
+      "36560698",
+      "33767701",
+      "39154093",
+      "41370632",
+      "32193207",
+      "41951008",
+      "33751827",
+      "14522015",
+      "29511492",
+      "38874667",
+      "41564239"
+    ],
+    "review": [
+      "42724935",
+      "38812514",
+      "29213270",
+      "30386328",
+      "15848072",
+      "38898362"
+    ],
+    "pmc": [
+      "13561673"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

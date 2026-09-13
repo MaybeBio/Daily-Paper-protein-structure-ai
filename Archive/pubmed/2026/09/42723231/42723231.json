@@ -1,0 +1,279 @@
+{
+  "identity": {
+    "pmid": "42723231",
+    "doi": "10.1002/cbic.202500967",
+    "title": "A Novel SXXLF Motif in the FXR N-Terminal Domain Mediates Coregulator and Interdomain Interactions."
+  },
+  "content": {
+    "abstract": "The nuclear receptor (NR) superfamily is comprised of ligand-regulated transcription factors that contain an intrinsically disordered domain at the amino-terminal end, known as the N-terminal domain (NTD). While this poorly conserved domain is known to possess ligand-independent activation function (AF-1), few NTD functions are conserved between NRs. Identified roles in other receptors include androgen receptor (AR), estrogen receptor (ER), and mineralocorticoid receptor (MR). Here, we aim to define the function of the NTD of the farnesoid X receptor (FXR), a crucial regulator of lipid and bile acid metabolism. We show that the NTD engages in interdomain contact with other FXR domains. We also observe that the NTD interacts directly with coregulator proteins. Using mutagenesis, mammalian two-hybrid assays, mammalian one-hybrid assay, and molecular dynamics (MD) simulations, we identify and validate a novel SXXLF motif in the NTD which mediates interactions with both coregulators and the ligand binding domain. Mutation of the motif induces large changes in conformational and allosteric coupling in FXR. Our study identifies a new nuclear receptor-interacting motif that modulates the transcriptional activity of FXR.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "*Receptors, Cytoplasmic and Nuclear/chemistry/metabolism/genetics",
+      "Receptor, Farnesoid X-Activated",
+      "Molecular Dynamics Simulation",
+      "Amino Acid Motifs",
+      "Protein Domains",
+      "Protein Binding",
+      "Amino Acid Sequence",
+      "Animals"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Villalona, Priscilla",
+        "Pulahinge, Thilini",
+        "Yu, Tracy",
+        "Wenning, Jordan",
+        "Khan, Sabab Hasan",
+        "Frisbie, Crawford Joseph",
+        "Magafas, Jill",
+        "Barbe, Addison",
+        "Okafor, C Denise"
+      ],
+      "short_names": [
+        "Villalona P",
+        "Pulahinge T",
+        "Yu T",
+        "Wenning J",
+        "Khan SH",
+        "Frisbie CJ",
+        "Magafas J",
+        "Barbe A",
+        "Okafor CD"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-7374-1561"
+      ],
+      "affiliations": [
+        "Department of Biochemistry and Molecular Biology, The Pennsylvania State University, University Park, Pennsylvania, USA.",
+        "Department of Chemistry, The Pennsylvania State University, University Park, Pennsylvania, USA.",
+        "Department of Biochemistry and Molecular Biology, The Pennsylvania State University, University Park, Pennsylvania, USA.",
+        "Department of Biochemistry and Molecular Biology, The Pennsylvania State University, University Park, Pennsylvania, USA.",
+        "Department of Biochemistry and Molecular Biology, The Pennsylvania State University, University Park, Pennsylvania, USA.",
+        "Department of Biochemistry and Molecular Biology, The Pennsylvania State University, University Park, Pennsylvania, USA.",
+        "Department of Biochemistry and Molecular Biology, The Pennsylvania State University, University Park, Pennsylvania, USA.",
+        "Department of Biochemistry and Molecular Biology, The Pennsylvania State University, University Park, Pennsylvania, USA.",
+        "Department of Biochemistry and Molecular Biology, The Pennsylvania State University, University Park, Pennsylvania, USA.",
+        "Department of Chemistry, The Pennsylvania State University, University Park, Pennsylvania, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Villalona, Priscilla",
+        "short_name": "Villalona P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, The Pennsylvania State University, University Park, Pennsylvania, USA."
+        ]
+      },
+      {
+        "full_name": "Pulahinge, Thilini",
+        "short_name": "Pulahinge T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, The Pennsylvania State University, University Park, Pennsylvania, USA."
+        ]
+      },
+      {
+        "full_name": "Yu, Tracy",
+        "short_name": "Yu T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, The Pennsylvania State University, University Park, Pennsylvania, USA."
+        ]
+      },
+      {
+        "full_name": "Wenning, Jordan",
+        "short_name": "Wenning J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, The Pennsylvania State University, University Park, Pennsylvania, USA."
+        ]
+      },
+      {
+        "full_name": "Khan, Sabab Hasan",
+        "short_name": "Khan SH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, The Pennsylvania State University, University Park, Pennsylvania, USA."
+        ]
+      },
+      {
+        "full_name": "Frisbie, Crawford Joseph",
+        "short_name": "Frisbie CJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, The Pennsylvania State University, University Park, Pennsylvania, USA."
+        ]
+      },
+      {
+        "full_name": "Magafas, Jill",
+        "short_name": "Magafas J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, The Pennsylvania State University, University Park, Pennsylvania, USA."
+        ]
+      },
+      {
+        "full_name": "Barbe, Addison",
+        "short_name": "Barbe A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, The Pennsylvania State University, University Park, Pennsylvania, USA."
+        ]
+      },
+      {
+        "full_name": "Okafor, C Denise",
+        "short_name": "Okafor CD",
+        "identifiers": [
+          "0000-0001-7374-1561"
+        ],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, The Pennsylvania State University, University Park, Pennsylvania, USA.",
+          "Department of Chemistry, The Pennsylvania State University, University Park, Pennsylvania, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Chembiochem : a European journal of chemical biology"
+    ],
+    "journal_abbrev": [
+      "Chembiochem"
+    ],
+    "pub_date": "2026 Sep 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/11 05:36",
+    "fetched_at": "2026-09-13 13:07:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42723231",
+      "42239265",
+      "39332668",
+      "10648597",
+      "10894149",
+      "10454556",
+      "23546875",
+      "23707573",
+      "21878368",
+      "41728955",
+      "30275017",
+      "29944921",
+      "11043576",
+      "18755856",
+      "15107424",
+      "39675705",
+      "41033550",
+      "12588987",
+      "15994236",
+      "11113208",
+      "10454563",
+      "11574675",
+      "24523409",
+      "9628876",
+      "39653158",
+      "15525515",
+      "15202934",
+      "11735420",
+      "12554753",
+      "15542861",
+      "10809233",
+      "11818503",
+      "17125202",
+      "18311053",
+      "15329387",
+      "11818501",
+      "41054796",
+      "28589840",
+      "10490654",
+      "29718163",
+      "30731167",
+      "9482670",
+      "24531544",
+      "10866662",
+      "24361687",
+      "12714604",
+      "41637656",
+      "15027889",
+      "11435607",
+      "11713274",
+      "11779876",
+      "16627595",
+      "15187081",
+      "12215545",
+      "10601285",
+      "25138215",
+      "9430642",
+      "20444884",
+      "10428842",
+      "24953769",
+      "12650714",
+      "16645042",
+      "29633919",
+      "12864730",
+      "21439373",
+      "12511601",
+      "10816582",
+      "25675114",
+      "11068052",
+      "12556447",
+      "14733360",
+      "12215540",
+      "32712104",
+      "12754200",
+      "11279242",
+      "19863811",
+      "9368054",
+      "23462506",
+      "17391100",
+      "22278336",
+      "15684378",
+      "36353521",
+      "41656862",
+      "10195690",
+      "24055275",
+      "16675527",
+      "12393883",
+      "24704038",
+      "35634773",
+      "11867625",
+      "10747867",
+      "23728580",
+      "12004058",
+      "10940306",
+      "30658039",
+      "15072553",
+      "10960470",
+      "15337744",
+      "11739747",
+      "10744760"
+    ],
+    "review": [
+      "42723231",
+      "21878368",
+      "39653158",
+      "18311053",
+      "21439373",
+      "12511601",
+      "24055275"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

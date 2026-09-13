@@ -1,0 +1,207 @@
+{
+  "identity": {
+    "pmid": "42710143",
+    "doi": "10.1016/j.compbiolchem.2026.109390",
+    "title": "Computational design of siRNAs targeting SIRT7 in gynaecological cancers with cell-penetrating peptide-based delivery assessment."
+  },
+  "content": {
+    "abstract": "SIRT7 is a multifunctional epigenetic regulator and is significantly overexpressed in three major gynaecological cancers i.e., ovarian, cervical, and endometrial cancers, contributing to the proliferation and progression of tumors. This study focused on computationally designing and evaluating small interfering RNAs (siRNAs) as promising therapeutic candidates targeting SIRT7. In silico expression analysis has confirmed overexpression of SIRT7 in tumor tissues as compared to normal samples. siRNAs (S1-S6) were designed using siDirect and OligoWalk, which were screened for specificity using BLASTn. GC content and secondary structure prediction were done using OligoCalc and MaxExpect which eliminated four siRNA candidates (S2-S5) due to unfavourable internal loops and hairpin structures. Candidate siRNAs and mRNA thermodynamic stability were predicted using DuplexFold webserver. Molecular docking and simulation studies revealed interactions of siRNA candidates with human Argonaute 2 (Ago2) protein, maintaining strong post-simulation hydrogen bonds and salt bridges. Both S1 and S6 showed stable interactions with key domains (MID, PAZ and PIWI) of Ago2 protein, suggesting favourable structural compatibility with RNA induced silencing complex (RISC). S1 and S6 emerge as promising siRNA candidates for targeting SIRT7. Virtual screening with cationic cell penetrating peptides (CPPs) demonstrated stable CPP-siRNA complexes, suggesting suitability of RVG-9DR and H8R15 as potential delivery agents of S1 and S6. Overall, this study provides a comprehensive computational framework for designing and evaluating siRNAs targeting SIRT7, although further experimental studies are required to validate their therapeutic potential.",
+    "keywords": [
+      "Argonaute",
+      "CPPs",
+      "Gynaecological cancers",
+      "In-silico",
+      "SIRT7",
+      "siRNA"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Verma, Samridhi",
+        "Choudhary, Neha"
+      ],
+      "short_names": [
+        "Verma S",
+        "Choudhary N"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Centre for Computational Biology and Bioinformatics, School of Life Sciences, Central University of Himachal Pradesh, India. Electronic address: samridhi.cuhp@gmail.com.",
+        "Centre for Computational Biology and Bioinformatics, School of Life Sciences, Central University of Himachal Pradesh, India. Electronic address: choudharyneha114@hpcu.ac.in."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Verma, Samridhi",
+        "short_name": "Verma S",
+        "identifiers": [],
+        "affiliations": [
+          "Centre for Computational Biology and Bioinformatics, School of Life Sciences, Central University of Himachal Pradesh, India. Electronic address: samridhi.cuhp@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Choudhary, Neha",
+        "short_name": "Choudhary N",
+        "identifiers": [],
+        "affiliations": [
+          "Centre for Computational Biology and Bioinformatics, School of Life Sciences, Central University of Himachal Pradesh, India. Electronic address: choudharyneha114@hpcu.ac.in."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Computational biology and chemistry"
+    ],
+    "journal_abbrev": [
+      "Comput Biol Chem"
+    ],
+    "pub_date": "2026 Sep 3",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/08 23:35",
+    "fetched_at": "2026-09-13 13:07:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42710143",
+      "41056692",
+      "40387620",
+      "41392379",
+      "35482116",
+      "37780803",
+      "38518723",
+      "42417903",
+      "39798472",
+      "41479113",
+      "36858531",
+      "35537364",
+      "42040413",
+      "39490865",
+      "20641619",
+      "24019920",
+      "30912917",
+      "17881374",
+      "27110240",
+      "19948054",
+      "37287091",
+      "34089909",
+      "40877400",
+      "34310959",
+      "31021613",
+      "36303212",
+      "31695077",
+      "38087193",
+      "41364690",
+      "20641481",
+      "41241103",
+      "41478672",
+      "39011016",
+      "42612768",
+      "31630673",
+      "41642899",
+      "35493709",
+      "40854642",
+      "31098994",
+      "25157701",
+      "38185193",
+      "36530559",
+      "21053142",
+      "41493642",
+      "27380263",
+      "28624185",
+      "40961826",
+      "27441640",
+      "39809083",
+      "12923253",
+      "40465375",
+      "24998540",
+      "20972213",
+      "39682166",
+      "16945958",
+      "22171592",
+      "22909216",
+      "37308404",
+      "16959510",
+      "23140460",
+      "23484018",
+      "21093588",
+      "22200682",
+      "35636695",
+      "35462199",
+      "42324545",
+      "28666009",
+      "28797448",
+      "36213692",
+      "18306428",
+      "41444309",
+      "38809364",
+      "41129852",
+      "41351698",
+      "28454579",
+      "33928583",
+      "41757133",
+      "32146061",
+      "26612416",
+      "33177188",
+      "33834183",
+      "42475469",
+      "20380733",
+      "28870347",
+      "41965145",
+      "33625408",
+      "23877830",
+      "34401226",
+      "19954842",
+      "33928584",
+      "15973356",
+      "32016611",
+      "16756390",
+      "24791003",
+      "23000699",
+      "41951278",
+      "26151705",
+      "41706400",
+      "41968858",
+      "26654841"
+    ],
+    "review": [
+      "42710143",
+      "41479113",
+      "25157701",
+      "23140460",
+      "21093588",
+      "33928583"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1476-9271(26)00517-7",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3321",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

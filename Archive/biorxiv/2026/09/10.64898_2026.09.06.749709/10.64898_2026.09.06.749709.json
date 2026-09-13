@@ -1,0 +1,85 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.06.749709",
+  "title": "Predicted and experimental protein-ligand coordinates with distance labels and evaluation splits",
+  "doi": "10.64898/2026.09.06.749709",
+  "abstract": "Structure prediction tools now provide protein–ligand geometry for pairs no laboratory experiment has resolved thus far. This data is typically provided without calibrated, practically usable per-system measures of whether a given complex is correct and how much to trust it. Agreement between independently constructed methods is an established signal for this type of problem. What has been missing is a way to derive what a given level of agreement is worth. We present PLI-Parallax, which deposits predicted geometry together with experimental data needed to calibrate it. Chai-1, two Boltz-2 configurations, and the docking engine smina were run over shared inputs across an experimentally resolved crystal tier of 19,350 complexes and a corpus tier of 31,746 cross-docked pairs without experimental ground truth on predicted receptors, yielding 307,314,646 residue-to-ligand-atom distance records, which the stored coordinates allow a consumer to recompute at a cutoff of their own choosing. Their mutual agreement is fitted against observed accuracy where experimental data permits it and carried to where it does not. This way 30,567 systems carry predicted label accuracy together with a split-conformal interval. On the crystal tier that interval covers observed accuracy at the stated rate. On the corpus tier it ranks systems by expected label quality, since both distributions differ. The deposit is accompanied by 646 evaluation configurations across seven data split families, and 631 of them report how far their training and test entities separate under a two-sample test. The 906 protein accessions were partitioned to control sequence leakage, so a protein-cold split here tests generalisation across sequence space. The two tiers support evaluation against experimental data and, where this is absent, supervision weighted by how far the configurations agree.",
+  "authors": [
+    "Klamt T"
+  ],
+  "published_date": "2026-09-09",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.06.749709",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.06.749709.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1315844",
+    "raw_record": {
+      "id": "PPR1315844",
+      "source": "PPR",
+      "doi": "10.64898/2026.09.06.749709",
+      "title": "Predicted and experimental protein-ligand coordinates with distance labels and evaluation splits",
+      "authorString": "Klamt T.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Klamt T",
+            "firstName": "Thor",
+            "lastName": "Klamt",
+            "initials": "T"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Structure prediction tools now provide protein–ligand geometry for pairs no laboratory experiment has resolved thus far. This data is typically provided without calibrated, practically usable per-system measures of whether a given complex is correct and how much to trust it. Agreement between independently constructed methods is an established signal for this type of problem. What has been missing is a way to derive what a given level of agreement is worth. We present PLI-Parallax, which deposits predicted geometry together with experimental data needed to calibrate it. Chai-1, two Boltz-2 configurations, and the docking engine smina were run over shared inputs across an experimentally resolved crystal tier of 19,350 complexes and a corpus tier of 31,746 cross-docked pairs without experimental ground truth on predicted receptors, yielding 307,314,646 residue-to-ligand-atom distance records, which the stored coordinates allow a consumer to recompute at a cutoff of their own choosing. Their mutual agreement is fitted against observed accuracy where experimental data permits it and carried to where it does not. This way 30,567 systems carry predicted label accuracy together with a split-conformal interval. On the crystal tier that interval covers observed accuracy at the stated rate. On the corpus tier it ranks systems by expected label quality, since both distributions differ. The deposit is accompanied by 646 evaluation configurations across seven data split families, and 631 of them report how far their training and test entities separate under a two-sample test. The 906 protein accessions were partitioned to control sequence leakage, so a protein-cold split here tests generalisation across sequence space. The two tiers support evaluation against experimental data and, where this is absent, supervision weighted by how far the configurations agree.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.09.06.749709"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "citedByCount": 0,
+      "hasData": "N",
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasLabsLinks": "N",
+      "license": "cc by",
+      "hasEvaluations": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-09-10",
+      "firstIndexDate": "2026-09-10",
+      "firstPublicationDate": "2026-09-09"
+    }
+  }
+}
