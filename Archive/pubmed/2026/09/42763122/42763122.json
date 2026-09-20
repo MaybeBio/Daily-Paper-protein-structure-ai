@@ -1,0 +1,124 @@
+{
+  "identity": {
+    "pmid": "42763122",
+    "doi": "10.1016/bs.apcsb.2026.08.004",
+    "title": "Computational structural insights into alternative proteins: The impact of AlphaFold and AI-based prediction."
+  },
+  "content": {
+    "abstract": "Proteins are fundamental biomolecules composed of amino acids linked by peptide bonds, forming complex macromolecules that determine cellular structure and biological function. The three-dimensional conformation of proteins plays a crucial role in defining their biochemical activity, stability, and interactions. In the emerging field of alternative proteins, such as microbial, algal, plant-based, and precision-fermented proteins, understanding structural organization is essential for improving functional properties including digestibility, nutritional value, texture, and enzymatic performance. Experimental determination of protein structures through conventional techniques remains time-consuming, technically demanding, and expensive. Recent advancements in artificial intelligence have revolutionized protein structure prediction, particularly with the development of AlphaFold by Google DeepMind. AlphaFold integrates deep learning algorithms, attention mechanisms, and evolutionary information derived from multiple sequence alignments to accurately predict spatial relationships among amino acid residues. Its performance has been validated through the Critical Assessment of Structure Prediction (CASP) competitions, demonstrating unprecedented accuracy in computational structure prediction. The application of AlphaFold provides significant opportunities for accelerating research in alternative proteins by enabling rapid structural characterization, enzyme engineering, and functional optimization of novel protein sources. This review highlights the scientific developments that led to AlphaFold, describes its architectural innovations, and discusses its potential applications in alternative protein discovery, design, and processing. Furthermore, current limitations and future perspectives in AI-assisted structural prediction for sustainable protein production are discussed.",
+    "keywords": [
+      "Alpha Fold",
+      "Bioinformatics",
+      "CASP",
+      "Deep learning",
+      "Drug discovery",
+      "Evoformer",
+      "Homology modelling",
+      "Machine learning",
+      "Protein structure prediction",
+      "Structural biology"
+    ],
+    "mesh_terms": [
+      "*Proteins/chemistry",
+      "*Computational Biology/methods",
+      "*Artificial Intelligence",
+      "Prediction Algorithms",
+      "Protein Conformation",
+      "Models, Molecular",
+      "Protein Folding"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Natarajan, Shiammala Periyasamy",
+        "Ramarajan, Bagavathi Lakshmi",
+        "Sivakumar, Rani",
+        "Mani, Jayaprakashvel"
+      ],
+      "short_names": [
+        "Natarajan SP",
+        "Ramarajan BL",
+        "Sivakumar R",
+        "Mani J"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Computer Applications, Vels Institute of Science Technology and Advanced Studies (VISTAS), Pallavaram, Chennai, Tamil Nadu, India. Electronic address: shiammala@gmail.com.",
+        "Department of Computer Applications, Vels Institute of Science Technology and Advanced Studies (VISTAS), Pallavaram, Chennai, Tamil Nadu, India.",
+        "Department of Computer Applications, Vels Institute of Science Technology and Advanced Studies (VISTAS), Pallavaram, Chennai, Tamil Nadu, India.",
+        "Department of Marine Biotechnology, Academy of Maritime Education and Training (AMET) Deemed to be University, Chennai, India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Natarajan, Shiammala Periyasamy",
+        "short_name": "Natarajan SP",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Computer Applications, Vels Institute of Science Technology and Advanced Studies (VISTAS), Pallavaram, Chennai, Tamil Nadu, India. Electronic address: shiammala@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Ramarajan, Bagavathi Lakshmi",
+        "short_name": "Ramarajan BL",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Computer Applications, Vels Institute of Science Technology and Advanced Studies (VISTAS), Pallavaram, Chennai, Tamil Nadu, India."
+        ]
+      },
+      {
+        "full_name": "Sivakumar, Rani",
+        "short_name": "Sivakumar R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Computer Applications, Vels Institute of Science Technology and Advanced Studies (VISTAS), Pallavaram, Chennai, Tamil Nadu, India."
+        ]
+      },
+      {
+        "full_name": "Mani, Jayaprakashvel",
+        "short_name": "Mani J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Marine Biotechnology, Academy of Maritime Education and Training (AMET) Deemed to be University, Chennai, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Advances in protein chemistry and structural biology"
+    ],
+    "journal_abbrev": [
+      "Adv Protein Chem Struct Biol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/19 23:52",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42763122"
+    ],
+    "review": [
+      "42763122"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

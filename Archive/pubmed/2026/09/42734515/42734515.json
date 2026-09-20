@@ -1,0 +1,236 @@
+{
+  "identity": {
+    "pmid": "42734515",
+    "doi": "10.1021/acs.jcim.6c01301",
+    "title": "Combining AI Structure Prediction and Integrative Modeling for Nanobody-Antigen Complexes."
+  },
+  "content": {
+    "abstract": "Nanobodies exhibit antigen-binding affinities of the same order as those of antibodies, which, along with their small size and unique structural characteristics, makes them well-suited for therapeutic and diagnostic applications. The lack of coevolutionary signals in nanobody-antigen complexes, together with the broad complementarity determining region 3 loop (CDR3) conformational space, poses a challenge for predicting the 3D structure of those complexes with computational modeling and artificial intelligence-based methods. In this context, physics-based information-driven docking can provide an alternative solution. This study evaluates the state-of-the-art machine-learning-based methods for nanobody structure prediction and benchmarks various HADDOCK workflows to model their interaction with antigens using different input nanobody ensembles and information scenarios. We propose an ensemble docking pipeline that achieves high success rates starting from nanobody structural models predicted by AlphaFold2 and ImmuneBuilder. Provided that some information on the epitope is available, our pipeline achieves higher success rates than the AlphaFold baseline on all generated models.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Single-Domain Antibodies/chemistry/immunology/metabolism",
+      "*Antigens/chemistry/immunology",
+      "*Molecular Docking Simulation",
+      "Protein Conformation",
+      "*Artificial Intelligence",
+      "*Antigen-Antibody Complex/chemistry",
+      "Models, Molecular",
+      "Machine Learning",
+      "Prediction Algorithms"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Sanchez-Marin, Miguel",
+        "Giulini, Marco",
+        "Bonvin, Alexandre M J J"
+      ],
+      "short_names": [
+        "Sanchez-Marin M",
+        "Giulini M",
+        "Bonvin AMJJ"
+      ],
+      "auids": [
+        "ORCID: 0009-0004-8473-266X",
+        "ORCID: 0000-0001-7369-1322"
+      ],
+      "affiliations": [
+        "Bijvoet Centre for Biomolecular Research, Faculty of Science horizontal line Chemistry, Utrecht University, Padualaan 8, 3584Utrecht, CH, The Netherlands.",
+        "Bijvoet Centre for Biomolecular Research, Faculty of Science horizontal line Chemistry, Utrecht University, Padualaan 8, 3584Utrecht, CH, The Netherlands.",
+        "Bijvoet Centre for Biomolecular Research, Faculty of Science horizontal line Chemistry, Utrecht University, Padualaan 8, 3584Utrecht, CH, The Netherlands."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Sánchez-Marín, Miguel",
+        "short_name": "Sánchez-Marín M",
+        "identifiers": [
+          "0009-0004-8473-266X"
+        ],
+        "affiliations": [
+          "Bijvoet Centre for Biomolecular Research, Faculty of Science─Chemistry, Utrecht University, Padualaan 8, 3584Utrecht, CH, The Netherlands."
+        ]
+      },
+      {
+        "full_name": "Giulini, Marco",
+        "short_name": "Giulini M",
+        "identifiers": [],
+        "affiliations": [
+          "Bijvoet Centre for Biomolecular Research, Faculty of Science─Chemistry, Utrecht University, Padualaan 8, 3584Utrecht, CH, The Netherlands."
+        ]
+      },
+      {
+        "full_name": "Bonvin, Alexandre M J J",
+        "short_name": "Bonvin AMJJ",
+        "identifiers": [
+          "0000-0001-7369-1322"
+        ],
+        "affiliations": [
+          "Bijvoet Centre for Biomolecular Research, Faculty of Science─Chemistry, Utrecht University, Padualaan 8, 3584Utrecht, CH, The Netherlands."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of chemical information and modeling"
+    ],
+    "journal_abbrev": [
+      "J Chem Inf Model"
+    ],
+    "pub_date": "2026 Sep 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/14 11:40",
+    "fetched_at": "2026-09-20 07:27:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42734515",
+      "40135432",
+      "39348157",
+      "42252708",
+      "33539768",
+      "31727476",
+      "28779687",
+      "40409557",
+      "38423996",
+      "42635303",
+      "38921957",
+      "40347542",
+      "37241731",
+      "40973412",
+      "36641210",
+      "38515052",
+      "42201327",
+      "39927847",
+      "27936519",
+      "38898362",
+      "40814020",
+      "35328351",
+      "42170950",
+      "40512857",
+      "39938509",
+      "29885326",
+      "41667775",
+      "40973396",
+      "41378904",
+      "42565482",
+      "39167052",
+      "41174317",
+      "34415295",
+      "40593425",
+      "42638051",
+      "41261173",
+      "40895570",
+      "36346597",
+      "38964652",
+      "40692622",
+      "42489170",
+      "32380514",
+      "32418062",
+      "42129085",
+      "34681192",
+      "28811664",
+      "35163405",
+      "41863324",
+      "42419186",
+      "42475469",
+      "39154093",
+      "42053822",
+      "41723205",
+      "29495922",
+      "42152751",
+      "40427736",
+      "41797001",
+      "39739354",
+      "42573393",
+      "39125995",
+      "20098500",
+      "23911607",
+      "39889601",
+      "37861057",
+      "41881231",
+      "34176159",
+      "35893479",
+      "28361709",
+      "42129084",
+      "39688476",
+      "29569425",
+      "30205092",
+      "26320803",
+      "23912807",
+      "38718835",
+      "40401693",
+      "38148272",
+      "36032123",
+      "41683791",
+      "41432374",
+      "42196328",
+      "38791470",
+      "35900023",
+      "32468522",
+      "33592195",
+      "29434346",
+      "39587231",
+      "25901362",
+      "39915791",
+      "24753488",
+      "37248282",
+      "39054738",
+      "37232507",
+      "40424178",
+      "37905971",
+      "39873888",
+      "42391906",
+      "42558420",
+      "42230751",
+      "42462224"
+    ],
+    "review": [
+      "42734515",
+      "38898362",
+      "35328351",
+      "40973396",
+      "35163405",
+      "42419186",
+      "40427736",
+      "39125995",
+      "41881231",
+      "42196328",
+      "39915791",
+      "39054738"
+    ],
+    "pmc": [
+      "13580113"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42734515/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/jcisd8/article-lookup/doi/10.1021/acs.jcim.6c01301",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,433 @@
+{
+  "identity": {
+    "pmid": "42745648",
+    "doi": "10.1039/d6cs00427j",
+    "title": "Cathode lithium-rich compensators for next-generation lithium-ion batteries."
+  },
+  "content": {
+    "abstract": "Active lithium loss during initial cycling and long-term operation is a key factor limiting the energy density and cycling life of lithium-ion batteries (LIBs). Among various prelithiation approaches developed to address this challenge, cathode lithium-rich compensators (LRCs) have garnered widespread attention due to their superior lithium compensation efficiency and excellent compatibility with conventional electrode fabrication processes. Despite rapid progress in this field, the relationships among lithium-release chemistry, charge-compensation mechanisms, electrode compatibility, and cell-level performance remain insufficiently organized. In this review, we first establish a classification framework for cathode LRCs based on their lithium compensation mechanisms, covering binary, ternary, over-lithiated, sacrificial lithium salts, and sustained-release types, and systematically summarize their working principles, typical charge compensation pathways, and practical performance. Subsequently, we discuss key challenges, including air instability, gas evolution, high delithiation voltage, and processing issues. Finally, we highlight the corresponding mitigation strategies involving nanoscale engineering, surface coating, defect and doping design, and electrolyte optimization. Through comparative investigation of lithium compensation approaches on the cathode-side and anode-side, and electrolyte-mediated lithium compensation strategies, we clarify their complementary effects. Building on these insights, we propose a synergistic multimodal lithium-compensation strategy that integrates one-shot prelithiation with sustained lithium release. Furthermore, an artificial intelligence (AI)-driven strategy for the synergistic optimization of cathode-, anode-, and electrolyte-side prelithiation is proposed. The potential of AI for materials screening, molecular structure design, and the precise matching of lithium sources was also systematically analyzed. This review aims to provide a coherent picture of cathode prelithiation chemistry and to offer practical guidance for material design, electrode engineering, and system integration toward high-energy-density, long-life LIBs.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liu, Fangzheng",
+        "Wang, Lin",
+        "Zhao, Shu",
+        "Liu, Meixin",
+        "Yu, Qi",
+        "Yang, Xiaojing",
+        "Li, Yang",
+        "Guo, Xianwei",
+        "Bai, Zhenhui",
+        "Wang, Guoqing",
+        "Zhang, Xu",
+        "Sun, Yingzhi",
+        "Hu, Yaqi",
+        "Liu, Na",
+        "Yu, Haijun"
+      ],
+      "short_names": [
+        "Liu F",
+        "Wang L",
+        "Zhao S",
+        "Liu M",
+        "Yu Q",
+        "Yang X",
+        "Li Y",
+        "Guo X",
+        "Bai Z",
+        "Wang G",
+        "Zhang X",
+        "Sun Y",
+        "Hu Y",
+        "Liu N",
+        "Yu H"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6836-931X",
+        "ORCID: 0000-0001-7320-4360",
+        "ORCID: 0000-0003-0204-9943"
+      ],
+      "affiliations": [
+        "Institute of Advanced Battery Materials and Devices, College of New Energy, Beijing University of Technology, Beijing, 100124, China. hj-yu@bjut.edu.cn.",
+        "Institute of Gongda-Guochuang Advanced Battery Materials and Devices, Beijing, 100176, China.",
+        "College of Materials Science and Engineering, State Key Laboratory of Materials Low-Carbon Recycling, Beijing University of Technology, Beijing, 100124, China.",
+        "Institute of Advanced Battery Materials and Devices, College of New Energy, Beijing University of Technology, Beijing, 100124, China. hj-yu@bjut.edu.cn.",
+        "Institute of Gongda-Guochuang Advanced Battery Materials and Devices, Beijing, 100176, China.",
+        "College of Materials Science and Engineering, State Key Laboratory of Materials Low-Carbon Recycling, Beijing University of Technology, Beijing, 100124, China.",
+        "Institute of Advanced Battery Materials and Devices, College of New Energy, Beijing University of Technology, Beijing, 100124, China. hj-yu@bjut.edu.cn.",
+        "Institute of Gongda-Guochuang Advanced Battery Materials and Devices, Beijing, 100176, China.",
+        "College of Materials Science and Engineering, State Key Laboratory of Materials Low-Carbon Recycling, Beijing University of Technology, Beijing, 100124, China.",
+        "Institute of Advanced Battery Materials and Devices, College of New Energy, Beijing University of Technology, Beijing, 100124, China. hj-yu@bjut.edu.cn.",
+        "Institute of Gongda-Guochuang Advanced Battery Materials and Devices, Beijing, 100176, China.",
+        "College of Materials Science and Engineering, State Key Laboratory of Materials Low-Carbon Recycling, Beijing University of Technology, Beijing, 100124, China.",
+        "Institute of Advanced Battery Materials and Devices, College of New Energy, Beijing University of Technology, Beijing, 100124, China. hj-yu@bjut.edu.cn.",
+        "Institute of Gongda-Guochuang Advanced Battery Materials and Devices, Beijing, 100176, China.",
+        "College of Materials Science and Engineering, State Key Laboratory of Materials Low-Carbon Recycling, Beijing University of Technology, Beijing, 100124, China.",
+        "Institute of Advanced Battery Materials and Devices, College of New Energy, Beijing University of Technology, Beijing, 100124, China. hj-yu@bjut.edu.cn.",
+        "Institute of Gongda-Guochuang Advanced Battery Materials and Devices, Beijing, 100176, China.",
+        "College of Materials Science and Engineering, State Key Laboratory of Materials Low-Carbon Recycling, Beijing University of Technology, Beijing, 100124, China.",
+        "Institute of Advanced Battery Materials and Devices, College of New Energy, Beijing University of Technology, Beijing, 100124, China. hj-yu@bjut.edu.cn.",
+        "Institute of Gongda-Guochuang Advanced Battery Materials and Devices, Beijing, 100176, China.",
+        "College of Materials Science and Engineering, State Key Laboratory of Materials Low-Carbon Recycling, Beijing University of Technology, Beijing, 100124, China.",
+        "Institute of Advanced Battery Materials and Devices, College of New Energy, Beijing University of Technology, Beijing, 100124, China. hj-yu@bjut.edu.cn.",
+        "Institute of Gongda-Guochuang Advanced Battery Materials and Devices, Beijing, 100176, China.",
+        "College of Materials Science and Engineering, State Key Laboratory of Materials Low-Carbon Recycling, Beijing University of Technology, Beijing, 100124, China.",
+        "Beijing Create Energy & Benefit Future Co., Ltd, Beijing, 100176, P. R. China.",
+        "Beijing Create Energy & Benefit Future Co., Ltd, Beijing, 100176, P. R. China.",
+        "Institute of Advanced Battery Materials and Devices, College of New Energy, Beijing University of Technology, Beijing, 100124, China. hj-yu@bjut.edu.cn.",
+        "Institute of Gongda-Guochuang Advanced Battery Materials and Devices, Beijing, 100176, China.",
+        "College of Materials Science and Engineering, State Key Laboratory of Materials Low-Carbon Recycling, Beijing University of Technology, Beijing, 100124, China.",
+        "Beijing Create Energy & Benefit Future Co., Ltd, Beijing, 100176, P. R. China.",
+        "Institute of Advanced Battery Materials and Devices, College of New Energy, Beijing University of Technology, Beijing, 100124, China. hj-yu@bjut.edu.cn.",
+        "Institute of Gongda-Guochuang Advanced Battery Materials and Devices, Beijing, 100176, China.",
+        "College of Materials Science and Engineering, State Key Laboratory of Materials Low-Carbon Recycling, Beijing University of Technology, Beijing, 100124, China.",
+        "Contemporary Amperex Technology Co., Ltd, Ningde, China. LiuN@CATL.com.",
+        "Contemporary Amperex Technology Co., Ltd, Ningde, China. LiuN@CATL.com.",
+        "Contemporary Amperex Technology Co., Ltd, Ningde, China. LiuN@CATL.com.",
+        "Institute of Advanced Battery Materials and Devices, College of New Energy, Beijing University of Technology, Beijing, 100124, China. hj-yu@bjut.edu.cn.",
+        "Institute of Gongda-Guochuang Advanced Battery Materials and Devices, Beijing, 100176, China.",
+        "College of Materials Science and Engineering, State Key Laboratory of Materials Low-Carbon Recycling, Beijing University of Technology, Beijing, 100124, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Liu, Fangzheng",
+        "short_name": "Liu F",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Advanced Battery Materials and Devices, College of New Energy, Beijing University of Technology, Beijing, 100124, China. hj-yu@bjut.edu.cn.",
+          "Institute of Gongda-Guochuang Advanced Battery Materials and Devices, Beijing, 100176, China.",
+          "College of Materials Science and Engineering, State Key Laboratory of Materials Low-Carbon Recycling, Beijing University of Technology, Beijing, 100124, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Lin",
+        "short_name": "Wang L",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Advanced Battery Materials and Devices, College of New Energy, Beijing University of Technology, Beijing, 100124, China. hj-yu@bjut.edu.cn.",
+          "Institute of Gongda-Guochuang Advanced Battery Materials and Devices, Beijing, 100176, China.",
+          "College of Materials Science and Engineering, State Key Laboratory of Materials Low-Carbon Recycling, Beijing University of Technology, Beijing, 100124, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Shu",
+        "short_name": "Zhao S",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Advanced Battery Materials and Devices, College of New Energy, Beijing University of Technology, Beijing, 100124, China. hj-yu@bjut.edu.cn.",
+          "Institute of Gongda-Guochuang Advanced Battery Materials and Devices, Beijing, 100176, China.",
+          "College of Materials Science and Engineering, State Key Laboratory of Materials Low-Carbon Recycling, Beijing University of Technology, Beijing, 100124, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Meixin",
+        "short_name": "Liu M",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Advanced Battery Materials and Devices, College of New Energy, Beijing University of Technology, Beijing, 100124, China. hj-yu@bjut.edu.cn.",
+          "Institute of Gongda-Guochuang Advanced Battery Materials and Devices, Beijing, 100176, China.",
+          "College of Materials Science and Engineering, State Key Laboratory of Materials Low-Carbon Recycling, Beijing University of Technology, Beijing, 100124, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Qi",
+        "short_name": "Yu Q",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Advanced Battery Materials and Devices, College of New Energy, Beijing University of Technology, Beijing, 100124, China. hj-yu@bjut.edu.cn.",
+          "Institute of Gongda-Guochuang Advanced Battery Materials and Devices, Beijing, 100176, China.",
+          "College of Materials Science and Engineering, State Key Laboratory of Materials Low-Carbon Recycling, Beijing University of Technology, Beijing, 100124, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Xiaojing",
+        "short_name": "Yang X",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Advanced Battery Materials and Devices, College of New Energy, Beijing University of Technology, Beijing, 100124, China. hj-yu@bjut.edu.cn.",
+          "Institute of Gongda-Guochuang Advanced Battery Materials and Devices, Beijing, 100176, China.",
+          "College of Materials Science and Engineering, State Key Laboratory of Materials Low-Carbon Recycling, Beijing University of Technology, Beijing, 100124, China."
+        ]
+      },
+      {
+        "full_name": "Li, Yang",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Advanced Battery Materials and Devices, College of New Energy, Beijing University of Technology, Beijing, 100124, China. hj-yu@bjut.edu.cn.",
+          "Institute of Gongda-Guochuang Advanced Battery Materials and Devices, Beijing, 100176, China.",
+          "College of Materials Science and Engineering, State Key Laboratory of Materials Low-Carbon Recycling, Beijing University of Technology, Beijing, 100124, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Xianwei",
+        "short_name": "Guo X",
+        "identifiers": [
+          "0000-0002-6836-931X"
+        ],
+        "affiliations": [
+          "Institute of Advanced Battery Materials and Devices, College of New Energy, Beijing University of Technology, Beijing, 100124, China. hj-yu@bjut.edu.cn.",
+          "Institute of Gongda-Guochuang Advanced Battery Materials and Devices, Beijing, 100176, China.",
+          "College of Materials Science and Engineering, State Key Laboratory of Materials Low-Carbon Recycling, Beijing University of Technology, Beijing, 100124, China.",
+          "Beijing Create Energy & Benefit Future Co., Ltd, Beijing, 100176, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Bai, Zhenhui",
+        "short_name": "Bai Z",
+        "identifiers": [],
+        "affiliations": [
+          "Beijing Create Energy & Benefit Future Co., Ltd, Beijing, 100176, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Wang, Guoqing",
+        "short_name": "Wang G",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Advanced Battery Materials and Devices, College of New Energy, Beijing University of Technology, Beijing, 100124, China. hj-yu@bjut.edu.cn.",
+          "Institute of Gongda-Guochuang Advanced Battery Materials and Devices, Beijing, 100176, China.",
+          "College of Materials Science and Engineering, State Key Laboratory of Materials Low-Carbon Recycling, Beijing University of Technology, Beijing, 100124, China.",
+          "Beijing Create Energy & Benefit Future Co., Ltd, Beijing, 100176, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xu",
+        "short_name": "Zhang X",
+        "identifiers": [
+          "0000-0001-7320-4360"
+        ],
+        "affiliations": [
+          "Institute of Advanced Battery Materials and Devices, College of New Energy, Beijing University of Technology, Beijing, 100124, China. hj-yu@bjut.edu.cn.",
+          "Institute of Gongda-Guochuang Advanced Battery Materials and Devices, Beijing, 100176, China.",
+          "College of Materials Science and Engineering, State Key Laboratory of Materials Low-Carbon Recycling, Beijing University of Technology, Beijing, 100124, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Yingzhi",
+        "short_name": "Sun Y",
+        "identifiers": [],
+        "affiliations": [
+          "Contemporary Amperex Technology Co., Ltd, Ningde, China. LiuN@CATL.com."
+        ]
+      },
+      {
+        "full_name": "Hu, Yaqi",
+        "short_name": "Hu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Contemporary Amperex Technology Co., Ltd, Ningde, China. LiuN@CATL.com."
+        ]
+      },
+      {
+        "full_name": "Liu, Na",
+        "short_name": "Liu N",
+        "identifiers": [],
+        "affiliations": [
+          "Contemporary Amperex Technology Co., Ltd, Ningde, China. LiuN@CATL.com."
+        ]
+      },
+      {
+        "full_name": "Yu, Haijun",
+        "short_name": "Yu H",
+        "identifiers": [
+          "0000-0003-0204-9943"
+        ],
+        "affiliations": [
+          "Institute of Advanced Battery Materials and Devices, College of New Energy, Beijing University of Technology, Beijing, 100124, China. hj-yu@bjut.edu.cn.",
+          "Institute of Gongda-Guochuang Advanced Battery Materials and Devices, Beijing, 100176, China.",
+          "College of Materials Science and Engineering, State Key Laboratory of Materials Low-Carbon Recycling, Beijing University of Technology, Beijing, 100124, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Chemical Society reviews"
+    ],
+    "journal_abbrev": [
+      "Chem Soc Rev"
+    ],
+    "pub_date": "2026 Sep 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/16 05:36",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42745648",
+      "40801254",
+      "41058718",
+      "42586814",
+      "42475469",
+      "31775001",
+      "40884880",
+      "35680608",
+      "42136257",
+      "42529270",
+      "42494187",
+      "40212257",
+      "37036946",
+      "39686794",
+      "42211403",
+      "26784146",
+      "42250268",
+      "39099288",
+      "40761029",
+      "35137468",
+      "35993675",
+      "29889493",
+      "37728762",
+      "38845082",
+      "42211381",
+      "38998928",
+      "41582293",
+      "34165896",
+      "37376977",
+      "40863805",
+      "27696883",
+      "37696006",
+      "41531004",
+      "38623342",
+      "27711529",
+      "41491432",
+      "27805812",
+      "30188678",
+      "39046572",
+      "40181621",
+      "38845536",
+      "33570903",
+      "41037339",
+      "40229210",
+      "34342445",
+      "42010153",
+      "28682057",
+      "31386341",
+      "42688073",
+      "39137405",
+      "38399052",
+      "32096508",
+      "38935513",
+      "28251710",
+      "41435639",
+      "42268962",
+      "42696481",
+      "39816177",
+      "33449629",
+      "42554229",
+      "32067325",
+      "39072900",
+      "33683090",
+      "40767506",
+      "38878373",
+      "33368710",
+      "40130601",
+      "36574779",
+      "28443608",
+      "40151015",
+      "35768284",
+      "38573960",
+      "38776362",
+      "37191324",
+      "40358307",
+      "42689461",
+      "23294028",
+      "26108922",
+      "38240205",
+      "39170484",
+      "40367869",
+      "40403166",
+      "38422353",
+      "40063177",
+      "41708105",
+      "35733083",
+      "41001735",
+      "39400467",
+      "35332962",
+      "41294109",
+      "25844807",
+      "40999761",
+      "42283616",
+      "36715574",
+      "42132900",
+      "36808280",
+      "41705619",
+      "41021011",
+      "42589453",
+      "27160017"
+    ],
+    "review": [
+      "42745648",
+      "40801254",
+      "42586814",
+      "35680608",
+      "42136257",
+      "42529270",
+      "42494187",
+      "39686794",
+      "42211403",
+      "35137468",
+      "38845082",
+      "42211381",
+      "34165896",
+      "37376977",
+      "41531004",
+      "38623342",
+      "41491432",
+      "39046572",
+      "38845536",
+      "42010153",
+      "38399052",
+      "38935513",
+      "28251710",
+      "39816177",
+      "42554229",
+      "32067325",
+      "40767506",
+      "33368710",
+      "40151015",
+      "42689461",
+      "39170484",
+      "40063177",
+      "41708105",
+      "35733083",
+      "41001735",
+      "35332962",
+      "41294109",
+      "40999761",
+      "36715574",
+      "42132900",
+      "41705619",
+      "41021011",
+      "42589453"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1039/d6cs00427j",
+        "provider": "Royal Society of Chemistry",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "identity": {
+    "pmid": "42739512",
+    "doi": "10.3390/jcm15176501",
+    "title": "Saliency-Curated Deep Learning for Predicting Receptor Status in Breast Cancer Brain Metastases."
+  },
+  "content": {
+    "abstract": "Background: Breast cancer brain metastases (BCBMs) exhibit notable receptor discordance between primary tumors and metastases, yet obtaining intracranial biopsies is rarely practical. We created an interpretable deep learning radiogenomic model to predict estrogen receptor (ER), progesterone receptor (PR), and human epidermal growth factor receptor 2 (HER2) status from MRI scans in BCBM cases. Methods: A total of 241 post-contrast T1-weighted MRIs from 142 patients were analyzed. We developed a mask-free 3D Residual Neural Network (ResNet) ensemble trained directly on cropped, bias-corrected brain images, with comprehensive 3D geometric and intensity augmentations. The model was optimized in a multi-label setting using Asymmetric Focal Loss. Hyperparameters were fine-tuned via Bayesian optimization, and class probabilities were calibrated. Additionally, Integrated Gradients (IG) offered voxel-level saliency maps. Results: Our ResNet ensemble model achieved a micro-averaged AUROC of 0.74 and a macro-averaged AUROC of 0.67. Receptor-specific AUROCs were 0.57 for ER, 0.79 for PR, and 0.64 for HER2. The F1-scores were 0.56, 0.62, and 0.88 for ER, PR, and HER2, respectively. The held-out cohort contained only four HER2-negative patients, so threshold-dependent HER2 metrics are strongly prevalence-driven and AUROC is the more appropriate summary. Qualitatively inspected saliency maps were concentrated on enhancing metastases with limited background attribution. Conclusions: This proof-of-concept study shows that a segmentation-free, interpretable 3D Convolutional Neural Network (CNN) can be trained to capture receptor-associated patterns in post-contrast T1-weighted MRI of BCBMs. Accuracy was modest relative to published radiomics models, and the mask-free, single-sequence design is offered as a methodological contribution rather than a performance gain. These findings are preliminary, do not establish clinical utility, and require validation in larger, multi-center cohorts.",
+    "keywords": [
+      "HER2",
+      "MRI",
+      "breast cancer brain metastases",
+      "convolutional neural networks",
+      "deep learning",
+      "estrogen receptor",
+      "explainable AI",
+      "progesterone receptor"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Christodoulou, Rafail C",
+        "Christofi, Giorgos",
+        "Theofylaktou, Constantinos",
+        "Pitsillos, Rafael",
+        "Aristokleous, Iliana",
+        "Solomou, Elena E",
+        "Vassiliou, Evros",
+        "Georgiou, Michalis F"
+      ],
+      "short_names": [
+        "Christodoulou RC",
+        "Christofi G",
+        "Theofylaktou C",
+        "Pitsillos R",
+        "Aristokleous I",
+        "Solomou EE",
+        "Vassiliou E",
+        "Georgiou MF"
+      ],
+      "auids": [
+        "ORCID: 0009-0001-6857-3927",
+        "ORCID: 0009-0004-5100-5802",
+        "ORCID: 0000-0002-7779-8589"
+      ],
+      "affiliations": [
+        "Department of Radiology, Stanford University School of Medicine, Stanford, CA 94305, USA.",
+        "Faculty of Electrical Engineering, Mathematics and Computer Science, Delft University of Technology, 2628 CD Delft, The Netherlands.",
+        "Department of Electrical Engineering, National Technical University of Athens, 15772 Zografou, Greece.",
+        "Bioinformatics Department, Cyprus Institute of Neurology and Genetics, Nicosia 2371, Cyprus.",
+        "Department of Surgery and Urology, Uppsala University Hospital, 75237 Uppsala, Sweden.",
+        "Endocrine and Breast Surgery, Department of Surgical Sciences, Uppsala University, 75105 Uppsala, Sweden.",
+        "Department of Internal Medicine-Hematology, University of Patras Medical School, 26500 Rion, Greece.",
+        "Department of Biological Sciences, Kean University, Union, NJ 07083, USA.",
+        "Department of Radiology, Division of Nuclear Medicine, University of Miami, Miami, FL 33136, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Christodoulou, Rafail C",
+        "short_name": "Christodoulou RC",
+        "identifiers": [
+          "0009-0001-6857-3927"
+        ],
+        "affiliations": [
+          "Department of Radiology, Stanford University School of Medicine, Stanford, CA 94305, USA."
+        ]
+      },
+      {
+        "full_name": "Christofi, Giorgos",
+        "short_name": "Christofi G",
+        "identifiers": [
+          "0009-0004-5100-5802"
+        ],
+        "affiliations": [
+          "Faculty of Electrical Engineering, Mathematics and Computer Science, Delft University of Technology, 2628 CD Delft, The Netherlands."
+        ]
+      },
+      {
+        "full_name": "Theofylaktou, Constantinos",
+        "short_name": "Theofylaktou C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Electrical Engineering, National Technical University of Athens, 15772 Zografou, Greece."
+        ]
+      },
+      {
+        "full_name": "Pitsillos, Rafael",
+        "short_name": "Pitsillos R",
+        "identifiers": [],
+        "affiliations": [
+          "Bioinformatics Department, Cyprus Institute of Neurology and Genetics, Nicosia 2371, Cyprus."
+        ]
+      },
+      {
+        "full_name": "Aristokleous, Iliana",
+        "short_name": "Aristokleous I",
+        "identifiers": [
+          "0000-0002-7779-8589"
+        ],
+        "affiliations": [
+          "Department of Surgery and Urology, Uppsala University Hospital, 75237 Uppsala, Sweden.",
+          "Endocrine and Breast Surgery, Department of Surgical Sciences, Uppsala University, 75105 Uppsala, Sweden."
+        ]
+      },
+      {
+        "full_name": "Solomou, Elena E",
+        "short_name": "Solomou EE",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Internal Medicine-Hematology, University of Patras Medical School, 26500 Rion, Greece."
+        ]
+      },
+      {
+        "full_name": "Vassiliou, Evros",
+        "short_name": "Vassiliou E",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biological Sciences, Kean University, Union, NJ 07083, USA."
+        ]
+      },
+      {
+        "full_name": "Georgiou, Michalis F",
+        "short_name": "Georgiou MF",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Radiology, Division of Nuclear Medicine, University of Miami, Miami, FL 33136, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of clinical medicine"
+    ],
+    "journal_abbrev": [
+      "J Clin Med"
+    ],
+    "pub_date": "2026 Aug 22",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/15 05:36",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42739512",
+      "35734585",
+      "42376235",
+      "41329305",
+      "42475469",
+      "24777335",
+      "39924532",
+      "41937807",
+      "32034917",
+      "42072780",
+      "33898990",
+      "42588692",
+      "40183298",
+      "42329472",
+      "38641451",
+      "39643475",
+      "42734038",
+      "39815134",
+      "38395930",
+      "29260362",
+      "39320560",
+      "20863372",
+      "38922986",
+      "40487501",
+      "25802405",
+      "36074262",
+      "41905185",
+      "41843889",
+      "28975433",
+      "37853371",
+      "27236733",
+      "42591662",
+      "37597033",
+      "34490107",
+      "37296843",
+      "25422206",
+      "37634634",
+      "42381785",
+      "40645910",
+      "32449176",
+      "42686493",
+      "38720675",
+      "30128822",
+      "41405264",
+      "37179945",
+      "29119620",
+      "30613307",
+      "36224558",
+      "40640789",
+      "42258503",
+      "39681144",
+      "41084046",
+      "38166331",
+      "38766488",
+      "42306236",
+      "30756285",
+      "36694221",
+      "42072269",
+      "42221270",
+      "42739244",
+      "31283631",
+      "40727014",
+      "37615504",
+      "32620918",
+      "36353124",
+      "34673584",
+      "34244052",
+      "42164685",
+      "40771390",
+      "42718428",
+      "19764994",
+      "42478563",
+      "31883437",
+      "42088214",
+      "39831736",
+      "41007196",
+      "27456970",
+      "27666130",
+      "30129697",
+      "36651355",
+      "23723333",
+      "40075375",
+      "41081182",
+      "37296938",
+      "24114857",
+      "42168900",
+      "34644733",
+      "36418622",
+      "42443352",
+      "41925407",
+      "41455497",
+      "41474563",
+      "40779894",
+      "28870906",
+      "37745691",
+      "40722008",
+      "42351452",
+      "34629814",
+      "38780889",
+      "25981620"
+    ],
+    "review": [
+      "42739512",
+      "33898990"
+    ],
+    "pmc": [
+      "13566852"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=jcm15176501",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42739512/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-EGFR-11",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-192",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

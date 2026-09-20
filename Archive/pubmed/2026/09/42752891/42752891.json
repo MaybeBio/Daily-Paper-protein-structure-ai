@@ -1,0 +1,225 @@
+{
+  "identity": {
+    "pmid": "42752891",
+    "doi": "10.1002/pro.70790",
+    "title": "ESpma: A method for assessing biological/non-biological interfaces using point-clouds-based structural features and protein language models."
+  },
+  "content": {
+    "abstract": "Distinguishing biological protein-protein interfaces from non-biological contacts remains an important task in structural biology, particularly as protein complex structures continue to accumulate. Recent advances in protein language models (pLMs) have expanded their use across diverse protein prediction tasks, including sequence-based protein-protein interaction prediction. Such approaches often pool representations over entire sequences, whereas structure-based methods commonly rely on more complex graph- or geometry-based integration. We therefore asked how much interface-relevant information could be extracted by simply pooling pLM embeddings over structurally defined local regions. Here, we revisited biological-versus-crystal interface classification as a structurally well-defined testbed for this question. We developed a framework that compares full-sequence pooling, interface-localized pooling of pLM embeddings, and multimodal integration of sequence-derived embeddings with point-cloud representations of protein surfaces. On two benchmark datasets, interface-localized pooling achieved stronger performance than full-sequence or non-interacting surface pooling across three pLM backbones. Despite its simplicity, the resulting representation performed within the range of established methods that rely on explicit evolutionary analysis or geometric modeling. Incorporating explicit geometric surface information changed performance slightly, without reaching statistical significance. Because the model is linear, the interface-level score decomposes exactly into per-residue contributions, which varied within amino-acid types. Together, our results indicate that the principal gain arises from localizing pLM embeddings to physically interacting residues, enabling a lightweight and accessible implementation for biological-versus-crystal interface classification. Code and scripts are available on GitHub: https://github.com/fukasawa-group/espma.",
+    "keywords": [
+      "deep learning",
+      "interfaces",
+      "point cloud",
+      "protein complexes",
+      "protein language model"
+    ],
+    "mesh_terms": [
+      "*Proteins/chemistry",
+      "Models, Molecular",
+      "*Software",
+      "Protein Conformation",
+      "Large Language Models",
+      "*Computational Biology/methods",
+      "*Protein Interaction Mapping/methods",
+      "Databases, Protein"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Nozawa, Sarah",
+        "Tomii, Kentaro",
+        "Fukasawa, Yoshinori"
+      ],
+      "short_names": [
+        "Nozawa S",
+        "Tomii K",
+        "Fukasawa Y"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-4567-4768",
+        "ORCID: 0000-0002-0882-4392"
+      ],
+      "affiliations": [
+        "Center for Bioscience Research and Education, Utsunomiya University, Utsunomiya, Japan.",
+        "Artificial Intelligence Research Center, National Institute of Advanced Industrial Science and Technology (AIST), Tokyo, Japan.",
+        "Center for Bioscience Research and Education, Utsunomiya University, Utsunomiya, Japan."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Nozawa, Sarah",
+        "short_name": "Nozawa S",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Bioscience Research and Education, Utsunomiya University, Utsunomiya, Japan."
+        ]
+      },
+      {
+        "full_name": "Tomii, Kentaro",
+        "short_name": "Tomii K",
+        "identifiers": [
+          "0000-0002-4567-4768"
+        ],
+        "affiliations": [
+          "Artificial Intelligence Research Center, National Institute of Advanced Industrial Science and Technology (AIST), Tokyo, Japan."
+        ]
+      },
+      {
+        "full_name": "Fukasawa, Yoshinori",
+        "short_name": "Fukasawa Y",
+        "identifiers": [
+          "0000-0002-0882-4392"
+        ],
+        "affiliations": [
+          "Center for Bioscience Research and Education, Utsunomiya University, Utsunomiya, Japan."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Protein science : a publication of the Protein Society"
+    ],
+    "journal_abbrev": [
+      "Protein Sci"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/17 18:32",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42752891",
+      "40601249",
+      "38662579",
+      "40455005",
+      "40742755",
+      "41352986",
+      "42475469",
+      "41206932",
+      "40662798",
+      "41159381",
+      "42691127",
+      "42335477",
+      "41662462",
+      "42316773",
+      "41269097",
+      "40483648",
+      "39665266",
+      "42119874",
+      "40170888",
+      "40971691",
+      "25326082",
+      "40601266",
+      "41947423",
+      "41284811",
+      "39988825",
+      "23912807",
+      "42179166",
+      "40728618",
+      "41104652",
+      "36321557",
+      "39237735",
+      "42450121",
+      "41495146",
+      "42286792",
+      "40592174",
+      "30497368",
+      "41292907",
+      "23259833",
+      "39850657",
+      "39625988",
+      "42412847",
+      "41944583",
+      "20377884",
+      "18474114",
+      "42289971",
+      "41902842",
+      "31847804",
+      "40116777",
+      "42148683",
+      "27383535",
+      "19165315",
+      "41276805",
+      "28166227",
+      "25522196",
+      "39657158",
+      "40689530",
+      "41257586",
+      "40888747",
+      "42439477",
+      "42088442",
+      "26508758",
+      "40166178",
+      "22574904",
+      "19835626",
+      "20715056",
+      "40601251",
+      "20589644",
+      "40439671",
+      "39693053",
+      "38824535",
+      "42378434",
+      "37870486",
+      "42154341",
+      "38892057",
+      "42336024",
+      "39487084",
+      "41021316",
+      "40235638",
+      "40601262",
+      "37609352",
+      "20839234",
+      "23946125",
+      "40601261",
+      "23532342",
+      "39910126",
+      "42635209",
+      "42157243",
+      "40174317",
+      "40705403",
+      "40327458",
+      "42135943",
+      "40301762",
+      "27965389",
+      "16336694",
+      "42635198",
+      "41902287",
+      "40814232",
+      "42228714",
+      "40217132",
+      "40037640"
+    ],
+    "review": [
+      "42752891",
+      "40601266",
+      "36321557"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1002/pro.70790",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

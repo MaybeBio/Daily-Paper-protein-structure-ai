@@ -1,0 +1,214 @@
+{
+  "identity": {
+    "pmid": "42749421",
+    "doi": "10.1016/j.jgeb.2026.100751",
+    "title": "Evaluating the effect of SNPs located on some biofilm genes on their protein function and structure in Pseudomonas aeruginosa and Klebsiella pneumonia isolates."
+  },
+  "content": {
+    "abstract": "To evaluate the impact of biofilm-associated SNPs (previously identified) on protein structure and function, we employed a suite of bioinformatics tools. SIFT, Mupro, INPS-3D, and NCBI Conserved Domain Search were utilized to analyze changes in function, stability, secondary structure, phi/psi angles, and Relative Solvent Accessibility (RSA). Furthermore, SwissDock and molecular dynamics simulations were conducted to compare free energy, RMSF, polarity, flexibility, and molecular contacts between wild-type and mutant proteins. In silico analysis indicated that mutations in quorum-sensing (lasI, rhlI) and biofilm-associated genes significantly impact bacterial biofilm formation. Specifically, SIFT and Mupro predicted that lasI/rhlI mutations D39N (0.01/0.2) and D44N (0.5) impair signaling molecule synthesis. Furthermore, the S32N substitution in ndvB was predicted by INPS-3D to alter secondary structure (beta-sheet to coil) and torsion angles (varphi: -99 to 118; psi: -94 to 5), likely disrupting protein function. Additionally, the R292A mutation in tssc1 was predicted to impact protein stability (SIFT: 0.01; Mupro: -0.9) and increase burial (RSA 37% to 23%, helix to coil). A frame-shift mutation in tssc1 was also identified, suggesting further modulation of biofilm production. Regarding with docking results, D44N in the rhII gene showed a slight change DeltaDeltaG values from -7 to -7.2 and a change in polarity from 16 to 14, however, molecular dynamic simulation showed significant increase in RSMF value from 1.5 to 3.5 and increase the flexibility in mutant compared with wild type which reflects the importance of this SNP in changing the function of the protein mediating biofilm formation.",
+    "keywords": [
+      "Biofilm formation",
+      "Biofilm mediating genes",
+      "Molecular dynamics and antimicrobial resistance"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Fayyadh, Khamaael Mohammed",
+        "Al-Maeni, Mohammad Abdulrahman",
+        "Al-Khazraji, Shaymaa Fouad Rasheed",
+        "Mohammed, Omar Abdulrahman"
+      ],
+      "short_names": [
+        "Fayyadh KM",
+        "Al-Maeni MA",
+        "Al-Khazraji SFR",
+        "Mohammed OA"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Tikrit University, IRAQ. Electronic address: khamaael@yahoo.com.",
+        "University of Baghdad, IRAQ.",
+        "University of Baghdad, IRAQ.",
+        "Iraq Ministry of Education RK1 25, IRAQ."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Fayyadh, Khamaael Mohammed",
+        "short_name": "Fayyadh KM",
+        "identifiers": [],
+        "affiliations": [
+          "Tikrit University, IRAQ. Electronic address: khamaael@yahoo.com."
+        ]
+      },
+      {
+        "full_name": "Al-Maeni, Mohammad Abdulrahman",
+        "short_name": "Al-Maeni MA",
+        "identifiers": [],
+        "affiliations": [
+          "University of Baghdad, IRAQ."
+        ]
+      },
+      {
+        "full_name": "Al-Khazraji, Shaymaa Fouad Rasheed",
+        "short_name": "Al-Khazraji SFR",
+        "identifiers": [],
+        "affiliations": [
+          "University of Baghdad, IRAQ."
+        ]
+      },
+      {
+        "full_name": "Mohammed, Omar Abdulrahman",
+        "short_name": "Mohammed OA",
+        "identifiers": [],
+        "affiliations": [
+          "Iraq Ministry of Education RK1 25, IRAQ."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal, genetic engineering & biotechnology"
+    ],
+    "journal_abbrev": [
+      "J Genet Eng Biotechnol"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/16 23:34",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42749421",
+      "38528442",
+      "40489515",
+      "41436949",
+      "36813059",
+      "29601791",
+      "32534180",
+      "42657169",
+      "38858637",
+      "42086791",
+      "30913464",
+      "24977007",
+      "42444804",
+      "40370698",
+      "41006351",
+      "32683348",
+      "40375073",
+      "40892789",
+      "38994097",
+      "40389180",
+      "28721848",
+      "33107284",
+      "37296335",
+      "37642215",
+      "37097921",
+      "28798903",
+      "23607785",
+      "29524516",
+      "35071940",
+      "39162513",
+      "26245683",
+      "40975186",
+      "42166461",
+      "33713665",
+      "41065783",
+      "14641579",
+      "19543378",
+      "40149454",
+      "42427189",
+      "41039863",
+      "42556624",
+      "41751921",
+      "27111260",
+      "40129965",
+      "41575723",
+      "39165918",
+      "34707003",
+      "34996996",
+      "26593271",
+      "23980177",
+      "42196261",
+      "32619289",
+      "37566991",
+      "38656135",
+      "41032695",
+      "39624194",
+      "33869078",
+      "41561027",
+      "42234182",
+      "31398531",
+      "41045435",
+      "39590603",
+      "38672752",
+      "17496081",
+      "40279159",
+      "28453568",
+      "36787160",
+      "32851551",
+      "39021990",
+      "38414257",
+      "41381739",
+      "29998876",
+      "31961499",
+      "40199129",
+      "39854591",
+      "35097137",
+      "38156300",
+      "41874169",
+      "24578721",
+      "33139237",
+      "38344317",
+      "39153575",
+      "40571049",
+      "41563930",
+      "42461034",
+      "41717737",
+      "41751514",
+      "30703686",
+      "40205343",
+      "23561625",
+      "28818490",
+      "23637868",
+      "42691045",
+      "31804987",
+      "36656007",
+      "37407806",
+      "35384183",
+      "37728140",
+      "39140783",
+      "41155687"
+    ],
+    "review": [
+      "42749421"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1687-157X(26)00095-8",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

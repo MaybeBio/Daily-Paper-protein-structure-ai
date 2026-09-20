@@ -1,0 +1,270 @@
+{
+  "identity": {
+    "pmid": "42747587",
+    "doi": "10.1007/s00894-026-06893-3",
+    "title": "Structure-guided identification of histone deacetylase 11 inhibitors for targeted chemotherapy through long-timescale molecular dynamics simulation."
+  },
+  "content": {
+    "abstract": "CONTEXT: Histone deacetylase 11 (HDAC11), the sole member of class IV histone deacetylases, is an emerging epigenetic target in cancer therapy. In this study, an integrated computational approach involving ADMET screening, molecular docking, and molecular dynamics simulations was employed to identify potential HDAC11 inhibitors from 35 known HDAC inhibitors. Based on combined docking and pharmacokinetic analyses, five compounds were shortlisted for detailed evaluation. Mocetinostat exhibited the highest binding affinity toward HDAC11 (-8.70 kcal/mol) with acceptable pharmacokinetic properties (LogP: 2.25; TPSA: 99.11 A(2)), while Belinostat showed the safest toxicity profile (LD50: 6000 mg/kg; Class 6). Resminostat also demonstrated favorable drug-likeness with moderate toxicity (LD50: 957 mg/kg; Class 4). Comparative MD analyses over 500 ns revealed high structural stability for the Nanatinostat-HDAC11 and Resminostat-HDAC11 complexes by lower RMSD, reduced residue fluctuations, and more stable hydrogen bond interactions. These findings highlight promising HDAC11 inhibitors for further experimental validation in anticancer drug development. METHODS: The HDAC11 protein structure was prepared and optimized along with ligand structures prior to docking. Pharmacokinetic properties and drug-likeness of all 35 selected HDAC inhibitors were predicted using the SwissADME web server, and toxicity profiles were assessed using the Protox-II server. Molecular docking was performed using PyRx with the AutoDock Vina scoring function. Protein-ligand interactions were analyzed using PyMOL and Discovery Studio visualizers. Molecular dynamics simulations were conducted using GROMACS with the CHARMM27 force field and TIP3P water model. A total of 3.5 micros of molecular dynamics simulations were performed, including a 500 ns production run and triplicate 100 ns validation runs for each complex. MD trajectory analyses, including RMSD, RMSF, radius of gyration, solvent-accessible surface area, hydrogen bond analysis, and kernel density estimation, were used to evaluate structural stability and interaction dynamics.",
+    "keywords": [
+      "Cancer chemotherapy",
+      "HDAC11",
+      "Molecular docking",
+      "Molecular dynamics simulation",
+      "Pharmacokinetics"
+    ],
+    "mesh_terms": [
+      "*Molecular Dynamics Simulation",
+      "*Histone Deacetylase Inhibitors/chemistry/pharmacology",
+      "*Histone Deacetylases/chemistry/metabolism",
+      "Molecular Docking Simulation",
+      "Humans",
+      "Hydrogen Bonding",
+      "*Antineoplastic Agents/chemistry/pharmacology",
+      "Ligands",
+      "Hydroxamic Acids/chemistry",
+      "Protein Binding"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Maiti, Koustav",
+        "Chakraborty, Deotima",
+        "Ponnusamy, Chandra Sekar",
+        "Gnanasekar, Heshine",
+        "Ravindran, Nevedha",
+        "Sridharan, Bhavani",
+        "Velusamy, Mahesh"
+      ],
+      "short_names": [
+        "Maiti K",
+        "Chakraborty D",
+        "Ponnusamy CS",
+        "Gnanasekar H",
+        "Ravindran N",
+        "Sridharan B",
+        "Velusamy M"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Human Genetics and Molecular Medicine, Central University of Punjab, Bathinda, 151401, Punjab, India.",
+        "Department of Bioinformatics, Maulana Abul Kalam Azad University of Technology, Haringhata, 700064, West Bengal, India.",
+        "School of Applied Biosciences, Food, and Agri Tech, Rathinam Global Deemed to Be University, Coimbatore, 641021, Tamil Nadu, India. chandrasekar1990@gmail.com.",
+        "NyBerMan Bioinformatics Europe, Paddenstoelenlaan 8, 3451 PZ, Utrecht, Netherlands. chandrasekar1990@gmail.com.",
+        "Zentrum Fur Bioinformatik, Universitat Des Saarlandes, 66125, Saarbrucken, Saarland, Germany.",
+        "Department of Plant and Microbial Biology, University of Minnesota, Minneapolis, MN, 55108, USA.",
+        "NyBerMan Bioinformatics Europe, Paddenstoelenlaan 8, 3451 PZ, Utrecht, Netherlands.",
+        "NyBerMan Bioinformatics Europe, Paddenstoelenlaan 8, 3451 PZ, Utrecht, Netherlands."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Maiti, Koustav",
+        "short_name": "Maiti K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Human Genetics and Molecular Medicine, Central University of Punjab, Bathinda, 151401, Punjab, India."
+        ]
+      },
+      {
+        "full_name": "Chakraborty, Deotima",
+        "short_name": "Chakraborty D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bioinformatics, Maulana Abul Kalam Azad University of Technology, Haringhata, 700064, West Bengal, India."
+        ]
+      },
+      {
+        "full_name": "Ponnusamy, Chandra Sekar",
+        "short_name": "Ponnusamy CS",
+        "identifiers": [],
+        "affiliations": [
+          "School of Applied Biosciences, Food, and Agri Tech, Rathinam Global Deemed to Be University, Coimbatore, 641021, Tamil Nadu, India. chandrasekar1990@gmail.com.",
+          "NyBerMan Bioinformatics Europe, Paddenstoelenlaan 8, 3451 PZ, Utrecht, Netherlands. chandrasekar1990@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Gnanasekar, Heshine",
+        "short_name": "Gnanasekar H",
+        "identifiers": [],
+        "affiliations": [
+          "Zentrum Für Bioinformatik, Universität Des Saarlandes, 66125, Saarbrücken, Saarland, Germany."
+        ]
+      },
+      {
+        "full_name": "Ravindran, Nevedha",
+        "short_name": "Ravindran N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Plant and Microbial Biology, University of Minnesota, Minneapolis, MN, 55108, USA."
+        ]
+      },
+      {
+        "full_name": "Sridharan, Bhavani",
+        "short_name": "Sridharan B",
+        "identifiers": [],
+        "affiliations": [
+          "NyBerMan Bioinformatics Europe, Paddenstoelenlaan 8, 3451 PZ, Utrecht, Netherlands."
+        ]
+      },
+      {
+        "full_name": "Velusamy, Mahesh",
+        "short_name": "Velusamy M",
+        "identifiers": [],
+        "affiliations": [
+          "NyBerMan Bioinformatics Europe, Paddenstoelenlaan 8, 3451 PZ, Utrecht, Netherlands."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of molecular modeling"
+    ],
+    "journal_abbrev": [
+      "J Mol Model"
+    ],
+    "pub_date": "2026 Sep 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/16 17:36",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42747587",
+      "41045314",
+      "42370516",
+      "42043606",
+      "41337159",
+      "41286755",
+      "41506199",
+      "37972533",
+      "28938863",
+      "40664741",
+      "40380989",
+      "42144504",
+      "29859380",
+      "40649728",
+      "38456827",
+      "42011130",
+      "41253052",
+      "41817950",
+      "36995068",
+      "42520173",
+      "40790332",
+      "42136309",
+      "28632421",
+      "31267876",
+      "38996352",
+      "35110603",
+      "42235269",
+      "39604351",
+      "41330962",
+      "41557214",
+      "41497266",
+      "35408604",
+      "40961826",
+      "39110299",
+      "40726304",
+      "42390567",
+      "40114577",
+      "33131428",
+      "42118388",
+      "41418352",
+      "30417746",
+      "42323936",
+      "42371179",
+      "41125614",
+      "42341703",
+      "42470472",
+      "40617084",
+      "29468945",
+      "39752394",
+      "30145395",
+      "42141107",
+      "37969010",
+      "28524659",
+      "36369945",
+      "42429541",
+      "37608752",
+      "38835122",
+      "42008967",
+      "29945500",
+      "38274328",
+      "29334340",
+      "41001798",
+      "41734712",
+      "42672009",
+      "39039678",
+      "32310052",
+      "37937774",
+      "39535182",
+      "42645594",
+      "41663507",
+      "40613210",
+      "23732305",
+      "40721940",
+      "30633630",
+      "39318004",
+      "40803051",
+      "38084766",
+      "41936598",
+      "31151320",
+      "40101436",
+      "40117728",
+      "42627850",
+      "27589363",
+      "40126695",
+      "38683491",
+      "36518265",
+      "40973684",
+      "40738921",
+      "41965992",
+      "37779411",
+      "41833031",
+      "36781452",
+      "41888226",
+      "33954055",
+      "41782002",
+      "42042007",
+      "39135338",
+      "34478925",
+      "29842849",
+      "38279359"
+    ],
+    "review": [
+      "42747587",
+      "39039678"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://dx.doi.org/10.1007/s00894-026-06893-3",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-76",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

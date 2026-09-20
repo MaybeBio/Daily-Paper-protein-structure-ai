@@ -1,0 +1,271 @@
+{
+  "identity": {
+    "pmid": "42759699",
+    "doi": "10.1016/j.mcpro.2026.101663",
+    "title": "Anagrelide remodels the PDE3A-SLFN12 interactome to associate with translation initiation machinery in cancer cell lines."
+  },
+  "content": {
+    "abstract": "Phosphodiesterase 3A (PDE3A) modulators such as anagrelide induce complex formation between PDE3A and Schlafen 12 (SLFN12), selectively killing cancer cells that co-express both proteins. As PDE3A forms isoform- and cell type-specific signalosome complexes across multiple subcellular compartments, the effects of its modulation are expected to depend strongly on the surrounding protein interaction network. However, despite considerable pre-clinical and early clinical interest in PDE3A modulators, the cellular context in which these compounds act has remained poorly characterized. Using proximity-dependent biotinylation in two human cancer cell lines (SA-4, liposarcoma; HeLa, cervical adenocarcinoma), we mapped the interactomes of PDE3A, SLFN12, and the anagrelide-induced PDE3A-SLFN12 complex. Anagrelide induced 259 high-confidence interactions, most notably with ribosomal proteins and translation initiation factors, while suppressing 877 interactions, most prominently those associated with the proteasome, protein folding, and the ER membrane. Interactions were selectively induced with peripheral eukaryotic translation initiation factor 3 (eIF3) subunits eIF3A and eIF3B, while interactions with core eIF3 subunits eIF3H, eIF3L, and eIF3M were suppressed. These findings were validated by native co-immunoprecipitation across three cancer cell lines, and multiplex immunofluorescence confirmed accumulation and ribosomal redistribution of both PDE3A and SLFN12 following anagrelide treatment. AlphaFold modeling of the PDE3A-SLFN12 complex with a partial 43S pre-initiation complex predicted binding near eIF3B and the eIF2alphabetagamma-tRNA ternary complex at the mRNA entry channel. By mapping the interactomes surrounding the drug-induced complex, our study provides important mechanistic context for how PDE3A modulators act within the cell. In our proposed model, anagrelide remodels the interactome of the PDE3A-SLFN12 complex, which relocalizes and accumulates near the mRNA entry channel of the 43S pre-initiation complex.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Salmikangas, Sami",
+        "Lindholm, Iina",
+        "Sultana, Nasrin",
+        "Merikoski, Nanna",
+        "Toivanen, Kirsi",
+        "Liu, Xiaonan",
+        "Varjosalo, Markku",
+        "Bohling, Tom",
+        "Vesterinen, Tiina",
+        "Sihto, Harri"
+      ],
+      "short_names": [
+        "Salmikangas S",
+        "Lindholm I",
+        "Sultana N",
+        "Merikoski N",
+        "Toivanen K",
+        "Liu X",
+        "Varjosalo M",
+        "Bohling T",
+        "Vesterinen T",
+        "Sihto H"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Rare Cancers Research Group, Department of Pathology, University of Helsinki and Helsinki University Hospital, Helsinki, Finland. Electronic address: sami.salmikangas@helsinki.fi.",
+        "Rare Cancers Research Group, Department of Pathology, University of Helsinki and Helsinki University Hospital, Helsinki, Finland.",
+        "Rare Cancers Research Group, Department of Pathology, University of Helsinki and Helsinki University Hospital, Helsinki, Finland; Stem Cells and Metabolism Research Program, Faculty of Medicine, University of Helsinki, Helsinki, Finland; Gracile Research group, Folkhalsan Research Center, Helsinki, Finland.",
+        "Rare Cancers Research Group, Department of Pathology, University of Helsinki and Helsinki University Hospital, Helsinki, Finland.",
+        "Rare Cancers Research Group, Department of Pathology, University of Helsinki and Helsinki University Hospital, Helsinki, Finland.",
+        "Institute of Biotechnology, Helsinki Institute of Life Science HiLIFE, University of Helsinki, Helsinki, Finland.",
+        "Institute of Biotechnology, Helsinki Institute of Life Science HiLIFE, University of Helsinki, Helsinki, Finland.",
+        "Rare Cancers Research Group, Department of Pathology, University of Helsinki and Helsinki University Hospital, Helsinki, Finland; HUS Diagnostic Center, Department of Pathology, University of Helsinki and Helsinki University Hospital, Helsinki, Finland.",
+        "HUS Diagnostic Center, Department of Pathology, University of Helsinki and Helsinki University Hospital, Helsinki, Finland.",
+        "Rare Cancers Research Group, Department of Pathology, University of Helsinki and Helsinki University Hospital, Helsinki, Finland."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Salmikangas, Sami",
+        "short_name": "Salmikangas S",
+        "identifiers": [],
+        "affiliations": [
+          "Rare Cancers Research Group, Department of Pathology, University of Helsinki and Helsinki University Hospital, Helsinki, Finland. Electronic address: sami.salmikangas@helsinki.fi."
+        ]
+      },
+      {
+        "full_name": "Lindholm, Iina",
+        "short_name": "Lindholm I",
+        "identifiers": [],
+        "affiliations": [
+          "Rare Cancers Research Group, Department of Pathology, University of Helsinki and Helsinki University Hospital, Helsinki, Finland."
+        ]
+      },
+      {
+        "full_name": "Sultana, Nasrin",
+        "short_name": "Sultana N",
+        "identifiers": [],
+        "affiliations": [
+          "Rare Cancers Research Group, Department of Pathology, University of Helsinki and Helsinki University Hospital, Helsinki, Finland; Stem Cells and Metabolism Research Program, Faculty of Medicine, University of Helsinki, Helsinki, Finland; Gracile Research group, Folkhälsan Research Center, Helsinki, Finland."
+        ]
+      },
+      {
+        "full_name": "Merikoski, Nanna",
+        "short_name": "Merikoski N",
+        "identifiers": [],
+        "affiliations": [
+          "Rare Cancers Research Group, Department of Pathology, University of Helsinki and Helsinki University Hospital, Helsinki, Finland."
+        ]
+      },
+      {
+        "full_name": "Toivanen, Kirsi",
+        "short_name": "Toivanen K",
+        "identifiers": [],
+        "affiliations": [
+          "Rare Cancers Research Group, Department of Pathology, University of Helsinki and Helsinki University Hospital, Helsinki, Finland."
+        ]
+      },
+      {
+        "full_name": "Liu, Xiaonan",
+        "short_name": "Liu X",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Biotechnology, Helsinki Institute of Life Science HiLIFE, University of Helsinki, Helsinki, Finland."
+        ]
+      },
+      {
+        "full_name": "Varjosalo, Markku",
+        "short_name": "Varjosalo M",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Biotechnology, Helsinki Institute of Life Science HiLIFE, University of Helsinki, Helsinki, Finland."
+        ]
+      },
+      {
+        "full_name": "Böhling, Tom",
+        "short_name": "Böhling T",
+        "identifiers": [],
+        "affiliations": [
+          "Rare Cancers Research Group, Department of Pathology, University of Helsinki and Helsinki University Hospital, Helsinki, Finland; HUS Diagnostic Center, Department of Pathology, University of Helsinki and Helsinki University Hospital, Helsinki, Finland."
+        ]
+      },
+      {
+        "full_name": "Vesterinen, Tiina",
+        "short_name": "Vesterinen T",
+        "identifiers": [],
+        "affiliations": [
+          "HUS Diagnostic Center, Department of Pathology, University of Helsinki and Helsinki University Hospital, Helsinki, Finland."
+        ]
+      },
+      {
+        "full_name": "Sihto, Harri",
+        "short_name": "Sihto H",
+        "identifiers": [],
+        "affiliations": [
+          "Rare Cancers Research Group, Department of Pathology, University of Helsinki and Helsinki University Hospital, Helsinki, Finland."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular & cellular proteomics : MCP"
+    ],
+    "journal_abbrev": [
+      "Mol Cell Proteomics"
+    ],
+    "pub_date": "2026 Sep 18",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/18 23:36",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42759699",
+      "34707099",
+      "31598394",
+      "32005668",
+      "35104454",
+      "36302897",
+      "34272366",
+      "42047795",
+      "39437010",
+      "39166256",
+      "26656089",
+      "29107068",
+      "33289941",
+      "33799492",
+      "19061185",
+      "38001568",
+      "32591543",
+      "31863585",
+      "28454120",
+      "31749907",
+      "24320561",
+      "42227579",
+      "26344199",
+      "27782884",
+      "23921387",
+      "16449648",
+      "32987632",
+      "38906108",
+      "29401259",
+      "15904532",
+      "25539953",
+      "37609226",
+      "42268574",
+      "17170115",
+      "41726589",
+      "15548739",
+      "24912683",
+      "24185006",
+      "11457827",
+      "31285271",
+      "23063735",
+      "22135459",
+      "27924037",
+      "20584985",
+      "24250809",
+      "16766523",
+      "17581632",
+      "36724943",
+      "38266053",
+      "23912807",
+      "39847343",
+      "22792338",
+      "20862284",
+      "19745810",
+      "20816988",
+      "24092755",
+      "39411532",
+      "42475469",
+      "31838790",
+      "37155573",
+      "27373335",
+      "24003236",
+      "15563596",
+      "29099306",
+      "25593322",
+      "17322308",
+      "25227463",
+      "28223523",
+      "26420881",
+      "35714590",
+      "29908282",
+      "16153182",
+      "12411506",
+      "28743736",
+      "31420216",
+      "14688252",
+      "22613460",
+      "40576144",
+      "11018020",
+      "28360085",
+      "30530703",
+      "41808986",
+      "15703437",
+      "23623729",
+      "38994957",
+      "37768948",
+      "11029466",
+      "27733651",
+      "31929110",
+      "39406931",
+      "38864850",
+      "10488093",
+      "41150877",
+      "26873921",
+      "18599441",
+      "12493757",
+      "12885778",
+      "11416183",
+      "35087868",
+      "25171412"
+    ],
+    "review": [
+      "42759699",
+      "41726589",
+      "29099306",
+      "29908282"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

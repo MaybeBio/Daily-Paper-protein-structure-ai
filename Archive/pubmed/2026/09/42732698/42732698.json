@@ -1,0 +1,206 @@
+{
+  "identity": {
+    "pmid": "42732698",
+    "doi": "10.1016/j.jmgm.2026.109571",
+    "title": "Systematic benchmarking of AlphaFold and SWISS-MODEL kinase structures for structure-based drug discovery."
+  },
+  "content": {
+    "abstract": "Accurate protein structure prediction is fundamental to structure-based drug discovery. However, the practical performance of deep learning-based models such as AlphaFold compared with traditional homology modeling approaches like SWISS-MODEL remains incompletely evaluated in realistic drug-design workflows. Here, we systematically benchmark AlphaFold2 and SWISS-MODEL using a curated dataset of 20 kinase structures with co-crystallized ligands. Predicted models were evaluated under three conditions: the raw predicted structures, structures subjected to energy minimization, and structures subjected to triplicate 100-ns unbiased molecular dynamics (MD) simulations for structural refinement. Model performance was assessed using structural accuracy metrics, multi-software docking (AutoDock Vina, AutoDock, and MOE), and post-docking MD trajectory stability analysis, together with MM/GBSA binding energy estimation. As expected, experimental structures consistently showed the best docking performance. Among predicted models, SWISS-MODEL produced slightly lower RMSD values and better interaction similarity than AlphaFold, although overall docking scores were statistically comparable. MD refinement prior to docking reduced structural suitability by increasing binding-pocket deviations and was associated with misoriented ligand poses in subsequent docking calculations, while energy minimization provided little to no improvement. Notably, the reduction in docking performance was not limited to computationally predicted structures but was also observed for experimental structures solved in complex with different ligands. Thus, rigid docking alone tended to generate a substantial number of false-positive poses. However, MD simulations applied after docking effectively identified unstable ligand poses and reduced false-positive predictions by detecting ligand dissociation. Overall true-positive rates were 30% for SWISS-MODEL and 35% for AlphaFold2. These findings highlight the importance of dynamic validation in structure-based drug discovery workflows.",
+    "keywords": [
+      "AlphaFold2",
+      "Drug discovery",
+      "Kinase",
+      "MM/GBSA",
+      "Molecular docking",
+      "Molecular dynamics"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Bahena-Culhuac, Erick",
+        "Bello, Martiniano"
+      ],
+      "short_names": [
+        "Bahena-Culhuac E",
+        "Bello M"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Laboratorio de Diseno y Desarrollo de Nuevos Farmacos e Innovacion Biotecnologica, Seccion de Estudios de Posgrado e Investigacion, Escuela Superior de Medicina, Instituto Politecnico Nacional, Plan de San Luis y Salvador Diaz Miron s/n, Casco de Santo Tomas, Miguel Hidalgo, Ciudad de Mexico, 11340, Mexico.",
+        "Laboratorio de Diseno y Desarrollo de Nuevos Farmacos e Innovacion Biotecnologica, Seccion de Estudios de Posgrado e Investigacion, Escuela Superior de Medicina, Instituto Politecnico Nacional, Plan de San Luis y Salvador Diaz Miron s/n, Casco de Santo Tomas, Miguel Hidalgo, Ciudad de Mexico, 11340, Mexico. Electronic address: bellomartini@gmail.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Bahena-Culhuac, Erick",
+        "short_name": "Bahena-Culhuac E",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratorio de Diseño y Desarrollo de Nuevos Fármacos e Innovación Biotecnológica, Sección de Estudios de Posgrado e Investigación, Escuela Superior de Medicina, Instituto Politécnico Nacional, Plan de San Luis y Salvador Diaz Mirón s/n, Casco de Santo Tomás, Miguel Hidalgo, Ciudad de México, 11340, Mexico."
+        ]
+      },
+      {
+        "full_name": "Bello, Martiniano",
+        "short_name": "Bello M",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratorio de Diseño y Desarrollo de Nuevos Fármacos e Innovación Biotecnológica, Sección de Estudios de Posgrado e Investigación, Escuela Superior de Medicina, Instituto Politécnico Nacional, Plan de San Luis y Salvador Diaz Mirón s/n, Casco de Santo Tomás, Miguel Hidalgo, Ciudad de México, 11340, Mexico. Electronic address: bellomartini@gmail.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of molecular graphics & modelling"
+    ],
+    "journal_abbrev": [
+      "J Mol Graph Model"
+    ],
+    "pub_date": "2026 Sep 11",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/13 23:34",
+    "fetched_at": "2026-09-20 07:27:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42732698",
+      "42713223",
+      "42667474",
+      "30390544",
+      "36065847",
+      "30928871",
+      "42475469",
+      "32737667",
+      "37175495",
+      "39337622",
+      "40943500",
+      "36338939",
+      "40999494",
+      "40285358",
+      "24171431",
+      "37745489",
+      "29495922",
+      "36544468",
+      "42093884",
+      "41526649",
+      "41429653",
+      "41305458",
+      "41323712",
+      "39613993",
+      "27108770",
+      "30265513",
+      "38501198",
+      "42268396",
+      "39558632",
+      "40126695",
+      "42511819",
+      "36479776",
+      "33034007",
+      "42714666",
+      "42057975",
+      "39240197",
+      "42356587",
+      "40936770",
+      "28106755",
+      "40059543",
+      "38131311",
+      "42493523",
+      "36681903",
+      "26082804",
+      "27172383",
+      "23340525",
+      "23912807",
+      "38100422",
+      "31781990",
+      "42657169",
+      "28074360",
+      "42043606",
+      "42376479",
+      "28902511",
+      "38954072",
+      "42118388",
+      "42198259",
+      "32168319",
+      "36099477",
+      "42419186",
+      "41921096",
+      "39480515",
+      "42120797",
+      "30267300",
+      "42254291",
+      "41720062",
+      "24303988",
+      "30324898",
+      "36580076",
+      "30182836",
+      "38892133",
+      "39448664",
+      "34979368",
+      "32328476",
+      "36892986",
+      "27444142",
+      "42546051",
+      "40401693",
+      "40476317",
+      "41231530",
+      "41882507",
+      "41447508",
+      "41922433",
+      "41603859",
+      "36518265",
+      "41088767",
+      "27074979",
+      "41642195",
+      "32144844",
+      "36897766",
+      "24358939",
+      "42241776",
+      "41045314",
+      "41910880",
+      "40662794",
+      "26906522",
+      "37972533",
+      "39830331",
+      "42470472",
+      "41345395"
+    ],
+    "review": [
+      "42732698",
+      "42198259",
+      "42419186",
+      "30182836",
+      "42546051"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1093-3263(26)00297-4",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-76",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

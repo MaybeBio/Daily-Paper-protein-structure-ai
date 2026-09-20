@@ -1,0 +1,255 @@
+{
+  "identity": {
+    "pmid": "42728800",
+    "doi": "10.1093/nar/gkag887",
+    "title": "UFold-X: an enhanced Dual & Dynamic U-Mamba model for long-range RNA secondary structure prediction."
+  },
+  "content": {
+    "abstract": "RNA secondary structure is essential for understanding the functions of non-coding RNAs, ribosomal RNAs, and viral genomes. However, accurate prediction of long RNA structures remains challenging due to complex long-range interactions and the limited availability of long-RNA training data. We present UFold-X, a dual-branch deep learning framework that combines a convolutional encoder for local structure modeling with a Mamba-based Visual State Space Module for capturing long-range dependencies. A dynamic gating mechanism adaptively integrates the two branches according to sequence length. UFold-X was evaluated on multiple benchmark datasets containing RNAs up to 5000 nucleotides. To rigorously assess generalization, we introduced a cross-clan benchmark for long RNAs. Under this stringent setting, UFold-X achieved performance comparable to state-of-the-art classical approaches while achieving the best performance among deep learning-based methods. Additional cross-family and within-family evaluations further demonstrated robust transferability and competitive predictive performance. UFold-X also maintained excellent computational efficiency, requiring only 0.08 s per sequence on average. To assess biological consistency, we developed a SHAPE-based reactivity prediction variant (UFold-X-R) and an integrated metric, the Hybrid Reactivity-Pairing Score (HRPS). UFold-X-R showed strong agreement with experimental icSHAPE data and achieved the highest HRPS among all evaluated methods. A user-friendly web server is available at https://ufold-x.ai4bread.com.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Nucleic Acid Conformation",
+      "*Software",
+      "*Deep Learning",
+      "*RNA/chemistry",
+      "*Computational Biology/methods"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Fu, Laiyi",
+        "Li, Jiachun",
+        "Wang, Ruiqi",
+        "Sun, Hequan",
+        "Wu, Danyang"
+      ],
+      "short_names": [
+        "Fu L",
+        "Li J",
+        "Wang R",
+        "Sun H",
+        "Wu D"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-9086-3982",
+        "ORCID: 0000-0003-2046-2109",
+        "ORCID: 0000-0002-0309-1409"
+      ],
+      "affiliations": [
+        "School of Automation Science and Engineering, Xi'an Jiaotong University, Xi'an 710049, China.",
+        "Research Institute of Xi'an Jiaotong University, Zhejiang, Hangzhou 311200, China.",
+        "Sichuan Digital Economy Industry Development Research Institute, Chengdu 610036, China.",
+        "School of Automation Science and Engineering, Xi'an Jiaotong University, Xi'an 710049, China.",
+        "College of Information Engineering, Northwest A&F University, Xianyang, Shannxi 712100, China.",
+        "School of Automation Science and Engineering, Xi'an Jiaotong University, Xi'an 710049, China.",
+        "College of Information Engineering, Northwest A&F University, Xianyang, Shannxi 712100, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Fu, Laiyi",
+        "short_name": "Fu L",
+        "identifiers": [
+          "0000-0001-9086-3982"
+        ],
+        "affiliations": [
+          "School of Automation Science and Engineering, Xi'an Jiaotong University, Xi'an 710049, China.",
+          "Research Institute of Xi'an Jiaotong University, Zhejiang, Hangzhou 311200, China.",
+          "Sichuan Digital Economy Industry Development Research Institute, Chengdu 610036, China."
+        ]
+      },
+      {
+        "full_name": "Li, Jiachun",
+        "short_name": "Li J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Automation Science and Engineering, Xi'an Jiaotong University, Xi'an 710049, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Ruiqi",
+        "short_name": "Wang R",
+        "identifiers": [],
+        "affiliations": [
+          "College of Information Engineering, Northwest A&F University, Xianyang, Shannxi 712100, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Hequan",
+        "short_name": "Sun H",
+        "identifiers": [
+          "0000-0003-2046-2109"
+        ],
+        "affiliations": [
+          "School of Automation Science and Engineering, Xi'an Jiaotong University, Xi'an 710049, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Danyang",
+        "short_name": "Wu D",
+        "identifiers": [
+          "0000-0002-0309-1409"
+        ],
+        "affiliations": [
+          "College of Information Engineering, Northwest A&F University, Xianyang, Shannxi 712100, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nucleic acids research"
+    ],
+    "journal_abbrev": [
+      "Nucleic Acids Res"
+    ],
+    "pub_date": "2026 Sep 7",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/13 00:50",
+    "fetched_at": "2026-09-20 07:27:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42728800",
+      "34792173",
+      "42475469",
+      "40981507",
+      "38855913",
+      "39341115",
+      "39550226",
+      "41701781",
+      "40279361",
+      "35692094",
+      "42155621",
+      "36801945",
+      "40268235",
+      "40315431",
+      "42633564",
+      "42412847",
+      "40530692",
+      "39775239",
+      "39581872",
+      "41600484",
+      "31114906",
+      "40327448",
+      "42561589",
+      "40961942",
+      "40778521",
+      "41529119",
+      "24564983",
+      "40646507",
+      "31173857",
+      "41257600",
+      "32224462",
+      "39572716",
+      "27665602",
+      "42094469",
+      "39837861",
+      "25910700",
+      "34498677",
+      "31776342",
+      "31714956",
+      "38552946",
+      "34108470",
+      "41650708",
+      "41346834",
+      "39983363",
+      "29970003",
+      "41266599",
+      "38648189",
+      "41354216",
+      "40593483",
+      "41478913",
+      "42295831",
+      "41564724",
+      "42635124",
+      "41310253",
+      "40728942",
+      "33740884",
+      "40751131",
+      "42242678",
+      "36403092",
+      "41299278",
+      "40119908",
+      "41513406",
+      "41739924",
+      "41014267",
+      "31808801",
+      "42296393",
+      "42605055",
+      "41031876",
+      "39350066",
+      "42319254",
+      "28245811",
+      "36977986",
+      "38780739",
+      "42681535",
+      "41399733",
+      "41886347",
+      "39501155",
+      "33704363",
+      "42584949",
+      "39732642",
+      "40302345",
+      "40883253",
+      "31450739",
+      "40914361",
+      "40134455",
+      "40977268",
+      "28109252",
+      "41559334",
+      "41762162",
+      "35751593",
+      "40762404",
+      "22759616",
+      "42023506",
+      "41320116",
+      "39540702",
+      "41830618",
+      "41100040",
+      "42185831",
+      "42550747",
+      "33367506"
+    ],
+    "review": [
+      "42728800",
+      "35692094",
+      "31714956",
+      "41650708",
+      "39983363",
+      "41513406"
+    ],
+    "pmc": [
+      "13569499"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42728800/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkag887",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

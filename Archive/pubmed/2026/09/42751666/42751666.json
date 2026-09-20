@@ -1,0 +1,206 @@
+{
+  "identity": {
+    "pmid": "42751666",
+    "doi": "10.1093/bioadv/vbag233",
+    "title": "MiLaSol: modeling protein solubility by mixing up multiple protein language models."
+  },
+  "content": {
+    "abstract": "MOTIVATION: Protein solubility is a critical property that significantly impacts therapeutic efficacy and protein reengineering applications. Recent advances in machine learning and deep learning techniques provide unprecedented opportunities to develop predictive models for solubility, enabling more efficient protein design and optimization. This work is motivated by the potential of leveraging deep learning to address the solubility prediction challenge and to accelerate protein engineering workflows. RESULTS: Leveraging and combining multiple protein language model representations, our MiLaSol model attains 81% accuracy, outperforming prior methods, with the highest Matthews Correlation Coefficient (MCC) score of 0.63 demonstrating balanced performance across both soluble and insoluble proteins. Through simulated annealing optimization coupled with the Raygun model, we also present a computational method to reengineer insoluble protein variants into soluble forms, with predictions confirmed by multiple independent solubility prediction methods. Our results demonstrate the effectiveness of combining machine learning-based solubility prediction with generative optimization for protein engineering. AVAILABILITY AND IMPLEMENTATION: MiLaSol is available at https://github.com/weiweiloutufts/milasolAn archived version of the code at the time of submission can be found at https://doi.org/10.5281/zenodo.21495202.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Lou, Weiwei",
+        "Erden, Mert",
+        "Cowen, Lenore"
+      ],
+      "short_names": [
+        "Lou W",
+        "Erden M",
+        "Cowen L"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-6698-6413"
+      ],
+      "affiliations": [
+        "Department of Computer Science, Tufts University, Medford, MA 02155, United States.",
+        "Department of Computer Science, Tufts University, Medford, MA 02155, United States.",
+        "Department of Computer Science, Tufts University, Medford, MA 02155, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Lou, Weiwei",
+        "short_name": "Lou W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Computer Science, Tufts University, Medford, MA 02155, United States."
+        ]
+      },
+      {
+        "full_name": "Erden, Mert",
+        "short_name": "Erden M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Computer Science, Tufts University, Medford, MA 02155, United States."
+        ]
+      },
+      {
+        "full_name": "Cowen, Lenore",
+        "short_name": "Cowen L",
+        "identifiers": [
+          "0000-0001-6698-6413"
+        ],
+        "affiliations": [
+          "Department of Computer Science, Tufts University, Medford, MA 02155, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Bioinformatics advances"
+    ],
+    "journal_abbrev": [
+      "Bioinform Adv"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/17 15:39",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42751666",
+      "39179250",
+      "41953440",
+      "41310253",
+      "40400111",
+      "40971691",
+      "35639661",
+      "42106862",
+      "38824535",
+      "29554211",
+      "42148683",
+      "42296384",
+      "40027759",
+      "41967848",
+      "41359723",
+      "38507682",
+      "40929136",
+      "40600900",
+      "42491247",
+      "40372465",
+      "42085496",
+      "39528950",
+      "40509866",
+      "42475469",
+      "42379061",
+      "41527527",
+      "40991316",
+      "37897686",
+      "41808445",
+      "41352986",
+      "39878455",
+      "31038685",
+      "40742755",
+      "41762162",
+      "41505730",
+      "39214282",
+      "34145885",
+      "42560030",
+      "41959628",
+      "42583835",
+      "40569190",
+      "42270738",
+      "29069295",
+      "39576587",
+      "30462171",
+      "41580967",
+      "42599200",
+      "42723633",
+      "35088833",
+      "40794688",
+      "35020807",
+      "41206951",
+      "39292535",
+      "42296331",
+      "42560022",
+      "42412827",
+      "40306261",
+      "41634737",
+      "40845562",
+      "36700108",
+      "42374910",
+      "41268176",
+      "40060567",
+      "42013547",
+      "42099803",
+      "33961009",
+      "42105210",
+      "41318581",
+      "37883249",
+      "41826803",
+      "41961866",
+      "41841780",
+      "39576667",
+      "42720943",
+      "40027840",
+      "40917651",
+      "40662806",
+      "41172803",
+      "31393553",
+      "34967936",
+      "31245182",
+      "40689530",
+      "42720611",
+      "39281576",
+      "40795814",
+      "40857396",
+      "37052532",
+      "41947423",
+      "39786868",
+      "39795988",
+      "36692152",
+      "40581797",
+      "37745556",
+      "42554450",
+      "39357724",
+      "39576695",
+      "42412847",
+      "41533695",
+      "38048895",
+      "34460382"
+    ],
+    "review": [
+      "42751666",
+      "42491247"
+    ],
+    "pmc": [
+      "13581264"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://academic.oup.com/bioinformaticsadvances/article-lookup/doi/10.1093/bioadv/vbag233",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

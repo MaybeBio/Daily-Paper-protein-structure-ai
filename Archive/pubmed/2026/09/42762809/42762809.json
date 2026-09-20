@@ -1,0 +1,94 @@
+{
+  "identity": {
+    "pmid": "42762809",
+    "doi": "10.1016/j.sbi.2026.103387",
+    "title": "High-speed atomic force microscopy of membrane proteins: From dynamic imaging to integrative structural biology."
+  },
+  "content": {
+    "abstract": "High-speed atomic force microscopy (HS-AFM) enables direct, label-free visualization of membrane proteins in lipid bilayers with nanometer spatial resolution and millisecond temporal resolution. Recent studies revealed transient conformational states, dynamic oligomerization changes, and membrane-mediated organization of membrane proteins that are not readily captured by conventional structural or biophysical approaches. Advances in experimental design-including membrane reconstitution strategies, stimulus-coupled imaging, high-temporal-resolution acquisition, and computational reconstruction-have further expanded the scope of HS-AFM. When integrated with complementary techniques such as cryo-electron microscopy, molecular dynamics simulations, and single-molecule methods, HS-AFM provides a powerful and versatile tool for linking membrane protein structure, dynamics, and function in native-like environments.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Shin, Eunji",
+        "Mount, Jonathan",
+        "Scheuring, Simon"
+      ],
+      "short_names": [
+        "Shin E",
+        "Mount J",
+        "Scheuring S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Weill Cornell Medicine, Department of Anesthesiology, 1300 York Avenue, New York, NY-10065, USA.",
+        "Weill Cornell Medicine, Department of Anesthesiology, 1300 York Avenue, New York, NY-10065, USA.",
+        "Weill Cornell Medicine, Department of Anesthesiology, 1300 York Avenue, New York, NY-10065, USA; Weill Cornell Medicine, Department of Biochemistry and Biophysics, 1300 York Avenue, New York, NY-10065, USA. Electronic address: sis2019@med.cornell.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Shin, Eunji",
+        "short_name": "Shin E",
+        "identifiers": [],
+        "affiliations": [
+          "Weill Cornell Medicine, Department of Anesthesiology, 1300 York Avenue, New York, NY-10065, USA."
+        ]
+      },
+      {
+        "full_name": "Mount, Jonathan",
+        "short_name": "Mount J",
+        "identifiers": [],
+        "affiliations": [
+          "Weill Cornell Medicine, Department of Anesthesiology, 1300 York Avenue, New York, NY-10065, USA."
+        ]
+      },
+      {
+        "full_name": "Scheuring, Simon",
+        "short_name": "Scheuring S",
+        "identifiers": [],
+        "affiliations": [
+          "Weill Cornell Medicine, Department of Anesthesiology, 1300 York Avenue, New York, NY-10065, USA; Weill Cornell Medicine, Department of Biochemistry and Biophysics, 1300 York Avenue, New York, NY-10065, USA. Electronic address: sis2019@med.cornell.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Current opinion in structural biology"
+    ],
+    "journal_abbrev": [
+      "Curr Opin Struct Biol"
+    ],
+    "pub_date": "2026 Sep 19",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/19 23:52",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42762809"
+    ],
+    "review": [
+      "42762809"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

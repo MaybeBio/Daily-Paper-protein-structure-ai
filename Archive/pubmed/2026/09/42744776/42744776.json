@@ -1,0 +1,370 @@
+{
+  "identity": {
+    "pmid": "42744776",
+    "doi": "10.1038/s41467-026-76435-1",
+    "title": "Deciphering the evolutionary origin of the enantioselectivity of short-chain dehydrogenases from plants toward 1-borneol."
+  },
+  "content": {
+    "abstract": "Enzyme engineering has produced numerous methods to optimize enzymes for biotechnological processes; however, less is known about how natural evolution creates new functionalities. We investigate the evolutionary emergence of enantioselectivity in plant borneol dehydrogenases, which feature hydrophobic active-sites and are enantioselective towards dibornane-type monoterpenols. Ancestral sequence reconstruction provided a trajectory from the oldest unselective ancestor N30 (E = 12) toward a more recent selective ancestor N32, involving 19 mutations: 18 mutations are peripheral, one (I111L) occurs in the active-site. The mutation L111I in the hydrophobic pocket increased the selectivity of N30, while the back-mutation I111L decreased the selectivity of N32. Additional peripheral mutations (V136L/G169A/V183I) were required for high selectivity. Crystal structures suggested that protein dynamics rather than structural changes shape these catalytic properties; this was confirmed by Machine Learning/Molecular Mechanics simulations of ligand binding. Funnel-metadynamics simulations revealed a correlation between the active-site's solvent-accessible surface area and selectivity. This potential evolutionary pathway shapes enantioselectivity, and guides future enzyme engineering campaigns.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Evolution, Molecular",
+      "Stereoisomerism",
+      "Catalytic Domain",
+      "Substrate Specificity",
+      "*Short Chain Dehydrogenase-Reductases/genetics/metabolism/chemistry",
+      "*Plants/enzymology/genetics",
+      "Mutation",
+      "Crystallography, X-Ray",
+      "Molecular Dynamics Simulation",
+      "*Plant Proteins/genetics/metabolism/chemistry",
+      "Models, Molecular"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zuson, Jasmin",
+        "Helmer, Carl P O",
+        "Di Geronimo, Bruno",
+        "Chanique, Andrea M",
+        "Kavciakova, Katarina",
+        "Teijeiro-Juiz, Rosa",
+        "Brickel, Sebastian",
+        "Ramirez Molina, Nuria",
+        "Drienovska, Ivana",
+        "Kracher, Daniel",
+        "Gaucher, Eric A",
+        "Kamerlin, Shina Caroline Lynn",
+        "Loll, Bernhard",
+        "Kourist, Robert"
+      ],
+      "short_names": [
+        "Zuson J",
+        "Helmer CPO",
+        "Di Geronimo B",
+        "Chanique AM",
+        "Kavciakova K",
+        "Teijeiro-Juiz R",
+        "Brickel S",
+        "Ramirez Molina N",
+        "Drienovska I",
+        "Kracher D",
+        "Gaucher EA",
+        "Kamerlin SCL",
+        "Loll B",
+        "Kourist R"
+      ],
+      "auids": [
+        "ORCID: 0009-0001-9795-6652",
+        "ORCID: 0000-0003-1822-7142",
+        "ORCID: 0009-0000-3403-6755",
+        "ORCID: 0000-0003-1715-4236",
+        "ORCID: 0000-0002-3856-3170",
+        "ORCID: 0000-0002-3190-1173",
+        "ORCID: 0000-0001-7928-4488",
+        "ORCID: 0000-0002-2853-3525"
+      ],
+      "affiliations": [
+        "Institute of Molecular Biotechnology, Graz University of Technology, Graz, Austria.",
+        "Laboratory of Structural Biochemistry, Institute of Chemistry and Biochemistry, Freie Universitat Berlin, Berlin, Germany.",
+        "School of Chemistry and Biochemistry, Georgia Institute of Technology, Atlanta, GA, USA.",
+        "Institute of Molecular Biotechnology, Graz University of Technology, Graz, Austria.",
+        "Institute of Molecular Biotechnology, Graz University of Technology, Graz, Austria.",
+        "Laboratory of Structural Biochemistry, Institute of Chemistry and Biochemistry, Freie Universitat Berlin, Berlin, Germany.",
+        "Department of Chemistry - BMC, Uppsala University, Uppsala, Sweden.",
+        "Department of Biology, Georgia State University, Atlanta, GA, USA.",
+        "Department of Chemistry and Pharmaceutical Sciences, Vrije Universiteit Amsterdam, Amsterdam, The Netherlands.",
+        "Institute of Molecular Biotechnology, Graz University of Technology, Graz, Austria.",
+        "BioTechMed-Graz, Graz, Austria.",
+        "Department of Biology, Georgia State University, Atlanta, GA, USA.",
+        "School of Chemistry and Biochemistry, Georgia Institute of Technology, Atlanta, GA, USA. skamerlin3@gatech.edu.",
+        "School of Chemical and Biomolecular Engineering, Georgia Institute of Technology, Atlanta, GA, USA. skamerlin3@gatech.edu.",
+        "Department of Chemistry, Lund University, Lund, Sweden. skamerlin3@gatech.edu.",
+        "Laboratory of Structural Biochemistry, Institute of Chemistry and Biochemistry, Freie Universitat Berlin, Berlin, Germany. loll@chemie.fu-berlin.de.",
+        "Institute of Molecular Biotechnology, Graz University of Technology, Graz, Austria. kourist@tugraz.at.",
+        "BioTechMed-Graz, Graz, Austria. kourist@tugraz.at."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zuson, Jasmin",
+        "short_name": "Zuson J",
+        "identifiers": [
+          "0009-0001-9795-6652"
+        ],
+        "affiliations": [
+          "Institute of Molecular Biotechnology, Graz University of Technology, Graz, Austria."
+        ]
+      },
+      {
+        "full_name": "Helmer, Carl P O",
+        "short_name": "Helmer CPO",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Structural Biochemistry, Institute of Chemistry and Biochemistry, Freie Universität Berlin, Berlin, Germany."
+        ]
+      },
+      {
+        "full_name": "Di Geronimo, Bruno",
+        "short_name": "Di Geronimo B",
+        "identifiers": [
+          "0000-0003-1822-7142"
+        ],
+        "affiliations": [
+          "School of Chemistry and Biochemistry, Georgia Institute of Technology, Atlanta, GA, USA."
+        ]
+      },
+      {
+        "full_name": "Chánique, Andrea M",
+        "short_name": "Chánique AM",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Molecular Biotechnology, Graz University of Technology, Graz, Austria."
+        ]
+      },
+      {
+        "full_name": "Kavčiaková, Katarína",
+        "short_name": "Kavčiaková K",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Molecular Biotechnology, Graz University of Technology, Graz, Austria."
+        ]
+      },
+      {
+        "full_name": "Teijeiro-Juiz, Rosa",
+        "short_name": "Teijeiro-Juiz R",
+        "identifiers": [
+          "0009-0000-3403-6755"
+        ],
+        "affiliations": [
+          "Laboratory of Structural Biochemistry, Institute of Chemistry and Biochemistry, Freie Universität Berlin, Berlin, Germany."
+        ]
+      },
+      {
+        "full_name": "Brickel, Sebastian",
+        "short_name": "Brickel S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry - BMC, Uppsala University, Uppsala, Sweden."
+        ]
+      },
+      {
+        "full_name": "Ramirez Molina, Nuria",
+        "short_name": "Ramirez Molina N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, Georgia State University, Atlanta, GA, USA."
+        ]
+      },
+      {
+        "full_name": "Drienovská, Ivana",
+        "short_name": "Drienovská I",
+        "identifiers": [
+          "0000-0003-1715-4236"
+        ],
+        "affiliations": [
+          "Department of Chemistry and Pharmaceutical Sciences, Vrije Universiteit Amsterdam, Amsterdam, The Netherlands."
+        ]
+      },
+      {
+        "full_name": "Kracher, Daniel",
+        "short_name": "Kracher D",
+        "identifiers": [
+          "0000-0002-3856-3170"
+        ],
+        "affiliations": [
+          "Institute of Molecular Biotechnology, Graz University of Technology, Graz, Austria.",
+          "BioTechMed-Graz, Graz, Austria."
+        ]
+      },
+      {
+        "full_name": "Gaucher, Eric A",
+        "short_name": "Gaucher EA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, Georgia State University, Atlanta, GA, USA."
+        ]
+      },
+      {
+        "full_name": "Kamerlin, Shina Caroline Lynn",
+        "short_name": "Kamerlin SCL",
+        "identifiers": [
+          "0000-0002-3190-1173"
+        ],
+        "affiliations": [
+          "School of Chemistry and Biochemistry, Georgia Institute of Technology, Atlanta, GA, USA. skamerlin3@gatech.edu.",
+          "School of Chemical and Biomolecular Engineering, Georgia Institute of Technology, Atlanta, GA, USA. skamerlin3@gatech.edu.",
+          "Department of Chemistry, Lund University, Lund, Sweden. skamerlin3@gatech.edu."
+        ]
+      },
+      {
+        "full_name": "Loll, Bernhard",
+        "short_name": "Loll B",
+        "identifiers": [
+          "0000-0001-7928-4488"
+        ],
+        "affiliations": [
+          "Laboratory of Structural Biochemistry, Institute of Chemistry and Biochemistry, Freie Universität Berlin, Berlin, Germany. loll@chemie.fu-berlin.de."
+        ]
+      },
+      {
+        "full_name": "Kourist, Robert",
+        "short_name": "Kourist R",
+        "identifiers": [
+          "0000-0002-2853-3525"
+        ],
+        "affiliations": [
+          "Institute of Molecular Biotechnology, Graz University of Technology, Graz, Austria. kourist@tugraz.at.",
+          "BioTechMed-Graz, Graz, Austria. kourist@tugraz.at."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Aug 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/16 05:36",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42744776",
+      "29686356",
+      "42165592",
+      "41714880",
+      "26644568",
+      "39095391",
+      "29686357",
+      "29424954",
+      "28436515",
+      "26868105",
+      "25738880",
+      "26889885",
+      "29931726",
+      "34262629",
+      "39609402",
+      "39834309",
+      "35102893",
+      "26244568",
+      "41895536",
+      "25734422",
+      "27006087",
+      "41828585",
+      "29054871",
+      "41872407",
+      "26457532",
+      "39186852",
+      "42130227",
+      "41765070",
+      "28025168",
+      "30968164",
+      "25711934",
+      "39038085",
+      "17548065",
+      "27915377",
+      "41027962",
+      "38145745",
+      "15896805",
+      "23809632",
+      "19648114",
+      "22885278",
+      "27636235",
+      "38582485",
+      "28719578",
+      "22219188",
+      "39518933",
+      "20136121",
+      "15664514",
+      "21169353",
+      "42531153",
+      "22987200",
+      "14760743",
+      "29602904",
+      "23912807",
+      "40903920",
+      "33269921",
+      "28471358",
+      "10964566",
+      "24602769",
+      "25117263",
+      "28445031",
+      "24642255",
+      "27936614",
+      "24825769",
+      "38913681",
+      "39251006",
+      "41109345",
+      "21421370",
+      "33682300",
+      "25312912",
+      "11812788",
+      "21761917",
+      "33555078",
+      "32353978",
+      "39339895",
+      "11443349",
+      "38179877",
+      "34061027",
+      "19004021",
+      "29396495",
+      "8950270",
+      "17133645",
+      "19660473",
+      "33263571",
+      "25104036",
+      "34437903",
+      "21980537",
+      "27418042",
+      "10970744",
+      "23959863",
+      "32371491",
+      "41879255",
+      "21270125",
+      "30425279",
+      "42070364",
+      "10715215",
+      "26783002",
+      "11114249",
+      "19469578",
+      "29265726",
+      "39025068"
+    ],
+    "review": [
+      "42744776",
+      "41895536"
+    ],
+    "pmc": [
+      "13578766"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-76435-1",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

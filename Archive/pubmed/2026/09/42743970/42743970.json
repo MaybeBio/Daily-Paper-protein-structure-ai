@@ -1,0 +1,263 @@
+{
+  "identity": {
+    "pmid": "42743970",
+    "doi": "10.1093/bib/bbag508",
+    "title": "Structure-based virulence factor classification using a dual-driven graph transformer with a pretrained language model."
+  },
+  "content": {
+    "abstract": "Bacterial pathogenicity relies on a multitude of virulence factors (VFs). Identifying these factors is crucial for comprehending the molecular mechanisms driving bacterial pathogenesis and pinpointing potential targets for antivirulence strategies. While the identification of VFs has received extensive attention, there is still a lack of prediction from the perspective of VF classes. Moreover, most computational methods focus solely on sequence information for virulence proteins, neglecting spatial structure information. Here, a novel Structure-based Dual-driven Graph Transformer framework named SDGT is proposed to identify multiple distinct VFs by leveraging graph data structures of virulence proteins and sequence representations generated from a pretrained protein language model. By representing virulence proteins at both the atom and residue levels, SDGT adaptively and comprehensively learns a graph representation of protein structure through the utilization of self-attention pooling. The results of extensive experiments demonstrate that SDGT significantly enhances the classification performance, achieving an accuracy of 0.7623 on an independent test dataset, outperforming other sequence-based and structure-based methods. Moreover, cluster analysis of pathogen VF features learned by SDGT proves the excellent specificity and similarity feature learning power of the proposed model. The current analysis suggests that SDGT is an effective tool for identifying of VF classes.",
+    "keywords": [
+      "graph transformer",
+      "predicted protein structure",
+      "pretrained language model",
+      "self-attention pooling",
+      "virulence factor classification"
+    ],
+    "mesh_terms": [
+      "*Virulence Factors/chemistry/classification",
+      "*Bacterial Proteins/chemistry",
+      "*Computational Biology/methods",
+      "Protein Conformation",
+      "Models, Molecular"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Bai, Peihao",
+        "Li, Guanghui",
+        "Jiang, Nan",
+        "Chen, Jiao",
+        "Liang, Cheng",
+        "Ding, Yijie"
+      ],
+      "short_names": [
+        "Bai P",
+        "Li G",
+        "Jiang N",
+        "Chen J",
+        "Liang C",
+        "Ding Y"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-6531-1166",
+        "ORCID: 0000-0003-3832-0969",
+        "ORCID: 0000-0003-2911-7643"
+      ],
+      "affiliations": [
+        "School of Information and Software Engineering, East China Jiaotong University, No. 808 Shuanggang East Road, Changbei Open and Developing District, Nanchang 330013, China.",
+        "School of Information and Software Engineering, East China Jiaotong University, No. 808 Shuanggang East Road, Changbei Open and Developing District, Nanchang 330013, China.",
+        "School of Information and Software Engineering, East China Jiaotong University, No. 808 Shuanggang East Road, Changbei Open and Developing District, Nanchang 330013, China.",
+        "School of Laboratory Medicine, Nanchang Medical College, No. 689 Huiren Road, Xiaolan Open and Developing District, Nanchang 330052, China.",
+        "School of Information Science and Engineering, Shandong Normal University, No. 1 University Road, Changqing District, Jinan 250358, China.",
+        "Yangtze Delta Region Institute (Quzhou), University of Electronic Science and Technology of China, No. 1 Chengdian Road, Kecheng District, Quzhou 324003, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Bai, Peihao",
+        "short_name": "Bai P",
+        "identifiers": [],
+        "affiliations": [
+          "School of Information and Software Engineering, East China Jiaotong University, No. 808 Shuanggang East Road, Changbei Open and Developing District, Nanchang 330013, China."
+        ]
+      },
+      {
+        "full_name": "Li, Guanghui",
+        "short_name": "Li G",
+        "identifiers": [
+          "0000-0001-6531-1166"
+        ],
+        "affiliations": [
+          "School of Information and Software Engineering, East China Jiaotong University, No. 808 Shuanggang East Road, Changbei Open and Developing District, Nanchang 330013, China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Nan",
+        "short_name": "Jiang N",
+        "identifiers": [],
+        "affiliations": [
+          "School of Information and Software Engineering, East China Jiaotong University, No. 808 Shuanggang East Road, Changbei Open and Developing District, Nanchang 330013, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Jiao",
+        "short_name": "Chen J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Laboratory Medicine, Nanchang Medical College, No. 689 Huiren Road, Xiaolan Open and Developing District, Nanchang 330052, China."
+        ]
+      },
+      {
+        "full_name": "Liang, Cheng",
+        "short_name": "Liang C",
+        "identifiers": [
+          "0000-0003-3832-0969"
+        ],
+        "affiliations": [
+          "School of Information Science and Engineering, Shandong Normal University, No. 1 University Road, Changqing District, Jinan 250358, China."
+        ]
+      },
+      {
+        "full_name": "Ding, Yijie",
+        "short_name": "Ding Y",
+        "identifiers": [
+          "0000-0003-2911-7643"
+        ],
+        "affiliations": [
+          "Yangtze Delta Region Institute (Quzhou), University of Electronic Science and Technology of China, No. 1 Chengdian Road, Kecheng District, Quzhou 324003, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Briefings in bioinformatics"
+    ],
+    "journal_abbrev": [
+      "Brief Bioinform"
+    ],
+    "pub_date": "2026 Sep 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/15 23:35",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42743970",
+      "38308869",
+      "41257887",
+      "42475469",
+      "40977265",
+      "40399812",
+      "40518950",
+      "32599617",
+      "40919912",
+      "41490311",
+      "41540516",
+      "39848362",
+      "40732144",
+      "40675306",
+      "40742755",
+      "37979206",
+      "42738668",
+      "38365583",
+      "42469931",
+      "40119464",
+      "41698566",
+      "40609014",
+      "42288985",
+      "42694419",
+      "22880014",
+      "39223474",
+      "38812466",
+      "40232907",
+      "41284811",
+      "40662818",
+      "42335477",
+      "42478599",
+      "42316773",
+      "39336761",
+      "42095236",
+      "38015872",
+      "41596767",
+      "41864877",
+      "40174317",
+      "41088209",
+      "40945830",
+      "40601253",
+      "41902287",
+      "42743972",
+      "42119874",
+      "40362328",
+      "41505730",
+      "37594313",
+      "37722310",
+      "38824535",
+      "42053777",
+      "42166265",
+      "39665266",
+      "42733795",
+      "39489606",
+      "39657158",
+      "40705403",
+      "39511177",
+      "39361250",
+      "41811851",
+      "39043654",
+      "39776277",
+      "41840728",
+      "42104958",
+      "40815964",
+      "40889693",
+      "32251507",
+      "38833802",
+      "41447498",
+      "41563056",
+      "41013188",
+      "23863604",
+      "39961610",
+      "39472986",
+      "41259184",
+      "40306096",
+      "42361127",
+      "40995863",
+      "42336024",
+      "40073281",
+      "30530227",
+      "41159381",
+      "40920534",
+      "41441912",
+      "41031876",
+      "39487084",
+      "40375059",
+      "41894214",
+      "40856523",
+      "41896185",
+      "40613943",
+      "40834555",
+      "42048356",
+      "42268774",
+      "42301884",
+      "39900608",
+      "41522042",
+      "38677014",
+      "39396972",
+      "41352986"
+    ],
+    "review": [
+      "42743970"
+    ],
+    "pmc": [
+      "13577672"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42743970/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/bib/article-lookup/doi/10.1093/bib/bbag508",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

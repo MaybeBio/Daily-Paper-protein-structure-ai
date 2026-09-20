@@ -1,0 +1,231 @@
+{
+  "identity": {
+    "pmid": "42742450",
+    "doi": "10.1002/pro.70792",
+    "title": "A dual gating mechanism controls target-strand cleavage in Cas12j: Implications for engineering efficient nickases."
+  },
+  "content": {
+    "abstract": "The rapid expansion of CRISPR technologies has unveiled a diverse repertoire of RNA-guided endonucleases, among them the compact Cas12j, which has emerged as a promising genome-editing tool. Cas12j cleaves the two DNA strands sequentially; however, the molecular mechanism that regulates this cleavage remains incompletely understood. Here, we combine extensive all-atom molecular dynamics simulations with well-tempered metadynamics, totaling approximately 175 mus of cumulative sampling, to investigate how target-strand accessibility to the catalytic site is controlled. Our results are in agreement with previous experimental observations, and furthermore reveal new mechanistic details that are difficult to access experimentally, namely a coordinated dual-barrier mechanism governing target-strand accessibility that can be fine-tuned through targeted mutations in the alpha7-helix and/or the REC2 loop. These findings provide a mechanistic basis for tuning Cas12j activity along the nuclease-to-nickase spectrum, supporting the rational engineering of genome-editing tools with controlled target-strand cleavage kinetics, and offering a path toward applications that bypass dependence on Non-Homologous End Joining (NHEJ) or Homology-Directed Repair (HDR).",
+    "keywords": [
+      "Cas12j",
+      "genome editing",
+      "metadynamics",
+      "molecular dynamics simulations",
+      "nickase engineering",
+      "target-strand cleavage kinetics"
+    ],
+    "mesh_terms": [
+      "Molecular Dynamics Simulation",
+      "*CRISPR-Associated Proteins/chemistry/metabolism/genetics",
+      "*Deoxyribonuclease I/chemistry/metabolism/genetics",
+      "*DNA/chemistry/metabolism",
+      "*Bacterial Proteins/chemistry/genetics/metabolism",
+      "Protein Engineering",
+      "Catalytic Domain",
+      "CRISPR-Cas Systems",
+      "*Endodeoxyribonucleases/chemistry/metabolism/genetics"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Karvounis, Ilias G",
+        "Daskalakis, Vangelis"
+      ],
+      "short_names": [
+        "Karvounis IG",
+        "Daskalakis V"
+      ],
+      "auids": [
+        "ORCID: 0009-0004-7686-614X",
+        "ORCID: 0000-0001-8870-0850"
+      ],
+      "affiliations": [
+        "Department of Chemical Engineering, School of Engineering, University of Patras, Patras, Greece.",
+        "Department of Chemical Engineering, School of Engineering, University of Patras, Patras, Greece.",
+        "Institute of Chemical Engineering Sciences (FORTH/ICE-HT), Foundation for Research and Technology Hellas, Patras, Greece."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Karvounis, Ilias G",
+        "short_name": "Karvounis IG",
+        "identifiers": [
+          "0009-0004-7686-614X"
+        ],
+        "affiliations": [
+          "Department of Chemical Engineering, School of Engineering, University of Patras, Patras, Greece."
+        ]
+      },
+      {
+        "full_name": "Daskalakis, Vangelis",
+        "short_name": "Daskalakis V",
+        "identifiers": [
+          "0000-0001-8870-0850"
+        ],
+        "affiliations": [
+          "Department of Chemical Engineering, School of Engineering, University of Patras, Patras, Greece.",
+          "Institute of Chemical Engineering Sciences (FORTH/ICE-HT), Foundation for Research and Technology Hellas, Patras, Greece."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Protein science : a publication of the Protein Society"
+    ],
+    "journal_abbrev": [
+      "Protein Sci"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/15 11:37",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42742450",
+      "41063348",
+      "34294706",
+      "42143446",
+      "39519677",
+      "34853172",
+      "41603736",
+      "38955179",
+      "41807709",
+      "38994558",
+      "24253446",
+      "38987539",
+      "28431230",
+      "40334424",
+      "41832076",
+      "30639240",
+      "39439303",
+      "26045557",
+      "42301915",
+      "41521661",
+      "39955288",
+      "34951457",
+      "40229905",
+      "27989439",
+      "34593942",
+      "28602637",
+      "40650969",
+      "26524520",
+      "39052360",
+      "24478335",
+      "42045650",
+      "39698811",
+      "24836556",
+      "41759295",
+      "30833733",
+      "25368186",
+      "40966510",
+      "38672502",
+      "40121070",
+      "32519675",
+      "40133266",
+      "40372912",
+      "32895556",
+      "39588774",
+      "33472057",
+      "32843348",
+      "41814651",
+      "27874072",
+      "31381206",
+      "40473912",
+      "32161115",
+      "24270795",
+      "31872209",
+      "32895548",
+      "38368461",
+      "34549979",
+      "33764415",
+      "32123105",
+      "39258555",
+      "33523494",
+      "23408850",
+      "29123204",
+      "38647045",
+      "25327456",
+      "32376630",
+      "42163774",
+      "28764328",
+      "32687187",
+      "37020030",
+      "25398355",
+      "39676682",
+      "27936513",
+      "27340770",
+      "40222509",
+      "34076237",
+      "27261202",
+      "34108490",
+      "27557689",
+      "40671523",
+      "39729268",
+      "40557869",
+      "40754777",
+      "28177771",
+      "39426279",
+      "39799585",
+      "39482449",
+      "31189177",
+      "28306506",
+      "41605928",
+      "25398340",
+      "32926383",
+      "41533584",
+      "29210569",
+      "39530229",
+      "42612455",
+      "27956611",
+      "36763662",
+      "29019352",
+      "28781234",
+      "30998096"
+    ],
+    "review": [
+      "42742450",
+      "42045650",
+      "41759295",
+      "31872209",
+      "27340770",
+      "27261202",
+      "28177771"
+    ],
+    "pmc": [
+      "13576916"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42742450/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.1002/pro.70792",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

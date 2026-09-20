@@ -1,0 +1,256 @@
+{
+  "identity": {
+    "pmid": "42753552",
+    "doi": "10.1016/j.foodchem.2026.151034",
+    "title": "Effects of plant polyphenols on water-holding capacity and quality of frozen bighead carp (Hypophthalmichthys nobilis) fillets: insights from molecular docking."
+  },
+  "content": {
+    "abstract": "This study evaluated dihydromyricetin (DMY), tannic acid (Tan), and resveratrol (Res) as natural cryoprotectants for bighead carp (Hypophthalmichthys nobilis) fillets during frozen storage (-20  degrees C, 8 weeks). Fillets treated with 0.1% (w/w) polyphenols were compared with a water control and a commercial sucrose-sorbitol cryoprotectant. Changes in water migration, water-holding capacity, protein and lipid oxidation, protein conformation, odor profiles, and sensory quality were systematically investigated, together with molecular docking analysis. Frozen storage induced progressive conversion of immobilized water to free water, accompanied by increased moisture loss and oxidative deterioration, whereas polyphenol treatments significantly mitigated these effects. Res restricted free-water formation and preserved water-holding capacity the most effectively, while Tan exhibited the strongest inhibition of lipid oxidation. Both Res and Tan better maintained myofibrillar protein secondary and tertiary structures and sensory quality during prolonged storage, whereas DMY mainly exerted protective effects at the early storage stage. Molecular docking analysis demonstrated favorable binding of all three polyphenols to beta-actin, with docking scores of -8.0 kcal/mol for Tan, -6.5 kcal/mol for DMY, and - 5.5 kcal/mol for Res, indicating distinct protein interaction modes. Overall, 0.1% resveratrol and tannic acid best preserved water-holding capacity and inhibited oxidation in frozen bighead carp fillets, with molecular docking revealing stable polyphenol-beta-actin interactions. These polyphenols show promise as targeted cryoprotectants for frozen fish.",
+    "keywords": [
+      "Bighead carp",
+      "Frozen storage",
+      "Polyphenols",
+      "Protein oxidation",
+      "Water-holding capacity"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liu, Chenxi",
+        "Wang, Yiming",
+        "Yu, Qinye",
+        "Mubango, Elliot",
+        "Luo, Yongkang",
+        "Tan, Yuqing",
+        "Hong, Hui"
+      ],
+      "short_names": [
+        "Liu C",
+        "Wang Y",
+        "Yu Q",
+        "Mubango E",
+        "Luo Y",
+        "Tan Y",
+        "Hong H"
+      ],
+      "auids": [],
+      "affiliations": [
+        "College of Food Science and Nutritional Engineering, China Agricultural University, Beijing 100083, China.",
+        "College of Food Science and Nutritional Engineering, China Agricultural University, Beijing 100083, China.",
+        "College of Food Science and Nutritional Engineering, China Agricultural University, Beijing 100083, China.",
+        "College of Food Science and Nutritional Engineering, China Agricultural University, Beijing 100083, China.",
+        "College of Food Science and Nutritional Engineering, China Agricultural University, Beijing 100083, China.",
+        "College of Food Science and Nutritional Engineering, China Agricultural University, Beijing 100083, China.",
+        "College of Food Science and Nutritional Engineering, China Agricultural University, Beijing 100083, China. Electronic address: hhong@cau.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Liu, Chenxi",
+        "short_name": "Liu C",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science and Nutritional Engineering, China Agricultural University, Beijing 100083, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yiming",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science and Nutritional Engineering, China Agricultural University, Beijing 100083, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Qinye",
+        "short_name": "Yu Q",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science and Nutritional Engineering, China Agricultural University, Beijing 100083, China."
+        ]
+      },
+      {
+        "full_name": "Mubango, Elliot",
+        "short_name": "Mubango E",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science and Nutritional Engineering, China Agricultural University, Beijing 100083, China."
+        ]
+      },
+      {
+        "full_name": "Luo, Yongkang",
+        "short_name": "Luo Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science and Nutritional Engineering, China Agricultural University, Beijing 100083, China."
+        ]
+      },
+      {
+        "full_name": "Tan, Yuqing",
+        "short_name": "Tan Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science and Nutritional Engineering, China Agricultural University, Beijing 100083, China."
+        ]
+      },
+      {
+        "full_name": "Hong, Hui",
+        "short_name": "Hong H",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science and Nutritional Engineering, China Agricultural University, Beijing 100083, China. Electronic address: hhong@cau.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Food chemistry"
+    ],
+    "journal_abbrev": [
+      "Food Chem"
+    ],
+    "pub_date": "2026 Sep 11",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/17 23:34",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42753552",
+      "34788946",
+      "37815500",
+      "36808024",
+      "34980404",
+      "40413954",
+      "34549430",
+      "37708574",
+      "32208187",
+      "37672946",
+      "36603476",
+      "36192913",
+      "34207066",
+      "28069130",
+      "35864589",
+      "37156139",
+      "41966366",
+      "39858788",
+      "38517154",
+      "25987993",
+      "34829044",
+      "35564040",
+      "34829116",
+      "37986513",
+      "35917781",
+      "35790392",
+      "42737266",
+      "31260976",
+      "31027804",
+      "24300421",
+      "26555873",
+      "42511183",
+      "27889136",
+      "39942035",
+      "42673650",
+      "35347630",
+      "30774047",
+      "33809559",
+      "35159481",
+      "32045816",
+      "37826883",
+      "35954080",
+      "42157956",
+      "30166183",
+      "40450855",
+      "42631488",
+      "33565630",
+      "31963757",
+      "37509833",
+      "37413834",
+      "34641059",
+      "42275710",
+      "40941396",
+      "41812944",
+      "30172121",
+      "41674698",
+      "40752440",
+      "18460125",
+      "37818336",
+      "40037220",
+      "37513304",
+      "27282659",
+      "27190107",
+      "36058394",
+      "39033638",
+      "24769211",
+      "29541871",
+      "42296657",
+      "40334485",
+      "35460082",
+      "35159506",
+      "42169276",
+      "35181086",
+      "34740680",
+      "32466938",
+      "40409087",
+      "39031689",
+      "27004119",
+      "35311168",
+      "21783964",
+      "40002101",
+      "36832840",
+      "40737940",
+      "25829597",
+      "41767659",
+      "34447285",
+      "29496578",
+      "34264653",
+      "41465042",
+      "30704486",
+      "37254320",
+      "36655067",
+      "41067352",
+      "32209398",
+      "34204538",
+      "41703848",
+      "16788955",
+      "42637454",
+      "36650660",
+      "38795696"
+    ],
+    "review": [
+      "42753552"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0308-8146(26)03194-8",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CA8-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

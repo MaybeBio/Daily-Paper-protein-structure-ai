@@ -1,0 +1,294 @@
+{
+  "identity": {
+    "pmid": "42748701",
+    "doi": "10.1016/j.foodchem.2026.151093",
+    "title": "Plant-based yogurt systems: Mechanistic links from fermentability to quality and bioactivity."
+  },
+  "content": {
+    "abstract": "Plant-based yogurt systems are promising dairy alternatives and carriers of plant-derived bioactives, but their quality is difficult to predict because plant matrices differ in fermentable substrates, buffering capacity, protein structure, polysaccharides, lipids, and phytochemicals. This review integrates recent evidence within a composition-process-microstructure-quality-bioactivity framework. It explains how raw materials, starter-matrix compatibility, fermentation behavior, antinutritional factors, protein-polyphenol interactions, and processing-induced structural changes jointly regulate acidification, gel formation, water-holding capacity, texture, sensory quality, digestibility, and functional readouts. It further discusses omics-guided starters, enzyme-assisted modification, artificial intelligence prediction, emerging processing technologies, and microbiota-oriented personalization as tools for matrix-adapted design. Overall, this review proposes a mechanistic route for developing fermented plant foods with improved technological robustness, sensory quality, nutritional functionality, and individualized relevance.",
+    "keywords": [
+      "Acidification kinetics",
+      "Bioactivity",
+      "Fermentability",
+      "Gel microstructure",
+      "Plant-based yogurt",
+      "Sensory quality",
+      "Water-holding capacity"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yang, Jing",
+        "Zhang, Linqing",
+        "Kuang, Yingrong",
+        "Wu, Siyu",
+        "Huang, Hui",
+        "Song, Jiajia"
+      ],
+      "short_names": [
+        "Yang J",
+        "Zhang L",
+        "Kuang Y",
+        "Wu S",
+        "Huang H",
+        "Song J"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Food Science and Engineering, Chongqing Technology and Business University, Chongqing 400067, China. Electronic address: jyang@ctbu.edu.cn.",
+        "School of Food Science and Engineering, Chongqing Technology and Business University, Chongqing 400067, China.",
+        "School of Food Science and Engineering, Chongqing Technology and Business University, Chongqing 400067, China.",
+        "School of Food Science and Engineering, Chongqing Technology and Business University, Chongqing 400067, China.",
+        "School of Food Science and Engineering, Chongqing Technology and Business University, Chongqing 400067, China.",
+        "College of Food Science, Southwest University, Chongqing 400715, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yang, Jing",
+        "short_name": "Yang J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Food Science and Engineering, Chongqing Technology and Business University, Chongqing 400067, China. Electronic address: jyang@ctbu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Zhang, Linqing",
+        "short_name": "Zhang L",
+        "identifiers": [],
+        "affiliations": [
+          "School of Food Science and Engineering, Chongqing Technology and Business University, Chongqing 400067, China."
+        ]
+      },
+      {
+        "full_name": "Kuang, Yingrong",
+        "short_name": "Kuang Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Food Science and Engineering, Chongqing Technology and Business University, Chongqing 400067, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Siyu",
+        "short_name": "Wu S",
+        "identifiers": [],
+        "affiliations": [
+          "School of Food Science and Engineering, Chongqing Technology and Business University, Chongqing 400067, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Hui",
+        "short_name": "Huang H",
+        "identifiers": [],
+        "affiliations": [
+          "School of Food Science and Engineering, Chongqing Technology and Business University, Chongqing 400067, China."
+        ]
+      },
+      {
+        "full_name": "Song, Jiajia",
+        "short_name": "Song J",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science, Southwest University, Chongqing 400715, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Food chemistry"
+    ],
+    "journal_abbrev": [
+      "Food Chem"
+    ],
+    "pub_date": "2026 Sep 11",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/16 23:34",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42748701",
+      "41672347",
+      "42212401",
+      "39369892",
+      "42637402",
+      "42316775",
+      "40989777",
+      "42587951",
+      "38973295",
+      "42131236",
+      "41074290",
+      "41988476",
+      "41566704",
+      "42511253",
+      "35053910",
+      "37692397",
+      "42409488",
+      "41976463",
+      "41596998",
+      "42641869",
+      "42276005",
+      "41544795",
+      "42075073",
+      "42680325",
+      "42637320",
+      "27499669",
+      "33546307",
+      "41294550",
+      "41425626",
+      "42357432",
+      "39615362",
+      "42563215",
+      "42387159",
+      "41704311",
+      "42061157",
+      "35885256",
+      "41937424",
+      "39909732",
+      "41745046",
+      "41794477",
+      "40519121",
+      "41165562",
+      "37780240",
+      "41235471",
+      "42637385",
+      "40306433",
+      "37589296",
+      "38154284",
+      "42439278",
+      "40285465",
+      "40361689",
+      "42475469",
+      "42358314",
+      "42738998",
+      "41709844",
+      "34125502",
+      "42341715",
+      "37187980",
+      "37689869",
+      "42603122",
+      "42737215",
+      "37971866",
+      "41406563",
+      "42280381",
+      "42563586",
+      "42436039",
+      "42643166",
+      "41271321",
+      "42134119",
+      "35327297",
+      "35638330",
+      "31131443",
+      "41075646",
+      "42738762",
+      "42635687",
+      "42722071",
+      "39733874",
+      "39624581",
+      "42511204",
+      "41861950",
+      "42637418",
+      "38808161",
+      "42600296",
+      "42439303",
+      "37203992",
+      "42270271",
+      "36981148",
+      "41895971",
+      "42398726",
+      "42632732",
+      "38939910",
+      "42144148",
+      "42011597",
+      "39723078",
+      "42285487",
+      "42494182",
+      "42692715",
+      "42111325",
+      "41149433",
+      "36307239"
+    ],
+    "review": [
+      "42748701",
+      "41672347",
+      "42212401",
+      "39369892",
+      "42637402",
+      "42316775",
+      "42587951",
+      "38973295",
+      "41988476",
+      "41566704",
+      "42511253",
+      "42409488",
+      "41596998",
+      "42276005",
+      "42637320",
+      "33546307",
+      "42357432",
+      "42563215",
+      "42387159",
+      "41704311",
+      "42061157",
+      "41937424",
+      "39909732",
+      "40519121",
+      "41235471",
+      "42637385",
+      "38154284",
+      "42439278",
+      "42358314",
+      "42738998",
+      "34125502",
+      "42341715",
+      "37187980",
+      "42603122",
+      "42737215",
+      "42436039",
+      "35327297",
+      "41075646",
+      "42738762",
+      "42635687",
+      "42511204",
+      "41861950",
+      "42600296",
+      "37203992",
+      "42270271",
+      "41895971",
+      "42632732",
+      "42144148",
+      "42011597",
+      "42494182",
+      "42692715",
+      "42111325",
+      "41149433"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0308-8146(26)03253-X",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

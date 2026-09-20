@@ -1,0 +1,98 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.11.750891",
+  "title": "Calibrated structural homology transfer yields putative molecular functions for domains of unknown function in four model proteomes",
+  "doi": "10.64898/2026.09.11.750891",
+  "abstract": "Improvements in computational protein structure prediction have enabled searches for remote homologs of proteins whose molecular function remain unknown. However, the reliability of functional annotations from such searches has not been systematically quantified. In this study, we assembled a time-split benchmark from Pfam families annotated as domains of unknown function (DUFs) in Pfam 28.0 and were subsequently assigned a function in the current release (Pfam 38.0). These retrospective-DUFs provide ground truth for assessing functional annotation from remote homology searches. In our benchmark analysis, we paired retrospective-DUFs with a difficulty-matched arm from known domains to distinguish query difficulty from the method’s performance. Across four model proteomes (yeast, C. elegans , Drosophila , and mice), Foldseek searches against AlphaFold/Swiss-Prot, PDB100, and CATH50 recovered the later-assigned function for 15.9% of retrospective DUF queries, compared with 30.1% of matched known-domain queries, after masking for self-family and self-clan level hits to remove circularity. At a fixed confidence cut-off (qTM ≥ 0.5), 55.4% of informative calls on retrospective DUFs were incorrect, establishing an error model for prospective use. Furthermore, in our comparison of tools for homology searches, Foldseek outperformed MMseq2-based sequence search but was not statistically separable from the ESM-2 protein language model embedding baseline. Applying the calibrated structural homology search pipeline to 296 currently unannotated DUF queries in Pfam 38.0 yielded 50 confident, specific functional assignments. We provide the benchmark and ranked candidates as a resource to facilitate functional studies.",
+  "authors": [
+    "Pannu JS",
+    "Green K",
+    "Vedanayagam J"
+  ],
+  "published_date": "2026-09-16",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.11.750891",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.11.750891.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1320789",
+    "raw_record": {
+      "id": "PPR1320789",
+      "source": "PPR",
+      "doi": "10.64898/2026.09.11.750891",
+      "title": "Calibrated structural homology transfer yields putative molecular functions for domains of unknown function in four model proteomes",
+      "authorString": "Pannu JS, Green K, Vedanayagam J.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Pannu JS",
+            "lastName": "Pannu",
+            "firstName": "Jodh Singh",
+            "initials": "JS"
+          },
+          {
+            "fullName": "Green K",
+            "lastName": "Green",
+            "firstName": "Kendall",
+            "initials": "K"
+          },
+          {
+            "fullName": "Vedanayagam J",
+            "lastName": "Vedanayagam",
+            "firstName": "Jeffrey",
+            "initials": "J"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Improvements in computational protein structure prediction have enabled searches for remote homologs of proteins whose molecular function remain unknown. However, the reliability of functional annotations from such searches has not been systematically quantified. In this study, we assembled a time-split benchmark from Pfam families annotated as domains of unknown function (DUFs) in Pfam 28.0 and were subsequently assigned a function in the current release (Pfam 38.0). These retrospective-DUFs provide ground truth for assessing functional annotation from remote homology searches. In our benchmark analysis, we paired retrospective-DUFs with a difficulty-matched arm from known domains to distinguish query difficulty from the method’s performance. Across four model proteomes (yeast,  C. elegans ,  Drosophila , and mice), Foldseek searches against AlphaFold/Swiss-Prot, PDB100, and CATH50 recovered the later-assigned function for 15.9% of retrospective DUF queries, compared with 30.1% of matched known-domain queries, after masking for self-family and self-clan level hits to remove circularity. At a fixed confidence cut-off (qTM ≥ 0.5), 55.4% of informative calls on retrospective DUFs were incorrect, establishing an error model for prospective use. Furthermore, in our comparison of tools for homology searches, Foldseek outperformed MMseq2-based sequence search but was not statistically separable from the ESM-2 protein language model embedding baseline. Applying the calibrated structural homology search pipeline to 296 currently unannotated DUF queries in Pfam 38.0 yielded 50 confident, specific functional assignments. We provide the benchmark and ranked candidates as a resource to facilitate functional studies.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.09.11.750891"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-09-17",
+      "firstPublicationDate": "2026-09-16",
+      "firstIndexDate": "2026-09-17",
+      "hasEvaluations": "N"
+    }
+  }
+}

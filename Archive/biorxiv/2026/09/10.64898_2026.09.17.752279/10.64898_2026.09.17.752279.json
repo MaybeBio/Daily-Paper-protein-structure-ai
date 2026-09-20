@@ -1,0 +1,112 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.17.752279",
+  "title": "Conditional Generation And Inpainting Of Non-coding RNA Sequences With Masked Discrete Diffusion",
+  "doi": "10.64898/2026.09.17.752279",
+  "abstract": "<h4>Design: </h4> ing functional non-coding RNA (ncRNA) is fundamental to synthetic biology and RNA therapeutics, yet generative modelling for ncRNA has received far less attention than protein design. We present RNA-MDLM, a framework that extends Masked Discrete Language Models (MDLM) to the conditional generation and inpainting of ncRNA. We make two additions: first, conditioning on RNA-type representations from a pretrained RNA language model, and second, a modified classifier-free guidance scheme (Mod-CFG) that interpolates among conditional, unconditional, and random-sequence probabilities for better control. We also introduce REPAINT GAMES, a benchmark of seven structured masking tasks to probe a model's performance on sequence patterns, structural motifs, and base-pairing per RNA type. Our model is trained on 4.6 million ncRNA sequences spanning six evaluable classes. It produces sequences whose composition and folding statistics closely match natural RNAs. Through extensive ablation studies, we find that the embedding-conditioned model achieves the best balance of structural fidelity, biological novelty, and inpainting accuracy, and its class label steers generation far more strongly than a plain label baseline. We further show that a model trained on a smaller, class-balanced subset can appear more realistic mainly by copying abundant natural sequences rather than learning their rules. We also benchmark against a masked-diffusion model and a family-specific VAE on ribozyme families, and find that a type-conditioned model like ours and a per-family model are solving different tasks, which must be accounted for in a fair comparison. We will release the code and the trained models.",
+  "authors": [
+    "Upadhyay U",
+    "Dai C",
+    "Herold J",
+    "Sato K",
+    "Schug A"
+  ],
+  "published_date": "2026-09-18",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.17.752279",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.17.752279.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1322844",
+    "raw_record": {
+      "id": "PPR1322844",
+      "source": "PPR",
+      "doi": "10.64898/2026.09.17.752279",
+      "title": "Conditional Generation And Inpainting Of Non-coding RNA Sequences With Masked Discrete Diffusion",
+      "authorString": "Upadhyay U, Dai C, Herold J, Sato K, Schug A.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Upadhyay U",
+            "lastName": "Upadhyay",
+            "firstName": "Utkarsh",
+            "initials": "U"
+          },
+          {
+            "fullName": "Dai C",
+            "lastName": "Dai",
+            "firstName": "Chuankai",
+            "initials": "C"
+          },
+          {
+            "fullName": "Herold J",
+            "lastName": "Herold",
+            "firstName": "Julian",
+            "initials": "J"
+          },
+          {
+            "fullName": "Sato K",
+            "lastName": "Sato",
+            "firstName": "Kengo",
+            "initials": "K"
+          },
+          {
+            "fullName": "Schug A",
+            "lastName": "Schug",
+            "firstName": "Alexander",
+            "initials": "A"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "<h4>Design: </h4> ing functional non-coding RNA (ncRNA) is fundamental to synthetic biology and RNA therapeutics, yet generative modelling for ncRNA has received far less attention than protein design. We present RNA-MDLM, a framework that extends Masked Discrete Language Models (MDLM) to the conditional generation and inpainting of ncRNA. We make two additions: first, conditioning on RNA-type representations from a pretrained RNA language model, and second, a modified classifier-free guidance scheme (Mod-CFG) that interpolates among conditional, unconditional, and random-sequence probabilities for better control. We also introduce REPAINT GAMES, a benchmark of seven structured masking tasks to probe a model's performance on sequence patterns, structural motifs, and base-pairing per RNA type. Our model is trained on 4.6 million ncRNA sequences spanning six evaluable classes. It produces sequences whose composition and folding statistics closely match natural RNAs. Through extensive ablation studies, we find that the embedding-conditioned model achieves the best balance of structural fidelity, biological novelty, and inpainting accuracy, and its class label steers generation far more strongly than a plain label baseline. We further show that a model trained on a smaller, class-balanced subset can appear more realistic mainly by copying abundant natural sequences rather than learning their rules. We also benchmark against a masked-diffusion model and a family-specific VAE on ribozyme families, and find that a type-conditioned model like ours and a per-family model are solving different tasks, which must be accounted for in a fair comparison. We will release the code and the trained models.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.09.17.752279"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-09-20",
+      "firstPublicationDate": "2026-09-18",
+      "firstIndexDate": "2026-09-20",
+      "hasEvaluations": "N"
+    }
+  }
+}

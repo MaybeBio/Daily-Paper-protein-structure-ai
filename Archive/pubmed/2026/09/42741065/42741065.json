@@ -1,0 +1,256 @@
+{
+  "identity": {
+    "pmid": "42741065",
+    "doi": "10.3389/frai.2026.1844189",
+    "title": "Protein language model-generated enzyme sequences exhibit high stability in molecular dynamics simulations."
+  },
+  "content": {
+    "abstract": "INTRODUCTION: Large Language Models (LLMs) have transformed protein engineering by capturing complex sequence patterns from large datasets, enabling applications such as structure prediction and functional annotation. Finenzyme applies conditional transfer learning to generate biologically plausible enzyme sequences conditioned on Enzyme Commission (EC) numbers. METHODS: In this work, we extended Finenzyme with an in silico selection pipeline that first identifies generated sequences most likely to preserve or enhance the functional characteristics of specific EC categories and then evaluates them through molecular dynamics (MD) simulations to assess their structural stability and conformational dynamics. RESULTS: MD simulations of 236 Finenzyme-generated enzymes across four EC classes (59 micros total simulation time) confirmed high structural stability. Across all enzyme classes, 74-95% of the models maintained stable tertiary structures and correct folding throughout the trajectories, with 195 out of 236 structures (82.6%) exhibiting sustained stability. DISCUSSION: By combining conditional pre-trained language model fine-tuning with dynamic structural evaluation, our framework advances beyond static sequence-based predictions to address the structural and functional dimensions of enzyme behavior, key aspects for both biomedical and industrial applications.",
+    "keywords": [
+      "conditional transfer learning",
+      "enzyme sequence generation",
+      "molecular dynamics",
+      "protein language models",
+      "transformers"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Fassi, Enrico Mario Alessandro",
+        "Nicolini, Marco",
+        "Saitto, Emanuele",
+        "Valentini, Giorgio",
+        "Casiraghi, Elena",
+        "Grazioso, Giovanni"
+      ],
+      "short_names": [
+        "Fassi EMA",
+        "Nicolini M",
+        "Saitto E",
+        "Valentini G",
+        "Casiraghi E",
+        "Grazioso G"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Dipartimento di Scienze Farmaceutiche, Universita degli Studi di Milano, Milan, Italy.",
+        "AnacletoLab - Dipartimento di Informatica, Universita degli Studi di Milano, Milan, Italy.",
+        "AnacletoLab - Dipartimento di Informatica, Universita degli Studi di Milano, Milan, Italy.",
+        "AnacletoLab - Dipartimento di Informatica, Universita degli Studi di Milano, Milan, Italy.",
+        "ELLIS - European Laboratory for Learning and Intelligent Systems, Milan, Italy.",
+        "AnacletoLab - Dipartimento di Informatica, Universita degli Studi di Milano, Milan, Italy.",
+        "ELLIS - European Laboratory for Learning and Intelligent Systems, Milan, Italy.",
+        "Dipartimento di Scienze Farmaceutiche, Universita degli Studi di Milano, Milan, Italy."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Fassi, Enrico Mario Alessandro",
+        "short_name": "Fassi EMA",
+        "identifiers": [],
+        "affiliations": [
+          "Dipartimento di Scienze Farmaceutiche, Università degli Studi di Milano, Milan, Italy."
+        ]
+      },
+      {
+        "full_name": "Nicolini, Marco",
+        "short_name": "Nicolini M",
+        "identifiers": [],
+        "affiliations": [
+          "AnacletoLab - Dipartimento di Informatica, Università degli Studi di Milano, Milan, Italy."
+        ]
+      },
+      {
+        "full_name": "Saitto, Emanuele",
+        "short_name": "Saitto E",
+        "identifiers": [],
+        "affiliations": [
+          "AnacletoLab - Dipartimento di Informatica, Università degli Studi di Milano, Milan, Italy."
+        ]
+      },
+      {
+        "full_name": "Valentini, Giorgio",
+        "short_name": "Valentini G",
+        "identifiers": [],
+        "affiliations": [
+          "AnacletoLab - Dipartimento di Informatica, Università degli Studi di Milano, Milan, Italy.",
+          "ELLIS - European Laboratory for Learning and Intelligent Systems, Milan, Italy."
+        ]
+      },
+      {
+        "full_name": "Casiraghi, Elena",
+        "short_name": "Casiraghi E",
+        "identifiers": [],
+        "affiliations": [
+          "AnacletoLab - Dipartimento di Informatica, Università degli Studi di Milano, Milan, Italy.",
+          "ELLIS - European Laboratory for Learning and Intelligent Systems, Milan, Italy."
+        ]
+      },
+      {
+        "full_name": "Grazioso, Giovanni",
+        "short_name": "Grazioso G",
+        "identifiers": [],
+        "affiliations": [
+          "Dipartimento di Scienze Farmaceutiche, Università degli Studi di Milano, Milan, Italy."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in artificial intelligence"
+    ],
+    "journal_abbrev": [
+      "Front Artif Intell"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/15 11:37",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42741065",
+      "42475469",
+      "40235640",
+      "23912807",
+      "40016653",
+      "42419186",
+      "41576089",
+      "41539675",
+      "40894558",
+      "39464109",
+      "40027759",
+      "42218716",
+      "15959866",
+      "42450193",
+      "28239489",
+      "40465350",
+      "42657169",
+      "18179702",
+      "40627556",
+      "39998110",
+      "42146638",
+      "26101839",
+      "12596268",
+      "40171777",
+      "42711316",
+      "41801982",
+      "19754142",
+      "11286560",
+      "38875593",
+      "41872407",
+      "41742038",
+      "38778425",
+      "40314227",
+      "37964216",
+      "41056561",
+      "42059635",
+      "40849052",
+      "29433424",
+      "40386570",
+      "41561863",
+      "41542080",
+      "41544104",
+      "41268951",
+      "40943500",
+      "25888481",
+      "20017540",
+      "42372160",
+      "38869513",
+      "41082689",
+      "37241789",
+      "29441125",
+      "42120797",
+      "20955581",
+      "39352899",
+      "41761014",
+      "30241466",
+      "42234930",
+      "30298393",
+      "42583324",
+      "40161645",
+      "29667836",
+      "42163392",
+      "42412831",
+      "41326937",
+      "26042329",
+      "39000719",
+      "39349594",
+      "42254291",
+      "40685718",
+      "41867810",
+      "42341298",
+      "40825424",
+      "16852728",
+      "40066704",
+      "38430110",
+      "29276038",
+      "39544090",
+      "40264953",
+      "41348585",
+      "42239143",
+      "39786555",
+      "40815276",
+      "41641521",
+      "40709741",
+      "41254233",
+      "41310253",
+      "27337644",
+      "40791336",
+      "29053272",
+      "40067153",
+      "41352986",
+      "26487681",
+      "42608697",
+      "42022779",
+      "33256744",
+      "40945000",
+      "41757065",
+      "38657567",
+      "41040270",
+      "39705058"
+    ],
+    "review": [
+      "42741065",
+      "42419186",
+      "37241789",
+      "41326937",
+      "39000719",
+      "40264953"
+    ],
+    "pmc": [
+      "13572599"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42741065/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/frai.2026.1844189",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "identity": {
+    "pmid": "42737266",
+    "doi": "10.3390/foods15173022",
+    "title": "Mechanism of Malondialdehyde-Induced Deterioration in Water-Holding Capacity of Bovine Myofibrillar Proteins: Insights from Structural Modifications and Molecular Docking."
+  },
+  "content": {
+    "abstract": "Lipid peroxidation products can induce oxidative modification of myofibrillar proteins (MPs), thereby compromising their water-holding capacity (WHC), but the underlying molecular mechanism remains unclear. This study systematically investigated the mechanism of MDA-induced WHC deterioration in bovine myofibrillar proteins (MPs) using multispectral techniques, redox proteomics, and molecular docking. Results demonstrated that low MDA concentrations caused relatively limited water release. Structural alterations became evident at 2 mM, whereas pronounced WHC deterioration occurred at 5-10 mM. At these higher concentrations, centrifugal loss increased by up to 48.80%, and immobilized water migrated to free water (p < 0.05). This functional decline was accompanied by substantial structural remodeling, characterized by a transition from alpha-helix to beta-sheet conformations, decreased hydrogen bonding, and enhanced disulfide-associated cross-linking. Furthermore, redox proteomics identified 581 differential cysteine redox sites, including 343 increased and 238 decreased sites. Among these sites, 57 markedly decreased sites associated with myofibrillar and cytoskeletal proteins were further characterized, including sites in actin, alpha-actinin, myosin, and LIM-domain-containing proteins. Motif analysis further revealed a characteristic cysteine-rich C-x-x-C-x-C sequence pattern surrounding responsive oxidation sites. Molecular docking of 12 representative cysteine sites supported the spatial feasibility of MDA pre-association near these cysteine-containing regions, with actin C258 exhibiting the most negative docking score among the examined sites (-3.3 kcal/mol). These findings reveal that cysteine redox remodeling was associated with structural reorganization and increased water mobility, thereby contributing to WHC deterioration.",
+    "keywords": [
+      "cysteine",
+      "lipid oxidation products",
+      "oxidation modification",
+      "protein structure",
+      "water mobility"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, He",
+        "Fang, Zhenyu",
+        "Wu, Qin",
+        "Liu, Dunhua",
+        "Liu, Jun",
+        "Bu, Ningxia"
+      ],
+      "short_names": [
+        "Li H",
+        "Fang Z",
+        "Wu Q",
+        "Liu D",
+        "Liu J",
+        "Bu N"
+      ],
+      "auids": [],
+      "affiliations": [
+        "College of Life Sciences, Hubei Normal University, Huangshi 435002, China.",
+        "College of Food Science and Engineering, Hainan University, Haikou 570228, China.",
+        "College of Life Sciences, Hubei Normal University, Huangshi 435002, China.",
+        "College of Life Sciences, Hubei Normal University, Huangshi 435002, China.",
+        "College of Fisheries, Huazhong Agricultural University, Wuhan 430070, China.",
+        "College of Food Science and Engineering, Ningxia University, Yinchuan 750021, China.",
+        "College of Life Sciences, Hubei Normal University, Huangshi 435002, China.",
+        "Ningxia Veterinary Drugs and Fodder Inspection Institute, Yinchuan 750011, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, He",
+        "short_name": "Li H",
+        "identifiers": [],
+        "affiliations": [
+          "College of Life Sciences, Hubei Normal University, Huangshi 435002, China.",
+          "College of Food Science and Engineering, Hainan University, Haikou 570228, China."
+        ]
+      },
+      {
+        "full_name": "Fang, Zhenyu",
+        "short_name": "Fang Z",
+        "identifiers": [],
+        "affiliations": [
+          "College of Life Sciences, Hubei Normal University, Huangshi 435002, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Qin",
+        "short_name": "Wu Q",
+        "identifiers": [],
+        "affiliations": [
+          "College of Life Sciences, Hubei Normal University, Huangshi 435002, China.",
+          "College of Fisheries, Huazhong Agricultural University, Wuhan 430070, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Dunhua",
+        "short_name": "Liu D",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food Science and Engineering, Ningxia University, Yinchuan 750021, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Jun",
+        "short_name": "Liu J",
+        "identifiers": [],
+        "affiliations": [
+          "College of Life Sciences, Hubei Normal University, Huangshi 435002, China."
+        ]
+      },
+      {
+        "full_name": "Bu, Ningxia",
+        "short_name": "Bu N",
+        "identifiers": [],
+        "affiliations": [
+          "Ningxia Veterinary Drugs and Fodder Inspection Institute, Yinchuan 750011, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Foods (Basel, Switzerland)"
+    ],
+    "journal_abbrev": [
+      "Foods"
+    ],
+    "pub_date": "2026 Aug 27",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/15 05:36",
+    "fetched_at": "2026-09-20 07:27:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42737266",
+      "39850052",
+      "40504594",
+      "33191014",
+      "34904892",
+      "34342990",
+      "42264248",
+      "38943955",
+      "42644954",
+      "35196593",
+      "34788946",
+      "32018081",
+      "36620871",
+      "40361696",
+      "41411965",
+      "40356121",
+      "42637461",
+      "24406430",
+      "41205391",
+      "30797328",
+      "42386217",
+      "32889199",
+      "40807652",
+      "37397215",
+      "41267313",
+      "33610837",
+      "38850642",
+      "39848043",
+      "38599105",
+      "39150724",
+      "37418875",
+      "33856047",
+      "36211750",
+      "42008892",
+      "37688549",
+      "41312786",
+      "41754211",
+      "38332629",
+      "37306543",
+      "42511183",
+      "37207606",
+      "33647688",
+      "38144764",
+      "21535816",
+      "36466406",
+      "25749308",
+      "38640525",
+      "31066054",
+      "39565642",
+      "36286134",
+      "26916602",
+      "41992468",
+      "39123603",
+      "42721714",
+      "32184366",
+      "26593583",
+      "41163238",
+      "40939385",
+      "41365404",
+      "39427800",
+      "39974540",
+      "41819920",
+      "38129009",
+      "10508394",
+      "37703979",
+      "37708574",
+      "9390171",
+      "26041172",
+      "35892761",
+      "10525413",
+      "10926853",
+      "38144868",
+      "28919527",
+      "17243701",
+      "39418010",
+      "42576325",
+      "38295569",
+      "36737899",
+      "35848392",
+      "32187565",
+      "26009757",
+      "38703740",
+      "40832507",
+      "37238862",
+      "37986748",
+      "41957686",
+      "41067352",
+      "42511168",
+      "41763430",
+      "42424737",
+      "35856564",
+      "34252620",
+      "28873532",
+      "42205569",
+      "40413954",
+      "38701732",
+      "41861734",
+      "31508592",
+      "42631488",
+      "35640337"
+    ],
+    "review": [
+      "42737266",
+      "39150724"
+    ],
+    "pmc": [
+      "13564944"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=foods15173022",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42737266/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

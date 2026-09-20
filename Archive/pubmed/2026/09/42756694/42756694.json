@@ -1,0 +1,205 @@
+{
+  "identity": {
+    "pmid": "42756694",
+    "doi": "10.1021/acsomega.6c03088",
+    "title": "Computational Design of RNA Aptamers Targeting Oncogenic miR-10b Using T‑SELEX and Molecular Dynamics-Based Stability Metrics."
+  },
+  "content": {
+    "abstract": "Aptamers are versatile single-stranded nucleic acids with high specificity and stability, making them ideal for targeting challenging biomolecules. Their structural flexibility enables selective recognition of nonprotein targets such as microRNAs (miRNAs). Among these, miR-10b plays a pivotal role in cancer progression and metastasis through its oncogenic 5p and 3p arms. We propose designing aptamers specifically targeting miR-10b through a computational framework to enable precise and efficient regulation of aberrant miRNA activity in cancer. Herein, we introduce a multiscale computational workflow built on the T_SELEX framework, integrating sequence generation, folding of secondary and tertiary structure prediction, then virtual screening, quantum mechanical (QM) calculations, molecular dynamics (MD) simulations, and MM-GBSA analysis for the design and evaluation of RNA aptamer candidates targeting pre-miR-10b and its mature 5p and 3p arms. This robust workflow enables large-scale identification and structural evaluation of computationally promising RNA aptamer candidates for RNA-targeted drug discovery. In this study, a library of 1100 22-mer aptamers was virtually screened, with heatmap and interaction energy analyses revealing strong affinities toward hsa-miR-25-5p. Molecular docking identified aptamer557 as the top binder to miR-10b-3p with -545.96 docking score and aptamer899 as the best for miR-10b-5p with -482.55 docking score. QM single-point calculations assessed electronic stability via total molecular energy and the HOMO-LUMO gaps, showing model-dependent variations. MD simulations incorporated novel stability metrics combining RMSD area integration and changepoint detection, alongside hydrogen bonding, RMSF, and radius of gyration analyses. The miR-10b-3p complexes exhibited lower RMSF and RMSD values with more persistent hydrogen bonds, reflecting stronger and more stable interactions than 5p complexes. Interestingly, despite both the aptamer and target miRNA adopting folded secondary and tertiary structures, partial Watson-Crick interactions were observed during both docking and molecular dynamics simulations, particularly at accessible loop and terminal regions, suggesting a hybrid binding mechanism involving localized base pairing together with structure-dependent structural recognition. MM-GBSA binding energy analysis further supported these findings, confirming that our T-SELEX-guided in silico strategy identifies computationally promising aptamer-like candidates and provides a robust framework for the rational design of RNA-targeting therapeutics.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Mokgopa, Kabelo Phuti",
+        "Lobb, Kevin A",
+        "Tshiwawa, Tendamudzimu"
+      ],
+      "short_names": [
+        "Mokgopa KP",
+        "Lobb KA",
+        "Tshiwawa T"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-8641-0892",
+        "ORCID: 0000-0003-3023-0790"
+      ],
+      "affiliations": [
+        "Department of Chemistry, Rhodes University, Makhanda 6140, South Africa. RINGGOLD: 59100",
+        "Department of Chemistry, Rhodes University, Makhanda 6140, South Africa. RINGGOLD: 59100",
+        "Research Unit in Bioinformatics (RUBi), Rhodes University, Makhanda 6140, South Africa.",
+        "Department of Chemistry, Rhodes University, Makhanda 6140, South Africa. RINGGOLD: 59100"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Mokgopa, Kabelo Phuti",
+        "short_name": "Mokgopa KP",
+        "identifiers": [
+          "0000-0001-8641-0892"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Rhodes University, Makhanda 6140, South Africa."
+        ]
+      },
+      {
+        "full_name": "Lobb, Kevin A",
+        "short_name": "Lobb KA",
+        "identifiers": [
+          "0000-0003-3023-0790"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Rhodes University, Makhanda 6140, South Africa.",
+          "Research Unit in Bioinformatics (RUBi), Rhodes University, Makhanda 6140, South Africa."
+        ]
+      },
+      {
+        "full_name": "Tshiwawa, Tendamudzimu",
+        "short_name": "Tshiwawa T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Rhodes University, Makhanda 6140, South Africa."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS omega"
+    ],
+    "journal_abbrev": [
+      "ACS Omega"
+    ],
+    "pub_date": "2026 Sep 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/18 12:25",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42756694",
+      "42118388",
+      "41603953",
+      "39568384",
+      "42043606",
+      "41968858",
+      "40531093",
+      "42332812",
+      "42696893",
+      "42035377",
+      "42648275",
+      "42475469",
+      "41337159",
+      "42376479",
+      "42061536",
+      "42652067",
+      "42136682",
+      "42275761",
+      "25889241",
+      "39390781",
+      "41045314",
+      "40398358",
+      "42342737",
+      "40114577",
+      "41936598",
+      "30503955",
+      "41970871",
+      "35025110",
+      "40157686",
+      "42737706",
+      "42747587",
+      "42419186",
+      "42694262",
+      "42322786",
+      "41253052",
+      "42630437",
+      "41621295",
+      "42371179",
+      "33808496",
+      "39879697",
+      "41780347",
+      "34227370",
+      "41934829",
+      "41544341",
+      "41757133",
+      "42370516",
+      "42071120",
+      "40865231",
+      "42011130",
+      "40806603",
+      "42330575",
+      "41505486",
+      "39080630",
+      "41557214",
+      "42142462",
+      "36338939",
+      "42511819",
+      "41438622",
+      "42623222",
+      "41187366",
+      "40685718",
+      "42046993",
+      "42286162",
+      "41989718",
+      "27932553",
+      "41026857",
+      "29842849",
+      "40657273",
+      "32176034",
+      "42706974",
+      "42254291",
+      "33982889",
+      "42398391",
+      "41710547",
+      "19754142",
+      "36812260",
+      "42461522",
+      "41134838",
+      "40704840",
+      "42708318",
+      "25852169",
+      "41461937",
+      "41782002",
+      "41603859",
+      "41115935",
+      "41602192",
+      "41358073",
+      "31755218",
+      "41270284",
+      "25129238",
+      "42545140",
+      "39881138",
+      "42292664",
+      "32854062",
+      "41152498",
+      "42278461",
+      "41493642",
+      "29334340",
+      "37834231",
+      "33182550"
+    ],
+    "review": [
+      "42756694",
+      "39390781",
+      "42419186",
+      "33808496"
+    ],
+    "pmc": [
+      "13584146"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

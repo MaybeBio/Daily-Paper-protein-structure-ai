@@ -1,0 +1,117 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.06.749672",
+  "title": "A structural antibody benchmark for leakage-aware deep-learning evaluation",
+  "doi": "10.64898/2026.09.06.749672",
+  "abstract": "Deep-learning methods for antibody structure prediction, antibody-antigen interaction modelling and design are advancing rapidly. However, comparisons across studies remain difficult because training and test sets are often constructed independently, and a temporal cutoff alone does not prevent train-test leakage. We present SABLE (Structural Antibody Benchmark for deep-Learning Evaluation), a versioned structural antibody resource that couples a fixed training collection with a leakage-controlled held-out test set for reproducible machine-learning development and evaluation. SABLE combines 16,511 experimental training entries with 327 manually reviewed test entries and 3,274 high-confidence, patent-derived AlphaFold3 models spanning 476 antigens. Candidate test structures were selected after the AlphaFold3 temporal cutoff and filtered against the training set using antibody and antigen sequence similarity filters. Each test entry records its nearest training set neighbour, allowing users to quantify remaining relatedness and stratify performance by similarity. Versioned releases provide metadata, processed structures, CDR annotations, redundancy labels and model-confidence fields. A Python/PyTorch API and standardised benchmark metrics provide reproducible database access and evaluation code without requiring additional antibody-structure processing.",
+  "authors": [
+    "Cohen T",
+    "Bhattacharya H",
+    "Ozery-Flato M",
+    "Schneidman D"
+  ],
+  "published_date": "2026-09-13",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.06.749672",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.06.749672.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1319264",
+    "raw_record": {
+      "id": "PPR1319264",
+      "source": "PPR",
+      "doi": "10.64898/2026.09.06.749672",
+      "title": "A structural antibody benchmark for leakage-aware deep-learning evaluation",
+      "authorString": "Cohen T, Bhattacharya H, Ozery-Flato M, Schneidman D.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Cohen T",
+            "lastName": "Cohen",
+            "firstName": "Tomer",
+            "initials": "T"
+          },
+          {
+            "fullName": "Bhattacharya H",
+            "lastName": "Bhattacharya",
+            "firstName": "Haimasree",
+            "initials": "H"
+          },
+          {
+            "fullName": "Ozery-Flato M",
+            "lastName": "Ozery-Flato",
+            "firstName": "Michal",
+            "initials": "M",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-8223-7989"
+            }
+          },
+          {
+            "fullName": "Schneidman D",
+            "lastName": "Schneidman",
+            "firstName": "Dina",
+            "initials": "D"
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-8223-7989"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Deep-learning methods for antibody structure prediction, antibody-antigen interaction modelling and design are advancing rapidly. However, comparisons across studies remain difficult because training and test sets are often constructed independently, and a temporal cutoff alone does not prevent train-test leakage. We present SABLE (Structural Antibody Benchmark for deep-Learning Evaluation), a versioned structural antibody resource that couples a fixed training collection with a leakage-controlled held-out test set for reproducible machine-learning development and evaluation. SABLE combines 16,511 experimental training entries with 327 manually reviewed test entries and 3,274 high-confidence, patent-derived AlphaFold3 models spanning 476 antigens. Candidate test structures were selected after the AlphaFold3 temporal cutoff and filtered against the training set using antibody and antigen sequence similarity filters. Each test entry records its nearest training set neighbour, allowing users to quantify remaining relatedness and stratify performance by similarity. Versioned releases provide metadata, processed structures, CDR annotations, redundancy labels and model-confidence fields. A Python/PyTorch API and standardised benchmark metrics provide reproducible database access and evaluation code without requiring additional antibody-structure processing.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.09.06.749672"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-09-15",
+      "firstPublicationDate": "2026-09-13",
+      "firstIndexDate": "2026-09-15",
+      "hasEvaluations": "N"
+    }
+  }
+}

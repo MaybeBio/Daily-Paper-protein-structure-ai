@@ -1,0 +1,217 @@
+{
+  "identity": {
+    "pmid": "42742459",
+    "doi": "10.1039/d6cp02188c",
+    "title": "Simulation of protein structure using a coarse-grained potential incorporating the backbone dihedral interactions."
+  },
+  "content": {
+    "abstract": "Many biologically relevant processes occur on time and length scales which are far beyond the reach of atomistic simulations. These processes include large protein dynamics and the self-assembly of biological materials. Coarse-grained molecular modeling allows computer simulations on length and time scales 2-3 orders of magnitude larger than atomistic simulations, bridging the gap between the atomistic and mesoscopic scales. However, the structural information involving the dihedral angles is lost in coarse-graining. We develop a simple coarse-grained protein model with structural information in an explicit solvent. We represent the center of mass of each residue as a polymer bead and water oxygen as a solvent bead. Each polymer bead has five degrees of freedom: position of the center and two additional variables for the backbone dihedral angles. All interaction parameters for bonded, non-bonded, dihedral coupling and bead-solvent interactions are derived from the equilibrated all-atom molecular dynamics simulation trajectory. We find that our coarse-grained approach reproduces residue-level structural information that closely matches the crystal structures and all-atom simulation results.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kole, Kanika",
+        "Ghosh Moulick, Abhik",
+        "Chakrabarti, Jaydeb"
+      ],
+      "short_names": [
+        "Kole K",
+        "Ghosh Moulick A",
+        "Chakrabarti J"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-1960-6729",
+        "ORCID: 0000-0003-0753-3259"
+      ],
+      "affiliations": [
+        "S.N. Bose National Centre for Basic Sciences, Block JD, Salt Lake, Kolkata-700098, India. jaydebchakrabarti@gmail.com.",
+        "S.N. Bose National Centre for Basic Sciences, Block JD, Salt Lake, Kolkata-700098, India. jaydebchakrabarti@gmail.com.",
+        "S.N. Bose National Centre for Basic Sciences, Block JD, Salt Lake, Kolkata-700098, India. jaydebchakrabarti@gmail.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kole, Kanika",
+        "short_name": "Kole K",
+        "identifiers": [],
+        "affiliations": [
+          "S.N. Bose National Centre for Basic Sciences, Block JD, Salt Lake, Kolkata-700098, India. jaydebchakrabarti@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Ghosh Moulick, Abhik",
+        "short_name": "Ghosh Moulick A",
+        "identifiers": [
+          "0000-0002-1960-6729"
+        ],
+        "affiliations": [
+          "S.N. Bose National Centre for Basic Sciences, Block JD, Salt Lake, Kolkata-700098, India. jaydebchakrabarti@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Chakrabarti, Jaydeb",
+        "short_name": "Chakrabarti J",
+        "identifiers": [
+          "0000-0003-0753-3259"
+        ],
+        "affiliations": [
+          "S.N. Bose National Centre for Basic Sciences, Block JD, Salt Lake, Kolkata-700098, India. jaydebchakrabarti@gmail.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Physical chemistry chemical physics : PCCP"
+    ],
+    "journal_abbrev": [
+      "Phys Chem Chem Phys"
+    ],
+    "pub_date": "2026 Sep 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/15 11:37",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42742459",
+      "17949219",
+      "19280017",
+      "26574429",
+      "19280018",
+      "26588552",
+      "20161121",
+      "28905203",
+      "17887823",
+      "29347065",
+      "16863357",
+      "15959866",
+      "20230012",
+      "26626666",
+      "23912807",
+      "26579771",
+      "21361530",
+      "26621095",
+      "26605627",
+      "40184371",
+      "25330962",
+      "24511929",
+      "16361345",
+      "26605486",
+      "39754120",
+      "18469078",
+      "39535391",
+      "19425537",
+      "26593674",
+      "36417670",
+      "31139712",
+      "18688358",
+      "24712786",
+      "29529375",
+      "22797564",
+      "40119793",
+      "24880331",
+      "38193550",
+      "34572559",
+      "20640160",
+      "30951539",
+      "34651150",
+      "19817469",
+      "39569935",
+      "25443957",
+      "28938819",
+      "19450476",
+      "34391357",
+      "28388132",
+      "39579131",
+      "26616783",
+      "30916957",
+      "28142242",
+      "38000367",
+      "19624181",
+      "41103614",
+      "33138411",
+      "22852610",
+      "25400526",
+      "25136266",
+      "22904601",
+      "19280005",
+      "41712661",
+      "20166738",
+      "42475469",
+      "30633860",
+      "22060394",
+      "34998351",
+      "27108869",
+      "20158037",
+      "38011344",
+      "26894738",
+      "23758359",
+      "40129029",
+      "28244513",
+      "18376972",
+      "42390886",
+      "17450565",
+      "20815554",
+      "23595102",
+      "38314956",
+      "33514110",
+      "28732036",
+      "25381502",
+      "34495659",
+      "29923722",
+      "24910542",
+      "30996475",
+      "31999452",
+      "21929055",
+      "19281167",
+      "41730147",
+      "39543040",
+      "28959052",
+      "33816559",
+      "25903863",
+      "21360319",
+      "26589015",
+      "24935629",
+      "20158026"
+    ],
+    "review": [
+      "42742459",
+      "28905203",
+      "20640160",
+      "25443957",
+      "33816559"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1039/d6cp02188c",
+        "provider": "Royal Society of Chemistry",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1548",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

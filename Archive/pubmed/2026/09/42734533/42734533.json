@@ -1,0 +1,215 @@
+{
+  "identity": {
+    "pmid": "42734533",
+    "doi": "10.1021/acs.jcim.6c01260",
+    "title": "Mutation-Guided Recovery of Ligand-Compatible Holo-Like Conformations in Proteins with Cryptic Pockets."
+  },
+  "content": {
+    "abstract": "Cryptic pockets are transient ligand-binding sites that remain hidden in apo protein structures and become accessible only through conformational change, making them difficult to identify and exploit in structure-based ligand discovery. Although recent AI/ML approaches can identify residues associated with cryptic pocket formation, they do not directly yield the corresponding holo-like conformations. Enhanced-sampling and mixed-solvent strategies can promote pocket opening, but often under non-native conditions and without demonstrating stable ligand-bound holo-like states. Here, we present a computational framework in which residues with high cryptic-pocket propensity are used as mutation handles to perturb the free-energy landscape and expose ligand-compatible open states even in the absence of ligand binding. We establish this strategy on TEM-1 beta-lactamase, a canonical cryptic-pocket system, and show that mutation-induced perturbations can shift the conformational ensemble toward an open pocket state prior to ligand binding. The resulting open state supports ligand binding in both docked structures and unbiased simulations, and the ligand remains stably bound after reversion to the wild-type sequence, consistent with recovery of a holo-like wild-type conformation. Importantly, the residues targeted for mutation are not the principal determinants of the ligand interactions observed in the bound state, indicating that their role is to reshape the conformational landscape and promote access to an open, ligand-compatible pocket rather than to form the binding interface itself. We further generalize this framework to LfrR, FtsZ, and Bombyx mori pheromone-binding protein, where mutation of predicted cryptic residues likewise generates open conformations capable of supporting ligand binding. Together, these results show that cryptic residue predictions can be used not only to identify hidden binding sites but also to recover holo-like conformations from apo structures, providing a practical framework for studying and targeting cryptic pockets.",
+    "keywords": [],
+    "mesh_terms": [
+      "Ligands",
+      "*Mutation",
+      "Protein Conformation",
+      "*beta-Lactamases/chemistry/genetics/metabolism",
+      "Binding Sites",
+      "Animals",
+      "Molecular Docking Simulation",
+      "Thermodynamics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Routh, Reshob",
+        "Radhakrishna, Mithun"
+      ],
+      "short_names": [
+        "Routh R",
+        "Radhakrishna M"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-7127-4744"
+      ],
+      "affiliations": [
+        "Department of Chemical Engineering, Indian Institute of Technology Gandhinagar, Gandhinagar, Gujarat382055, India.",
+        "Centre for Biomedical Engineering, Indian Institute of Technology Gandhinagar, Gandhinagar, Gujarat382055, India.",
+        "Department of Chemical Engineering, Indian Institute of Technology Gandhinagar, Gandhinagar, Gujarat382055, India.",
+        "Centre for Biomedical Engineering, Indian Institute of Technology Gandhinagar, Gandhinagar, Gujarat382055, India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Routh, Reshob",
+        "short_name": "Routh R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical Engineering, Indian Institute of Technology Gandhinagar, Gandhinagar, Gujarat382055, India.",
+          "Centre for Biomedical Engineering, Indian Institute of Technology Gandhinagar, Gandhinagar, Gujarat382055, India."
+        ]
+      },
+      {
+        "full_name": "Radhakrishna, Mithun",
+        "short_name": "Radhakrishna M",
+        "identifiers": [
+          "0000-0001-7127-4744"
+        ],
+        "affiliations": [
+          "Department of Chemical Engineering, Indian Institute of Technology Gandhinagar, Gandhinagar, Gujarat382055, India.",
+          "Centre for Biomedical Engineering, Indian Institute of Technology Gandhinagar, Gandhinagar, Gujarat382055, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of chemical information and modeling"
+    ],
+    "journal_abbrev": [
+      "J Chem Inf Model"
+    ],
+    "pub_date": "2026 Sep 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/14 11:40",
+    "fetched_at": "2026-09-20 07:27:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42734533",
+      "42701301",
+      "39419500",
+      "33570386",
+      "38732174",
+      "37896786",
+      "39684679",
+      "30883122",
+      "41945898",
+      "31810712",
+      "17059826",
+      "39693053",
+      "36342197",
+      "33658550",
+      "36948209",
+      "33599485",
+      "42414572",
+      "34799442",
+      "38508305",
+      "28537745",
+      "26854760",
+      "37143823",
+      "30998331",
+      "39190764",
+      "35312477",
+      "28419481",
+      "28570708",
+      "22417279",
+      "41865847",
+      "31639304",
+      "36993233",
+      "12825931",
+      "30003468",
+      "40816097",
+      "39574675",
+      "16460010",
+      "22753506",
+      "23737450",
+      "37175495",
+      "27726386",
+      "42018639",
+      "42227972",
+      "33337877",
+      "25275445",
+      "40215320",
+      "32383873",
+      "42475469",
+      "41648445",
+      "29581267",
+      "15709749",
+      "38316797",
+      "41502950",
+      "33140952",
+      "20066034",
+      "36250592",
+      "9398213",
+      "35484642",
+      "39109919",
+      "20478076",
+      "41051642",
+      "33244830",
+      "39778412",
+      "33728914",
+      "40875922",
+      "25157173",
+      "42160909",
+      "30744991",
+      "37534568",
+      "38563746",
+      "40653264",
+      "42490529",
+      "39681511",
+      "11254382",
+      "21761917",
+      "12021438",
+      "27219646",
+      "30747434",
+      "17600829",
+      "35041430",
+      "40404166",
+      "17927211",
+      "41889747",
+      "24070540",
+      "39565312",
+      "32134250",
+      "42510714",
+      "20512971",
+      "41779774",
+      "30699115",
+      "33957147",
+      "28884249",
+      "23618839",
+      "17680687",
+      "30592603",
+      "42032379",
+      "40429853",
+      "27515410",
+      "40268232",
+      "17932934",
+      "23527569"
+    ],
+    "review": [
+      "42734533",
+      "39778412",
+      "40653264",
+      "24070540"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3350",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/jcisd8/article-lookup/doi/10.1021/acs.jcim.6c01260",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

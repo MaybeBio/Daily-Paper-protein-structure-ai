@@ -1,0 +1,264 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.07.749983",
+  "title": "ForceFlowAb: physics-aware mixture-of-experts flow matching model for antibody CDRs design",
+  "doi": "10.64898/2026.09.07.749983",
+  "abstract": "Motivation: Antibodies are a major class of therapeutic molecules, and their recognition of target antigens is largely mediated by complementarity-determining regions (CDRs), making antigen-conditioned CDR design a central problem in antibody engineering. Recent generative methods have enabled antigen-conditioned co-design of CDR sequences and structures, but their limited capacity to capture local interface heterogeneity and lack explicit energy-based guidance during sampling, which may result in unfavorable antibody-antigen interaction energies. Overcoming these limitations requires methods that better represent diverse interface environments via adaptive routing and incorporate physical guidance to steer sampling toward energetically favorable conformations. Results: We present ForceFlowAb, a physics-aware mixture-of-experts flow-matching framework for antigen-conditioned CDR sequence-structure co-design. The framework models heterogeneous interface environments through specialized expert routing and applies differentiable force-field guidance during sampling to guide CDR generation toward energetically favorable conformations. For CDR-H3 design, ForceFlowAb achieved more favorable antibody-antigen interaction energies than FlowDesign and Diffab, with improvement rates (IMP) of 46.5% versus 35.0% and 35.5%, respectively. For simultaneous six-CDR design, ForceFlowAb also outperformed Diffab, with IMP values of 16% versus 9%. These results suggest complementary roles for interface-adaptive modeling and energy-based guidance, with the former capturing binding-mode diversity and the latter leveraging physical constraints to ensure biophysical feasibility. Availability and implementation: The web server is freely available at http://zhanglab-bioinf.com/ForceFlowAb. The source code and implementation are available at https://github.com/iobio-zjut/ForceFlowAb. Contact: zgj@zjut.edu.cn Supplementary information: Supplementary data are available at Bioinformatics online.",
+  "authors": [
+    "Zonghui Li",
+    "Zexin Lv",
+    "Guijun Zhang"
+  ],
+  "published_date": "2026-09-14",
+  "updated_date": "2026-09-14T19:10:10Z",
+  "journal": "bioRxiv",
+  "category": "Bioinformatics",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.07.749983",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.07.749983.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [
+    "Bioinformatics"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Bioinformatics",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            14
+          ]
+        ],
+        "date-time": "2026-09-14T20:04:18Z",
+        "timestamp": 1789416258609,
+        "version": "build-2803163510"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            14
+          ]
+        ]
+      },
+      "group-title": "Bioinformatics",
+      "reference-count": 0,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                14
+              ]
+            ],
+            "date-time": "2026-09-14T00:00:00Z",
+            "timestamp": 1789344000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://www.biorxiv.org/about/FAQ#license"
+        }
+      ],
+      "funder": [
+        {
+          "name": "National Key R & D Program of China",
+          "award": [
+            "2022ZD0115103"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "2022ZD0115103"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "National Nature Science Foundation of China",
+          "award": [
+            "62573386"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "62573386"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pioneer and Leading Goose R&D Program of Zhejiang",
+          "award": [
+            "2025C01190"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "2025C01190"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Zhejiang Provincial Special Support Program for High-Level Talents",
+          "award": [
+            "2023R5248"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "2023R5248"
+              ]
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            14
+          ]
+        ]
+      },
+      "abstract": "<jats:p>Abstract\n\nMotivation: Antibodies are a major class of therapeutic molecules, and their recognition of target antigens is largely mediated by complementarity-determining regions (CDRs), making antigen-conditioned CDR design a central problem in antibody engineering. Recent generative methods have enabled antigen-conditioned co-design of CDR sequences and structures, but their limited capacity to capture local interface heterogeneity and lack explicit energy-based guidance during sampling, which may result in unfavorable antibody-antigen interaction energies. Overcoming these limitations requires methods that better represent diverse interface environments via adaptive routing and incorporate physical guidance to steer sampling toward energetically favorable conformations.\n\nResults: We present ForceFlowAb, a physics-aware mixture-of-experts flow-matching framework for antigen-conditioned CDR sequence-structure co-design. The framework models heterogeneous interface environments through specialized expert routing and applies differentiable force-field guidance during sampling to guide CDR generation toward energetically favorable conformations. For CDR-H3 design, ForceFlowAb achieved more favorable antibody-antigen interaction energies than FlowDesign and Diffab, with improvement rates (IMP) of 46.5% versus 35.0% and 35.5%, respectively. For simultaneous six-CDR design, ForceFlowAb also outperformed Diffab, with IMP values of 16% versus 9%. These results suggest complementary roles for interface-adaptive modeling and energy-based guidance, with the former capturing binding-mode diversity and the latter leveraging physical constraints to ensure biophysical feasibility.\n\nAvailability and implementation: The web server is freely available at http://zhanglab-bioinf.com/ForceFlowAb. The source code and implementation are available at https://github.com/iobio-zjut/ForceFlowAb.\n\nContact: zgj@zjut.edu.cn\n\nSupplementary information: Supplementary data are available at Bioinformatics online.</jats:p>",
+      "DOI": "10.64898/2026.09.07.749983",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            14
+          ]
+        ],
+        "date-time": "2026-09-14T19:10:10Z",
+        "timestamp": 1789413010000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "ForceFlowAb: physics-aware mixture-of-experts flow matching model for antibody CDRs design"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "given": "Zonghui",
+          "family": "Li",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Zhejiang University of Technology"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Zexin",
+          "family": "Lv",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Zhejiang University of Technology"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Guijun",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Zhejiang University of Technology"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.09.07.749983",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            14
+          ]
+        ],
+        "date-time": "2026-09-14T19:10:11Z",
+        "timestamp": 1789413011000
+      },
+      "score": 48.877308,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.09.07.749983"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            14
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.64898/2026.09.07.749983",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            14
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

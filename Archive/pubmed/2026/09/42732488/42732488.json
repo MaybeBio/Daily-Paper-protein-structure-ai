@@ -1,0 +1,272 @@
+{
+  "identity": {
+    "pmid": "42732488",
+    "doi": "10.1007/s00299-026-03972-w",
+    "title": "The insect effector CSPs activate an atypical plant TNL immune receptor."
+  },
+  "content": {
+    "abstract": "CSP-mediated activation of RCSP involves noncanonical structural and catalytic mechanisms-including BB-loop deletion, alpha5alpha6-loop insertion, and atypical catalytic residues within the RCSP-TIR domain. Chemosensory proteins (CSPs), a conserved effector family in phloem-feeding insects such as aphids and the brown planthopper (Nilaparvata lugens), induce dwarfism in Nicotiana benthamiana through recognition by the Toll-interleukin-1 receptor (TIR) domain-containing nucleotide-binding leucine-rich repeat receptor (TNL) RCSP. However, CSP-mediated RCSP activation and enzymatic mechanism remain unknown. Here, we show that TIR domain of RCSP (RCSP-TIR) exhibits unique features, including a 9-amino acid deletion in the loop between beta-strand B and alpha-helix B (BB-loop), an 8-amino acid insertion in the loop between alpha5 and alpha6 (alpha5alpha6-loop), and substitution of the canonical catalytic glutamate with glutamine (E87Q). Structural analysis demonstrates that BB-loop deletion disrupts the canonical NAD(+)-binding pocket and prevents standard TIR tetramerization. Strikingly, AlphaFold3/DMFold modeling reveals that RCSP compensates via alpha5alpha6-loop insertion, forming a novel interface that stabilizes an atypical tetrameric architecture. Integrated approaches combining molecular docking and site-directed mutagenesis demonstrate that RCSP may utilize a noncanonical NAD(+)-binding pocket and depend on dual catalytic residues (D86/Q87) to mediate weak cell death. Evolutionary analysis classifies RCSP-TIR homologs into four distinct clades, highlighting Solanaceae-specific adaptations. These findings elucidate a novel plant-insect interaction mechanism in which RCSP's structural diversification enables CSPs recognition and immune signaling reprogramming.",
+    "keywords": [
+      "Chemosensory protein",
+      "Effector",
+      "Plant immunity",
+      "Plant-insect interaction",
+      "RCSP",
+      "TIR-NBS-LRR"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Nicotiana/immunology/parasitology/genetics/metabolism",
+      "*Plant Proteins/metabolism/chemistry/genetics",
+      "Amino Acid Sequence",
+      "*Insect Proteins/metabolism/chemistry/genetics",
+      "*Plant Immunity",
+      "Protein Domains",
+      "Innate Immunity Recognition",
+      "Models, Molecular"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Rao, Weiwei",
+        "Li, Tianzhu",
+        "Yang, Jing",
+        "Zhu, Liwen",
+        "Zhao, Wei",
+        "Ma, Tingting"
+      ],
+      "short_names": [
+        "Rao W",
+        "Li T",
+        "Yang J",
+        "Zhu L",
+        "Zhao W",
+        "Ma T"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Cooperative Innovation Center of Industrial Fermentation (Ministry of Education & Hubei Province), Key Laboratory of Fermentation Engineering (Ministry of Education), Hubei Key Laboratory of Industrial Microbiology, National \"111\" Center for Cellular Regulation and Molecular Pharmaceutics, Hubei University of Technology, Wuhan, 430068, China.",
+        "National Key Laboratory of Hybrid Rice, College of Life Sciences, Wuhan University, Wuhan, 430072, China.",
+        "National Key Laboratory of Hybrid Rice, College of Life Sciences, Wuhan University, Wuhan, 430072, China.",
+        "Cooperative Innovation Center of Industrial Fermentation (Ministry of Education & Hubei Province), Key Laboratory of Fermentation Engineering (Ministry of Education), Hubei Key Laboratory of Industrial Microbiology, National \"111\" Center for Cellular Regulation and Molecular Pharmaceutics, Hubei University of Technology, Wuhan, 430068, China.",
+        "State Key Laboratory of Microbial Technology, Shandong University, Qingdao, 266237, China.",
+        "Key Laboratory of Plant Design, CAS Center for Excellence in Molecular Plant Sciences, Institute of Plant Physiology and Ecology, Chinese Academy of Sciences, Shanghai, 200032, China. ttma@cemps.ac.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Rao, Weiwei",
+        "short_name": "Rao W",
+        "identifiers": [],
+        "affiliations": [
+          "Cooperative Innovation Center of Industrial Fermentation (Ministry of Education & Hubei Province), Key Laboratory of Fermentation Engineering (Ministry of Education), Hubei Key Laboratory of Industrial Microbiology, National \"111\" Center for Cellular Regulation and Molecular Pharmaceutics, Hubei University of Technology, Wuhan, 430068, China."
+        ]
+      },
+      {
+        "full_name": "Li, Tianzhu",
+        "short_name": "Li T",
+        "identifiers": [],
+        "affiliations": [
+          "National Key Laboratory of Hybrid Rice, College of Life Sciences, Wuhan University, Wuhan, 430072, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Jing",
+        "short_name": "Yang J",
+        "identifiers": [],
+        "affiliations": [
+          "National Key Laboratory of Hybrid Rice, College of Life Sciences, Wuhan University, Wuhan, 430072, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Liwen",
+        "short_name": "Zhu L",
+        "identifiers": [],
+        "affiliations": [
+          "Cooperative Innovation Center of Industrial Fermentation (Ministry of Education & Hubei Province), Key Laboratory of Fermentation Engineering (Ministry of Education), Hubei Key Laboratory of Industrial Microbiology, National \"111\" Center for Cellular Regulation and Molecular Pharmaceutics, Hubei University of Technology, Wuhan, 430068, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Wei",
+        "short_name": "Zhao W",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Microbial Technology, Shandong University, Qingdao, 266237, China."
+        ]
+      },
+      {
+        "full_name": "Ma, Tingting",
+        "short_name": "Ma T",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Plant Design, CAS Center for Excellence in Molecular Plant Sciences, Institute of Plant Physiology and Ecology, Chinese Academy of Sciences, Shanghai, 200032, China. ttma@cemps.ac.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Plant cell reports"
+    ],
+    "journal_abbrev": [
+      "Plant Cell Rep"
+    ],
+    "pub_date": "2026 Sep 13",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/13 17:34",
+    "fetched_at": "2026-09-20 07:27:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42732488",
+      "39474762",
+      "38480885",
+      "41668376",
+      "21402359",
+      "41887979",
+      "28137883",
+      "42084604",
+      "31311833",
+      "40938703",
+      "39843224",
+      "40844808",
+      "33924478",
+      "36932864",
+      "30373842",
+      "19132868",
+      "28808003",
+      "33197377",
+      "11121079",
+      "13679373",
+      "33180185",
+      "41674069",
+      "40991655",
+      "41118522",
+      "23516366",
+      "37150050",
+      "24275656",
+      "27671644",
+      "23956969",
+      "26009937",
+      "30639751",
+      "34099661",
+      "33273074",
+      "16075209",
+      "23660837",
+      "41906238",
+      "31439792",
+      "42301776",
+      "16677430",
+      "41802870",
+      "30500990",
+      "28159890",
+      "37349986",
+      "22998579",
+      "31439793",
+      "12366802",
+      "15123616",
+      "35597242",
+      "32709746",
+      "34486076",
+      "28814646",
+      "40546084",
+      "38598645",
+      "40525304",
+      "12671079",
+      "24744375",
+      "27818198",
+      "41614442",
+      "40566854",
+      "12815938",
+      "36745138",
+      "41877378",
+      "24192368",
+      "30355769",
+      "10571887",
+      "23735504",
+      "33345280",
+      "18344282",
+      "27129402",
+      "36131021",
+      "34544113",
+      "29633905",
+      "15849357",
+      "33098989",
+      "32517283",
+      "20920294",
+      "40810525",
+      "11874570",
+      "27427964",
+      "19525323",
+      "30254172",
+      "28131063",
+      "28817232",
+      "33174685",
+      "34657283",
+      "20601497",
+      "41758014",
+      "17277084",
+      "23174767",
+      "34658092",
+      "34868065",
+      "26592460",
+      "39786929",
+      "38730532",
+      "40447724",
+      "11158537",
+      "23723994",
+      "28427457",
+      "37676367",
+      "36151929"
+    ],
+    "review": [
+      "42732488",
+      "41887979",
+      "33180185",
+      "37150050",
+      "16677430",
+      "40525304",
+      "41614442",
+      "12815938",
+      "36745138",
+      "23174767"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "http://dx.doi.org/10.1007/s00299-026-03972-w",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-NBN-3",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-934",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

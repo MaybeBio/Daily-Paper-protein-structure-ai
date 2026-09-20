@@ -1,0 +1,210 @@
+{
+  "identity": {
+    "pmid": "42752294",
+    "doi": "10.1080/07391102.2026.2734551",
+    "title": "Integrated bioinformatics analysis of chromosomal deletion regions in glioblastoma identifies key genes linked to GABA(A) receptor signaling."
+  },
+  "content": {
+    "abstract": "Glioblastoma (GBM) is the most common aggressive brain tumor in adults. The development of therapy resistance in GBM necessitates the identification of novel biomarkers to guide molecularly targeted treatment strategies. This study aims to identify potential tumor suppressor genes in GBM and to evaluate their potential as therapeutic targets. Genes localized on deletion regions in GBM tumors were selected using the BioMart database. Microarray datasets containing GBM tumor and normal brain tissue samples were analyzed with GEO2R. A protein-protein interaction (PPI) network was constructed for dDEGs on deletion regions using the String database to identify hub genes. The expression and structural changes of hub genes were examined using GEPIA2 and cBioPortal, respectively. GROMACS software was used to perform molecular dynamics (MD) simulations. A total of 1704 dDEGs located within the deletion regions of GBM tumors were identified. Expression levels of 11 hub genes, including subunits of the entire GABA(A) receptor complex, were significantly downregulated in TCGA GBM samples. Additionally, mutations in CACNA1D, GABRA1, and GABRB2 were predicted to disrupt protein structure and function. Meprobamate was selected as the agonist for GABA(A) receptor-related hub genes. MD simulations indicated that meprobamate remained associated with the GABA(A) receptor but exhibited time-dependent repositioning during the later stages of the simulation. CACNA1D, GABRA1, and GABRB2 may have potential tumor-suppressive roles in GBM. In addition, GABA(A) receptors may represent potential molecular targets in GBM, warranting further experimental investigation.",
+    "keywords": [
+      "GABA(A) receptors",
+      "glioblastoma",
+      "meprobamate",
+      "molecular dynamics simulations",
+      "tumor suppressor genes"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Caglar, Hasan Onur",
+        "Meral, Berkay",
+        "Caglar, Fulya"
+      ],
+      "short_names": [
+        "Caglar HO",
+        "Meral B",
+        "Caglar F"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-3637-4755"
+      ],
+      "affiliations": [
+        "Department of Molecular Biology and Genetics, Science Faculty, Erzurum Technical University, Erzurum, Turkey.",
+        "Department of Molecular Biology and Genetics, Science Faculty, Erzurum Technical University, Erzurum, Turkey.",
+        "Department of Health Bioinformatics, Institute of Health Sciences, Ege University, Izmir, Turkey."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Caglar, Hasan Onur",
+        "short_name": "Caglar HO",
+        "identifiers": [
+          "0000-0002-3637-4755"
+        ],
+        "affiliations": [
+          "Department of Molecular Biology and Genetics, Science Faculty, Erzurum Technical University, Erzurum, Turkey."
+        ]
+      },
+      {
+        "full_name": "Meral, Berkay",
+        "short_name": "Meral B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Biology and Genetics, Science Faculty, Erzurum Technical University, Erzurum, Turkey."
+        ]
+      },
+      {
+        "full_name": "Caglar, Fulya",
+        "short_name": "Caglar F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Health Bioinformatics, Institute of Health Sciences, Ege University, Izmir, Turkey."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of biomolecular structure & dynamics"
+    ],
+    "journal_abbrev": [
+      "J Biomol Struct Dyn"
+    ],
+    "pub_date": "2026 Sep 17",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/17 18:32",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42752294",
+      "40883024",
+      "35436915",
+      "35059899",
+      "40317362",
+      "41478499",
+      "30132538",
+      "32874133",
+      "30971889",
+      "36122609",
+      "40375702",
+      "32667033",
+      "31617063",
+      "39184354",
+      "40225293",
+      "32467990",
+      "35811900",
+      "35328072",
+      "38681202",
+      "38360888",
+      "35706800",
+      "35678909",
+      "42749405",
+      "38446410",
+      "34018447",
+      "37544033",
+      "39946771",
+      "35283227",
+      "41737848",
+      "31188028",
+      "30655863",
+      "41483059",
+      "42414742",
+      "37593751",
+      "38619743",
+      "42192326",
+      "41288681",
+      "31788092",
+      "35513291",
+      "32323832",
+      "31602219",
+      "38967113",
+      "27572852",
+      "30975489",
+      "36917367",
+      "42120472",
+      "30002985",
+      "39808230",
+      "40168776",
+      "34834399",
+      "39911278",
+      "40676786",
+      "34790767",
+      "33767726",
+      "38864705",
+      "35111402",
+      "29168083",
+      "34188703",
+      "23261424",
+      "33803224",
+      "35413821",
+      "35109816",
+      "34301218",
+      "42322259",
+      "39248068",
+      "41483318",
+      "32296458",
+      "36699262",
+      "34093386",
+      "41984189",
+      "32412599",
+      "41291892",
+      "29845250",
+      "42421348",
+      "37759283",
+      "40843941",
+      "35368701",
+      "40114265",
+      "26295306",
+      "34238116",
+      "39730176",
+      "40859027",
+      "35538679",
+      "34773808",
+      "35474355",
+      "34039311",
+      "32337286",
+      "28952134",
+      "33282565",
+      "33447084",
+      "36238156",
+      "33193404",
+      "42008967",
+      "38159261",
+      "33545929",
+      "31897151",
+      "32724412",
+      "36035134",
+      "40265430",
+      "39733415"
+    ],
+    "review": [
+      "42752294",
+      "40375702"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.tandfonline.com/doi/10.1080/07391102.2026.2734551?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

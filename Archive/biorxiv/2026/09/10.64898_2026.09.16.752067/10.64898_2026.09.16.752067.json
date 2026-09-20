@@ -1,0 +1,287 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.16.752067",
+  "title": "EM3DFold: accurate de novo protein and nucleic acid model building for cryo-EM maps using language model-powered deep learning",
+  "doi": "10.64898/2026.09.16.752067",
+  "abstract": "Cryo-electron microscopy (cryo-EM) has become one of the most powerful techniques for macromolecular structure determination. However, accurate model building from cryo-EM maps remains challenging, particularly for nucleic acids. Here, we present EM3DFold, a unified de novo model-building framework for accurate structure determination of proteins, nucleic acids, and protein-nucleic acid complexes from cryo-EM maps using a density-aware, large language model-powered three-track attention (TTA) network. The TTA network effectively integrates sequence, density, and structural information to enable accurate all-atom model building. EM3DFold was extensively evaluated on independent benchmarks of 298 experimental cryo-EM maps at < 4.0 Å resolutions, and achieves an unprecedentedly high median accuracy of 75% completeness (88% coverage and 94% sequence accuracy) for 178 nucleic acid maps, 90% completeness (95% coverage and 96% sequence accuracy) for 124 protein-nucleic acid complexes, and 95% completeness (97% coverage and 98% sequence accuracy) for 120 protein-only targets, substantially outperforming state-of-the-art methods including ModelAngelo, EM2NA, CryoREAD, and EMProt. In addition, EM3DFold also produces models with superior model-to-map fit and stereochemical quality, providing a robust and reliable solution for automated cryo-EM model building. The EM3DFold package is freely available at https://github.com/huang-laboratory/EM3DFold.",
+  "authors": [
+    "Tao Li",
+    "Hong Cao",
+    "Sheng-You Huang"
+  ],
+  "published_date": "2026-09-18",
+  "updated_date": "2026-09-19T05:55:18Z",
+  "journal": "bioRxiv",
+  "category": "Bioinformatics",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.16.752067",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.16.752067.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [
+    "Bioinformatics"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Bioinformatics",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            19
+          ]
+        ],
+        "date-time": "2026-09-19T06:19:38Z",
+        "timestamp": 1789798778487,
+        "version": "4.0.1"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            18
+          ]
+        ]
+      },
+      "group-title": "Bioinformatics",
+      "reference-count": 0,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                18
+              ]
+            ],
+            "date-time": "2026-09-18T00:00:00Z",
+            "timestamp": 1789689600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by-nc/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "name": "National Natural Science Foundation of China",
+          "award": [
+            "32430020"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "32430020"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/01h0zpd94",
+              "id-type": "ROR",
+              "asserted-by": "crossref"
+            }
+          ]
+        },
+        {
+          "name": "National Natural Science Foundation of China",
+          "award": [
+            "32161133002"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "32161133002"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/01h0zpd94",
+              "id-type": "ROR",
+              "asserted-by": "crossref"
+            }
+          ]
+        },
+        {
+          "name": "National Natural Science Foundation of China",
+          "award": [
+            "62072199"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "62072199"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/01h0zpd94",
+              "id-type": "ROR",
+              "asserted-by": "crossref"
+            }
+          ]
+        },
+        {
+          "name": "Postdoctoral Fellowship Program of CPSF",
+          "award": [
+            "GZB20250617"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "GZB20250617"
+              ]
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            18
+          ]
+        ]
+      },
+      "abstract": "<jats:p>Cryo-electron microscopy (cryo-EM) has become one of the most powerful techniques for macromolecular structure determination. However, accurate model building from cryo-EM maps remains challenging, particularly for nucleic acids. Here, we present EM3DFold, a unified de novo model-building framework for accurate structure determination of proteins, nucleic acids, and protein-nucleic acid complexes from cryo-EM maps using a density-aware, large language model-powered three-track attention (TTA) network. The TTA network effectively integrates sequence, density, and structural information to enable accurate all-atom model building. EM3DFold was extensively evaluated on independent benchmarks of 298 experimental cryo-EM maps at &lt; 4.0 Å resolutions, and achieves an unprecedentedly high median accuracy of 75% completeness (88% coverage and 94% sequence accuracy) for 178 nucleic acid maps, 90% completeness (95% coverage and 96% sequence accuracy) for 124 protein-nucleic acid complexes, and 95% completeness (97% coverage and 98% sequence accuracy) for 120 protein-only targets, substantially outperforming state-of-the-art methods including ModelAngelo, EM2NA, CryoREAD, and EMProt. In addition, EM3DFold also produces models with superior model-to-map fit and stereochemical quality, providing a robust and reliable solution for automated cryo-EM model building. The EM3DFold package is freely available at https://github.com/huang-laboratory/EM3DFold.</jats:p>",
+      "DOI": "10.64898/2026.09.16.752067",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            19
+          ]
+        ],
+        "date-time": "2026-09-19T05:55:18Z",
+        "timestamp": 1789797318000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "EM3DFold: accurate de novo protein and nucleic acid model building for cryo-EM maps using language model-powered deep learning"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "given": "Tao",
+          "family": "Li",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Huazhong University of Science and Technology"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Hong",
+          "family": "Cao",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Huazhong University of Science and Technology"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-4209-4565",
+          "authenticated-orcid": false,
+          "given": "Sheng-You",
+          "family": "Huang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Huazhong University of Science and Technology"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.09.16.752067",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            19
+          ]
+        ],
+        "date-time": "2026-09-19T05:55:19Z",
+        "timestamp": 1789797319000
+      },
+      "score": 62.157036,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.09.16.752067"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            18
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.64898/2026.09.16.752067",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            18
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

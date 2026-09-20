@@ -1,0 +1,293 @@
+{
+  "identity": {
+    "pmid": "42734525",
+    "doi": "10.1021/acs.jcim.6c01920",
+    "title": "AI-Driven Drug-Target Interaction Prediction: From Data Representation to Model Design."
+  },
+  "content": {
+    "abstract": "Drug-target interaction (DTI) prediction is central to drug discovery, target identification, and drug repurposing. With the rapid growth of biomedical data and advances in artificial intelligence (AI), DTI prediction has shifted from docking, similarity-based inference, and hand-crafted features toward data-driven representation learning and interaction modeling. This review examines AI-driven DTI prediction methodologies, covering binding theories, task formulations, data representation, model design, translational applications, and unresolved challenges. First, we introduce classical molecular binding theories, including the lock-and-key model, induced fit, and conformational selection, highlighting the transition from static matching to dynamic interaction. Second, we summarize major DTI task settings, including binary interaction classification, binding affinity regression, and multitask prediction with uncertainty assessment. We then discuss data resources and multimodal representation approaches for drugs, target proteins, interaction labels, and auxiliary biomedical data, including molecular sequences, graph structures, 3D conformations, physicochemical properties, biological perturbation profiles, protein sequences and structures, and biomedical knowledge networks. Representative approaches are compared across orthogonal methodological dimensions, including input representation, encoder architecture, interaction-modeling mechanism, representation learning and pretraining, learning objective, prediction output, data acquisition or optimization strategy, and generalization setting. Finally, we outline DTI applications in disease target mining, compound virtual screening, affinity and selectivity optimization, complex structure prediction, and industrial drug discovery pipelines and discuss key challenges such as data distribution shifts, dynamic protein conformational variability, and insufficient experimental validation. This survey aims to provide a systematic reference for future algorithm design, mechanism exploration, and real-world drug discovery applications.",
+    "keywords": [
+      "artificial intelligence",
+      "binding affinity prediction",
+      "deep learning",
+      "drug discovery",
+      "drug-target interaction",
+      "graph neural networks",
+      "molecular representation learning",
+      "protein language models"
+    ],
+    "mesh_terms": [
+      "*Artificial Intelligence",
+      "*Drug Discovery/methods",
+      "*Drug Design",
+      "Proteins/chemistry/metabolism",
+      "Humans",
+      "Protein Binding",
+      "Representation Machine Learning",
+      "Pharmaceutical Preparations/chemistry/metabolism",
+      "Models, Molecular"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Hu, Jiaxuan",
+        "Wu, Lianlian",
+        "He, Song",
+        "Bo, Xiaochen",
+        "Lu, Jiang"
+      ],
+      "short_names": [
+        "Hu J",
+        "Wu L",
+        "He S",
+        "Bo X",
+        "Lu J"
+      ],
+      "auids": [
+        "ORCID: 0009-0003-7425-2569",
+        "ORCID: 0000-0002-4136-6151",
+        "ORCID: 0000-0002-2303-6116"
+      ],
+      "affiliations": [
+        "College of Computer and Mathematics, Central South University of Forestry and Technology, Changsha410004, China.",
+        "Institute of Advanced Technology and Equipment, Xi'an Jiaotong University, Xi'an710049, China.",
+        "Academy of Medical Engineering and Translational Medicine, Tianjin University, Tianjin300072, China.",
+        "Academy of Military Medical Sciences , Beijing100850, China.",
+        "Academy of Military Medical Sciences , Beijing100850, China.",
+        "Institute of Advanced Technology and Equipment, Xi'an Jiaotong University, Xi'an710049, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Hu, Jiaxuan",
+        "short_name": "Hu J",
+        "identifiers": [
+          "0009-0003-7425-2569"
+        ],
+        "affiliations": [
+          "College of Computer and Mathematics, Central South University of Forestry and Technology, Changsha410004, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Lianlian",
+        "short_name": "Wu L",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Advanced Technology and Equipment, Xi'an Jiaotong University, Xi'an710049, China.",
+          "Academy of Medical Engineering and Translational Medicine, Tianjin University, Tianjin300072, China."
+        ]
+      },
+      {
+        "full_name": "He, Song",
+        "short_name": "He S",
+        "identifiers": [
+          "0000-0002-4136-6151"
+        ],
+        "affiliations": [
+          "Academy of Military Medical Sciences , Beijing100850, China."
+        ]
+      },
+      {
+        "full_name": "Bo, Xiaochen",
+        "short_name": "Bo X",
+        "identifiers": [],
+        "affiliations": [
+          "Academy of Military Medical Sciences , Beijing100850, China."
+        ]
+      },
+      {
+        "full_name": "Lu, Jiang",
+        "short_name": "Lu J",
+        "identifiers": [
+          "0000-0002-2303-6116"
+        ],
+        "affiliations": [
+          "Institute of Advanced Technology and Equipment, Xi'an Jiaotong University, Xi'an710049, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of chemical information and modeling"
+    ],
+    "journal_abbrev": [
+      "J Chem Inf Model"
+    ],
+    "pub_date": "2026 Sep 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/14 11:40",
+    "fetched_at": "2026-09-20 07:27:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42734525",
+      "42470695",
+      "41121622",
+      "42341701",
+      "41910880",
+      "42475469",
+      "37448360",
+      "41690335",
+      "33844136",
+      "39133595",
+      "36747300",
+      "42050415",
+      "34576146",
+      "42296491",
+      "41729820",
+      "41758998",
+      "41155330",
+      "42546051",
+      "39999605",
+      "39137398",
+      "41630488",
+      "40853597",
+      "38365583",
+      "41996874",
+      "42196328",
+      "42021142",
+      "42323037",
+      "42446537",
+      "42476249",
+      "42286075",
+      "40447614",
+      "41568098",
+      "40481301",
+      "42489038",
+      "42464502",
+      "39940990",
+      "37633938",
+      "42123604",
+      "42572360",
+      "42357559",
+      "41596767",
+      "42562990",
+      "34944427",
+      "41441912",
+      "40959983",
+      "35561181",
+      "33295676",
+      "42224430",
+      "42265060",
+      "40609289",
+      "33517357",
+      "41709935",
+      "39833138",
+      "41037779",
+      "42057604",
+      "40024184",
+      "36071406",
+      "41977325",
+      "39596300",
+      "41455180",
+      "41629789",
+      "37764321",
+      "39456200",
+      "42508541",
+      "39208057",
+      "40073710",
+      "27829343",
+      "38360082",
+      "41820521",
+      "35426249",
+      "40414522",
+      "40795814",
+      "42053777",
+      "41260786",
+      "42137320",
+      "38547658",
+      "41662351",
+      "40466979",
+      "42046069",
+      "37778659",
+      "41351213",
+      "42495185",
+      "42653201",
+      "40239449",
+      "40531093",
+      "41347164",
+      "36736583",
+      "42001823",
+      "42535626",
+      "41540516",
+      "41547300",
+      "33070179",
+      "42153366",
+      "39653581",
+      "40611656",
+      "39206753",
+      "42369365",
+      "42058982",
+      "42437450",
+      "41370157"
+    ],
+    "review": [
+      "42734525",
+      "42470695",
+      "41121622",
+      "41910880",
+      "41690335",
+      "33844136",
+      "34576146",
+      "41729820",
+      "41155330",
+      "42546051",
+      "39999605",
+      "41630488",
+      "40853597",
+      "41996874",
+      "42196328",
+      "42446537",
+      "41568098",
+      "42123604",
+      "42572360",
+      "42357559",
+      "40959983",
+      "33295676",
+      "40609289",
+      "41709935",
+      "41977325",
+      "39596300",
+      "42508541",
+      "35426249",
+      "40414522",
+      "41260786",
+      "42137320",
+      "41662351",
+      "37778659",
+      "41351213",
+      "42495185",
+      "36736583",
+      "42535626",
+      "42153366",
+      "42369365",
+      "42058982"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/jcisd8/article-lookup/doi/10.1021/acs.jcim.6c01920",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,635 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.15.751537",
+  "title": "A Unified 3D Generative Model for Synthesizable Structure-Based Drug Design",
+  "doi": "10.64898/2026.09.15.751537",
+  "abstract": "Traditional screening-based drug discovery is inherently limited by the astronomical scale of the chemical space. Generative modelling offers a compelling alternative to the classical search paradigm and enables rational, bottom-up design of novel and target-specific small molecules. However, its impact has been hampered by challenges in synthetic accessibility of the designed compounds and lack of large-scale experimental validation. Here, we introduce LDDM (Large Drug Discovery Model), a generative framework that supports a range of drug discovery tasks, including constrained and unconstrained docking, fragment linking and growing, and de novo design. We further introduce a programmable design algorithm that enables accurate design of synthetically accessible compounds satisfying various fine-grained objectives. We experimentally validated the designed or optimised ligands for five therapeutically relevant protein targets. In all cases, LDDM achieved high success rates, allowing us to identify molecules with confirmed binding affinity while synthesizing only a small number of generated compounds. The best designs were structurally characterised through NMR spectroscopy and X-ray crystallography, demonstrating high prediction accuracy. Overall, LDDM provides a scalable and flexible platform for the rapid and tailored design of small molecules and non-natural peptides for therapeutic applications.",
+  "authors": [
+    "Ilia Igashov",
+    "Arne Schneuing",
+    "Adrian W. Dobbelstein",
+    "Irina Morozova",
+    "Rebecca M. Neeser",
+    "Kara Zielinski",
+    "Luciano Andres Abriata",
+    "Aaron S. Petruzzella",
+    "David R. Pavel Iosub",
+    "Olivia Gampp",
+    "Artem Y. Lyubimov",
+    "Evgenia Elizarova",
+    "Isabella Ferrara",
+    "Pedro M. F. Sousa",
+    "Ana R. Lemos",
+    "Fabio Testori",
+    "Pierre A. Miranda Herrera",
+    "Laurin Kanis",
+    "Joseph Schmidt",
+    "Mac Kevin E. Braza",
+    "Rommie E. Amaro",
+    "Nicolas Thoma",
+    "Davide M. Ferraris",
+    "Roland Riek",
+    "James S. Fraser",
+    "Philippe Schwaller",
+    "Michael Bronstein",
+    "Bruno Correia"
+  ],
+  "published_date": "2026-09-18",
+  "updated_date": "2026-09-18T21:45:18Z",
+  "journal": "bioRxiv",
+  "category": "Bioinformatics",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.15.751537",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.15.751537.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [
+    "Bioinformatics"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Bioinformatics",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            18
+          ]
+        ],
+        "date-time": "2026-09-18T22:03:52Z",
+        "timestamp": 1789769032269,
+        "version": "4.0.1"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            18
+          ]
+        ]
+      },
+      "group-title": "Bioinformatics",
+      "reference-count": 0,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                18
+              ]
+            ],
+            "date-time": "2026-09-18T00:00:00Z",
+            "timestamp": 1789689600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            18
+          ]
+        ]
+      },
+      "abstract": "<jats:p>Traditional screening-based drug discovery is inherently limited by the astronomical scale of the chemical space. Generative modelling offers a compelling alternative to the classical search paradigm and enables rational, bottom-up design of novel and target-specific small molecules. However, its impact has been hampered by challenges in synthetic accessibility of the designed compounds and lack of large-scale experimental validation. Here, we introduce LDDM (Large Drug Discovery Model), a generative framework that supports a range of drug discovery tasks, including constrained and unconstrained docking, fragment linking and growing, and de novo design. We further introduce a programmable design algorithm that enables accurate design of synthetically accessible compounds satisfying various fine-grained objectives. We experimentally validated the designed or optimised ligands for five therapeutically relevant protein targets. In all cases, LDDM achieved high success rates, allowing us to identify molecules with confirmed binding affinity while synthesizing only a small number of generated compounds. The best designs were structurally characterised through NMR spectroscopy and X-ray crystallography, demonstrating high prediction accuracy. Overall, LDDM provides a scalable and flexible platform for the rapid and tailored design of small molecules and non-natural peptides for therapeutic applications.</jats:p>",
+      "DOI": "10.64898/2026.09.15.751537",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            18
+          ]
+        ],
+        "date-time": "2026-09-18T21:45:18Z",
+        "timestamp": 1789767918000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "A Unified 3D Generative Model for Synthesizable Structure-Based Drug Design"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "given": "Ilia",
+          "family": "Igashov",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Institute of Bioengineering, EPFL, Switzerland;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Arne",
+          "family": "Schneuing",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute of Bioengineering, EPFL, Switzerland;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Adrian W.",
+          "family": "Dobbelstein",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute of Bioengineering, EPFL, Switzerland;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Irina",
+          "family": "Morozova",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute of Bioengineering, EPFL, Switzerland;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Rebecca M.",
+          "family": "Neeser",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute of Bioengineering, EPFL, Switzerland;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Kara",
+          "family": "Zielinski",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Bioengineering and Therapeutic Sciences, University of California, San Francisco, CA, USA;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Luciano Andres",
+          "family": "Abriata",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute of Bioengineering, EPFL, Switzerland;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Aaron S.",
+          "family": "Petruzzella",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute of Bioengineering, EPFL, Switzerland;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "David R.",
+          "family": "Pavel Iosub",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute of Bioengineering, EPFL, Switzerland;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Olivia",
+          "family": "Gampp",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute of Molecular Physical Sciences, ETH Zurich, Switzerland;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Artem Y.",
+          "family": "Lyubimov",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Bioengineering and Therapeutic Sciences, University of California, San Francisco, CA, USA;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Evgenia",
+          "family": "Elizarova",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute of Bioengineering, EPFL, Switzerland;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Isabella",
+          "family": "Ferrara",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Discovery and Development Technologies, Merck Healthcare KGaA, Darmstadt, Germany;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Pedro M. F.",
+          "family": "Sousa",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "iBET, Instituto de Biologia Experimental e Tecnologica, Apartado 12, 2781-901 Oeiras, Portugal;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ana R.",
+          "family": "Lemos",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "iBET, Instituto de Biologia Experimental e Tecnologica, Apartado 12, 2781-901 Oeiras, Portugal;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Fabio",
+          "family": "Testori",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Pharmaceutical Sciences, University of Piemonte Orientale, Novara, Italy;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Pierre A.",
+          "family": "Miranda Herrera",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Life Sciences, EPFL, Switzerland;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Laurin",
+          "family": "Kanis",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Life Sciences, EPFL, Switzerland;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Joseph",
+          "family": "Schmidt",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute of Bioengineering, EPFL, Switzerland;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Mac Kevin E.",
+          "family": "Braza",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Molecular Biology, University of California, San Diego, California, United States;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Rommie E.",
+          "family": "Amaro",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Molecular Biology, University of California, San Diego, California, United States;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Nicolas",
+          "family": "Thoma",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Life Sciences, EPFL, Switzerland;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Davide M.",
+          "family": "Ferraris",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Pharmaceutical Sciences, University of Piemonte Orientale, Novara, Italy;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Roland",
+          "family": "Riek",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute of Molecular Physical Sciences, ETH Zurich, Switzerland;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "James S.",
+          "family": "Fraser",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Bioengineering and Therapeutic Sciences, University of California, San Francisco, CA, USA;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Philippe",
+          "family": "Schwaller",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute of Chemical Sciences and Engineering, EPFL, Switzerland;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Michael",
+          "family": "Bronstein",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "AITHYRA Research Institute for Biomedical Artificial Intelligence, Austrian Academy of Sciences, Vienna, Austria"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Bruno",
+          "family": "Correia",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute of Bioengineering, EPFL, Switzerland;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.09.15.751537",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            18
+          ]
+        ],
+        "date-time": "2026-09-18T21:45:18Z",
+        "timestamp": 1789767918000
+      },
+      "score": 30.784351,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.09.15.751537"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            18
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.64898/2026.09.15.751537",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            18
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

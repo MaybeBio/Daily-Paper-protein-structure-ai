@@ -1,0 +1,236 @@
+{
+  "identity": {
+    "pmid": "42746578",
+    "doi": "10.1093/biomethods/bpag045",
+    "title": "Reverse vaccinology and immunoinformatics identify multi-epitope vaccine candidates against molluscum contagiosum virus."
+  },
+  "content": {
+    "abstract": "Molluscum contagiosum virus (MCV) is a human-specific poxvirus responsible for a common contagious skin infection, yet no licensed prophylactic vaccine is available. Therefore, this study aimed to identify potential vaccine candidates against MCV using integrated reverse vaccinology and immunoinformatics approach. Candidate proteins involved in immune evasion, viral entry, and virion assembly were assessed for physicochemical properties, transmembrane topology, antigenicity, allergenicity, and toxicity. Linear B-cell, cytotoxic T-lymphocyte (CTL), and helper T-lymphocyte (HTL) epitopes were predicted and prioritized based on antigenicity, safety, HLA-binding affinity, and worldwide population coverage. The selected epitopes were assembled into a multi-epitope vaccine construct, followed by physicochemical characterization, secondary and tertiary structure prediction, and molecular docking analysis with Toll-like receptor 4 (TLR4). Eight candidate proteins were selected for immunoinformatics analysis, of which six were predicted to be antigenic. Five HTL epitopes, five CTL epitopes, and three non-toxic antigenic B-cell epitopes were selected, providing an estimated worldwide population coverage of 80.69%. The final 351-amino acid construct had a predicted molecular weight of 37.48 kDa, an instability index of 33.29, and a hydrophilic GRAVY value of -0.201. AlphaFold 3 produced a structurally organized model, while docking predicted a favorable interaction with TLR4 (score, -190.46) supported by hydrogen bonds, salt bridges, and electrostatic interactions. The vaccine construct exhibited favorable physicochemical properties, broad population coverage, structural stability, and strong interaction with TLR4, suggesting its potential as a prophylactic vaccine candidate. Nevertheless, further in vitro and in vivo experimental validation is required to confirm its safety and protective efficacy.",
+    "keywords": [
+      "TLR4",
+      "immunoinformatics",
+      "molluscum contagiosum virus",
+      "multi-epitope vaccine",
+      "reverse vaccinology"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Khalaf, Shahrazad A",
+        "Jasim, Musaab M",
+        "Jasim, Younus",
+        "Naser, Murtada"
+      ],
+      "short_names": [
+        "Khalaf SA",
+        "Jasim MM",
+        "Jasim Y",
+        "Naser M"
+      ],
+      "auids": [
+        "ORCID: 0009-0005-8062-7472"
+      ],
+      "affiliations": [
+        "Department of Forensic Sciences, College of Science, University of Diyala, Baqubah 32001, Iraq.",
+        "Department of Forensic Sciences, College of Science, University of Diyala, Baqubah 32001, Iraq.",
+        "Department of Medical Laboratory Technologies and Artificial Intelligence, High Institute of Health Technologies and Artificial Intelligence, Northern Technical University, Mosul 41000, Iraq.",
+        "Division of BioInvasions, Global Change and Macroecology, Department of Botany and Biodiversity Research, University of Vienna, Vienna 1030, Austria."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Khalaf, Shahrazad A",
+        "short_name": "Khalaf SA",
+        "identifiers": [
+          "0009-0005-8062-7472"
+        ],
+        "affiliations": [
+          "Department of Forensic Sciences, College of Science, University of Diyala, Baqubah 32001, Iraq."
+        ]
+      },
+      {
+        "full_name": "Jasim, Musaab M",
+        "short_name": "Jasim MM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Forensic Sciences, College of Science, University of Diyala, Baqubah 32001, Iraq."
+        ]
+      },
+      {
+        "full_name": "Jasim, Younus",
+        "short_name": "Jasim Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Laboratory Technologies and Artificial Intelligence, High Institute of Health Technologies and Artificial Intelligence, Northern Technical University, Mosul 41000, Iraq."
+        ]
+      },
+      {
+        "full_name": "Naser, Murtada",
+        "short_name": "Naser M",
+        "identifiers": [],
+        "affiliations": [
+          "Division of BioInvasions, Global Change and Macroecology, Department of Botany and Biodiversity Research, University of Vienna, Vienna 1030, Austria."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biology methods & protocols"
+    ],
+    "journal_abbrev": [
+      "Biol Methods Protoc"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/16 11:41",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42746578",
+      "42192530",
+      "42696180",
+      "38028215",
+      "41929236",
+      "42436212",
+      "42064452",
+      "42710342",
+      "41599631",
+      "40830404",
+      "36845087",
+      "41444309",
+      "42445188",
+      "40854643",
+      "34425197",
+      "42333966",
+      "41083417",
+      "40226615",
+      "41949632",
+      "41822585",
+      "36776835",
+      "41028278",
+      "41629588",
+      "41674438",
+      "42676359",
+      "41897006",
+      "41901750",
+      "42148102",
+      "41792674",
+      "36775659",
+      "41706189",
+      "41381008",
+      "39936152",
+      "42137845",
+      "41593501",
+      "42380441",
+      "40854630",
+      "41915177",
+      "41252394",
+      "42417153",
+      "40688509",
+      "41791311",
+      "41304878",
+      "40265107",
+      "40957351",
+      "42653802",
+      "33352214",
+      "40594603",
+      "40610881",
+      "42600189",
+      "40589333",
+      "40739488",
+      "42025584",
+      "38938443",
+      "42527813",
+      "40583904",
+      "39325755",
+      "41239337",
+      "41593466",
+      "36700877",
+      "39441880",
+      "41781575",
+      "41196893",
+      "40564159",
+      "41660213",
+      "39840071",
+      "39091165",
+      "36603375",
+      "42365117",
+      "42168870",
+      "31394292",
+      "42696893",
+      "41457476",
+      "38617694",
+      "40177491",
+      "41343928",
+      "42289006",
+      "34611250",
+      "41765043",
+      "42424695",
+      "38301512",
+      "41023772",
+      "39642099",
+      "41211458",
+      "33895459",
+      "39703502",
+      "42250659",
+      "42213354",
+      "41534429",
+      "42484859",
+      "41211464",
+      "39921843",
+      "37340917",
+      "41484553",
+      "36829112",
+      "41526444",
+      "37309762",
+      "36713875",
+      "40698087",
+      "37146081"
+    ],
+    "review": [
+      "42746578"
+    ],
+    "pmc": [
+      "13577158"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42746578/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-HLA-DPB1-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/biomethods/article-lookup/doi/10.1093/biomethods/bpag045",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

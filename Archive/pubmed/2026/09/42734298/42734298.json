@@ -1,0 +1,279 @@
+{
+  "identity": {
+    "pmid": "42734298",
+    "doi": "10.1093/glycob/cwag075",
+    "title": "Dynamic inter-glycan interactions regulate site-specific N-glycan maturation in human Fcgamma receptor III."
+  },
+  "content": {
+    "abstract": "Protein N-glycosylation generates diverse glycoforms that influence protein structure and function, yet the molecular rules governing site-specific glycan maturation remain incompletely understood. Accumulating evidence indicates that glycosylation outcomes are shaped by determinants embedded within glycoproteins themselves, beyond enzyme availability alone. Here, we investigate how neighboring glycans modulate site-specific N-glycan maturation in human Fcgamma receptor III (FcgammaRIII). Building on previous glycoproteomic studies showing restricted processing of the N45 glycan in FcgammaRIII molecules, we combined reciprocal glycosylation-site mutagenesis with molecular dynamics simulations. Introduction of an N64 glycosylation sequon into FcgammaRIIIa reduced N45 glycan maturation, whereas removal of the N64 sequon from FcgammaRIIIb produced the reciprocal effect. Simulations using glycan models, analyzed primarily by contact maps and contact frequencies, showed that the N45 glycan dynamically contacts neighboring N64 and N169 glycans. These findings support a model in which the isoform-specific N64 glycan, in addition to the adjacent N169 glycan shared by both FcgammaRIII isoforms, contributes to reduced N45 glycan maturation by reshaping the local glycan environment around N45.",
+    "keywords": [
+      "N-glycan maturation",
+      "Fcgamma receptor III",
+      "inter-glycan interaction",
+      "molecular dynamics simulation",
+      "site-specific glycosylation"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Receptors, IgG/chemistry/metabolism/genetics",
+      "*Polysaccharides/chemistry/metabolism",
+      "Glycosylation",
+      "Molecular Dynamics Simulation",
+      "GPI-Linked Proteins/chemistry/metabolism/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Yue",
+        "Yagi, Hirokazu",
+        "Okina, Masako",
+        "Hashimoto, Yutaka",
+        "Kato, Koichi",
+        "Yamaguchi, Takumi"
+      ],
+      "short_names": [
+        "Zhang Y",
+        "Yagi H",
+        "Okina M",
+        "Hashimoto Y",
+        "Kato K",
+        "Yamaguchi T"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-9296-0225",
+        "ORCID: 0000-0001-7187-9612",
+        "ORCID: 0000-0003-1521-1153"
+      ],
+      "affiliations": [
+        "School of Materials Science, Japan Advanced Institute of Science and Technology, 1-1 Asahidai, Nomi 9231292, Japan.",
+        "Graduate School of Pharmaceutical Sciences, Nagoya City University, 3-1 Tanabe-dori, Mizuho-ku, Nagoya 467-8603, Japan.",
+        "Exploratory Research Center on Life and Living Systems (ExCELLS), National Institutes of Natural Sciences, 5-1 Higashiyama, Myodaiji-cho, Okazaki 444-8787, Japan.",
+        "Graduate School of Medical Sciences, Nagoya City University, 1 Kawasumi, Mizuho-cho, Mizuho-ku, Nagoya 467-8601, Japan.",
+        "Graduate School of Medical Sciences, Nagoya City University, 1 Kawasumi, Mizuho-cho, Mizuho-ku, Nagoya 467-8601, Japan.",
+        "Graduate School of Pharmaceutical Sciences, Nagoya City University, 3-1 Tanabe-dori, Mizuho-ku, Nagoya 467-8603, Japan.",
+        "Exploratory Research Center on Life and Living Systems (ExCELLS), National Institutes of Natural Sciences, 5-1 Higashiyama, Myodaiji-cho, Okazaki 444-8787, Japan.",
+        "Institute for Molecular Science, National Institutes of Natural Sciences, 5-1 Higashiyama, Myodaiji-cho, Okazaki 444-8787, Japan.",
+        "School of Materials Science, Japan Advanced Institute of Science and Technology, 1-1 Asahidai, Nomi 9231292, Japan.",
+        "Graduate School of Pharmaceutical Sciences, Nagoya City University, 3-1 Tanabe-dori, Mizuho-ku, Nagoya 467-8603, Japan.",
+        "Exploratory Research Center on Life and Living Systems (ExCELLS), National Institutes of Natural Sciences, 5-1 Higashiyama, Myodaiji-cho, Okazaki 444-8787, Japan."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Yue",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Materials Science, Japan Advanced Institute of Science and Technology, 1-1 Asahidai, Nomi 9231292, Japan."
+        ]
+      },
+      {
+        "full_name": "Yagi, Hirokazu",
+        "short_name": "Yagi H",
+        "identifiers": [
+          "0000-0001-9296-0225"
+        ],
+        "affiliations": [
+          "Graduate School of Pharmaceutical Sciences, Nagoya City University, 3-1 Tanabe-dori, Mizuho-ku, Nagoya 467-8603, Japan.",
+          "Exploratory Research Center on Life and Living Systems (ExCELLS), National Institutes of Natural Sciences, 5-1 Higashiyama, Myodaiji-cho, Okazaki 444-8787, Japan."
+        ]
+      },
+      {
+        "full_name": "Okina, Masako",
+        "short_name": "Okina M",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate School of Medical Sciences, Nagoya City University, 1 Kawasumi, Mizuho-cho, Mizuho-ku, Nagoya 467-8601, Japan."
+        ]
+      },
+      {
+        "full_name": "Hashimoto, Yutaka",
+        "short_name": "Hashimoto Y",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate School of Medical Sciences, Nagoya City University, 1 Kawasumi, Mizuho-cho, Mizuho-ku, Nagoya 467-8601, Japan."
+        ]
+      },
+      {
+        "full_name": "Kato, Koichi",
+        "short_name": "Kato K",
+        "identifiers": [
+          "0000-0001-7187-9612"
+        ],
+        "affiliations": [
+          "Graduate School of Pharmaceutical Sciences, Nagoya City University, 3-1 Tanabe-dori, Mizuho-ku, Nagoya 467-8603, Japan.",
+          "Exploratory Research Center on Life and Living Systems (ExCELLS), National Institutes of Natural Sciences, 5-1 Higashiyama, Myodaiji-cho, Okazaki 444-8787, Japan.",
+          "Institute for Molecular Science, National Institutes of Natural Sciences, 5-1 Higashiyama, Myodaiji-cho, Okazaki 444-8787, Japan."
+        ]
+      },
+      {
+        "full_name": "Yamaguchi, Takumi",
+        "short_name": "Yamaguchi T",
+        "identifiers": [
+          "0000-0003-1521-1153"
+        ],
+        "affiliations": [
+          "School of Materials Science, Japan Advanced Institute of Science and Technology, 1-1 Asahidai, Nomi 9231292, Japan.",
+          "Graduate School of Pharmaceutical Sciences, Nagoya City University, 3-1 Tanabe-dori, Mizuho-ku, Nagoya 467-8603, Japan.",
+          "Exploratory Research Center on Life and Living Systems (ExCELLS), National Institutes of Natural Sciences, 5-1 Higashiyama, Myodaiji-cho, Okazaki 444-8787, Japan."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Glycobiology"
+    ],
+    "journal_abbrev": [
+      "Glycobiology"
+    ],
+    "pub_date": "2026 Aug 23",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/14 11:40",
+    "fetched_at": "2026-09-20 07:27:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42734298",
+      "32222585",
+      "25345863",
+      "23777450",
+      "31888963",
+      "29330305",
+      "38363599",
+      "41925250",
+      "30559323",
+      "29062024",
+      "39453384",
+      "42026724",
+      "41125172",
+      "22798492",
+      "28978918",
+      "29426894",
+      "9442070",
+      "29931153",
+      "30213862",
+      "36189205",
+      "42471506",
+      "41757486",
+      "39982033",
+      "15677380",
+      "31967297",
+      "28679530",
+      "30484251",
+      "39680039",
+      "22004528",
+      "28576848",
+      "21558494",
+      "28613884",
+      "27582391",
+      "27732771",
+      "42737725",
+      "40763016",
+      "38757972",
+      "40824089",
+      "28566370",
+      "42747268",
+      "30659587",
+      "39667665",
+      "23001782",
+      "41116571",
+      "9063885",
+      "33103998",
+      "42748145",
+      "42475469",
+      "39007905",
+      "35995381",
+      "25231998",
+      "12145191",
+      "28230186",
+      "25199692",
+      "40958474",
+      "22118044",
+      "21561106",
+      "26240167",
+      "28465241",
+      "42478700",
+      "42001238",
+      "37202422",
+      "32699088",
+      "41652453",
+      "30305355",
+      "30683699",
+      "39194224",
+      "36089065",
+      "38728322",
+      "26984886",
+      "39769415",
+      "34067878",
+      "26190824",
+      "35304921",
+      "36244450",
+      "38038930",
+      "22589538",
+      "38393644",
+      "35616904",
+      "27007620",
+      "39676134",
+      "28714086",
+      "27489265",
+      "22171062",
+      "40015632",
+      "2327792",
+      "39235835",
+      "21647803",
+      "35671609",
+      "31025190",
+      "38428397",
+      "23994444",
+      "31467031",
+      "34343291",
+      "42343654",
+      "42438101",
+      "19415110",
+      "25551295",
+      "36965447",
+      "9673446"
+    ],
+    "review": [
+      "42734298",
+      "22798492",
+      "30484251",
+      "28465241",
+      "42478700",
+      "27007620"
+    ],
+    "pmc": [
+      "13580079"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42734298/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/glycob/article-lookup/doi/10.1093/glycob/cwag075",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

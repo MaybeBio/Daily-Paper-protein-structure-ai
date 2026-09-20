@@ -1,0 +1,368 @@
+{
+  "identity": {
+    "pmid": "42743273",
+    "doi": "10.1073/pnas.2616547123",
+    "title": "NMR crystallography reveals active-site protonation states of Toho-1 beta-lactamase in complex with avibactam."
+  },
+  "content": {
+    "abstract": "The determination of active-site protonation states is critical for a full mechanistic understanding of enzyme catalysis and inhibition. Here, we employ NMR crystallography-the integrated combination of solid-state NMR spectroscopy, X-ray diffraction, and first-principles computational chemistry-to determine the protonation states of the active site of Toho-1 beta-lactamase in complex with the non-beta-lactam inhibitor avibactam. We report two X-ray crystal structures of the Toho-1:avibactam complex, along with high-field solid-state NMR measurements that enable near-complete backbone and side-chain resonance assignments. To overcome the computational scaling limits that have traditionally hindered NMR crystallography in large systems, we use an accelerated workflow in which machine-learning interatomic potentials enable efficient geometry refinement prior to density functional theory chemical shift calculations. For Toho-1, quantitative analysis of the active-site chemical shifts and chemical shift tensors using this hybrid protocol reveals that the key active-site side chains retain their canonical charge states in the presence of avibactam, with Lys73 and Lys234 protonated and positively charged, and Glu166 deprotonated and poised to function as a general base. Contrary to recent proposals suggesting that avibactam inhibits by suppressing essential proton transfers through pK(a) perturbations, our data point to a more direct chemical origin arising from the intrinsic resistance of the Ser70-avibactam carbamoyl linkage to hydrolysis.",
+    "keywords": [
+      "MAS CryoProbe",
+      "NMR crystallography",
+      "Toho-1 beta-lactamase",
+      "UMA MLIP",
+      "avibactam"
+    ],
+    "mesh_terms": [
+      "*Azabicyclo Compounds/chemistry/metabolism",
+      "*beta-Lactamases/chemistry/metabolism",
+      "Crystallography, X-Ray",
+      "Catalytic Domain",
+      "Protons",
+      "Magnetic Resonance Spectroscopy/methods",
+      "Models, Molecular",
+      "beta-Lactamase Inhibitors/chemistry"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Williams, Christopher G",
+        "Wang, Songlin",
+        "Carta, Veronica",
+        "Langan, Patricia S",
+        "Thome, Alexander F",
+        "Ramos, Sebastian A",
+        "Holmes, Jacob B",
+        "Ghosh, Rittik K",
+        "Weiss, Kevin L",
+        "Beran, Gregory J O",
+        "Hartman, Joshua D",
+        "Coates, Leighton",
+        "Rienstra, Chad M",
+        "Mueller, Leonard J"
+      ],
+      "short_names": [
+        "Williams CG",
+        "Wang S",
+        "Carta V",
+        "Langan PS",
+        "Thome AF",
+        "Ramos SA",
+        "Holmes JB",
+        "Ghosh RK",
+        "Weiss KL",
+        "Beran GJO",
+        "Hartman JD",
+        "Coates L",
+        "Rienstra CM",
+        "Mueller LJ"
+      ],
+      "auids": [
+        "ORCID: 0009-0009-8319-4413",
+        "ORCID: 0000-0002-7588-7377",
+        "ORCID: 0000-0002-1097-5958",
+        "ORCID: 0009-0003-1144-0677",
+        "ORCID: 0000-0002-6486-8007",
+        "ORCID: 0000-0002-2229-2580",
+        "ORCID: 0000-0003-2342-049X",
+        "ORCID: 0000-0002-2607-9875"
+      ],
+      "affiliations": [
+        "Department of Chemistry, University of California-Riverside, Riverside, CA 92521.",
+        "Department of Biochemistry, University of Wisconsin-Madison, Madison, WI 53706. ROR: https://ror.org/01y2jtd41",
+        "National Magnetic Resonance Facility at Madison, University of Wisconsin-Madison, Madison, WI 53706. ROR: https://ror.org/01y2jtd41",
+        "Department of Chemistry, University of California-Riverside, Riverside, CA 92521.",
+        "Oak Ridge National Laboratory, Neutron Scattering Science Division, Oak Ridge, TN 37831. ROR: https://ror.org/01qz5mb56",
+        "Department of Chemistry, University of California-Riverside, Riverside, CA 92521.",
+        "Department of Chemistry, University of California-Riverside, Riverside, CA 92521.",
+        "Department of Chemistry, University of California-Riverside, Riverside, CA 92521.",
+        "Department of Chemistry, University of California-Riverside, Riverside, CA 92521.",
+        "Oak Ridge National Laboratory, Neutron Scattering Science Division, Oak Ridge, TN 37831. ROR: https://ror.org/01qz5mb56",
+        "Department of Chemistry, University of California-Riverside, Riverside, CA 92521.",
+        "Department of Chemistry, University of California-Riverside, Riverside, CA 92521.",
+        "Oak Ridge National Laboratory, Neutron Scattering Science Division, Oak Ridge, TN 37831. ROR: https://ror.org/01qz5mb56",
+        "Department of Biochemistry, University of Wisconsin-Madison, Madison, WI 53706. ROR: https://ror.org/01y2jtd41",
+        "National Magnetic Resonance Facility at Madison, University of Wisconsin-Madison, Madison, WI 53706. ROR: https://ror.org/01y2jtd41",
+        "Department of Chemistry, University of California-Riverside, Riverside, CA 92521."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Williams, Christopher G",
+        "short_name": "Williams CG",
+        "identifiers": [
+          "0009-0009-8319-4413"
+        ],
+        "affiliations": [
+          "Department of Chemistry, University of California-Riverside, Riverside, CA 92521."
+        ]
+      },
+      {
+        "full_name": "Wang, Songlin",
+        "short_name": "Wang S",
+        "identifiers": [
+          "0000-0002-7588-7377"
+        ],
+        "affiliations": [
+          "Department of Biochemistry, University of Wisconsin-Madison, Madison, WI 53706.",
+          "National Magnetic Resonance Facility at Madison, University of Wisconsin-Madison, Madison, WI 53706."
+        ]
+      },
+      {
+        "full_name": "Carta, Veronica",
+        "short_name": "Carta V",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, University of California-Riverside, Riverside, CA 92521."
+        ]
+      },
+      {
+        "full_name": "Langan, Patricia S",
+        "short_name": "Langan PS",
+        "identifiers": [
+          "0000-0002-1097-5958"
+        ],
+        "affiliations": [
+          "Oak Ridge National Laboratory, Neutron Scattering Science Division, Oak Ridge, TN 37831."
+        ]
+      },
+      {
+        "full_name": "Thome, Alexander F",
+        "short_name": "Thome AF",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, University of California-Riverside, Riverside, CA 92521."
+        ]
+      },
+      {
+        "full_name": "Ramos, Sebastian A",
+        "short_name": "Ramos SA",
+        "identifiers": [
+          "0009-0003-1144-0677"
+        ],
+        "affiliations": [
+          "Department of Chemistry, University of California-Riverside, Riverside, CA 92521."
+        ]
+      },
+      {
+        "full_name": "Holmes, Jacob B",
+        "short_name": "Holmes JB",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, University of California-Riverside, Riverside, CA 92521."
+        ]
+      },
+      {
+        "full_name": "Ghosh, Rittik K",
+        "short_name": "Ghosh RK",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, University of California-Riverside, Riverside, CA 92521."
+        ]
+      },
+      {
+        "full_name": "Weiss, Kevin L",
+        "short_name": "Weiss KL",
+        "identifiers": [
+          "0000-0002-6486-8007"
+        ],
+        "affiliations": [
+          "Oak Ridge National Laboratory, Neutron Scattering Science Division, Oak Ridge, TN 37831."
+        ]
+      },
+      {
+        "full_name": "Beran, Gregory J O",
+        "short_name": "Beran GJO",
+        "identifiers": [
+          "0000-0002-2229-2580"
+        ],
+        "affiliations": [
+          "Department of Chemistry, University of California-Riverside, Riverside, CA 92521."
+        ]
+      },
+      {
+        "full_name": "Hartman, Joshua D",
+        "short_name": "Hartman JD",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, University of California-Riverside, Riverside, CA 92521."
+        ]
+      },
+      {
+        "full_name": "Coates, Leighton",
+        "short_name": "Coates L",
+        "identifiers": [
+          "0000-0003-2342-049X"
+        ],
+        "affiliations": [
+          "Oak Ridge National Laboratory, Neutron Scattering Science Division, Oak Ridge, TN 37831."
+        ]
+      },
+      {
+        "full_name": "Rienstra, Chad M",
+        "short_name": "Rienstra CM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, University of Wisconsin-Madison, Madison, WI 53706.",
+          "National Magnetic Resonance Facility at Madison, University of Wisconsin-Madison, Madison, WI 53706."
+        ]
+      },
+      {
+        "full_name": "Mueller, Leonard J",
+        "short_name": "Mueller LJ",
+        "identifiers": [
+          "0000-0002-2607-9875"
+        ],
+        "affiliations": [
+          "Department of Chemistry, University of California-Riverside, Riverside, CA 92521."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Proceedings of the National Academy of Sciences of the United States of America"
+    ],
+    "journal_abbrev": [
+      "Proc Natl Acad Sci U S A"
+    ],
+    "pub_date": "2026 Sep 22",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/15 18:07",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42743273",
+      "32123084",
+      "34218390",
+      "32038042",
+      "12962487",
+      "20036259",
+      "30632739",
+      "26340563",
+      "23537227",
+      "27072755",
+      "21168411",
+      "28678295",
+      "23255594",
+      "23439634",
+      "34996869",
+      "25691639",
+      "32285965",
+      "29786960",
+      "31009467",
+      "22753474",
+      "25666153",
+      "28739781",
+      "32518158",
+      "25050826",
+      "31310409",
+      "26057252",
+      "27401561",
+      "31383664",
+      "33723985",
+      "40944392",
+      "38990013",
+      "10757977",
+      "40716019",
+      "31235626",
+      "29707791",
+      "9925786",
+      "15518561",
+      "29089425",
+      "9370435",
+      "8590021",
+      "29095570",
+      "37750722",
+      "27327972",
+      "21142052",
+      "34022225",
+      "27402011",
+      "10545172",
+      "28876489",
+      "26630115",
+      "29785432",
+      "31871087",
+      "25406838",
+      "15152012",
+      "29610205",
+      "28100776",
+      "31010666",
+      "8823158",
+      "11996574",
+      "28115348",
+      "33431411",
+      "30918055",
+      "25022578",
+      "41416622",
+      "26392527",
+      "16460025",
+      "35341315",
+      "39686888",
+      "10436083",
+      "23170891",
+      "28264560",
+      "28348157",
+      "9521648",
+      "39133022",
+      "19538154",
+      "36963495",
+      "26089439",
+      "25525201",
+      "41665356",
+      "27795378",
+      "27997706",
+      "22480335",
+      "24820081",
+      "2005620",
+      "23371303",
+      "25713062",
+      "11472112",
+      "24986496",
+      "15783228",
+      "35779594",
+      "16506777",
+      "17566128",
+      "11827533",
+      "35612361",
+      "40503840",
+      "21345789",
+      "22974281",
+      "30538183",
+      "27779384",
+      "30959050",
+      "22260420"
+    ],
+    "review": [
+      "42743273",
+      "27327972",
+      "23170891",
+      "19538154",
+      "23371303"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.pnas.org/doi/10.1073/pnas.2616547123?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

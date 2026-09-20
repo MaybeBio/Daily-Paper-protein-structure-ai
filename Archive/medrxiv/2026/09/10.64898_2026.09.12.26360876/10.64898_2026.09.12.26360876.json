@@ -1,0 +1,145 @@
+{
+  "source": "medrxiv",
+  "source_id": "10.64898/2026.09.12.26360876",
+  "title": "AI-Based Synthetic Data in Biomedicine: A Decade of Growth and a Persistent Translation Gap",
+  "doi": "10.64898/2026.09.12.26360876",
+  "abstract": "AI-generated synthetic data are increasingly used to address data scarcity, privacy constraints and experimental limitations in biomedicine, but how far these methods have translated into practice remains unclear. We conducted a systematic mapping and bibliometric analysis of 4,143 publications spanning 2015–2025, combining expert annotation with LLM-assisted classification across data modality, medical domain, paper type, deployment status and research stance. Publication volume grew continuously; 77.8% of papers were strongly supportive while critical work remained below 1% . Medical imaging dominated the corpus, consistent with well-characterized transformation-group invariances supporting data augmentation and generative modeling. Highly cited primary research concentrated disproportionately in molecular and pharmaceutical applications, where SE(3)-equivariant architectures and structure-prediction models accelerated generative approaches. Only 27 publications reported operational use; omics and tabular clinical data, lacking well-characterized invariance structures, remained underrepresented. These findings reveal a gap between methodological growth and deployment, motivating investment in evaluation standards, deployment reporting and encoding domain-relevant invariances.",
+  "authors": [
+    "Asgari N",
+    "Pérez IF",
+    "Epelde G",
+    "Zhang L",
+    "Horesh L",
+    "Saab CY",
+    "Muszkat M",
+    "Rosen-Zvi M"
+  ],
+  "published_date": "2026-09-14",
+  "updated_date": "",
+  "journal": "medRxiv",
+  "category": "",
+  "landing_url": "https://www.medrxiv.org/content/10.64898/2026.09.12.26360876",
+  "pdf_url": "https://www.medrxiv.org/content/10.64898/2026.09.12.26360876.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1320048",
+    "raw_record": {
+      "id": "PPR1320048",
+      "source": "PPR",
+      "doi": "10.64898/2026.09.12.26360876",
+      "title": "AI-Based Synthetic Data in Biomedicine: A Decade of Growth and a Persistent Translation Gap",
+      "authorString": "Asgari N, Pérez IF, Epelde G, Zhang L, Horesh L, Saab CY, Muszkat M, Rosen-Zvi M.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Asgari N",
+            "lastName": "Asgari",
+            "firstName": "Navid",
+            "initials": "N"
+          },
+          {
+            "fullName": "Pérez IF",
+            "lastName": "Pérez",
+            "firstName": "Inãki Fernández",
+            "initials": "IF"
+          },
+          {
+            "fullName": "Epelde G",
+            "lastName": "Epelde",
+            "firstName": "Gorka",
+            "initials": "G"
+          },
+          {
+            "fullName": "Zhang L",
+            "lastName": "Zhang",
+            "firstName": "Linghan",
+            "initials": "L"
+          },
+          {
+            "fullName": "Horesh L",
+            "lastName": "Horesh",
+            "firstName": "Lior",
+            "initials": "L"
+          },
+          {
+            "fullName": "Saab CY",
+            "lastName": "Saab",
+            "firstName": "Carl",
+            "initials": "CY"
+          },
+          {
+            "fullName": "Muszkat M",
+            "lastName": "Muszkat",
+            "firstName": "Mordechai",
+            "initials": "M",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-9520-1379"
+            }
+          },
+          {
+            "fullName": "Rosen-Zvi M",
+            "lastName": "Rosen-Zvi",
+            "firstName": "Michal",
+            "initials": "M"
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0002-9520-1379"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "AI-generated synthetic data are increasingly used to address data scarcity, privacy constraints and experimental limitations in biomedicine, but how far these methods have translated into practice remains unclear. We conducted a systematic mapping and bibliometric analysis of  4,143 publications spanning 2015–2025, combining expert annotation with LLM-assisted classification across data modality, medical domain, paper type, deployment status and research stance. Publication volume grew continuously;  77.8% of papers were strongly supportive while critical work remained below  1% . Medical imaging dominated the corpus, consistent with well-characterized transformation-group invariances supporting data augmentation and generative modeling. Highly cited primary research concentrated disproportionately in molecular and pharmaceutical applications, where SE(3)-equivariant architectures and structure-prediction models accelerated generative approaches. Only 27 publications reported operational use; omics and tabular clinical data, lacking well-characterized invariance structures, remained underrepresented. These findings reveal a gap between methodological growth and deployment, motivating investment in evaluation standards, deployment reporting and encoding domain-relevant invariances.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "medRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.09.12.26360876"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-09-16",
+      "firstPublicationDate": "2026-09-14",
+      "firstIndexDate": "2026-09-16",
+      "hasEvaluations": "N"
+    }
+  }
+}

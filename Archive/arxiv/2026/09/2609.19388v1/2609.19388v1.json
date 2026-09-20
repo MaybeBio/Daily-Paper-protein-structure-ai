@@ -1,0 +1,30 @@
+{
+  "source": "arxiv",
+  "source_id": "2609.19388v1",
+  "title": "Machine-Learned Dynamical Representations for Accelerated RiteWeight Convergence",
+  "doi": "",
+  "abstract": "The increasing use of generative models has made ensembles of short molecular dynamics trajectories increasingly common, creating a growing need for methods that can recover physically meaningful steady-state populations and kinetics from improperly weighted conformational ensembles. Randomized Iterative Trajectory Reweighting (RiteWeight) addresses this problem through repeated random clustering and iterative reweighting, without requiring the fixed Markovian discretization used in conventional Markov state models (MSM). However, the choice of reduced feature space in which RiteWeight performs random clustering has not been systematically investigated. Here, we compare two machine-learned representations, DeepTICA and SPIB-VAE, with linear TICA for recovering steady-state observables from flawed distributions. DeepTICA learns nonlinear coordinates by targeting slow transfer-operator eigenmodes, whereas SPIB-VAE compresses configurations into a low-dimensional latent space while retaining information predictive of future metastable states. DeepTICA provided a comparatively robust RiteWeight representation under limited hyperparameter exploration, whereas SPIB-VAE benefited more strongly from broader optimization. Moreover, a kinetic score computed from a coarse MSM at a resolution comparable to that used for RiteWeight random clustering provided a useful criterion for efficiently selecting reduced representations and their hyperparameters for RiteWeight.",
+  "authors": [
+    "Sagar Kania"
+  ],
+  "published_date": "2026-09-16T20:10:57Z",
+  "updated_date": "2026-09-16T20:10:57Z",
+  "journal": "",
+  "category": "physics.chem-ph",
+  "landing_url": "https://arxiv.org/abs/2609.19388v1",
+  "pdf_url": "https://arxiv.org/pdf/2609.19388v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "physics.chem-ph"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2609.19388v1",
+    "raw_categories": [
+      "physics.chem-ph"
+    ],
+    "journal_ref": ""
+  }
+}

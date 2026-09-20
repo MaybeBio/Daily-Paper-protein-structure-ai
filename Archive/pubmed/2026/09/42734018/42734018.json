@@ -1,0 +1,254 @@
+{
+  "identity": {
+    "pmid": "42734018",
+    "doi": "10.1002/cbic.70530",
+    "title": "An Engineered beta-Aminopeptidase With Better Product Selectivity for L-Carnosine Production."
+  },
+  "content": {
+    "abstract": "Efficient enzymaticsynthesis of L-carnosine (L-Car) is often limited by competing hydrolysis and side reactions that reduce substrate utilization and product yield. In this study, a beta-aminopeptidase (CbAP) from Caulobacter sp. was systematically engineered to enhance catalytic selectivity toward L-Car using beta-alaninamide and L-histidine as substrates. Analysis of beta-alaninamide-derived byproducts revealed two major competing pathways, namely beta-alaninamide hydrolysis and self-ligation into short oligopeptides. To evaluate the balance between L-Car synthesis and competing reactions, a composite apparent selectivity index (R(S)) was introduced. Structure-guided mutagenesis targeting residues within 4-6 A of the active site identified several improved variants. Iterative combination of beneficial mutations yielded the optimal mutant CbAP(Q138FF96Y) (CbAP(M2)), exhibiting an approximately 2.3-fold increase in R(S) relative to Q138F and an approximately 3.1-fold increase relative to the wild-type enzyme, with substantial suppression of undesired side reactions. Molecular dynamics simulations indicated that these improvements arise from reduced substrate binding stability and disrupted hydrogen-bonding interactions with beta-alaninamide and L-Car. Under optimized 10 mL-scale conditions, CbAP(M2) produced 37.3 mM L-Car within 1 h, corresponding to a 74.6% yield based on beta-alanine methyl ester, with an STY of 8.44 g L(-) (1) h(-1).",
+    "keywords": [
+      "L-carnosine",
+      "biocatalysis",
+      "catalytic selectivity",
+      "protein engineering",
+      "side reaction suppression",
+      "beta-aminopeptidase"
+    ],
+    "mesh_terms": [
+      "*Protein Engineering",
+      "Substrate Specificity",
+      "*Aminopeptidases/metabolism/genetics/chemistry",
+      "Catalytic Domain",
+      "Models, Molecular"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Guan, Bi-Han",
+        "Yin, Wu-Tong",
+        "Zhao, Chen",
+        "Pan, Jiang",
+        "Xu, Jian-He"
+      ],
+      "short_names": [
+        "Guan BH",
+        "Yin WT",
+        "Zhao C",
+        "Pan J",
+        "Xu JH"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-8871-542X",
+        "ORCID: 0000-0003-4301-7630"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Bioreactor Engineering, School of Biotechnology, East China University of Science and Technology, Shanghai, China.",
+        "State Key Laboratory of Bioreactor Engineering, School of Biotechnology, East China University of Science and Technology, Shanghai, China.",
+        "State Key Laboratory of Bioreactor Engineering, School of Biotechnology, East China University of Science and Technology, Shanghai, China.",
+        "State Key Laboratory of Bioreactor Engineering, School of Biotechnology, East China University of Science and Technology, Shanghai, China.",
+        "Shanghai Collaborative Innovation Centre for Biomanufacturing, East China University of Science and Technology, Shanghai, China.",
+        "State Key Laboratory of Bioreactor Engineering, School of Biotechnology, East China University of Science and Technology, Shanghai, China.",
+        "Shanghai Collaborative Innovation Centre for Biomanufacturing, East China University of Science and Technology, Shanghai, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Guan, Bi-Han",
+        "short_name": "Guan BH",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Bioreactor Engineering, School of Biotechnology, East China University of Science and Technology, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Yin, Wu-Tong",
+        "short_name": "Yin WT",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Bioreactor Engineering, School of Biotechnology, East China University of Science and Technology, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Chen",
+        "short_name": "Zhao C",
+        "identifiers": [
+          "0000-0001-8871-542X"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Bioreactor Engineering, School of Biotechnology, East China University of Science and Technology, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Pan, Jiang",
+        "short_name": "Pan J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Bioreactor Engineering, School of Biotechnology, East China University of Science and Technology, Shanghai, China.",
+          "Shanghai Collaborative Innovation Centre for Biomanufacturing, East China University of Science and Technology, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Jian-He",
+        "short_name": "Xu JH",
+        "identifiers": [
+          "0000-0003-4301-7630"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Bioreactor Engineering, School of Biotechnology, East China University of Science and Technology, Shanghai, China.",
+          "Shanghai Collaborative Innovation Centre for Biomanufacturing, East China University of Science and Technology, Shanghai, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Chembiochem : a European journal of chemical biology"
+    ],
+    "journal_abbrev": [
+      "Chembiochem"
+    ],
+    "pub_date": "2026 Sep 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/14 05:35",
+    "fetched_at": "2026-09-20 07:27:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42734018",
+      "41192709",
+      "41746290",
+      "15955066",
+      "40163623",
+      "35761267",
+      "41941911",
+      "1540587",
+      "20303368",
+      "22138634",
+      "18952013",
+      "38718874",
+      "11484227",
+      "16981702",
+      "41448471",
+      "39038085",
+      "41795023",
+      "40257260",
+      "25530263",
+      "42479387",
+      "41083092",
+      "10387007",
+      "41407049",
+      "9153075",
+      "18416562",
+      "11724556",
+      "41844511",
+      "42484100",
+      "32673419",
+      "33310097",
+      "41810979",
+      "9500838",
+      "28218509",
+      "39221646",
+      "31550488",
+      "24412328",
+      "25639849",
+      "30217852",
+      "21237246",
+      "16411772",
+      "41577270",
+      "28610588",
+      "42134585",
+      "41203179",
+      "17193247",
+      "10715127",
+      "42083327",
+      "23999297",
+      "19490103",
+      "15713782",
+      "23787698",
+      "7851426",
+      "25450177",
+      "42473898",
+      "21729287",
+      "40460037",
+      "24077706",
+      "19019076",
+      "23583451",
+      "16460001",
+      "24633010",
+      "18042490",
+      "42176064",
+      "26621798",
+      "42319747",
+      "27352363",
+      "26265719",
+      "11722565",
+      "39460447",
+      "10531314",
+      "18593381",
+      "42009150",
+      "22316217",
+      "21255308",
+      "40175674",
+      "41108205",
+      "40669066",
+      "11352732",
+      "32236862",
+      "25372689",
+      "16269763",
+      "6424106",
+      "16611635",
+      "28695846",
+      "31351924",
+      "28106980",
+      "28516207",
+      "19193103",
+      "8117659",
+      "27613682",
+      "27198726",
+      "32727668",
+      "42623864",
+      "33426726",
+      "9268327",
+      "30578259",
+      "40448641",
+      "29685349",
+      "9811545",
+      "39635764"
+    ],
+    "review": [
+      "42734018"
+    ],
+    "pmc": [
+      "13572960"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42734018/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.1002/cbic.70530",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

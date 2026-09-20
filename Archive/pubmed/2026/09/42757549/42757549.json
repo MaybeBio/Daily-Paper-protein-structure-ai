@@ -1,0 +1,292 @@
+{
+  "identity": {
+    "pmid": "42757549",
+    "doi": "10.1002/1873-3468.70459",
+    "title": "Prospecting the protein design landscape."
+  },
+  "content": {
+    "abstract": "Generative AI has driven remarkable breakthroughs in protein design, enabling the rapid, computationally guided creation of high-affinity binders against diverse targets. While remarkable experimental success has been demonstrated, the confidence metrics used to filter and evaluate designs remain optimized for static protein interfaces and can fail when applied to underrepresented or conformationally complex targets. In this review, we outline the current landscape of deep learning-driven protein design pipelines, discuss tailored applications in peptide, small molecule, binder, vaccine, and antibody design, and argue that the integration of ensemble-based methods represents a promising avenue for improving design success rates. Beyond single target binder design, we further highlight emerging strategies that expand the functional scope of designed proteins, including fold-switching scaffolds and molecular glues realized through engineered cyclic peptides, which enable context-dependent control of protein-protein interaction networks. Together, these advances position de novo protein design as a broadly applicable technology platform at the intersection of structural biology, biophysics, and molecular medicine.",
+    "keywords": [
+      "computational protein design",
+      "protein dynamics",
+      "protein function"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Riccabona, Jakob R",
+        "Stonig, Katharina T",
+        "Meiler, Jens",
+        "Schoeder, Clara T",
+        "Fernandez-Quintero, Monica L"
+      ],
+      "short_names": [
+        "Riccabona JR",
+        "Stonig KT",
+        "Meiler J",
+        "Schoeder CT",
+        "Fernandez-Quintero ML"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6811-6283"
+      ],
+      "affiliations": [
+        "Institute for Drug Discovery, Faculty of Medicine, Leipzig University, Germany.",
+        "Center for Scalable Data Analytics and Artificial Intelligence ScaDS.AI, Dresden/Leipzig, Germany.",
+        "Independent researcher, Copenhagen, Denmark.",
+        "Institute for Drug Discovery, Faculty of Medicine, Leipzig University, Germany.",
+        "Center for Scalable Data Analytics and Artificial Intelligence ScaDS.AI, Dresden/Leipzig, Germany.",
+        "School of Embedded Composite Artificial Intelligence SECAI, Dresden/Leipzig, Germany.",
+        "Institute for Computer Science, Faculty of Chemistry, University Leipzig, Germany.",
+        "Department of Chemistry, Department of Pharmacology, Center for Structural Biology, Institute of Chemical Biology, Center for Applied Artificial Intelligence in Protein Dynamics, Vanderbilt University, Nashville, TN, USA.",
+        "Institute for Drug Discovery, Faculty of Medicine, Leipzig University, Germany.",
+        "Center for Scalable Data Analytics and Artificial Intelligence ScaDS.AI, Dresden/Leipzig, Germany.",
+        "Department of Microbiology and Immunology, Novo Nordisk Foundation Initiative for Vaccines and Immunity (NIVI), University of Copenhagen, Denmark.",
+        "Department of Integrative Structural and Computational Biology, The Scripps Research Institute, La Jolla, CA, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Riccabona, Jakob R",
+        "short_name": "Riccabona JR",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Drug Discovery, Faculty of Medicine, Leipzig University, Germany.",
+          "Center for Scalable Data Analytics and Artificial Intelligence ScaDS.AI, Dresden/Leipzig, Germany."
+        ]
+      },
+      {
+        "full_name": "Stonig, Katharina T",
+        "short_name": "Stonig KT",
+        "identifiers": [],
+        "affiliations": [
+          "Independent researcher, Copenhagen, Denmark."
+        ]
+      },
+      {
+        "full_name": "Meiler, Jens",
+        "short_name": "Meiler J",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Drug Discovery, Faculty of Medicine, Leipzig University, Germany.",
+          "Center for Scalable Data Analytics and Artificial Intelligence ScaDS.AI, Dresden/Leipzig, Germany.",
+          "School of Embedded Composite Artificial Intelligence SECAI, Dresden/Leipzig, Germany.",
+          "Institute for Computer Science, Faculty of Chemistry, University Leipzig, Germany.",
+          "Department of Chemistry, Department of Pharmacology, Center for Structural Biology, Institute of Chemical Biology, Center for Applied Artificial Intelligence in Protein Dynamics, Vanderbilt University, Nashville, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Schoeder, Clara T",
+        "short_name": "Schoeder CT",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Drug Discovery, Faculty of Medicine, Leipzig University, Germany.",
+          "Center for Scalable Data Analytics and Artificial Intelligence ScaDS.AI, Dresden/Leipzig, Germany."
+        ]
+      },
+      {
+        "full_name": "Fernández-Quintero, Monica L",
+        "short_name": "Fernández-Quintero ML",
+        "identifiers": [
+          "0000-0002-6811-6283"
+        ],
+        "affiliations": [
+          "Department of Microbiology and Immunology, Novo Nordisk Foundation Initiative for Vaccines and Immunity (NIVI), University of Copenhagen, Denmark.",
+          "Department of Integrative Structural and Computational Biology, The Scripps Research Institute, La Jolla, CA, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "FEBS letters"
+    ],
+    "journal_abbrev": [
+      "FEBS Lett"
+    ],
+    "pub_date": "2026 Sep 18",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/18 12:25",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42757549",
+      "40897171",
+      "42222300",
+      "41675592",
+      "42475469",
+      "41278626",
+      "41940160",
+      "42489162",
+      "42052042",
+      "42620311",
+      "34730945",
+      "42446537",
+      "41409142",
+      "41839238",
+      "41669938",
+      "38109936",
+      "41901326",
+      "40677216",
+      "42515682",
+      "41994287",
+      "42450332",
+      "37175454",
+      "35128926",
+      "42125061",
+      "42441251",
+      "23912807",
+      "35634780",
+      "40399308",
+      "37686057",
+      "41556605",
+      "41253282",
+      "41270120",
+      "40740484",
+      "42056544",
+      "41524971",
+      "37100904",
+      "39605685",
+      "41639692",
+      "40542165",
+      "42039485",
+      "41473986",
+      "41337470",
+      "42170909",
+      "41696819",
+      "37149653",
+      "29214605",
+      "33134275",
+      "40694144",
+      "42377676",
+      "41562285",
+      "39407556",
+      "42658811",
+      "41311232",
+      "42419186",
+      "41007412",
+      "42198231",
+      "42624994",
+      "40887563",
+      "40473172",
+      "39827499",
+      "39954262",
+      "39007594",
+      "34406761",
+      "42246097",
+      "41515342",
+      "42022690",
+      "41778634",
+      "39480992",
+      "41332459",
+      "42638493",
+      "39071443",
+      "34436606",
+      "39803556",
+      "42703937",
+      "28191922",
+      "41753681",
+      "40944422",
+      "42734525",
+      "42508541",
+      "42015308",
+      "41746097",
+      "24005320",
+      "42475171",
+      "40423592",
+      "40368118",
+      "41911471",
+      "39677777",
+      "41130640",
+      "41256639",
+      "41318024",
+      "41262455",
+      "42343133",
+      "41570866",
+      "42410432",
+      "40121710",
+      "40223692",
+      "39842504",
+      "41996874",
+      "42700916",
+      "40425414"
+    ],
+    "review": [
+      "42757549",
+      "40897171",
+      "41940160",
+      "42052042",
+      "42446537",
+      "41839238",
+      "41669938",
+      "41901326",
+      "40677216",
+      "42515682",
+      "41994287",
+      "42450332",
+      "37175454",
+      "35128926",
+      "41253282",
+      "40740484",
+      "42056544",
+      "41639692",
+      "42170909",
+      "29214605",
+      "40694144",
+      "42377676",
+      "39407556",
+      "41311232",
+      "42419186",
+      "41007412",
+      "42198231",
+      "42624994",
+      "40887563",
+      "40473172",
+      "39827499",
+      "41515342",
+      "41778634",
+      "41332459",
+      "42638493",
+      "34436606",
+      "42703937",
+      "28191922",
+      "41753681",
+      "42734525",
+      "42508541",
+      "42015308",
+      "41746097",
+      "42475171",
+      "40423592",
+      "40368118",
+      "41911471",
+      "41130640",
+      "41318024",
+      "41262455",
+      "41570866",
+      "42410432",
+      "40121710",
+      "39842504",
+      "41996874",
+      "42700916"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

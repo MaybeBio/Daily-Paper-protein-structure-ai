@@ -1,0 +1,329 @@
+{
+  "identity": {
+    "pmid": "42741842",
+    "doi": "10.1093/nar/gkag882",
+    "title": "Molecular basis of tRNA substrate recognition and modification by the atypical SPOUT methyltransferase Trm10."
+  },
+  "content": {
+    "abstract": "The evolutionarily conserved methyltransferase Trm10 catalyzes N1 methylation of guanosine 9 (G9) in selected tRNAs, but the basis of specific substrate recognition and modification has remained unclear. Using an S-adenosyl-l-methionine analog, we trapped a post-catalytic state of the Trm10-tRNAGly complex for structure determination by cryogenic electron microscopy. Three distinct complexes were captured: two monomeric Trm10-tRNA complexes with distinct tRNA acceptor stem orientations (\"closed\" and \"open\"), and a minor dimeric complex with two Trm10s bound to the same tRNA. The monomeric structures identify conserved residues involved in tRNA interactions across a positively charged surface that guide G9 into the catalytic site and stabilize the flipped nucleotide. In the tRNAopen conformation, acceptor stem rotation weakens tRNA-protein contacts, consistent with a product-release state. The dimeric complex, supported by tRNA-dependent protein crosslinking and molecular dynamics (MD) simulations, positions one Trm10 on G9 similarly to the monomeric complexes, while the other contacts distal tRNA regions, suggesting a functional role in promoting functionally critical conformational transition(s). MD simulations also show how Trm10 achieves selective stabilization of G9 over A9 in the binding pocket. Overall, our findings reveal the mechanism of G9-specific tRNA methylation by Trm10 and suggest a unique mechanism of action among RNA-modifying SPOUT methyltransferases.",
+    "keywords": [],
+    "mesh_terms": [
+      "*tRNA Methyltransferases/chemistry/metabolism/genetics",
+      "*RNA, Transfer/chemistry/metabolism",
+      "Substrate Specificity",
+      "RNA Methylation",
+      "Nucleic Acid Conformation",
+      "Molecular Dynamics Simulation",
+      "S-Adenosylmethionine/chemistry/metabolism",
+      "Cryoelectron Microscopy",
+      "Catalytic Domain",
+      "*Saccharomyces cerevisiae Proteins/chemistry/metabolism/genetics",
+      "Models, Molecular",
+      "Protein Binding",
+      "Binding Sites"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Nandi, Suparno",
+        "Strassler, Sarah E",
+        "Dey, Debayan",
+        "Whitney, Catherine B",
+        "Roumaya, Olivia B",
+        "Krishnamohan, Aiswarya",
+        "Harris, George M",
+        "Comstock, Lindsay R",
+        "Jackman, Jane E",
+        "Conn, Graeme L"
+      ],
+      "short_names": [
+        "Nandi S",
+        "Strassler SE",
+        "Dey D",
+        "Whitney CB",
+        "Roumaya OB",
+        "Krishnamohan A",
+        "Harris GM",
+        "Comstock LR",
+        "Jackman JE",
+        "Conn GL"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-3534-8002",
+        "ORCID: 0000-0001-7555-9608",
+        "ORCID: 0000-0002-0222-6092",
+        "ORCID: 0000-0003-0777-4706",
+        "ORCID: 0000-0002-1927-1658",
+        "ORCID: 0000-0003-0764-7344",
+        "ORCID: 0000-0001-9291-8852",
+        "ORCID: 0000-0002-2419-380X"
+      ],
+      "affiliations": [
+        "Department of Biochemistry, Emory University School of Medicine, Atlanta, GA 30322, United States.",
+        "Department of Biochemistry, Emory University School of Medicine, Atlanta, GA 30322, United States.",
+        "Department of Biochemistry, Emory University School of Medicine, Atlanta, GA 30322, United States.",
+        "Department of Chemistry and Biochemistry and Center for RNA Biology, The Ohio State University, Columbus, OH 43210, United States.",
+        "Department of Chemistry and Biochemistry and Center for RNA Biology, The Ohio State University, Columbus, OH 43210, United States.",
+        "Department of Chemistry and Biochemistry and Center for RNA Biology, The Ohio State University, Columbus, OH 43210, United States.",
+        "Department of Chemistry, Wake Forest University, Winston-Salem, NC 27109, United States.",
+        "Department of Chemistry, Wake Forest University, Winston-Salem, NC 27109, United States.",
+        "Department of Chemistry and Biochemistry and Center for RNA Biology, The Ohio State University, Columbus, OH 43210, United States.",
+        "Department of Biochemistry, Emory University School of Medicine, Atlanta, GA 30322, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Nandi, Suparno",
+        "short_name": "Nandi S",
+        "identifiers": [
+          "0000-0002-3534-8002"
+        ],
+        "affiliations": [
+          "Department of Biochemistry, Emory University School of Medicine, Atlanta, GA 30322, United States."
+        ]
+      },
+      {
+        "full_name": "Strassler, Sarah E",
+        "short_name": "Strassler SE",
+        "identifiers": [
+          "0000-0001-7555-9608"
+        ],
+        "affiliations": [
+          "Department of Biochemistry, Emory University School of Medicine, Atlanta, GA 30322, United States."
+        ]
+      },
+      {
+        "full_name": "Dey, Debayan",
+        "short_name": "Dey D",
+        "identifiers": [
+          "0000-0002-0222-6092"
+        ],
+        "affiliations": [
+          "Department of Biochemistry, Emory University School of Medicine, Atlanta, GA 30322, United States."
+        ]
+      },
+      {
+        "full_name": "Whitney, Catherine B",
+        "short_name": "Whitney CB",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry and Biochemistry and Center for RNA Biology, The Ohio State University, Columbus, OH 43210, United States."
+        ]
+      },
+      {
+        "full_name": "Roumaya, Olivia B",
+        "short_name": "Roumaya OB",
+        "identifiers": [
+          "0000-0003-0777-4706"
+        ],
+        "affiliations": [
+          "Department of Chemistry and Biochemistry and Center for RNA Biology, The Ohio State University, Columbus, OH 43210, United States."
+        ]
+      },
+      {
+        "full_name": "Krishnamohan, Aiswarya",
+        "short_name": "Krishnamohan A",
+        "identifiers": [
+          "0000-0002-1927-1658"
+        ],
+        "affiliations": [
+          "Department of Chemistry and Biochemistry and Center for RNA Biology, The Ohio State University, Columbus, OH 43210, United States."
+        ]
+      },
+      {
+        "full_name": "Harris, George M",
+        "short_name": "Harris GM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Wake Forest University, Winston-Salem, NC 27109, United States."
+        ]
+      },
+      {
+        "full_name": "Comstock, Lindsay R",
+        "short_name": "Comstock LR",
+        "identifiers": [
+          "0000-0003-0764-7344"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Wake Forest University, Winston-Salem, NC 27109, United States."
+        ]
+      },
+      {
+        "full_name": "Jackman, Jane E",
+        "short_name": "Jackman JE",
+        "identifiers": [
+          "0000-0001-9291-8852"
+        ],
+        "affiliations": [
+          "Department of Chemistry and Biochemistry and Center for RNA Biology, The Ohio State University, Columbus, OH 43210, United States."
+        ]
+      },
+      {
+        "full_name": "Conn, Graeme L",
+        "short_name": "Conn GL",
+        "identifiers": [
+          "0000-0002-2419-380X"
+        ],
+        "affiliations": [
+          "Department of Biochemistry, Emory University School of Medicine, Atlanta, GA 30322, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nucleic acids research"
+    ],
+    "journal_abbrev": [
+      "Nucleic Acids Res"
+    ],
+    "pub_date": "2026 Sep 7",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/15 11:37",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42741842",
+      "41427370",
+      "28911116",
+      "37949221",
+      "24081582",
+      "29848639",
+      "26673726",
+      "23793893",
+      "36778341",
+      "30457841",
+      "27582183",
+      "12702816",
+      "30704107",
+      "38048440",
+      "31586407",
+      "26183229",
+      "38071471",
+      "35988649",
+      "27325738",
+      "23867454",
+      "12773376",
+      "15210688",
+      "26202969",
+      "18262540",
+      "16963456",
+      "21518804",
+      "27986851",
+      "17475914",
+      "18789948",
+      "21844194",
+      "27990635",
+      "38918637",
+      "26470919",
+      "25593312",
+      "15062082",
+      "18653523",
+      "18068186",
+      "20053984",
+      "28544464",
+      "23804755",
+      "17567576",
+      "16768442",
+      "20980671",
+      "31399541",
+      "19287006",
+      "30931478",
+      "17242307",
+      "31309145",
+      "31292261",
+      "28264529",
+      "39639027",
+      "27703015",
+      "27571175",
+      "41261853",
+      "26106808",
+      "21518805",
+      "40664129",
+      "20483913",
+      "36599982",
+      "9586063",
+      "20052680",
+      "18451029",
+      "29880640",
+      "9220956",
+      "28003514",
+      "38598854",
+      "25625329",
+      "15637073",
+      "12689347",
+      "42689413",
+      "34006170",
+      "10779558",
+      "20452364",
+      "26253967",
+      "22847817",
+      "42316300",
+      "25217588",
+      "28531330",
+      "19491098",
+      "18029742",
+      "32392304",
+      "33799704",
+      "7599276",
+      "9417931",
+      "9204554",
+      "35595101",
+      "40650981",
+      "22102254",
+      "27470658",
+      "35409407",
+      "15358762",
+      "27881678",
+      "32597953",
+      "34506908",
+      "23887145",
+      "10445884",
+      "8794745",
+      "20705645",
+      "40347212",
+      "15987815"
+    ],
+    "review": [
+      "42741842",
+      "35988649",
+      "28264529",
+      "38598854",
+      "25625329",
+      "7599276"
+    ],
+    "pmc": [
+      "13575423"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42741842/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkag882",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

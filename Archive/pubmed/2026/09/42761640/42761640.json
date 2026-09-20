@@ -1,0 +1,192 @@
+{
+  "identity": {
+    "pmid": "42761640",
+    "doi": "10.1039/d6dd00399k",
+    "title": "TRPM8 virtual screening: the essential role of target-specific, inactive-enriched machine-learning scoring functions."
+  },
+  "content": {
+    "abstract": "The Transient Receptor Potential Melastatin 8 (TRPM8) ion channel is an emerging therapeutic target implicated in pain, inflammation and other disorders. While structure-based virtual screening (VS) is widely used in drug discovery, the effectiveness of generic and target-specific machine-learning (ML) scoring functions (SFs) for ion channels such as TRPM8 remains to be investigated. We established the first comprehensive structure-based VS benchmark for TRPM8. This evaluates classical docking SFs, generic ML SFs and target-specific ML models retrospectively across multiple TRPM8 protein conformations and docking protocols. The evaluation revealed that generic ML rescoring at most provided modest and conformation-dependent improvements over classical docking on this target. Target-specific ML models based only on protein-ligand interaction fingerprints improved early enrichment on test sets when regression algorithms were employed. However, performance remained sensitive to protein conformation choice and chemical dissimilarity. Systematic evaluation of feature representations showed that combining structure-derived interaction features with ligand-based descriptors enhanced enrichment under selected docking tool-protein conformation combinations. Critically, presenting the learning algorithm with many more negative training instances, via inactive-enriched training, strongly reduced false positives. This also resulted in markedly improved generalization to chemically dissimilar test sets for structure-based models. By contrast, ligand-only QSAR models collapsed under the same class-imbalanced regime. Under inactive-enriched training, PLEC-based support vector regression (SVR) models achieved robust and strong VS performance, highlighting the critical role of learning the vast diversity of inactive molecules better during model training in developing predictive target-specific ML SFs for TRPM8 VS.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "James, Nivya",
+        "Ballester, Pedro J"
+      ],
+      "short_names": [
+        "James N",
+        "Ballester PJ"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-4078-743X"
+      ],
+      "affiliations": [
+        "Department of Bioengineering, Imperial College London London W12 0BZ UK p.ballester@imperial.ac.uk.",
+        "Department of Bioengineering, Imperial College London London W12 0BZ UK p.ballester@imperial.ac.uk."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "James, Nivya",
+        "short_name": "James N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bioengineering, Imperial College London London W12 0BZ UK p.ballester@imperial.ac.uk."
+        ]
+      },
+      {
+        "full_name": "Ballester, Pedro J",
+        "short_name": "Ballester PJ",
+        "identifiers": [
+          "0000-0002-4078-743X"
+        ],
+        "affiliations": [
+          "Department of Bioengineering, Imperial College London London W12 0BZ UK p.ballester@imperial.ac.uk."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Digital discovery"
+    ],
+    "journal_abbrev": [
+      "Digit Discov"
+    ],
+    "pub_date": "2026 Sep 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/19 23:52",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42761640",
+      "42475469",
+      "42471645",
+      "36430841",
+      "29190087",
+      "39405731",
+      "38582911",
+      "33105703",
+      "32484221",
+      "33418562",
+      "35008467",
+      "29495922",
+      "32496540",
+      "38280715",
+      "41822751",
+      "35790469",
+      "37845361",
+      "31982914",
+      "30802041",
+      "27110292",
+      "40837276",
+      "36232307",
+      "34757159",
+      "35901959",
+      "32786511",
+      "33541407",
+      "41168868",
+      "41435908",
+      "33758923",
+      "28678484",
+      "37403155",
+      "37738401",
+      "39497201",
+      "41296031",
+      "35889440",
+      "32568385",
+      "32085675",
+      "34052776",
+      "40510763",
+      "30873528",
+      "25916860",
+      "42015301",
+      "29538331",
+      "40321522",
+      "38100293",
+      "19471858",
+      "36154119",
+      "34900139",
+      "39482913",
+      "22411892",
+      "41940903",
+      "38577892",
+      "42032165",
+      "30808172",
+      "22017385",
+      "41136815",
+      "42589321",
+      "37166179",
+      "25724101",
+      "41969262",
+      "33542326",
+      "23746052",
+      "16045308",
+      "24279462",
+      "25207678",
+      "39660955",
+      "25038507",
+      "32664863",
+      "25220713",
+      "40715162",
+      "36671507",
+      "27870243",
+      "42286684",
+      "28511009",
+      "40943348",
+      "28440302",
+      "36642412",
+      "41486672",
+      "40827389",
+      "32352294",
+      "23799269",
+      "28887460",
+      "42653094",
+      "35914385",
+      "25734685",
+      "26357221",
+      "36550341",
+      "12825621",
+      "28182403",
+      "33816905",
+      "15001363",
+      "35887220",
+      "23394072",
+      "33386098",
+      "42749429",
+      "41636346",
+      "19231809",
+      "42136460",
+      "23240691",
+      "25848966"
+    ],
+    "review": [
+      "42761640",
+      "37845361",
+      "27110292",
+      "35889440",
+      "34052776",
+      "34900139",
+      "39482913",
+      "38577892",
+      "33386098"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

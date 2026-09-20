@@ -1,0 +1,254 @@
+{
+  "identity": {
+    "pmid": "42738043",
+    "doi": "10.3390/ma19173605",
+    "title": "Evaluation of the Compressive Behavior of the Uniform and Graded Octet Lattice Cylindrical Shell Materials."
+  },
+  "content": {
+    "abstract": "Octet lattice cylindrical shell combines the stretching-dominated load transfer of Octet lattices with the geometric characteristics of the cylindrical shell, but the effects of different density gradients under different compression directions remain unclear. Uniform and three-layer graded 316L Octet LCSs were evaluated using quasi-static compression tests and validated finite element simulations. The results demonstrate that relative density is the primary factor controlling the overall stiffness, strength, and energy-absorption capacity of Octet LCSs. Under vertical compression, rearranging the density layers at a fixed average relative density regulates the yielding sequence and collapse path, enabling more controllable multistage energy absorption but with reduced stiffness and absolute SEA compared with uniform structures. Under transverse compression, the response is governed mainly by cross-sectional flattening, strut bending and local contact, and thus, the influence of layer arrangement on global load-bearing capacity is limited. The validated numerical model agrees well with the experiments and provides insights into the layer-sequence design of lightweight lattice cylindrical shells for protective and energy-absorbing applications.",
+    "keywords": [
+      "energy absorption",
+      "gradient design",
+      "lattice cylindrical shell",
+      "mechanical metamaterial",
+      "mechanical properties"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Xu, Hao",
+        "Yu, Chengxuan",
+        "Luo, Wenchang",
+        "Cao, Weidong",
+        "Cao, Xiaofei",
+        "He, Chunwang"
+      ],
+      "short_names": [
+        "Xu H",
+        "Yu C",
+        "Luo W",
+        "Cao W",
+        "Cao X",
+        "He C"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-5223-0743",
+        "ORCID: 0000-0002-1980-723X"
+      ],
+      "affiliations": [
+        "Key Laboratory of Theory and Application of Advanced Materials Mechanics, Department of Engineering Mechanics, School of Physics and Mechanics, Wuhan University of Technology, Wuhan 430070, China.",
+        "Key Laboratory of Theory and Application of Advanced Materials Mechanics, Department of Engineering Mechanics, School of Physics and Mechanics, Wuhan University of Technology, Wuhan 430070, China.",
+        "Key Laboratory of Theory and Application of Advanced Materials Mechanics, Department of Engineering Mechanics, School of Physics and Mechanics, Wuhan University of Technology, Wuhan 430070, China.",
+        "Research Center of Fluid Machinery Engineering and Technology, Jiangsu University, Zhenjiang 212013, China.",
+        "Key Laboratory of Theory and Application of Advanced Materials Mechanics, Department of Engineering Mechanics, School of Physics and Mechanics, Wuhan University of Technology, Wuhan 430070, China.",
+        "Institute of Advanced Structure Technology, Beijing Institute of Technology, Beijing 100081, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Xu, Hao",
+        "short_name": "Xu H",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Theory and Application of Advanced Materials Mechanics, Department of Engineering Mechanics, School of Physics and Mechanics, Wuhan University of Technology, Wuhan 430070, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Chengxuan",
+        "short_name": "Yu C",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Theory and Application of Advanced Materials Mechanics, Department of Engineering Mechanics, School of Physics and Mechanics, Wuhan University of Technology, Wuhan 430070, China."
+        ]
+      },
+      {
+        "full_name": "Luo, Wenchang",
+        "short_name": "Luo W",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Theory and Application of Advanced Materials Mechanics, Department of Engineering Mechanics, School of Physics and Mechanics, Wuhan University of Technology, Wuhan 430070, China."
+        ]
+      },
+      {
+        "full_name": "Cao, Weidong",
+        "short_name": "Cao W",
+        "identifiers": [
+          "0000-0002-5223-0743"
+        ],
+        "affiliations": [
+          "Research Center of Fluid Machinery Engineering and Technology, Jiangsu University, Zhenjiang 212013, China."
+        ]
+      },
+      {
+        "full_name": "Cao, Xiaofei",
+        "short_name": "Cao X",
+        "identifiers": [
+          "0000-0002-1980-723X"
+        ],
+        "affiliations": [
+          "Key Laboratory of Theory and Application of Advanced Materials Mechanics, Department of Engineering Mechanics, School of Physics and Mechanics, Wuhan University of Technology, Wuhan 430070, China."
+        ]
+      },
+      {
+        "full_name": "He, Chunwang",
+        "short_name": "He C",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Advanced Structure Technology, Beijing Institute of Technology, Beijing 100081, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Materials (Basel, Switzerland)"
+    ],
+    "journal_abbrev": [
+      "Materials (Basel)"
+    ],
+    "pub_date": "2026 Aug 25",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/15 05:36",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42738043",
+      "39518201",
+      "39274581",
+      "41228578",
+      "37110031",
+      "42513702",
+      "41149210",
+      "41828128",
+      "34576608",
+      "36365578",
+      "34772057",
+      "42225807",
+      "42187421",
+      "40805530",
+      "38793156",
+      "36499912",
+      "42202823",
+      "42656111",
+      "39859742",
+      "32937910",
+      "36676254",
+      "41347489",
+      "37570191",
+      "39843888",
+      "37241449",
+      "36772014",
+      "33799821",
+      "42654672",
+      "38116227",
+      "41304029",
+      "42452121",
+      "36902989",
+      "41095269",
+      "34442933",
+      "33120911",
+      "31284646",
+      "36080632",
+      "34833180",
+      "34885288",
+      "38543334",
+      "35269180",
+      "37763553",
+      "30563081",
+      "39795671",
+      "42589747",
+      "36837329",
+      "39410413",
+      "42361520",
+      "39203072",
+      "40805492",
+      "34068584",
+      "40594366",
+      "35744133",
+      "37763400",
+      "39213350",
+      "36654760",
+      "42131582",
+      "38138707",
+      "36654743",
+      "41753497",
+      "40141600",
+      "30501122",
+      "42162059",
+      "31288405",
+      "42655284",
+      "42280024",
+      "41828218",
+      "41997987",
+      "42457880",
+      "40076145",
+      "38184929",
+      "35160607",
+      "39730726",
+      "42324361",
+      "38428204",
+      "34772009",
+      "40508719",
+      "36654835",
+      "41781565",
+      "42654686",
+      "41886817",
+      "37893396",
+      "42665013",
+      "41977576",
+      "35744414",
+      "39285656",
+      "31310853",
+      "34067583",
+      "32403406",
+      "36312340",
+      "40613466",
+      "41290774",
+      "39758369",
+      "37374616",
+      "37503231",
+      "41027454",
+      "41515768",
+      "36654876",
+      "42066107",
+      "41996869"
+    ],
+    "review": [
+      "42738043"
+    ],
+    "pmc": [
+      "13567201"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=ma19173605",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42738043/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

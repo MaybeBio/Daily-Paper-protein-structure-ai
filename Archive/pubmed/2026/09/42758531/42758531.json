@@ -1,0 +1,263 @@
+{
+  "identity": {
+    "pmid": "42758531",
+    "doi": "10.7554/eLife.98369",
+    "title": "Linear antibody epitope prediction using AlphaFold2."
+  },
+  "content": {
+    "abstract": "Defining the binding epitopes of antibodies is essential for understanding how they bind to their antigens and perform their molecular functions. However, while determining linear epitopes of monoclonal antibodies can be accomplished utilizing well-established empirical procedures, these approaches are generally labor- and time-intensive, and costly. To take advantage of the recent advances in protein structure prediction algorithms available to the scientific community, we developed a calculation pipeline based on the localColabFold implementation of AlphaFold2 that can predict linear antibody epitopes by predicting the structure of the complex between antibody heavy and light chains and target peptide sequences derived from antigens. We found that this AlphaFold2 pipeline, which we call PAbFold, was able to accurately flag known epitope sequences for several well-known antibody targets (HA/Myc) when the target sequence was broken into small overlapping linear peptides and antibody complementarity determining regions were grafted onto several different antibody framework regions in the single-chain antibody fragment format. To determine if this pipeline was able to identify the epitope of a novel antibody with no structural information publicly available, we determined the epitope of a novel anti-SARS-CoV-2 nucleocapsid-targeted antibody using our method and then experimentally validated our computational results using peptide competition ELISA assays. These results indicate that the AlphaFold2-based PAbFold pipeline we developed is capable of accurately identifying linear antibody epitopes in a short time using just antibody and target protein sequences. This emergent capability of the method is sensitive to methodological details such as peptide length, AlphaFold2 neural network versions, and multiple-sequence alignment databases. PAbFold is available at https://github.com/jbderoo/PAbFold.",
+    "keywords": [
+      "AlphaFold2",
+      "antibody",
+      "computational biology",
+      "epitope",
+      "immunology",
+      "inflammation",
+      "systems biology",
+      "viruses"
+    ],
+    "mesh_terms": [
+      "*Epitopes/immunology/chemistry",
+      "Prediction Algorithms",
+      "*Epitope Mapping/methods",
+      "Antibodies, Monoclonal/immunology/chemistry",
+      "Algorithms",
+      "*Computational Biology/methods",
+      "Humans"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "DeRoo, Jacob",
+        "Terry, James S",
+        "Zhao, Ning",
+        "Stasevich, Timothy J",
+        "Snow, Christopher",
+        "Geiss, Brian J"
+      ],
+      "short_names": [
+        "DeRoo J",
+        "Terry JS",
+        "Zhao N",
+        "Stasevich TJ",
+        "Snow C",
+        "Geiss BJ"
+      ],
+      "auids": [
+        "ORCID: 0009-0004-2706-7296",
+        "ORCID: 0000-0002-0151-6274",
+        "ORCID: 0000-0002-7690-3519",
+        "ORCID: 0000-0001-8180-5772"
+      ],
+      "affiliations": [
+        "School of Biomedical Engineering, Colorado State University, Fort Collins, United States.",
+        "Department of Microbiology, Immunology, & Pathology, Colorado State University, Fort Collins, United States.",
+        "Department of Biochemistry and Molecular Genetics, University of Colorado-Anschutz Medical Campus, Aurora, United States.",
+        "Department of Biochemistry and Molecular Biology, Colorado State University, Fort Collins, United States.",
+        "School of Biomedical Engineering, Colorado State University, Fort Collins, United States.",
+        "Department of Chemical & Biological Engineering, Colorado State University, Fort Collins, United States.",
+        "School of Biomedical Engineering, Colorado State University, Fort Collins, United States.",
+        "Department of Microbiology, Immunology, & Pathology, Colorado State University, Fort Collins, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "DeRoo, Jacob",
+        "short_name": "DeRoo J",
+        "identifiers": [
+          "0009-0004-2706-7296"
+        ],
+        "affiliations": [
+          "School of Biomedical Engineering, Colorado State University, Fort Collins, United States."
+        ]
+      },
+      {
+        "full_name": "Terry, James S",
+        "short_name": "Terry JS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology, Immunology, & Pathology, Colorado State University, Fort Collins, United States."
+        ]
+      },
+      {
+        "full_name": "Zhao, Ning",
+        "short_name": "Zhao N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Genetics, University of Colorado-Anschutz Medical Campus, Aurora, United States."
+        ]
+      },
+      {
+        "full_name": "Stasevich, Timothy J",
+        "short_name": "Stasevich TJ",
+        "identifiers": [
+          "0000-0002-0151-6274"
+        ],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Biology, Colorado State University, Fort Collins, United States."
+        ]
+      },
+      {
+        "full_name": "Snow, Christopher",
+        "short_name": "Snow C",
+        "identifiers": [
+          "0000-0002-7690-3519"
+        ],
+        "affiliations": [
+          "School of Biomedical Engineering, Colorado State University, Fort Collins, United States.",
+          "Department of Chemical & Biological Engineering, Colorado State University, Fort Collins, United States."
+        ]
+      },
+      {
+        "full_name": "Geiss, Brian J",
+        "short_name": "Geiss BJ",
+        "identifiers": [
+          "0000-0001-8180-5772"
+        ],
+        "affiliations": [
+          "School of Biomedical Engineering, Colorado State University, Fort Collins, United States.",
+          "Department of Microbiology, Immunology, & Pathology, Colorado State University, Fort Collins, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "eLife"
+    ],
+    "journal_abbrev": [
+      "Elife"
+    ],
+    "pub_date": "2026 Sep 18",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/18 17:36",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42758531",
+      "38659833",
+      "40593411",
+      "33448242",
+      "12935344",
+      "39251627",
+      "29714008",
+      "40593426",
+      "8552047",
+      "19087303",
+      "24646213",
+      "28827189",
+      "32796656",
+      "27189949",
+      "26424260",
+      "40346118",
+      "27787831",
+      "39271143",
+      "40083545",
+      "28394300",
+      "35226074",
+      "11786180",
+      "26370412",
+      "28095436",
+      "39454741",
+      "17516710",
+      "22061265",
+      "28127568",
+      "19290051",
+      "26889021",
+      "35200140",
+      "25043744",
+      "17430573",
+      "26342231",
+      "19497041",
+      "26424276",
+      "25432167",
+      "41275817",
+      "17897933",
+      "33169668",
+      "40003954",
+      "16630634",
+      "31147491",
+      "36152281",
+      "19055730",
+      "33055250",
+      "21062935",
+      "31776090",
+      "29714009",
+      "40593425",
+      "42324012",
+      "35072628",
+      "19857112",
+      "33602065",
+      "34757083",
+      "29976678",
+      "30100904",
+      "36346595",
+      "11978728",
+      "20233905",
+      "22984286",
+      "25484064",
+      "24782517",
+      "16962260",
+      "11718562",
+      "37188806",
+      "25520269",
+      "41712687",
+      "19772615",
+      "29249606",
+      "23023583",
+      "24614036",
+      "19642274",
+      "19320565",
+      "29107145",
+      "42400840",
+      "16434442",
+      "22459271",
+      "34659206",
+      "23838839",
+      "19091022",
+      "18941213",
+      "21675946",
+      "11707616",
+      "24726865",
+      "18760481",
+      "31490930",
+      "42201327",
+      "29714017",
+      "24465541",
+      "23050090",
+      "7523009",
+      "34432559",
+      "42541863",
+      "25523327",
+      "26687685",
+      "38997489",
+      "23667458",
+      "38342664",
+      "25509196"
+    ],
+    "review": [
+      "42758531",
+      "40593411",
+      "17516710",
+      "28127568"
+    ],
+    "pmc": [
+      "13588620"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

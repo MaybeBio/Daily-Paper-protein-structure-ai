@@ -1,0 +1,352 @@
+{
+  "identity": {
+    "pmid": "42746916",
+    "doi": "10.1039/d6mh01185c",
+    "title": "Chiral nanoengineering and biosensors: from construction to selective recognition, and emerging detection applications."
+  },
+  "content": {
+    "abstract": "Chiral nanomaterials have become an important platform for constructing high-sensitivity biosensors due to their unique three-dimensional (3D) structure, tunable optical activity, and excellent molecular recognition ability. Through chiral ligand modification, template induction, intrinsic structure design, and other strategies, their chiral optical response and biological interface recognition performance can be significantly enhanced, providing efficient signal conversion, high stability, and good biocompatibility in complex environments. This review systematically summarizes the construction strategies of chiral nanomaterials and clarifies their optical responses such as circular dichroism (CD), plasmon resonance, fluorescence (FL), Raman, and electrochemical and mass transfer separation mechanisms. The application of these materials in the detection of biomarkers, such as drug residues, metabolites, amino acids, and ions, is further discussed, and a design strategy for multi-modal integration and intelligent response sensors is introduced. Finally, in view of the challenges regarding chiral stability, synthesis uniformity, biocompatibility and equipment integration, the development directions of cross-scale theoretical simulation, green synthesis and intelligent response design are proposed to promote chiral nanobiosensors from basic research to clinical and environmental practical applications.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liu, Menglong",
+        "Li, Peizhi",
+        "Yang, En",
+        "Simao, Janine Magalhaes Guedes",
+        "Guo, Fengxian",
+        "Zhu, Jian",
+        "Peng, Chifang",
+        "Ma, Wei"
+      ],
+      "short_names": [
+        "Liu M",
+        "Li P",
+        "Yang E",
+        "Simao JMG",
+        "Guo F",
+        "Zhu J",
+        "Peng C",
+        "Ma W"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-7004-0257",
+        "ORCID: 0000-0003-0589-0455",
+        "ORCID: 0000-0002-1278-9235"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Food Science and Resources, Jiangnan University, Wuxi, Jiangsu 214122, China. mw@jiangnan.edu.cn.",
+        "School of Food Science and Technology, Jiangnan University, Wuxi, Jiangsu 214122, China.",
+        "State Key Laboratory of Food Science and Resources, Jiangnan University, Wuxi, Jiangsu 214122, China. mw@jiangnan.edu.cn.",
+        "School of Food Science and Technology, Jiangnan University, Wuxi, Jiangsu 214122, China.",
+        "State Key Laboratory of Food Science and Resources, Jiangnan University, Wuxi, Jiangsu 214122, China. mw@jiangnan.edu.cn.",
+        "School of Food Science and Technology, Jiangnan University, Wuxi, Jiangsu 214122, China.",
+        "Empresa de Pesquisa Agropecuaria de Minas Gerais (EPAMIG), Lavras 37200-000, Brazil.",
+        "Fujian Province Key Laboratory for Development of Bioactive Materials from Marine Algae, College of Oceanology and Food Science, Quanzhou Normal University, Quanzhou 362000, China. guofx0608@126.com.",
+        "School of Materials Science and Engineering, Nankai University, Tianjin, 300071, China.",
+        "State Key Laboratory of Food Science and Resources, Jiangnan University, Wuxi, Jiangsu 214122, China. mw@jiangnan.edu.cn.",
+        "School of Food Science and Technology, Jiangnan University, Wuxi, Jiangsu 214122, China.",
+        "State Key Laboratory of Food Science and Resources, Jiangnan University, Wuxi, Jiangsu 214122, China. mw@jiangnan.edu.cn.",
+        "School of Food Science and Technology, Jiangnan University, Wuxi, Jiangsu 214122, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Liu, Menglong",
+        "short_name": "Liu M",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Food Science and Resources, Jiangnan University, Wuxi, Jiangsu 214122, China. mw@jiangnan.edu.cn.",
+          "School of Food Science and Technology, Jiangnan University, Wuxi, Jiangsu 214122, China."
+        ]
+      },
+      {
+        "full_name": "Li, Peizhi",
+        "short_name": "Li P",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Food Science and Resources, Jiangnan University, Wuxi, Jiangsu 214122, China. mw@jiangnan.edu.cn.",
+          "School of Food Science and Technology, Jiangnan University, Wuxi, Jiangsu 214122, China."
+        ]
+      },
+      {
+        "full_name": "Yang, En",
+        "short_name": "Yang E",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Food Science and Resources, Jiangnan University, Wuxi, Jiangsu 214122, China. mw@jiangnan.edu.cn.",
+          "School of Food Science and Technology, Jiangnan University, Wuxi, Jiangsu 214122, China."
+        ]
+      },
+      {
+        "full_name": "Simão, Janine Magalhães Guedes",
+        "short_name": "Simão JMG",
+        "identifiers": [],
+        "affiliations": [
+          "Empresa de Pesquisa Agropecuária de Minas Gerais (EPAMIG), Lavras 37200-000, Brazil."
+        ]
+      },
+      {
+        "full_name": "Guo, Fengxian",
+        "short_name": "Guo F",
+        "identifiers": [],
+        "affiliations": [
+          "Fujian Province Key Laboratory for Development of Bioactive Materials from Marine Algae, College of Oceanology and Food Science, Quanzhou Normal University, Quanzhou 362000, China. guofx0608@126.com."
+        ]
+      },
+      {
+        "full_name": "Zhu, Jian",
+        "short_name": "Zhu J",
+        "identifiers": [
+          "0000-0002-7004-0257"
+        ],
+        "affiliations": [
+          "School of Materials Science and Engineering, Nankai University, Tianjin, 300071, China."
+        ]
+      },
+      {
+        "full_name": "Peng, Chifang",
+        "short_name": "Peng C",
+        "identifiers": [
+          "0000-0003-0589-0455"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Food Science and Resources, Jiangnan University, Wuxi, Jiangsu 214122, China. mw@jiangnan.edu.cn.",
+          "School of Food Science and Technology, Jiangnan University, Wuxi, Jiangsu 214122, China."
+        ]
+      },
+      {
+        "full_name": "Ma, Wei",
+        "short_name": "Ma W",
+        "identifiers": [
+          "0000-0002-1278-9235"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Food Science and Resources, Jiangnan University, Wuxi, Jiangsu 214122, China. mw@jiangnan.edu.cn.",
+          "School of Food Science and Technology, Jiangnan University, Wuxi, Jiangsu 214122, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Materials horizons"
+    ],
+    "journal_abbrev": [
+      "Mater Horiz"
+    ],
+    "pub_date": "2026 Sep 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/16 11:41",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42746916",
+      "42475469",
+      "34212579",
+      "41641522",
+      "42407158",
+      "41641524",
+      "41295609",
+      "41874749",
+      "41641521",
+      "41530089",
+      "41979907",
+      "35952740",
+      "41440270",
+      "41530090",
+      "39317421",
+      "37828637",
+      "41097845",
+      "42726575",
+      "24397270",
+      "42296630",
+      "41002350",
+      "42493085",
+      "41787659",
+      "39985124",
+      "39912593",
+      "39337721",
+      "41417053",
+      "42187442",
+      "39451693",
+      "42187453",
+      "35616196",
+      "38197202",
+      "42439737",
+      "41522607",
+      "42421418",
+      "42263833",
+      "34213270",
+      "35517682",
+      "42017349",
+      "41149348",
+      "37985947",
+      "34213097",
+      "38969416",
+      "42505443",
+      "31913015",
+      "27762402",
+      "33244673",
+      "41365049",
+      "40480689",
+      "33800708",
+      "42239577",
+      "34028888",
+      "34227346",
+      "33561566",
+      "37754082",
+      "39012839",
+      "34932328",
+      "40701721",
+      "41222338",
+      "35835737",
+      "39401653",
+      "40508623",
+      "42538464",
+      "39748142",
+      "40871539",
+      "40192442",
+      "42616217",
+      "41593047",
+      "40904236",
+      "41399248",
+      "40938000",
+      "42215143",
+      "38625048",
+      "41641523",
+      "41318930",
+      "39509537",
+      "36142748",
+      "42618131",
+      "41302811",
+      "41530091",
+      "41294770",
+      "41669777",
+      "39064954",
+      "42205864",
+      "42174208",
+      "34212580",
+      "41308416",
+      "41600295",
+      "33562639",
+      "41360678",
+      "40871944",
+      "34803380",
+      "40947682",
+      "39783260",
+      "42689591",
+      "42140564",
+      "41936253",
+      "37764496",
+      "41452769",
+      "34212582"
+    ],
+    "review": [
+      "42746916",
+      "34212579",
+      "41641522",
+      "42407158",
+      "41641524",
+      "41295609",
+      "41874749",
+      "41641521",
+      "41530089",
+      "41979907",
+      "35952740",
+      "41440270",
+      "41530090",
+      "39317421",
+      "37828637",
+      "41097845",
+      "42726575",
+      "24397270",
+      "42296630",
+      "41002350",
+      "42493085",
+      "39985124",
+      "39337721",
+      "41417053",
+      "42187442",
+      "39451693",
+      "42187453",
+      "35616196",
+      "42439737",
+      "41522607",
+      "42421418",
+      "42263833",
+      "35517682",
+      "42017349",
+      "41149348",
+      "37985947",
+      "42505443",
+      "31913015",
+      "33244673",
+      "41365049",
+      "33800708",
+      "42239577",
+      "34028888",
+      "33561566",
+      "37754082",
+      "39012839",
+      "41222338",
+      "35835737",
+      "39401653",
+      "42538464",
+      "40871539",
+      "40192442",
+      "42616217",
+      "41593047",
+      "40904236",
+      "41399248",
+      "40938000",
+      "42215143",
+      "38625048",
+      "41641523",
+      "41318930",
+      "39509537",
+      "36142748",
+      "41302811",
+      "41294770",
+      "41669777",
+      "39064954",
+      "42205864",
+      "42174208",
+      "41600295",
+      "33562639",
+      "40871944",
+      "34803380",
+      "40947682",
+      "42140564",
+      "41936253",
+      "37764496"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1039/d6mh01185c",
+        "provider": "Royal Society of Chemistry",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

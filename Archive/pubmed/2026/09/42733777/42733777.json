@@ -1,0 +1,244 @@
+{
+  "identity": {
+    "pmid": "42733777",
+    "doi": "10.1016/j.dib.2026.113037",
+    "title": "Human and zebrafish cross-species comparison on ligand affinity towards the aryl hydrocarbon receptor and Keap1 oxidative stress sensor: a molecular docking dataset."
+  },
+  "content": {
+    "abstract": "Bioanalytical methods targeting adverse cellular outcomes are increasingly used in environmental toxicology, including receptor-mediated toxicity pathways relevant to high-throughput monitoring of drinking water, wastewater, and other environmental samples. However, despite their increasing regulatory acceptance, the representativeness of human tissue-derived bioassays for assessing toxicity toward aquatic species remains uncertain. Given these circumstances, this data article presents molecular docking and sequence-alignment datasets generated to compare human and zebrafish receptor/sensor variants associated with the oxidative stress response (Keap1/Nrf2) and xenobiotic metabolism (AhR/ARNT) pathways. The dataset includes docking data for hKeap1, zfKeap1a, and zfKeap1b, as well as hAhR, zfAhR1a, zfAhR1b, and zfAhR2 receptor/sensor variants, with selected reference ligands and environmental pollutants. Receptor/sensor protein structures derived from AlphaFold predictions, X-ray crystallography, or cryo-electron microscopy were retrieved, prepared, and refined for molecular docking. Ligand structures included the reference agonists tetrachlorodibenzodioxin and tert‑butylhydroquinone, as well as the environmental pollutants climbazole, daidzein, thiabendazole, and metazachlor. Docking was performed using AutoDock Vina, generating the best-energy poses for each ligand-protein pair within defined docking grids. AlphaFold-predicted structures were evaluated by parallel docking into available partial X-ray crystal structures of the corresponding variants. For Keap1 variants, blind and site-directed docking approaches were applied, including grids covering reactive cysteine-associated binding regions, and potential effects of Keap1 dimerisation were considered. For AhR variants, docking focused on the PAS-B ligand-binding domain. Protein sequence alignment was conducted using the ClustalW algorithm to compare human and zebrafish receptor/sensor variants and support cross-species comparison of docking outputs. The dataset comprises prepared protein and ligand files, representative docking poses, binding-affinity outputs, and sequence-alignment data. These files provide reusable input and output material for comparative toxicology, cross-species extrapolation, receptor-ligand interaction assessment, and benchmarking of molecular docking workflows. The data may inform scientists and regulators interested in molecular initiating events, toxicity-pathway conservation, and interspecies differences in receptor-mediated responses. This data article complements a related research article by providing supporting docking data, receptor/sensor variant sequence-alignments, and quality-assurance procedures for the molecular docking workflow.",
+    "keywords": [
+      "Aryl hydrocarbon receptor",
+      "Cross-species sensitivity assessment",
+      "Cysteine code",
+      "Molecular docking",
+      "Nrf2 Keap1 pathway",
+      "Receptor-ligand affinity"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Lungu-Mitea, Sebastian",
+        "Horackova, Jana",
+        "Bednar, David",
+        "Hilscherova, Klara"
+      ],
+      "short_names": [
+        "Lungu-Mitea S",
+        "Horackova J",
+        "Bednar D",
+        "Hilscherova K"
+      ],
+      "auids": [],
+      "affiliations": [
+        "RECETOX, Faculty of Science, Masaryk University (MUNI), CZ-62500 Brno, Czech Republic.",
+        "Department of Pharmaceutical Biosciences, Drug Safety and Toxicology, Uppsala University (UU), SE-75124, Uppsala, Sweden.",
+        "Department of Biology and Environmental Science, Linnaeus University (LNU), SE-39182, Kalmar, Sweden.",
+        "Department of Animal Biosciences, Molecular Toxicology, Swedish University of Agricultural Sciences (SLU), SE-75007, Uppsala, Sweden.",
+        "Loschmidt Laboratories, Department of Experimental Biology and RECETOX, Masaryk University, CZ-62500, Brno, Czech Republic.",
+        "International Clinical Research Centre, St. Anne's University Hospital Brno, CZ-60200, Brno, Czech Republic.",
+        "Loschmidt Laboratories, Department of Experimental Biology and RECETOX, Masaryk University, CZ-62500, Brno, Czech Republic.",
+        "International Clinical Research Centre, St. Anne's University Hospital Brno, CZ-60200, Brno, Czech Republic.",
+        "RECETOX, Faculty of Science, Masaryk University (MUNI), CZ-62500 Brno, Czech Republic."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Lungu-Mitea, Sebastian",
+        "short_name": "Lungu-Mitea S",
+        "identifiers": [],
+        "affiliations": [
+          "RECETOX, Faculty of Science, Masaryk University (MUNI), CZ-62500 Brno, Czech Republic.",
+          "Department of Pharmaceutical Biosciences, Drug Safety and Toxicology, Uppsala University (UU), SE-75124, Uppsala, Sweden.",
+          "Department of Biology and Environmental Science, Linnaeus University (LNU), SE-39182, Kalmar, Sweden.",
+          "Department of Animal Biosciences, Molecular Toxicology, Swedish University of Agricultural Sciences (SLU), SE-75007, Uppsala, Sweden."
+        ]
+      },
+      {
+        "full_name": "Horáčková, Jana",
+        "short_name": "Horáčková J",
+        "identifiers": [],
+        "affiliations": [
+          "Loschmidt Laboratories, Department of Experimental Biology and RECETOX, Masaryk University, CZ-62500, Brno, Czech Republic.",
+          "International Clinical Research Centre, St. Anne's University Hospital Brno, CZ-60200, Brno, Czech Republic."
+        ]
+      },
+      {
+        "full_name": "Bednář, David",
+        "short_name": "Bednář D",
+        "identifiers": [],
+        "affiliations": [
+          "Loschmidt Laboratories, Department of Experimental Biology and RECETOX, Masaryk University, CZ-62500, Brno, Czech Republic.",
+          "International Clinical Research Centre, St. Anne's University Hospital Brno, CZ-60200, Brno, Czech Republic."
+        ]
+      },
+      {
+        "full_name": "Hilscherová, Klára",
+        "short_name": "Hilscherová K",
+        "identifiers": [],
+        "affiliations": [
+          "RECETOX, Faculty of Science, Masaryk University (MUNI), CZ-62500 Brno, Czech Republic."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Data in brief"
+    ],
+    "journal_abbrev": [
+      "Data Brief"
+    ],
+    "pub_date": "2026 Aug",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/14 05:35",
+    "fetched_at": "2026-09-20 07:27:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42733777",
+      "42697142",
+      "23286227",
+      "36321557",
+      "42475469",
+      "24177217",
+      "38135181",
+      "16101299",
+      "21981577",
+      "30740556",
+      "39092783",
+      "17223691",
+      "19456125",
+      "37866606",
+      "39150724",
+      "27288759",
+      "42196261",
+      "33034007",
+      "31872748",
+      "38569320",
+      "29710787",
+      "37238771",
+      "26199865",
+      "32672401",
+      "37797832",
+      "37630254",
+      "7488247",
+      "30201897",
+      "12130674",
+      "26141390",
+      "12944374",
+      "42732698",
+      "15213304",
+      "41310253",
+      "22242167",
+      "33430966",
+      "30836878",
+      "32947073",
+      "30861618",
+      "39059491",
+      "20231332",
+      "32526934",
+      "26082804",
+      "39900897",
+      "42450037",
+      "35949428",
+      "25848966",
+      "37895177",
+      "30390544",
+      "25692546",
+      "33683866",
+      "36266304",
+      "20044593",
+      "40662794",
+      "31855381",
+      "42733762",
+      "12710995",
+      "39926104",
+      "32901584",
+      "24121122",
+      "28668990",
+      "19719119",
+      "24369993",
+      "27480696",
+      "41355500",
+      "33182092",
+      "29164305",
+      "20419055",
+      "28694077",
+      "39314158",
+      "27295348",
+      "26579458",
+      "26042329",
+      "32252465",
+      "38992456",
+      "12062155",
+      "9111057",
+      "30125869",
+      "24171431",
+      "12139968",
+      "38260445",
+      "23912807",
+      "32563159",
+      "42653779",
+      "34656169",
+      "26453085",
+      "31337850",
+      "9931422",
+      "42634507",
+      "25349783",
+      "19299563",
+      "20875740",
+      "10921772",
+      "40059543",
+      "9972449",
+      "24292160",
+      "30182836",
+      "36524855",
+      "40970403",
+      "32032812"
+    ],
+    "review": [
+      "42733777",
+      "36321557",
+      "39150724",
+      "37797832",
+      "12710995",
+      "32901584",
+      "41355500",
+      "26579458",
+      "9972449"
+    ],
+    "pmc": [
+      "13571530"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2352-3409(26)00585-8",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42733777/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

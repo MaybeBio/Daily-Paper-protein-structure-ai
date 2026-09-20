@@ -1,0 +1,92 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.11.750898",
+  "title": "PANDA: Protein All-atom Nested-tree Denoising Architecture for End-to-End Generation",
+  "doi": "10.64898/2026.09.11.750898",
+  "abstract": "Deep generative models have expanded the scope of computational protein design, yet most approaches still separate backbone generation from sequence assignment or rely on latent and torsional representations that do not operate directly on all atoms in Cartesian space. We present PANDA, an end-to-end generative architecture that performs denoising in a unified all-atom representation, recovering sequence identity directly from atomic occupancy patterns. By coupling global and local coordinate tracks and introducing a sampling strategy that preserves side-chain geometry, PANDA achieves the highest self-consistency design success across protein lengths among evaluated all-atom methods. For functional design it conditions on pairwise distances between motif atoms rather than fixing their coordinates, allowing the functional atoms to be positioned jointly with the scaffold. On the Atomic Motif Enzyme benchmark, PANDA preserves motif geometry and delivers substantially higher scaffolding success than previous approaches, particularly for larger motifs. PANDA thus provides an efficient route to high-quality all-atom generative design with flexible atomic-level control.",
+  "authors": [
+    "Bai J",
+    "Jiang H"
+  ],
+  "published_date": "2026-09-13",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.11.750898",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.11.750898.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1318371",
+    "raw_record": {
+      "id": "PPR1318371",
+      "source": "PPR",
+      "doi": "10.64898/2026.09.11.750898",
+      "title": "PANDA: Protein All-atom Nested-tree Denoising Architecture for End-to-End Generation",
+      "authorString": "Bai J, Jiang H.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Bai J",
+            "lastName": "Bai",
+            "firstName": "Jie",
+            "initials": "J"
+          },
+          {
+            "fullName": "Jiang H",
+            "lastName": "Jiang",
+            "firstName": "Huifeng",
+            "initials": "H"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Deep generative models have expanded the scope of computational protein design, yet most approaches still separate backbone generation from sequence assignment or rely on latent and torsional representations that do not operate directly on all atoms in Cartesian space. We present PANDA, an end-to-end generative architecture that performs denoising in a unified all-atom representation, recovering sequence identity directly from atomic occupancy patterns. By coupling global and local coordinate tracks and introducing a sampling strategy that preserves side-chain geometry, PANDA achieves the highest self-consistency design success across protein lengths among evaluated all-atom methods. For functional design it conditions on pairwise distances between motif atoms rather than fixing their coordinates, allowing the functional atoms to be positioned jointly with the scaffold. On the Atomic Motif Enzyme benchmark, PANDA preserves motif geometry and delivers substantially higher scaffolding success than previous approaches, particularly for larger motifs. PANDA thus provides an efficient route to high-quality all-atom generative design with flexible atomic-level control.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.09.11.750898"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "license": "cc by",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-09-14",
+      "firstPublicationDate": "2026-09-13",
+      "firstIndexDate": "2026-09-14",
+      "hasEvaluations": "N"
+    }
+  }
+}

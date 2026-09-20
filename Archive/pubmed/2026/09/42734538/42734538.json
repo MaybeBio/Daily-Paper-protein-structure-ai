@@ -1,0 +1,251 @@
+{
+  "identity": {
+    "pmid": "42734538",
+    "doi": "10.1021/acs.jcim.6c01218",
+    "title": "Which Metrics Best Capture Protein Structural Changes in Molecular Dynamics Simulations? Evaluating Score Combinations and Force-Field Effects."
+  },
+  "content": {
+    "abstract": "The scores RMSD, TM-score, GDT, lDDT, SphereGrinder, CAD, QCS, FlexE, and MolProbity provide an automated, comprehensive assessment of conformational changes and structural quality of proteins and thus represent a promising tool for routine use in molecular dynamics (MD) simulations, particularly in high-throughput settings. However, it remains unclear to what extent these scores provide redundant information and which scores are most informative for capturing conformational changes. Based on MD simulations of 268 diverse proteins, we demonstrate that the investigated scores are highly correlated and that one global score (or QCS), one local score, and FlexE capture almost 90% of the variance across all scores. Since MD randomness partially explains FlexE's variability, we argue that a combination of one global and one local score is sufficient for most practical applications. We also investigate the influence of simulation setups and find that the choice of the force field can significantly affect scoring results. In particular, the setup using the Amber ff19sb force field yields systematically different scores than all CHARMM36m-based setups, emphasizing the importance of methodological choices when designing MD experiments and interpreting their results.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Molecular Dynamics Simulation",
+      "*Proteins/chemistry",
+      "Protein Conformation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Pfaendner, Christian",
+        "Paul, Thilo",
+        "Unger, Benjamin",
+        "Pluhackova, Kristyna"
+      ],
+      "short_names": [
+        "Pfaendner C",
+        "Paul T",
+        "Unger B",
+        "Pluhackova K"
+      ],
+      "auids": [
+        "ORCID: 0009-0008-2953-669X",
+        "ORCID: 0000-0002-7498-6584"
+      ],
+      "affiliations": [
+        "Stuttgart Center for Simulation Science, Cluster of Excellence EXC 2075, University of Stuttgart, Universitatsstr. 32, Stuttgart70569, Germany.",
+        "Artificial Intelligence Software Academy, University of Stuttgart, Stuttgart70569, Germany.",
+        "Stuttgart Center for Simulation Science, Cluster of Excellence EXC 2075, University of Stuttgart, Universitatsstr. 32, Stuttgart70569, Germany.",
+        "Institute for Applied and Numerical Mathematics , Karlsruhe Institute of Technology, Englerstr. 2, Karlsruhe76131, Germany.",
+        "Stuttgart Center for Simulation Science, Cluster of Excellence EXC 2075, University of Stuttgart, Universitatsstr. 32, Stuttgart70569, Germany."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Pfaendner, Christian",
+        "short_name": "Pfaendner C",
+        "identifiers": [
+          "0009-0008-2953-669X"
+        ],
+        "affiliations": [
+          "Stuttgart Center for Simulation Science, Cluster of Excellence EXC 2075, University of Stuttgart, Universitätsstr. 32, Stuttgart70569, Germany.",
+          "Artificial Intelligence Software Academy, University of Stuttgart, Stuttgart70569, Germany."
+        ]
+      },
+      {
+        "full_name": "Paul, Thilo",
+        "short_name": "Paul T",
+        "identifiers": [],
+        "affiliations": [
+          "Stuttgart Center for Simulation Science, Cluster of Excellence EXC 2075, University of Stuttgart, Universitätsstr. 32, Stuttgart70569, Germany."
+        ]
+      },
+      {
+        "full_name": "Unger, Benjamin",
+        "short_name": "Unger B",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Applied and Numerical Mathematics , Karlsruhe Institute of Technology, Englerstr. 2, Karlsruhe76131, Germany."
+        ]
+      },
+      {
+        "full_name": "Pluhackova, Kristyna",
+        "short_name": "Pluhackova K",
+        "identifiers": [
+          "0000-0002-7498-6584"
+        ],
+        "affiliations": [
+          "Stuttgart Center for Simulation Science, Cluster of Excellence EXC 2075, University of Stuttgart, Universitätsstr. 32, Stuttgart70569, Germany."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of chemical information and modeling"
+    ],
+    "journal_abbrev": [
+      "J Chem Inf Model"
+    ],
+    "pub_date": "2026 Sep 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/14 11:40",
+    "fetched_at": "2026-09-20 07:27:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42734538",
+      "19754142",
+      "42475469",
+      "23912807",
+      "40907012",
+      "15959866",
+      "34170125",
+      "30169622",
+      "38373307",
+      "29864281",
+      "42240685",
+      "35293126",
+      "33382616",
+      "22513870",
+      "26575932",
+      "41003655",
+      "41849762",
+      "30840442",
+      "39014286",
+      "40175039",
+      "30250773",
+      "32050065",
+      "42080355",
+      "29235155",
+      "31302180",
+      "29378935",
+      "28598579",
+      "33580600",
+      "24452989",
+      "27380201",
+      "26574396",
+      "41952337",
+      "30236283",
+      "22153501",
+      "34524800",
+      "32281802",
+      "36961997",
+      "35694853",
+      "31509647",
+      "38430110",
+      "21793008",
+      "26808351",
+      "42657169",
+      "30617833",
+      "33444020",
+      "42241776",
+      "42506191",
+      "37134270",
+      "26998712",
+      "30351125",
+      "32833550",
+      "31793290",
+      "38928405",
+      "26039173",
+      "20017540",
+      "22339051",
+      "35048087",
+      "34152264",
+      "38740745",
+      "23789789",
+      "40172236",
+      "34506133",
+      "21830782",
+      "36959445",
+      "27300587",
+      "27285999",
+      "40188940",
+      "39388840",
+      "25659594",
+      "25952623",
+      "30226234",
+      "37646172",
+      "42267453",
+      "41298416",
+      "36387274",
+      "42018286",
+      "36757376",
+      "41002196",
+      "25726465",
+      "35705565",
+      "42236624",
+      "34143637",
+      "20701388",
+      "31396897",
+      "36370554",
+      "40060049",
+      "41346034",
+      "20825228",
+      "30839218",
+      "29023395",
+      "38593934",
+      "38147516",
+      "25149274",
+      "26575728",
+      "42299722",
+      "28962533",
+      "26575776",
+      "41003729",
+      "28688107",
+      "41028342"
+    ],
+    "review": [
+      "42734538",
+      "35293126",
+      "30840442",
+      "40175039",
+      "31302180",
+      "30236283",
+      "30617833",
+      "31793290",
+      "21830782",
+      "27285999",
+      "39388840",
+      "36370554",
+      "25149274"
+    ],
+    "pmc": [
+      "13580131"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42734538/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-466",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/jcisd8/article-lookup/doi/10.1021/acs.jcim.6c01218",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

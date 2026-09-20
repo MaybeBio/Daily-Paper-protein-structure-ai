@@ -1,0 +1,272 @@
+{
+  "identity": {
+    "pmid": "42734541",
+    "doi": "10.1021/acs.jcim.6c01319",
+    "title": "Exploring Protein Conformational Ensembles Using Evolutionary Conditional Diffusion."
+  },
+  "content": {
+    "abstract": "Protein conformational ensembles encode the dynamic landscapes underlying biological function, regulation, and allostery. Accurately reconstructing such ensembles while balancing the accuracy of conformational distributions and physical plausibility remains a fundamental challenge in structural biology, particularly when dynamic data are scarce. Here, we propose DiffEnsemble, a diffusion-based framework designed for modeling protein conformational ensembles. DiffEnsemble learns latent dynamical representations from static protein structures in the Protein Data Bank and integrates the structural profile derived from the AlphaFold Protein Structure Database as conditional guidance during the diffusion process. Benchmarking on 72 protein targets from the ATLAS molecular dynamics simulation data set demonstrates that DiffEnsemble outperforms existing methods, including BioEmu and AlphaFLOW. Compared with AlphaFLOW, DiffEnsemble achieves improvements of 28.9% and 7.5% in Pearson correlation coefficients for ensemble pairwise root-mean-square deviation and root-mean-square fluctuation, respectively. The results demonstrate that latent dynamical information embedded in static structural data can effectively support the modeling of protein conformational ensembles.",
+    "keywords": [],
+    "mesh_terms": [
+      "Protein Conformation",
+      "*Molecular Dynamics Simulation",
+      "*Proteins/chemistry",
+      "Diffusion",
+      "Databases, Protein"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Cui, Xinyue",
+        "Ge, Lingyu",
+        "Yang, Xinguang",
+        "Li, Xuhui",
+        "Hou, Dongliang",
+        "Zhou, Xiaogen",
+        "Zhang, Guijun"
+      ],
+      "short_names": [
+        "Cui X",
+        "Ge L",
+        "Yang X",
+        "Li X",
+        "Hou D",
+        "Zhou X",
+        "Zhang G"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-7815-5884"
+      ],
+      "affiliations": [
+        "College of Information Engineering, Zhejiang University of Technology, 288 Liuhe Road, Hangzhou, Zhejiang310023, China.",
+        "College of Information Engineering, Zhejiang University of Technology, 288 Liuhe Road, Hangzhou, Zhejiang310023, China.",
+        "College of Information Engineering, Zhejiang University of Technology, 288 Liuhe Road, Hangzhou, Zhejiang310023, China.",
+        "College of Information Engineering, Zhejiang University of Technology, 288 Liuhe Road, Hangzhou, Zhejiang310023, China.",
+        "College of Information Engineering, Zhejiang University of Technology, 288 Liuhe Road, Hangzhou, Zhejiang310023, China.",
+        "College of Information Engineering, Zhejiang University of Technology, 288 Liuhe Road, Hangzhou, Zhejiang310023, China.",
+        "College of Information Engineering, Zhejiang University of Technology, 288 Liuhe Road, Hangzhou, Zhejiang310023, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Cui, Xinyue",
+        "short_name": "Cui X",
+        "identifiers": [],
+        "affiliations": [
+          "College of Information Engineering, Zhejiang University of Technology, 288 Liuhe Road, Hangzhou, Zhejiang310023, China."
+        ]
+      },
+      {
+        "full_name": "Ge, Lingyu",
+        "short_name": "Ge L",
+        "identifiers": [],
+        "affiliations": [
+          "College of Information Engineering, Zhejiang University of Technology, 288 Liuhe Road, Hangzhou, Zhejiang310023, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Xinguang",
+        "short_name": "Yang X",
+        "identifiers": [],
+        "affiliations": [
+          "College of Information Engineering, Zhejiang University of Technology, 288 Liuhe Road, Hangzhou, Zhejiang310023, China."
+        ]
+      },
+      {
+        "full_name": "Li, Xuhui",
+        "short_name": "Li X",
+        "identifiers": [],
+        "affiliations": [
+          "College of Information Engineering, Zhejiang University of Technology, 288 Liuhe Road, Hangzhou, Zhejiang310023, China."
+        ]
+      },
+      {
+        "full_name": "Hou, Dongliang",
+        "short_name": "Hou D",
+        "identifiers": [],
+        "affiliations": [
+          "College of Information Engineering, Zhejiang University of Technology, 288 Liuhe Road, Hangzhou, Zhejiang310023, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Xiaogen",
+        "short_name": "Zhou X",
+        "identifiers": [],
+        "affiliations": [
+          "College of Information Engineering, Zhejiang University of Technology, 288 Liuhe Road, Hangzhou, Zhejiang310023, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Guijun",
+        "short_name": "Zhang G",
+        "identifiers": [
+          "0000-0002-7815-5884"
+        ],
+        "affiliations": [
+          "College of Information Engineering, Zhejiang University of Technology, 288 Liuhe Road, Hangzhou, Zhejiang310023, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of chemical information and modeling"
+    ],
+    "journal_abbrev": [
+      "J Chem Inf Model"
+    ],
+    "pub_date": "2026 Sep 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/14 11:40",
+    "fetched_at": "2026-09-20 07:27:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42734541",
+      "38869513",
+      "41454855",
+      "37418278",
+      "26505632",
+      "39684679",
+      "40663654",
+      "38958015",
+      "41954434",
+      "42268730",
+      "23912807",
+      "26723616",
+      "41924827",
+      "42711316",
+      "39340358",
+      "24975328",
+      "39952928",
+      "40015370",
+      "42599200",
+      "34252246",
+      "42693585",
+      "35976160",
+      "42149955",
+      "42475469",
+      "41481844",
+      "38781245",
+      "42223122",
+      "19145244",
+      "42140027",
+      "29267011",
+      "40638710",
+      "30298408",
+      "23730714",
+      "42670842",
+      "41898756",
+      "42178622",
+      "30911759",
+      "10373009",
+      "41188090",
+      "28190781",
+      "41082321",
+      "27940377",
+      "30840442",
+      "37178169",
+      "37241789",
+      "41644540",
+      "42531710",
+      "42450193",
+      "38816696",
+      "38053335",
+      "41803440",
+      "41009484",
+      "41851975",
+      "33550810",
+      "41187076",
+      "38696745",
+      "21051356",
+      "41432303",
+      "38617283",
+      "37163076",
+      "29864281",
+      "21079678",
+      "40633127",
+      "39577782",
+      "12471596",
+      "42205032",
+      "41894491",
+      "41779772",
+      "42301231",
+      "21034466",
+      "30395378",
+      "33310020",
+      "22089251",
+      "18831040",
+      "39983409",
+      "35202628",
+      "40325375",
+      "18662925",
+      "26807783",
+      "25142412",
+      "27787827",
+      "40063780",
+      "30731089",
+      "17588228",
+      "24446357",
+      "39337567",
+      "32502383",
+      "42473947",
+      "31793290",
+      "38370653",
+      "41472324",
+      "40287075",
+      "39480276",
+      "41254233",
+      "29605935",
+      "30204435",
+      "40902999",
+      "42583324",
+      "28981583",
+      "29427936"
+    ],
+    "review": [
+      "42734541",
+      "40663654",
+      "41924827",
+      "40015370",
+      "35976160",
+      "42149955",
+      "42140027",
+      "30911759",
+      "27940377",
+      "30840442",
+      "37241789",
+      "41803440",
+      "33550810",
+      "40633127",
+      "39577782",
+      "42301231",
+      "22089251",
+      "39983409",
+      "26807783",
+      "24446357"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/jcisd8/article-lookup/doi/10.1021/acs.jcim.6c01319",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

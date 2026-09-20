@@ -1,0 +1,275 @@
+{
+  "identity": {
+    "pmid": "42747196",
+    "doi": "10.1128/aem.01490-26",
+    "title": "Genomic prospecting and biochemical characterization of a novel thermostable 3-quinuclidinone reductase from hot spring metagenomes for efficient biocatalysis."
+  },
+  "content": {
+    "abstract": "This study presents the discovery and characterization of a novel thermophilic 3-quinuclidinone reductase (ScQR) identified through metagenomic mining of hot spring environments. ScQR, a member of the short-chain dehydrogenase/reductase (SDR) superfamily, was heterologously expressed in Escherichia coli, and its catalytic properties were systematically characterized. The enzyme demonstrates exceptional thermal stability, retaining 86% of its activity after 48 hours at 70 degrees C. Furthermore, K(+) and Mg(2)(+) ions significantly enhanced ScQR's activity at specific concentrations. Structural analysis revealed that ScQR adopts a typical SDR fold with a conserved catalytic triad (S141-Y155-K159), and it is NAD(H) dependent. Enzyme assays indicated that ScQR is highly stereoselective for (R)-3-quinuclidinol, with no activity against its enantiomer, (S)-3-quinuclidinol. The enzyme exhibits optimal activity at pH 9 and 85 degrees C, making it a promising candidate for industrial applications requiring high thermal stability. Molecular dynamics simulations further revealed that ScQR preserves global structural integrity up to 360 K, whereas higher temperatures induce destabilization, predominantly in the C-terminal region and residues 95-100. In addition, structure-guided computational design enabled by LigandMPNN and UniKP yielded three ScQR variants with improved substrate affinity and catalytic efficiency while maintaining the overall fold and function. This work underscores the power of metagenomics with structure-driven protein design in discovering novel enzymes with unique catalytic properties from extreme environments and establishes ScQR as a promising biocatalyst for biotechnological and pharmaceutical applications.IMPORTANCEThis study reports the discovery of ScQR, a novel thermophilic 3-quinuclidinone reductase identified via metagenomic mining. ScQR represents one of the most heat-resistant members of the SDR superfamily discovered to date, maintaining 86% activity after 48 hours at 70 degrees C. These findings establish ScQR as a robust biocatalyst for high-temperature pharmaceutical applications and demonstrate a scalable workflow for optimizing enzymes from extreme environments, offering significant value to the fields of biocatalysis and protein engineering.",
+    "keywords": [
+      "computational design",
+      "hot spring microorganisms",
+      "metagenomics"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Lou, Deshuai",
+        "Cui, Jinghao",
+        "Duan, Jingfa",
+        "Zhou, Bingpu",
+        "Wang, Yue",
+        "Wang, Dong",
+        "Tan, Jun",
+        "Duan, Hongtao"
+      ],
+      "short_names": [
+        "Lou D",
+        "Cui J",
+        "Duan J",
+        "Zhou B",
+        "Wang Y",
+        "Wang D",
+        "Tan J",
+        "Duan H"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-5249-5434",
+        "ORCID: 0009-0008-6743-941X"
+      ],
+      "affiliations": [
+        "Chongqing Key Laboratory of Functional Substances from Distinctive Medicinal Plants in the Three Gorges Reservoir Area, School of Biological and Chemical Engineering, Chongqing University of Education, Chongqing, China. RINGGOLD: 177518. ROR: https://ror.org/02d06s578",
+        "Chongqing Key Laboratory of Functional Substances from Distinctive Medicinal Plants in the Three Gorges Reservoir Area, School of Biological and Chemical Engineering, Chongqing University of Education, Chongqing, China. RINGGOLD: 177518. ROR: https://ror.org/02d06s578",
+        "Chongqing Key Laboratory of Functional Substances from Distinctive Medicinal Plants in the Three Gorges Reservoir Area, School of Biological and Chemical Engineering, Chongqing University of Education, Chongqing, China. RINGGOLD: 177518. ROR: https://ror.org/02d06s578",
+        "Chongqing Key Laboratory of Functional Substances from Distinctive Medicinal Plants in the Three Gorges Reservoir Area, School of Biological and Chemical Engineering, Chongqing University of Education, Chongqing, China. RINGGOLD: 177518. ROR: https://ror.org/02d06s578",
+        "Chongqing Key Laboratory of Functional Substances from Distinctive Medicinal Plants in the Three Gorges Reservoir Area, School of Biological and Chemical Engineering, Chongqing University of Education, Chongqing, China. RINGGOLD: 177518. ROR: https://ror.org/02d06s578",
+        "School of Information Science and Engineering, University of Jinan, Jinan, China. RINGGOLD: 12413. ROR: https://ror.org/02mjz6f26",
+        "Shandong Key Laboratory of Ubiquitous Intelligent Computing, University of Jinan, Jinan, China. RINGGOLD: 12413. ROR: https://ror.org/02mjz6f26",
+        "Chongqing Key Laboratory of Functional Substances from Distinctive Medicinal Plants in the Three Gorges Reservoir Area, School of Biological and Chemical Engineering, Chongqing University of Education, Chongqing, China. RINGGOLD: 177518. ROR: https://ror.org/02d06s578",
+        "School of Medicine, South China University of Technology, Guangzhou, China. RINGGOLD: 506909. ROR: https://ror.org/0530pts50"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Lou, Deshuai",
+        "short_name": "Lou D",
+        "identifiers": [],
+        "affiliations": [
+          "Chongqing Key Laboratory of Functional Substances from Distinctive Medicinal Plants in the Three Gorges Reservoir Area, School of Biological and Chemical Engineering, Chongqing University of Education, Chongqing, China."
+        ]
+      },
+      {
+        "full_name": "Cui, Jinghao",
+        "short_name": "Cui J",
+        "identifiers": [],
+        "affiliations": [
+          "Chongqing Key Laboratory of Functional Substances from Distinctive Medicinal Plants in the Three Gorges Reservoir Area, School of Biological and Chemical Engineering, Chongqing University of Education, Chongqing, China."
+        ]
+      },
+      {
+        "full_name": "Duan, Jingfa",
+        "short_name": "Duan J",
+        "identifiers": [],
+        "affiliations": [
+          "Chongqing Key Laboratory of Functional Substances from Distinctive Medicinal Plants in the Three Gorges Reservoir Area, School of Biological and Chemical Engineering, Chongqing University of Education, Chongqing, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Bingpu",
+        "short_name": "Zhou B",
+        "identifiers": [],
+        "affiliations": [
+          "Chongqing Key Laboratory of Functional Substances from Distinctive Medicinal Plants in the Three Gorges Reservoir Area, School of Biological and Chemical Engineering, Chongqing University of Education, Chongqing, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yue",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Chongqing Key Laboratory of Functional Substances from Distinctive Medicinal Plants in the Three Gorges Reservoir Area, School of Biological and Chemical Engineering, Chongqing University of Education, Chongqing, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Dong",
+        "short_name": "Wang D",
+        "identifiers": [
+          "0000-0002-5249-5434"
+        ],
+        "affiliations": [
+          "School of Information Science and Engineering, University of Jinan, Jinan, China.",
+          "Shandong Key Laboratory of Ubiquitous Intelligent Computing, University of Jinan, Jinan, China."
+        ]
+      },
+      {
+        "full_name": "Tan, Jun",
+        "short_name": "Tan J",
+        "identifiers": [],
+        "affiliations": [
+          "Chongqing Key Laboratory of Functional Substances from Distinctive Medicinal Plants in the Three Gorges Reservoir Area, School of Biological and Chemical Engineering, Chongqing University of Education, Chongqing, China."
+        ]
+      },
+      {
+        "full_name": "Duan, Hongtao",
+        "short_name": "Duan H",
+        "identifiers": [
+          "0009-0008-6743-941X"
+        ],
+        "affiliations": [
+          "School of Medicine, South China University of Technology, Guangzhou, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Applied and environmental microbiology"
+    ],
+    "journal_abbrev": [
+      "Appl Environ Microbiol"
+    ],
+    "pub_date": "2026 Sep 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/16 11:41",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42747196",
+      "42229596",
+      "40043990",
+      "38479663",
+      "40450052",
+      "28357542",
+      "39126090",
+      "26892801",
+      "35799200",
+      "32390953",
+      "40626661",
+      "38288819",
+      "36293010",
+      "31862716",
+      "39029824",
+      "41300782",
+      "41463365",
+      "41301445",
+      "42475469",
+      "40590090",
+      "41274479",
+      "41537603",
+      "27899916",
+      "41501755",
+      "26782782",
+      "41484564",
+      "40984705",
+      "41266391",
+      "35996269",
+      "18456852",
+      "30552196",
+      "41427669",
+      "32574185",
+      "32249395",
+      "31615676",
+      "39382168",
+      "32965562",
+      "28455329",
+      "18926808",
+      "27991516",
+      "34057548",
+      "42390092",
+      "41782582",
+      "41856292",
+      "30446558",
+      "41852351",
+      "41380449",
+      "41182549",
+      "40291800",
+      "28389544",
+      "28411200",
+      "37182622",
+      "20049620",
+      "34904892",
+      "27444325",
+      "41231970",
+      "29384047",
+      "31886941",
+      "41051042",
+      "40844824",
+      "40258537",
+      "24642255",
+      "38474529",
+      "42104995",
+      "40191290",
+      "41594704",
+      "42630012",
+      "38179451",
+      "41814441",
+      "34487207",
+      "28587256",
+      "40880009",
+      "38712938",
+      "29632075",
+      "42717506",
+      "38889604",
+      "31150456",
+      "21092234",
+      "36223866",
+      "19234697",
+      "41161424",
+      "41841573",
+      "36719236",
+      "42420857",
+      "40999684",
+      "42537711",
+      "38085387",
+      "30526684",
+      "31249343",
+      "29440674",
+      "28610588",
+      "28589226",
+      "30529208",
+      "31410667",
+      "11851420",
+      "40916978",
+      "41897700",
+      "39216567",
+      "41500277",
+      "41128773"
+    ],
+    "review": [
+      "42747196",
+      "34487207"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://journals.asm.org/doi/10.1128/aem.01490-26?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3772",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

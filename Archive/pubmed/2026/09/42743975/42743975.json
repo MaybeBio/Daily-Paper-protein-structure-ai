@@ -1,0 +1,263 @@
+{
+  "identity": {
+    "pmid": "42743975",
+    "doi": "10.1093/bib/bbag494",
+    "title": "Phage bioinformatics tools: a review of computational approaches for bacteriophage research."
+  },
+  "content": {
+    "abstract": "Rising clinical interest in phage therapy and the exponential growth of metagenomic sequence catalogues have driven a rapid expansion of bacteriophage bioinformatics. More than 80 dedicated tools, mostly published since 2020, now span identification, assembly, annotation, taxonomy, lifestyle prediction, defence-system detection, and host prediction. Aimed at experienced practitioners and developers, this review synthesizes the field through the lens of three successive computational paradigms: sequence homology, bounded by database completeness; machine learning, constrained by labelled training data; and foundation models, which now achieve Matthews correlation coefficients above 0.95 in identification tasks and, through structure-informed prediction, raise functional annotation to over half of phage genes. Furthermore, we map the upstream components, namely, gene callers, homology engines, protein language models, and structural search tools, that underpin most downstream pipelines, exposing shared infrastructure and ecosystem-level fragility when dependencies change. To translate this into practice, we propose web-based and command-line reference workflows calibrated to user expertise and sample types. Finally, we set an agenda for the next wave of tool development. Roughly half of phage genes still resist functional annotation despite structural methods; no broadly generalizable strain-level host predictor exists for phage therapy; varying true-positive rates (0%-97%) underscore the absence of standardized community benchmarks analogous to Critical Assessment of Structure Prediction or Critical Assessment of Metagenome Interpretation. As generative genome models begin designing synthetic phages, progress will depend less on producing standalone tools than on rigorous evaluation, interoperable infrastructure, and clinically meaningful prediction targets.",
+    "keywords": [
+      "bacteriophage",
+      "bioinformatics",
+      "foundation models",
+      "host prediction",
+      "protein structure",
+      "viral metagenomics"
+    ],
+    "mesh_terms": [
+      "*Computational Biology/methods",
+      "*Bacteriophages/genetics",
+      "Metagenomics/methods",
+      "Machine Learning",
+      "Genome, Viral",
+      "*Software"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Pang, Sean Jia Le",
+        "Wee, Soon Keong",
+        "Yap, Eric Peng Huat"
+      ],
+      "short_names": [
+        "Pang SJL",
+        "Wee SK",
+        "Yap EPH"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-8800-5134"
+      ],
+      "affiliations": [
+        "Institute for Digital Molecular Analytics and Science, Interdisciplinary Graduate Programme, Nanyang Technological University, 61 Nanyang Drive, Academic Block North, ABN-01b-11, 637335, Singapore.",
+        "Institute for Digital Molecular Analytics and Science, Nanyang Technological University, 59 Nanyang Drive, Experimental Medicine Building EMB-06-35 (Level 6), 636921, Singapore.",
+        "Institute for Digital Molecular Analytics and Science, Nanyang Technological University, 59 Nanyang Drive, Experimental Medicine Building EMB-06-35 (Level 6), 636921, Singapore.",
+        "Lee Kong Chian School of Medicine, Nanyang Technological University, 11 Mandalay Rd, 308232, Singapore.",
+        "National Centre for Infectious Diseases, 16 Jalan Tan Tock Seng, 308442, Singapore."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Pang, Sean Jia Le",
+        "short_name": "Pang SJL",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Digital Molecular Analytics and Science, Interdisciplinary Graduate Programme, Nanyang Technological University, 61 Nanyang Drive, Academic Block North, ABN-01b-11, 637335, Singapore."
+        ]
+      },
+      {
+        "full_name": "Wee, Soon Keong",
+        "short_name": "Wee SK",
+        "identifiers": [
+          "0000-0002-8800-5134"
+        ],
+        "affiliations": [
+          "Institute for Digital Molecular Analytics and Science, Nanyang Technological University, 59 Nanyang Drive, Experimental Medicine Building EMB-06-35 (Level 6), 636921, Singapore."
+        ]
+      },
+      {
+        "full_name": "Yap, Eric Peng Huat",
+        "short_name": "Yap EPH",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Digital Molecular Analytics and Science, Nanyang Technological University, 59 Nanyang Drive, Experimental Medicine Building EMB-06-35 (Level 6), 636921, Singapore.",
+          "Lee Kong Chian School of Medicine, Nanyang Technological University, 11 Mandalay Rd, 308232, Singapore.",
+          "National Centre for Infectious Diseases, 16 Jalan Tan Tock Seng, 308442, Singapore."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Briefings in bioinformatics"
+    ],
+    "journal_abbrev": [
+      "Brief Bioinform"
+    ],
+    "pub_date": "2026 Sep 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/15 23:35",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42743975",
+      "40900113",
+      "42475469",
+      "41909847",
+      "40372723",
+      "42023515",
+      "35311574",
+      "42411404",
+      "39230289",
+      "33001599",
+      "42681003",
+      "38659008",
+      "28369462",
+      "39352141",
+      "42491247",
+      "27030726",
+      "37085924",
+      "40143245",
+      "27153081",
+      "40359589",
+      "41495893",
+      "38819567",
+      "29134599",
+      "40824055",
+      "33036834",
+      "41222234",
+      "23912807",
+      "41283812",
+      "26657537",
+      "36321557",
+      "39838963",
+      "40197051",
+      "33045744",
+      "33202695",
+      "28683828",
+      "37738590",
+      "41572308",
+      "40982657",
+      "34126465",
+      "34625070",
+      "41472209",
+      "36882183",
+      "41087364",
+      "23266976",
+      "26602607",
+      "29100906",
+      "39320317",
+      "39102416",
+      "40515393",
+      "36680116",
+      "30890181",
+      "25174730",
+      "32522236",
+      "32648690",
+      "39418300",
+      "34526611",
+      "33441133",
+      "26577924",
+      "34739369",
+      "33137082",
+      "31329826",
+      "42412824",
+      "30126456",
+      "34130621",
+      "41009770",
+      "37507643",
+      "22385976",
+      "42492189",
+      "37966589",
+      "26791506",
+      "39205252",
+      "42505598",
+      "39344712",
+      "36306088",
+      "42616879",
+      "34042467",
+      "42156652",
+      "36659812",
+      "40493087",
+      "41297621",
+      "36760501",
+      "41348596",
+      "40102762",
+      "37258871",
+      "27254594",
+      "30287354",
+      "41830810",
+      "42137320",
+      "42584065",
+      "39315792",
+      "39951981",
+      "41758998",
+      "38555471",
+      "36829156",
+      "41206113",
+      "39804673",
+      "29329522",
+      "39452613",
+      "42467983",
+      "29559574"
+    ],
+    "review": [
+      "42743975",
+      "40900113",
+      "35311574",
+      "39230289",
+      "42491247",
+      "27030726",
+      "40359589",
+      "40824055",
+      "41222234",
+      "41283812",
+      "26657537",
+      "36321557",
+      "41572308",
+      "34126465",
+      "41472209",
+      "23266976",
+      "26602607",
+      "29100906",
+      "41009770",
+      "37507643",
+      "42492189",
+      "37966589",
+      "39205252",
+      "42505598",
+      "40493087",
+      "41297621",
+      "30287354",
+      "41830810",
+      "42137320",
+      "38555471",
+      "41206113",
+      "42467983"
+    ],
+    "pmc": [
+      "13577670"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42743975/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/bib/article-lookup/doi/10.1093/bib/bbag494",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

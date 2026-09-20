@@ -1,0 +1,413 @@
+{
+  "identity": {
+    "pmid": "42749679",
+    "doi": "10.1080/19420862.2026.2732787",
+    "title": "Predicting non-specific binding of VHHs using machine learning models with cluster-aware validation."
+  },
+  "content": {
+    "abstract": "Propensity for nonspecific binding-also known as polyreactivity-is a serious developability risk factor for biotherapeutic candidates. To minimize this risk, drug companies are increasingly relying on in silico tools utilizing machine learning methods, but developing these tools is challenging. For example, the available data often contains many closely related sequences originating from drug pipeline projects, which can introduce significant biases in the in silico models training and benchmarking, leading to poor generalizability on new data. We present here a workflow designed to diagnose and mitigate some of the problems associated with using pipeline data. The workflow is based on a custom cross-validation procedure that can evaluate model performance on unseen data in different contexts. As a demonstration of the workflow, we use it to train a model to predict variable heavy-chain only fragment antibodies (VHH) binding to baculovirus particles (BVP)-a widely used assay for nonspecific binding. Using descriptors based on computed protein structures, the workflow identifies several risk factors that correlate with higher polyreactivity levels.",
+    "keywords": [
+      "Machine learning",
+      "VHH",
+      "in silico",
+      "nanobodies",
+      "nonspecific binding",
+      "polyreactivity"
+    ],
+    "mesh_terms": [
+      "*Machine Learning",
+      "Humans",
+      "Predictive Learning Models",
+      "Protein Binding",
+      "*Single-Domain Antibodies/immunology/chemistry",
+      "Prediction Algorithms",
+      "Animals",
+      "*Immunoglobulin Heavy Chains/immunology/chemistry"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Stanev, Valentin",
+        "Devalle, Federico",
+        "Boroumand, Mehdi",
+        "Pouryahya, Maryam",
+        "Sermadiras, Isabelle",
+        "Caldwell, Jenna",
+        "Chen, Kuan-Lin",
+        "Jo, Jay Hyun",
+        "Jain, Rohan",
+        "Amofah, Bismark",
+        "Pham, Tony",
+        "Hutchinson, Mark",
+        "Farzandh, Sharfa",
+        "DiChiara, Jen",
+        "Chakiath, Chacko",
+        "Diethe, Tom",
+        "Dippel, Andrew",
+        "Kaplan, Gilad",
+        "Croasdale-Wood, Rebecca"
+      ],
+      "short_names": [
+        "Stanev V",
+        "Devalle F",
+        "Boroumand M",
+        "Pouryahya M",
+        "Sermadiras I",
+        "Caldwell J",
+        "Chen KL",
+        "Jo JH",
+        "Jain R",
+        "Amofah B",
+        "Pham T",
+        "Hutchinson M",
+        "Farzandh S",
+        "DiChiara J",
+        "Chakiath C",
+        "Diethe T",
+        "Dippel A",
+        "Kaplan G",
+        "Croasdale-Wood R"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-6129-133X",
+        "ORCID: 0000-0001-5838-7074",
+        "ORCID: 0000-0003-3453-0803",
+        "ORCID: 0000-0003-1374-305X"
+      ],
+      "affiliations": [
+        "Biopharmaceutical Development, R&D, AstraZeneca, Gaithersburg, MD, USA.",
+        "Biopharmaceutical Development, R&D, AstraZeneca, Gaithersburg, MD, USA.",
+        "Biopharmaceutical Development, R&D, AstraZeneca, Gaithersburg, MD, USA.",
+        "Biopharmaceutical Development, R&D, AstraZeneca, Gaithersburg, MD, USA.",
+        "Biologics Engineering, R&D, AstraZeneca, Gaithersburg, MD, USA.",
+        "Biopharmaceutical Development, R&D, AstraZeneca, Gaithersburg, MD, USA.",
+        "Biologics Engineering, R&D, AstraZeneca, Gaithersburg, MD, USA.",
+        "Biologics Engineering, R&D, AstraZeneca, Gaithersburg, MD, USA.",
+        "Biopharmaceutical Development, R&D, AstraZeneca, Gaithersburg, MD, USA.",
+        "Biologics Engineering, R&D, AstraZeneca, Gaithersburg, MD, USA.",
+        "Biologics Engineering, R&D, AstraZeneca, Gaithersburg, MD, USA.",
+        "Biologics Engineering, R&D, AstraZeneca, Gaithersburg, MD, USA.",
+        "Biologics Engineering, R&D, AstraZeneca, Gaithersburg, MD, USA.",
+        "Biologics Engineering, R&D, AstraZeneca, Gaithersburg, MD, USA.",
+        "Biologics Engineering, R&D, AstraZeneca, Gaithersburg, MD, USA.",
+        "Centre for Artificial Intelligence, R&D, AstraZeneca, Cambridge, UK.",
+        "Biologics Engineering, R&D, AstraZeneca, Gaithersburg, MD, USA.",
+        "Biologics Engineering, R&D, AstraZeneca, Gaithersburg, MD, USA.",
+        "Biologics Engineering, R&D, AstraZeneca, Gaithersburg, MD, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Stanev, Valentin",
+        "short_name": "Stanev V",
+        "identifiers": [
+          "0000-0001-6129-133X"
+        ],
+        "affiliations": [
+          "Biopharmaceutical Development, R&D, AstraZeneca, Gaithersburg, MD, USA."
+        ]
+      },
+      {
+        "full_name": "Devalle, Federico",
+        "short_name": "Devalle F",
+        "identifiers": [],
+        "affiliations": [
+          "Biopharmaceutical Development, R&D, AstraZeneca, Gaithersburg, MD, USA."
+        ]
+      },
+      {
+        "full_name": "Boroumand, Mehdi",
+        "short_name": "Boroumand M",
+        "identifiers": [],
+        "affiliations": [
+          "Biopharmaceutical Development, R&D, AstraZeneca, Gaithersburg, MD, USA."
+        ]
+      },
+      {
+        "full_name": "Pouryahya, Maryam",
+        "short_name": "Pouryahya M",
+        "identifiers": [],
+        "affiliations": [
+          "Biopharmaceutical Development, R&D, AstraZeneca, Gaithersburg, MD, USA."
+        ]
+      },
+      {
+        "full_name": "Sermadiras, Isabelle",
+        "short_name": "Sermadiras I",
+        "identifiers": [],
+        "affiliations": [
+          "Biologics Engineering, R&D, AstraZeneca, Gaithersburg, MD, USA."
+        ]
+      },
+      {
+        "full_name": "Caldwell, Jenna",
+        "short_name": "Caldwell J",
+        "identifiers": [],
+        "affiliations": [
+          "Biopharmaceutical Development, R&D, AstraZeneca, Gaithersburg, MD, USA."
+        ]
+      },
+      {
+        "full_name": "Chen, Kuan-Lin",
+        "short_name": "Chen KL",
+        "identifiers": [
+          "0000-0001-5838-7074"
+        ],
+        "affiliations": [
+          "Biologics Engineering, R&D, AstraZeneca, Gaithersburg, MD, USA."
+        ]
+      },
+      {
+        "full_name": "Jo, Jay Hyun",
+        "short_name": "Jo JH",
+        "identifiers": [],
+        "affiliations": [
+          "Biologics Engineering, R&D, AstraZeneca, Gaithersburg, MD, USA."
+        ]
+      },
+      {
+        "full_name": "Jain, Rohan",
+        "short_name": "Jain R",
+        "identifiers": [],
+        "affiliations": [
+          "Biopharmaceutical Development, R&D, AstraZeneca, Gaithersburg, MD, USA."
+        ]
+      },
+      {
+        "full_name": "Amofah, Bismark",
+        "short_name": "Amofah B",
+        "identifiers": [],
+        "affiliations": [
+          "Biologics Engineering, R&D, AstraZeneca, Gaithersburg, MD, USA."
+        ]
+      },
+      {
+        "full_name": "Pham, Tony",
+        "short_name": "Pham T",
+        "identifiers": [],
+        "affiliations": [
+          "Biologics Engineering, R&D, AstraZeneca, Gaithersburg, MD, USA."
+        ]
+      },
+      {
+        "full_name": "Hutchinson, Mark",
+        "short_name": "Hutchinson M",
+        "identifiers": [],
+        "affiliations": [
+          "Biologics Engineering, R&D, AstraZeneca, Gaithersburg, MD, USA."
+        ]
+      },
+      {
+        "full_name": "Farzandh, Sharfa",
+        "short_name": "Farzandh S",
+        "identifiers": [],
+        "affiliations": [
+          "Biologics Engineering, R&D, AstraZeneca, Gaithersburg, MD, USA."
+        ]
+      },
+      {
+        "full_name": "DiChiara, Jen",
+        "short_name": "DiChiara J",
+        "identifiers": [],
+        "affiliations": [
+          "Biologics Engineering, R&D, AstraZeneca, Gaithersburg, MD, USA."
+        ]
+      },
+      {
+        "full_name": "Chakiath, Chacko",
+        "short_name": "Chakiath C",
+        "identifiers": [],
+        "affiliations": [
+          "Biologics Engineering, R&D, AstraZeneca, Gaithersburg, MD, USA."
+        ]
+      },
+      {
+        "full_name": "Diethe, Tom",
+        "short_name": "Diethe T",
+        "identifiers": [],
+        "affiliations": [
+          "Centre for Artificial Intelligence, R&D, AstraZeneca, Cambridge, UK."
+        ]
+      },
+      {
+        "full_name": "Dippel, Andrew",
+        "short_name": "Dippel A",
+        "identifiers": [
+          "0000-0003-3453-0803"
+        ],
+        "affiliations": [
+          "Biologics Engineering, R&D, AstraZeneca, Gaithersburg, MD, USA."
+        ]
+      },
+      {
+        "full_name": "Kaplan, Gilad",
+        "short_name": "Kaplan G",
+        "identifiers": [
+          "0000-0003-1374-305X"
+        ],
+        "affiliations": [
+          "Biologics Engineering, R&D, AstraZeneca, Gaithersburg, MD, USA."
+        ]
+      },
+      {
+        "full_name": "Croasdale-Wood, Rebecca",
+        "short_name": "Croasdale-Wood R",
+        "identifiers": [],
+        "affiliations": [
+          "Biologics Engineering, R&D, AstraZeneca, Gaithersburg, MD, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "mAbs"
+    ],
+    "journal_abbrev": [
+      "MAbs"
+    ],
+    "pub_date": "2026 Dec",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/16 23:34",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42749679",
+      "42200306",
+      "39036071",
+      "38666503",
+      "22886243",
+      "42475469",
+      "41328470",
+      "40981272",
+      "23495938",
+      "39373478",
+      "42252708",
+      "40895531",
+      "41550919",
+      "38048895",
+      "42391467",
+      "42166718",
+      "40271725",
+      "42225255",
+      "40973412",
+      "38515052",
+      "42479849",
+      "10196124",
+      "39356775",
+      "41564299",
+      "30396425",
+      "35163405",
+      "41670376",
+      "32667760",
+      "24465459",
+      "41350652",
+      "41497662",
+      "36471239",
+      "32478525",
+      "29398547",
+      "42064765",
+      "42653127",
+      "38512665",
+      "34008121",
+      "42325156",
+      "28045502",
+      "39164492",
+      "41851824",
+      "41940422",
+      "38891821",
+      "42324504",
+      "42190878",
+      "42190257",
+      "42628029",
+      "39337289",
+      "41656803",
+      "41586317",
+      "42263118",
+      "42129635",
+      "42673578",
+      "39392756",
+      "41496549",
+      "37883660",
+      "42155057",
+      "41784346",
+      "42306297",
+      "41525315",
+      "42185454",
+      "42270300",
+      "42192329",
+      "40812311",
+      "41814305",
+      "41650107",
+      "42171796",
+      "41538702",
+      "38681780",
+      "42218408",
+      "42343388",
+      "39385626",
+      "40947846",
+      "42258020",
+      "42401654",
+      "26456330",
+      "32282466",
+      "41790775",
+      "32780549",
+      "39847604",
+      "42141448",
+      "42174524",
+      "37166179",
+      "37258922",
+      "41813236",
+      "39772905",
+      "40627384",
+      "41924849",
+      "38720898",
+      "42249366",
+      "42012033",
+      "40570739",
+      "40888815",
+      "41865036",
+      "41688057",
+      "41617871",
+      "31676284",
+      "37980960",
+      "42340317"
+    ],
+    "review": [
+      "42749679",
+      "38666503",
+      "22886243",
+      "23495938",
+      "30396425",
+      "35163405",
+      "42064765",
+      "42325156",
+      "41940422",
+      "42171796"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.tandfonline.com/doi/10.1080/19420862.2026.2732787?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

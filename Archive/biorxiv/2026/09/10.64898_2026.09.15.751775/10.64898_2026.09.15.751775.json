@@ -1,0 +1,98 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.15.751775",
+  "title": "RNAbridge: a database of extended and non-canonical helices",
+  "doi": "10.64898/2026.09.15.751775",
+  "abstract": "RNA function is dictated by 3D architecture. Although 2D structural models based on canonical Watson-Crick base pairs are widely used, they often fail to capture the non-canonical interactions, tertiary contacts, and coaxial stacking important for biological activity. We have developed RNAbridge, a comprehensive database and web application that systematically identifies, quantifies, and visualizes extended non-canonical helices and multi-way junctions. Using a geometry- and stacking-based pipeline, we analyzed the Protein Data Bank and compiled a catalog of 135,541 structural motifs. RNAbridge includes a user-friendly interface with interactive filters, synchronized 2D and 3D visualizations, and detailed structural data, including helical bend angles and stacking paths. By connecting simplified 2D topologies with complex 3D structures, RNAbridge serves as a valuable resource for structural biologists and lays the foundation for future machine learning applications in RNA structure prediction. The database, available at https://rnabridge.cs.put.poznan.pl/, is automatically updated once a week.",
+  "authors": [
+    "Zakrzewski D",
+    "Antczak M",
+    "Zok T"
+  ],
+  "published_date": "2026-09-17",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.15.751775",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.15.751775.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1322694",
+    "raw_record": {
+      "id": "PPR1322694",
+      "source": "PPR",
+      "doi": "10.64898/2026.09.15.751775",
+      "title": "RNAbridge: a database of extended and non-canonical helices",
+      "authorString": "Zakrzewski D, Antczak M, Zok T.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Zakrzewski D",
+            "lastName": "Zakrzewski",
+            "firstName": "Damian",
+            "initials": "D"
+          },
+          {
+            "fullName": "Antczak M",
+            "lastName": "Antczak",
+            "firstName": "Maciej",
+            "initials": "M"
+          },
+          {
+            "fullName": "Zok T",
+            "lastName": "Zok",
+            "firstName": "Tomasz",
+            "initials": "T"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "RNA function is dictated by 3D architecture. Although 2D structural models based on canonical Watson-Crick base pairs are widely used, they often fail to capture the non-canonical interactions, tertiary contacts, and coaxial stacking important for biological activity. We have developed RNAbridge, a comprehensive database and web application that systematically identifies, quantifies, and visualizes extended non-canonical helices and multi-way junctions. Using a geometry- and stacking-based pipeline, we analyzed the Protein Data Bank and compiled a catalog of 135,541 structural motifs. RNAbridge includes a user-friendly interface with interactive filters, synchronized 2D and 3D visualizations, and detailed structural data, including helical bend angles and stacking paths. By connecting simplified 2D topologies with complex 3D structures, RNAbridge serves as a valuable resource for structural biologists and lays the foundation for future machine learning applications in RNA structure prediction. The database, available at https://rnabridge.cs.put.poznan.pl/, is automatically updated once a week.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.09.15.751775"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-09-19",
+      "firstPublicationDate": "2026-09-17",
+      "firstIndexDate": "2026-09-19",
+      "hasEvaluations": "N"
+    }
+  }
+}

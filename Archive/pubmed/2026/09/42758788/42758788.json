@@ -1,0 +1,251 @@
+{
+  "identity": {
+    "pmid": "42758788",
+    "doi": "10.1371/journal.pcbi.1014804",
+    "title": "Integrative AI-assisted modeling suggests CPPF binding at a composite [Formula: see text]/[Formula: see text]-tubulin interface pocket dominated by [Formula: see text]-tubulin contacts."
+  },
+  "content": {
+    "abstract": "Microtubules are dynamic cytoskeletal polymers assembled from alpha/beta-tubulin heterodimers. Microtubules are validated targets for novel therapeutic drugs, yet therapeutic efficacy targeting them is often compromised by multidrug resistance (MDR). 5-(3-chlorophenyl)-N-(3-pyridinyl)-2-furamide (CPPF) is a novel microtubule-targeting anticancer agent which was found to disrupt microtubule growth in cells and inhibit tubulin polymerization in vitro. CPPF could suppress the growth of multidrug-resistant cell lines and demonstrate anti-tumor efficacy in animal models. However, the fundamental mechanism of how CPPF disrupts microtubule assembly remains unclear. To investigate this, we performed structure prediction using Protenix, RoseTTAFold All-Atom (RFAA) and Umol, as well as molecular dynamics (MD) simulations, using the human alpha/beta-tubulin heterodimer (PDB ID: 5IJ0) for analyzing the interaction between CPPF and tubulin. Our results showed that CPPF binds at the alpha/beta interface with dominant contributions from beta-tubulin residues, particularly VAL236 and LEU253. In isolated-monomer comparisons, beta-tubulin exhibited more favorable binding energetics and deeper, broader free-energy minima than alpha-tubulin. Supplementary simulations on the alternative beta-tubulin conformational state (PDB: 6E7B; straight microtubule-lattice) indicated that CPPF binding is preserved across the two major beta-tubulin conformations, with comparable MM-PBSA binding free energies. Taken together, these findings establish a plausible binding mode for CPPF at the alpha/beta-tubulin interface, providing a structural hypothesis for understanding its anticancer potential against multidrug-resistant cancers. Experimental validation through binding assays or crystallography is warranted to further substantiate these computational insights.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yang, Jixin",
+        "Liang, Lisha",
+        "Zhu, Dengchao",
+        "Yin, Xuzhe",
+        "Feng, Yizhuo",
+        "Tang, Shaojun",
+        "Li, Muzi"
+      ],
+      "short_names": [
+        "Yang J",
+        "Liang L",
+        "Zhu D",
+        "Yin X",
+        "Feng Y",
+        "Tang S",
+        "Li M"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-5489-0593",
+        "ORCID: 0000-0002-5141-0515",
+        "ORCID: 0009-0006-9780-6941"
+      ],
+      "affiliations": [
+        "Data Science and Analytics Thrust, Information Hub, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China.",
+        "Bioscience and Biomedical Engineering Thrust, Systems Hub, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China.",
+        "Bioscience and Biomedical Engineering Thrust, Systems Hub, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China.",
+        "Bioscience and Biomedical Engineering Thrust, Systems Hub, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China.",
+        "Bioscience and Biomedical Engineering Thrust, Systems Hub, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China.",
+        "Department of Biostatistics, Virginia Commonwealth University, Richmond, Virginia, United States of America.",
+        "Massey Comprehensive Cancer Center, Virginia Commonwealth University, Richmond, Virginia, United States of America.",
+        "Shenzhen Key Laboratory of Synthetic Genomics, Guangdong Provincial Key Laboratory of Synthetic Genomics, State Key Laboratory of Quantitative Synthetic Biology, Shenzhen Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China.",
+        "Faculty of Synthetic Biology and Institute of Emerging Agricultural Technology, Shenzhen University of Advanced Technology, Shenzhen, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yang, Jixin",
+        "short_name": "Yang J",
+        "identifiers": [
+          "0000-0002-5489-0593"
+        ],
+        "affiliations": [
+          "Data Science and Analytics Thrust, Information Hub, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Liang, Lisha",
+        "short_name": "Liang L",
+        "identifiers": [],
+        "affiliations": [
+          "Bioscience and Biomedical Engineering Thrust, Systems Hub, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Dengchao",
+        "short_name": "Zhu D",
+        "identifiers": [],
+        "affiliations": [
+          "Bioscience and Biomedical Engineering Thrust, Systems Hub, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Yin, Xuzhe",
+        "short_name": "Yin X",
+        "identifiers": [],
+        "affiliations": [
+          "Bioscience and Biomedical Engineering Thrust, Systems Hub, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Feng, Yizhuo",
+        "short_name": "Feng Y",
+        "identifiers": [],
+        "affiliations": [
+          "Bioscience and Biomedical Engineering Thrust, Systems Hub, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Tang, Shaojun",
+        "short_name": "Tang S",
+        "identifiers": [
+          "0000-0002-5141-0515"
+        ],
+        "affiliations": [
+          "Department of Biostatistics, Virginia Commonwealth University, Richmond, Virginia, United States of America.",
+          "Massey Comprehensive Cancer Center, Virginia Commonwealth University, Richmond, Virginia, United States of America."
+        ]
+      },
+      {
+        "full_name": "Li, Muzi",
+        "short_name": "Li M",
+        "identifiers": [
+          "0009-0006-9780-6941"
+        ],
+        "affiliations": [
+          "Shenzhen Key Laboratory of Synthetic Genomics, Guangdong Provincial Key Laboratory of Synthetic Genomics, State Key Laboratory of Quantitative Synthetic Biology, Shenzhen Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China.",
+          "Faculty of Synthetic Biology and Institute of Emerging Agricultural Technology, Shenzhen University of Advanced Technology, Shenzhen, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "PLoS computational biology"
+    ],
+    "journal_abbrev": [
+      "PLoS Comput Biol"
+    ],
+    "pub_date": "2026 Sep 18",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/18 17:36",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42758788",
+      "32645923",
+      "42011130",
+      "29584771",
+      "30516382",
+      "32981511",
+      "26212016",
+      "39449768",
+      "34215900",
+      "30831055",
+      "42648362",
+      "36903629",
+      "24516374",
+      "27353867",
+      "29652248",
+      "37599936",
+      "39732970",
+      "31177401",
+      "12883031",
+      "35566235",
+      "24530796",
+      "41874537",
+      "41756865",
+      "26230757",
+      "36065637",
+      "41388181",
+      "29691282",
+      "26235140",
+      "27960611",
+      "23912807",
+      "25662919",
+      "19863156",
+      "27233604",
+      "27046833",
+      "28459539",
+      "34328335",
+      "23818224",
+      "15731766",
+      "35766982",
+      "19455242",
+      "41662400",
+      "31469822",
+      "31043459",
+      "42455893",
+      "12181429",
+      "31073777",
+      "30451089",
+      "9138581",
+      "11479219",
+      "34794817",
+      "41232862",
+      "42475469",
+      "33691261",
+      "33503939",
+      "11739794",
+      "28716960",
+      "32502617",
+      "29803726",
+      "25912799",
+      "23941826",
+      "36051882",
+      "25481458",
+      "29794416",
+      "28597356",
+      "25521775",
+      "41338132",
+      "25313010",
+      "19293927",
+      "38047568",
+      "42345617",
+      "1695248",
+      "35504334",
+      "32241247",
+      "33925026",
+      "18405918",
+      "34378994",
+      "31460305",
+      "39662283",
+      "19666559",
+      "41040367",
+      "26052091",
+      "24116100",
+      "28860494",
+      "35303622",
+      "32286822",
+      "21905119",
+      "41344206",
+      "37214866",
+      "27395016",
+      "31493861",
+      "40752457",
+      "21881916",
+      "22170255",
+      "23152872",
+      "26030285",
+      "35538960",
+      "12716939",
+      "15518543",
+      "14552587",
+      "25720490"
+    ],
+    "review": [
+      "42758788",
+      "23818224",
+      "31073777"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

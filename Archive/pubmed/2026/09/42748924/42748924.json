@@ -1,0 +1,279 @@
+{
+  "identity": {
+    "pmid": "42748924",
+    "doi": "10.1016/j.str.2026.08.011",
+    "title": "AlphaBridge: Tools for the analysis of predicted biomolecular complexes."
+  },
+  "content": {
+    "abstract": "Artificial intelligence (AI)-powered protein structure prediction transformed how scientists explore macromolecular function. AI-based prediction of macromolecular complexes is increasingly used for evaluating the likelihood of proteins forming complexes with other proteins, nucleic acids, lipids, sugars, or small-molecule ligands. Efficient tools are needed to evaluate such predicted models. Here, we combine confidence metrics of AlphaFold3 to enable clustering of sequence motifs participating in binary interactions and subsequently in 3D interfaces of complexes. Interaction interfaces within confidence limits are visualized via chord diagrams, network graphs, and summary tables of predicted interfaces and intermolecular interactions, and linked to interactive graphics. We validate AlphaBridge for scoring binary and multi-component protein complexes and discuss real-life examples of its use. AlphaBridge is a reproducible, objective, and automated toolkit available also as a web server, providing novice and experienced users with validation for assessing structure prediction of biomolecular complexes.",
+    "keywords": [
+      "AlphaFold3",
+      "biomolecular complex prediction",
+      "interaction interfaces",
+      "molecular model validation",
+      "protein-nucleic-acid interactions",
+      "protein-protein interactions",
+      "structure prediction confidence",
+      "web server"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Alvarez-Salmoral, Daniel",
+        "Borza, Razvan",
+        "Maiella, Carmen",
+        "Kwee, Bjorn P Y",
+        "Xie, Ren",
+        "Joosten, Robbie P",
+        "Hekkelman, Maarten L",
+        "Perrakis, Anastassis"
+      ],
+      "short_names": [
+        "Alvarez-Salmoral D",
+        "Borza R",
+        "Maiella C",
+        "Kwee BPY",
+        "Xie R",
+        "Joosten RP",
+        "Hekkelman ML",
+        "Perrakis A"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Oncode Institute and the Netherlands Cancer Institute Division of Biochemistry, Amsterdam 1066CX, the Netherlands.",
+        "Oncode Institute and the Netherlands Cancer Institute Division of Biochemistry, Amsterdam 1066CX, the Netherlands.",
+        "Oncode Institute and the Netherlands Cancer Institute Division of Biochemistry, Amsterdam 1066CX, the Netherlands.",
+        "Oncode Institute and the Netherlands Cancer Institute Division of Biochemistry, Amsterdam 1066CX, the Netherlands.",
+        "Oncode Institute and the Netherlands Cancer Institute Division of Biochemistry, Amsterdam 1066CX, the Netherlands.",
+        "Oncode Institute and the Netherlands Cancer Institute Division of Biochemistry, Amsterdam 1066CX, the Netherlands.",
+        "Oncode Institute and the Netherlands Cancer Institute Division of Biochemistry, Amsterdam 1066CX, the Netherlands.",
+        "Oncode Institute and the Netherlands Cancer Institute Division of Biochemistry, Amsterdam 1066CX, the Netherlands. Electronic address: a.perrakis@nki.nl."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Álvarez-Salmoral, Daniel",
+        "short_name": "Álvarez-Salmoral D",
+        "identifiers": [],
+        "affiliations": [
+          "Oncode Institute and the Netherlands Cancer Institute Division of Biochemistry, Amsterdam 1066CX, the Netherlands."
+        ]
+      },
+      {
+        "full_name": "Borza, Razvan",
+        "short_name": "Borza R",
+        "identifiers": [],
+        "affiliations": [
+          "Oncode Institute and the Netherlands Cancer Institute Division of Biochemistry, Amsterdam 1066CX, the Netherlands."
+        ]
+      },
+      {
+        "full_name": "Maiella, Carmen",
+        "short_name": "Maiella C",
+        "identifiers": [],
+        "affiliations": [
+          "Oncode Institute and the Netherlands Cancer Institute Division of Biochemistry, Amsterdam 1066CX, the Netherlands."
+        ]
+      },
+      {
+        "full_name": "Kwee, Bjørn P Y",
+        "short_name": "Kwee BPY",
+        "identifiers": [],
+        "affiliations": [
+          "Oncode Institute and the Netherlands Cancer Institute Division of Biochemistry, Amsterdam 1066CX, the Netherlands."
+        ]
+      },
+      {
+        "full_name": "Xie, Ren",
+        "short_name": "Xie R",
+        "identifiers": [],
+        "affiliations": [
+          "Oncode Institute and the Netherlands Cancer Institute Division of Biochemistry, Amsterdam 1066CX, the Netherlands."
+        ]
+      },
+      {
+        "full_name": "Joosten, Robbie P",
+        "short_name": "Joosten RP",
+        "identifiers": [],
+        "affiliations": [
+          "Oncode Institute and the Netherlands Cancer Institute Division of Biochemistry, Amsterdam 1066CX, the Netherlands."
+        ]
+      },
+      {
+        "full_name": "Hekkelman, Maarten L",
+        "short_name": "Hekkelman ML",
+        "identifiers": [],
+        "affiliations": [
+          "Oncode Institute and the Netherlands Cancer Institute Division of Biochemistry, Amsterdam 1066CX, the Netherlands."
+        ]
+      },
+      {
+        "full_name": "Perrakis, Anastassis",
+        "short_name": "Perrakis A",
+        "identifiers": [],
+        "affiliations": [
+          "Oncode Institute and the Netherlands Cancer Institute Division of Biochemistry, Amsterdam 1066CX, the Netherlands. Electronic address: a.perrakis@nki.nl."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Structure (London, England : 1993)"
+    ],
+    "journal_abbrev": [
+      "Structure"
+    ],
+    "pub_date": "2026 Sep 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/16 23:34",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42748924",
+      "41313605",
+      "41142756",
+      "42241776",
+      "24423161",
+      "33407077",
+      "17517763",
+      "33950384",
+      "24829450",
+      "40905273",
+      "40653974",
+      "16512892",
+      "42584949",
+      "17727718",
+      "23912807",
+      "41274550",
+      "34630938",
+      "36321557",
+      "35142086",
+      "40173387",
+      "26509288",
+      "37870486",
+      "22102591",
+      "38634802",
+      "25943546",
+      "41166421",
+      "41081541",
+      "36693636",
+      "40505261",
+      "18616991",
+      "31045208",
+      "34497831",
+      "25820431",
+      "37777474",
+      "23850846",
+      "28486703",
+      "38619046",
+      "40672254",
+      "41831109",
+      "37515714",
+      "24564924",
+      "21992011",
+      "18474114",
+      "26092861",
+      "26956673",
+      "35653385",
+      "39881398",
+      "28905467",
+      "33469042",
+      "31886559",
+      "24838571",
+      "18847485",
+      "21624888",
+      "42129640",
+      "38376838",
+      "35524560",
+      "20584269",
+      "40851426",
+      "21609948",
+      "17452350",
+      "30274705",
+      "41429982",
+      "39936575",
+      "38886530",
+      "26234511",
+      "18571508",
+      "27655048",
+      "40631076",
+      "36424442",
+      "31994779",
+      "40671265",
+      "39237205",
+      "24532726",
+      "27888839",
+      "31886916",
+      "32621223",
+      "41088961",
+      "34361778",
+      "38979954",
+      "12824324",
+      "32483825",
+      "41311232",
+      "37885318",
+      "15762993",
+      "36959458",
+      "23532342",
+      "34176161",
+      "41635150",
+      "41165252",
+      "40423839",
+      "37450159",
+      "28845596",
+      "42080590",
+      "34759384",
+      "41863177",
+      "40332289",
+      "41559231",
+      "36275623",
+      "30724932",
+      "29178137"
+    ],
+    "review": [
+      "42748924",
+      "33950384",
+      "36321557",
+      "36693636",
+      "40505261",
+      "41429982",
+      "39936575",
+      "38886530",
+      "26234511",
+      "18571508",
+      "40671265",
+      "27888839",
+      "41088961",
+      "41311232",
+      "40423839",
+      "34759384",
+      "41863177"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0969-2126(26)00258-3",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

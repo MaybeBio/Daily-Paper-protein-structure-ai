@@ -1,0 +1,240 @@
+{
+  "identity": {
+    "pmid": "42753157",
+    "doi": "10.1002/pro.70798",
+    "title": "Conserved Asp233-Asp246 hydrogen bond modulates active site dynamics in class A beta-lactamases."
+  },
+  "content": {
+    "abstract": "Rigid enzymes catalyze chemical reactions by stabilizing the transition state through a specific conformation. Catalytic residues are precisely positioned, and enzyme dynamics are kept to a minimum. It is thought that conserved residues around the active site (second-shell residues) play a crucial role in positioning catalytic residues. Asp233 and Asp246 are two highly conserved second-shell residues in class A beta-lactamases, rigid enzymes that inactivate beta-lactam antibiotics. The two aspartates share a short hydrogen bond, linking beta-strands 3 and 4. The role of this interaction in Mycobacterium tuberculosis beta-lactamase BlaC was studied by mutating the Asp residues to Ala. Disruption of the hydrogen bond subtly affects the activity and stability of the enzyme, suggesting the interaction helps to fine-tune the active site. The effects are larger for BlaC D246A than for D233A, indicating that effects cannot solely be attributed to the loss of the hydrogen bond. Molecular dynamics calculations indicate a shift in the conformational landscape due to the mutations, altering the conformational equilibria of the catalytic residues toward less active states. The results illustrate that second-shell residues act as a complex network that supports the efficient positioning of the catalytic residues.",
+    "keywords": [
+      "BlaC",
+      "active site",
+      "biocatalysis",
+      "conserved residues",
+      "molecular dynamics",
+      "protein dynamics",
+      "substrate specificity",
+      "beta-lactamase"
+    ],
+    "mesh_terms": [
+      "Hydrogen Bonding",
+      "*beta-Lactamases/chemistry/genetics/metabolism",
+      "Catalytic Domain",
+      "*Mycobacterium tuberculosis/enzymology/genetics/chemistry",
+      "Molecular Dynamics Simulation",
+      "*Aspartic Acid/chemistry/metabolism",
+      "*Bacterial Proteins/chemistry/genetics/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Lopez-Gallego, Cristina V",
+        "Timmer, Monika",
+        "Vreede, Jocelyne",
+        "Ubbink, Marcellus"
+      ],
+      "short_names": [
+        "Lopez-Gallego CV",
+        "Timmer M",
+        "Vreede J",
+        "Ubbink M"
+      ],
+      "auids": [
+        "ORCID: 0009-0001-0487-4261",
+        "ORCID: 0000-0002-6977-6603",
+        "ORCID: 0000-0002-2615-6914"
+      ],
+      "affiliations": [
+        "Leiden Institute of Chemistry, Leiden University, Leiden, The Netherlands.",
+        "Leiden Institute of Chemistry, Leiden University, Leiden, The Netherlands.",
+        "Van 't Hoff Institute of Molecular Sciences, University of Amsterdam, Amsterdam, The Netherlands.",
+        "Leiden Institute of Chemistry, Leiden University, Leiden, The Netherlands."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Lopez-Gallego, Cristina V",
+        "short_name": "Lopez-Gallego CV",
+        "identifiers": [
+          "0009-0001-0487-4261"
+        ],
+        "affiliations": [
+          "Leiden Institute of Chemistry, Leiden University, Leiden, The Netherlands."
+        ]
+      },
+      {
+        "full_name": "Timmer, Monika",
+        "short_name": "Timmer M",
+        "identifiers": [],
+        "affiliations": [
+          "Leiden Institute of Chemistry, Leiden University, Leiden, The Netherlands."
+        ]
+      },
+      {
+        "full_name": "Vreede, Jocelyne",
+        "short_name": "Vreede J",
+        "identifiers": [
+          "0000-0002-6977-6603"
+        ],
+        "affiliations": [
+          "Van 't Hoff Institute of Molecular Sciences, University of Amsterdam, Amsterdam, The Netherlands."
+        ]
+      },
+      {
+        "full_name": "Ubbink, Marcellus",
+        "short_name": "Ubbink M",
+        "identifiers": [
+          "0000-0002-2615-6914"
+        ],
+        "affiliations": [
+          "Leiden Institute of Chemistry, Leiden University, Leiden, The Netherlands."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Protein science : a publication of the Protein Society"
+    ],
+    "journal_abbrev": [
+      "Protein Sci"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/17 18:32",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42753157",
+      "39134195",
+      "31871087",
+      "35634774",
+      "16870770",
+      "41074874",
+      "33792206",
+      "2005620",
+      "33767175",
+      "34704263",
+      "21859796",
+      "22687511",
+      "20961112",
+      "25492589",
+      "25312912",
+      "41562583",
+      "23314151",
+      "34022225",
+      "33809335",
+      "28432959",
+      "21541744",
+      "42725970",
+      "28100776",
+      "24023821",
+      "25070104",
+      "29089425",
+      "33755013",
+      "2181451",
+      "27487828",
+      "30632739",
+      "26672466",
+      "37534493",
+      "31476406",
+      "10757977",
+      "24913158",
+      "23490078",
+      "12876313",
+      "27668669",
+      "41114447",
+      "40854973",
+      "10913288",
+      "22785484",
+      "20826810",
+      "18422342",
+      "40293226",
+      "31835662",
+      "12904027",
+      "22272276",
+      "9756899",
+      "26024468",
+      "37335937",
+      "26525789",
+      "28777084",
+      "27402448",
+      "26169409",
+      "40692061",
+      "29095570",
+      "40810526",
+      "20353175",
+      "2173561",
+      "42725982",
+      "30430727",
+      "34250791",
+      "24777102",
+      "8590021",
+      "39971266",
+      "31269656",
+      "39799381",
+      "27073009",
+      "25087201",
+      "40973806",
+      "40872271",
+      "38778284",
+      "19651913",
+      "12144785",
+      "25479359",
+      "25713062",
+      "11807251",
+      "28264645",
+      "24025144",
+      "32686406",
+      "26057252",
+      "23902256",
+      "31550535",
+      "10783059",
+      "37170014",
+      "33966119",
+      "26018804",
+      "38533527",
+      "24584846",
+      "25794108",
+      "21705325",
+      "9891008",
+      "41870155",
+      "29771929",
+      "35877936",
+      "27797327",
+      "24261683",
+      "33257320",
+      "18031291"
+    ],
+    "review": [
+      "42753157",
+      "31835662"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1002/pro.70798",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

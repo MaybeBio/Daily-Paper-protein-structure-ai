@@ -1,0 +1,301 @@
+{
+  "identity": {
+    "pmid": "42734520",
+    "doi": "10.1021/acs.jcim.6c01024",
+    "title": "To ML-Predict or Not to ML-Predict: The Impact of Machine Learning-Predicted Protein Structures on FEP Accuracy and Data Augmentation."
+  },
+  "content": {
+    "abstract": "The rapid advancement of machine learning (ML)-based protein structure prediction, exemplified by AlphaFold2 and extended by newer models such as AlphaFold3 and Boltz-2, has generated significant optimism for structure-guided drug discovery. In particular, ligand-protein cofolding approaches offer the potential to overcome limitations in generating starting structures for physics-based free energy perturbation (FEP) calculations. However, the practical readiness of ML-predicted structures for FEP applications remains insufficiently evaluated. Here, we systematically assess experimentally determined crystal structures, a homology model, and ML-predicted protein structures as inputs for FEP using a well-characterized congeneric series targeting the tyrosine kinase cSrc. A data set of 133 compounds was evaluated through more than 1400 FEP calculations under minimal optimization to approximate \"out-of-the-box\" performance. By maintaining consistent preparation protocols, we isolate the impact of structural origin on predictive accuracy. Variable performance was observed across both experimental and ML-predicted structures, highlighting that even under this idealized benchmark scenario, significant challenges remain in reliably generating and refining predictive protein-ligand complexes. This study demonstrates that predictive variation in micro and macro conformational states horizontal line rather than the structural source horizontal line governs predictive reliability, underscoring the need for careful validation when integrating ML-derived structures into FEP workflows.",
+    "keywords": [],
+    "mesh_terms": [
+      "Protein Conformation",
+      "*Machine Learning",
+      "Predictive Learning Models",
+      "*Proteins/chemistry",
+      "Thermodynamics",
+      "Ligands",
+      "Models, Molecular",
+      "Drug Discovery"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Dryja, Parker",
+        "Muller, Morne",
+        "Horn, Monique",
+        "Balabin, Ilya",
+        "Dentmon, Zackery W",
+        "Rimal, Prawin",
+        "Peterson, Yuri K",
+        "Joubert, Fourie",
+        "Kaiser, Thomas M",
+        "Burger, Pieter B"
+      ],
+      "short_names": [
+        "Dryja P",
+        "Muller M",
+        "Horn M",
+        "Balabin I",
+        "Dentmon ZW",
+        "Rimal P",
+        "Peterson YK",
+        "Joubert F",
+        "Kaiser TM",
+        "Burger PB"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-4005-9678",
+        "ORCID: 0000-0003-0272-1111"
+      ],
+      "affiliations": [
+        "Avicenna Biosciences Inc., 101 W Chapel Hill St, Durham, North Carolina27001, United States.",
+        "Avicenna Biosciences Inc., 101 W Chapel Hill St, Durham, North Carolina27001, United States.",
+        "Centre for Bioinformatics and Computational Biology, Department of Biochemistry, Genetics and Microbiology, University of Pretoria, Pretoria0001, South Africa.",
+        "Avicenna Biosciences Inc., 101 W Chapel Hill St, Durham, North Carolina27001, United States.",
+        "Avicenna Biosciences Inc., 101 W Chapel Hill St, Durham, North Carolina27001, United States.",
+        "Department of Physics and Astronomy, College of Science, Clemson University, Clemson, South Carolina29634, United States.",
+        "Medical University of South Carolina, Department of Drug Discovery and Biomedical Sciences, College of Pharmacy, Charleston, South Carolina29425-1410, United States.",
+        "Centre for Bioinformatics and Computational Biology, Department of Biochemistry, Genetics and Microbiology, University of Pretoria, Pretoria0001, South Africa.",
+        "Avicenna Biosciences Inc., 101 W Chapel Hill St, Durham, North Carolina27001, United States.",
+        "Avicenna Biosciences Inc., 101 W Chapel Hill St, Durham, North Carolina27001, United States.",
+        "Medical University of South Carolina, Department of Drug Discovery and Biomedical Sciences, College of Pharmacy, Charleston, South Carolina29425-1410, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Dryja, Parker",
+        "short_name": "Dryja P",
+        "identifiers": [],
+        "affiliations": [
+          "Avicenna Biosciences Inc., 101 W Chapel Hill St, Durham, North Carolina27001, United States."
+        ]
+      },
+      {
+        "full_name": "Muller, Morné",
+        "short_name": "Muller M",
+        "identifiers": [],
+        "affiliations": [
+          "Avicenna Biosciences Inc., 101 W Chapel Hill St, Durham, North Carolina27001, United States."
+        ]
+      },
+      {
+        "full_name": "Horn, Monique",
+        "short_name": "Horn M",
+        "identifiers": [],
+        "affiliations": [
+          "Centre for Bioinformatics and Computational Biology, Department of Biochemistry, Genetics and Microbiology, University of Pretoria, Pretoria0001, South Africa."
+        ]
+      },
+      {
+        "full_name": "Balabin, Ilya",
+        "short_name": "Balabin I",
+        "identifiers": [],
+        "affiliations": [
+          "Avicenna Biosciences Inc., 101 W Chapel Hill St, Durham, North Carolina27001, United States."
+        ]
+      },
+      {
+        "full_name": "Dentmon, Zackery W",
+        "short_name": "Dentmon ZW",
+        "identifiers": [],
+        "affiliations": [
+          "Avicenna Biosciences Inc., 101 W Chapel Hill St, Durham, North Carolina27001, United States."
+        ]
+      },
+      {
+        "full_name": "Rimal, Prawin",
+        "short_name": "Rimal P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physics and Astronomy, College of Science, Clemson University, Clemson, South Carolina29634, United States."
+        ]
+      },
+      {
+        "full_name": "Peterson, Yuri K",
+        "short_name": "Peterson YK",
+        "identifiers": [
+          "0000-0002-4005-9678"
+        ],
+        "affiliations": [
+          "Medical University of South Carolina, Department of Drug Discovery and Biomedical Sciences, College of Pharmacy, Charleston, South Carolina29425-1410, United States."
+        ]
+      },
+      {
+        "full_name": "Joubert, Fourie",
+        "short_name": "Joubert F",
+        "identifiers": [],
+        "affiliations": [
+          "Centre for Bioinformatics and Computational Biology, Department of Biochemistry, Genetics and Microbiology, University of Pretoria, Pretoria0001, South Africa."
+        ]
+      },
+      {
+        "full_name": "Kaiser, Thomas M",
+        "short_name": "Kaiser TM",
+        "identifiers": [],
+        "affiliations": [
+          "Avicenna Biosciences Inc., 101 W Chapel Hill St, Durham, North Carolina27001, United States."
+        ]
+      },
+      {
+        "full_name": "Burger, Pieter B",
+        "short_name": "Burger PB",
+        "identifiers": [
+          "0000-0003-0272-1111"
+        ],
+        "affiliations": [
+          "Avicenna Biosciences Inc., 101 W Chapel Hill St, Durham, North Carolina27001, United States.",
+          "Medical University of South Carolina, Department of Drug Discovery and Biomedical Sciences, College of Pharmacy, Charleston, South Carolina29425-1410, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of chemical information and modeling"
+    ],
+    "journal_abbrev": [
+      "J Chem Inf Model"
+    ],
+    "pub_date": "2026 Sep 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/14 11:40",
+    "fetched_at": "2026-09-20 07:27:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42734520",
+      "36099477",
+      "28024402",
+      "42475469",
+      "41674157",
+      "40958764",
+      "40160764",
+      "39560439",
+      "35972903",
+      "31396905",
+      "42223122",
+      "29119352",
+      "39558632",
+      "28361672",
+      "17168725",
+      "33568025",
+      "42732698",
+      "42093179",
+      "41822751",
+      "39922899",
+      "31986249",
+      "38398581",
+      "39660955",
+      "42667474",
+      "40583448",
+      "42334929",
+      "41310253",
+      "27862345",
+      "38651738",
+      "42096314",
+      "41779774",
+      "39681511",
+      "41526649",
+      "39643640",
+      "41636346",
+      "41652158",
+      "42579383",
+      "42081673",
+      "33112150",
+      "27172383",
+      "38254672",
+      "28677954",
+      "29243483",
+      "40854386",
+      "39800967",
+      "42594575",
+      "41642195",
+      "22417279",
+      "36652496",
+      "39337622",
+      "37838760",
+      "30689375",
+      "42359965",
+      "42095677",
+      "37378817",
+      "41355862",
+      "37594480",
+      "41619702",
+      "36573828",
+      "27782307",
+      "41683791",
+      "23912807",
+      "39840793",
+      "34890185",
+      "36892986",
+      "38100422",
+      "42286075",
+      "41051467",
+      "40400111",
+      "41562952",
+      "37745489",
+      "39092736",
+      "38131311",
+      "41072002",
+      "38844044",
+      "41313605",
+      "40634710",
+      "31144815",
+      "31167452",
+      "39965912",
+      "41617209",
+      "35530128",
+      "42738610",
+      "25625324",
+      "37693436",
+      "39868875",
+      "42713223",
+      "36681903",
+      "41729820",
+      "29906639",
+      "42601453",
+      "25724101",
+      "39684679",
+      "41617188",
+      "40251890",
+      "39484820",
+      "27562018",
+      "38730184",
+      "24032517",
+      "38751014"
+    ],
+    "review": [
+      "42734520",
+      "40958764",
+      "33568025",
+      "41652158",
+      "38254672",
+      "41619702",
+      "41051467",
+      "39092736"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/jcisd8/article-lookup/doi/10.1021/acs.jcim.6c01024",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

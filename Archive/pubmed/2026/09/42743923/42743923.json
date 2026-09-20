@@ -1,0 +1,214 @@
+{
+  "identity": {
+    "pmid": "42743923",
+    "doi": "10.1016/j.cels.2026.101714",
+    "title": "Sampling protein language models for functional protein design."
+  },
+  "content": {
+    "abstract": "Protein language models have emerged as powerful tools for learning rich protein representations, improving tasks like structure prediction, mutation effect estimation, and homology detection. Their ability to model complex sequence distributions also holds promise for designing novel, functional proteins with applications in therapeutics, materials, and sustainability. Given the vastness of sequence space, efficient exploration is essential. However, most existing design approaches rely on single-mutant sampling strategies borrowed from natural language processing, which fail to capture epistatic interactions critical for function. Here, we develop an in silico framework to systematically compare sampling methods and introduce several approaches tailored for protein design. We show that sampling multiple mutations simultaneously substantially outperforms single-mutant approaches by better capturing epistatic effects. We evaluate these strategies across three protein families spanning eukaryotic, prokaryotic, and viral origins, examine key hyperparameters, and validate our findings on a de novo binder design task against a major therapeutic target.",
+    "keywords": [
+      "epistatic interactions",
+      "in silico evaluation",
+      "multi mutations",
+      "protein design",
+      "protein language models",
+      "sampling algorithms"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Darmawan, Jeremie Theddy",
+        "Gal, Yarin",
+        "Notin, Pascal"
+      ],
+      "short_names": [
+        "Darmawan JT",
+        "Gal Y",
+        "Notin P"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Biochemistry, Yong Loo Lin School of Medicine, National University of Singapore, Singapore, Singapore. Electronic address: jeremie.darmawan@u.nus.edu.",
+        "Department of Computer Science, University of Oxford, Oxford, UK.",
+        "Department of Systems Biology, Harvard Medical School, Boston, MA, USA. Electronic address: research@pascal-notin.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Darmawan, Jeremie Theddy",
+        "short_name": "Darmawan JT",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, Yong Loo Lin School of Medicine, National University of Singapore, Singapore, Singapore. Electronic address: jeremie.darmawan@u.nus.edu."
+        ]
+      },
+      {
+        "full_name": "Gal, Yarin",
+        "short_name": "Gal Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Computer Science, University of Oxford, Oxford, UK."
+        ]
+      },
+      {
+        "full_name": "Notin, Pascal",
+        "short_name": "Notin P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Systems Biology, Harvard Medical School, Boston, MA, USA. Electronic address: research@pascal-notin.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cell systems"
+    ],
+    "journal_abbrev": [
+      "Cell Syst"
+    ],
+    "pub_date": "2026 Sep 3",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/15 23:34",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42743923",
+      "42475469",
+      "42247461",
+      "40119464",
+      "23912807",
+      "34139171",
+      "40728618",
+      "40563483",
+      "41310253",
+      "41256639",
+      "39229177",
+      "42517630",
+      "38106034",
+      "39704075",
+      "39605414",
+      "42491247",
+      "41245953",
+      "37242577",
+      "41757065",
+      "37399105",
+      "37205395",
+      "38913900",
+      "42157243",
+      "41042819",
+      "42244599",
+      "42248581",
+      "38568188",
+      "36652496",
+      "41021316",
+      "37321965",
+      "38900798",
+      "40970903",
+      "38365583",
+      "41712694",
+      "42492189",
+      "39708841",
+      "41576089",
+      "41759349",
+      "37113259",
+      "38993729",
+      "37214973",
+      "40856523",
+      "41452662",
+      "41283681",
+      "42001471",
+      "31847804",
+      "41352986",
+      "41714330",
+      "41922570",
+      "42015301",
+      "40601248",
+      "38507445",
+      "41462077",
+      "42222300",
+      "36540969",
+      "40935922",
+      "28191922",
+      "36051311",
+      "41959429",
+      "34260225",
+      "42136025",
+      "29262162",
+      "36544476",
+      "42154341",
+      "41007412",
+      "40197028",
+      "40662798",
+      "39115336",
+      "42617920",
+      "41905520",
+      "41608984",
+      "35020807",
+      "26042329",
+      "41337470",
+      "40181110",
+      "42583835",
+      "39464109",
+      "42048356",
+      "38493120",
+      "40804173",
+      "39769208",
+      "41285097",
+      "41750280",
+      "34616884",
+      "25080993",
+      "38559182",
+      "42227990",
+      "41795657",
+      "41206398",
+      "40755284",
+      "31913448",
+      "42743972",
+      "42184115",
+      "36348281",
+      "41443357",
+      "40306261",
+      "42427317",
+      "38166383",
+      "38986287",
+      "37964216"
+    ],
+    "review": [
+      "42743923",
+      "42491247",
+      "42492189",
+      "41759349",
+      "41452662",
+      "28191922",
+      "36544476",
+      "41007412",
+      "41443357"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2405-4712(26)00196-1",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

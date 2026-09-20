@@ -1,0 +1,318 @@
+{
+  "identity": {
+    "pmid": "42737571",
+    "doi": "10.3390/ijms27177674",
+    "title": "Agonist Binding Reshapes the Kinetic Landscape and Allosteric Communication of APLNR Toward Activation-Competent States."
+  },
+  "content": {
+    "abstract": "APLNR is a therapeutically important G protein-coupled receptor (GPCR) implicated in cardiovascular and metabolic regulation; however, how agonist binding reorganizes receptor dynamics to promote signaling competence remains poorly understood. Here, we used the small-molecule agonist CMF-019 as a representative ligand and integrated Gaussian accelerated molecular dynamics (GaMD), Markov state models (MSMs), and neural relational inference (NRI) to characterize the conformational dynamics, kinetic organization, and allosteric communication of APLNR in apo and CMF-019-bound states. We found that CMF-019 binding altered structural flexibility in extracellular and intracellular regions while modifying collective motions within the transmembrane core, indicating a transition toward a more signaling-permissive dynamic state. MSM analyses further revealed that CMF-019 binding redistributed APLNR toward activation-related intermediate conformations and accelerated transitions among metastable states. Mechanistically, NRI uncovered extensive rewiring of the receptor communication network, in which CMF-019 binding strengthened transmembrane coupling and redirected signal propagation toward more convergent signaling routes linked to intracellular functional regions. Together, these findings suggest that CMF-019 promotes APLNR signaling competence through integrated kinetic and allosteric remodeling, revealing a dynamic mechanism by which an agonist can reorganize receptor communication prior to downstream coupling.",
+    "keywords": [
+      "G protein-coupled receptors (GPCRs)",
+      "Markov state models (MSMs)",
+      "allosteric communication",
+      "apelin receptor (APLNR)",
+      "conformational dynamics",
+      "neural relational inference (NRI)",
+      "signaling competence"
+    ],
+    "mesh_terms": [
+      "Allosteric Regulation",
+      "Kinetics",
+      "Molecular Dynamics Simulation",
+      "Humans",
+      "Protein Binding",
+      "*Receptors, G-Protein-Coupled/metabolism/chemistry/agonists",
+      "Signal Transduction",
+      "Ligands",
+      "Markov Chains",
+      "Protein Conformation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Dai, Hong",
+        "Zhu, Jun-Yao",
+        "Zhang, Bao-Dan",
+        "Liu, Meng-Ting",
+        "Sang, Peng",
+        "Yang, Li-Quan"
+      ],
+      "short_names": [
+        "Dai H",
+        "Zhu JY",
+        "Zhang BD",
+        "Liu MT",
+        "Sang P",
+        "Yang LQ"
+      ],
+      "auids": [
+        "ORCID: 0009-0007-7398-8530",
+        "ORCID: 0009-0006-3420-0483"
+      ],
+      "affiliations": [
+        "College of Agriculture and Biological Science, Dali University, Dali 671003, China.",
+        "Co-Innovation Center for Cangshan Mountain and Erhai Lake Integrated Protection and Green Development of Yunnan Province, Dali University, Dali 671003, China.",
+        "Key Laboratory of Bioinformatics and Computational Biology, Department of Education of Yunnan Province, Dali University, Dali 671003, China.",
+        "College of Agriculture and Biological Science, Dali University, Dali 671003, China.",
+        "Co-Innovation Center for Cangshan Mountain and Erhai Lake Integrated Protection and Green Development of Yunnan Province, Dali University, Dali 671003, China.",
+        "Key Laboratory of Bioinformatics and Computational Biology, Department of Education of Yunnan Province, Dali University, Dali 671003, China.",
+        "College of Agriculture and Biological Science, Dali University, Dali 671003, China.",
+        "Co-Innovation Center for Cangshan Mountain and Erhai Lake Integrated Protection and Green Development of Yunnan Province, Dali University, Dali 671003, China.",
+        "Key Laboratory of Bioinformatics and Computational Biology, Department of Education of Yunnan Province, Dali University, Dali 671003, China.",
+        "College of Agriculture and Biological Science, Dali University, Dali 671003, China.",
+        "Co-Innovation Center for Cangshan Mountain and Erhai Lake Integrated Protection and Green Development of Yunnan Province, Dali University, Dali 671003, China.",
+        "College of Pharmacy, Dali University, Dali 671003, China.",
+        "College of Agriculture and Biological Science, Dali University, Dali 671003, China.",
+        "Co-Innovation Center for Cangshan Mountain and Erhai Lake Integrated Protection and Green Development of Yunnan Province, Dali University, Dali 671003, China.",
+        "Key Laboratory of Bioinformatics and Computational Biology, Department of Education of Yunnan Province, Dali University, Dali 671003, China.",
+        "College of Agriculture and Biological Science, Dali University, Dali 671003, China.",
+        "Co-Innovation Center for Cangshan Mountain and Erhai Lake Integrated Protection and Green Development of Yunnan Province, Dali University, Dali 671003, China.",
+        "Key Laboratory of Bioinformatics and Computational Biology, Department of Education of Yunnan Province, Dali University, Dali 671003, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Dai, Hong",
+        "short_name": "Dai H",
+        "identifiers": [
+          "0009-0007-7398-8530"
+        ],
+        "affiliations": [
+          "College of Agriculture and Biological Science, Dali University, Dali 671003, China.",
+          "Co-Innovation Center for Cangshan Mountain and Erhai Lake Integrated Protection and Green Development of Yunnan Province, Dali University, Dali 671003, China.",
+          "Key Laboratory of Bioinformatics and Computational Biology, Department of Education of Yunnan Province, Dali University, Dali 671003, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Jun-Yao",
+        "short_name": "Zhu JY",
+        "identifiers": [],
+        "affiliations": [
+          "College of Agriculture and Biological Science, Dali University, Dali 671003, China.",
+          "Co-Innovation Center for Cangshan Mountain and Erhai Lake Integrated Protection and Green Development of Yunnan Province, Dali University, Dali 671003, China.",
+          "Key Laboratory of Bioinformatics and Computational Biology, Department of Education of Yunnan Province, Dali University, Dali 671003, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Bao-Dan",
+        "short_name": "Zhang BD",
+        "identifiers": [],
+        "affiliations": [
+          "College of Agriculture and Biological Science, Dali University, Dali 671003, China.",
+          "Co-Innovation Center for Cangshan Mountain and Erhai Lake Integrated Protection and Green Development of Yunnan Province, Dali University, Dali 671003, China.",
+          "Key Laboratory of Bioinformatics and Computational Biology, Department of Education of Yunnan Province, Dali University, Dali 671003, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Meng-Ting",
+        "short_name": "Liu MT",
+        "identifiers": [
+          "0009-0006-3420-0483"
+        ],
+        "affiliations": [
+          "College of Agriculture and Biological Science, Dali University, Dali 671003, China.",
+          "Co-Innovation Center for Cangshan Mountain and Erhai Lake Integrated Protection and Green Development of Yunnan Province, Dali University, Dali 671003, China.",
+          "College of Pharmacy, Dali University, Dali 671003, China."
+        ]
+      },
+      {
+        "full_name": "Sang, Peng",
+        "short_name": "Sang P",
+        "identifiers": [],
+        "affiliations": [
+          "College of Agriculture and Biological Science, Dali University, Dali 671003, China.",
+          "Co-Innovation Center for Cangshan Mountain and Erhai Lake Integrated Protection and Green Development of Yunnan Province, Dali University, Dali 671003, China.",
+          "Key Laboratory of Bioinformatics and Computational Biology, Department of Education of Yunnan Province, Dali University, Dali 671003, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Li-Quan",
+        "short_name": "Yang LQ",
+        "identifiers": [],
+        "affiliations": [
+          "College of Agriculture and Biological Science, Dali University, Dali 671003, China.",
+          "Co-Innovation Center for Cangshan Mountain and Erhai Lake Integrated Protection and Green Development of Yunnan Province, Dali University, Dali 671003, China.",
+          "Key Laboratory of Bioinformatics and Computational Biology, Department of Education of Yunnan Province, Dali University, Dali 671003, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of molecular sciences"
+    ],
+    "journal_abbrev": [
+      "Int J Mol Sci"
+    ],
+    "pub_date": "2026 Aug 27",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/15 05:36",
+    "fetched_at": "2026-09-20 07:27:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42737571",
+      "40650000",
+      "33738925",
+      "40451369",
+      "33621418",
+      "21766860",
+      "40920905",
+      "42269610",
+      "30969408",
+      "37651308",
+      "40409391",
+      "32786510",
+      "34354057",
+      "25950981",
+      "41088789",
+      "34780174",
+      "40272908",
+      "41498383",
+      "38314550",
+      "41231956",
+      "42599991",
+      "27791003",
+      "41537309",
+      "27362234",
+      "41651015",
+      "39095933",
+      "18638482",
+      "35196859",
+      "29925258",
+      "41108533",
+      "35887157",
+      "18065472",
+      "33946214",
+      "36220484",
+      "42533714",
+      "40668112",
+      "30893427",
+      "23781107",
+      "37286611",
+      "40280422",
+      "23879802",
+      "40016203",
+      "36835641",
+      "39076021",
+      "30888844",
+      "30372027",
+      "25863070",
+      "42653807",
+      "41022701",
+      "42485986",
+      "34576210",
+      "25028884",
+      "40281344",
+      "31096158",
+      "41181929",
+      "27861609",
+      "30975755",
+      "40671268",
+      "38194225",
+      "27344006",
+      "27709935",
+      "27298318",
+      "18239030",
+      "33871923",
+      "41932888",
+      "30521141",
+      "30713025",
+      "30289386",
+      "35034722",
+      "39515728",
+      "35412886",
+      "20483344",
+      "41774790",
+      "33723285",
+      "15251227",
+      "27409812",
+      "22031696",
+      "32019899",
+      "22037017",
+      "35140883",
+      "31941999",
+      "24158800",
+      "40513649",
+      "23602809",
+      "23225228",
+      "29507218",
+      "25145284",
+      "29999306",
+      "32061646",
+      "30409826",
+      "28820879",
+      "33199589",
+      "41057732",
+      "33743210",
+      "37864328",
+      "35235425",
+      "27497048",
+      "20933468",
+      "39259792",
+      "27492237"
+    ],
+    "review": [
+      "42737571",
+      "33738925",
+      "33621418",
+      "25950981",
+      "41088789",
+      "41651015",
+      "29925258",
+      "41108533",
+      "35887157",
+      "36220484",
+      "30888844",
+      "42653807",
+      "42485986",
+      "31096158",
+      "40671268",
+      "27344006",
+      "33871923",
+      "35034722",
+      "15251227",
+      "22037017",
+      "24158800",
+      "23602809",
+      "23225228",
+      "41057732",
+      "35235425",
+      "27497048",
+      "20933468",
+      "27492237"
+    ],
+    "pmc": [
+      "13565920"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=ijms27177674",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42737571/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

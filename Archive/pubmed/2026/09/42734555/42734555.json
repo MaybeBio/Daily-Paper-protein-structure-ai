@@ -1,0 +1,360 @@
+{
+  "identity": {
+    "pmid": "42734555",
+    "doi": "10.1021/acs.jcim.6c01644",
+    "title": "SA-MPNN: A Sequence-Aware ThermoMPNN for Accurate Prediction of Mutational Effects on Protein Thermodynamic Stability."
+  },
+  "content": {
+    "abstract": "Predicting the impact of single-point mutations on protein thermodynamic stability is crucial for protein engineering of therapeutic and industrial applications. By effectively capturing the three-dimensional structural information of proteins and the spatial physical environment of each residue, the inverse folding models (IFMs) upon fine-tuning, such as ThermoMPNN, achieved state-of-the-art performance in predicting thermostability changes in proteins caused by mutations. However, IFMs are limited in their capacity to capture protein deep evolutionary information, whereas protein language models (pLMs) excel. Here, we present SA-MPNN, a lightweight, end-to-end hybrid framework that dynamically integrates the protein sequence representations from a protein language model (ESM2) into the ThermoMPNN architecture to improve protein stability prediction by combining evolutionary representations with geometric structural embeddings. By evaluating various feature fusion strategies, we selected a self-attention-based integration mechanism to effectively combine the two modalities. Trained on the large-scale Megascale data set, SA-MPNN achieved modest but consistent gains over ThermoMPNN on various benchmark data sets, with particularly noticeable improvements in several correlation analysis and screening-oriented evaluations. Finally, wet-lab validation was performed on the top-ranking variants of Acetivibrio thermocellusbeta-glucosidase (AtBgl1A) as a case study. The experimental results demonstrated that multiple designed mutants exhibited improved thermostability, and the optimal variant, GC20, achieved a melting temperature (Tm) of 76.98  degrees C, representing a 5.97  degrees C increase over the wild-type, thereby supporting the practical applicability of SA-MPNN in protein engineering.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Thermodynamics",
+      "Protein Stability",
+      "*Proteins/chemistry/genetics",
+      "*Mutation",
+      "Models, Molecular",
+      "Protein Folding"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Xin Yue",
+        "Zheng, Xiang",
+        "Dong, Ze Yuan",
+        "Xiao, Jing",
+        "Zhang, Hao",
+        "Wu, Min Cong",
+        "Liu, Zhao Ming",
+        "Li, Guo Hui",
+        "Li, Jiao",
+        "Wang, Wei Bu",
+        "Liang, Yu",
+        "Li, Qi Ming",
+        "Su, Ji Guo"
+      ],
+      "short_names": [
+        "Zhang XY",
+        "Zheng X",
+        "Dong ZY",
+        "Xiao J",
+        "Zhang H",
+        "Wu MC",
+        "Liu ZM",
+        "Li GH",
+        "Li J",
+        "Wang WB",
+        "Liang Y",
+        "Li QM",
+        "Su JG"
+      ],
+      "auids": [
+        "ORCID: 0009-0006-5826-1352",
+        "ORCID: 0009-0003-8239-2035",
+        "ORCID: 0000-0003-0363-7018"
+      ],
+      "affiliations": [
+        "High Performance Computing Center, National Vaccine and Serum Institute (NVSI), Beijing101111, China.",
+        "National Engineering Center for New Vaccine Research, Beijing101111, China.",
+        "National Engineering Center for New Vaccine Research, Beijing101111, China.",
+        "The Sixth Laboratory, National Vaccine and Serum Institute (NVSI), Beijing101111, China.",
+        "High Performance Computing Center, National Vaccine and Serum Institute (NVSI), Beijing101111, China.",
+        "National Engineering Center for New Vaccine Research, Beijing101111, China.",
+        "High Performance Computing Center, National Vaccine and Serum Institute (NVSI), Beijing101111, China.",
+        "National Engineering Center for New Vaccine Research, Beijing101111, China.",
+        "National Engineering Center for New Vaccine Research, Beijing101111, China.",
+        "The Sixth Laboratory, National Vaccine and Serum Institute (NVSI), Beijing101111, China.",
+        "High Performance Computing Center, National Vaccine and Serum Institute (NVSI), Beijing101111, China.",
+        "National Engineering Center for New Vaccine Research, Beijing101111, China.",
+        "National Engineering Center for New Vaccine Research, Beijing101111, China.",
+        "The Sixth Laboratory, National Vaccine and Serum Institute (NVSI), Beijing101111, China.",
+        "The Sixth Laboratory, National Vaccine and Serum Institute (NVSI), Beijing101111, China.",
+        "State Key Laboratory of Novel Vaccines for Emerging Infectious Diseases, China National Biotec Group Company Limited, Beijing100024, China.",
+        "High Performance Computing Center, National Vaccine and Serum Institute (NVSI), Beijing101111, China.",
+        "National Engineering Center for New Vaccine Research, Beijing101111, China.",
+        "High Performance Computing Center, National Vaccine and Serum Institute (NVSI), Beijing101111, China.",
+        "State Key Laboratory of Novel Vaccines for Emerging Infectious Diseases, China National Biotec Group Company Limited, Beijing100024, China.",
+        "National Engineering Center for New Vaccine Research, Beijing101111, China.",
+        "The Sixth Laboratory, National Vaccine and Serum Institute (NVSI), Beijing101111, China.",
+        "National Engineering Center for New Vaccine Research, Beijing101111, China.",
+        "The Sixth Laboratory, National Vaccine and Serum Institute (NVSI), Beijing101111, China.",
+        "High Performance Computing Center, National Vaccine and Serum Institute (NVSI), Beijing101111, China.",
+        "National Engineering Center for New Vaccine Research, Beijing101111, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Xin Yue",
+        "short_name": "Zhang XY",
+        "identifiers": [
+          "0009-0006-5826-1352"
+        ],
+        "affiliations": [
+          "High Performance Computing Center, National Vaccine and Serum Institute (NVSI), Beijing101111, China.",
+          "National Engineering Center for New Vaccine Research, Beijing101111, China."
+        ]
+      },
+      {
+        "full_name": "Zheng, Xiang",
+        "short_name": "Zheng X",
+        "identifiers": [],
+        "affiliations": [
+          "National Engineering Center for New Vaccine Research, Beijing101111, China.",
+          "The Sixth Laboratory, National Vaccine and Serum Institute (NVSI), Beijing101111, China."
+        ]
+      },
+      {
+        "full_name": "Dong, Ze Yuan",
+        "short_name": "Dong ZY",
+        "identifiers": [],
+        "affiliations": [
+          "High Performance Computing Center, National Vaccine and Serum Institute (NVSI), Beijing101111, China.",
+          "National Engineering Center for New Vaccine Research, Beijing101111, China."
+        ]
+      },
+      {
+        "full_name": "Xiao, Jing",
+        "short_name": "Xiao J",
+        "identifiers": [
+          "0009-0003-8239-2035"
+        ],
+        "affiliations": [
+          "High Performance Computing Center, National Vaccine and Serum Institute (NVSI), Beijing101111, China.",
+          "National Engineering Center for New Vaccine Research, Beijing101111, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Hao",
+        "short_name": "Zhang H",
+        "identifiers": [],
+        "affiliations": [
+          "National Engineering Center for New Vaccine Research, Beijing101111, China.",
+          "The Sixth Laboratory, National Vaccine and Serum Institute (NVSI), Beijing101111, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Min Cong",
+        "short_name": "Wu MC",
+        "identifiers": [],
+        "affiliations": [
+          "High Performance Computing Center, National Vaccine and Serum Institute (NVSI), Beijing101111, China.",
+          "National Engineering Center for New Vaccine Research, Beijing101111, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Zhao Ming",
+        "short_name": "Liu ZM",
+        "identifiers": [],
+        "affiliations": [
+          "National Engineering Center for New Vaccine Research, Beijing101111, China.",
+          "The Sixth Laboratory, National Vaccine and Serum Institute (NVSI), Beijing101111, China."
+        ]
+      },
+      {
+        "full_name": "Li, Guo Hui",
+        "short_name": "Li GH",
+        "identifiers": [],
+        "affiliations": [
+          "The Sixth Laboratory, National Vaccine and Serum Institute (NVSI), Beijing101111, China.",
+          "State Key Laboratory of Novel Vaccines for Emerging Infectious Diseases, China National Biotec Group Company Limited, Beijing100024, China."
+        ]
+      },
+      {
+        "full_name": "Li, Jiao",
+        "short_name": "Li J",
+        "identifiers": [
+          "0000-0003-0363-7018"
+        ],
+        "affiliations": [
+          "High Performance Computing Center, National Vaccine and Serum Institute (NVSI), Beijing101111, China.",
+          "National Engineering Center for New Vaccine Research, Beijing101111, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Wei Bu",
+        "short_name": "Wang WB",
+        "identifiers": [],
+        "affiliations": [
+          "High Performance Computing Center, National Vaccine and Serum Institute (NVSI), Beijing101111, China.",
+          "State Key Laboratory of Novel Vaccines for Emerging Infectious Diseases, China National Biotec Group Company Limited, Beijing100024, China."
+        ]
+      },
+      {
+        "full_name": "Liang, Yu",
+        "short_name": "Liang Y",
+        "identifiers": [],
+        "affiliations": [
+          "National Engineering Center for New Vaccine Research, Beijing101111, China.",
+          "The Sixth Laboratory, National Vaccine and Serum Institute (NVSI), Beijing101111, China."
+        ]
+      },
+      {
+        "full_name": "Li, Qi Ming",
+        "short_name": "Li QM",
+        "identifiers": [],
+        "affiliations": [
+          "National Engineering Center for New Vaccine Research, Beijing101111, China.",
+          "The Sixth Laboratory, National Vaccine and Serum Institute (NVSI), Beijing101111, China."
+        ]
+      },
+      {
+        "full_name": "Su, Ji Guo",
+        "short_name": "Su JG",
+        "identifiers": [],
+        "affiliations": [
+          "High Performance Computing Center, National Vaccine and Serum Institute (NVSI), Beijing101111, China.",
+          "National Engineering Center for New Vaccine Research, Beijing101111, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of chemical information and modeling"
+    ],
+    "journal_abbrev": [
+      "J Chem Inf Model"
+    ],
+    "pub_date": "2026 Sep 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/14 11:40",
+    "fetched_at": "2026-09-20 07:27:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42734555",
+      "41021316",
+      "40414395",
+      "41634166",
+      "41422228",
+      "39786559",
+      "40806259",
+      "38285937",
+      "40027759",
+      "42427317",
+      "40235597",
+      "39988825",
+      "26361227",
+      "40252373",
+      "26988870",
+      "42475469",
+      "39198740",
+      "40375059",
+      "42423292",
+      "41257586",
+      "38166383",
+      "40641045",
+      "31657922",
+      "40343467",
+      "40314227",
+      "42412784",
+      "40609014",
+      "29141528",
+      "39043654",
+      "41576089",
+      "42554450",
+      "18586713",
+      "28710274",
+      "40622483",
+      "39166462",
+      "42567082",
+      "39704075",
+      "41648466",
+      "31266447",
+      "39092854",
+      "40067411",
+      "39038042",
+      "38003686",
+      "27356511",
+      "39026838",
+      "20483340",
+      "27115628",
+      "27964946",
+      "16935299",
+      "40662779",
+      "19535532",
+      "24564514",
+      "41292907",
+      "21569468",
+      "33435356",
+      "34826524",
+      "41686649",
+      "40601249",
+      "31371509",
+      "42190366",
+      "41261139",
+      "16155198",
+      "20340133",
+      "42119874",
+      "38350894",
+      "38956442",
+      "42450193",
+      "33253214",
+      "39602544",
+      "42439276",
+      "38677012",
+      "40273428",
+      "42335477",
+      "32533939",
+      "37874953",
+      "42104958",
+      "39115336",
+      "40439671",
+      "41232885",
+      "40858210",
+      "39121938",
+      "23077576",
+      "26198299",
+      "24646884",
+      "37547004",
+      "29036273",
+      "42475522",
+      "37468638",
+      "38979193",
+      "40247745",
+      "42248581",
+      "23912807",
+      "36173174",
+      "39125949",
+      "42503799",
+      "41565673",
+      "41795206",
+      "25774740",
+      "42439171",
+      "42085918"
+    ],
+    "review": [
+      "42734555",
+      "42439171"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/CPTAC-972",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/jcisd8/article-lookup/doi/10.1021/acs.jcim.6c01644",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

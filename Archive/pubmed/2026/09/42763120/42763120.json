@@ -1,0 +1,110 @@
+{
+  "identity": {
+    "pmid": "42763120",
+    "doi": "10.1016/bs.apcsb.2026.08.013",
+    "title": "Computational methods for alternative proteins."
+  },
+  "content": {
+    "abstract": "The growing demand for sustainable food systems has accelerated research into alternative proteins derived from plant sources, microorganisms, insects, and cultured animal cells. These protein systems offer promising solutions to environmental, ethical, and nutritional challenges associated with conventional livestock production. However, designing and optimizing alternative proteins requires deep understanding of molecular structures, biochemical properties, and production processes. Computational biology has emerged as a powerful approach to address these challenges by enabling predictive modeling, data-driven protein engineering, and large-scale bioinformatic analyses. This chapter provides a comprehensive overview of computational methods applied in alternative protein research and development. Key approaches discussed include sequence-based bioinformatics, structural modeling, molecular simulations, protein design algorithms, machine learning techniques, metabolic modeling, and process simulation. The chapter further explores how these computational frameworks support discovery of novel protein sources, optimization of functional properties, and scaling of industrial production processes. Challenges and future research directions are also discussed, particularly the integration of artificial intelligence, multi-omics data, and digital twin technologies for food manufacturing. Computational technologies are expected to play a pivotal role in shaping next-generation protein foods by accelerating innovation, reducing development costs, and enabling sustainable protein production systems.",
+    "keywords": [
+      "Alternative proteins",
+      "Bioinformatics",
+      "Computational biology",
+      "Food biotechnology",
+      "Machine learning",
+      "Metabolic modelling",
+      "Protein engineering",
+      "Protein structure prediction"
+    ],
+    "mesh_terms": [
+      "*Computational Biology/methods",
+      "Animals",
+      "*Protein Engineering",
+      "*Proteins/chemistry/genetics",
+      "Machine Learning",
+      "Soft Computing"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Vyshnav, S",
+        "Sundararajan, Vino",
+        "Sudhakaran, Sajitha Lulu"
+      ],
+      "short_names": [
+        "Vyshnav S",
+        "Sundararajan V",
+        "Sudhakaran SL"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Bio Sciences and Technology, Vellore Institute of Technology (VIT), Vellore, Tamil Nadu, India.",
+        "School of Bio Sciences and Technology, Vellore Institute of Technology (VIT), Vellore, Tamil Nadu, India.",
+        "School of Bio Sciences and Technology, Vellore Institute of Technology (VIT), Vellore, Tamil Nadu, India. Electronic address: ssajithalulu@vit.ac.in."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Vyshnav, S",
+        "short_name": "Vyshnav S",
+        "identifiers": [],
+        "affiliations": [
+          "School of Bio Sciences and Technology, Vellore Institute of Technology (VIT), Vellore, Tamil Nadu, India."
+        ]
+      },
+      {
+        "full_name": "Sundararajan, Vino",
+        "short_name": "Sundararajan V",
+        "identifiers": [],
+        "affiliations": [
+          "School of Bio Sciences and Technology, Vellore Institute of Technology (VIT), Vellore, Tamil Nadu, India."
+        ]
+      },
+      {
+        "full_name": "Sudhakaran, Sajitha Lulu",
+        "short_name": "Sudhakaran SL",
+        "identifiers": [],
+        "affiliations": [
+          "School of Bio Sciences and Technology, Vellore Institute of Technology (VIT), Vellore, Tamil Nadu, India. Electronic address: ssajithalulu@vit.ac.in."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Advances in protein chemistry and structural biology"
+    ],
+    "journal_abbrev": [
+      "Adv Protein Chem Struct Biol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/19 23:52",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42763120"
+    ],
+    "review": [
+      "42763120"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

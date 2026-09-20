@@ -1,0 +1,236 @@
+{
+  "identity": {
+    "pmid": "42734548",
+    "doi": "10.1021/acs.jcim.6c00858",
+    "title": "UniPoseScore: A Unified Graphormer3D-Based Framework for Protein-Ligand Binding Pose Scoring and Refinement."
+  },
+  "content": {
+    "abstract": "Accurate prediction of protein-ligand binding poses is essential for structure-based drug discovery. In recent years, computational approaches, particularly molecular docking, have generated large numbers of candidate ligand poses. However, existing scoring functions remain limited in their ability to distinguish near-native poses from incorrect docking decoys. In this work, we propose UniPoseScore, a Graphormer3D-based framework for ligand pose scoring and refinement. The model simultaneously predicts pose RMSD and atomic displacement vectors to guide ligand pose refinement. Across four benchmark data sets, UniPoseScore showed consistently strong performance and better generalization, with a particularly clear advantage in RMSD correlation. Visualization of the learned embeddings further suggests that the model captures structural features correlated with pose accuracy. On the CASF-2016 benchmark, UniPoseScore achieves a refinement success rate of 74.3%, highlighting the effectiveness of UniPoseScore in improving ligand binding poses and its potential applications in drug discovery. The UniPoseScore is available at https://github.com/April-Zhangjq/UniPoseScore.",
+    "keywords": [],
+    "mesh_terms": [
+      "Ligands",
+      "*Proteins/chemistry/metabolism",
+      "Protein Binding",
+      "*Molecular Docking Simulation",
+      "Protein Conformation",
+      "Drug Discovery/methods",
+      "Binding Sites"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Jinqiao",
+        "Ren, Xinyu",
+        "Peng, Zhenling",
+        "Wei, Hong"
+      ],
+      "short_names": [
+        "Zhang J",
+        "Ren X",
+        "Peng Z",
+        "Wei H"
+      ],
+      "auids": [
+        "ORCID: 0009-0009-1498-9116",
+        "ORCID: 0000-0002-2361-8589"
+      ],
+      "affiliations": [
+        "MOE Frontiers Science Center for Nonlinear Expectations, Research Center for Mathematics and Interdisciplinary Sciences, Shandong University, Qingdao266237, China.",
+        "MOE Frontiers Science Center for Nonlinear Expectations, Research Center for Mathematics and Interdisciplinary Sciences, Shandong University, Qingdao266237, China.",
+        "MOE Frontiers Science Center for Nonlinear Expectations, Research Center for Mathematics and Interdisciplinary Sciences, Shandong University, Qingdao266237, China.",
+        "Department of Bioinformatics, School of Basic Medical Sciences, Tianjin Medical University, Tianjin300070, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Jinqiao",
+        "short_name": "Zhang J",
+        "identifiers": [
+          "0009-0009-1498-9116"
+        ],
+        "affiliations": [
+          "MOE Frontiers Science Center for Nonlinear Expectations, Research Center for Mathematics and Interdisciplinary Sciences, Shandong University, Qingdao266237, China."
+        ]
+      },
+      {
+        "full_name": "Ren, Xinyu",
+        "short_name": "Ren X",
+        "identifiers": [],
+        "affiliations": [
+          "MOE Frontiers Science Center for Nonlinear Expectations, Research Center for Mathematics and Interdisciplinary Sciences, Shandong University, Qingdao266237, China."
+        ]
+      },
+      {
+        "full_name": "Peng, Zhenling",
+        "short_name": "Peng Z",
+        "identifiers": [],
+        "affiliations": [
+          "MOE Frontiers Science Center for Nonlinear Expectations, Research Center for Mathematics and Interdisciplinary Sciences, Shandong University, Qingdao266237, China."
+        ]
+      },
+      {
+        "full_name": "Wei, Hong",
+        "short_name": "Wei H",
+        "identifiers": [
+          "0000-0002-2361-8589"
+        ],
+        "affiliations": [
+          "Department of Bioinformatics, School of Basic Medical Sciences, Tianjin Medical University, Tianjin300070, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of chemical information and modeling"
+    ],
+    "journal_abbrev": [
+      "J Chem Inf Model"
+    ],
+    "pub_date": "2026 Sep 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/14 11:40",
+    "fetched_at": "2026-09-20 07:27:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42734548",
+      "41921096",
+      "25916860",
+      "36502369",
+      "29495922",
+      "37606194",
+      "37159314",
+      "35901959",
+      "22225808",
+      "22017385",
+      "38706316",
+      "42209152",
+      "42670838",
+      "38577892",
+      "29190087",
+      "25266271",
+      "41534323",
+      "28623486",
+      "25521713",
+      "39558632",
+      "29040432",
+      "33979150",
+      "39999605",
+      "41429653",
+      "28074360",
+      "25724101",
+      "31721338",
+      "27050767",
+      "38062207",
+      "21091053",
+      "24171431",
+      "33100014",
+      "22231069",
+      "38695120",
+      "22014038",
+      "30877639",
+      "23237273",
+      "40268232",
+      "20850544",
+      "38102069",
+      "35699430",
+      "34553938",
+      "42048634",
+      "30182836",
+      "38501198",
+      "39962390",
+      "41578956",
+      "39823352",
+      "39928910",
+      "27108770",
+      "41231530",
+      "34656169",
+      "28182403",
+      "24708446",
+      "40662794",
+      "26879323",
+      "28185549",
+      "27379501",
+      "37175495",
+      "30360721",
+      "26569136",
+      "40750568",
+      "41636346",
+      "26252196",
+      "33641636",
+      "33258376",
+      "27484214",
+      "38806453",
+      "36327102",
+      "31045363",
+      "37972310",
+      "23621564",
+      "32707824",
+      "31691920",
+      "41990196",
+      "39414633",
+      "39814581",
+      "41046490",
+      "41075094",
+      "27480696",
+      "31257108",
+      "32737667",
+      "39862170",
+      "29125297",
+      "38165642",
+      "24916536",
+      "42120797",
+      "23548044",
+      "41596516",
+      "42463131",
+      "22411892",
+      "32383873",
+      "31781990",
+      "30173397",
+      "35289359",
+      "32267149",
+      "22569591",
+      "41526649",
+      "39337622",
+      "38076510"
+    ],
+    "review": [
+      "42734548",
+      "38577892",
+      "39999605",
+      "30877639",
+      "35699430"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1595",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/jcisd8/article-lookup/doi/10.1021/acs.jcim.6c00858",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

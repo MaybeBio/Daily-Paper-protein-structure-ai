@@ -1,0 +1,250 @@
+{
+  "identity": {
+    "pmid": "42738854",
+    "doi": "10.3390/cells15171560",
+    "title": "Dynamic Protein Structure Paradox: An Integrative Framework for Endpoint-Conditioned Evidentiary Sufficiency in Structure-to-Function Claims."
+  },
+  "content": {
+    "abstract": "Accurate coordinates for a represented protein state do not, by themselves, establish activity or any other condition-specific function. This article defines the Dynamic Protein Structure Paradox (DPSP) as the apparent conflict between structural accuracy and functional underdetermination and develops it as an integrative evidentiary assessment framework rather than a new theory or paradigm. The underlying problem has been longstanding, since structural genomics, function annotation, allostery, and disorder research each established that fold does not determine function and that function does not determine fold. DPSP consolidates those results into one endpoint-conditioned rule. Once a measurable endpoint is defined, it assesses four coupled dimensions: relevant-state completeness, context completeness, ensemble or kinetic dependence, and chemical dependence. A rubric rates each dimension as adequate, uncertain, or missing, and a materiality test determines which gaps influence the stated decision. The outcome is one of three mutually exclusive modes of utilization: geometry-led, conditional, or function-measured. The deliverable is a concise evidence statement delineating what the structure supports, which decisive variable remains unmeasured, and what corroboration is necessary. DPSP complements, rather than replaces, existing structural, ensemble, and computational approaches. The framework remains unvalidated, its thresholds are provisional, and the studies necessary to confirm or refute it are specified.",
+    "keywords": [
+      "AlphaFold",
+      "conformational ensemble",
+      "evidence assessment",
+      "functional inference",
+      "intrinsic disorder",
+      "model credibility",
+      "protein structure prediction",
+      "scoring rubric",
+      "structural genomics",
+      "structure-function relationship"
+    ],
+    "mesh_terms": [
+      "*Proteins/chemistry/metabolism",
+      "Protein Conformation",
+      "Structure-Activity Relationship",
+      "Protein Folding",
+      "Models, Molecular",
+      "Humans"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Niazi, Sarfaraz K"
+      ],
+      "short_names": [
+        "Niazi SK"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-0513-0336"
+      ],
+      "affiliations": [
+        "College of Pharmacy and Pharmaceutical Sciences, Washington State University, Spokane, WA 99202, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Niazi, Sarfaraz K",
+        "short_name": "Niazi SK",
+        "identifiers": [
+          "0000-0002-0513-0336"
+        ],
+        "affiliations": [
+          "College of Pharmacy and Pharmaceutical Sciences, Washington State University, Spokane, WA 99202, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cells"
+    ],
+    "journal_abbrev": [
+      "Cells"
+    ],
+    "pub_date": "2026 Aug 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/15 05:36",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42738854",
+      "42475469",
+      "23912807",
+      "42119874",
+      "18831774",
+      "41310253",
+      "40615361",
+      "17639604",
+      "19604472",
+      "40663654",
+      "15860561",
+      "20459833",
+      "36321557",
+      "10704319",
+      "34265844",
+      "40499749",
+      "40233800",
+      "26845039",
+      "18831785",
+      "39577782",
+      "25625937",
+      "41839238",
+      "40973394",
+      "19903882",
+      "39214891",
+      "14649297",
+      "11178916",
+      "9719646",
+      "38603560",
+      "26412788",
+      "28361672",
+      "16890423",
+      "11104000",
+      "42140027",
+      "10550209",
+      "15943980",
+      "25343279",
+      "40680328",
+      "33878950",
+      "22624656",
+      "39684679",
+      "28406174",
+      "19805185",
+      "15130810",
+      "18037900",
+      "34226918",
+      "15029827",
+      "38177398",
+      "40074747",
+      "27861609",
+      "11478868",
+      "18554899",
+      "41432299",
+      "42734541",
+      "19447112",
+      "34418423",
+      "23240611",
+      "21514142",
+      "18599513",
+      "19597536",
+      "33550810",
+      "41014267",
+      "21732676",
+      "40815964",
+      "19572703",
+      "37418278",
+      "15609350",
+      "40789363",
+      "11588250",
+      "17876813",
+      "15217817",
+      "28032989",
+      "16796556",
+      "19462392",
+      "11685241",
+      "18662925",
+      "35101819",
+      "16678402",
+      "19457232",
+      "34375385",
+      "41325379",
+      "11316884",
+      "41219581",
+      "20826336",
+      "20192781",
+      "15963890",
+      "22998498",
+      "39983409",
+      "16407126",
+      "40937679",
+      "22399315",
+      "35593869",
+      "33001599",
+      "39947745",
+      "27471851",
+      "10550212",
+      "42693585",
+      "40971691",
+      "29360779",
+      "15842167"
+    ],
+    "review": [
+      "42738854",
+      "40615361",
+      "17639604",
+      "40663654",
+      "36321557",
+      "40499749",
+      "40233800",
+      "26845039",
+      "39577782",
+      "25625937",
+      "41839238",
+      "40973394",
+      "39214891",
+      "14649297",
+      "38603560",
+      "26412788",
+      "16890423",
+      "42140027",
+      "10550209",
+      "15943980",
+      "40680328",
+      "18037900",
+      "15029827",
+      "38177398",
+      "18554899",
+      "34418423",
+      "23240611",
+      "21514142",
+      "18599513",
+      "19597536",
+      "33550810",
+      "40789363",
+      "16796556",
+      "19462392",
+      "35101819",
+      "16678402",
+      "20192781",
+      "15963890",
+      "39983409",
+      "22399315",
+      "39947745"
+    ],
+    "pmc": [
+      "13565516"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=cells15171560",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42738854/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "identity": {
+    "pmid": "42734391",
+    "doi": "10.1021/acs.inorgchem.6c02906",
+    "title": "A Dual-Mode Crystal Structure Prediction Framework for Fixed Element Sets and Fixed Structural Prototypes."
+  },
+  "content": {
+    "abstract": "Crystal structure prediction (CSP) is a cornerstone technology for the efficient discovery and rational design of functional materials. Here, we propose a deep-learning-enabled dual-mode CSP framework that simultaneously supports two complementary tasks: predicting stable crystal structures for given elemental compositions and identifying chemically viable elemental substitutions for a predefined crystal topology. The framework employs an improved normalized structural fingerprint descriptor that integrates local coordination topology without global spatial-scale information. A cascaded site-probability model, composed of an autoencoder and sigmoid-based classifiers, is developed to predict the occupancy probabilities of 84 chemical elements at crystallographically distinct sites and to efficiently rank candidate structures accordingly. Remarkably, even when trained solely on topological information, the model autonomously captures elemental chemical similarity and intrinsic periodic trends, yielding chemically meaningful multielement probability distributions. Application of the proposed framework to high-throughput screening of superhard materials in the B-N system successfully identifies a thermodynamically, mechanically, and dynamically stable hexagonal BN phase, together with a metastable monoclinic B2N3 structure. Furthermore, elemental substitution screening on the zinc-blende prototype reveals two metastable compounds, In4Sb4 and Ga4Sb4. The proposed framework provides a low-cost, high-efficiency, data-driven strategy for the rapid discovery of inorganic materials.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Qin, Chenglong",
+        "Luo, Xiangyan",
+        "Fan, Zhixiang",
+        "Fan, Qunchao"
+      ],
+      "short_names": [
+        "Qin C",
+        "Luo X",
+        "Fan Z",
+        "Fan Q"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-1653-3170"
+      ],
+      "affiliations": [
+        "College of Science, Key Laboratory of High Performance Scientific Computation, Xihua University, Chengdu610039, China.",
+        "College of Big Data and Information Engineering, Institute of New Optoelectronic Materials and Technology, Guizhou University, Guiyang550025, China.",
+        "College of Science, Key Laboratory of High Performance Scientific Computation, Xihua University, Chengdu610039, China.",
+        "College of Science, Key Laboratory of High Performance Scientific Computation, Xihua University, Chengdu610039, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Qin, Chenglong",
+        "short_name": "Qin C",
+        "identifiers": [
+          "0000-0003-1653-3170"
+        ],
+        "affiliations": [
+          "College of Science, Key Laboratory of High Performance Scientific Computation, Xihua University, Chengdu610039, China."
+        ]
+      },
+      {
+        "full_name": "Luo, Xiangyan",
+        "short_name": "Luo X",
+        "identifiers": [],
+        "affiliations": [
+          "College of Big Data and Information Engineering, Institute of New Optoelectronic Materials and Technology, Guizhou University, Guiyang550025, China."
+        ]
+      },
+      {
+        "full_name": "Fan, Zhixiang",
+        "short_name": "Fan Z",
+        "identifiers": [],
+        "affiliations": [
+          "College of Science, Key Laboratory of High Performance Scientific Computation, Xihua University, Chengdu610039, China."
+        ]
+      },
+      {
+        "full_name": "Fan, Qunchao",
+        "short_name": "Fan Q",
+        "identifiers": [],
+        "affiliations": [
+          "College of Science, Key Laboratory of High Performance Scientific Computation, Xihua University, Chengdu610039, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Inorganic chemistry"
+    ],
+    "journal_abbrev": [
+      "Inorg Chem"
+    ],
+    "pub_date": "2026 Sep 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/14 11:40",
+    "fetched_at": "2026-09-20 07:27:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42734391",
+      "42475469",
+      "41854229",
+      "29874459",
+      "36929243",
+      "34904892",
+      "33209317",
+      "35732014",
+      "36018289",
+      "38976617",
+      "40243388",
+      "40587214",
+      "42362396",
+      "28593963",
+      "34351707",
+      "41427731",
+      "30027179",
+      "35420427",
+      "32118175",
+      "40395162",
+      "28248192",
+      "41211596",
+      "42717464",
+      "41551712",
+      "41310253",
+      "39563173",
+      "35314689",
+      "39454048",
+      "21361336",
+      "42133173",
+      "41908304",
+      "40690617",
+      "40881411",
+      "41855083",
+      "39404225",
+      "42627888",
+      "32962389",
+      "41498530",
+      "23534621",
+      "33104335",
+      "39274899",
+      "34548485",
+      "42243054",
+      "40029992",
+      "40971691",
+      "32538514",
+      "35593869",
+      "39839990",
+      "41532242",
+      "37947477",
+      "26269925",
+      "37551059",
+      "41977286",
+      "42239143",
+      "42380020",
+      "41507256",
+      "36351806",
+      "27790643",
+      "42649448",
+      "41530242",
+      "42035667",
+      "42163392",
+      "37683188",
+      "42050415",
+      "42363905",
+      "42491802",
+      "38059458",
+      "41384814",
+      "33985329",
+      "38379785",
+      "41822751",
+      "34241052",
+      "41750280",
+      "23581349",
+      "36680516",
+      "40016415",
+      "39881398",
+      "41940997",
+      "37856841",
+      "42642416",
+      "42055022",
+      "42003104",
+      "42024863",
+      "40924402",
+      "35510195",
+      "33330377",
+      "41642902",
+      "42185919",
+      "41874353",
+      "34388740",
+      "32875082",
+      "33664341",
+      "41051642",
+      "34124476",
+      "27083713",
+      "36071406",
+      "39789059",
+      "36652496",
+      "32775570",
+      "36252020"
+    ],
+    "review": [
+      "42734391",
+      "40029992"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/inocaj/article-lookup/doi/10.1021/acs.inorgchem.6c02906",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

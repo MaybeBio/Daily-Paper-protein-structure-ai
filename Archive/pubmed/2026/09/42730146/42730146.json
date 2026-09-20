@@ -1,0 +1,235 @@
+{
+  "identity": {
+    "pmid": "42730146",
+    "doi": "10.1093/bioadv/vbag215",
+    "title": "Evaluating transformer-based models for structural characterization of orphan proteins."
+  },
+  "content": {
+    "abstract": "MOTIVATION: Transformer-based models (TBMs) are state-of-the-art deep learning architectures that predict protein structural features with high accuracy. Despite methodological differences, they all rely on large datasets structured in families of homologous sequences. However, 5%-30% of eukaryotic proteomes consist of orphan proteins, which are sequences without detectable similarity to known families. Although they may share structural traits with characterized proteins, their lack of homology makes them an ideal dataset for evaluating TBM generalization beyond familiar sequence space. RESULTS: We compared predictions from several widely used TBM architectures on an expert-curated set of orphan proteins from the Meloidogyne genus, comprising some of the most destructive plant-parasitic nematodes. Multiple sequence alignment-based approaches such as AlphaFold2 performed poorly on orphan proteins, as did single-sequence or embedding-based language models ESMFold, OmegaFold, and ProtT5. This limited performance cannot be fully attributed to intrinsic disorder, as confirmed by independent non-TBM disorder predictors. While accurate tertiary structure prediction remains out of reach, secondary structure is more reliably captured: predictors share about 70% of secondary structure elements, regardless of global fold similarity, and these elements are consistently identified by dedicated secondary structure tools. AVAILABILITY: All data and analysis scripts are available at https://doi.org/10.5281/zenodo.18788931.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Seckin, Ercan",
+        "Colinet, Dominique",
+        "Danchin, Etienne G J",
+        "Sarti, Edoardo"
+      ],
+      "short_names": [
+        "Seckin E",
+        "Colinet D",
+        "Danchin EGJ",
+        "Sarti E"
+      ],
+      "auids": [
+        "ORCID: 0009-0003-6821-6967",
+        "ORCID: 0000-0001-5122-5072",
+        "ORCID: 0000-0003-4146-5608",
+        "ORCID: 0000-0003-2417-1448"
+      ],
+      "affiliations": [
+        "Institut Sophia Agrobiotech, INRAE, Universite Cote d'Azur, CNRS, Sophia-Antipolis 06903, France.",
+        "Inria Center of Universite Cote d'Azur, Sophia Antipolis 06902, France.",
+        "Institut Sophia Agrobiotech, INRAE, Universite Cote d'Azur, CNRS, Sophia-Antipolis 06903, France.",
+        "Institut Sophia Agrobiotech, INRAE, Universite Cote d'Azur, CNRS, Sophia-Antipolis 06903, France.",
+        "Inria Center of Universite Cote d'Azur, Sophia Antipolis 06902, France."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Seçkin, Ercan",
+        "short_name": "Seçkin E",
+        "identifiers": [
+          "0009-0003-6821-6967"
+        ],
+        "affiliations": [
+          "Institut Sophia Agrobiotech, INRAE, Université Côte d'Azur, CNRS, Sophia-Antipolis 06903, France.",
+          "Inria Center of Université Côte d'Azur, Sophia Antipolis 06902, France."
+        ]
+      },
+      {
+        "full_name": "Colinet, Dominique",
+        "short_name": "Colinet D",
+        "identifiers": [
+          "0000-0001-5122-5072"
+        ],
+        "affiliations": [
+          "Institut Sophia Agrobiotech, INRAE, Université Côte d'Azur, CNRS, Sophia-Antipolis 06903, France."
+        ]
+      },
+      {
+        "full_name": "Danchin, Etienne G J",
+        "short_name": "Danchin EGJ",
+        "identifiers": [
+          "0000-0003-4146-5608"
+        ],
+        "affiliations": [
+          "Institut Sophia Agrobiotech, INRAE, Université Côte d'Azur, CNRS, Sophia-Antipolis 06903, France."
+        ]
+      },
+      {
+        "full_name": "Sarti, Edoardo",
+        "short_name": "Sarti E",
+        "identifiers": [
+          "0000-0003-2417-1448"
+        ],
+        "affiliations": [
+          "Inria Center of Université Côte d'Azur, Sophia Antipolis 06902, France."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Bioinformatics advances"
+    ],
+    "journal_abbrev": [
+      "Bioinform Adv"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/13 00:50",
+    "fetched_at": "2026-09-20 07:27:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42730146",
+      "42475469",
+      "37321965",
+      "37113259",
+      "18452616",
+      "36130276",
+      "40981507",
+      "37092778",
+      "41352986",
+      "39576574",
+      "35652719",
+      "34162922",
+      "29554211",
+      "37964216",
+      "41055214",
+      "20122246",
+      "32893403",
+      "39558588",
+      "18003135",
+      "40509866",
+      "41632625",
+      "40662823",
+      "33001599",
+      "23912807",
+      "34021744",
+      "40742755",
+      "11159310",
+      "42370329",
+      "40971691",
+      "22574904",
+      "35662466",
+      "19422056",
+      "36304335",
+      "31197318",
+      "42071121",
+      "23193223",
+      "18475320",
+      "31504193",
+      "42015301",
+      "41047732",
+      "20003388",
+      "42458575",
+      "36637199",
+      "18831774",
+      "41279404",
+      "38213902",
+      "35534620",
+      "17825110",
+      "31918654",
+      "32149653",
+      "30785653",
+      "38015872",
+      "40640710",
+      "19325884",
+      "39183802",
+      "42581579",
+      "35134816",
+      "36192636",
+      "36682013",
+      "16571137",
+      "21284890",
+      "34849579",
+      "33576802",
+      "31070716",
+      "33372607",
+      "33983382",
+      "36857952",
+      "38507682",
+      "33755048",
+      "39775454",
+      "17942446",
+      "31415569",
+      "35129957",
+      "39478454",
+      "26445311",
+      "39230690",
+      "41608648",
+      "16752418",
+      "38662579",
+      "34350630",
+      "31847804",
+      "10089198",
+      "41606170",
+      "39657158",
+      "29718112",
+      "39179250",
+      "35609601",
+      "35104320",
+      "18586748",
+      "35150231",
+      "38177395",
+      "42605071",
+      "37874958",
+      "35593869",
+      "34291486",
+      "31622328",
+      "41021316",
+      "21237245",
+      "38599417",
+      "41808445"
+    ],
+    "review": [
+      "42730146",
+      "42071121"
+    ],
+    "pmc": [
+      "13563664"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42730146/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/bioinformaticsadvances/article-lookup/doi/10.1093/bioadv/vbag215",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

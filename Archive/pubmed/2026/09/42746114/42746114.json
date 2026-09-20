@@ -1,0 +1,249 @@
+{
+  "identity": {
+    "pmid": "42746114",
+    "doi": "10.1007/s40203-026-00734-0",
+    "title": "In silico analysis of MALAT1 and H19 lncRNA interactions with the diabetes-related proteins ASK1 and YAP1."
+  },
+  "content": {
+    "abstract": "Dysregulation of RNA-protein signalling networks contributes to the progression of diabetes-associated complications, yet the structural mechanisms underlying lncRNA interactions with key signalling proteins remain largely unknown. This study investigates potential interaction interfaces between MALAT1-ASK1 and H19-YAP1 using a hypothesis-generating in silico approach. A computational pipeline integrating structure prediction, molecular docking, and molecular dynamics simulations was employed. Structural assessment showed high local confidence for both proteins and lncRNAs (PAE < 1 A) but low global lncRNA folding reliability (pTM < 0.5), consistent with intrinsic structural flexibility. ASK1 and YAP1 exhibited multiple surface cavities and disordered regions involved in signalling regulation. Docking and simulations suggested MALAT1 binding to exposed ASK1 surfaces, while H19 was predicted to associate with YAP1 regions encompassing the TEAD-binding domain and conserved regulatory phosphorylation sites, including residues corresponding to Ser109, Ser127, and Thr119. Molecular dynamics indicated transient stabilisation with persistent conformational heterogeneity. These results identify structurally plausible RNA-protein interaction interfaces that overlap with known regulatory hotspots in YAP1. Overall, this work provides a framework for experimental validation of lncRNA-mediated regulation in diabetes-related signalling pathways.",
+    "keywords": [
+      "Allosteric regulation",
+      "Antagonists and inhibitors",
+      "Binding sites",
+      "Diabetes mellitus",
+      "Protein interaction domain",
+      "Protein interaction mapping"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Cabrera-Najera, Leonardo Elias",
+        "Rodriguez-Pena, Olga Nelly",
+        "Flores-Ortiz, Cesar Mateo",
+        "Palomar-Morales, Martin"
+      ],
+      "short_names": [
+        "Cabrera-Najera LE",
+        "Rodriguez-Pena ON",
+        "Flores-Ortiz CM",
+        "Palomar-Morales M"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-9468-6741",
+        "ORCID: 0000-0002-3273-5189",
+        "ORCID: 0000-0002-5837-799X",
+        "ORCID: 0000-0003-1382-276X"
+      ],
+      "affiliations": [
+        "Laboratorio de Metabolismo de La Diabetes Mellitus, Unidad de Morfologia y Funcion, Facultad de Estudios Superiores Iztacala, Universidad Nacional Autonoma de Mexico, Tlalnepantla, Estado de Mexico Mexico. ROR: https://ror.org/01tmp8f25. GRID: grid.9486.3. ISNI: 0000 0001 2159 0001",
+        "Laboratorio de Biogeoquimica, Unidad de Biologia, Tecnologia y Prototipos (UBIPRO), Facultad de Estudios Superiores Iztacala, Universidad Nacional Autonoma de Mexico, Tlalnepantla, Estado de Mexico Mexico. ROR: https://ror.org/01tmp8f25. GRID: grid.9486.3. ISNI: 0000 0001 2159 0001",
+        "Laboratorio Nacional en Salud, Facultad de Estudios Superiores Iztacala, Universidad Nacional Autonoma de Mexico, Tlalnepantla, Estado de Mexico Mexico. ROR: https://ror.org/01tmp8f25. GRID: grid.9486.3. ISNI: 0000 0001 2159 0001",
+        "Laboratorio Nacional en Salud, Facultad de Estudios Superiores Iztacala, Universidad Nacional Autonoma de Mexico, Tlalnepantla, Estado de Mexico Mexico. ROR: https://ror.org/01tmp8f25. GRID: grid.9486.3. ISNI: 0000 0001 2159 0001",
+        "Laboratorio de Metabolismo de La Diabetes Mellitus, Unidad de Morfologia y Funcion, Facultad de Estudios Superiores Iztacala, Universidad Nacional Autonoma de Mexico, Tlalnepantla, Estado de Mexico Mexico. ROR: https://ror.org/01tmp8f25. GRID: grid.9486.3. ISNI: 0000 0001 2159 0001"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Cabrera-Nájera, Leonardo Elías",
+        "short_name": "Cabrera-Nájera LE",
+        "identifiers": [
+          "0000-0001-9468-6741"
+        ],
+        "affiliations": [
+          "Laboratorio de Metabolismo de La Diabetes Mellitus, Unidad de Morfología y Función, Facultad de Estudios Superiores Iztacala, Universidad Nacional Autónoma de México, Tlalnepantla, Estado de México México."
+        ]
+      },
+      {
+        "full_name": "Rodríguez-Peña, Olga Nelly",
+        "short_name": "Rodríguez-Peña ON",
+        "identifiers": [
+          "0000-0002-3273-5189"
+        ],
+        "affiliations": [
+          "Laboratorio de Biogeoquímica, Unidad de Biología, Tecnología y Prototipos (UBIPRO), Facultad de Estudios Superiores Iztacala, Universidad Nacional Autónoma de México, Tlalnepantla, Estado de México México.",
+          "Laboratorio Nacional en Salud, Facultad de Estudios Superiores Iztacala, Universidad Nacional Autónoma de México, Tlalnepantla, Estado de México México."
+        ]
+      },
+      {
+        "full_name": "Flores-Ortíz, Cesar Mateo",
+        "short_name": "Flores-Ortíz CM",
+        "identifiers": [
+          "0000-0002-5837-799X"
+        ],
+        "affiliations": [
+          "Laboratorio Nacional en Salud, Facultad de Estudios Superiores Iztacala, Universidad Nacional Autónoma de México, Tlalnepantla, Estado de México México."
+        ]
+      },
+      {
+        "full_name": "Palomar-Morales, Martín",
+        "short_name": "Palomar-Morales M",
+        "identifiers": [
+          "0000-0003-1382-276X"
+        ],
+        "affiliations": [
+          "Laboratorio de Metabolismo de La Diabetes Mellitus, Unidad de Morfología y Función, Facultad de Estudios Superiores Iztacala, Universidad Nacional Autónoma de México, Tlalnepantla, Estado de México México."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "In silico pharmacology"
+    ],
+    "journal_abbrev": [
+      "In Silico Pharmacol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/16 11:41",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42746114",
+      "39431102",
+      "42475469",
+      "42196261",
+      "41828709",
+      "28095400",
+      "23912807",
+      "41896712",
+      "40842437",
+      "40384021",
+      "42029703",
+      "26619280",
+      "38732174",
+      "42672009",
+      "24922508",
+      "41214656",
+      "42528928",
+      "33448856",
+      "30339916",
+      "24191708",
+      "42657169",
+      "41712319",
+      "42421755",
+      "28745364",
+      "36321557",
+      "25427151",
+      "42565562",
+      "18831774",
+      "40676786",
+      "39975035",
+      "31935082",
+      "39453425",
+      "42561603",
+      "41599736",
+      "35202628",
+      "41600892",
+      "40161650",
+      "29617966",
+      "41054392",
+      "41687307",
+      "41274185",
+      "42292825",
+      "35163572",
+      "32492340",
+      "42263871",
+      "35224615",
+      "41844387",
+      "41354934",
+      "32626943",
+      "42141107",
+      "40320752",
+      "30138363",
+      "42160909",
+      "26236953",
+      "27861609",
+      "41384025",
+      "23977182",
+      "42748146",
+      "27447295",
+      "42467519",
+      "31313295",
+      "42153145",
+      "40049421",
+      "29322920",
+      "34836494",
+      "39982680",
+      "41904748",
+      "37240355",
+      "42510941",
+      "37272835",
+      "41492010",
+      "40100341",
+      "42449968",
+      "40563459",
+      "28865451",
+      "30531836",
+      "26742101",
+      "35883520",
+      "31451955",
+      "33611407",
+      "41968858",
+      "42647377",
+      "33250973",
+      "40631092",
+      "42202914",
+      "41895505",
+      "41756011",
+      "41672505",
+      "33834194",
+      "40578094",
+      "41151234",
+      "31330173",
+      "41683685",
+      "19585546",
+      "42290021",
+      "38677273",
+      "42707374",
+      "41832376",
+      "40733589",
+      "42474872"
+    ],
+    "review": [
+      "42746114",
+      "36321557"
+    ],
+    "pmc": [
+      "13575055"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42746114/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://dx.doi.org/10.1007/s40203-026-00734-0",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-849",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

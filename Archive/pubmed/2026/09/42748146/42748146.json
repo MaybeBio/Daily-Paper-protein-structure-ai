@@ -1,0 +1,281 @@
+{
+  "identity": {
+    "pmid": "42748146",
+    "doi": "10.1073/pnas.2612191123",
+    "title": "Integrating NMR and contact-response analysis reveals the allosteric network driving domain closure in Enzyme I."
+  },
+  "content": {
+    "abstract": "Understanding how phosphoenolpyruvate (PEP) binding induces the large open-to-closed conformational transition of bacterial Enzyme I (EI) has remained a long-standing problem in structural biology. In EI, PEP binds the C-terminal EIC domain, yet catalysis requires docking of the distant N-terminal EIN domain, which carries the active-site H189 residue, onto EIC. How this local binding event is coupled to global domain rearrangement has been unclear. Here, we combine experimental Chemical Shift Covariance Analysis (CHESCA) with computational Chemically Accurate Contact Response Analysis (ChACRA) to map the allosteric network underlying EI closure. Using a library of active-site mutants that systematically tune the open-to-closed equilibrium, CHESCA identifies a dominant cluster of residues whose chemical shifts correlate with the small-angle X-ray scattering-derived population of the closed state, revealing long-range energetic coupling between the PEP-binding site and distal structural elements. To obtain atomistic resolution, ChACRA analysis of Hamiltonian replica exchange molecular dynamics simulations identifies a spatially continuous network of coupled interactions spanning the PEP-binding pocket, interdomain linker, domain interfaces, and dimer contacts. Ligand binding reshapes this network, stabilizing interactions that promote domain docking and global rearrangement. Together, these results show that EI closure is governed by an extended allosteric network rather than a direct local contact. Crucially, CHESCA and ChACRA report on different physical observables; their convergence provides experimental validation of an atomistic interaction map and atomic-resolution interpretation of sparse NMR correlations, establishing a general framework for resolving allostery in complex biomolecular systems.",
+    "keywords": [
+      "allosteric networks",
+      "chemical shift covariance analysis",
+      "conformational transitions",
+      "contact response analysis",
+      "multidomain enzymes"
+    ],
+    "mesh_terms": [
+      "Allosteric Regulation",
+      "Protein Domains",
+      "*Bacterial Proteins/chemistry/metabolism/genetics",
+      "Catalytic Domain",
+      "Protein Binding",
+      "Protein Conformation",
+      "Magnetic Resonance Spectroscopy/methods",
+      "Phosphoenolpyruvate/metabolism/chemistry",
+      "Models, Molecular",
+      "Allosteric Site",
+      "*Phosphotransferases (Nitrogenous Group Acceptor)/chemistry/metabolism/genetics",
+      "Molecular Dynamics Simulation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Singh, Aayushi",
+        "Burns, Daniel",
+        "Sedinkin, Sergey L",
+        "Das, Sayan",
+        "Potoyan, Davit A",
+        "Venditti, Vincenzo"
+      ],
+      "short_names": [
+        "Singh A",
+        "Burns D",
+        "Sedinkin SL",
+        "Das S",
+        "Potoyan DA",
+        "Venditti V"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-3230-6568",
+        "ORCID: 0000-0003-1248-5829",
+        "ORCID: 0000-0002-5860-1699",
+        "ORCID: 0000-0001-8734-0400"
+      ],
+      "affiliations": [
+        "Department of Chemistry, Iowa State University, Ames, IA 50011. ROR: https://ror.org/04rswrd78",
+        "Roy J. Carver Department of Biochemistry, Biophysics and Molecular Biology, Iowa State University, Ames, IA 50011. ROR: https://ror.org/04rswrd78",
+        "Department of Chemistry, Iowa State University, Ames, IA 50011. ROR: https://ror.org/04rswrd78",
+        "Department of Chemistry, Iowa State University, Ames, IA 50011. ROR: https://ror.org/04rswrd78",
+        "Department of Chemistry, Iowa State University, Ames, IA 50011. ROR: https://ror.org/04rswrd78",
+        "Roy J. Carver Department of Biochemistry, Biophysics and Molecular Biology, Iowa State University, Ames, IA 50011. ROR: https://ror.org/04rswrd78",
+        "Department of Chemistry, Iowa State University, Ames, IA 50011. ROR: https://ror.org/04rswrd78",
+        "Roy J. Carver Department of Biochemistry, Biophysics and Molecular Biology, Iowa State University, Ames, IA 50011. ROR: https://ror.org/04rswrd78"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Singh, Aayushi",
+        "short_name": "Singh A",
+        "identifiers": [
+          "0000-0003-3230-6568"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Iowa State University, Ames, IA 50011."
+        ]
+      },
+      {
+        "full_name": "Burns, Daniel",
+        "short_name": "Burns D",
+        "identifiers": [],
+        "affiliations": [
+          "Roy J. Carver Department of Biochemistry, Biophysics and Molecular Biology, Iowa State University, Ames, IA 50011."
+        ]
+      },
+      {
+        "full_name": "Sedinkin, Sergey L",
+        "short_name": "Sedinkin SL",
+        "identifiers": [
+          "0000-0003-1248-5829"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Iowa State University, Ames, IA 50011."
+        ]
+      },
+      {
+        "full_name": "Das, Sayan",
+        "short_name": "Das S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Iowa State University, Ames, IA 50011."
+        ]
+      },
+      {
+        "full_name": "Potoyan, Davit A",
+        "short_name": "Potoyan DA",
+        "identifiers": [
+          "0000-0002-5860-1699"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Iowa State University, Ames, IA 50011.",
+          "Roy J. Carver Department of Biochemistry, Biophysics and Molecular Biology, Iowa State University, Ames, IA 50011."
+        ]
+      },
+      {
+        "full_name": "Venditti, Vincenzo",
+        "short_name": "Venditti V",
+        "identifiers": [
+          "0000-0001-8734-0400"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Iowa State University, Ames, IA 50011.",
+          "Roy J. Carver Department of Biochemistry, Biophysics and Molecular Biology, Iowa State University, Ames, IA 50011."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Proceedings of the National Academy of Sciences of the United States of America"
+    ],
+    "journal_abbrev": [
+      "Proc Natl Acad Sci U S A"
+    ],
+    "pub_date": "2026 Sep 22",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/16 17:36",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42748146",
+      "26305976",
+      "25581904",
+      "38548260",
+      "17053069",
+      "9109646",
+      "15670601",
+      "20630900",
+      "29151219",
+      "10569929",
+      "12705838",
+      "17973384",
+      "29317499",
+      "22722931",
+      "31257109",
+      "19801641",
+      "29064000",
+      "27071107",
+      "36586979",
+      "21444788",
+      "26619280",
+      "16547355",
+      "41865847",
+      "8692938",
+      "38801229",
+      "39076021",
+      "35538664",
+      "27556733",
+      "33975952",
+      "22909257",
+      "22936614",
+      "40856521",
+      "23445323",
+      "20174626",
+      "16547354",
+      "28095400",
+      "29674125",
+      "10892802",
+      "20731394",
+      "25574774",
+      "32471245",
+      "42742803",
+      "41689234",
+      "29457687",
+      "40172960",
+      "9671705",
+      "21162528",
+      "37290391",
+      "25482377",
+      "11741915",
+      "19154134",
+      "32504625",
+      "25427151",
+      "38732174",
+      "36535575",
+      "41719283",
+      "41895482",
+      "26618792",
+      "40563391",
+      "17916364",
+      "23912807",
+      "29633911",
+      "34132193",
+      "11790113",
+      "24291457",
+      "15175340",
+      "40671268",
+      "39038177",
+      "24785005",
+      "27115535",
+      "26964042",
+      "20080627",
+      "24922508",
+      "30102042",
+      "33922473",
+      "10736161",
+      "31017783",
+      "37957479",
+      "16157349",
+      "25403348",
+      "29074623",
+      "9054557",
+      "25443958",
+      "30949773",
+      "16967193",
+      "37896786",
+      "27447295",
+      "30264175",
+      "40842437",
+      "28099001",
+      "40384021",
+      "35351887",
+      "11838236",
+      "8591049",
+      "40885886",
+      "38063068",
+      "41102979",
+      "28754691",
+      "26876046",
+      "41054392"
+    ],
+    "review": [
+      "42748146",
+      "25574774",
+      "40671268",
+      "26964042",
+      "37957479",
+      "25443958",
+      "11838236"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.pnas.org/doi/10.1073/pnas.2612191123?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3867",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "identity": {
+    "pmid": "42750043",
+    "doi": "10.1186/s13059-026-04274-w",
+    "title": "Genolator enables protein function interpretation using a multimodal large language model fusing genomic and structural interpretation with natural language interaction."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Decoding the genetic code to unveil its genome functionality is a monumental task which would greatly advance the understanding of disease mechanisms and development of targeted treatments. Although large language models (LLMs) have transformed natural language processing across diverse domains, translating the complex language of DNA into human-readable form remains challenging due to genomic data complexity and unexplored regions of the human genome. Current language models either are capable of processing natural language or the genomic code. Models fusing both aspects are largely lacking. RESULTS: Here we present Genolator, a multimodal large language model that integrates embeddings from DNA sequences, amino acid sequences, and protein structures with natural language queries. Fine-tuned on over 365,000 question-answer pairs generated using abstracted Gene-Ontology (GO) terms, Genolator effectively answers queries regarding protein subcellular localization, molecular function, and biological processes. Evaluation demonstrates high accuracy in confirming or denying protein function associations, outperforming baseline models such as openly available allrounder LLMs like GPT 4.1 as well as smaller domain-specific models integrating knowledge from a protein structure transformer. Explorations of Genolator's hidden states unveil a biologically and linguistically plausible organization of its learned representations. Analysis of the attention heads of the underlying language model and an ablation study provide evidence for a benefit of the multi-modal approach. CONCLUSION: Genolator enhances accessibility to genomic information by enabling natural language interaction with protein data, facilitating biological discovery, and clinical research. It represents a step towards bridging genomic code and human language through the integration of a multimodal LLM.",
+    "keywords": [
+      "Feature fusion",
+      "Genolator",
+      "Genomic language models",
+      "Multimodal language models",
+      "Protein function prediction"
+    ],
+    "mesh_terms": [
+      "Large Language Models",
+      "Humans",
+      "*Proteins/chemistry/genetics/metabolism",
+      "*Genomics/methods",
+      "*Natural Language Processing",
+      "*Software"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Danner, Martin",
+        "Islam, Tanhim",
+        "Begemann, Matthias",
+        "Kraft, Florian",
+        "Elbracht, Miriam",
+        "Kurth, Ingo",
+        "Krause, Jeremias"
+      ],
+      "short_names": [
+        "Danner M",
+        "Islam T",
+        "Begemann M",
+        "Kraft F",
+        "Elbracht M",
+        "Kurth I",
+        "Krause J"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-9915-7400"
+      ],
+      "affiliations": [
+        "Center for Human Genetics and Genomic Medicine, Medical Faculty, Uniklinik RWTH Aachen, Pauwelsstrasse 30, D-52074, Aachen, Germany.",
+        "scieneers GmbH, Karlsruhe, Germany.",
+        "Center for Human Genetics and Genomic Medicine, Medical Faculty, Uniklinik RWTH Aachen, Pauwelsstrasse 30, D-52074, Aachen, Germany.",
+        "Center for Human Genetics and Genomic Medicine, Medical Faculty, Uniklinik RWTH Aachen, Pauwelsstrasse 30, D-52074, Aachen, Germany.",
+        "Center for Human Genetics and Genomic Medicine, Medical Faculty, Uniklinik RWTH Aachen, Pauwelsstrasse 30, D-52074, Aachen, Germany.",
+        "Center for Human Genetics and Genomic Medicine, Medical Faculty, Uniklinik RWTH Aachen, Pauwelsstrasse 30, D-52074, Aachen, Germany.",
+        "Center for Human Genetics and Genomic Medicine, Medical Faculty, Uniklinik RWTH Aachen, Pauwelsstrasse 30, D-52074, Aachen, Germany.",
+        "Center for Human Genetics and Genomic Medicine, Medical Faculty, Uniklinik RWTH Aachen, Pauwelsstrasse 30, D-52074, Aachen, Germany. jerkrause@ukaachen.de."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Danner, Martin",
+        "short_name": "Danner M",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Human Genetics and Genomic Medicine, Medical Faculty, Uniklinik RWTH Aachen, Pauwelsstrasse 30, D-52074, Aachen, Germany.",
+          "scieneers GmbH, Karlsruhe, Germany."
+        ]
+      },
+      {
+        "full_name": "Islam, Tanhim",
+        "short_name": "Islam T",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Human Genetics and Genomic Medicine, Medical Faculty, Uniklinik RWTH Aachen, Pauwelsstrasse 30, D-52074, Aachen, Germany."
+        ]
+      },
+      {
+        "full_name": "Begemann, Matthias",
+        "short_name": "Begemann M",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Human Genetics and Genomic Medicine, Medical Faculty, Uniklinik RWTH Aachen, Pauwelsstrasse 30, D-52074, Aachen, Germany."
+        ]
+      },
+      {
+        "full_name": "Kraft, Florian",
+        "short_name": "Kraft F",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Human Genetics and Genomic Medicine, Medical Faculty, Uniklinik RWTH Aachen, Pauwelsstrasse 30, D-52074, Aachen, Germany."
+        ]
+      },
+      {
+        "full_name": "Elbracht, Miriam",
+        "short_name": "Elbracht M",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Human Genetics and Genomic Medicine, Medical Faculty, Uniklinik RWTH Aachen, Pauwelsstrasse 30, D-52074, Aachen, Germany."
+        ]
+      },
+      {
+        "full_name": "Kurth, Ingo",
+        "short_name": "Kurth I",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Human Genetics and Genomic Medicine, Medical Faculty, Uniklinik RWTH Aachen, Pauwelsstrasse 30, D-52074, Aachen, Germany."
+        ]
+      },
+      {
+        "full_name": "Krause, Jeremias",
+        "short_name": "Krause J",
+        "identifiers": [
+          "0000-0001-9915-7400"
+        ],
+        "affiliations": [
+          "Center for Human Genetics and Genomic Medicine, Medical Faculty, Uniklinik RWTH Aachen, Pauwelsstrasse 30, D-52074, Aachen, Germany. jerkrause@ukaachen.de."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Genome biology"
+    ],
+    "journal_abbrev": [
+      "Genome Biol"
+    ],
+    "pub_date": "2026 Sep 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/17 05:35",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42750043",
+      "42475469",
+      "42252067",
+      "40669074",
+      "23912807",
+      "41328496",
+      "41280882",
+      "40601266",
+      "41300810",
+      "42202288",
+      "39998912",
+      "42492189",
+      "41831028",
+      "42696525",
+      "42508236",
+      "40601260",
+      "39786555",
+      "39690112",
+      "40627819",
+      "40199968",
+      "41561863",
+      "42167217",
+      "41742185",
+      "42736684",
+      "42182443",
+      "40795315",
+      "41158510",
+      "42234930",
+      "42752891",
+      "33119236",
+      "41092581",
+      "39361955",
+      "40665561",
+      "40814232",
+      "40153539",
+      "40101227",
+      "40849052",
+      "40560205",
+      "42177353",
+      "40824124",
+      "41875054",
+      "41082689",
+      "42319798",
+      "39676642",
+      "42119874",
+      "42412844",
+      "41187282",
+      "42336024",
+      "40605274",
+      "42154341",
+      "40619512",
+      "42166797",
+      "38525734",
+      "40499132",
+      "40840437",
+      "41555097",
+      "40153782",
+      "39192204",
+      "41905520",
+      "41426306",
+      "41605796",
+      "40601262",
+      "40650140",
+      "39919278",
+      "42048518",
+      "42372160",
+      "40030352",
+      "40319086",
+      "42206405",
+      "38630520",
+      "39795988",
+      "42430721",
+      "39540736",
+      "42226232",
+      "42480711",
+      "42713011",
+      "40876082",
+      "39374057",
+      "39693482",
+      "41880603",
+      "39928922",
+      "39212609",
+      "26042329",
+      "42467985",
+      "41813244",
+      "42361337",
+      "38271060",
+      "39923968",
+      "40997586",
+      "39864093",
+      "40911811",
+      "41056561",
+      "36321557",
+      "38587879",
+      "41539675",
+      "40984701",
+      "42479901",
+      "21284890",
+      "40826123",
+      "39985504"
+    ],
+    "review": [
+      "42750043",
+      "42252067",
+      "40601266",
+      "39998912",
+      "42492189",
+      "41158510",
+      "42166797",
+      "41555097",
+      "40153782",
+      "42048518",
+      "42430721",
+      "42480711",
+      "39374057",
+      "42467985",
+      "40997586"
+    ],
+    "pmc": [
+      "13579901"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://genomebiology.biomedcentral.com/articles/10.1186/s13059-026-04274-w",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

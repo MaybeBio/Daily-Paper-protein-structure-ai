@@ -1,0 +1,307 @@
+{
+  "identity": {
+    "pmid": "42743971",
+    "doi": "10.1093/bib/bbag505",
+    "title": "HighFold4: extending AlphaFold3 to accurate cyclic peptide conformation prediction via custom chemical connectivity."
+  },
+  "content": {
+    "abstract": "While AlphaFold3 has revolutionized protein structure prediction and supports noncanonical amino acids, its architecture always fails to reliably generate the closed-ring topologies characteristic of cyclic peptides. Existing adaptations, such as imposing distance constraints via an offset matrix, enforce ring geometry but cannot specify the chemical identity of the cyclization bond, leading to a restrictive bias toward amide- or disulfide-linked macrocycles. Here, we present HighFold4, a framework that adapts AlphaFold3 to explicitly incorporate user-defined chemical connectivity between residues, thereby enabling both topological closure and bond-specific cyclization. Without retraining the base model, HighFold4 achieves accurate, chemistry-aware prediction of diverse cyclic peptide conformations, as validated on 179 structures. This work established a new paradigm for the conformation construction of macrocyclic peptides with tailored ring geometry and linkage chemistry, significantly expanding the utility of deep learning in peptide-based drug discovery.",
+    "keywords": [
+      "AlphaFold3",
+      "HighFold4",
+      "cyclic peptide",
+      "noncanonical amino acids",
+      "structure prediction"
+    ],
+    "mesh_terms": [
+      "*Peptides, Cyclic/chemistry",
+      "Protein Conformation",
+      "Models, Molecular",
+      "Amino Acids/chemistry",
+      "*Software",
+      "Algorithms",
+      "Prediction Algorithms"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Chengyun",
+        "Wang, Wentong",
+        "Zhu, Renjie",
+        "Cao, Sen",
+        "Xu, Yiqi",
+        "Zhu, Ning",
+        "Wu, Yaling",
+        "Guo, Jingjing",
+        "Duan, Hongliang"
+      ],
+      "short_names": [
+        "Zhang C",
+        "Wang W",
+        "Zhu R",
+        "Cao S",
+        "Xu Y",
+        "Zhu N",
+        "Wu Y",
+        "Guo J",
+        "Duan H"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-8499-5273",
+        "ORCID: 0009-0009-8779-7449",
+        "ORCID: 0000-0001-9631-3957",
+        "ORCID: 0000-0002-4632-4364"
+      ],
+      "affiliations": [
+        "Faculty of Applied Sciences, Macao Polytechnic University, R. de Luis Gonzaga Gomes, Macao, 999078, China.",
+        "Henan Institute of Advanced Technology, Zhengzhou University, Wenhua Road, Jinshui District, Zhengzhou, 450052, China.",
+        "College of Pharmaceutical Sciences, Zhejiang University of Technology, Chaowang Road, Gongshu District, Hangzhou, 310014, China.",
+        "Faculty of Applied Sciences, Macao Polytechnic University, R. de Luis Gonzaga Gomes, Macao, 999078, China.",
+        "College of Pharmaceutical Sciences, Zhejiang University of Technology, Chaowang Road, Gongshu District, Hangzhou, 310014, China.",
+        "Faculty of Applied Sciences, Macao Polytechnic University, R. de Luis Gonzaga Gomes, Macao, 999078, China.",
+        "Faculty of Applied Sciences, Macao Polytechnic University, R. de Luis Gonzaga Gomes, Macao, 999078, China.",
+        "Faculty of Applied Sciences, Macao Polytechnic University, R. de Luis Gonzaga Gomes, Macao, 999078, China.",
+        "Faculty of Applied Sciences, Macao Polytechnic University, R. de Luis Gonzaga Gomes, Macao, 999078, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Chengyun",
+        "short_name": "Zhang C",
+        "identifiers": [
+          "0000-0002-8499-5273"
+        ],
+        "affiliations": [
+          "Faculty of Applied Sciences, Macao Polytechnic University, R. de Luís Gonzaga Gomes, Macao, 999078, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Wentong",
+        "short_name": "Wang W",
+        "identifiers": [],
+        "affiliations": [
+          "Henan Institute of Advanced Technology, Zhengzhou University, Wenhua Road, Jinshui District, Zhengzhou, 450052, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Renjie",
+        "short_name": "Zhu R",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmaceutical Sciences, Zhejiang University of Technology, Chaowang Road, Gongshu District, Hangzhou, 310014, China."
+        ]
+      },
+      {
+        "full_name": "Cao, Sen",
+        "short_name": "Cao S",
+        "identifiers": [
+          "0009-0009-8779-7449"
+        ],
+        "affiliations": [
+          "Faculty of Applied Sciences, Macao Polytechnic University, R. de Luís Gonzaga Gomes, Macao, 999078, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Yiqi",
+        "short_name": "Xu Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmaceutical Sciences, Zhejiang University of Technology, Chaowang Road, Gongshu District, Hangzhou, 310014, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Ning",
+        "short_name": "Zhu N",
+        "identifiers": [
+          "0000-0001-9631-3957"
+        ],
+        "affiliations": [
+          "Faculty of Applied Sciences, Macao Polytechnic University, R. de Luís Gonzaga Gomes, Macao, 999078, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Yaling",
+        "short_name": "Wu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Applied Sciences, Macao Polytechnic University, R. de Luís Gonzaga Gomes, Macao, 999078, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Jingjing",
+        "short_name": "Guo J",
+        "identifiers": [
+          "0000-0002-4632-4364"
+        ],
+        "affiliations": [
+          "Faculty of Applied Sciences, Macao Polytechnic University, R. de Luís Gonzaga Gomes, Macao, 999078, China."
+        ]
+      },
+      {
+        "full_name": "Duan, Hongliang",
+        "short_name": "Duan H",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Applied Sciences, Macao Polytechnic University, R. de Luís Gonzaga Gomes, Macao, 999078, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Briefings in bioinformatics"
+    ],
+    "journal_abbrev": [
+      "Brief Bioinform"
+    ],
+    "pub_date": "2026 Sep 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/15 23:35",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42743971",
+      "42218720",
+      "40975836",
+      "40255206",
+      "42076870",
+      "40350698",
+      "41962133",
+      "40878049",
+      "41214817",
+      "42034689",
+      "38706323",
+      "19593648",
+      "11427046",
+      "41789985",
+      "41166421",
+      "41313605",
+      "41529114",
+      "41690919",
+      "35652781",
+      "41168342",
+      "28722215",
+      "25287434",
+      "37827517",
+      "42475469",
+      "41082435",
+      "42675622",
+      "24425873",
+      "16392797",
+      "42177065",
+      "34505781",
+      "31134577",
+      "12621047",
+      "42580195",
+      "3297134",
+      "12927853",
+      "1333831",
+      "16044546",
+      "42457163",
+      "17234429",
+      "39024122",
+      "29091918",
+      "12952461",
+      "33550156",
+      "15903321",
+      "22033979",
+      "17922495",
+      "9225246",
+      "24827640",
+      "15823578",
+      "17260351",
+      "18351708",
+      "25933125",
+      "27718641",
+      "42218716",
+      "29492997",
+      "33597770",
+      "22976481",
+      "40399308",
+      "15985178",
+      "35274526",
+      "15102053",
+      "12495031",
+      "35566168",
+      "40854162",
+      "42367058",
+      "34570494",
+      "22581768",
+      "42045661",
+      "42468337",
+      "3733321",
+      "42691505",
+      "39115107",
+      "30707269",
+      "12932582",
+      "41452944",
+      "42425235",
+      "21644250",
+      "39606858",
+      "35801933",
+      "38953277",
+      "38944933",
+      "26134485",
+      "33416330",
+      "38662830",
+      "42199059",
+      "42289978",
+      "8318666",
+      "22204430",
+      "15099829",
+      "11784141",
+      "12669842",
+      "27131374",
+      "41014267",
+      "12102723",
+      "26096515",
+      "34206124",
+      "31226791",
+      "29028171",
+      "40318231",
+      "24616150"
+    ],
+    "review": [
+      "42743971",
+      "25287434",
+      "31134577",
+      "27718641",
+      "35566168",
+      "42425235",
+      "22204430"
+    ],
+    "pmc": [
+      "13577668"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42743971/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/bib/article-lookup/doi/10.1093/bib/bbag505",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

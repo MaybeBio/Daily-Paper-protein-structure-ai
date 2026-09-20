@@ -1,0 +1,211 @@
+{
+  "identity": {
+    "pmid": "42753517",
+    "doi": "10.1016/j.compbiolchem.2026.109410",
+    "title": "Efflux pump gene ABCA as targets for deep learning-based de novo inhibitors in invasive aspergillosis caused by Aspergillus fumigatus."
+  },
+  "content": {
+    "abstract": "This study aims to design and evaluate novel therapeutic binders targeting the ATP-binding region of the AbcA efflux transporter protein in Aspergillus fumigatus. By inhibiting ATP binding, these binders seek to prevent AbcA-mediated azole resistance and restore the effectiveness of antifungal treatments. The research employed a variety of computational modeling and deep learning techniques, such as multiple sequence alignment (MSA) to identify conserved regions, particularly the ATP-binding site. A de novo sequence and structure of the protein was predicted using Protein Generator based on the consensus conserved region, and 60 de novo protein sequences were designed with ProteinMPNN. To enhance intracellular delivery, cell-penetrating peptide (CPP) motifs were added, and their potential was assessed using C2Pred. Allergenicity was evaluated using AllerCatPro, and thermal stability was predicted with DeepSTABp to shortlisted top ten highly thermally stable de novo binders among 7200 generated binders. The de novo sequences were modelled using OmegaFold and subjected to energy minimization. Molecular docking was performed to analyze interactions between the abcA protein and the designed inhibitors, and binding energies were assessed using the GRAMM algorithm and PDBSum. Molecular dynamics simulations using Maestro indicated that the abcA-2795 complex exhibited the most stable conformation. The binding sites of the de novo binders were found to encompass the ATP-binding and transmembrane domains of the AbcA protein. In conclusion, the study successfully designed and evaluated de novo binders targeting the ATP-binding domain of AbcA in Aspergillus fumigatus. The binder abcA-2795 exhibited promising characteristics, including non-allergenicity, cell penetration potential, and high thermal stability, suggesting its potential as an effective inhibitor of fungal drug resistance. Further experimental validation is required to confirm the efficacy and safety of these binders in clinical settings.",
+    "keywords": [
+      "ABC transporter",
+      "Aspergillus fumigatus",
+      "De novo protein design",
+      "Efflux pump inhibitor",
+      "Molecular dynamics simulation"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ahmed, Noor Maath",
+        "Ismail, Rand Salwan Numan",
+        "Suleiman, Ahmed AbdulJabbar"
+      ],
+      "short_names": [
+        "Ahmed NM",
+        "Ismail RSN",
+        "Suleiman AA"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Biology Department, College of Science, Tikrit University, Tikrit, Saladin, Iraq.",
+        "Biology Department, College of Science, Tikrit University, Tikrit, Saladin, Iraq.",
+        "Biotechnology Department, College of Science, University of Anbar, Ramadi, Anbar, Iraq. Electronic address: ahmed.suleiman@uoanbar.edu.iq."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ahmed, Noor Maath",
+        "short_name": "Ahmed NM",
+        "identifiers": [],
+        "affiliations": [
+          "Biology Department, College of Science, Tikrit University, Tikrit, Saladin, Iraq."
+        ]
+      },
+      {
+        "full_name": "Ismail, Rand Salwan Numan",
+        "short_name": "Ismail RSN",
+        "identifiers": [],
+        "affiliations": [
+          "Biology Department, College of Science, Tikrit University, Tikrit, Saladin, Iraq."
+        ]
+      },
+      {
+        "full_name": "Suleiman, Ahmed AbdulJabbar",
+        "short_name": "Suleiman AA",
+        "identifiers": [],
+        "affiliations": [
+          "Biotechnology Department, College of Science, University of Anbar, Ramadi, Anbar, Iraq. Electronic address: ahmed.suleiman@uoanbar.edu.iq."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Computational biology and chemistry"
+    ],
+    "journal_abbrev": [
+      "Comput Biol Chem"
+    ],
+    "pub_date": "2026 Sep 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/17 23:34",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42753517",
+      "40371895",
+      "23796749",
+      "24123268",
+      "32209680",
+      "39432018",
+      "42489162",
+      "37318356",
+      "39148280",
+      "42330575",
+      "38975761",
+      "42222300",
+      "9373135",
+      "41881211",
+      "42118388",
+      "39266056",
+      "40686280",
+      "39162512",
+      "28264842",
+      "42730777",
+      "40143396",
+      "40223692",
+      "42554209",
+      "33550403",
+      "38954072",
+      "41473986",
+      "41278626",
+      "26933209",
+      "42291816",
+      "40865823",
+      "40162754",
+      "42693314",
+      "36774892",
+      "28052140",
+      "41001798",
+      "35575535",
+      "12172968",
+      "40952433",
+      "42446237",
+      "41187366",
+      "36321557",
+      "42011130",
+      "9791121",
+      "41030196",
+      "38679255",
+      "28927344",
+      "32801062",
+      "32471245",
+      "38070805",
+      "39279120",
+      "37205527",
+      "38149850",
+      "21452978",
+      "40798865",
+      "42282831",
+      "41497266",
+      "39622982",
+      "42060100",
+      "33431412",
+      "30862750",
+      "40123800",
+      "35467427",
+      "42615624",
+      "15347662",
+      "41524971",
+      "41346856",
+      "32829478",
+      "41117072",
+      "42668839",
+      "41493642",
+      "37873004",
+      "40937856",
+      "29251506",
+      "40542165",
+      "35724626",
+      "40047244",
+      "41968318",
+      "25243616",
+      "32546620",
+      "40897171",
+      "39677777",
+      "28080986",
+      "38934618",
+      "41081718",
+      "38352434",
+      "39304433",
+      "42707152",
+      "28059445",
+      "34973929",
+      "38187746",
+      "40804173",
+      "30940706",
+      "37039674",
+      "40694144",
+      "42370516",
+      "42672009",
+      "41467166",
+      "35107385",
+      "27697142",
+      "42640517"
+    ],
+    "review": [
+      "42753517",
+      "36321557",
+      "25243616",
+      "40897171",
+      "28080986",
+      "34973929",
+      "40694144"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1476-9271(26)00537-2",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

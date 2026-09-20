@@ -1,0 +1,246 @@
+{
+  "identity": {
+    "pmid": "42749446",
+    "doi": "10.1016/j.jgeb.2026.100776",
+    "title": "Computational identification and characterization of high-risk human KRAS nsSNPs: Impacting structure, ligand binding, and cancer prognosis."
+  },
+  "content": {
+    "abstract": "Kristen rat sarcoma viral oncogene homolog (KRAS) is a critical oncogene regulating cell proliferation and survival, with mutations driving tumorigenesis. Non-synonymous single nucleotide polymorphisms (nsSNPs) can alter KRAS structure, function, and ligand interactions, influencing clinical outcomes. This study analyzed 324 nsSNPs from dbSNP, ClinVar, and DisGeNET using eight predictive tools (SIFT, PolyPhen-2, PredictSNP, PhD-SNP, PANTHER, PROVEAN, Meta-SNP, SNAP2) to identify highly deleterious nsSNPs. Protein stability was evaluated via I-Mutant 2.0, MUpro, INPS-MD, iStable, and DDMut, and structural impacts assessed using HOPE, MutPred2, and Missense3D. Molecular docking (AutoDock Vina) and 100-ns molecular dynamics simulations explored ligand-specific interactions. Cancer susceptibilities analysis was performed using CScape, Dr. Cancer, and FATHMM. Our analysis consistently predicted sixteen nsSNPs as highly deleterious, with Y71D and M72K identified as high-risk variants located in the GTP-binding domain, destabilizing KRAS and disrupting hydrophobic and electrostatic interactions. Docking and simulation analyses showed that the Y71D and M72K nsSNPs reduced binding affinity and stability with ligand sotorasib (CID: 137278711) compared to wild-type KRAS, whereas both high-risk nsSNPs exhibited enhanced binding and stability with ligand adagrasib (CID: 138611145), indicating mutation-dependent ligand interactions. MM-GBSA analysis confirmed mutation-dependent KRAS binding changes, weakening sotorasib affinity while enhancing adagrasib interaction in the Y71D variant. Cancer susceptibilities analyses indicated both Y71D and M72K may promote cancer prognosis. These results highlight Y71D and M72K as high-risk KRAS nsSNPs affecting structural stability, ligand interactions, and cancer prognosis, providing a framework for mutation-specific therapeutic strategies and supporting further experimental validation in precision oncology.",
+    "keywords": [
+      "Cancer prognosis",
+      "Deleterious",
+      "KRAS",
+      "Protein stability",
+      "Protein structure",
+      "nsSNP"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Hossain, Md Mainuddin",
+        "Adhikari, Juthi",
+        "Ahmed, Sabbir",
+        "Zaki, Md Zakiul Islam",
+        "Khandaker, Afia",
+        "Shibly, Abu Zaffar"
+      ],
+      "short_names": [
+        "Hossain MM",
+        "Adhikari J",
+        "Ahmed S",
+        "Zaki MZI",
+        "Khandaker A",
+        "Shibly AZ"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Biotechnology and Genetic Engineering, Mawlana Bhashani Science and Technology University, Santosh, Tangail 1902, Bangladesh.",
+        "Department of Biotechnology and Genetic Engineering, Mawlana Bhashani Science and Technology University, Santosh, Tangail 1902, Bangladesh.",
+        "Department of Pharmacy, Mawlana Bhashani Science and Technology University, Santosh, Tangail 1902, Bangladesh.",
+        "Department of Biotechnology and Genetic Engineering, Mawlana Bhashani Science and Technology University, Santosh, Tangail 1902, Bangladesh.",
+        "Department of Biotechnology and Genetic Engineering, Mawlana Bhashani Science and Technology University, Santosh, Tangail 1902, Bangladesh.",
+        "Department of Biotechnology and Genetic Engineering, Mawlana Bhashani Science and Technology University, Santosh, Tangail 1902, Bangladesh. Electronic address: zaffarshibly@mbstu.ac.bd."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Hossain, Md Mainuddin",
+        "short_name": "Hossain MM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology and Genetic Engineering, Mawlana Bhashani Science and Technology University, Santosh, Tangail 1902, Bangladesh."
+        ]
+      },
+      {
+        "full_name": "Adhikari, Juthi",
+        "short_name": "Adhikari J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology and Genetic Engineering, Mawlana Bhashani Science and Technology University, Santosh, Tangail 1902, Bangladesh."
+        ]
+      },
+      {
+        "full_name": "Ahmed, Sabbir",
+        "short_name": "Ahmed S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacy, Mawlana Bhashani Science and Technology University, Santosh, Tangail 1902, Bangladesh."
+        ]
+      },
+      {
+        "full_name": "Zaki, Md Zakiul Islam",
+        "short_name": "Zaki MZI",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology and Genetic Engineering, Mawlana Bhashani Science and Technology University, Santosh, Tangail 1902, Bangladesh."
+        ]
+      },
+      {
+        "full_name": "Khandaker, Afia",
+        "short_name": "Khandaker A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology and Genetic Engineering, Mawlana Bhashani Science and Technology University, Santosh, Tangail 1902, Bangladesh."
+        ]
+      },
+      {
+        "full_name": "Shibly, Abu Zaffar",
+        "short_name": "Shibly AZ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology and Genetic Engineering, Mawlana Bhashani Science and Technology University, Santosh, Tangail 1902, Bangladesh. Electronic address: zaffarshibly@mbstu.ac.bd."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal, genetic engineering & biotechnology"
+    ],
+    "journal_abbrev": [
+      "J Genet Eng Biotechnol"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/16 23:34",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42749446",
+      "40892789",
+      "23561625",
+      "40370698",
+      "40983009",
+      "38656135",
+      "40149458",
+      "38858637",
+      "39021990",
+      "40469839",
+      "36995110",
+      "38994097",
+      "42196261",
+      "30884445",
+      "39854591",
+      "40129965",
+      "40149454",
+      "40493574",
+      "38907316",
+      "39296124",
+      "42657169",
+      "42309611",
+      "40207085",
+      "42322085",
+      "41039863",
+      "34921182",
+      "37200850",
+      "41084424",
+      "38132435",
+      "42694451",
+      "41628231",
+      "39715225",
+      "42369210",
+      "35727487",
+      "40855915",
+      "36056132",
+      "40571049",
+      "37901856",
+      "42393402",
+      "41277739",
+      "41917079",
+      "41153361",
+      "40321699",
+      "42691045",
+      "41785731",
+      "40375073",
+      "32143568",
+      "32867672",
+      "41671225",
+      "41404416",
+      "31935276",
+      "39167281",
+      "38762014",
+      "36598356",
+      "37278385",
+      "30802828",
+      "30676783",
+      "42692860",
+      "27294143",
+      "38283900",
+      "35776277",
+      "37801178",
+      "34092963",
+      "35706533",
+      "31272062",
+      "42398308",
+      "34187970",
+      "38630598",
+      "34793541",
+      "31398194",
+      "40981192",
+      "37817532",
+      "40612044",
+      "41908562",
+      "31117243",
+      "42166461",
+      "39590603",
+      "34827731",
+      "30556179",
+      "35888106",
+      "32787631",
+      "37173831",
+      "39264222",
+      "37860678",
+      "40478193",
+      "28388287",
+      "32693129",
+      "41539145",
+      "36812296",
+      "41120341",
+      "23056176",
+      "41231851",
+      "34466701",
+      "34234628",
+      "28073065",
+      "39405275",
+      "41428257",
+      "41054496",
+      "39744514",
+      "42444804"
+    ],
+    "review": [
+      "42749446"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1687-157X(26)00120-4",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1550",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

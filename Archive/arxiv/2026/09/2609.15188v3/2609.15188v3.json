@@ -1,0 +1,36 @@
+{
+  "source": "arxiv",
+  "source_id": "2609.15188v3",
+  "title": "MUSE: A Theory-Harnessed Story Engine for Vibe Narrativizing",
+  "doi": "",
+  "abstract": "LLMs have been able to generate fluent prose, but high-quality stories also require coordinated decisions about plot, character, and language across planning, drafting, and revision. We formulate Vibe Narrativizing as turning natural-language writing requirements into a finished story. MUSE, a Theory-Harnessed Story Engine, addresses two bottlenecks: rule quality and sustained rule realization. Story theory supplies the rules, and a practical agent harness puts them to work. Knowledge engineering organizes Robert McKee's theory through rule atomization, semantic consolidation, mechanism abstraction, a single source of truth, and layered disclosure; typical examples clarify judgments that depend on context and aesthetic purpose. The harness preserves story decisions in intermediate deliverables across design, character performance, scene composition, and revision. Context engineering supplies each role with relevant guidance and decisions; a masterwork corpus provides inspiration and prose references. A worked example follows a requested object from its thematic role to climactic actions. Across four base models, MUSE improves WritingBench by 1.1 to 6.2 points over zero-shot generation; it is the only multi-stage system in our comparison to do so. It also raises LongStoryEval by more than ten points on three of the four models. ConStory-Bench consistency error density remains in the low single digits for all four models, below every reproduced story-system baseline on three of the four models. Ablations locate the largest quality contribution in structural design, voice-specific effects in the character path, and further gains in revision.",
+  "authors": [
+    "Jianxiang Ma",
+    "Xiaocui Yang",
+    "Daling Wang",
+    "Yuesong Hou",
+    "Mingfu Zhang",
+    "Yichen Gao",
+    "Junzhao Huang"
+  ],
+  "published_date": "2026-09-14T08:09:44Z",
+  "updated_date": "2026-09-17T14:55:52Z",
+  "journal": "",
+  "category": "cs.CL",
+  "landing_url": "https://arxiv.org/abs/2609.15188v3",
+  "pdf_url": "https://arxiv.org/pdf/2609.15188v3",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "3",
+  "keywords": [
+    "cs.CL"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2609.15188v3",
+    "raw_categories": [
+      "cs.CL"
+    ],
+    "journal_ref": ""
+  }
+}

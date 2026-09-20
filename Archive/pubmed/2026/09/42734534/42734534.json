@@ -1,0 +1,256 @@
+{
+  "identity": {
+    "pmid": "42734534",
+    "doi": "10.1021/acs.jcim.6c01350",
+    "title": "Ensemble-Based Reconstruction and Prioritization of Binding Sites in Influenza A Nucleoprotein."
+  },
+  "content": {
+    "abstract": "Influenza A nucleoprotein (NP) is essential for viral RNA binding, ribonucleoprotein assembly, and NP oligomerization, making it an attractive antiviral target; however, static structures incompletely capture the conformational variability governing pocket formation and accessibility. Here, 17,178 pockets detected across 753 monomeric NP conformations from three independent molecular dynamics simulations were grouped by pocket-lining residue composition to reconstruct recurrent binding-site regions. Six potentially druggable sites were retained and characterized according to their recurrence, residue-level organization, conformational plasticity, and assembly context, revealing three compact, residue-stable sites, two adaptive RNA-proximal regions, and an extended E339-centered interdomain groove. Four sites corresponded to experimentally characterized or structurally supported ligand-binding environments, while assembly mapping revealed context-dependent exposure near RNA- and NP-NP interaction surfaces, thereby identifying dynamic NP binding-site regions prioritized for ligand-specific investigation and distinguishing stable pockets from plastic regions whose organization and accessibility depend on conformational and assembly context.",
+    "keywords": [],
+    "mesh_terms": [
+      "Binding Sites",
+      "*Molecular Dynamics Simulation",
+      "*RNA-Binding Proteins/chemistry/metabolism",
+      "*Influenza A virus/chemistry/metabolism",
+      "Protein Conformation",
+      "Ligands",
+      "*Viral Core Proteins/chemistry/metabolism",
+      "Nucleocapsid Proteins",
+      "*Nucleoproteins/chemistry/metabolism",
+      "Protein Binding"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Qi, Xinyu",
+        "Rahali, Ines Sabine",
+        "Munier, Sandie",
+        "Badel, Anne",
+        "Flatters, Delphine",
+        "Camproux, Anne-Claude"
+      ],
+      "short_names": [
+        "Qi X",
+        "Rahali IS",
+        "Munier S",
+        "Badel A",
+        "Flatters D",
+        "Camproux AC"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-8821-9952"
+      ],
+      "affiliations": [
+        "Universite Paris Cite, CNRS UMR 8251 INSERM ERL U1133, Unite de Biologie Fonctionnelle et Adaptative, BFA, ParisF-75013, France.",
+        "Universite Paris Cite, CNRS UMR 8251 INSERM ERL U1133, Unite de Biologie Fonctionnelle et Adaptative, BFA, ParisF-75013, France.",
+        "Institut Pasteur, Universite Paris Cite , Lyssavirus Epidemiology and Neuropathology Unit, ParisF-75015, France.",
+        "Universite Paris Cite, CNRS UMR 8251 INSERM ERL U1133, Unite de Biologie Fonctionnelle et Adaptative, BFA, ParisF-75013, France.",
+        "Universite Paris Cite, CNRS UMR 8251 INSERM ERL U1133, Unite de Biologie Fonctionnelle et Adaptative, BFA, ParisF-75013, France.",
+        "Universite Paris Cite, CNRS UMR 8251 INSERM ERL U1133, Unite de Biologie Fonctionnelle et Adaptative, BFA, ParisF-75013, France."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Qi, Xinyu",
+        "short_name": "Qi X",
+        "identifiers": [],
+        "affiliations": [
+          "Université Paris Cité, CNRS UMR 8251 INSERM ERL U1133, Unité de Biologie Fonctionnelle et Adaptative, BFA, ParisF-75013, France."
+        ]
+      },
+      {
+        "full_name": "Rahali, Inés Sabine",
+        "short_name": "Rahali IS",
+        "identifiers": [],
+        "affiliations": [
+          "Université Paris Cité, CNRS UMR 8251 INSERM ERL U1133, Unité de Biologie Fonctionnelle et Adaptative, BFA, ParisF-75013, France."
+        ]
+      },
+      {
+        "full_name": "Munier, Sandie",
+        "short_name": "Munier S",
+        "identifiers": [],
+        "affiliations": [
+          "Institut Pasteur, Université Paris Cité , Lyssavirus Epidemiology and Neuropathology Unit, ParisF-75015, France."
+        ]
+      },
+      {
+        "full_name": "Badel, Anne",
+        "short_name": "Badel A",
+        "identifiers": [],
+        "affiliations": [
+          "Université Paris Cité, CNRS UMR 8251 INSERM ERL U1133, Unité de Biologie Fonctionnelle et Adaptative, BFA, ParisF-75013, France."
+        ]
+      },
+      {
+        "full_name": "Flatters, Delphine",
+        "short_name": "Flatters D",
+        "identifiers": [],
+        "affiliations": [
+          "Université Paris Cité, CNRS UMR 8251 INSERM ERL U1133, Unité de Biologie Fonctionnelle et Adaptative, BFA, ParisF-75013, France."
+        ]
+      },
+      {
+        "full_name": "Camproux, Anne-Claude",
+        "short_name": "Camproux AC",
+        "identifiers": [
+          "0000-0001-8821-9952"
+        ],
+        "affiliations": [
+          "Université Paris Cité, CNRS UMR 8251 INSERM ERL U1133, Unité de Biologie Fonctionnelle et Adaptative, BFA, ParisF-75013, France."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of chemical information and modeling"
+    ],
+    "journal_abbrev": [
+      "J Chem Inf Model"
+    ],
+    "pub_date": "2026 Sep 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/14 11:40",
+    "fetched_at": "2026-09-20 07:27:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42734534",
+      "17151603",
+      "22272272",
+      "18442378",
+      "25333630",
+      "7745727",
+      "23459490",
+      "39486729",
+      "26119732",
+      "10438825",
+      "26222066",
+      "19471866",
+      "20463064",
+      "32085897",
+      "8494822",
+      "18312650",
+      "10405371",
+      "9032315",
+      "9049350",
+      "17050598",
+      "39890729",
+      "24266354",
+      "27965447",
+      "29555684",
+      "17547769",
+      "21917965",
+      "17905627",
+      "27649229",
+      "32986763",
+      "15246262",
+      "22345439",
+      "15033571",
+      "28536288",
+      "28173821",
+      "26916998",
+      "41910156",
+      "11451486",
+      "9126246",
+      "24920808",
+      "32422922",
+      "27028635",
+      "28900157",
+      "9559532",
+      "24357080",
+      "18058063",
+      "8806539",
+      "33087462",
+      "7477040",
+      "8648669",
+      "21411538",
+      "23538443",
+      "41288076",
+      "11885926",
+      "22532672",
+      "7966640",
+      "8039508",
+      "24824824",
+      "10358899",
+      "25808156",
+      "33784403",
+      "9882320",
+      "23383277",
+      "23269829",
+      "30788466",
+      "25355893",
+      "26842467",
+      "29237836",
+      "18614582",
+      "8999311",
+      "21896751",
+      "30257455",
+      "22570712",
+      "17623082",
+      "12679020",
+      "14749182",
+      "22155087",
+      "27431776",
+      "38749445",
+      "35467364",
+      "41188214",
+      "25043584",
+      "25938860",
+      "28298161",
+      "22496219",
+      "38470155",
+      "29338047",
+      "25180940",
+      "10640551",
+      "21846828",
+      "19019950",
+      "25268971",
+      "9621005",
+      "28566377",
+      "20164259",
+      "29775781",
+      "38732174",
+      "19744689",
+      "19225007",
+      "9060654",
+      "37896786"
+    ],
+    "review": [
+      "42734534",
+      "39486729",
+      "19471866"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/CPTAC-570",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/jcisd8/article-lookup/doi/10.1021/acs.jcim.6c01350",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

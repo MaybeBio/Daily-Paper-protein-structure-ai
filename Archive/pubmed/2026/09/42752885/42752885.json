@@ -1,0 +1,207 @@
+{
+  "identity": {
+    "pmid": "42752885",
+    "doi": "10.1007/978-3-032-24159-7_7",
+    "title": "Water Under Molecular Crowding: From Femtosecond H-Bond Networks Dynamics to Biological Function."
+  },
+  "content": {
+    "abstract": "Cells are densely packed with macromolecules, creating a crowded environment that fundamentally alters water's hydrogen bond (H-bond) networks. H-bond networks, typically dynamic and tetrahedral in bulk water, are disrupted by macromolecular surfaces, confinement, and competitive solute interactions. Subtle shifts in H-bond lifetimes, connectivity, and reorientation dynamics cascade into large-scale biological consequences-modulating protein folding, enzymatic function, and liquid-liquid phase separation. This chapter highlights how recent advances in time-resolved vibrational spectroscopy (e.g., 2D IR) and molecular dynamics (MD) simulations unravel crowding's effects on water structure and dynamics. Emphasis is placed on how these techniques elucidate interfacial water's heterogeneous and slowed dynamics in cytoplasm-like environments, at membrane surfaces, and within membraneless biomolecular condensates. We discuss how these dynamic perturbations reshape free energy landscapes and modulate biomolecular function. Finally, the chapter proposes integrative frameworks to connect ultrafast spectroscopic and simulation data with mesoscale biophysical models. Such multiscale approaches are essential to capture the full implications of hydration under crowding, offering a pathway to understand how life is organized at the molecular level in its physiologically crowded native state.",
+    "keywords": [
+      "2D IR",
+      "Biocondensates",
+      "Hydrogen bond networks",
+      "Macromolecular crowding",
+      "Membrane hydration",
+      "Molecular dynamics simulations",
+      "Phase separation",
+      "Time-resolved vibrational spectroscopy"
+    ],
+    "mesh_terms": [
+      "Hydrogen Bonding",
+      "*Water/chemistry",
+      "*Molecular Dynamics Simulation",
+      "Phase Separation",
+      "Protein Folding"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "You, Xiao"
+      ],
+      "short_names": [
+        "You X"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Center of Synthetic Biology and Integrated Bioengineering, Westlake University, Hangzhou, Zhejiang, China. youxiao@westlake.edu.cn.",
+        "Key Laboratory of Intelligent Low-Carbon Biosynthesis of Zhejiang Province, Westlake University, Hangzhou, Zhejiang, China. youxiao@westlake.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "You, Xiao",
+        "short_name": "You X",
+        "identifiers": [],
+        "affiliations": [
+          "Center of Synthetic Biology and Integrated Bioengineering, Westlake University, Hangzhou, Zhejiang, China. youxiao@westlake.edu.cn.",
+          "Key Laboratory of Intelligent Low-Carbon Biosynthesis of Zhejiang Province, Westlake University, Hangzhou, Zhejiang, China. youxiao@westlake.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Sub-cellular biochemistry"
+    ],
+    "journal_abbrev": [
+      "Subcell Biochem"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/17 18:32",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42752885",
+      "23912807",
+      "32866390",
+      "35968816",
+      "21417263",
+      "32364385",
+      "19585982",
+      "42475469",
+      "19378969",
+      "19425543",
+      "41806882",
+      "40017032",
+      "21823714",
+      "42752886",
+      "20141150",
+      "39591652",
+      "26558297",
+      "32423219",
+      "30043677",
+      "27137845",
+      "37486881",
+      "19681584",
+      "38061016",
+      "28863528",
+      "41004013",
+      "22352398",
+      "21043427",
+      "18823116",
+      "19722542",
+      "19469530",
+      "24341684",
+      "22032305",
+      "42752883",
+      "27240107",
+      "37163574",
+      "38382566",
+      "32112494",
+      "26049426",
+      "34585924",
+      "25591372",
+      "40227341",
+      "32866322",
+      "19435307",
+      "40910446",
+      "32069416",
+      "21897944",
+      "39660892",
+      "27341918",
+      "27960328",
+      "18370431",
+      "23484883",
+      "40880224",
+      "23145735",
+      "24862873",
+      "42262053",
+      "22299897",
+      "31480555",
+      "34500836",
+      "24660958",
+      "38768341",
+      "20210292",
+      "36594499",
+      "22026687",
+      "27482947",
+      "29570286",
+      "29071445",
+      "22457060",
+      "27801646",
+      "20666567",
+      "27905589",
+      "39815790",
+      "41467680",
+      "21214234",
+      "36744506",
+      "30380875",
+      "39042834",
+      "21417373",
+      "16375407",
+      "22530969",
+      "22934602",
+      "41840143",
+      "16135564",
+      "34733819",
+      "29851345",
+      "33305536",
+      "19586028",
+      "25296824",
+      "39993918",
+      "42172058",
+      "41867009",
+      "31282162",
+      "42752879",
+      "17887790",
+      "24191016",
+      "25494780",
+      "41937569",
+      "28641416",
+      "19222211",
+      "34206440",
+      "21126033"
+    ],
+    "review": [
+      "42752885",
+      "35968816",
+      "19425543",
+      "41806882",
+      "42752886",
+      "41004013",
+      "42752883",
+      "38382566",
+      "40227341",
+      "39660892",
+      "29071445",
+      "33305536"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://dx.doi.org/10.1007/978-3-032-24159-7_7",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

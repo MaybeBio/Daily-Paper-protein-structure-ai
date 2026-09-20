@@ -1,0 +1,165 @@
+{
+  "identity": {
+    "pmid": "42762846",
+    "doi": "10.1016/j.jare.2026.09.015",
+    "title": "AASIA: A comprehensive protein structural interactome database for agricultural animals."
+  },
+  "content": {
+    "abstract": "INTRODUCTION: Agricultural animals are essential for global food production and sustainable agriculture. Improving disease resistance and economically important traits is critical for ensuring food security. Proteome-wide protein-protein interactions (PPIs), termed as interactomes, underlie key biological processes in cells, making them critical for deciphering the genome-phenome relationship. However, species-specific PPI resources remain limited for most agricultural animals. OBJECTIVES: Motivated by the rapid development of deep learning and breakthroughs in AI-driven protein structure prediction, we attempted to develop an integrated structural interactome resource for agricultural animals. METHODS: We predicted species-specific interactomes through an integrative prediction pipeline that combines interolog mapping, domain-domain interaction inference, and deep learning. The 3D complex structures of all predicted PPIs were further generated using ESMFold. RESULTS: We established AASIA (Agricultural Animals Structural Interactome Atlas; https://aasia.zzdlab.com), a user-friendly database comprising 410,421 high-confidence PPIs and corresponding complex structures across five key species, including Anas platyrhynchos, Bos taurus, Gallus gallus, Ovis aries, and Sus scrofa. CONCLUSIONS: AASIA provides the first proteome-scale structural interactome resource for five key agricultural animals. By integrating interaction prediction with structural modeling, it enables mechanistic insight into agriculturally relevant traits and supports applications in variant interpretation, multi-omics integration, and molecular breeding.",
+    "keywords": [
+      "Agricultural animals",
+      "Database",
+      "Deep learning",
+      "Prediction",
+      "Protein-protein interactions",
+      "Structural interactome"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Jiajun",
+        "Yuan, Mengdi",
+        "Jiang, Linyang",
+        "Li, Dianke",
+        "Yin, Zhongtao",
+        "Zhu, Feng",
+        "Shi, Wenyu",
+        "Hou, Zhuocheng",
+        "Zhang, Ziding"
+      ],
+      "short_names": [
+        "Li J",
+        "Yuan M",
+        "Jiang L",
+        "Li D",
+        "Yin Z",
+        "Zhu F",
+        "Shi W",
+        "Hou Z",
+        "Zhang Z"
+      ],
+      "auids": [],
+      "affiliations": [
+        "State Key Laboratory of Animal Biotech Breeding, College of Biological Sciences, China Agricultural University, Beijing 100193, China.",
+        "State Key Laboratory of Animal Biotech Breeding, College of Biological Sciences, China Agricultural University, Beijing 100193, China.",
+        "State Key Laboratory of Animal Biotech Breeding, College of Biological Sciences, China Agricultural University, Beijing 100193, China.",
+        "State Key Laboratory of Animal Biotech Breeding, College of Biological Sciences, China Agricultural University, Beijing 100193, China.",
+        "National Engineering Laboratory for Animal Breeding and Key Laboratory of Animal Genetics, Breeding and Reproduction, College of Animal Science and Technology, China Agricultural University, Beijing 100193, China.",
+        "National Engineering Laboratory for Animal Breeding and Key Laboratory of Animal Genetics, Breeding and Reproduction, College of Animal Science and Technology, China Agricultural University, Beijing 100193, China.",
+        "State Key Laboratory of Animal Biotech Breeding, College of Biological Sciences, China Agricultural University, Beijing 100193, China. Electronic address: shiwy@cau.edu.cn.",
+        "National Engineering Laboratory for Animal Breeding and Key Laboratory of Animal Genetics, Breeding and Reproduction, College of Animal Science and Technology, China Agricultural University, Beijing 100193, China. Electronic address: zchou@cau.edu.cn.",
+        "State Key Laboratory of Animal Biotech Breeding, College of Biological Sciences, China Agricultural University, Beijing 100193, China. Electronic address: zidingzhang@cau.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Jiajun",
+        "short_name": "Li J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Animal Biotech Breeding, College of Biological Sciences, China Agricultural University, Beijing 100193, China."
+        ]
+      },
+      {
+        "full_name": "Yuan, Mengdi",
+        "short_name": "Yuan M",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Animal Biotech Breeding, College of Biological Sciences, China Agricultural University, Beijing 100193, China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Linyang",
+        "short_name": "Jiang L",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Animal Biotech Breeding, College of Biological Sciences, China Agricultural University, Beijing 100193, China."
+        ]
+      },
+      {
+        "full_name": "Li, Dianke",
+        "short_name": "Li D",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Animal Biotech Breeding, College of Biological Sciences, China Agricultural University, Beijing 100193, China."
+        ]
+      },
+      {
+        "full_name": "Yin, Zhongtao",
+        "short_name": "Yin Z",
+        "identifiers": [],
+        "affiliations": [
+          "National Engineering Laboratory for Animal Breeding and Key Laboratory of Animal Genetics, Breeding and Reproduction, College of Animal Science and Technology, China Agricultural University, Beijing 100193, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Feng",
+        "short_name": "Zhu F",
+        "identifiers": [],
+        "affiliations": [
+          "National Engineering Laboratory for Animal Breeding and Key Laboratory of Animal Genetics, Breeding and Reproduction, College of Animal Science and Technology, China Agricultural University, Beijing 100193, China."
+        ]
+      },
+      {
+        "full_name": "Shi, Wenyu",
+        "short_name": "Shi W",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Animal Biotech Breeding, College of Biological Sciences, China Agricultural University, Beijing 100193, China. Electronic address: shiwy@cau.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Hou, Zhuocheng",
+        "short_name": "Hou Z",
+        "identifiers": [],
+        "affiliations": [
+          "National Engineering Laboratory for Animal Breeding and Key Laboratory of Animal Genetics, Breeding and Reproduction, College of Animal Science and Technology, China Agricultural University, Beijing 100193, China. Electronic address: zchou@cau.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Zhang, Ziding",
+        "short_name": "Zhang Z",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Animal Biotech Breeding, College of Biological Sciences, China Agricultural University, Beijing 100193, China. Electronic address: zidingzhang@cau.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of advanced research"
+    ],
+    "journal_abbrev": [
+      "J Adv Res"
+    ],
+    "pub_date": "2026 Sep 19",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/19 23:52",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42762846"
+    ],
+    "review": [
+      "42762846"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

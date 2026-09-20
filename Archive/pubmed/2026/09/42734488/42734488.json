@@ -1,0 +1,306 @@
+{
+  "identity": {
+    "pmid": "42734488",
+    "doi": "10.1002/advs.76675",
+    "title": "Closing the Empirical Loop: Autonomous AI Agents Conduct End-to-end Research With Human Participants."
+  },
+  "content": {
+    "abstract": "Artificial intelligence systems are transforming scientific discovery by accelerating specific research tasks, from protein structure prediction to materials design, yet remain confined to narrow domains requiring substantial human oversight. Exponential growth of scientific literature and increasing domain specialization constrain researchers' capacity to synthesize knowledge across disciplines and develop unifying theories, motivating exploration of general-purpose AI systems for science. Here we show that a domain-agnostic, agentic AI Scientist system can independently navigate the scientific workflow -from hypothesis generation through data collection to manuscript preparation. The system autonomously designed and executed three psychological studies on visual working memory, mental rotation, and imagery vividness, executed online data collection with 288 participants, developed analysis pipelines through 8h+ continuous coding sessions, and produced completed manuscripts. The results demonstrate the capability of AI scientific discovery pipelines to conduct research with theoretical reasoning and methodological rigor comparable to experienced researchers, though with limitations in conceptual nuance and theoretical interpretation. This is a step toward embodied AI that can test hypotheses through real-world experiments, accelerating discovery by autonomously exploring regions of scientific space that human cognitive and resource constraints might otherwise leave unexplored. It raises important questions about the nature of scientific understanding and attribution of scientific credit.",
+    "keywords": [
+      "AI scientist",
+      "artificial general science",
+      "artificial intelligence",
+      "autonomous knowledge generation",
+      "scientific method"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wehr, Gabrielle",
+        "Rideaux, Reuben",
+        "Fox, Amaya J",
+        "Lightfoot, David R",
+        "Tangen, Jason",
+        "Mattingley, Jason B",
+        "Ehrhardt, Shane E"
+      ],
+      "short_names": [
+        "Wehr G",
+        "Rideaux R",
+        "Fox AJ",
+        "Lightfoot DR",
+        "Tangen J",
+        "Mattingley JB",
+        "Ehrhardt SE"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-8416-005X",
+        "ORCID: 0000-0003-2319-0743",
+        "ORCID: 0000-0002-0649-2566",
+        "ORCID: 0000-0003-4944-3673"
+      ],
+      "affiliations": [
+        "Explore Science, Brisbane, Australia.",
+        "Explore Science, Brisbane, Australia.",
+        "School of Psychology, The University of Sydney, Sydney, Australia.",
+        "Queensland Brain Institute, The University of Queensland, St Lucia, Australia.",
+        "School of Psychology, The University of Queensland, St Lucia, Australia.",
+        "Explore Science, Brisbane, Australia.",
+        "School of Psychology, The University of Queensland, St Lucia, Australia.",
+        "Queensland Brain Institute, The University of Queensland, St Lucia, Australia.",
+        "School of Psychology, The University of Queensland, St Lucia, Australia.",
+        "Canadian Institute of Advanced Research (CIFAR), Toronto, Canada.",
+        "Explore Science, Brisbane, Australia."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wehr, Gabrielle",
+        "short_name": "Wehr G",
+        "identifiers": [],
+        "affiliations": [
+          "Explore Science, Brisbane, Australia."
+        ]
+      },
+      {
+        "full_name": "Rideaux, Reuben",
+        "short_name": "Rideaux R",
+        "identifiers": [
+          "0000-0001-8416-005X"
+        ],
+        "affiliations": [
+          "Explore Science, Brisbane, Australia.",
+          "School of Psychology, The University of Sydney, Sydney, Australia.",
+          "Queensland Brain Institute, The University of Queensland, St Lucia, Australia."
+        ]
+      },
+      {
+        "full_name": "Fox, Amaya J",
+        "short_name": "Fox AJ",
+        "identifiers": [
+          "0000-0003-2319-0743"
+        ],
+        "affiliations": [
+          "School of Psychology, The University of Queensland, St Lucia, Australia."
+        ]
+      },
+      {
+        "full_name": "Lightfoot, David R",
+        "short_name": "Lightfoot DR",
+        "identifiers": [],
+        "affiliations": [
+          "Explore Science, Brisbane, Australia."
+        ]
+      },
+      {
+        "full_name": "Tangen, Jason",
+        "short_name": "Tangen J",
+        "identifiers": [
+          "0000-0002-0649-2566"
+        ],
+        "affiliations": [
+          "School of Psychology, The University of Queensland, St Lucia, Australia."
+        ]
+      },
+      {
+        "full_name": "Mattingley, Jason B",
+        "short_name": "Mattingley JB",
+        "identifiers": [],
+        "affiliations": [
+          "Queensland Brain Institute, The University of Queensland, St Lucia, Australia.",
+          "School of Psychology, The University of Queensland, St Lucia, Australia.",
+          "Canadian Institute of Advanced Research (CIFAR), Toronto, Canada."
+        ]
+      },
+      {
+        "full_name": "Ehrhardt, Shane E",
+        "short_name": "Ehrhardt SE",
+        "identifiers": [
+          "0000-0003-4944-3673"
+        ],
+        "affiliations": [
+          "Explore Science, Brisbane, Australia."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Advanced science (Weinheim, Baden-Wurttemberg, Germany)"
+    ],
+    "journal_abbrev": [
+      "Adv Sci (Weinh)"
+    ],
+    "pub_date": "2026 Sep 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/14 11:40",
+    "fetched_at": "2026-09-20 07:27:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42734488",
+      "42475469",
+      "41175385",
+      "29262162",
+      "40689731",
+      "42327254",
+      "41882133",
+      "36321557",
+      "41887499",
+      "42656973",
+      "23912807",
+      "35875501",
+      "42077282",
+      "42444255",
+      "41891004",
+      "40845390",
+      "41705974",
+      "41783269",
+      "42160764",
+      "42289772",
+      "42194270",
+      "41326303",
+      "41510245",
+      "38565004",
+      "41865244",
+      "42440357",
+      "41099298",
+      "41532836",
+      "42156544",
+      "38718150",
+      "41735549",
+      "42207915",
+      "42475855",
+      "42109305",
+      "38084508",
+      "35736798",
+      "42211174",
+      "41755911",
+      "41091144",
+      "41768290",
+      "42133883",
+      "42427764",
+      "40800059",
+      "41534249",
+      "41437623",
+      "40639418",
+      "41911026",
+      "42245290",
+      "42069219",
+      "34145287",
+      "42238118",
+      "41544003",
+      "42412809",
+      "42054671",
+      "29980282",
+      "33229557",
+      "39211055",
+      "40939020",
+      "41292801",
+      "42340803",
+      "40705654",
+      "40671186",
+      "39169971",
+      "33981990",
+      "42428019",
+      "40113940",
+      "42211270",
+      "42575519",
+      "42488979",
+      "42118738",
+      "42304602",
+      "41450855",
+      "42180464",
+      "42721478",
+      "42620683",
+      "42656055",
+      "40393680",
+      "42009269",
+      "41825826",
+      "40852582",
+      "40344513",
+      "41687100",
+      "40945783",
+      "42691769",
+      "42466075",
+      "40341055",
+      "41886751",
+      "42424436",
+      "41912385",
+      "35943820",
+      "41744224",
+      "42374363",
+      "40812737",
+      "42298236",
+      "41641437",
+      "42736693",
+      "42156546",
+      "41348860",
+      "42042548",
+      "41011141"
+    ],
+    "review": [
+      "42734488",
+      "41175385",
+      "36321557",
+      "41887499",
+      "42656973",
+      "35875501",
+      "42444255",
+      "41705974",
+      "41783269",
+      "42160764",
+      "42289772",
+      "42194270",
+      "41532836",
+      "41735549",
+      "42475855",
+      "42109305",
+      "41755911",
+      "40800059",
+      "42245290",
+      "42069219",
+      "34145287",
+      "29980282",
+      "40671186",
+      "33981990",
+      "42575519",
+      "42488979",
+      "42118738",
+      "40393680",
+      "42009269",
+      "40852582",
+      "41886751",
+      "41912385",
+      "42298236",
+      "42042548",
+      "41011141"
+    ],
+    "pmc": [
+      "13573717"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42734488/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

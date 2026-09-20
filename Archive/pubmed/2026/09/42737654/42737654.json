@@ -1,0 +1,295 @@
+{
+  "identity": {
+    "pmid": "42737654",
+    "doi": "10.3390/ijms27177756",
+    "title": "Computational Repurposing of FDA-Approved Drugs as Candidate MMP2 Inhibitors with Putative MMP3 Cross-Activity."
+  },
+  "content": {
+    "abstract": "Idiopathic pulmonary fibrosis (IPF) is a progressive interstitial lung disease characterized by excessive extracellular matrix remodeling and limited therapeutic options. Matrix metalloproteinase-2 is involved in extracellular matrix degradation and tissue remodeling, making it a relevant target for antifibrotic drug discovery. In this study, an MMP2-focused ligand-based pharmacophore model was developed and was applied to screen a curated FDA-approved drug library, leading to the identification of 83 pharmacophore-matching compounds. These compounds were subsequently prioritized through molecular docking against the catalytic site of MMP2, and the five best candidates were further evaluated by molecular dynamics (MD) simulations. Because of the biological relevance of MMP3 in pulmonary fibrosis, these five selected compounds were also profiled against MMP3 as a secondary target. Among them, Regorafenib (S1178) and Capmatinib (S2788) showed the most favorable cross-target profiles and were further supported by MD analysis. From these findings, S1178 and S2788 were proposed as promising MMP2-prioritized compounds with potential MMP3 cross-activity, warranting further experimental validation as candidate antifibrotic MMP modulators.",
+    "keywords": [
+      "Idiopathic pulmonary fibrosis",
+      "Matrix metalloproteinase-2",
+      "Matrix metalloproteinase-3",
+      "Molecular Dynamics simulation",
+      "Pharmacophore Modeling",
+      "molecular docking"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "Molecular Docking Simulation",
+      "Molecular Dynamics Simulation",
+      "*Matrix Metalloproteinase Inhibitors/pharmacology/chemistry",
+      "*Matrix Metalloproteinase 2/chemistry/metabolism",
+      "*Matrix Metalloproteinase 3/chemistry/metabolism",
+      "*Drug Repositioning",
+      "Pharmacophore",
+      "United States Food and Drug Administration",
+      "Catalytic Domain",
+      "United States",
+      "Idiopathic Pulmonary Fibrosis/drug therapy"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zekri, Saad",
+        "Ait Lahcen, Nouhaila",
+        "Liman, Wissal",
+        "Bianchini, Francesca",
+        "Oubahmane, Mehdi",
+        "Hdoufane, Ismail",
+        "Cherqaoui, Driss"
+      ],
+      "short_names": [
+        "Zekri S",
+        "Ait Lahcen N",
+        "Liman W",
+        "Bianchini F",
+        "Oubahmane M",
+        "Hdoufane I",
+        "Cherqaoui D"
+      ],
+      "auids": [
+        "ORCID: 0009-0002-0629-4321",
+        "ORCID: 0000-0002-5839-4298",
+        "ORCID: 0000-0003-2465-0537",
+        "ORCID: 0000-0002-1435-5131"
+      ],
+      "affiliations": [
+        "Laboratory of Molecular Chemistry, Faculty of Sciences Semlalia, Cadi Ayyad University, UCA, B.P. 2390, Marrakech 40000, Morocco.",
+        "Laboratory of Molecular Chemistry, Faculty of Sciences Semlalia, Cadi Ayyad University, UCA, B.P. 2390, Marrakech 40000, Morocco.",
+        "Laboratory of Molecular Chemistry, Faculty of Sciences Semlalia, Cadi Ayyad University, UCA, B.P. 2390, Marrakech 40000, Morocco.",
+        "Department of Experimental and Clinical Biomedical Sciences \"Mario Serio\", Section of Experimental Pathology and Oncology, University of Florence, 50141 Florence, Italy.",
+        "Mohammed VI Polytechnic University (UM6P), Hay Moulay Rachid, Ben Guerir 43150, Morocco.",
+        "Laboratory of Molecular Chemistry, Faculty of Sciences Semlalia, Cadi Ayyad University, UCA, B.P. 2390, Marrakech 40000, Morocco.",
+        "Laboratory of Molecular Chemistry, Faculty of Sciences Semlalia, Cadi Ayyad University, UCA, B.P. 2390, Marrakech 40000, Morocco."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zekri, Saad",
+        "short_name": "Zekri S",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Molecular Chemistry, Faculty of Sciences Semlalia, Cadi Ayyad University, UCA, B.P. 2390, Marrakech 40000, Morocco."
+        ]
+      },
+      {
+        "full_name": "Ait Lahcen, Nouhaila",
+        "short_name": "Ait Lahcen N",
+        "identifiers": [
+          "0009-0002-0629-4321"
+        ],
+        "affiliations": [
+          "Laboratory of Molecular Chemistry, Faculty of Sciences Semlalia, Cadi Ayyad University, UCA, B.P. 2390, Marrakech 40000, Morocco."
+        ]
+      },
+      {
+        "full_name": "Liman, Wissal",
+        "short_name": "Liman W",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Molecular Chemistry, Faculty of Sciences Semlalia, Cadi Ayyad University, UCA, B.P. 2390, Marrakech 40000, Morocco."
+        ]
+      },
+      {
+        "full_name": "Bianchini, Francesca",
+        "short_name": "Bianchini F",
+        "identifiers": [
+          "0000-0002-5839-4298"
+        ],
+        "affiliations": [
+          "Department of Experimental and Clinical Biomedical Sciences \"Mario Serio\", Section of Experimental Pathology and Oncology, University of Florence, 50141 Florence, Italy."
+        ]
+      },
+      {
+        "full_name": "Oubahmane, Mehdi",
+        "short_name": "Oubahmane M",
+        "identifiers": [
+          "0000-0003-2465-0537"
+        ],
+        "affiliations": [
+          "Mohammed VI Polytechnic University (UM6P), Hay Moulay Rachid, Ben Guerir 43150, Morocco."
+        ]
+      },
+      {
+        "full_name": "Hdoufane, Ismail",
+        "short_name": "Hdoufane I",
+        "identifiers": [
+          "0000-0002-1435-5131"
+        ],
+        "affiliations": [
+          "Laboratory of Molecular Chemistry, Faculty of Sciences Semlalia, Cadi Ayyad University, UCA, B.P. 2390, Marrakech 40000, Morocco."
+        ]
+      },
+      {
+        "full_name": "Cherqaoui, Driss",
+        "short_name": "Cherqaoui D",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Molecular Chemistry, Faculty of Sciences Semlalia, Cadi Ayyad University, UCA, B.P. 2390, Marrakech 40000, Morocco."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of molecular sciences"
+    ],
+    "journal_abbrev": [
+      "Int J Mol Sci"
+    ],
+    "pub_date": "2026 Aug 29",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/15 05:36",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42737654",
+      "42617407",
+      "29475408",
+      "40763678",
+      "39639531",
+      "28623487",
+      "33167785",
+      "27452283",
+      "24756550",
+      "35687819",
+      "41580529",
+      "36047975",
+      "30079817",
+      "39899320",
+      "42511819",
+      "39637455",
+      "40126695",
+      "42133657",
+      "42511731",
+      "42561603",
+      "41037200",
+      "35684529",
+      "37160705",
+      "38400742",
+      "42197287",
+      "41701802",
+      "39931327",
+      "25925871",
+      "38123060",
+      "41604734",
+      "29423648",
+      "39703994",
+      "42543268",
+      "42589334",
+      "40825424",
+      "29380672",
+      "34311539",
+      "29394875",
+      "23121406",
+      "41671621",
+      "38771283",
+      "42085808",
+      "39595951",
+      "10900205",
+      "40135853",
+      "24473069",
+      "41472282",
+      "35773549",
+      "39838657",
+      "27250644",
+      "42737581",
+      "39233391",
+      "31786094",
+      "42629463",
+      "41343878",
+      "34405765",
+      "26121236",
+      "40373679",
+      "42572067",
+      "24449516",
+      "41086646",
+      "41179205",
+      "40847551",
+      "40087255",
+      "22094117",
+      "37066777",
+      "37811784",
+      "39476191",
+      "38403464",
+      "34607974",
+      "35457257",
+      "42738903",
+      "41376892",
+      "35163931",
+      "40429641",
+      "38497294",
+      "32571168",
+      "41978386",
+      "33986372",
+      "42210753",
+      "39729480",
+      "26956955",
+      "40733251",
+      "28299743",
+      "40518052",
+      "33151166",
+      "30938574",
+      "37715109",
+      "34315043",
+      "41905170",
+      "41920244",
+      "32472293",
+      "34634916",
+      "35728285",
+      "42429541",
+      "31172362",
+      "40120151",
+      "39708886",
+      "24028622",
+      "42112455"
+    ],
+    "review": [
+      "42737654",
+      "26121236",
+      "22094117",
+      "26956955"
+    ],
+    "pmc": [
+      "13565895"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=ijms27177756",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42737654/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3423",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

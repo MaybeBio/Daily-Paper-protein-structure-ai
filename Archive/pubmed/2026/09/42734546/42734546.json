@@ -1,0 +1,282 @@
+{
+  "identity": {
+    "pmid": "42734546",
+    "doi": "10.1021/acs.jcim.6c01562",
+    "title": "Mimotope-Guided Molecular Dynamics Enables Precise Functional Epitope Mapping."
+  },
+  "content": {
+    "abstract": "Mimotopes selected by phage display have been used for antibody epitope mapping for nearly four decades, but residue-level recovery of functional epitopes has remained unreliable. This is not a problem of algorithms but of assumptions: mimotopes recapitulate native epitope recognition through compensatory interaction networks that preserve binding energetics, without conserving sequence or surface geometry. Predictors trained on sequence similarity or static interface geometry therefore miss the residues that drive recognition. We present a physics-based workflow that refines antibody-bound mimotope conformations by microsecond-scale molecular dynamics and maps the resulting structures onto the cognate antigen using Folddisco. Across four antibody-antigen systems with crystallographically defined epitopes, the workflow reaches 60 to 100% precision in epitope localization and recovers 100% of mutagenesis- or structurally validated functional hotspots, compared with at most 25% for three widely used benchmarks (EpiSearch, ClusPro, SEPPA-mAb). For the clinically relevant ChiLob 7/4 system, it further identifies a minimal tetrapeptide (PWVP) sufficient for antibody recognition, validated by Western blot and immunoprecipitation. By grounding epitope prediction in experimentally selected binding information and energy-resolved conformational refinement, the workflow connects phage display to mechanistic structural insight.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Epitope Mapping/methods",
+      "*Molecular Dynamics Simulation",
+      "*Epitopes/chemistry/immunology",
+      "Protein Conformation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Sha, Zigan",
+        "Hu, Zheyao",
+        "Du, Wenjing",
+        "Marti, Jordi",
+        "Sundell, Gustav N",
+        "Guo, Shu-Juan",
+        "Zhao, Xiaodong",
+        "Tao, Sheng-Ce"
+      ],
+      "short_names": [
+        "Sha Z",
+        "Hu Z",
+        "Du W",
+        "Marti J",
+        "Sundell GN",
+        "Guo SJ",
+        "Zhao X",
+        "Tao SC"
+      ],
+      "auids": [
+        "ORCID: 0009-0008-6727-5400",
+        "ORCID: 0000-0003-2439-6241",
+        "ORCID: 0000-0002-3721-9634",
+        "ORCID: 0000-0002-1355-6070",
+        "ORCID: 0000-0002-9210-1823"
+      ],
+      "affiliations": [
+        "Shanghai Center for Systems Biomedicine, Key Laboratory of Systems Biomedicine (Ministry of Education), Shanghai Jiao Tong University, No. 800 Dongchuan Road, Minhang, Shanghai200240, China.",
+        "Shanghai Center for Systems Biomedicine, Key Laboratory of Systems Biomedicine (Ministry of Education), Shanghai Jiao Tong University, No. 800 Dongchuan Road, Minhang, Shanghai200240, China.",
+        "Shanghai Center for Systems Biomedicine, Key Laboratory of Systems Biomedicine (Ministry of Education), Shanghai Jiao Tong University, No. 800 Dongchuan Road, Minhang, Shanghai200240, China.",
+        "Department of Physics, Polytechnic University of Catalonia-Barcelona Tech, B4-B5 Northern Campus, Barcelona, Catalonia08034, Spain.",
+        "Shanghai Center for Systems Biomedicine, Key Laboratory of Systems Biomedicine (Ministry of Education), Shanghai Jiao Tong University, No. 800 Dongchuan Road, Minhang, Shanghai200240, China.",
+        "TongRen Hospital, Shanghai Jiao Tong University School of Medicine, No. 1111 Xianxia Road, Changning District, Shanghai200000, China.",
+        "Shanghai Center for Systems Biomedicine, Key Laboratory of Systems Biomedicine (Ministry of Education), Shanghai Jiao Tong University, No. 800 Dongchuan Road, Minhang, Shanghai200240, China.",
+        "Shanghai Center for Systems Biomedicine, Key Laboratory of Systems Biomedicine (Ministry of Education), Shanghai Jiao Tong University, No. 800 Dongchuan Road, Minhang, Shanghai200240, China.",
+        "Shanghai Center for Systems Biomedicine, Key Laboratory of Systems Biomedicine (Ministry of Education), Shanghai Jiao Tong University, No. 800 Dongchuan Road, Minhang, Shanghai200240, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Sha, Zigan",
+        "short_name": "Sha Z",
+        "identifiers": [
+          "0009-0008-6727-5400"
+        ],
+        "affiliations": [
+          "Shanghai Center for Systems Biomedicine, Key Laboratory of Systems Biomedicine (Ministry of Education), Shanghai Jiao Tong University, No. 800 Dongchuan Road, Minhang, Shanghai200240, China."
+        ]
+      },
+      {
+        "full_name": "Hu, Zheyao",
+        "short_name": "Hu Z",
+        "identifiers": [
+          "0000-0003-2439-6241"
+        ],
+        "affiliations": [
+          "Shanghai Center for Systems Biomedicine, Key Laboratory of Systems Biomedicine (Ministry of Education), Shanghai Jiao Tong University, No. 800 Dongchuan Road, Minhang, Shanghai200240, China."
+        ]
+      },
+      {
+        "full_name": "Du, Wenjing",
+        "short_name": "Du W",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Center for Systems Biomedicine, Key Laboratory of Systems Biomedicine (Ministry of Education), Shanghai Jiao Tong University, No. 800 Dongchuan Road, Minhang, Shanghai200240, China."
+        ]
+      },
+      {
+        "full_name": "Marti, Jordi",
+        "short_name": "Marti J",
+        "identifiers": [
+          "0000-0002-3721-9634"
+        ],
+        "affiliations": [
+          "Department of Physics, Polytechnic University of Catalonia-Barcelona Tech, B4-B5 Northern Campus, Barcelona, Catalonia08034, Spain."
+        ]
+      },
+      {
+        "full_name": "Sundell, Gustav N",
+        "short_name": "Sundell GN",
+        "identifiers": [
+          "0000-0002-1355-6070"
+        ],
+        "affiliations": [
+          "Shanghai Center for Systems Biomedicine, Key Laboratory of Systems Biomedicine (Ministry of Education), Shanghai Jiao Tong University, No. 800 Dongchuan Road, Minhang, Shanghai200240, China.",
+          "TongRen Hospital, Shanghai Jiao Tong University School of Medicine, No. 1111 Xianxia Road, Changning District, Shanghai200000, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Shu-Juan",
+        "short_name": "Guo SJ",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Center for Systems Biomedicine, Key Laboratory of Systems Biomedicine (Ministry of Education), Shanghai Jiao Tong University, No. 800 Dongchuan Road, Minhang, Shanghai200240, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Xiaodong",
+        "short_name": "Zhao X",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Center for Systems Biomedicine, Key Laboratory of Systems Biomedicine (Ministry of Education), Shanghai Jiao Tong University, No. 800 Dongchuan Road, Minhang, Shanghai200240, China."
+        ]
+      },
+      {
+        "full_name": "Tao, Sheng-Ce",
+        "short_name": "Tao SC",
+        "identifiers": [
+          "0000-0002-9210-1823"
+        ],
+        "affiliations": [
+          "Shanghai Center for Systems Biomedicine, Key Laboratory of Systems Biomedicine (Ministry of Education), Shanghai Jiao Tong University, No. 800 Dongchuan Road, Minhang, Shanghai200240, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of chemical information and modeling"
+    ],
+    "journal_abbrev": [
+      "J Chem Inf Model"
+    ],
+    "pub_date": "2026 Sep 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/14 11:40",
+    "fetched_at": "2026-09-20 07:27:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42734546",
+      "19087303",
+      "16434442",
+      "27238146",
+      "42201327",
+      "24589624",
+      "38463209",
+      "20441761",
+      "15504706",
+      "16564157",
+      "9798648",
+      "25520269",
+      "26339794",
+      "26715528",
+      "31778678",
+      "17516710",
+      "17038191",
+      "25484050",
+      "27659529",
+      "18760481",
+      "27003615",
+      "30539480",
+      "32796656",
+      "24854488",
+      "12855711",
+      "11757074",
+      "11707616",
+      "42606277",
+      "9328567",
+      "40593411",
+      "21609501",
+      "26804644",
+      "28933661",
+      "11053238",
+      "26296891",
+      "25284753",
+      "26424260",
+      "37216611",
+      "33793546",
+      "23006741",
+      "28933642",
+      "28827189",
+      "36791402",
+      "20140073",
+      "23270686",
+      "23396847",
+      "32719844",
+      "8552047",
+      "27341497",
+      "42400840",
+      "24759767",
+      "27300760",
+      "33448242",
+      "22123204",
+      "40593420",
+      "39408641",
+      "21067548",
+      "31695071",
+      "40593426",
+      "17944486",
+      "29714018",
+      "27748932",
+      "26238798",
+      "41690254",
+      "32848020",
+      "42129095",
+      "18242709",
+      "38423996",
+      "17151070",
+      "39840987",
+      "42725674",
+      "9531289",
+      "17145365",
+      "34260404",
+      "12678707",
+      "25606786",
+      "41712687",
+      "16930708",
+      "40593418",
+      "21989932",
+      "26889021",
+      "28765898",
+      "26370412",
+      "34206009",
+      "9819200",
+      "24515482",
+      "22392647",
+      "24365751",
+      "26963435",
+      "23138758",
+      "28266535",
+      "11275260",
+      "29714013",
+      "24726865",
+      "15577826",
+      "24184444",
+      "24530813",
+      "23281855",
+      "28581365",
+      "28193005"
+    ],
+    "review": [
+      "42734546",
+      "15504706",
+      "17516710",
+      "25484050",
+      "24854488",
+      "40593411"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/jcisd8/article-lookup/doi/10.1021/acs.jcim.6c01562",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

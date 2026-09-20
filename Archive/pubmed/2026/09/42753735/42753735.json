@@ -1,0 +1,298 @@
+{
+  "identity": {
+    "pmid": "42753735",
+    "doi": "10.1016/j.cell.2026.08.052",
+    "title": "Toward autonomous science with agentic artificial intelligence."
+  },
+  "content": {
+    "abstract": "Artificial intelligence (AI) in biomedicine has evolved from pattern-recognition for medical image analysis to generative models like AlphaFold that predict protein structures. Tools such as Elicit, GPT-Rosalind, and Claude Science now bridge prediction and reasoning through literature synthesis, domain-tuned models, and agentic workbenches. Three recent systems (Co-Scientist, Robin, and Biomni) demonstrated agentic AI capable of generating hypotheses, designing experiments, computational analysis, and refining reasoning through experimental feedback. This perspective traces the emergence of agentic scientific reasoning, discusses scaling laws and autonomous laboratories, and argues that AI's transformative potential is inseparable from challenges in hallucination, bias, irreproducibility, and dual use. Scientific progress will depend on responsible human-AI collaboration.",
+    "keywords": [
+      "Biomni",
+      "Co-Scientist",
+      "Robin",
+      "agentic artificial intelligence",
+      "autonomous science",
+      "drug repurposing",
+      "hypothesis generation",
+      "large language models",
+      "multi-agent systems",
+      "self-driving laboratories"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Guo, Lucie Y",
+        "Ting, Darren S J",
+        "Su, Xinyi",
+        "Aliper, Alex",
+        "Zhavoronkov, Alex",
+        "Ting, Daniel S W"
+      ],
+      "short_names": [
+        "Guo LY",
+        "Ting DSJ",
+        "Su X",
+        "Aliper A",
+        "Zhavoronkov A",
+        "Ting DSW"
+      ],
+      "auids": [],
+      "affiliations": [
+        "F. M. Kirby Center, Scheie Eye Institute, University of Pennsylvania Perelman School of Medicine, Philadelphia, PA, USA.",
+        "Academic Ophthalmology, Department of Inflammation and Ageing, School of Infection, Inflammation, and Immunology, College of Medicine and Health, University of Birmingham, Birmingham, UK; Birmingham and Midland Eye Centre, Sandwell and West Birmingham NHS Trust, Birmingham, UK; Singapore National Eye Center, Singapore Eye Research Institute, Singapore, Singapore; Duke-NUS Medical School, National University Singapore, Singapore, Singapore.",
+        "Singapore National Eye Center, Singapore Eye Research Institute, Singapore, Singapore; Institute of Molecular Cell Biology, Agency for Science, Technology and Research (A *STAR), Singapore, Singapore; Department of Ophthalmology and Centre for Innovation and Precision Eye Health, Yong Loo Lin School of Medicine, National University Hospital, Singapore, Singapore.",
+        "Insilico Medicine, International Renewable Energy Agency HQ, Masdar City, Abu Dhabi, UAE.",
+        "Insilico Medicine, International Renewable Energy Agency HQ, Masdar City, Abu Dhabi, UAE.",
+        "Singapore National Eye Center, Singapore Eye Research Institute, Singapore, Singapore; Duke-NUS Medical School, National University Singapore, Singapore, Singapore; Byers Eye Institute, Stanford University, Palo Alto, CA, USA. Electronic address: daniel.ting45@gmail.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Guo, Lucie Y",
+        "short_name": "Guo LY",
+        "identifiers": [],
+        "affiliations": [
+          "F. M. Kirby Center, Scheie Eye Institute, University of Pennsylvania Perelman School of Medicine, Philadelphia, PA, USA."
+        ]
+      },
+      {
+        "full_name": "Ting, Darren S J",
+        "short_name": "Ting DSJ",
+        "identifiers": [],
+        "affiliations": [
+          "Academic Ophthalmology, Department of Inflammation and Ageing, School of Infection, Inflammation, and Immunology, College of Medicine and Health, University of Birmingham, Birmingham, UK; Birmingham and Midland Eye Centre, Sandwell and West Birmingham NHS Trust, Birmingham, UK; Singapore National Eye Center, Singapore Eye Research Institute, Singapore, Singapore; Duke-NUS Medical School, National University Singapore, Singapore, Singapore."
+        ]
+      },
+      {
+        "full_name": "Su, Xinyi",
+        "short_name": "Su X",
+        "identifiers": [],
+        "affiliations": [
+          "Singapore National Eye Center, Singapore Eye Research Institute, Singapore, Singapore; Institute of Molecular Cell Biology, Agency for Science, Technology and Research (A∗STAR), Singapore, Singapore; Department of Ophthalmology and Centre for Innovation and Precision Eye Health, Yong Loo Lin School of Medicine, National University Hospital, Singapore, Singapore."
+        ]
+      },
+      {
+        "full_name": "Aliper, Alex",
+        "short_name": "Aliper A",
+        "identifiers": [],
+        "affiliations": [
+          "Insilico Medicine, International Renewable Energy Agency HQ, Masdar City, Abu Dhabi, UAE."
+        ]
+      },
+      {
+        "full_name": "Zhavoronkov, Alex",
+        "short_name": "Zhavoronkov A",
+        "identifiers": [],
+        "affiliations": [
+          "Insilico Medicine, International Renewable Energy Agency HQ, Masdar City, Abu Dhabi, UAE."
+        ]
+      },
+      {
+        "full_name": "Ting, Daniel S W",
+        "short_name": "Ting DSW",
+        "identifiers": [],
+        "affiliations": [
+          "Singapore National Eye Center, Singapore Eye Research Institute, Singapore, Singapore; Duke-NUS Medical School, National University Singapore, Singapore, Singapore; Byers Eye Institute, Stanford University, Palo Alto, CA, USA. Electronic address: daniel.ting45@gmail.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Cell"
+    ],
+    "journal_abbrev": [
+      "Cell"
+    ],
+    "pub_date": "2026 Sep 17",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/17 23:34",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42753735",
+      "41532836",
+      "42582871",
+      "41175385",
+      "41887499",
+      "42656973",
+      "41602311",
+      "42444255",
+      "42160738",
+      "42411463",
+      "42327254",
+      "40951330",
+      "42688813",
+      "42104391",
+      "42475469",
+      "41653451",
+      "42194270",
+      "42734488",
+      "42077282",
+      "41629669",
+      "41735549",
+      "41883029",
+      "41454792",
+      "42691769",
+      "42156544",
+      "40642660",
+      "42384743",
+      "41356761",
+      "41911379",
+      "41579609",
+      "42574942",
+      "42424436",
+      "42211174",
+      "42475855",
+      "42617946",
+      "42289772",
+      "42368619",
+      "41891004",
+      "42440357",
+      "41744224",
+      "40852582",
+      "41463600",
+      "42551551",
+      "41393341",
+      "42592494",
+      "41016012",
+      "39463961",
+      "42369004",
+      "42555501",
+      "40501924",
+      "40945783",
+      "42523383",
+      "41490410",
+      "42160764",
+      "42746192",
+      "41766945",
+      "41446897",
+      "41548711",
+      "40689731",
+      "41323158",
+      "41432042",
+      "31022744",
+      "42059090",
+      "42584105",
+      "40627827",
+      "42402329",
+      "42665811",
+      "41154856",
+      "40671186",
+      "42412521",
+      "42296483",
+      "42042548",
+      "42130876",
+      "40738974",
+      "40782556",
+      "41838807",
+      "41950628",
+      "42666342",
+      "41911537",
+      "42048905",
+      "40705666",
+      "42364829",
+      "42487578",
+      "42252992",
+      "41886751",
+      "41699048",
+      "40711807",
+      "42392589",
+      "41685258",
+      "40812737",
+      "42144926",
+      "42009269",
+      "40705654",
+      "41501521",
+      "42428019",
+      "42088811",
+      "41804871",
+      "41051729",
+      "40800059",
+      "41107409"
+    ],
+    "review": [
+      "42753735",
+      "41532836",
+      "42582871",
+      "41175385",
+      "41887499",
+      "42656973",
+      "42444255",
+      "42160738",
+      "40951330",
+      "42688813",
+      "42194270",
+      "41629669",
+      "41735549",
+      "41883029",
+      "41454792",
+      "40642660",
+      "42384743",
+      "41356761",
+      "42574942",
+      "42475855",
+      "42617946",
+      "42289772",
+      "42368619",
+      "40852582",
+      "41463600",
+      "42551551",
+      "41016012",
+      "41490410",
+      "42160764",
+      "42746192",
+      "41548711",
+      "41323158",
+      "41432042",
+      "42402329",
+      "42665811",
+      "41154856",
+      "40671186",
+      "42296483",
+      "42042548",
+      "42130876",
+      "40782556",
+      "41838807",
+      "41950628",
+      "41911537",
+      "42048905",
+      "42364829",
+      "42487578",
+      "41886751",
+      "41699048",
+      "40711807",
+      "42009269",
+      "42088811",
+      "41804871",
+      "41051729"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0092-8674(26)01063-9",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

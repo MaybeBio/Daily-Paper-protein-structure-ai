@@ -1,0 +1,250 @@
+{
+  "identity": {
+    "pmid": "42734499",
+    "doi": "10.1021/acs.jcim.6c01772",
+    "title": "Ser715 Phosphorylation Induces beta-Hairpin Unfolding and Destabilization of FOXM1 Autoinhibition."
+  },
+  "content": {
+    "abstract": "FOXM1 is a cell proliferation-driving transcription factor activated by phosphorylation-induced conformational changes. In its inactive state, an intramolecular beta-hairpin within the transactivation domain (TAD) binds the N-terminal repressor domain (NRD), forming a composite beta-sheet that locks the protein in an autoinhibited conformation. Despite the known importance of this regulatory switch, the molecular events that unlock FOXM1 remain poorly characterized. Here, we performed 5 mus all-atom molecular dynamics simulations of human FOXM1b NRD-TAD complexes in both unphosphorylated and tetra-phosphorylated states, modeling four experimentally validated regulatory phosphosites. Our results showed that phosphorylation induces local unfolding of the beta-hairpin beginning at Ser715, located at the hairpin turn, and propagates to global disruption of the NRD interface through hydrogen bond loss, salt bridge rupture, and secondary structure collapse. In contrast, the unphosphorylated complex maintains stable hairpin geometry and interdomain contacts. Additional replicate tetra-phosphorylated simulations and a monophosphorylated Ser715 simulation reproduced the beta-hairpin unfolding event, supporting both reproducibility and the sufficiency of Ser715 phosphorylation in initiating this transition. Per-residue MM-PBSA energy decomposition further reveals that phosphorylation redistributes interdomain interaction energetics, with Ser715 emerging as the dominant locus of energetic perturbation despite the presence of multiple phosphosites. Together, these findings support a phosphorylation-triggered order-to-disorder transition that relieves FOXM1 autoinhibition and highlight Ser715 as a key structural and energetic switch. Our study provides a dynamic molecular framework for targeting FOXM1 activation via its regulatory fold.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Forkhead Box Protein M1/chemistry/metabolism/antagonists & inhibitors",
+      "Phosphorylation",
+      "Molecular Dynamics Simulation",
+      "Humans",
+      "*Protein Unfolding",
+      "*Serine/metabolism/chemistry",
+      "Protein Stability",
+      "Protein Domains"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "AlRawashdeh, Sara",
+        "Obidat, Raghd",
+        "Del Moral-Morales, Aylin",
+        "Medina-Franco, Jose L",
+        "Velazquez-Martinez, Carlos A"
+      ],
+      "short_names": [
+        "AlRawashdeh S",
+        "Obidat R",
+        "Del Moral-Morales A",
+        "Medina-Franco JL",
+        "Velazquez-Martinez CA"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-1347-5251",
+        "ORCID: 0000-0003-4940-1107",
+        "ORCID: 0000-0003-4535-1835"
+      ],
+      "affiliations": [
+        "Faculty of Pharmacy and Pharmaceutical Sciences, University of Alberta, EdmontonAB T6G 2E1, Canada.",
+        "Faculty of Pharmacy and Pharmaceutical Sciences, University of Alberta, EdmontonAB T6G 2E1, Canada.",
+        "DIFACQUIM Research Group, School of Chemistry, Department of Pharmacy, Universidad Nacional Autonoma de Mexico, Avenida Universidad 3000, Mexico CityC.P. 04510, Mexico.",
+        "Departamento de Ciencias Naturales, Universidad Autonoma Metropolitana-Cuajimalpa (UAM-C), Mexico CityC.P. 05348, Mexico.",
+        "DIFACQUIM Research Group, School of Chemistry, Department of Pharmacy, Universidad Nacional Autonoma de Mexico, Avenida Universidad 3000, Mexico CityC.P. 04510, Mexico.",
+        "Faculty of Pharmacy and Pharmaceutical Sciences, University of Alberta, EdmontonAB T6G 2E1, Canada."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "AlRawashdeh, Sara",
+        "short_name": "AlRawashdeh S",
+        "identifiers": [
+          "0000-0003-1347-5251"
+        ],
+        "affiliations": [
+          "Faculty of Pharmacy and Pharmaceutical Sciences, University of Alberta, EdmontonAB T6G 2E1, Canada."
+        ]
+      },
+      {
+        "full_name": "Obidat, Raghd",
+        "short_name": "Obidat R",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Pharmacy and Pharmaceutical Sciences, University of Alberta, EdmontonAB T6G 2E1, Canada."
+        ]
+      },
+      {
+        "full_name": "Del Moral-Morales, Aylin",
+        "short_name": "Del Moral-Morales A",
+        "identifiers": [],
+        "affiliations": [
+          "DIFACQUIM Research Group, School of Chemistry, Department of Pharmacy, Universidad Nacional Autónoma de México, Avenida Universidad 3000, Mexico CityC.P. 04510, Mexico.",
+          "Departamento de Ciencias Naturales, Universidad Autónoma Metropolitana-Cuajimalpa (UAM-C), Mexico CityC.P. 05348, Mexico."
+        ]
+      },
+      {
+        "full_name": "Medina-Franco, José L",
+        "short_name": "Medina-Franco JL",
+        "identifiers": [
+          "0000-0003-4940-1107"
+        ],
+        "affiliations": [
+          "DIFACQUIM Research Group, School of Chemistry, Department of Pharmacy, Universidad Nacional Autónoma de México, Avenida Universidad 3000, Mexico CityC.P. 04510, Mexico."
+        ]
+      },
+      {
+        "full_name": "Velázquez-Martínez, Carlos A",
+        "short_name": "Velázquez-Martínez CA",
+        "identifiers": [
+          "0000-0003-4535-1835"
+        ],
+        "affiliations": [
+          "Faculty of Pharmacy and Pharmaceutical Sciences, University of Alberta, EdmontonAB T6G 2E1, Canada."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of chemical information and modeling"
+    ],
+    "journal_abbrev": [
+      "J Chem Inf Model"
+    ],
+    "pub_date": "2026 Sep 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/14 11:40",
+    "fetched_at": "2026-09-20 07:27:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42734499",
+      "31134895",
+      "33321112",
+      "19737929",
+      "42475469",
+      "12606549",
+      "24083777",
+      "40056739",
+      "39535028",
+      "38756075",
+      "21813648",
+      "15764655",
+      "41889283",
+      "33019581",
+      "18285455",
+      "29129140",
+      "19937657",
+      "24897620",
+      "28154085",
+      "21843644",
+      "31654840",
+      "41043722",
+      "27701768",
+      "29414039",
+      "38305824",
+      "32530065",
+      "23912807",
+      "28387346",
+      "39400465",
+      "25533473",
+      "11606266",
+      "42070099",
+      "27923917",
+      "12488000",
+      "29196265",
+      "29279008",
+      "22947942",
+      "7650741",
+      "39982680",
+      "23794524",
+      "40101966",
+      "37665626",
+      "30138833",
+      "31322278",
+      "42501673",
+      "19160488",
+      "15024056",
+      "10512702",
+      "22056509",
+      "20713002",
+      "27542221",
+      "28427457",
+      "32880430",
+      "15544812",
+      "20053575",
+      "22191904",
+      "16761278",
+      "20701388",
+      "35656815",
+      "39814884",
+      "20847049",
+      "10686106",
+      "26038232",
+      "28426203",
+      "24352614",
+      "31810657",
+      "29930333",
+      "41432345",
+      "16489760",
+      "26912724",
+      "22113644",
+      "40671268",
+      "23175611",
+      "42128042",
+      "36591705",
+      "30378114",
+      "41966743",
+      "27452402",
+      "28401599",
+      "42622275",
+      "37905972",
+      "24611769",
+      "28705076",
+      "30609136",
+      "38733339",
+      "20641681",
+      "31122263",
+      "31248328",
+      "37160693",
+      "34108479",
+      "36528911",
+      "31241933",
+      "16494500",
+      "41837330",
+      "39318080",
+      "27485684",
+      "31244930",
+      "27016043",
+      "42462825",
+      "33170884"
+    ],
+    "review": [
+      "42734499",
+      "40671268"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1242",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/jcisd8/article-lookup/doi/10.1021/acs.jcim.6c01772",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

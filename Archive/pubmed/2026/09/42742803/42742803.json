@@ -1,0 +1,217 @@
+{
+  "identity": {
+    "pmid": "42742803",
+    "doi": "10.1007/s00894-026-06959-2",
+    "title": "Deciphering SHP-2 conformational switching via elastic network models and transfer entropy analysis."
+  },
+  "content": {
+    "abstract": "CONTEXT: Src homology 2 domain-containing protein tyrosine phosphatase-2 (SHP-2), a non-receptor protein tyrosine phosphatase encoded by PTPN11, functions as a central regulator of the Ras-MAPK, JAK-STAT, and PI3K-AKT signaling pathways. Its gain-of-function mutations, such as E76K, drive aberrant activation in multiple cancers, making it an attractive therapeutic target. While molecular dynamics simulations have provided atomic-level insights into SHP-2 conformational dynamics, they are computationally prohibitive for systematically characterizing large-scale domain rearrangements and allosteric communication networks. Here, we employed an equal-weighted multi-parameter Gaussian network model (ewmGNM) to investigate the two lowest-frequency modes governing the functional dynamics of SHP-2 in three key systems: the wild-type closed (autoinhibited) conformation, the oncogenic E76K mutant in its open (active) conformation, and its complex with the allosteric inhibitor SHP099. By focusing on low-frequency modes, we computed residue fluctuations, dynamic cross-correlations, and transfer entropy to map directional information flow and allosteric communication landscapes. Our results demonstrate that the E76K mutation globally increases protein flexibility and disrupts inter-domain coupling, particularly at the N-SH2/PTP interface, whereas SHP099 binding largely restores the closed state dynamics but retains mutation-induced residual flexibility. Transfer entropy analysis reveals a conformation-dependent reorganization of information flow, with the open state exhibiting that the N-SH2 domain possibly acts as a new entropy source, tentatively suggesting its potential as a novel allosteric site. These findings provide a mechanistic understanding of SHP-2 conformational regulation and offer a theoretical basis for the design of allosteric inhibitors targeting this open state site. METHODS: Protein crystal structures were downloaded from the Protein Data Bank. The ewmGNM and the conventional GNM were implemented using custom scripts written in MATLAB R2024b. Protein dynamics data were mapped using custom Python scripts in PyMOL.",
+    "keywords": [
+      "Conformational switch",
+      "Elastic network model",
+      "SHP-2",
+      "SHP099",
+      "Transfer entropy"
+    ],
+    "mesh_terms": [
+      "*Protein Tyrosine Phosphatase, Non-Receptor Type 11/chemistry/genetics/antagonists & inhibitors/metabolism",
+      "*Molecular Dynamics Simulation",
+      "Entropy",
+      "Protein Conformation",
+      "Humans",
+      "Pyrimidines/chemistry/pharmacology",
+      "Piperidines/chemistry/pharmacology",
+      "Mutation",
+      "Allosteric Regulation",
+      "Protein Binding",
+      "Allosteric Site"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Si, Qinchen",
+        "Wu, Zhixiang"
+      ],
+      "short_names": [
+        "Si Q",
+        "Wu Z"
+      ],
+      "auids": [],
+      "affiliations": [
+        "College of Biological and Chemical Engineering, Qilu Institute of Technology, Jinan, 250200, China. 15615269012@163.com.",
+        "Innovative Institute of Chinese Medicine and Pharmacy, Chengdu University of Traditional Chinese Medicine, Chengdu, 611137, China.",
+        "Institute of Herbgenomics, Chengdu University of Traditional Chinese Medicine, Chengdu, 611137, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Si, Qinchen",
+        "short_name": "Si Q",
+        "identifiers": [],
+        "affiliations": [
+          "College of Biological and Chemical Engineering, Qilu Institute of Technology, Jinan, 250200, China. 15615269012@163.com."
+        ]
+      },
+      {
+        "full_name": "Wu, Zhixiang",
+        "short_name": "Wu Z",
+        "identifiers": [],
+        "affiliations": [
+          "Innovative Institute of Chinese Medicine and Pharmacy, Chengdu University of Traditional Chinese Medicine, Chengdu, 611137, China.",
+          "Institute of Herbgenomics, Chengdu University of Traditional Chinese Medicine, Chengdu, 611137, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of molecular modeling"
+    ],
+    "journal_abbrev": [
+      "J Mol Model"
+    ],
+    "pub_date": "2026 Sep 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/15 18:07",
+    "fetched_at": "2026-09-20 07:26:27"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42742803",
+      "40432314",
+      "33392964",
+      "30375388",
+      "39558779",
+      "27362227",
+      "30375376",
+      "39795072",
+      "21365683",
+      "33722610",
+      "34900129",
+      "40920905",
+      "31339650",
+      "37621251",
+      "41225768",
+      "12542415",
+      "17378938",
+      "36806475",
+      "38892388",
+      "33116231",
+      "29494926",
+      "33888588",
+      "40064416",
+      "31953320",
+      "36638102",
+      "22711529",
+      "27347692",
+      "42426605",
+      "40617464",
+      "38095360",
+      "40230273",
+      "32395997",
+      "29304282",
+      "38807000",
+      "24935154",
+      "40671268",
+      "28426203",
+      "28241380",
+      "33448856",
+      "19622105",
+      "39067422",
+      "21465528",
+      "31043123",
+      "14559821",
+      "33929855",
+      "23774838",
+      "24586263",
+      "41843963",
+      "41658103",
+      "41435833",
+      "41689234",
+      "36073904",
+      "9551546",
+      "37896786",
+      "30129165",
+      "33777680",
+      "26619280",
+      "25828055",
+      "29155585",
+      "16371368",
+      "41610434",
+      "25672415",
+      "39982680",
+      "30949773",
+      "42475469",
+      "39975035",
+      "27861609",
+      "17027227",
+      "37290391",
+      "41528873",
+      "41456265",
+      "40504558",
+      "40650000",
+      "11593409",
+      "38732174",
+      "39675702",
+      "25427151",
+      "40369628",
+      "9287352",
+      "27797456",
+      "12011040",
+      "41867803",
+      "9565634",
+      "35563185",
+      "10409724",
+      "41213266",
+      "41608989",
+      "34060425",
+      "35644497",
+      "33226337",
+      "34338914",
+      "38129686",
+      "38063068",
+      "20698672",
+      "11342028",
+      "42253221",
+      "33338846",
+      "40565298",
+      "35163572",
+      "25519989"
+    ],
+    "review": [
+      "42742803",
+      "40671268",
+      "19622105"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://dx.doi.org/10.1007/s00894-026-06959-2",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1556",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

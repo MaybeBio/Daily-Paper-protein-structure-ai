@@ -1,0 +1,221 @@
+{
+  "identity": {
+    "pmid": "42734519",
+    "doi": "10.1021/acs.jcim.6c02094",
+    "title": "Biasing Conformational Sampling in AlphaFold 3 and Boltz-2 via Pair Representation Scaling."
+  },
+  "content": {
+    "abstract": "Deep learning has transformed protein structure prediction, yet most systems return a single dominant conformation with little control over the alternative functional states. We introduce pair representation scaling, an inference-time method that biases conformational sampling in diffusion-based structure predictors by multiplying the latent pair representation by a single scalar before the Pairformer trunk, without retraining, an auxiliary model, or a second forward pass. On 86 two-state targets spanning domain motions and membrane transporters, scaling broadens the conformational ensembles of both AlphaFold 3 and Boltz-2 and recovers alternative states that default inference misses, most strongly in AlphaFold 3, where the gains extend even to targets deposited after the training cutoff. It approaches the alternative-state recovery of alignment-based sampling methods, and the benefit persists even without a multiple-sequence alignment. The predicted distance distributions show that scaling shifts the encoded two-state distribution toward the experimentally observed alternative state, a directed modulation rather than an arbitrary perturbation. Pair representation scaling is an interpretable, low-cost handle for the conformational ensembles of deep-learning structure predictors.",
+    "keywords": [],
+    "mesh_terms": [
+      "Protein Conformation",
+      "Models, Molecular",
+      "*Deep Learning",
+      "*Proteins/chemistry"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Suzuki, Shosuke",
+        "Amagasa, Toshiyuki"
+      ],
+      "short_names": [
+        "Suzuki S",
+        "Amagasa T"
+      ],
+      "auids": [
+        "ORCID: 0009-0001-3354-195X"
+      ],
+      "affiliations": [
+        "Graduate School of Science and Technology, University of Tsukuba, Tsukuba305-8573, Japan.",
+        "Center for Computational Sciences, University of Tsukuba, Tsukuba305-8577, Japan."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Suzuki, Shosuke",
+        "short_name": "Suzuki S",
+        "identifiers": [
+          "0009-0001-3354-195X"
+        ],
+        "affiliations": [
+          "Graduate School of Science and Technology, University of Tsukuba, Tsukuba305-8573, Japan."
+        ]
+      },
+      {
+        "full_name": "Amagasa, Toshiyuki",
+        "short_name": "Amagasa T",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Computational Sciences, University of Tsukuba, Tsukuba305-8577, Japan."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of chemical information and modeling"
+    ],
+    "journal_abbrev": [
+      "J Chem Inf Model"
+    ],
+    "pub_date": "2026 Sep 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/14 11:40",
+    "fetched_at": "2026-09-20 07:27:01"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42734519",
+      "40325375",
+      "41954434",
+      "41147497",
+      "39337567",
+      "42096314",
+      "41014267",
+      "42581579",
+      "41472324",
+      "38190097",
+      "39163334",
+      "38865109",
+      "39684679",
+      "41310253",
+      "42465357",
+      "38798650",
+      "38564295",
+      "37392556",
+      "39984300",
+      "41959328",
+      "37872703",
+      "34291486",
+      "35238773",
+      "41411077",
+      "42149955",
+      "38958015",
+      "40950168",
+      "39756261",
+      "40233800",
+      "36472885",
+      "31471916",
+      "39983409",
+      "42475469",
+      "42711316",
+      "42076870",
+      "41614412",
+      "19224393",
+      "42734525",
+      "41924827",
+      "39952928",
+      "38781245",
+      "42223122",
+      "34599769",
+      "41432299",
+      "35073170",
+      "38979147",
+      "41178755",
+      "21639141",
+      "35976160",
+      "41326937",
+      "39522439",
+      "19478996",
+      "42412831",
+      "40961942",
+      "30985027",
+      "37485822",
+      "40463224",
+      "39125995",
+      "42691505",
+      "34331351",
+      "41636272",
+      "42078495",
+      "41105726",
+      "41863324",
+      "40663537",
+      "37920879",
+      "42268730",
+      "22574904",
+      "40663654",
+      "40658102",
+      "42713223",
+      "27259540",
+      "40062613",
+      "34445537",
+      "38978607",
+      "41932144",
+      "37279354",
+      "41548135",
+      "42461227",
+      "31365149",
+      "38718835",
+      "40034137",
+      "38603560",
+      "31942072",
+      "26616065",
+      "39484820",
+      "40452318",
+      "40823963",
+      "23912807",
+      "42653156",
+      "41831109",
+      "31399549",
+      "39181864",
+      "24851673",
+      "34382712",
+      "42463482",
+      "35420129",
+      "39914050",
+      "38148272",
+      "41644540"
+    ],
+    "review": [
+      "42734519",
+      "37392556",
+      "42149955",
+      "39756261",
+      "40233800",
+      "39983409",
+      "42734525",
+      "41924827",
+      "35976160",
+      "41326937",
+      "39522439",
+      "39125995",
+      "40663654",
+      "41932144",
+      "38603560",
+      "42653156"
+    ],
+    "pmc": [
+      "13580555"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42734519/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pubs.acs.org/jcisd8/article-lookup/doi/10.1021/acs.jcim.6c02094",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}
