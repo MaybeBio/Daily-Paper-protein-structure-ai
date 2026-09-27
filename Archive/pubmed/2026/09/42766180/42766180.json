@@ -1,0 +1,231 @@
+{
+  "identity": {
+    "pmid": "42766180",
+    "doi": "10.1007/s11274-026-05276-3",
+    "title": "Structural analysis of Sphingobium yanoikuyae P4 carboxylesterase reveals conformational and catalytic determinants for PET biodegradation."
+  },
+  "content": {
+    "abstract": "The accumulation of poorly biodegradable polyethylene terephthalate (PET) in the environment has become an emerging ecological and health problem, with a strong need to develop environmentally friendly, biobased degradation methods. This in silico study demonstrates the structural and mechanistic characterization of a carboxylesterase from the phthalate-degrading Sphingobium yanoikuyae P4 for its potential to catalyze the hydrolysis of PET. Sequence analysis of the amino acid residues revealed the conserved alpha/beta-hydrolase fold and the sequence motifs GXSXG and GGX, typical of PET-active enzymes, with evolutionary conservation of the active-site residues. Structural similarity to known PET hydrolases, such as a carboxylesterase from Thermobifida fusca and lipase from Streptomyces exfoliatus, suggested the conservation of the catalytic scaffold. The defined PET backbone oligomer and the hydrolysis intermediates BHET and MHET docked at the same catalytic site with the scissile ester in an ideal conformation for the nucleophilic attack of the Ser215-His418-Glu332 catalytic triad and also stabilized by the Gly217 oxyanion hole. Further, the molecular dynamics simulation for 500 ns supported the stability of the catalytic core of the enzyme-substrate complex, and MM/PBSA revealed a binding free energy of -14.03 kcal/mol, which was strongly affected by van der Waals interactions. Free-energy landscape and principal-component analyses found a flexible, low-energy dominant state in which the loop is mobile, and DFT single-point calculations showed that the catalytic center is electronically well-defined and preorganized. Collectively, these analyses indicate that S. yanoikuyae P4 carboxylesterase possesses the structural and mechanistic prerequisites for PET hydrolysis, providing a candidate scaffold for further experimental and protein-engineering studies.",
+    "keywords": [
+      "Biodegradation",
+      "Carboxylesterase",
+      "Lipase",
+      "Molecular docking",
+      "Molecular dynamics",
+      "Polyethylene terephthalate"
+    ],
+    "mesh_terms": [
+      "*Sphingomonadaceae/enzymology/genetics",
+      "*Carboxylesterase/chemistry/metabolism/genetics",
+      "Catalytic Domain",
+      "Molecular Dynamics Simulation",
+      "*Polyethylene Terephthalates/metabolism/chemistry",
+      "Biodegradation, Environmental",
+      "Hydrolysis",
+      "Amino Acid Sequence",
+      "Molecular Docking Simulation",
+      "Protein Conformation",
+      "Substrate Specificity"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Bhatt, Sunidhi",
+        "Akhter, Yusuf",
+        "Chatterjee, Subhankar"
+      ],
+      "short_names": [
+        "Bhatt S",
+        "Akhter Y",
+        "Chatterjee S"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-9564-9790"
+      ],
+      "affiliations": [
+        "Department of Environmental Sciences, Central University of Himachal Pradesh, Academic Block- Shahpur, Distt-Kangra, 176206, Himachal Pradesh, India.",
+        "Department of Biotechnology, Babasaheb Bhimrao Ambedkar University, Vidya Vihar, Raebareli Road, Lucknow, 226025, India. dr.yusuf@bbau.ac.in.",
+        "Bioremediation and Metabolomics Research Group, Department of Ecology & Environmental Sciences, Pondicherry University, R.V. Nagar, Kalapet, Puducherry, 605014, India. schatt.pondiuni@gmail.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Bhatt, Sunidhi",
+        "short_name": "Bhatt S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Environmental Sciences, Central University of Himachal Pradesh, Academic Block- Shahpur, Distt-Kangra, 176206, Himachal Pradesh, India."
+        ]
+      },
+      {
+        "full_name": "Akhter, Yusuf",
+        "short_name": "Akhter Y",
+        "identifiers": [
+          "0000-0001-9564-9790"
+        ],
+        "affiliations": [
+          "Department of Biotechnology, Babasaheb Bhimrao Ambedkar University, Vidya Vihar, Raebareli Road, Lucknow, 226025, India. dr.yusuf@bbau.ac.in."
+        ]
+      },
+      {
+        "full_name": "Chatterjee, Subhankar",
+        "short_name": "Chatterjee S",
+        "identifiers": [],
+        "affiliations": [
+          "Bioremediation and Metabolomics Research Group, Department of Ecology & Environmental Sciences, Pondicherry University, R.V. Nagar, Kalapet, Puducherry, 605014, India. schatt.pondiuni@gmail.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "World journal of microbiology & biotechnology"
+    ],
+    "journal_abbrev": [
+      "World J Microbiol Biotechnol"
+    ],
+    "pub_date": "2026 Sep 21",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/21 17:47",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42766180",
+      "30395899",
+      "39187447",
+      "41074743",
+      "39423573",
+      "39609936",
+      "27214855",
+      "41898684",
+      "39865529",
+      "29590588",
+      "42214808",
+      "29374183",
+      "25492421",
+      "41317772",
+      "20467738",
+      "30430764",
+      "41405350",
+      "40622556",
+      "26804057",
+      "42264159",
+      "42630040",
+      "25711934",
+      "36514261",
+      "41207588",
+      "41872407",
+      "34075621",
+      "28884626",
+      "32303545",
+      "41988984",
+      "38095477",
+      "36570084",
+      "38545976",
+      "42374346",
+      "33321136",
+      "39182429",
+      "41677210",
+      "42223045",
+      "39653629",
+      "41548779",
+      "41796813",
+      "9438866",
+      "30979881",
+      "39072475",
+      "39319709",
+      "39843897",
+      "41225254",
+      "39269430",
+      "39357610",
+      "39432831",
+      "37196493",
+      "41317923",
+      "35024024",
+      "25250909",
+      "22127613",
+      "41418965",
+      "27710940",
+      "37945666",
+      "26556053",
+      "42770702",
+      "35981419",
+      "40054191",
+      "24127688",
+      "38901251",
+      "42596110",
+      "28643343",
+      "19304850",
+      "40802843",
+      "42092658",
+      "40701482",
+      "33753197",
+      "42762622",
+      "41997329",
+      "23801110",
+      "28128951",
+      "42511871",
+      "40069109",
+      "25066066",
+      "27613682",
+      "32989159",
+      "30311984",
+      "35091192",
+      "16162506",
+      "42734507",
+      "31615653",
+      "35519608",
+      "34755331",
+      "19581484",
+      "40076213",
+      "35390614",
+      "30048043",
+      "41873044",
+      "22674578",
+      "37212229",
+      "29427431",
+      "41070525",
+      "38126200",
+      "28580552",
+      "42350423",
+      "34037842",
+      "42551963"
+    ],
+    "review": [
+      "42766180",
+      "39319709",
+      "41997329"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://dx.doi.org/10.1007/s11274-026-05276-3",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-76",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

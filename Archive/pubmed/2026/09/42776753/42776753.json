@@ -1,0 +1,277 @@
+{
+  "identity": {
+    "pmid": "42776753",
+    "doi": "10.1073/pnas.2616367123",
+    "title": "Voltage-sensor conformational microenvironments encode isoform-selective ion channel activation."
+  },
+  "content": {
+    "abstract": "Isoform-selective opening of voltage-gated potassium (Kv) channels is desirable for its therapeutic potential yet mechanistically little-understood. Rosemary leaf metabolite carnosic acid (CA) is a high-efficacy opener of the neuronal Kv7.3 channel but exerts minimal effects on Kv7.2 or Kv7.2/3 heteromers. Here, using alanine-scanning mutagenesis, electrophysiology, radioligand binding, and all-atom molecular dynamics simulations, we found that CA achieves high-efficacy activation of Kv7.3 by binding at the extracellular cap of the voltage-sensing domain (VSD), independent of the canonical retigabine pore binding site. Kv7.3 samples a binding-competent VSD conformation absent in Kv7.2, characterized by an expanded extracellular pocket and a favorable electrostatic environment. Central to this mechanism, Kv7.3-L226 functions as a hydrophobic latch that tunes the energetic landscape of the voltage sensor to control ligand efficacy. Unexpectedly, CA potentiates Kv7.2/3 activation by retigabine via ligand-initiated positive allosteric coupling between the VSD and pore, thus enhancing the anticonvulsant action of retigabine despite CA lacking standalone anticonvulsant activity. The findings establish a mechanistic framework in which isoform selectivity arises from VSD conformational microenvironments rather than canonical binding determinants and highlight the voltage sensor as a tunable target for developing selective Kv channel openers.",
+    "keywords": [
+      "Kv7.2",
+      "Kv7.3",
+      "M-current",
+      "carnosic acid"
+    ],
+    "mesh_terms": [
+      "Phenylenediamines/pharmacology",
+      "*KCNQ3 Potassium Channel/metabolism/chemistry/genetics",
+      "Animals",
+      "Humans",
+      "*Ion Channel Gating/drug effects",
+      "*KCNQ2 Potassium Channel/metabolism/chemistry/genetics",
+      "Molecular Dynamics Simulation",
+      "Binding Sites",
+      "Carbamates/pharmacology",
+      "Protein Isoforms/metabolism/chemistry",
+      "Protein Conformation",
+      "Protein Domains"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Manville, Rian W",
+        "Foglia, Lorenzo",
+        "Yoshimura, Ryan F",
+        "Santos, Daniel E",
+        "Yu, Alvin",
+        "Abbott, Geoffrey W"
+      ],
+      "short_names": [
+        "Manville RW",
+        "Foglia L",
+        "Yoshimura RF",
+        "Santos DE",
+        "Yu A",
+        "Abbott GW"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-0057-3541",
+        "ORCID: 0009-0000-4494-0449",
+        "ORCID: 0000-0002-8051-7661",
+        "ORCID: 0000-0003-4552-496X"
+      ],
+      "affiliations": [
+        "Bioelectricity Laboratory, Department of Physiology and Biophysics, School of Medicine, University of California, Irvine, CA 92697. ROR: https://ror.org/04gyf1771",
+        "Yu Lab, Department of Physiology and Biophysics, School of Medicine, University of California, Irvine, CA 92697. ROR: https://ror.org/04gyf1771",
+        "Bioelectricity Laboratory, Department of Physiology and Biophysics, School of Medicine, University of California, Irvine, CA 92697. ROR: https://ror.org/04gyf1771",
+        "Yu Lab, Department of Physiology and Biophysics, School of Medicine, University of California, Irvine, CA 92697. ROR: https://ror.org/04gyf1771",
+        "Yu Lab, Department of Physiology and Biophysics, School of Medicine, University of California, Irvine, CA 92697. ROR: https://ror.org/04gyf1771",
+        "Bioelectricity Laboratory, Department of Physiology and Biophysics, School of Medicine, University of California, Irvine, CA 92697. ROR: https://ror.org/04gyf1771"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Manville, Rían W",
+        "short_name": "Manville RW",
+        "identifiers": [
+          "0000-0002-0057-3541"
+        ],
+        "affiliations": [
+          "Bioelectricity Laboratory, Department of Physiology and Biophysics, School of Medicine, University of California, Irvine, CA 92697."
+        ]
+      },
+      {
+        "full_name": "Foglia, Lorenzo",
+        "short_name": "Foglia L",
+        "identifiers": [
+          "0009-0000-4494-0449"
+        ],
+        "affiliations": [
+          "Yu Lab, Department of Physiology and Biophysics, School of Medicine, University of California, Irvine, CA 92697."
+        ]
+      },
+      {
+        "full_name": "Yoshimura, Ryan F",
+        "short_name": "Yoshimura RF",
+        "identifiers": [],
+        "affiliations": [
+          "Bioelectricity Laboratory, Department of Physiology and Biophysics, School of Medicine, University of California, Irvine, CA 92697."
+        ]
+      },
+      {
+        "full_name": "Santos, Daniel E",
+        "short_name": "Santos DE",
+        "identifiers": [],
+        "affiliations": [
+          "Yu Lab, Department of Physiology and Biophysics, School of Medicine, University of California, Irvine, CA 92697."
+        ]
+      },
+      {
+        "full_name": "Yu, Alvin",
+        "short_name": "Yu A",
+        "identifiers": [
+          "0000-0002-8051-7661"
+        ],
+        "affiliations": [
+          "Yu Lab, Department of Physiology and Biophysics, School of Medicine, University of California, Irvine, CA 92697."
+        ]
+      },
+      {
+        "full_name": "Abbott, Geoffrey W",
+        "short_name": "Abbott GW",
+        "identifiers": [
+          "0000-0003-4552-496X"
+        ],
+        "affiliations": [
+          "Bioelectricity Laboratory, Department of Physiology and Biophysics, School of Medicine, University of California, Irvine, CA 92697."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Proceedings of the National Academy of Sciences of the United States of America"
+    ],
+    "journal_abbrev": [
+      "Proc Natl Acad Sci U S A"
+    ],
+    "pub_date": "2026 Sep 29",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/23 17:36",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42776753",
+      "26627826",
+      "26880756",
+      "19733209",
+      "27506413",
+      "26910900",
+      "29078287",
+      "32652600",
+      "34650221",
+      "20713704",
+      "22689829",
+      "40937839",
+      "39602259",
+      "29022505",
+      "38976504",
+      "39140981",
+      "32365171",
+      "32580997",
+      "29429937",
+      "23271449",
+      "21723881",
+      "32170353",
+      "39853501",
+      "34318654",
+      "42271185",
+      "21980481",
+      "31063701",
+      "15662042",
+      "32884139",
+      "27734968",
+      "36549648",
+      "10908292",
+      "26104325",
+      "34509475",
+      "24277843",
+      "30373787",
+      "23977150",
+      "37322081",
+      "19015229",
+      "20796319",
+      "41639121",
+      "38428481",
+      "26888935",
+      "16597729",
+      "11838236",
+      "27450567",
+      "25740509",
+      "31815462",
+      "26333338",
+      "15901787",
+      "29383681",
+      "31757819",
+      "37648450",
+      "37442907",
+      "40125810",
+      "30166314",
+      "33729829",
+      "23650395",
+      "24956197",
+      "38999185",
+      "21112284",
+      "18272489",
+      "25960349",
+      "20940059",
+      "35972998",
+      "40865793",
+      "25385787",
+      "10953053",
+      "33768249",
+      "41670008",
+      "37342413",
+      "27761601",
+      "26743208",
+      "24333508",
+      "22455920",
+      "20610766",
+      "35459955",
+      "26202459",
+      "18061539",
+      "22303005",
+      "31634018",
+      "11466425",
+      "34085706",
+      "34785163",
+      "16319223",
+      "23440208",
+      "34728568",
+      "15007538",
+      "21087654",
+      "29067685",
+      "33512443",
+      "35309507",
+      "35671848",
+      "16777936",
+      "33408002",
+      "42396991",
+      "38832889",
+      "20584905",
+      "32745603",
+      "29463698"
+    ],
+    "review": [
+      "42776753",
+      "29022505",
+      "39853501",
+      "11838236",
+      "37442907",
+      "38999185",
+      "20940059",
+      "18061539"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.pnas.org/doi/10.1073/pnas.2616367123?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-325",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

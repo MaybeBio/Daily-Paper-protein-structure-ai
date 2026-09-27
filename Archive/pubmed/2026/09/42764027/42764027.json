@@ -1,0 +1,282 @@
+{
+  "identity": {
+    "pmid": "42764027",
+    "doi": "10.1016/j.biortech.2026.135886",
+    "title": "Engineering carboxyl methyltransferase for high-efficiency biosynthesis of methyl salicylate in Escherichia coli."
+  },
+  "content": {
+    "abstract": "Methyl salicylate (MeSA) is a volatile methylated aromatic ester widely used in agriculture, food, and pharmaceuticals. Microbial biosynthesis offers a sustainable alternative to plant extraction and petrochemical synthesis; however, efficient MeSA production remains limited by the low catalytic efficiency of carboxyl methyltransferases, insufficient intracellular supply of S-adenosylmethionine (SAM), and severe product volatilization during fermentation. In this study, we systematically screened salicylate carboxymethyltransferase and identified CbSAMT as a relatively efficient catalyst for salicylic acid (SA). To further improve catalytic performance, we engineered CbSAMT through fusion-protein design. Remarkably, the catalytic efficiency of 7 x His-CbSAMT was 12-fold higher than that of the wild-type. Molecular dynamics simulations and computational analyses revealed that the polyhistidine tag reshaped the catalytic microenvironment by remodeling the hydrogen-bonding network and reducing the distance between SA and key substrate-positioning residues, thereby enhancing substrate binding and catalytic turnover. To further enhance MeSA biosynthesis, we reinforced intracellular SAM regeneration and established an in situ two-phase fermentation system using n-dodecane as the extractant to alleviate product volatilization. Finally, fed-batch fermentation achieved a MeSA titer of 5.12 g/L, representing the highest production level reported to date. Collectively, this study highlights the potential of polyhistidine tags in enzyme engineering and provides an efficient platform for the biosynthesis of volatile methylated natural products.",
+    "keywords": [
+      "Carboxyl methyltransferase",
+      "Escherichia coli",
+      "Methyl salicylate",
+      "Two-phase fermentation"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Gao, Yuan",
+        "Guo, Shibo",
+        "Wu, Jun",
+        "Wang, Jingyan",
+        "Liu, Huan",
+        "Guo, Jimin",
+        "Sun, Xinxiao",
+        "Wang, Jia",
+        "Shen, Xiaolin",
+        "Yuan, Qipeng"
+      ],
+      "short_names": [
+        "Gao Y",
+        "Guo S",
+        "Wu J",
+        "Wang J",
+        "Liu H",
+        "Guo J",
+        "Sun X",
+        "Wang J",
+        "Shen X",
+        "Yuan Q"
+      ],
+      "auids": [],
+      "affiliations": [
+        "State Key Laboratory of Chemical Resource Engineering, Beijing University of Chemical Technology, Beijing 100029, China.",
+        "State Key Laboratory of Chemical Resource Engineering, Beijing University of Chemical Technology, Beijing 100029, China.",
+        "State Key Laboratory of Chemical Resource Engineering, Beijing University of Chemical Technology, Beijing 100029, China; Beijing Advanced Innovation Center for Soft Matter Science and Engineering, Beijing University of Chemical Technology, Beijing 100029, China.",
+        "State Key Laboratory of Chemical Resource Engineering, Beijing University of Chemical Technology, Beijing 100029, China.",
+        "State Key Laboratory of Chemical Resource Engineering, Beijing University of Chemical Technology, Beijing 100029, China.",
+        "Beijing Laboratory of Biomedical Materials, and College of Materials Science and Engineering, Beijing University of Chemical Technology, Beijing 100029, China.",
+        "State Key Laboratory of Chemical Resource Engineering, Beijing University of Chemical Technology, Beijing 100029, China.",
+        "State Key Laboratory of Chemical Resource Engineering, Beijing University of Chemical Technology, Beijing 100029, China.",
+        "State Key Laboratory of Chemical Resource Engineering, Beijing University of Chemical Technology, Beijing 100029, China. Electronic address: shenxl@mail.buct.edu.cn.",
+        "State Key Laboratory of Chemical Resource Engineering, Beijing University of Chemical Technology, Beijing 100029, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Gao, Yuan",
+        "short_name": "Gao Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Chemical Resource Engineering, Beijing University of Chemical Technology, Beijing 100029, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Shibo",
+        "short_name": "Guo S",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Chemical Resource Engineering, Beijing University of Chemical Technology, Beijing 100029, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Jun",
+        "short_name": "Wu J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Chemical Resource Engineering, Beijing University of Chemical Technology, Beijing 100029, China; Beijing Advanced Innovation Center for Soft Matter Science and Engineering, Beijing University of Chemical Technology, Beijing 100029, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Jingyan",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Chemical Resource Engineering, Beijing University of Chemical Technology, Beijing 100029, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Huan",
+        "short_name": "Liu H",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Chemical Resource Engineering, Beijing University of Chemical Technology, Beijing 100029, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Jimin",
+        "short_name": "Guo J",
+        "identifiers": [],
+        "affiliations": [
+          "Beijing Laboratory of Biomedical Materials, and College of Materials Science and Engineering, Beijing University of Chemical Technology, Beijing 100029, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Xinxiao",
+        "short_name": "Sun X",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Chemical Resource Engineering, Beijing University of Chemical Technology, Beijing 100029, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Jia",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Chemical Resource Engineering, Beijing University of Chemical Technology, Beijing 100029, China."
+        ]
+      },
+      {
+        "full_name": "Shen, Xiaolin",
+        "short_name": "Shen X",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Chemical Resource Engineering, Beijing University of Chemical Technology, Beijing 100029, China. Electronic address: shenxl@mail.buct.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Yuan, Qipeng",
+        "short_name": "Yuan Q",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Chemical Resource Engineering, Beijing University of Chemical Technology, Beijing 100029, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Bioresource technology"
+    ],
+    "journal_abbrev": [
+      "Bioresour Technol"
+    ],
+    "pub_date": "2026 Sep 20",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/20 23:34",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42764027",
+      "41825536",
+      "40049493",
+      "21166408",
+      "41417579",
+      "42716400",
+      "42144631",
+      "41674273",
+      "17374877",
+      "42092713",
+      "35189350",
+      "42758394",
+      "33653319",
+      "37622361",
+      "42203118",
+      "12361714",
+      "41865819",
+      "41475583",
+      "42090820",
+      "41260442",
+      "20199866",
+      "42773659",
+      "41139570",
+      "26973712",
+      "39504884",
+      "20070566",
+      "41474872",
+      "36533265",
+      "35987433",
+      "42750794",
+      "41881131",
+      "41038477",
+      "24583236",
+      "41808407",
+      "42543330",
+      "40219981",
+      "41104292",
+      "36153615",
+      "41995320",
+      "41823656",
+      "39855691",
+      "38824548",
+      "17364223",
+      "40269570",
+      "41628598",
+      "39299347",
+      "41617113",
+      "41802472",
+      "36017331",
+      "37212714",
+      "40396566",
+      "28202018",
+      "27067813",
+      "41946402",
+      "40248485",
+      "40190727",
+      "38372640",
+      "31085637",
+      "42312739",
+      "34936092",
+      "28095853",
+      "41852688",
+      "40229740",
+      "40889650",
+      "42388219",
+      "40517693",
+      "39660873",
+      "39174461",
+      "33031447",
+      "40885671",
+      "41888881",
+      "40338089",
+      "42224007",
+      "42468710",
+      "41192709",
+      "15946712",
+      "29160698",
+      "40478902",
+      "36936388",
+      "41408321",
+      "42197473",
+      "39176472",
+      "12897246",
+      "42502842",
+      "40015532",
+      "42602708",
+      "41815867",
+      "42162937",
+      "39016109",
+      "41050199",
+      "38623716",
+      "41967337",
+      "41587393",
+      "38369051",
+      "36328295",
+      "40512782",
+      "41582770",
+      "37401599",
+      "39174991",
+      "40199733"
+    ],
+    "review": [
+      "42764027",
+      "38372640"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0960-8524(26)01968-1",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

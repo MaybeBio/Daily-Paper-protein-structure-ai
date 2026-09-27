@@ -1,0 +1,195 @@
+{
+  "identity": {
+    "pmid": "42768544",
+    "doi": "10.1103/n1nt-spjp",
+    "title": "Learning and extrapolating scale-invariant processes."
+  },
+  "content": {
+    "abstract": "Machine learning has deeply changed some fields recently, like language and vision. In the case of complex systems, spectacular breakthroughs happened too (e.g., for protein folding) and more are expected to come. Our question is: how and to which extent can one regress scale-free processes, i.e., processes displaying power law behavior, like earthquakes or avalanches? The events one is interested in predicting are the large ones, i.e., events that are typically rare in the training set, so we are basically in the extrapolation regime. While some recent works also tackle scale-free systems by proposing generative models closely aligned with the renormalization group framework, here instead we explore the problem of prediction in the extrapolation regime. We consider two paradigmatic problems that are statistically self-similar. The first one is a two-dimensional fractional Gaussian field obeying linear dynamics, self-similar by construction and amenable to exact analysis. The second one is the Abelian sandpile model, exhibiting self-organized criticality. The emerging paradigm of geometric deep learning shows that including known symmetries into the model's architecture is key to success (as translation invariance for images). Here one may hope to extrapolate only by leveraging scale invariance, which is, however, a peculiar symmetry, as it involves possibly nontrivial coarse-graining operations and anomalous scaling. We perform experiments on various existing architectures like U-net, the Riesz network (scale-invariant by construction), or our own proposals: a wavelet-decomposition-based Graph Neural Network (with discrete scale symmetry), a Fourier embedding layer, and a Fourier-Mellin Neural Operator. Based on these experiments and a complete characterization of the linear case, we identify the main issues relative to spectral biases and coarse-grained representations, and discuss how to alleviate them with the relevant inductive biases.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Alvez, Anaclara",
+        "Furtlehner, Cyril",
+        "Landes, Francois"
+      ],
+      "short_names": [
+        "Alvez A",
+        "Furtlehner C",
+        "Landes F"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Laboratoire Interdisciplinaire des Sciences du Numerique, INRIA-Saclay, Universite Paris-Saclay, TAU, 91190 Gif-sur-Yvette, France. ROR: https://ror.org/03xjwb503. ROR: https://ror.org/0315e5x55. ROR: https://ror.org/00rd81916",
+        "Laboratoire Interdisciplinaire des Sciences du Numerique, INRIA-Saclay, Universite Paris-Saclay, TAU, 91190 Gif-sur-Yvette, France. ROR: https://ror.org/03xjwb503. ROR: https://ror.org/0315e5x55. ROR: https://ror.org/00rd81916",
+        "Laboratoire Interdisciplinaire des Sciences du Numerique, INRIA-Saclay, Universite Paris-Saclay, TAU, 91190 Gif-sur-Yvette, France. ROR: https://ror.org/03xjwb503. ROR: https://ror.org/0315e5x55. ROR: https://ror.org/00rd81916"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Alvez, Anaclara",
+        "short_name": "Alvez A",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratoire Interdisciplinaire des Sciences du Numérique, INRIA-Saclay, Université Paris-Saclay, TAU, 91190 Gif-sur-Yvette, France."
+        ]
+      },
+      {
+        "full_name": "Furtlehner, Cyril",
+        "short_name": "Furtlehner C",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratoire Interdisciplinaire des Sciences du Numérique, INRIA-Saclay, Université Paris-Saclay, TAU, 91190 Gif-sur-Yvette, France."
+        ]
+      },
+      {
+        "full_name": "Landes, François",
+        "short_name": "Landes F",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratoire Interdisciplinaire des Sciences du Numérique, INRIA-Saclay, Université Paris-Saclay, TAU, 91190 Gif-sur-Yvette, France."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Physical review. E"
+    ],
+    "journal_abbrev": [
+      "Phys Rev E"
+    ],
+    "pub_date": "2026 Aug",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/22 05:37",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42768544",
+      "42475469",
+      "23912807",
+      "36321557",
+      "26042330",
+      "33036834",
+      "42316605",
+      "37851522",
+      "33620822",
+      "36864700",
+      "29262162",
+      "40183298",
+      "38250147",
+      "39164334",
+      "33233358",
+      "41576555",
+      "41171655",
+      "33370107",
+      "20161798",
+      "31871152",
+      "38464324",
+      "39983197",
+      "32531114",
+      "39842325",
+      "31942078",
+      "39266655",
+      "38914587",
+      "11316482",
+      "33085409",
+      "31383477",
+      "41163817",
+      "26269925",
+      "33218238",
+      "35590618",
+      "33066187",
+      "26919740",
+      "42409296",
+      "11736236",
+      "42757185",
+      "37301936",
+      "37480771",
+      "30728300",
+      "28056090",
+      "16605425",
+      "35879937",
+      "39916167",
+      "38490114",
+      "36870167",
+      "25353771",
+      "41564124",
+      "31424720",
+      "42127108",
+      "42033971",
+      "30891794",
+      "29031703",
+      "22838153",
+      "40179937",
+      "29404850",
+      "38334473",
+      "22715328",
+      "29402956",
+      "31996698",
+      "42334640",
+      "42345655",
+      "42013207",
+      "26844322",
+      "33971574",
+      "38309959",
+      "40532501",
+      "39579131",
+      "24743324",
+      "17677419",
+      "34330253",
+      "37844328",
+      "27606391",
+      "38011344",
+      "41310253",
+      "41945655",
+      "11488256",
+      "39511202",
+      "26042329",
+      "39798350",
+      "32528268",
+      "41997678",
+      "42072543",
+      "41358286",
+      "40607319",
+      "41875494",
+      "39145603",
+      "42072510",
+      "42491247",
+      "34112161",
+      "42366429",
+      "35692201",
+      "29760057",
+      "32013472",
+      "39444340",
+      "14615699",
+      "31370528",
+      "30725667"
+    ],
+    "review": [
+      "42768544",
+      "36321557",
+      "11316482",
+      "31383477",
+      "29031703"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

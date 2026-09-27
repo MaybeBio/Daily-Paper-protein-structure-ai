@@ -1,0 +1,254 @@
+{
+  "identity": {
+    "pmid": "42771273",
+    "doi": "10.1007/s10822-026-00945-9",
+    "title": "Ligand-induced reshaping of the conformational free energy landscape drives dynamic restriction in Trypanosoma brucei alternative oxidase."
+  },
+  "content": {
+    "abstract": "The alternative oxidase (AOX) of Trypanosoma brucei is a validated therapeutic target for Human African Trypanosomiasis; however, the dynamic mechanisms governing its potent inhibition by lipophilic antibiotics remain poorly resolved. While static crystal structures provide insight into binding poses, the thermodynamic and kinetic drivers of picomolar efficacy are largely undefined. In this study, we employed triplicate microsecond-scale molecular dynamics (MD) simulations coupled with Markov state modeling (MSM) to compare the conformational ensembles of AOX bound to the ubiquinone-2 (UQ2) substrate analogue and the potent inhibitors ascofuranone (ASCO) and ferulenol. Our kinetic analysis reveals that inhibition is governed by a fundamental reshaping of the protein's free energy landscape. The enzyme-substrate (UQ2) complex maintains a dynamic equilibrium across three metastable macrostates (stationary populations of 56.2%, 23.7%, and 20.1%), connected by low energetic barriers that facilitate the rapid conformational cycling required for catalysis. Conversely, inhibitor (ASCO) binding triggers a conformational ensemble, causing the free energy landscape to funnel into a single, deep dynamic restriction containing 98.5% of the population. The stabilization of this trapped state is driven by a core hydrogen-bond network that rigidifies the active site, a process thermodynamically compensated by a substantial increase in entropic disorder at the C-terminus. We propose that high-affinity inhibitors function not solely through steric occlusion, but by inducing a \"dynamic restriction\" that effectively decouples the enzyme from the thermal fluctuations necessary for catalytic turnover. These findings provide a rigorous kinetic framework for engineering next-generation AOX inhibitors with optimized drug-target residence times.",
+    "keywords": [
+      "Alternative oxidase (AOX)",
+      "Markov State Model",
+      "Trypanosoma brucei",
+      "molecular dynamics simulation"
+    ],
+    "mesh_terms": [
+      "*Trypanosoma brucei brucei/enzymology/drug effects",
+      "*Oxidoreductases/chemistry/antagonists & inhibitors/metabolism",
+      "Alternative Oxidase",
+      "Molecular Dynamics Simulation",
+      "Thermodynamics",
+      "*Plant Proteins/chemistry/antagonists & inhibitors/metabolism",
+      "*Mitochondrial Proteins/chemistry/antagonists & inhibitors/metabolism",
+      "Ligands",
+      "Kinetics",
+      "Protein Conformation",
+      "*Enzyme Inhibitors/chemistry/pharmacology",
+      "Ubiquinone/chemistry/analogs & derivatives",
+      "Protein Binding",
+      "Lactones/chemistry/pharmacology",
+      "Sesquiterpenes"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Mas'od, Nurul Hana",
+        "Bahari, Mohammad Nazri Abdul",
+        "Ayub, Wan Mardhiyana Wan",
+        "Jamali, Mohamad Arif Mohamad"
+      ],
+      "short_names": [
+        "Mas'od NH",
+        "Bahari MNA",
+        "Ayub WMW",
+        "Jamali MAM"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-1642-3062"
+      ],
+      "affiliations": [
+        "Faculty of Science and Technology, Universiti Sains Islam Malaysia, 71800, Nilai, Negeri Sembilan Darul Khusus, Malaysia.",
+        "Microelectronic Design Excellence Center, Universiti Sains Malaysia, No. 10, Persiaran Bukit Jambul, 11900, Bayan Lepas, Pulau Pinang, Malaysia.",
+        "Faculty of Agrotechnology and Applied Sciences, i-CATS University College, Jalan Stampin Timur, 93350, Kuching, Sarawak, Malaysia.",
+        "Faculty of Science and Technology, Universiti Sains Islam Malaysia, 71800, Nilai, Negeri Sembilan Darul Khusus, Malaysia.",
+        "Faculty of Science and Technology, Universiti Sains Islam Malaysia, 71800, Nilai, Negeri Sembilan Darul Khusus, Malaysia. arifjamali@usim.edu.my."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Mas'od, Nurul Hana",
+        "short_name": "Mas'od NH",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Science and Technology, Universiti Sains Islam Malaysia, 71800, Nilai, Negeri Sembilan Darul Khusus, Malaysia."
+        ]
+      },
+      {
+        "full_name": "Bahari, Mohammad Nazri Abdul",
+        "short_name": "Bahari MNA",
+        "identifiers": [],
+        "affiliations": [
+          "Microelectronic Design Excellence Center, Universiti Sains Malaysia, No. 10, Persiaran Bukit Jambul, 11900, Bayan Lepas, Pulau Pinang, Malaysia.",
+          "Faculty of Agrotechnology and Applied Sciences, i-CATS University College, Jalan Stampin Timur, 93350, Kuching, Sarawak, Malaysia."
+        ]
+      },
+      {
+        "full_name": "Ayub, Wan Mardhiyana Wan",
+        "short_name": "Ayub WMW",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Science and Technology, Universiti Sains Islam Malaysia, 71800, Nilai, Negeri Sembilan Darul Khusus, Malaysia."
+        ]
+      },
+      {
+        "full_name": "Jamali, Mohamad Arif Mohamad",
+        "short_name": "Jamali MAM",
+        "identifiers": [
+          "0000-0002-1642-3062"
+        ],
+        "affiliations": [
+          "Faculty of Science and Technology, Universiti Sains Islam Malaysia, 71800, Nilai, Negeri Sembilan Darul Khusus, Malaysia. arifjamali@usim.edu.my."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of computer-aided molecular design"
+    ],
+    "journal_abbrev": [
+      "J Comput Aided Mol Des"
+    ],
+    "pub_date": "2026 Sep 22",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/22 21:36",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42771273",
+      "32565080",
+      "30910528",
+      "29107420",
+      "20056101",
+      "31525300",
+      "24530866",
+      "23487766",
+      "29544150",
+      "33940464",
+      "27894362",
+      "24632469",
+      "20688188",
+      "37584491",
+      "23180806",
+      "30609681",
+      "29353481",
+      "28559350",
+      "21878090",
+      "33289903",
+      "10622429",
+      "34812693",
+      "33164832",
+      "19923211",
+      "7488235",
+      "12084465",
+      "40671268",
+      "24059524",
+      "18021252",
+      "24743796",
+      "30693533",
+      "33199197",
+      "25910742",
+      "17126803",
+      "31453790",
+      "40464345",
+      "28132465",
+      "24788386",
+      "32471245",
+      "28620034",
+      "16920028",
+      "15468531",
+      "42475469",
+      "29298911",
+      "30198897",
+      "42217703",
+      "21851087",
+      "29701141",
+      "41498383",
+      "40816097",
+      "19370313",
+      "20085745",
+      "35011381",
+      "23312027",
+      "25996598",
+      "7581322",
+      "27090422",
+      "28459876",
+      "34285303",
+      "23897478",
+      "22512810",
+      "19111521",
+      "26592861",
+      "25151410",
+      "32496217",
+      "32520929",
+      "42372607",
+      "20208159",
+      "24527857",
+      "42669820",
+      "14529469",
+      "30703686",
+      "29186784",
+      "22833015",
+      "30969408",
+      "25539144",
+      "33385341",
+      "21123874",
+      "42118388",
+      "41889177",
+      "9642090",
+      "40111159",
+      "19767647",
+      "38291966",
+      "32437349",
+      "20808768",
+      "39076021",
+      "26392508",
+      "8898329",
+      "19527033",
+      "9084049",
+      "41654575",
+      "9756861",
+      "29474075",
+      "9763289",
+      "25105502",
+      "41666207",
+      "32451394",
+      "38732174",
+      "23432372"
+    ],
+    "review": [
+      "42771273",
+      "27894362",
+      "12084465",
+      "40671268",
+      "24059524",
+      "30693533",
+      "28132465",
+      "28620034",
+      "16920028"
+    ],
+    "pmc": [
+      "13597577"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42771273/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.1007/s10822-026-00945-9",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

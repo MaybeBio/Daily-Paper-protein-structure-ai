@@ -1,0 +1,268 @@
+{
+  "identity": {
+    "pmid": "42766632",
+    "doi": "10.1371/journal.pbio.3004002",
+    "title": "AlloPool is a deep learning framework that infers protein allostery from molecular dynamics simulations."
+  },
+  "content": {
+    "abstract": "Recent advances in artificial intelligence have transformed protein structure prediction and design. However, protein function is governed not only by static structures but also by the conformational dynamics that allow proteins to access distinct functional states. Predicting these dynamic transitions, central to many biological processes, remains challenging due to the scarcity of high-resolution experimental data, which limits the training of machine-learning models for dynamic and energetic property prediction. Here, we present AlloPool, a graph neural network (GNN)-based framework that interprets molecular dynamics simulations by iteratively pruning residue-residue interactions to uncover minimal, time-resolved interaction networks that govern protein conformational dynamics and structural responses to chemical or mechanical perturbations, collectively known as allostery. By integrating temporal attention with graph aggregation, AlloPool learns evolving interaction graphs from equilibrium and non-equilibrium molecular dynamics simulations, enabling accurate reconstruction of dynamic trajectories and the interaction networks that drive conformational transitions. Validated across diverse dynamic protein systems, including binding domains, mechanosensors, signaling receptors, and enzymes, AlloPool maps allosteric communication pathways, predicts the effects of ligand binding, mechanical forces, and mutations, discovers transient dynamic states and outperforms existing machine-learning approaches in dynamic trajectory reconstruction. This advance provides a general framework for interpreting protein dynamics with broad implications for drug discovery, synthetic biology, and protein engineering.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Molecular Dynamics Simulation",
+      "Allosteric Regulation",
+      "Graph Neural Networks",
+      "*Deep Learning",
+      "Protein Conformation",
+      "*Proteins/chemistry/metabolism",
+      "Protein Binding"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Marfoglia, Matthieu",
+        "Pedraza-Joya, Miguel A",
+        "Guirardel, Lucas",
+        "Chatzi Souleiman, Aisima",
+        "Barth, Patrick"
+      ],
+      "short_names": [
+        "Marfoglia M",
+        "Pedraza-Joya MA",
+        "Guirardel L",
+        "Chatzi Souleiman A",
+        "Barth P"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-0744-6844"
+      ],
+      "affiliations": [
+        "Interfaculty Institute of Bioengineering, Ecole Polytechnique Federale de Lausanne, Lausanne, Switzerland.",
+        "Interfaculty Institute of Bioengineering, Ecole Polytechnique Federale de Lausanne, Lausanne, Switzerland.",
+        "Interfaculty Institute of Bioengineering, Ecole Polytechnique Federale de Lausanne, Lausanne, Switzerland.",
+        "Interfaculty Institute of Bioengineering, Ecole Polytechnique Federale de Lausanne, Lausanne, Switzerland.",
+        "Interfaculty Institute of Bioengineering, Ecole Polytechnique Federale de Lausanne, Lausanne, Switzerland.",
+        "Ludwig Institute for Cancer Research Lausanne, Lausanne, Switzerland."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Marfoglia, Matthieu",
+        "short_name": "Marfoglia M",
+        "identifiers": [],
+        "affiliations": [
+          "Interfaculty Institute of Bioengineering, École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Pedraza-Joya, Miguel A",
+        "short_name": "Pedraza-Joya MA",
+        "identifiers": [],
+        "affiliations": [
+          "Interfaculty Institute of Bioengineering, École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Guirardel, Lucas",
+        "short_name": "Guirardel L",
+        "identifiers": [],
+        "affiliations": [
+          "Interfaculty Institute of Bioengineering, École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Chatzi Souleiman, Aisima",
+        "short_name": "Chatzi Souleiman A",
+        "identifiers": [],
+        "affiliations": [
+          "Interfaculty Institute of Bioengineering, École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Barth, Patrick",
+        "short_name": "Barth P",
+        "identifiers": [
+          "0000-0002-0744-6844"
+        ],
+        "affiliations": [
+          "Interfaculty Institute of Bioengineering, École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland.",
+          "Ludwig Institute for Cancer Research Lausanne, Lausanne, Switzerland."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "PLoS biology"
+    ],
+    "journal_abbrev": [
+      "PLoS Biol"
+    ],
+    "pub_date": "2026 Sep",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/21 17:47",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42766632",
+      "42475469",
+      "23912807",
+      "40043838",
+      "36827465",
+      "42450193",
+      "41678734",
+      "27861609",
+      "23228330",
+      "40842437",
+      "31793290",
+      "42119874",
+      "41570305",
+      "31589429",
+      "39163334",
+      "33448856",
+      "41689234",
+      "42711316",
+      "35351887",
+      "41435823",
+      "41537309",
+      "38564358",
+      "41100667",
+      "38732174",
+      "39190764",
+      "42118388",
+      "39952349",
+      "42748146",
+      "39349594",
+      "39913849",
+      "40403060",
+      "39684679",
+      "41863076",
+      "42572360",
+      "42278281",
+      "40784662",
+      "26619280",
+      "27115535",
+      "42463482",
+      "37175454",
+      "40663654",
+      "38171189",
+      "40742756",
+      "30911759",
+      "35202628",
+      "38956032",
+      "42241605",
+      "39484820",
+      "41051642",
+      "35163572",
+      "41921096",
+      "41986548",
+      "39273672",
+      "31707705",
+      "41218722",
+      "40658102",
+      "37241789",
+      "32144844",
+      "40481301",
+      "31006514",
+      "37957479",
+      "39558674",
+      "32733918",
+      "42050415",
+      "42734525",
+      "38867522",
+      "29604117",
+      "39848362",
+      "27285999",
+      "42140027",
+      "35976160",
+      "30339916",
+      "41750401",
+      "42205032",
+      "40671268",
+      "41996895",
+      "39446541",
+      "41851975",
+      "29095844",
+      "41094395",
+      "31141211",
+      "26075886",
+      "25340971",
+      "29594786",
+      "38991149",
+      "42567082",
+      "40563459",
+      "42334640",
+      "41910880",
+      "42478599",
+      "39206846",
+      "41469529",
+      "42336024",
+      "29684503",
+      "40270304",
+      "25761976",
+      "40360271",
+      "31386362",
+      "41125543",
+      "28095400"
+    ],
+    "review": [
+      "42766632",
+      "40043838",
+      "36827465",
+      "31793290",
+      "39952349",
+      "42572360",
+      "42278281",
+      "40784662",
+      "37175454",
+      "40663654",
+      "38171189",
+      "30911759",
+      "39273672",
+      "31707705",
+      "37241789",
+      "37957479",
+      "32733918",
+      "42734525",
+      "38867522",
+      "27285999",
+      "42140027",
+      "35976160",
+      "41750401",
+      "40671268",
+      "41996895"
+    ],
+    "pmc": [
+      "13592721"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://dx.plos.org/10.1371/journal.pbio.3004002",
+        "provider": "Public Library of Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42766632/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,434 @@
+{
+  "identity": {
+    "pmid": "42773138",
+    "doi": "10.1038/s41467-026-77963-6",
+    "title": "Generative AI designs functional thiolation domains for reprogramming non-ribosomal peptide synthetases."
+  },
+  "content": {
+    "abstract": "Large language models and generative protein design promise to accelerate biotechnology, but it remains unclear whether they can engineer dynamic megasynth(et)ases whose activity depends on transient, context-specific domain interfaces. Non-ribosomal peptide synthetases (NRPSs) exemplify this challenge and produce many clinically used therapeutics. Here we integrate pretrained generative models (ESM3, ProteinMPNN and EvoDiff) with design-build-test-learn cycles and data-guided prioritization to generate 76 de novo thiolation (T) domains. We build and test 578 recombinant NRPS variants in vivo spanning minimal, full-length, and hybrid assembly lines. AI-designed T-domains support product formation across architectures, enable catalytically active hybrids at recombined junctions, and increase yields by up to ~3-fold relative to NRPSs carrying the native T-domain. A representative design shows improved soluble expression, refolding, and a 12  degrees C higher melting temperature, while molecular dynamics simulations indicate preserved global stability but reshaped, state-dependent interdomain contact networks. Together, these results establish generative design as an effective route to context-conditioned engineering and reprogramming of biosynthetic assembly lines.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Peptide Synthases/genetics/metabolism/chemistry",
+      "Generative Artificial Intelligence",
+      "*Protein Engineering/methods",
+      "Protein Domains",
+      "Large Language Models",
+      "Molecular Dynamics Simulation",
+      "Recombinant Proteins/metabolism/chemistry/genetics",
+      "*Sulfhydryl Compounds/metabolism/chemistry",
+      "Escherichia coli/genetics/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Bulbul, Emre F",
+        "Bang, Seounggun",
+        "George, Kevin",
+        "Bianchi, Gabriele",
+        "Raj, Prateek",
+        "Chung, Seonyong",
+        "Pauline, Vincent",
+        "Hochstrasser, Ramon",
+        "Minas, Hannah A",
+        "Elgaher, Walid A M",
+        "Kany, Andreas M",
+        "Hirsch, Anna K H",
+        "Schmitt, Steven",
+        "Heinz, Dirk W",
+        "Kalinina, Olga V",
+        "Klakow, Dietrich",
+        "Bozhuyuk, Kenan A J"
+      ],
+      "short_names": [
+        "Bulbul EF",
+        "Bang S",
+        "George K",
+        "Bianchi G",
+        "Raj P",
+        "Chung S",
+        "Pauline V",
+        "Hochstrasser R",
+        "Minas HA",
+        "Elgaher WAM",
+        "Kany AM",
+        "Hirsch AKH",
+        "Schmitt S",
+        "Heinz DW",
+        "Kalinina OV",
+        "Klakow D",
+        "Bozhuyuk KAJ"
+      ],
+      "auids": [
+        "ORCID: 0009-0001-2964-3259",
+        "ORCID: 0009-0006-4857-665X",
+        "ORCID: 0000-0003-2997-6915",
+        "ORCID: 0000-0002-8766-4568",
+        "ORCID: 0000-0001-7580-3658",
+        "ORCID: 0000-0001-8734-4663",
+        "ORCID: 0009-0006-0514-1728",
+        "ORCID: 0000-0002-9445-477X",
+        "ORCID: 0000-0002-4147-9690",
+        "ORCID: 0000-0002-8609-2967"
+      ],
+      "affiliations": [
+        "Helmholtz Institute for Pharmaceutical Research Saarland (HIPS), Helmholtz Centre for Infection Research (HZI), PharmaScienceHub (PSH), Saarbrucken, Germany.",
+        "Helmholtz Institute for Pharmaceutical Research Saarland (HIPS), Helmholtz Centre for Infection Research (HZI), PharmaScienceHub (PSH), Saarbrucken, Germany.",
+        "Center for Bioinformatics, Saarland University, Saarbrucken, Germany.",
+        "Helmholtz Institute for Pharmaceutical Research Saarland (HIPS), Helmholtz Centre for Infection Research (HZI), PharmaScienceHub (PSH), Saarbrucken, Germany.",
+        "Deutsches Zentrum fur Infektionsforschung (DZIF), Braunschweig, Germany.",
+        "Department of Molecular Structural Biology, Helmholtz Centre for Infection Research, Braunschweig, Germany.",
+        "Helmholtz Institute for Pharmaceutical Research Saarland (HIPS), Helmholtz Centre for Infection Research (HZI), PharmaScienceHub (PSH), Saarbrucken, Germany.",
+        "Technical University of Munich - Helmholtz AI - Munich Center for Machine Learning (MCML), Munchen, Germany.",
+        "Myria Biosciences AG, Basel, Switzerland.",
+        "Bioprocess Laboratory (BPL), Department of Biosystems Science and Engineering (D-BSSE), Eidgenossische Technische Hochschule (ETH) Zurich, Basel, Switzerland.",
+        "Myria Biosciences AG, Basel, Switzerland.",
+        "Bioprocess Laboratory (BPL), Department of Biosystems Science and Engineering (D-BSSE), Eidgenossische Technische Hochschule (ETH) Zurich, Basel, Switzerland.",
+        "Helmholtz Institute for Pharmaceutical Research Saarland (HIPS), Helmholtz Centre for Infection Research (HZI), PharmaScienceHub (PSH), Saarbrucken, Germany.",
+        "Deutsches Zentrum fur Infektionsforschung (DZIF), Braunschweig, Germany.",
+        "Department of Pharmacy, Saarland University, Saarbrucken, Germany.",
+        "Helmholtz Institute for Pharmaceutical Research Saarland (HIPS), Helmholtz Centre for Infection Research (HZI), PharmaScienceHub (PSH), Saarbrucken, Germany.",
+        "Deutsches Zentrum fur Infektionsforschung (DZIF), Braunschweig, Germany.",
+        "Helmholtz Institute for Pharmaceutical Research Saarland (HIPS), Helmholtz Centre for Infection Research (HZI), PharmaScienceHub (PSH), Saarbrucken, Germany.",
+        "Deutsches Zentrum fur Infektionsforschung (DZIF), Braunschweig, Germany.",
+        "Department of Pharmacy, Saarland University, Saarbrucken, Germany.",
+        "Myria Biosciences AG, Basel, Switzerland.",
+        "Department of Molecular Structural Biology, Helmholtz Centre for Infection Research, Braunschweig, Germany.",
+        "Helmholtz Institute for Pharmaceutical Research Saarland (HIPS), Helmholtz Centre for Infection Research (HZI), PharmaScienceHub (PSH), Saarbrucken, Germany.",
+        "Center for Bioinformatics, Saarland University, Saarbrucken, Germany.",
+        "Medical Faculty, Saarland University, Homburg, Germany.",
+        "Spoken Language Systems (LSV), Saarland University, PharmaScienceHub (PSH), Saarbrucken, Germany.",
+        "Helmholtz Institute for Pharmaceutical Research Saarland (HIPS), Helmholtz Centre for Infection Research (HZI), PharmaScienceHub (PSH), Saarbrucken, Germany. kenan.bozhueyuek@helmholtz-hips.de.",
+        "Myria Biosciences AG, Basel, Switzerland. kenan.bozhueyuek@helmholtz-hips.de."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Bülbül, Emre F",
+        "short_name": "Bülbül EF",
+        "identifiers": [],
+        "affiliations": [
+          "Helmholtz Institute for Pharmaceutical Research Saarland (HIPS), Helmholtz Centre for Infection Research (HZI), PharmaScienceHub (PSH), Saarbrücken, Germany."
+        ]
+      },
+      {
+        "full_name": "Bang, Seounggun",
+        "short_name": "Bang S",
+        "identifiers": [
+          "0009-0001-2964-3259"
+        ],
+        "affiliations": [
+          "Helmholtz Institute for Pharmaceutical Research Saarland (HIPS), Helmholtz Centre for Infection Research (HZI), PharmaScienceHub (PSH), Saarbrücken, Germany."
+        ]
+      },
+      {
+        "full_name": "George, Kevin",
+        "short_name": "George K",
+        "identifiers": [
+          "0009-0006-4857-665X"
+        ],
+        "affiliations": [
+          "Center for Bioinformatics, Saarland University, Saarbrücken, Germany."
+        ]
+      },
+      {
+        "full_name": "Bianchi, Gabriele",
+        "short_name": "Bianchi G",
+        "identifiers": [],
+        "affiliations": [
+          "Helmholtz Institute for Pharmaceutical Research Saarland (HIPS), Helmholtz Centre for Infection Research (HZI), PharmaScienceHub (PSH), Saarbrücken, Germany.",
+          "Deutsches Zentrum für Infektionsforschung (DZIF), Braunschweig, Germany."
+        ]
+      },
+      {
+        "full_name": "Raj, Prateek",
+        "short_name": "Raj P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Structural Biology, Helmholtz Centre for Infection Research, Braunschweig, Germany."
+        ]
+      },
+      {
+        "full_name": "Chung, Seonyong",
+        "short_name": "Chung S",
+        "identifiers": [],
+        "affiliations": [
+          "Helmholtz Institute for Pharmaceutical Research Saarland (HIPS), Helmholtz Centre for Infection Research (HZI), PharmaScienceHub (PSH), Saarbrücken, Germany."
+        ]
+      },
+      {
+        "full_name": "Pauline, Vincent",
+        "short_name": "Pauline V",
+        "identifiers": [],
+        "affiliations": [
+          "Technical University of Munich - Helmholtz AI - Munich Center for Machine Learning (MCML), München, Germany."
+        ]
+      },
+      {
+        "full_name": "Hochstrasser, Ramon",
+        "short_name": "Hochstrasser R",
+        "identifiers": [],
+        "affiliations": [
+          "Myria Biosciences AG, Basel, Switzerland.",
+          "Bioprocess Laboratory (BPL), Department of Biosystems Science and Engineering (D-BSSE), Eidgenössische Technische Hochschule (ETH) Zürich, Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Minas, Hannah A",
+        "short_name": "Minas HA",
+        "identifiers": [
+          "0000-0003-2997-6915"
+        ],
+        "affiliations": [
+          "Myria Biosciences AG, Basel, Switzerland.",
+          "Bioprocess Laboratory (BPL), Department of Biosystems Science and Engineering (D-BSSE), Eidgenössische Technische Hochschule (ETH) Zürich, Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Elgaher, Walid A M",
+        "short_name": "Elgaher WAM",
+        "identifiers": [
+          "0000-0002-8766-4568"
+        ],
+        "affiliations": [
+          "Helmholtz Institute for Pharmaceutical Research Saarland (HIPS), Helmholtz Centre for Infection Research (HZI), PharmaScienceHub (PSH), Saarbrücken, Germany.",
+          "Deutsches Zentrum für Infektionsforschung (DZIF), Braunschweig, Germany.",
+          "Department of Pharmacy, Saarland University, Saarbrücken, Germany."
+        ]
+      },
+      {
+        "full_name": "Kany, Andreas M",
+        "short_name": "Kany AM",
+        "identifiers": [
+          "0000-0001-7580-3658"
+        ],
+        "affiliations": [
+          "Helmholtz Institute for Pharmaceutical Research Saarland (HIPS), Helmholtz Centre for Infection Research (HZI), PharmaScienceHub (PSH), Saarbrücken, Germany.",
+          "Deutsches Zentrum für Infektionsforschung (DZIF), Braunschweig, Germany."
+        ]
+      },
+      {
+        "full_name": "Hirsch, Anna K H",
+        "short_name": "Hirsch AKH",
+        "identifiers": [
+          "0000-0001-8734-4663"
+        ],
+        "affiliations": [
+          "Helmholtz Institute for Pharmaceutical Research Saarland (HIPS), Helmholtz Centre for Infection Research (HZI), PharmaScienceHub (PSH), Saarbrücken, Germany.",
+          "Deutsches Zentrum für Infektionsforschung (DZIF), Braunschweig, Germany.",
+          "Department of Pharmacy, Saarland University, Saarbrücken, Germany."
+        ]
+      },
+      {
+        "full_name": "Schmitt, Steven",
+        "short_name": "Schmitt S",
+        "identifiers": [],
+        "affiliations": [
+          "Myria Biosciences AG, Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Heinz, Dirk W",
+        "short_name": "Heinz DW",
+        "identifiers": [
+          "0009-0006-0514-1728"
+        ],
+        "affiliations": [
+          "Department of Molecular Structural Biology, Helmholtz Centre for Infection Research, Braunschweig, Germany."
+        ]
+      },
+      {
+        "full_name": "Kalinina, Olga V",
+        "short_name": "Kalinina OV",
+        "identifiers": [
+          "0000-0002-9445-477X"
+        ],
+        "affiliations": [
+          "Helmholtz Institute for Pharmaceutical Research Saarland (HIPS), Helmholtz Centre for Infection Research (HZI), PharmaScienceHub (PSH), Saarbrücken, Germany.",
+          "Center for Bioinformatics, Saarland University, Saarbrücken, Germany.",
+          "Medical Faculty, Saarland University, Homburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Klakow, Dietrich",
+        "short_name": "Klakow D",
+        "identifiers": [
+          "0000-0002-4147-9690"
+        ],
+        "affiliations": [
+          "Spoken Language Systems (LSV), Saarland University, PharmaScienceHub (PSH), Saarbrücken, Germany."
+        ]
+      },
+      {
+        "full_name": "Bozhüyük, Kenan A J",
+        "short_name": "Bozhüyük KAJ",
+        "identifiers": [
+          "0000-0002-8609-2967"
+        ],
+        "affiliations": [
+          "Helmholtz Institute for Pharmaceutical Research Saarland (HIPS), Helmholtz Centre for Infection Research (HZI), PharmaScienceHub (PSH), Saarbrücken, Germany. kenan.bozhueyuek@helmholtz-hips.de.",
+          "Myria Biosciences AG, Basel, Switzerland. kenan.bozhueyuek@helmholtz-hips.de."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Sep 22",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/23 05:35",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42773138",
+      "26268580",
+      "27984027",
+      "30069573",
+      "38822735",
+      "33675014",
+      "31182822",
+      "24457530",
+      "38308044",
+      "14622284",
+      "34015175",
+      "33876501",
+      "15498872",
+      "32920052",
+      "10873839",
+      "12325005",
+      "31471217",
+      "29461518",
+      "32329545",
+      "24975514",
+      "14529378",
+      "28230972",
+      "18704088",
+      "33610550",
+      "40576373",
+      "38513038",
+      "41074745",
+      "27597544",
+      "16931336",
+      "11590023",
+      "33238159",
+      "12564937",
+      "37523786",
+      "39195464",
+      "32359003",
+      "26474351",
+      "32533653",
+      "28455448",
+      "27853778",
+      "8939706",
+      "17944384",
+      "37184700",
+      "33640957",
+      "11033080",
+      "25563804",
+      "22365602",
+      "26429504",
+      "41083145",
+      "16128819",
+      "29779664",
+      "37286066",
+      "26762461",
+      "37951518",
+      "12911315",
+      "10419464",
+      "35013184",
+      "14650927",
+      "30126939",
+      "30862156",
+      "23756159",
+      "26751610",
+      "33576533",
+      "23897471",
+      "38908753",
+      "41535686",
+      "25081643",
+      "31155062",
+      "39519324",
+      "27647046",
+      "41665261",
+      "10688898",
+      "10956034",
+      "17620609",
+      "20564619",
+      "40278976",
+      "39662504",
+      "25214216",
+      "38340732",
+      "29305695",
+      "35105906",
+      "40323101",
+      "40663333",
+      "39569740",
+      "30207358",
+      "31134733",
+      "36535068",
+      "26334259",
+      "12224936",
+      "14621984",
+      "32917865",
+      "30178264",
+      "22075027",
+      "42210863",
+      "28009004",
+      "40004213",
+      "20038708",
+      "41693001",
+      "36321557",
+      "26000750",
+      "37039644"
+    ],
+    "review": [
+      "42773138",
+      "30069573",
+      "12325005",
+      "14529378",
+      "40576373",
+      "39195464",
+      "27853778",
+      "17944384",
+      "33640957",
+      "26429504",
+      "14650927",
+      "39519324",
+      "25214216",
+      "30207358",
+      "31134733",
+      "30178264",
+      "42210863"
+    ],
+    "pmc": [
+      "13598123"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-77963-6",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "identity": {
+    "pmid": "42789505",
+    "doi": "10.1371/journal.pone.0358890",
+    "title": "Co-evolution of RcsD and RcsF shapes signal transduction in the enterobacteriaceae Rcs system."
+  },
+  "content": {
+    "abstract": "Two-component systems (TCS) formed of sensor histidine kinases (HK) and response regulators (RR) are the primary prokaryotic signal transduction pathways. In Enterobacteriaceae, some TCS evolved architectural complexity, by integrating auxiliary proteins into the HK- RR dyad. The Regulator of Capsule Synthesis (Rcs), a conserved phosphorelay system in Enterobacteriaceae, recruits several auxiliary proteins, including an outer membrane lipoprotein, RcsF, which senses cell envelope threats and transduces the signal to downstream components. A second auxiliary protein located in the inner membrane, RcsD, transfers the phosphoryl group from the hybrid histidine kinase RcsC to the response regulator RcsB. RcsD is formed of a large periplasmic domain (Asn43-Asn308) sandwiched between two transmembrane helices and a cytosolic domain. For RcsD, the role and evolutionary benefit of maintaining a large periplasmic domain while the main phosphostransfer reaction occurs in the cytosol is not clear. Here, we show that RcsF and RcsD exhibit strong co-evolutionary coupling independent of host speciation (partial Mantel r = 0.950, p < 0.0001). Structure-guided docking and 500-ns molecular dynamics simulations predicted a stable interaction between RcsF and RcsD (MM-GBSA DeltaG  approximately  -95 kcal/mol), suggesting their functional coupling. Functional assays in Escherichia coli K12 MG1655 revealed that RcsD periplasmic domain represses basal Rcs activity in unstressed cells (~5-fold derepression) yet is essential for stress-induced activation (1.9-2.5-fold). Overexpression of rcsF beyond the chromosomal level induces Rcs signal activation only when the RcsD periplasmic domain is present. These findings demonstrate how co-evolution of an auxiliary protein generates novel regulatory function in the Rcs phosphorelay and provide insights into the role of RcsD periplasmic domain in stress signal transduction.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Signal Transduction",
+      "*Escherichia coli Proteins/metabolism/genetics/chemistry",
+      "*Evolution, Molecular",
+      "*Enterobacteriaceae/metabolism/genetics",
+      "*Bacterial Proteins/metabolism/genetics/chemistry",
+      "Protein Domains",
+      "Escherichia coli/metabolism/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Dapour, Abdelraouf O",
+        "Shehata, Moustafa",
+        "Siam, Rania",
+        "Hussein, Nahla A"
+      ],
+      "short_names": [
+        "Dapour AO",
+        "Shehata M",
+        "Siam R",
+        "Hussein NA"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-2520-0896"
+      ],
+      "affiliations": [
+        "Biotechnology Graduate Program, School of Sciences and Engineering, The American University in Cairo, Cairo, Egypt.",
+        "Bioinformatics and Computational Biology Program, Iowa State University, Ames, Iowa, United States of America.",
+        "Modern Sciences and Arts Universities, Giza, Egypt.",
+        "Biotechnology Graduate Program, School of Sciences and Engineering, The American University in Cairo, Cairo, Egypt.",
+        "Ross University School of Medicine, Saint Micheal, Barbados.",
+        "Molecular Biology Department, Biotechnology Research Institute, National Research Centre, Cairo, Egypt."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Dapour, Abdelraouf O",
+        "short_name": "Dapour AO",
+        "identifiers": [],
+        "affiliations": [
+          "Biotechnology Graduate Program, School of Sciences and Engineering, The American University in Cairo, Cairo, Egypt.",
+          "Bioinformatics and Computational Biology Program, Iowa State University, Ames, Iowa, United States of America."
+        ]
+      },
+      {
+        "full_name": "Shehata, Moustafa",
+        "short_name": "Shehata M",
+        "identifiers": [],
+        "affiliations": [
+          "Modern Sciences and Arts Universities, Giza, Egypt."
+        ]
+      },
+      {
+        "full_name": "Siam, Rania",
+        "short_name": "Siam R",
+        "identifiers": [],
+        "affiliations": [
+          "Biotechnology Graduate Program, School of Sciences and Engineering, The American University in Cairo, Cairo, Egypt.",
+          "Ross University School of Medicine, Saint Micheal, Barbados."
+        ]
+      },
+      {
+        "full_name": "Hussein, Nahla A",
+        "short_name": "Hussein NA",
+        "identifiers": [
+          "0000-0003-2520-0896"
+        ],
+        "affiliations": [
+          "Molecular Biology Department, Biotechnology Research Institute, National Research Centre, Cairo, Egypt."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "PloS one"
+    ],
+    "journal_abbrev": [
+      "PLoS One"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/25 17:33",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42789505",
+      "39724052",
+      "16166540",
+      "32716926",
+      "28691662",
+      "39372736",
+      "17005198",
+      "21481780",
+      "42388801",
+      "23813676",
+      "19021569",
+      "16740933",
+      "21471196",
+      "38964336",
+      "29852010",
+      "38070002",
+      "16427772",
+      "22322964",
+      "36706155",
+      "21454485",
+      "36892778",
+      "17010160",
+      "37303533",
+      "32985973",
+      "16153174",
+      "40980883",
+      "24023746",
+      "25525882",
+      "41247015",
+      "20675476",
+      "29897834",
+      "16164568",
+      "13129944",
+      "40903550",
+      "19260968",
+      "25667010",
+      "20722597",
+      "34349021",
+      "15375134",
+      "29487239",
+      "17561945",
+      "22503979",
+      "18192383",
+      "9401031",
+      "15476819",
+      "19780840",
+      "34898261",
+      "40287507",
+      "27802580",
+      "38582452",
+      "25207645",
+      "36920223",
+      "16776655",
+      "22563052",
+      "27282389",
+      "30530842",
+      "11309126",
+      "31932309",
+      "26635367",
+      "38842315",
+      "19696107",
+      "8366025",
+      "32753477",
+      "28674068",
+      "29263101",
+      "28522691",
+      "30782633",
+      "20205655",
+      "24957621",
+      "25267629",
+      "27670836",
+      "9220011",
+      "30833359",
+      "19236575",
+      "42475469",
+      "31113900",
+      "28396353",
+      "9364917",
+      "28674071",
+      "20724387",
+      "16166523",
+      "9159399",
+      "12907689",
+      "10543964",
+      "9489669",
+      "23044854",
+      "23226719",
+      "11758943",
+      "27273553",
+      "26438879",
+      "34809457",
+      "11325944",
+      "29967121",
+      "22582278",
+      "33658986",
+      "35876508",
+      "38964677",
+      "17609140",
+      "17609132",
+      "28512092"
+    ],
+    "review": [
+      "42789505",
+      "36892778",
+      "16153174",
+      "29897834",
+      "20722597",
+      "28674071"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

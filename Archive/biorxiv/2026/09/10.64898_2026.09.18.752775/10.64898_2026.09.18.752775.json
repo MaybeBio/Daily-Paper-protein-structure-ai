@@ -1,0 +1,619 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.18.752775",
+  "title": "FiberPro 1.0: Multiagent AI-Guided Design for High-Throughput Production and Conformal Deposition of Functional Protein Micro/Nanofibers",
+  "doi": "10.64898/2026.09.18.752775",
+  "abstract": "Functional protein micro/nanofibers integrate high specific surface areas with bioactive architectures but remain hampered low production throughput and severe processing instability. Focused rotary jet spinning (FRJS) shows promising to break these throughput constraints while enabling direct, conformal deposition onto complex, irregular substrates. However, navigating FRJS’s narrow processing windows in proteins remains failure-prone without closed-loop experimental guidance. Here, we report FiberPro 1.0, a large language model–driven multi-agent framework that unites high-throughput spinning with real-time experimental feedback for autonomous design, execution, and optimization. Across three protein systems, FiberPro 1.0 converged on spinnable formulations within an average of two iterations. To demonstrate high-throughput conformal deposition in a translational setting, FiberPro designed a zein-based active packaging system applied directly onto diverse food matrices. The resulting conformal coating combined potent antibacterial activity with real-time freshness monitoring, markedly suppressing Escherichia coli and extending shelf life. This work connects autonomous AI reasoning with high-throughput processing, establishing a verifiable route for scalable manufacturing and conformal coating of functional protein micro/nanofibers.",
+  "authors": [
+    "Longwen Li",
+    "Carter Moses",
+    "Yechan Noh",
+    "Charlie Hsu",
+    "Fatima Calderon Gutierrez",
+    "Cody Ruiz",
+    "Wenjie Liu",
+    "Juan Felipe Mogollón Molina",
+    "Kaiyu Fu",
+    "Huibin Chang"
+  ],
+  "published_date": "2026-09-22",
+  "updated_date": "2026-09-22T14:23:23Z",
+  "journal": "bioRxiv",
+  "category": "Bioengineering",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.18.752775",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.18.752775.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [
+    "Bioengineering"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Bioengineering",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            25
+          ]
+        ],
+        "date-time": "2026-09-25T20:00:04Z",
+        "timestamp": 1790366404514,
+        "version": "4.1.0"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            22
+          ]
+        ]
+      },
+      "group-title": "Bioengineering",
+      "reference-count": 42,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                22
+              ]
+            ],
+            "date-time": "2026-09-22T00:00:00Z",
+            "timestamp": 1790035200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            22
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>Functional protein micro/nanofibers integrate high specific surface areas with bioactive architectures but remain hampered low production throughput and severe processing instability. Focused rotary jet spinning (FRJS) shows promising to break these throughput constraints while enabling direct, conformal deposition onto complex, irregular substrates. However, navigating FRJS’s narrow processing windows in proteins remains failure-prone without closed-loop experimental guidance. Here, we report FiberPro 1.0, a large language model–driven multi-agent framework that unites high-throughput spinning with real-time experimental feedback for autonomous design, execution, and optimization. Across three protein systems, FiberPro 1.0 converged on spinnable formulations within an average of two iterations. To demonstrate high-throughput conformal deposition in a translational setting, FiberPro designed a zein-based active packaging system applied directly onto diverse food matrices. The resulting conformal coating combined potent antibacterial activity with real-time freshness monitoring, markedly suppressing Escherichia coli and extending shelf life. This work connects autonomous AI reasoning with high-throughput processing, establishing a verifiable route for scalable manufacturing and conformal coating of functional protein micro/nanofibers.</jats:p>",
+      "DOI": "10.64898/2026.09.18.752775",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            22
+          ]
+        ],
+        "date-time": "2026-09-22T14:23:23Z",
+        "timestamp": 1790087003000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "FiberPro 1.0: Multiagent AI-Guided Design for High-Throughput Production and Conformal Deposition of Functional Protein Micro/Nanofibers"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "given": "Longwen",
+          "family": "Li",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Aerospace and Mechanical Engineering, University of Notre Dame, Notre Dame IN 46556, United States"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Carter",
+          "family": "Moses",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Aerospace and Mechanical Engineering, University of Notre Dame, Notre Dame IN 46556, United States"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yechan",
+          "family": "Noh",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Aerospace and Mechanical Engineering, University of Notre Dame, Notre Dame IN 46556, United States"
+            },
+            {
+              "name": "Department of Chemistry and Biochemistry, University of Notre Dame, Notre Dame IN 46556, United States"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Charlie",
+          "family": "Hsu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Aerospace and Mechanical Engineering, University of Notre Dame, Notre Dame IN 46556, United States"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Fatima Calderon",
+          "family": "Gutierrez",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Biology & Chemistry, Bethel University, Mishawaka IN 46545, United States"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Cody",
+          "family": "Ruiz",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Biology & Chemistry, Bethel University, Mishawaka IN 46545, United States"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Wenjie",
+          "family": "Liu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Aerospace and Mechanical Engineering, University of Notre Dame, Notre Dame IN 46556, United States"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Juan Felipe",
+          "family": "Mogollón Molina",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Aerospace and Mechanical Engineering, University of Notre Dame, Notre Dame IN 46556, United States"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Kaiyu",
+          "family": "Fu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Chemistry and Biochemistry, University of Notre Dame, Notre Dame IN 46556, United States"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Huibin",
+          "family": "Chang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Aerospace and Mechanical Engineering, University of Notre Dame, Notre Dame IN 46556, United States"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "reference": [
+        {
+          "key": "2026092512100972000_2026.09.18.752775v1.1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "T. Schiller , T. Scheibel , Bioinspired and biomimetic protein-based fibers and their applications. Commun Mater 5, 56 (2024).",
+          "DOI": "10.1038/s43246-024-00488-2"
+        },
+        {
+          "key": "2026092512100972000_2026.09.18.752775v1.2",
+          "doi-asserted-by": "crossref",
+          "first-page": "137236",
+          "DOI": "10.1016/j.foodchem.2023.137236",
+          "article-title": "Electrospun plant protein-based nanofibers in food packaging",
+          "volume": "432",
+          "year": "2024",
+          "journal-title": "Food Chemistry"
+        },
+        {
+          "key": "2026092512100972000_2026.09.18.752775v1.3",
+          "doi-asserted-by": "crossref",
+          "first-page": "2000232",
+          "DOI": "10.1002/admt.202000232",
+          "article-title": "Direct-Printing of Functional Nanofibers on 3D Surfaces Using Self-Aligning Nanojet in Near-Field Electrospinning",
+          "volume": "5",
+          "year": "2020",
+          "journal-title": "Advanced Materials Technologies"
+        },
+        {
+          "key": "2026092512100972000_2026.09.18.752775v1.4",
+          "doi-asserted-by": "crossref",
+          "first-page": "200184",
+          "DOI": "10.1016/j.amf.2024.200184",
+          "article-title": "The Jet Behavior of Non-Contact Electric Field-Driven Jet Micro 3D Printing",
+          "volume": "4",
+          "year": "2025",
+          "journal-title": "Additive Manufacturing Frontiers"
+        },
+        {
+          "key": "2026092512100972000_2026.09.18.752775v1.5",
+          "doi-asserted-by": "crossref",
+          "first-page": "435",
+          "DOI": "10.1007/s12393-021-09304-w",
+          "article-title": "Current Developments on Rotary Forcespun Nanofibers and Prospects for Edible Applications",
+          "volume": "14",
+          "year": "2022",
+          "journal-title": "Food Eng Rev"
+        },
+        {
+          "key": "2026092512100972000_2026.09.18.752775v1.6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/nl101355x"
+        },
+        {
+          "key": "2026092512100972000_2026.09.18.752775v1.7",
+          "doi-asserted-by": "crossref",
+          "first-page": "428",
+          "DOI": "10.1038/s43016-022-00523-w",
+          "article-title": "High-throughput coating with biodegradable antimicrobial pullulan fibres extends shelf life and reduces weight loss in an avocado model",
+          "volume": "3",
+          "year": "2022",
+          "journal-title": "Nat Food"
+        },
+        {
+          "key": "2026092512100972000_2026.09.18.752775v1.8",
+          "doi-asserted-by": "crossref",
+          "first-page": "1860",
+          "DOI": "10.1016/j.matt.2023.05.025",
+          "article-title": "On-demand heart valve manufacturing using focused rotary jet spinning",
+          "volume": "6",
+          "year": "2023",
+          "journal-title": "Matter"
+        },
+        {
+          "key": "2026092512100972000_2026.09.18.752775v1.9",
+          "unstructured": "M. M. Peters , K. Atrott , D. Zorndt , D. Meier , M. Y. Emmert , Y. Lee , Y. Wang , S. Robmann , S. P. Hoerstrup , M. Generali , K. K. Parker , Small Diameter Vascular Grafts Made in Minutes. Advanced Materials n/a, e09353."
+        },
+        {
+          "key": "2026092512100972000_2026.09.18.752775v1.10",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.abl6395"
+        },
+        {
+          "key": "2026092512100972000_2026.09.18.752775v1.11",
+          "doi-asserted-by": "crossref",
+          "unstructured": "S. Noroozi , W. Arne , R. G. Larson , S. M. Taghavi , A comprehensive mathematical model for nanofibre formation in centrifugal spinning methods. Journal of Fluid Mechanics 892, A26 (2020).",
+          "DOI": "10.1017/jfm.2020.196"
+        },
+        {
+          "key": "2026092512100972000_2026.09.18.752775v1.12",
+          "doi-asserted-by": "crossref",
+          "unstructured": "M. H. Syed , M. M. R. Khan , M. A. K. M. Zahari , M. D. H. Beg , N. Abdullah , Current issues and potential solutions for the electrospinning of major polysaccharides and proteins: A review. International Journal of Biological Macromolecules 253, 126735 (2023).",
+          "DOI": "10.1016/j.ijbiomac.2023.126735"
+        },
+        {
+          "key": "2026092512100972000_2026.09.18.752775v1.13",
+          "doi-asserted-by": "crossref",
+          "first-page": "519",
+          "DOI": "10.1080/10408436.2022.2080640",
+          "article-title": "Centrifugal spinning for biomedical use: a review",
+          "volume": "48",
+          "year": "2023",
+          "journal-title": "Critical Reviews in Solid State and Materials Sciences"
+        },
+        {
+          "key": "2026092512100972000_2026.09.18.752775v1.14",
+          "doi-asserted-by": "crossref",
+          "first-page": "64",
+          "DOI": "10.1109/JAS.2020.1003387",
+          "article-title": "A novel automatic classification system based on hybrid unsupervised and supervised machine learning for electrospun nanofibers",
+          "volume": "8",
+          "year": "2021",
+          "journal-title": "IEEE/CAA Journal of Automatica Sinica"
+        },
+        {
+          "key": "2026092512100972000_2026.09.18.752775v1.15",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Y. Feng , F. Chen , Y. Wen , S. Xue , T. Huang , Q. Kang , J. Ye , D. Xie , B. Jiang , P. Ding , J. Dai , P. Song , Machine learning enabled discoveries of high flame retardancy, strength and biodegradable cellulose nanofiber (CNF)/polyvinyl alcohol (PVA) films. Adv Compos Hybrid Mater 9, 276 (2026).",
+          "DOI": "10.1007/s42114-026-01795-7"
+        },
+        {
+          "key": "2026092512100972000_2026.09.18.752775v1.16",
+          "doi-asserted-by": "crossref",
+          "first-page": "724",
+          "DOI": "10.1126/science.aef1620",
+          "article-title": "AI-guided design of efficient perovskite solar cells operationally stable at 100°C",
+          "volume": "392",
+          "year": "2026",
+          "journal-title": "Science"
+        },
+        {
+          "key": "2026092512100972000_2026.09.18.752775v1.17",
+          "doi-asserted-by": "crossref",
+          "unstructured": "A. E. Ghareeb , B. Chang , L. Mitchener , A. Yiu , C. J. Szostkiewicz , D. Shved , G. J. Gyimesi , J. M. Laurent , S. M. Wright , M. T. Razzak , A. D. White , S. C. Finnemann , M. M. Hinks , S. G. Rodriques , A multi-agent system for automating scientific discovery. Nature, 1–9 (2026).",
+          "DOI": "10.1038/s41586-026-10652-y"
+        },
+        {
+          "key": "2026092512100972000_2026.09.18.752775v1.18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41586-023-06792-0"
+        },
+        {
+          "key": "2026092512100972000_2026.09.18.752775v1.19",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/ACS.CHEMREV.0C01333"
+        },
+        {
+          "key": "2026092512100972000_2026.09.18.752775v1.20",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/acssuschemeng.0c05917"
+        },
+        {
+          "key": "2026092512100972000_2026.09.18.752775v1.21",
+          "unstructured": "Generally Recognized as Safe (GRAS) | FDA. https://www.fda.gov/food/food-ingredients-packaging/generally-recognized-safe-gras."
+        },
+        {
+          "key": "2026092512100972000_2026.09.18.752775v1.22",
+          "doi-asserted-by": "crossref",
+          "first-page": "37",
+          "DOI": "10.1016/j.eml.2018.10.005",
+          "article-title": "A viscoelastic beam theory of polymer jets with application to rotary jet spinning",
+          "volume": "25",
+          "year": "2018",
+          "journal-title": "Extreme Mechanics Letters"
+        },
+        {
+          "key": "2026092512100972000_2026.09.18.752775v1.23",
+          "doi-asserted-by": "crossref",
+          "first-page": "256",
+          "DOI": "10.1007/s42765-020-00048-6",
+          "article-title": "Curcumin-Loaded Electrospun Fibers: Fluorescence and Antibacterial Activity",
+          "volume": "2",
+          "year": "2020",
+          "journal-title": "Adv. Fiber Mater"
+        },
+        {
+          "key": "2026092512100972000_2026.09.18.752775v1.24",
+          "doi-asserted-by": "crossref",
+          "first-page": "437",
+          "DOI": "10.1016/j.foodhyd.2016.09.028",
+          "article-title": "Release kinetics and antibacterial activity of curcumin loaded zein fibers",
+          "volume": "63",
+          "year": "2017",
+          "journal-title": "Food Hydrocolloids"
+        },
+        {
+          "key": "2026092512100972000_2026.09.18.752775v1.25",
+          "doi-asserted-by": "crossref",
+          "first-page": "5060",
+          "DOI": "10.1038/s41467-025-60382-4",
+          "article-title": "Preserving fruit freshness with amyloid-like protein coatings",
+          "volume": "16",
+          "year": "2025",
+          "journal-title": "Nat Commun"
+        },
+        {
+          "key": "2026092512100972000_2026.09.18.752775v1.26",
+          "doi-asserted-by": "crossref",
+          "first-page": "100131",
+          "DOI": "10.1016/j.foostr.2019.100131",
+          "article-title": "Characterization of Aloe vera-banana starch composite films reinforced with curcumin-loaded starch nanoparticles",
+          "volume": "22",
+          "year": "2019",
+          "journal-title": "Food Structure"
+        },
+        {
+          "key": "2026092512100972000_2026.09.18.752775v1.27",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/S41586-021-03819-2"
+        },
+        {
+          "key": "2026092512100972000_2026.09.18.752775v1.28",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/acs.jctc.1c00169"
+        },
+        {
+          "key": "2026092512100972000_2026.09.18.752775v1.29",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/jcc.20945"
+        },
+        {
+          "key": "2026092512100972000_2026.09.18.752775v1.30",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nmeth.4067"
+        },
+        {
+          "key": "2026092512100972000_2026.09.18.752775v1.31",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/jcc.21367"
+        },
+        {
+          "key": "2026092512100972000_2026.09.18.752775v1.32",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1529/biophysj.108.133025"
+        },
+        {
+          "key": "2026092512100972000_2026.09.18.752775v1.33",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/1.445869"
+        },
+        {
+          "key": "2026092512100972000_2026.09.18.752775v1.34",
+          "unstructured": "All-Atom Empirical Potential for Molecular Modeling and Dynamics Studies of Proteins | The Journal of Physical Chemistry B. https://pubs.acs.org/doi/10.1021/jp973084f."
+        },
+        {
+          "key": "2026092512100972000_2026.09.18.752775v1.35",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/5.0020514"
+        },
+        {
+          "key": "2026092512100972000_2026.09.18.752775v1.36",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/ct5010406"
+        },
+        {
+          "key": "2026092512100972000_2026.09.18.752775v1.37",
+          "doi-asserted-by": "crossref",
+          "unstructured": "B. Hess , H. Bekker , H. Berendsen , J. Fraaije , LINCS: A Linear Constraint Solver for molecular simulations. Journal of Computational Chemistry 18 (1998).",
+          "DOI": "10.1002/(SICI)1096-987X(199709)18:12<1463::AID-JCC4>3.0.CO;2-H"
+        },
+        {
+          "key": "2026092512100972000_2026.09.18.752775v1.38",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/1.2408420"
+        },
+        {
+          "key": "2026092512100972000_2026.09.18.752775v1.39",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1063/1.464397"
+        },
+        {
+          "key": "2026092512100972000_2026.09.18.752775v1.40",
+          "doi-asserted-by": "crossref",
+          "unstructured": "M. J. Abraham , T. Murtola , R. Schulz , S. Páll , J. C. Smith , B. Hess , E. Lindahl , GROMACS: High performance molecular simulations through multi-level parallelism from laptops to supercomputers. SoftwareX 1–2, 19–25 (2015).",
+          "DOI": "10.1016/j.softx.2015.06.001"
+        },
+        {
+          "key": "2026092512100972000_2026.09.18.752775v1.41",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/jcc.21787"
+        },
+        {
+          "key": "2026092512100972000_2026.09.18.752775v1.42",
+          "doi-asserted-by": "crossref",
+          "unstructured": "R. Gowers , M. Linke , J. Barnoud , T. Reddy , M. Melo , S. L. Seyler , J. Domański , D. Dotson , S. Buchoux , I. Kenney , O. Beckstein , “MDAnalysis: A Python Package for the Rapid Analysis of Molecular Dynamics Simulations” (2016), pp. 98–105.",
+          "DOI": "10.25080/Majora-629e541a-00e"
+        }
+      ],
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.09.18.752775",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            25
+          ]
+        ],
+        "date-time": "2026-09-25T19:10:20Z",
+        "timestamp": 1790363420000
+      },
+      "score": 37.06825,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.09.18.752775"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            22
+          ]
+        ]
+      },
+      "references-count": 42,
+      "URL": "https://doi.org/10.64898/2026.09.18.752775",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            22
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

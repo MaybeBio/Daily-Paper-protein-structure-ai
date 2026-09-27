@@ -1,0 +1,244 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.18.752707",
+  "title": "A Context-Aware 14-3-3 Binding Predictor Enabled by Data Augmentation, Multi-Scale Biological Features, and Protein Language Model Embeddings",
+  "doi": "10.64898/2026.09.18.752707",
+  "abstract": "Identifying phosphorylated serine/threonine residues that mediate 14-3-3 interactions remain a major challenge in understanding phospho-dependent 14-3-3 regulation. Existing predictors largely rely on local sequence features surrounding candidate phosphosites, owing in part to the limited number of experimentally validated 14-3-3 binding sites, while broader contextual determinants of binding remain insufficiently explored. Here, we show that 14-3-3 binding sites are defined not only by local motif patterns but also by multi-scale biological context. We found that 14-3-3-binding proteins are enriched for condensation-related properties, that 14-3-3 docking sites preferentially localize to compact intrinsically disordered regions, and that protein language model embeddings provide informative representations for this task. To address both limited data availability and incomplete site representation, we developed CAMP-14-3-3 (Context-Aware Multi-scale Predictor for 14-3-3 binding), a framework that integrates multi- scale biological features with protein language model embeddings, together with a phylogeny-based data augmentation strategy and distribution-matched negative sampling. This integrated framework outperformed motif-based approaches and existing predictors on independent data. Our results support a context-aware view of 14-3-3 recognition and provide a general strategy for modeling phospho-dependent protein interactions under limited-data conditions.",
+  "authors": [
+    "Liu Liu",
+    "Zhong Wang",
+    "Xiaoqiang Huang"
+  ],
+  "published_date": "2026-09-24",
+  "updated_date": "2026-09-25T03:30:16Z",
+  "journal": "bioRxiv",
+  "category": "Bioinformatics",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.18.752707",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.18.752707.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [
+    "Bioinformatics"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Bioinformatics",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            25
+          ]
+        ],
+        "date-time": "2026-09-25T04:00:37Z",
+        "timestamp": 1790308837556,
+        "version": "4.1.0"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            24
+          ]
+        ]
+      },
+      "group-title": "Bioinformatics",
+      "reference-count": 0,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                24
+              ]
+            ],
+            "date-time": "2026-09-24T00:00:00Z",
+            "timestamp": 1790208000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://www.biorxiv.org/about/FAQ#license"
+        }
+      ],
+      "funder": [
+        {
+          "award": [
+            "24CDA1272976"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "24CDA1272976"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/013kjyp64",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "name": "University of Michigan Research Scout",
+          "award": [
+            "OORRS033123"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "OORRS033123"
+              ]
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            24
+          ]
+        ]
+      },
+      "abstract": "<jats:p>Identifying phosphorylated serine/threonine residues that mediate 14-3-3 interactions remain a major challenge in understanding phospho-dependent 14-3-3 regulation. Existing predictors largely rely on local sequence features surrounding candidate phosphosites, owing in part to the limited number of experimentally validated 14-3-3 binding sites, while broader contextual determinants of binding remain insufficiently explored. Here, we show that 14-3-3 binding sites are defined not only by local motif patterns but also by multi-scale biological context. We found that 14-3-3-binding proteins are enriched for condensation-related properties, that 14-3-3 docking sites preferentially localize to compact intrinsically disordered regions, and that protein language model embeddings provide informative representations for this task. To address both limited data availability and incomplete site representation, we developed CAMP-14-3-3 (Context-Aware Multi-scale Predictor for 14-3-3 binding), a framework that integrates multi- scale biological features with protein language model embeddings, together with a phylogeny-based data augmentation strategy and distribution-matched negative sampling. This integrated framework outperformed motif-based approaches and existing predictors on independent data. Our results support a context-aware view of 14-3-3 recognition and provide a general strategy for modeling phospho-dependent protein interactions under limited-data conditions.</jats:p>",
+      "DOI": "10.64898/2026.09.18.752707",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            25
+          ]
+        ],
+        "date-time": "2026-09-25T03:30:16Z",
+        "timestamp": 1790307016000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "A Context-Aware 14-3-3 Binding Predictor Enabled by Data Augmentation, Multi-Scale Biological Features, and Protein Language Model Embeddings"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "given": "Liu",
+          "family": "Liu",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "University of Michigan"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Zhong",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of Michigan"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xiaoqiang",
+          "family": "Huang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of Michigan"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.09.18.752707",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            25
+          ]
+        ],
+        "date-time": "2026-09-25T03:30:16Z",
+        "timestamp": 1790307016000
+      },
+      "score": 43.207108,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.09.18.752707"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            24
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.64898/2026.09.18.752707",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            24
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

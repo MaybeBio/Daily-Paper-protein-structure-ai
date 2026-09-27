@@ -1,0 +1,215 @@
+{
+  "identity": {
+    "pmid": "42792956",
+    "doi": "10.3390/genes17091062",
+    "title": "Cross-Model Uncertainty-Aware Minimal Editing of Cis-Regulatory Elements for Cell-Type-Selective Design."
+  },
+  "content": {
+    "abstract": "Background/Objectives: Cis-regulatory elements (CREs) help mediate cell-type-selective gene expression, yet sequence-to-activity models are rarely converted into compact, experimentally tractable variant panels that retain natural regulatory scaffolds. We developed SafeEdit-CRE to select minimal edits that preserve cross-model specificity while reducing predictive uncertainty, yielding an auditable CRE variant library for reporter-screening prioritization. Methods: SafeEdit-CRE combines the published Malinois sequence-activity predictor with an architecture-distinct reviewer ensemble, validation-calibrated uncertainty, sequence-domain controls, and constrained beam search. Natural 200 nt CREs were edited under fixed substitution budgets of 1, 5, 10, or 20 nucleotides and evaluated by a separately trained multi-kernel ensemble kept entirely separate from candidate generation. Results: Across 600 held-out CRE parents in K562, HepG2, and SK-N-SH cells, SafeEdit-CRE achieved a mean cross-model specificity-margin gain of 0.877 versus 0.822 for greedy editing (paired difference 0.055; 95% CI 0.040-0.071). Relative to a compute-matched primary-model beam, SafeEdit-CRE yielded a similar cross-model specificity-margin gain (difference -0.004; 95% CI -0.011-0.004) with lower ensemble uncertainty (0.314 vs. 0.335). In a locked 90-parent benchmark, 60.6% of designs passed all nine prespecified sequence and model-agreement checks, compared with 38.8% for greedy and 13.1% for random substitution (paired difference 21.8 percentage points; 95% CI 18.3-25.3). Conclusions: SafeEdit-CRE reduced 3240 designs to 74 Tier A computational candidates prioritized for reporter screening across three cell types and four edit budgets. By separating search from cross-model audit and enforcing explicit edit budgets and sequence-domain safeguards, the framework provides a reproducible and auditable approach to computational CRE prioritization, regulatory-grammar studies, and synthetic regulatory-element design.",
+    "keywords": [
+      "cell-type specificity",
+      "cis-regulatory elements",
+      "functional genomics",
+      "machine learning",
+      "regulatory-sequence design",
+      "reporter screening"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Regulatory Sequences, Nucleic Acid/genetics",
+      "Uncertainty",
+      "*Gene Editing/methods",
+      "Hep G2 Cells",
+      "K562 Cells"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Xia, Angran",
+        "Wang, Changwei",
+        "Xia, Yemao"
+      ],
+      "short_names": [
+        "Xia A",
+        "Wang C",
+        "Xia Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Chemistry and Chemical Engineering, Shaanxi Normal University, 620 West Chang'an Avenue, Chang'an District, Xi'an 710119, China.",
+        "School of Chemistry and Chemical Engineering, Shaanxi Normal University, 620 West Chang'an Avenue, Chang'an District, Xi'an 710119, China.",
+        "College of Science, Nanjing Forestry University, 159 Longpan Road, Xuanwu District, Nanjing 210037, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Xia, Angran",
+        "short_name": "Xia A",
+        "identifiers": [],
+        "affiliations": [
+          "School of Chemistry and Chemical Engineering, Shaanxi Normal University, 620 West Chang'an Avenue, Chang'an District, Xi'an 710119, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Changwei",
+        "short_name": "Wang C",
+        "identifiers": [],
+        "affiliations": [
+          "School of Chemistry and Chemical Engineering, Shaanxi Normal University, 620 West Chang'an Avenue, Chang'an District, Xi'an 710119, China."
+        ]
+      },
+      {
+        "full_name": "Xia, Yemao",
+        "short_name": "Xia Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Science, Nanjing Forestry University, 159 Longpan Road, Xuanwu District, Nanjing 210037, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Genes"
+    ],
+    "journal_abbrev": [
+      "Genes (Basel)"
+    ],
+    "pub_date": "2026 Sep 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/26 05:35",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42792956",
+      "42792973",
+      "36321557",
+      "39443793",
+      "41310253",
+      "37609287",
+      "36945371",
+      "40382355",
+      "42475469",
+      "40421528",
+      "22215325",
+      "42216449",
+      "41437153",
+      "37410590",
+      "31206543",
+      "41420926",
+      "39199333",
+      "33259518",
+      "40060626",
+      "32043966",
+      "26072432",
+      "39814889",
+      "40205616",
+      "23935528",
+      "39322281",
+      "34711176",
+      "39904740",
+      "41926741",
+      "40065399",
+      "34898596",
+      "41554183",
+      "25303887",
+      "31915147",
+      "29553663",
+      "41381741",
+      "38889146",
+      "35435921",
+      "40245860",
+      "8863492",
+      "42708417",
+      "25442502",
+      "26486725",
+      "1701437",
+      "27161480",
+      "29524151",
+      "40140332",
+      "23129659",
+      "40034789",
+      "38724692",
+      "29996889",
+      "41544987",
+      "41429964",
+      "40962852",
+      "40369872",
+      "42492189",
+      "42310064",
+      "42069922",
+      "36102513",
+      "42234579",
+      "34149757",
+      "16412085",
+      "34382198",
+      "38844462",
+      "39843737",
+      "39602276",
+      "8156625",
+      "12562513",
+      "2481230",
+      "41237776",
+      "38631728",
+      "8376406",
+      "9212056",
+      "33962556",
+      "2850495",
+      "39090688",
+      "18407764",
+      "23867016",
+      "10619397",
+      "41429956",
+      "40397576",
+      "38706797",
+      "29363433",
+      "34462306",
+      "38213995",
+      "39026229",
+      "22915576",
+      "35594855",
+      "37309871",
+      "41814043",
+      "42640418",
+      "27831498",
+      "42079234",
+      "42650039",
+      "35769926",
+      "30224643",
+      "41906094",
+      "27193099",
+      "33046894",
+      "42655481",
+      "39948336"
+    ],
+    "review": [
+      "42792956",
+      "36321557",
+      "41420926",
+      "39199333",
+      "26072432",
+      "41554183",
+      "42708417",
+      "40140332",
+      "41429964",
+      "42492189",
+      "18407764"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

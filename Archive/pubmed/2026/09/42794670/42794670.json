@@ -1,0 +1,264 @@
+{
+  "identity": {
+    "pmid": "42794670",
+    "doi": "10.3390/ijms27188240",
+    "title": "Molecular Dynamics Simulations Reveal Structural Changes Associated with the ABCA1 R230C Functional Variant."
+  },
+  "content": {
+    "abstract": "The ATP-binding cassette transporter A1 (ABCA1) functional variant R230C (rs9282541) is associated with low plasma HDL-C levels, yet its atomic-scale mechanism remains unclear. We evaluated the structural and dynamic impact of R230C compared to wild-type (WT) ABCA1 using 200 ns molecular dynamics simulations in a lipid raft membrane. While the tertiary fold was preserved, R230C exhibited reduced overall flexibility (lower RMSD and localized RMSF rigidification) alongside a slightly expanded conformation (increased Rg and SASA). Localized fluctuations near residue 230 in extracellular domain 1 (ECD1) were coupled with decreased dynamic heterogeneity in distal functional regions, particularly nucleotide-binding domain 2 (NBD2) and transmembrane domain 2 (TMD2). MOSAICS analysis revealed subtle alterations in membrane thickness, midplane displacement, and lipid orientation. Furthermore, CAVER tunnel analysis demonstrated increased pathway heterogeneity (17 clusters in R230C vs. 10 in WT), lower persistence, and smaller bottleneck radii, disrupting the primary cholesterol transport route. Thus, R230C acts as a dynamic allosteric modulator and membrane-coupling agent rather than a folding-disruptive mutation, providing a biophysical rationale for reduced cholesterol efflux and low plasma HDL-C levels.",
+    "keywords": [
+      "ABCA1 membrane protein",
+      "HDL cholesterol",
+      "Protein Structure",
+      "R230C variant",
+      "cholesterol efflux",
+      "hypoalphalipoproteinemia"
+    ],
+    "mesh_terms": [
+      "*ATP Binding Cassette Transporter 1/genetics/chemistry/metabolism",
+      "*Molecular Dynamics Simulation",
+      "Humans",
+      "Cholesterol/metabolism",
+      "Protein Conformation",
+      "Membrane Microdomains/metabolism/chemistry",
+      "Mutation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "de la Cruz-Lopez, Juan Jose",
+        "Martinez-Gonzalez, Luis Ramon Tercero",
+        "Albortante-Morato, Cecilia",
+        "Palma-Orozco, Rosaura",
+        "Flores-Dorantes, Maria Teresa",
+        "Rosas-Trigueros, Jorge Luis"
+      ],
+      "short_names": [
+        "de la Cruz-Lopez JJ",
+        "Martinez-Gonzalez LRT",
+        "Albortante-Morato C",
+        "Palma-Orozco R",
+        "Flores-Dorantes MT",
+        "Rosas-Trigueros JL"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-7496-2179",
+        "ORCID: 0009-0005-6614-3033",
+        "ORCID: 0009-0006-7657-2883",
+        "ORCID: 0000-0003-0208-1644",
+        "ORCID: 0000-0002-8513-4512",
+        "ORCID: 0000-0003-2030-9817"
+      ],
+      "affiliations": [
+        "Laboratorio de Biologia Molecular y Farmacogenomica, Centro de Investigacion de Ciencia y Tecnologia Aplicada de Tabasco (CICTAT), Division Academica de Ciencias Basicas (DACB), Universidad Juarez Autonoma de Tabasco (UJAT), Carretera Cunduacan-Jalpa de Mendez Km. 1, Cunduacan C.P. 86690, Tabasco, Mexico.",
+        "Laboratorio de Biologia Molecular y Farmacogenomica, Centro de Investigacion de Ciencia y Tecnologia Aplicada de Tabasco (CICTAT), Division Academica de Ciencias Basicas (DACB), Universidad Juarez Autonoma de Tabasco (UJAT), Carretera Cunduacan-Jalpa de Mendez Km. 1, Cunduacan C.P. 86690, Tabasco, Mexico.",
+        "Division Academica de Ciencias y Tecnologias de la Informacion (DACYTI), Centro de Investigacion de Ciencia y Tecnologia Aplicada de Tabasco (CICTAT), Universidad Juarez Autonoma de Tabasco (UJAT), Carretera Cunduacan-Jalpa de Mendez Km. 1, Cunduacan C.P. 86690, Tabasco, Mexico.",
+        "Laboratorio Transdisciplinario de Investigacion en Sistemas Evolutivos, Escuela Superior de Computo (ESCOM), Instituto Politecnico Nacional (IPN), Ciudad de Mexico 07738, Mexico.",
+        "Laboratorio Transdisciplinario de Investigacion en Sistemas Evolutivos, Escuela Superior de Computo (ESCOM), Instituto Politecnico Nacional (IPN), Ciudad de Mexico 07738, Mexico.",
+        "Laboratorio de Biologia Molecular y Farmacogenomica, Centro de Investigacion de Ciencia y Tecnologia Aplicada de Tabasco (CICTAT), Division Academica de Ciencias Basicas (DACB), Universidad Juarez Autonoma de Tabasco (UJAT), Carretera Cunduacan-Jalpa de Mendez Km. 1, Cunduacan C.P. 86690, Tabasco, Mexico.",
+        "Laboratorio Transdisciplinario de Investigacion en Sistemas Evolutivos, Escuela Superior de Computo (ESCOM), Instituto Politecnico Nacional (IPN), Ciudad de Mexico 07738, Mexico."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "de la Cruz-López, Juan José",
+        "short_name": "de la Cruz-López JJ",
+        "identifiers": [
+          "0000-0002-7496-2179"
+        ],
+        "affiliations": [
+          "Laboratorio de Biología Molecular y Farmacogenómica, Centro de Investigación de Ciencia y Tecnología Aplicada de Tabasco (CICTAT), División Académica de Ciencias Básicas (DACB), Universidad Juárez Autónoma de Tabasco (UJAT), Carretera Cunduacán-Jalpa de Méndez Km. 1, Cunduacán C.P. 86690, Tabasco, Mexico."
+        ]
+      },
+      {
+        "full_name": "Martínez-González, Luis Ramón Tercero",
+        "short_name": "Martínez-González LRT",
+        "identifiers": [
+          "0009-0005-6614-3033"
+        ],
+        "affiliations": [
+          "Laboratorio de Biología Molecular y Farmacogenómica, Centro de Investigación de Ciencia y Tecnología Aplicada de Tabasco (CICTAT), División Académica de Ciencias Básicas (DACB), Universidad Juárez Autónoma de Tabasco (UJAT), Carretera Cunduacán-Jalpa de Méndez Km. 1, Cunduacán C.P. 86690, Tabasco, Mexico.",
+          "División Académica de Ciencias y Tecnologías de la Información (DACYTI), Centro de Investigación de Ciencia y Tecnología Aplicada de Tabasco (CICTAT), Universidad Juárez Autónoma de Tabasco (UJAT), Carretera Cunduacán-Jalpa de Méndez Km. 1, Cunduacán C.P. 86690, Tabasco, Mexico."
+        ]
+      },
+      {
+        "full_name": "Albortante-Morato, Cecilia",
+        "short_name": "Albortante-Morato C",
+        "identifiers": [
+          "0009-0006-7657-2883"
+        ],
+        "affiliations": [
+          "Laboratorio Transdisciplinario de Investigación en Sistemas Evolutivos, Escuela Superior de Cómputo (ESCOM), Instituto Politécnico Nacional (IPN), Ciudad de México 07738, Mexico."
+        ]
+      },
+      {
+        "full_name": "Palma-Orozco, Rosaura",
+        "short_name": "Palma-Orozco R",
+        "identifiers": [
+          "0000-0003-0208-1644"
+        ],
+        "affiliations": [
+          "Laboratorio Transdisciplinario de Investigación en Sistemas Evolutivos, Escuela Superior de Cómputo (ESCOM), Instituto Politécnico Nacional (IPN), Ciudad de México 07738, Mexico."
+        ]
+      },
+      {
+        "full_name": "Flores-Dorantes, María Teresa",
+        "short_name": "Flores-Dorantes MT",
+        "identifiers": [
+          "0000-0002-8513-4512"
+        ],
+        "affiliations": [
+          "Laboratorio de Biología Molecular y Farmacogenómica, Centro de Investigación de Ciencia y Tecnología Aplicada de Tabasco (CICTAT), División Académica de Ciencias Básicas (DACB), Universidad Juárez Autónoma de Tabasco (UJAT), Carretera Cunduacán-Jalpa de Méndez Km. 1, Cunduacán C.P. 86690, Tabasco, Mexico."
+        ]
+      },
+      {
+        "full_name": "Rosas-Trigueros, Jorge Luis",
+        "short_name": "Rosas-Trigueros JL",
+        "identifiers": [
+          "0000-0003-2030-9817"
+        ],
+        "affiliations": [
+          "Laboratorio Transdisciplinario de Investigación en Sistemas Evolutivos, Escuela Superior de Cómputo (ESCOM), Instituto Politécnico Nacional (IPN), Ciudad de México 07738, Mexico."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of molecular sciences"
+    ],
+    "journal_abbrev": [
+      "Int J Mol Sci"
+    ],
+    "pub_date": "2026 Sep 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/26 05:35",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42794670",
+      "32016916",
+      "22190032",
+      "21315358",
+      "31061090",
+      "33066695",
+      "24646941",
+      "40716699",
+      "11073951",
+      "16984907",
+      "17287470",
+      "23152888",
+      "24120703",
+      "38018436",
+      "32907370",
+      "36889459",
+      "42561456",
+      "25749868",
+      "40617357",
+      "32819213",
+      "28602350",
+      "20427018",
+      "14701812",
+      "18941142",
+      "26497474",
+      "26256050",
+      "20418488",
+      "25579789",
+      "30354238",
+      "12813037",
+      "40402391",
+      "20797885",
+      "30254016",
+      "23273975",
+      "30519876",
+      "12488454",
+      "31814539",
+      "38538338",
+      "34808137",
+      "18003760",
+      "25910759",
+      "20348106",
+      "20650929",
+      "33562440",
+      "16192269",
+      "11279031",
+      "27758769",
+      "42689656",
+      "30249788",
+      "23800855",
+      "21860089",
+      "11929608",
+      "25589556",
+      "12700344",
+      "30950489",
+      "42052822",
+      "25302608",
+      "15347662",
+      "41545245",
+      "28129550",
+      "39978466",
+      "24163219",
+      "23634230",
+      "29748333",
+      "26673204",
+      "24016265",
+      "12551894",
+      "31915322",
+      "29150341",
+      "29135688",
+      "21697542",
+      "12928428",
+      "20731376",
+      "28602962",
+      "26776055",
+      "27758770",
+      "40836431",
+      "31010439",
+      "26579206",
+      "11086027",
+      "25084135",
+      "34393795",
+      "19805625",
+      "23519696",
+      "12482877",
+      "19556522",
+      "22179027",
+      "26232163",
+      "12181325",
+      "12236582",
+      "10998475",
+      "25445391",
+      "26033364",
+      "28330813",
+      "21039336",
+      "30173890",
+      "29588315",
+      "15358760",
+      "24097981",
+      "26207756"
+    ],
+    "review": [
+      "42794670",
+      "33562440",
+      "24016265",
+      "29135688",
+      "12236582"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

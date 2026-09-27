@@ -1,0 +1,249 @@
+{
+  "identity": {
+    "pmid": "42767035",
+    "doi": "10.1016/j.foodchem.2026.151222",
+    "title": "Non-muscle proteins alleviate 118  degrees C sterilization-induced gel quality deterioration by non-covalently modulating myofibrillar protein conformation and aggregation."
+  },
+  "content": {
+    "abstract": "The improvement effects of non-muscle proteins (soy protein isolate (SPI), egg white protein (EWP) and whey protein concentrate (WPC)) on the quality deterioration of high-temperature (118  degrees C) sterilized surimi gels were systematically compared. Supplementation with 4% SPI, 4% EWP, or 8% WPC effectively alleviated the heat-induced quality deterioration of gels, among which 4% SPI exhibiting the best improvement effect, increasing gel strength by 49.15% and water holding capacity by 7.6% compared with the control group. Multi-spectral analysis showed SPI improved myofibrillar protein (MP) solubility, promoted protein unfolding, and strengthened molecular cross-linking. Rheology indicated increased storage modulus (G'), while microstructural images confirmed denser gel network. SPI also inhibited excessive aggregation of MP at 118  degrees C. Molecular docking and dynamics simulations confirmed stable MP-SPI complexes through non-covalent interactions. These findings demonstrate innovative application of SPI in sterilized surimi gels, providing new insights for the development of ready-to-eat surimi products.",
+    "keywords": [
+      "High-temperature sterilization",
+      "Molecular mechanism",
+      "Non-muscle proteins",
+      "Quality improvement",
+      "Surimi gel"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wu, Wenmin",
+        "Chen, Fan",
+        "Gao, Pei",
+        "Yu, Dawei",
+        "Jiang, Qixing",
+        "Liao, E",
+        "Xia, Wenshui"
+      ],
+      "short_names": [
+        "Wu W",
+        "Chen F",
+        "Gao P",
+        "Yu D",
+        "Jiang Q",
+        "Liao E",
+        "Xia W"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Hubei Key Laboratory of Animal Nutrition and Feed Science, Wuhan Polytechnic University, Wuhan 430023, China; School of Food Science and Engineering, Wuhan Polytechnic University, Wuhan 430023, China.",
+        "Hubei Key Laboratory of Animal Nutrition and Feed Science, Wuhan Polytechnic University, Wuhan 430023, China.",
+        "State Key Laboratory of Food Science and Resources, School of Food Science and Technology, Jiangnan University, Wuxi, Jiangsu 214122, China.",
+        "State Key Laboratory of Food Science and Resources, School of Food Science and Technology, Jiangnan University, Wuxi, Jiangsu 214122, China.",
+        "State Key Laboratory of Food Science and Resources, School of Food Science and Technology, Jiangnan University, Wuxi, Jiangsu 214122, China. Electronic address: qixingj@163.com.",
+        "School of Food Science and Engineering, Wuhan Polytechnic University, Wuhan 430023, China. Electronic address: Leoneason@126.com.",
+        "State Key Laboratory of Food Science and Resources, School of Food Science and Technology, Jiangnan University, Wuxi, Jiangsu 214122, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wu, Wenmin",
+        "short_name": "Wu W",
+        "identifiers": [],
+        "affiliations": [
+          "Hubei Key Laboratory of Animal Nutrition and Feed Science, Wuhan Polytechnic University, Wuhan 430023, China; School of Food Science and Engineering, Wuhan Polytechnic University, Wuhan 430023, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Fan",
+        "short_name": "Chen F",
+        "identifiers": [],
+        "affiliations": [
+          "Hubei Key Laboratory of Animal Nutrition and Feed Science, Wuhan Polytechnic University, Wuhan 430023, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Pei",
+        "short_name": "Gao P",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Food Science and Resources, School of Food Science and Technology, Jiangnan University, Wuxi, Jiangsu 214122, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Dawei",
+        "short_name": "Yu D",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Food Science and Resources, School of Food Science and Technology, Jiangnan University, Wuxi, Jiangsu 214122, China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Qixing",
+        "short_name": "Jiang Q",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Food Science and Resources, School of Food Science and Technology, Jiangnan University, Wuxi, Jiangsu 214122, China. Electronic address: qixingj@163.com."
+        ]
+      },
+      {
+        "full_name": "Liao, E",
+        "short_name": "Liao E",
+        "identifiers": [],
+        "affiliations": [
+          "School of Food Science and Engineering, Wuhan Polytechnic University, Wuhan 430023, China. Electronic address: Leoneason@126.com."
+        ]
+      },
+      {
+        "full_name": "Xia, Wenshui",
+        "short_name": "Xia W",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Food Science and Resources, School of Food Science and Technology, Jiangnan University, Wuxi, Jiangsu 214122, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Food chemistry"
+    ],
+    "journal_abbrev": [
+      "Food Chem"
+    ],
+    "pub_date": "2026 Sep 19",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/21 23:33",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42767035",
+      "42576325",
+      "41643957",
+      "41917745",
+      "36360059",
+      "40467205",
+      "39004037",
+      "37753325",
+      "28677851",
+      "39614498",
+      "39123561",
+      "42631488",
+      "40024414",
+      "39335849",
+      "39017461",
+      "42386217",
+      "42354177",
+      "42289814",
+      "41185275",
+      "40263807",
+      "39454918",
+      "40474489",
+      "39128365",
+      "41962713",
+      "35894520",
+      "41365404",
+      "42073304",
+      "41154118",
+      "41002527",
+      "40356121",
+      "40023901",
+      "41687985",
+      "38283161",
+      "33647630",
+      "42042123",
+      "39123603",
+      "38872574",
+      "41703848",
+      "41606880",
+      "37999000",
+      "42632651",
+      "41110408",
+      "38860545",
+      "41373168",
+      "33038801",
+      "39528185",
+      "39626553",
+      "32126461",
+      "41312786",
+      "41703868",
+      "36516723",
+      "41537226",
+      "42692654",
+      "36838740",
+      "42297167",
+      "40543769",
+      "42215080",
+      "42114490",
+      "41086586",
+      "39528197",
+      "40807652",
+      "40899510",
+      "31286513",
+      "32978960",
+      "41906271",
+      "26696599",
+      "31923872",
+      "40565754",
+      "37818336",
+      "26585018",
+      "41939936",
+      "41662800",
+      "32540524",
+      "36918727",
+      "29037677",
+      "35519369",
+      "15354580",
+      "41992468",
+      "37940308",
+      "38865845",
+      "40282692",
+      "41763430",
+      "41932018",
+      "33336789",
+      "33965712",
+      "19199595",
+      "39482138",
+      "40724305",
+      "33302098",
+      "41456778",
+      "39366621",
+      "37986495",
+      "40086975",
+      "36273266",
+      "37863133",
+      "39724697",
+      "35717909",
+      "41508466",
+      "38519164",
+      "38998623"
+    ],
+    "review": [
+      "42767035"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0308-8146(26)03382-0",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "identity": {
+    "pmid": "42795065",
+    "doi": "10.3390/ma19183844",
+    "title": "Crystal Structure Prediction and 0 K Stability Assessment of Hypothetical Re(3)Zr Polymorphs: Vibrational, Elastic, and Electronic Properties."
+  },
+  "content": {
+    "abstract": "Re(3)Zr has recently been proposed in the cubic Pm-3n structure. Its alternative atomic arrangements and thermodynamic position within the Re-Zr system have not been systematically resolved. In this work, CALYPSO particle-swarm structure searches combined with density functional theory identify five Re(3)Zr polymorphs with Cmcm, Fmmm, Immm, P4/mmm, and Fm-3m symmetries and compare them consistently with the reported Pm-3n phase. Formation enthalpies, a selected-phase partial convex hull, phonon dispersions, elastic properties, sound velocities, elastic Debye temperatures, electronic structures, and bonding characteristics are evaluated. All five CALYPSO structures lie below Pm-3n in fixed-composition energy, with Cmcm being the lowest. The Cmcm phase has a formation enthalpy of -0.257 eV atom(-1) and lies approximately 0.042 eV atom(-1) above the selected-phase partial hull, identifying it as a low-lying off-hull metastable candidate at 0 K. AIMD simulations at 300 and 1000 K show no obvious structural reconstruction of the Cmcm framework over the simulated time scales. All six structures exhibit no imaginary phonon frequencies and satisfy the corresponding mechanical-stability criteria. Their elastic responses are strongly structure dependent: P4/mmm has the largest Chen-Tian hardness estimates and elastic Debye temperature, whereas Fm-3m shows the weakest elastic anisotropy. All six polymorphs are metallic, with Fermi-level states dominated by Re-5d orbitals and predominantly delocalized bonding. These results provide a thermodynamically constrained 0 K reference for future synthesis, phase identification, and finite-temperature or kinetic investigations of hypothetical Re(3)Zr polymorphs.",
+    "keywords": [
+      "Debye temperature",
+      "Re3Zr",
+      "crystal structure prediction",
+      "elastic anisotropy",
+      "electronic structure",
+      "first-principles calculations"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Mamatyusup, Mardan",
+        "Wei, Qun",
+        "Lin, Zhengzhe",
+        "Luo, Jing",
+        "Zhang, Meiguang"
+      ],
+      "short_names": [
+        "Mamatyusup M",
+        "Wei Q",
+        "Lin Z",
+        "Luo J",
+        "Zhang M"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-2270-4389",
+        "ORCID: 0000-0001-7219-843X"
+      ],
+      "affiliations": [
+        "School of Physics, Xidian University, Xi'an 710071, China.",
+        "School of Physics, Xidian University, Xi'an 710071, China.",
+        "School of Physics, Xidian University, Xi'an 710071, China.",
+        "School of Physics, Xidian University, Xi'an 710071, China.",
+        "College of Physics and Optoelectronic Technology, Baoji University of Arts and Sciences, Baoji 721016, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Mamatyusup, Mardan",
+        "short_name": "Mamatyusup M",
+        "identifiers": [],
+        "affiliations": [
+          "School of Physics, Xidian University, Xi'an 710071, China."
+        ]
+      },
+      {
+        "full_name": "Wei, Qun",
+        "short_name": "Wei Q",
+        "identifiers": [
+          "0000-0002-2270-4389"
+        ],
+        "affiliations": [
+          "School of Physics, Xidian University, Xi'an 710071, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Zhengzhe",
+        "short_name": "Lin Z",
+        "identifiers": [],
+        "affiliations": [
+          "School of Physics, Xidian University, Xi'an 710071, China."
+        ]
+      },
+      {
+        "full_name": "Luo, Jing",
+        "short_name": "Luo J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Physics, Xidian University, Xi'an 710071, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Meiguang",
+        "short_name": "Zhang M",
+        "identifiers": [
+          "0000-0001-7219-843X"
+        ],
+        "affiliations": [
+          "College of Physics and Optoelectronic Technology, Baoji University of Arts and Sciences, Baoji 721016, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Materials (Basel, Switzerland)"
+    ],
+    "journal_abbrev": [
+      "Materials (Basel)"
+    ],
+    "pub_date": "2026 Sep 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/26 05:35",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42795065",
+      "42690472",
+      "41941005",
+      "42096099",
+      "42682982",
+      "32640681",
+      "42336894",
+      "41694096",
+      "30109113",
+      "32483252",
+      "34666326",
+      "40863801",
+      "32178344",
+      "42475469",
+      "33207542",
+      "41297142",
+      "36282362",
+      "41603962",
+      "37655594",
+      "41659326",
+      "33692423",
+      "42764729",
+      "34080883",
+      "31684184",
+      "40189659",
+      "41898424",
+      "32707645",
+      "42170083",
+      "39410436",
+      "42532491",
+      "29320470",
+      "25380409",
+      "28607981",
+      "23441017",
+      "38909382",
+      "42685777",
+      "21870834",
+      "32830684",
+      "35057275",
+      "21714527",
+      "42477412",
+      "28773831",
+      "42789431",
+      "42031887",
+      "30191245",
+      "40505277",
+      "42540232",
+      "40882372",
+      "31986499",
+      "21386226",
+      "24605919",
+      "42359678",
+      "40062758",
+      "37830376",
+      "41384064",
+      "25913098",
+      "41954480",
+      "32650288",
+      "30110454",
+      "42373745",
+      "41222730",
+      "42010737",
+      "39569609",
+      "28774023",
+      "42124842",
+      "26576622",
+      "38315085",
+      "40224400",
+      "36321557",
+      "30226385",
+      "42240691",
+      "24737253",
+      "35539173",
+      "41200401",
+      "42269541",
+      "22207041",
+      "25385147",
+      "24929411",
+      "35518170",
+      "26125540",
+      "23909959",
+      "19102524",
+      "27494416",
+      "39263052",
+      "28773695",
+      "40363528",
+      "37091371",
+      "33547329",
+      "31858101",
+      "33212431",
+      "41906957",
+      "35163428",
+      "28707468",
+      "42540356",
+      "40984803",
+      "42383333",
+      "41288658",
+      "38203947",
+      "37380729",
+      "34251837"
+    ],
+    "review": [
+      "42795065",
+      "36321557"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

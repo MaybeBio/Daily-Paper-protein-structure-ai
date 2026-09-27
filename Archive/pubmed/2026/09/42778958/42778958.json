@@ -1,0 +1,252 @@
+{
+  "identity": {
+    "pmid": "42778958",
+    "doi": "10.1186/s40168-026-02487-6",
+    "title": "Conserved protein sequence-structure signatures identify antibiotic resistance genes from the human microbiome."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Bacteria exhibiting antimicrobial resistance (AMR) are a significant public health challenge worldwide. The human microbiome is a known repository of key determinants of AMR, antibiotic resistance genes (ARGs). Identifying previously undetected ARGs in the human microbiome that confer resistance to clinical concentrations of antibiotics is a crucial component of addressing AMR, yet can be hindered by their low homology to existing ARGs. Here, we address this by focussing on functionally important protein regions. RESULTS: ARG-PASS (ARG-PAirwise Sequence vs Structure) is a protein function prediction method which leverages a one-class support vector machine trained on pairwise primary and tertiary distributions of structurally conserved regions of proteins encoded by ARGs. ARG-PASS was applied to six reference strains of the Human Microbiome Project. Nine candidates were selected for experimental verification, and all were functionally confirmed when expressed in E.coli, belonging to ARG classes: APH, dfr, class B and C beta-lactamases, and penicillin-binding proteins. We also used ARG-PASS directly on protein structures within the AlphaFold database and identified a phnP gene (metallo-beta-lactamase fold) with low similarity to characterised beta-lactamases and media-dependent ampicillin activity. In total, 80% of the tested genes confer resistance at CLSI resistant breakpoints and the remainder represent 'pre-resistance' genes, with activity but not at a clinically relevant minimum inhibitory concentration. We suggest pre-resistance genes may preferentially evolve into clinically relevant resistance determinants. CONCLUSION: ARG-PASS provides a precise computational approach that integrates sequence and structure to identify divergent ARGs that evade homology-based detection, supporting improved resistance surveillance and antibiotic stewardship. Video Abstract.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "Anti-Bacterial Agents/pharmacology",
+      "*Microbiota/genetics",
+      "beta-Lactamases/genetics/chemistry",
+      "*Drug Resistance, Bacterial/genetics",
+      "Escherichia coli/genetics/drug effects",
+      "*Bacteria/genetics/drug effects",
+      "Penicillin-Binding Proteins/genetics/chemistry",
+      "*Bacterial Proteins/genetics/chemistry",
+      "Conserved Sequence",
+      "Support Vector Machine",
+      "Computational Biology/methods",
+      "*Drug Resistance, Microbial/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Bartrop, Lachlan",
+        "Beauchemin-Lauzon, Emy",
+        "Grenier, Frederic",
+        "Rodrigue, Sebastien",
+        "Haraoui, Louis-Patrick"
+      ],
+      "short_names": [
+        "Bartrop L",
+        "Beauchemin-Lauzon E",
+        "Grenier F",
+        "Rodrigue S",
+        "Haraoui LP"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Microbiology and Infectious Diseases, Universite de Sherbrooke, 3001 12 Ave N Immeuble X1, Sherbrooke, Quebec, J1H 5H3, Canada.",
+        "Department of Biology, Universite de Sherbrooke, 2500 Bd de L'Universite, Sherbrooke, Quebec, J1N 3C6, Canada.",
+        "Department of Biology, Universite de Sherbrooke, 2500 Bd de L'Universite, Sherbrooke, Quebec, J1N 3C6, Canada.",
+        "Department of Biology, Universite de Sherbrooke, 2500 Bd de L'Universite, Sherbrooke, Quebec, J1N 3C6, Canada.",
+        "Department of Biology, Universite de Sherbrooke, 2500 Bd de L'Universite, Sherbrooke, Quebec, J1N 3C6, Canada. sebastien.rodrigue@usherbrooke.ca.",
+        "Department of Microbiology and Infectious Diseases, Universite de Sherbrooke, 3001 12 Ave N Immeuble X1, Sherbrooke, Quebec, J1H 5H3, Canada. louis.patrick.haraoui@usherbrooke.ca.",
+        "Centre de Recherche Charles-Le Moyne, CISSS Monteregie-Centre, Greenfield Park, Quebec, Canada. louis.patrick.haraoui@usherbrooke.ca.",
+        "Humans & the Microbiome Program, Canadian Institute for Advanced Research, Toronto, ON, Canada. louis.patrick.haraoui@usherbrooke.ca."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Bartrop, Lachlan",
+        "short_name": "Bartrop L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology and Infectious Diseases, Université de Sherbrooke, 3001 12 Ave N Immeuble X1, Sherbrooke, Québec, J1H 5H3, Canada.",
+          "Department of Biology, Université de Sherbrooke, 2500 Bd de L'Université, Sherbrooke, Québec, J1N 3C6, Canada."
+        ]
+      },
+      {
+        "full_name": "Beauchemin-Lauzon, Emy",
+        "short_name": "Beauchemin-Lauzon E",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, Université de Sherbrooke, 2500 Bd de L'Université, Sherbrooke, Québec, J1N 3C6, Canada."
+        ]
+      },
+      {
+        "full_name": "Grenier, Frédéric",
+        "short_name": "Grenier F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, Université de Sherbrooke, 2500 Bd de L'Université, Sherbrooke, Québec, J1N 3C6, Canada."
+        ]
+      },
+      {
+        "full_name": "Rodrigue, Sébastien",
+        "short_name": "Rodrigue S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, Université de Sherbrooke, 2500 Bd de L'Université, Sherbrooke, Québec, J1N 3C6, Canada. sebastien.rodrigue@usherbrooke.ca."
+        ]
+      },
+      {
+        "full_name": "Haraoui, Louis-Patrick",
+        "short_name": "Haraoui LP",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microbiology and Infectious Diseases, Université de Sherbrooke, 3001 12 Ave N Immeuble X1, Sherbrooke, Québec, J1H 5H3, Canada. louis.patrick.haraoui@usherbrooke.ca.",
+          "Centre de Recherche Charles-Le Moyne, CISSS Montérégie-Centre, Greenfield Park, Québec, Canada. louis.patrick.haraoui@usherbrooke.ca.",
+          "Humans & the Microbiome Program, Canadian Institute for Advanced Research, Toronto, ON, Canada. louis.patrick.haraoui@usherbrooke.ca."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Microbiome"
+    ],
+    "journal_abbrev": [
+      "Microbiome"
+    ],
+    "pub_date": "2026 Aug 13",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/24 05:37",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42778958",
+      "33557954",
+      "39242535",
+      "39378891",
+      "32345218",
+      "41981314",
+      "31248462",
+      "27750121",
+      "32482165",
+      "42294626",
+      "41524423",
+      "30634056",
+      "32978137",
+      "41361265",
+      "35216256",
+      "40604389",
+      "40741762",
+      "35311582",
+      "38725076",
+      "42379807",
+      "37222510",
+      "42328985",
+      "41050748",
+      "41589888",
+      "39216133",
+      "33080358",
+      "40204742",
+      "41104936",
+      "42704659",
+      "39089095",
+      "38778284",
+      "33256594",
+      "37716364",
+      "41823408",
+      "39375834",
+      "39694411",
+      "40972972",
+      "35536006",
+      "30683745",
+      "29020980",
+      "41803907",
+      "42794603",
+      "42165580",
+      "39945541",
+      "14970246",
+      "26712351",
+      "34329068",
+      "34494875",
+      "38790062",
+      "38742910",
+      "39976435",
+      "39552541",
+      "41143534",
+      "40459279",
+      "35950758",
+      "40055840",
+      "41576514",
+      "38700359",
+      "40788305",
+      "38245666",
+      "42214157",
+      "41498552",
+      "39426111",
+      "35332832",
+      "34571418",
+      "31423298",
+      "38194254",
+      "29739004",
+      "41468549",
+      "39053184",
+      "41131447",
+      "34344363",
+      "39763003",
+      "41759554",
+      "39134593",
+      "34287005",
+      "41432144",
+      "28039273",
+      "39333115",
+      "42498094",
+      "40293226",
+      "31734617",
+      "39566612",
+      "41457176",
+      "42001159",
+      "40033002",
+      "40633655",
+      "32233963",
+      "36738714",
+      "38366209",
+      "37245778",
+      "40050500",
+      "38112433",
+      "38289113",
+      "38730321",
+      "27171072",
+      "41270957",
+      "29439741",
+      "40130858",
+      "34787446"
+    ],
+    "review": [
+      "42778958",
+      "39552541",
+      "35332832"
+    ],
+    "pmc": [
+      "13602658"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-026-02487-6",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://medlineplus.gov/antibioticresistance.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Antibiotic Resistance"
+      }
+    ],
+    "text_mined": []
+  }
+}

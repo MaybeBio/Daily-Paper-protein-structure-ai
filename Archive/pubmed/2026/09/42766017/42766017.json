@@ -1,0 +1,281 @@
+{
+  "identity": {
+    "pmid": "42766017",
+    "doi": "10.1007/s00203-026-05218-5",
+    "title": "Deep learning-driven de novo discovery of binders targeting the transmembrane domain of BamA."
+  },
+  "content": {
+    "abstract": "Antimicrobial resistance (AMR) is an escalating global health threat, with multidrug-resistant Gram-negative bacteria presenting a particularly serious clinical challenge. The unique outer membrane (OM) structure serves as a natural barrier against conventional therapeutics, so that treatment strategies become more complicated. Notably, drug development aimed at the transmembrane (TM) domains of membrane proteins remains highly limited. To overcome this bottleneck, we established an artificial intelligence (AI)-driven framework for the design and screening of BamA transmembrane (TM) domain-targeting binders. This framework employs a multi-channel convolutional neural network (DeepTM-Bind), which integrates heterogeneous protein features to achieve high predictive accuracy. Building upon this foundation, we further developed a multidimensional evaluation system to guide de novo design strategies. Using this integrated approach, binders targeting the lateral gate of BamA were successfully generated. All-atom molecular dynamics (MD) simulations within a membrane environment, combined with multiscale mechanistic analyses, confirmed the structural stability and strong binding potential of the candidate molecules, and revealed a previously unrecognized binding mode. Collectively, this study introduces an advanced computational paradigm for therapeutic design targeting TM domains and provides a promising strategy to combat multidrug-resistant Gram-negative pathogens.",
+    "keywords": [
+      "De novo design",
+      "Deep learning",
+      "Multisource feature",
+      "Transmembrane protein"
+    ],
+    "mesh_terms": [
+      "*Deep Learning",
+      "*Bacterial Outer Membrane Proteins/chemistry/metabolism/genetics",
+      "Molecular Dynamics Simulation",
+      "*Escherichia coli Proteins/chemistry/metabolism/genetics",
+      "Protein Domains",
+      "Protein Binding",
+      "*Anti-Bacterial Agents/pharmacology/chemistry",
+      "Drug Discovery",
+      "Escherichia coli/metabolism/genetics/chemistry",
+      "Drug Design"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Du, Minghui",
+        "Xin, Yuqiao",
+        "Xu, Benao",
+        "Zhang, Yang",
+        "Han, Linjie",
+        "Ji, Bingjie",
+        "Zhao, Jian",
+        "Zhao, Yongshan"
+      ],
+      "short_names": [
+        "Du M",
+        "Xin Y",
+        "Xu B",
+        "Zhang Y",
+        "Han L",
+        "Ji B",
+        "Zhao J",
+        "Zhao Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Life Science and Bio-Pharmaceutics, Shenyang Pharmaceutical University, 103 Wenhua Road, Shenhe District, Shenyang, 110016, Liaoning, China.",
+        "School of Life Science and Bio-Pharmaceutics, Shenyang Pharmaceutical University, 103 Wenhua Road, Shenhe District, Shenyang, 110016, Liaoning, China.",
+        "School of Life Science and Bio-Pharmaceutics, Shenyang Pharmaceutical University, 103 Wenhua Road, Shenhe District, Shenyang, 110016, Liaoning, China.",
+        "School of Life Science and Bio-Pharmaceutics, Shenyang Pharmaceutical University, 103 Wenhua Road, Shenhe District, Shenyang, 110016, Liaoning, China.",
+        "School of Life Science and Bio-Pharmaceutics, Shenyang Pharmaceutical University, 103 Wenhua Road, Shenhe District, Shenyang, 110016, Liaoning, China.",
+        "School of Life Science and Bio-Pharmaceutics, Shenyang Pharmaceutical University, 103 Wenhua Road, Shenhe District, Shenyang, 110016, Liaoning, China.",
+        "Department of Pharmacology, Shenyang Pharmaceutical University, Shenyang, 110016, China.",
+        "School of Life Science and Bio-Pharmaceutics, Shenyang Pharmaceutical University, 103 Wenhua Road, Shenhe District, Shenyang, 110016, Liaoning, China. zhao_syphu@163.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Du, Minghui",
+        "short_name": "Du M",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Science and Bio-Pharmaceutics, Shenyang Pharmaceutical University, 103 Wenhua Road, Shenhe District, Shenyang, 110016, Liaoning, China."
+        ]
+      },
+      {
+        "full_name": "Xin, Yuqiao",
+        "short_name": "Xin Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Science and Bio-Pharmaceutics, Shenyang Pharmaceutical University, 103 Wenhua Road, Shenhe District, Shenyang, 110016, Liaoning, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Benao",
+        "short_name": "Xu B",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Science and Bio-Pharmaceutics, Shenyang Pharmaceutical University, 103 Wenhua Road, Shenhe District, Shenyang, 110016, Liaoning, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yang",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Science and Bio-Pharmaceutics, Shenyang Pharmaceutical University, 103 Wenhua Road, Shenhe District, Shenyang, 110016, Liaoning, China."
+        ]
+      },
+      {
+        "full_name": "Han, Linjie",
+        "short_name": "Han L",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Science and Bio-Pharmaceutics, Shenyang Pharmaceutical University, 103 Wenhua Road, Shenhe District, Shenyang, 110016, Liaoning, China."
+        ]
+      },
+      {
+        "full_name": "Ji, Bingjie",
+        "short_name": "Ji B",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Science and Bio-Pharmaceutics, Shenyang Pharmaceutical University, 103 Wenhua Road, Shenhe District, Shenyang, 110016, Liaoning, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Jian",
+        "short_name": "Zhao J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology, Shenyang Pharmaceutical University, Shenyang, 110016, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Yongshan",
+        "short_name": "Zhao Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Science and Bio-Pharmaceutics, Shenyang Pharmaceutical University, 103 Wenhua Road, Shenhe District, Shenyang, 110016, Liaoning, China. zhao_syphu@163.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Archives of microbiology"
+    ],
+    "journal_abbrev": [
+      "Arch Microbiol"
+    ],
+    "pub_date": "2026 Sep 21",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/21 17:47",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42766017",
+      "40265351",
+      "30087180",
+      "39379361",
+      "31591200",
+      "36576775",
+      "42183878",
+      "33854236",
+      "39608713",
+      "37852326",
+      "35013254",
+      "39293443",
+      "28974626",
+      "28569500",
+      "24980798",
+      "40210867",
+      "41270239",
+      "31350400",
+      "27332128",
+      "32572278",
+      "27989620",
+      "28919234",
+      "39475239",
+      "40205915",
+      "34880256",
+      "39984113",
+      "26976576",
+      "27982054",
+      "28760846",
+      "42475469",
+      "22544271",
+      "32380170",
+      "29861346",
+      "22753067",
+      "26627837",
+      "33707779",
+      "40371895",
+      "41524971",
+      "42485280",
+      "40879040",
+      "25943387",
+      "42227973",
+      "27045078",
+      "41780347",
+      "26427684",
+      "41676993",
+      "38700330",
+      "25025665",
+      "21454662",
+      "30322857",
+      "31351059",
+      "21236263",
+      "39976443",
+      "24619089",
+      "42160346",
+      "40634285",
+      "41044071",
+      "42730777",
+      "26027731",
+      "38835320",
+      "42144870",
+      "37565744",
+      "42753517",
+      "34937193",
+      "42118388",
+      "27298319",
+      "39187619",
+      "39725716",
+      "27795317",
+      "26901871",
+      "41247015",
+      "42511731",
+      "22948914",
+      "26394056",
+      "40440659",
+      "41020634",
+      "41900351",
+      "34541845",
+      "42400486",
+      "41286386",
+      "30797936",
+      "31724945",
+      "40143396",
+      "41370088",
+      "41285762",
+      "25567766",
+      "31998988",
+      "33877631",
+      "41027174",
+      "31747680",
+      "34515361",
+      "31645764",
+      "17702946",
+      "42489162",
+      "17711325",
+      "26331292",
+      "36163500",
+      "30713026",
+      "32675245",
+      "22037403"
+    ],
+    "review": [
+      "42766017",
+      "42183878",
+      "37852326",
+      "21236263",
+      "41900351"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/antibiotics.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Antibiotics"
+      },
+      {
+        "url": "https://dx.doi.org/10.1007/s00203-026-05218-5",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.18.752542",
+  "title": "NeoToxPred: a fine-tuned protein language model with orthologous and length-stratified negative controls for robust toxicity classification",
+  "doi": "10.64898/2026.09.18.752542",
+  "abstract": "Although protein toxins represent valuable pharmacological templates, predicting toxicity directly from primary sequences is inherently challenging because of their evolutionary dynamics. Active toxins and their benign homologues frequently share identical structural scaffolds and differ by only a few key residue substitutions, making global sequence similarity an unreliable indicator of function. Conventional predictors compound this challenge through flawed negative-set designs that sample non-toxic controls from arbitrary background proteins and reduce redundancy through identity-based clustering under random partitioning. This practice introduces global confounding shortcuts that inflate benchmark performance while failing to capture true functional boundaries. To address these limitations, we developed NeoToxPred, a sequence-only binary classifier that fine-tunes the pretrained ESM-C 600M protein language model end-to-end with a six-layer feed-forward classification head. Although the neural architecture is intentionally standard to ensure computational scalability, the core novelty of the framework lies in its rigorous training-data curation: (i) an orthologous negative set drawn from the same InterPro families under controlled taxonomic proximity to eliminate phylogenetic shortcuts, (ii) a length-stratified negative control set to eliminate sequence length as a predictive cue, and (iii) a strict family-disjoint splitting strategy to prevent performance inflation caused by pattern memorization. On held-out internal benchmarks, NeoToxPred achieved a Matthews correlation coefficient (MCC) of 0.897 and an F1-score of 0.949 on long sequences and an MCC of 0.869 on short peptides, decisively outperforming five recent predictors while maintaining stable performance across varying sequence lengths and evolutionary distances. In a genome-scale external validation using the previously unseen proteome of the redfin waspfish (Paracentropogon rubripinnis), NeoToxPred successfully recovered 11 of 16 empirically validated toxins without collapsing into a single-class prediction, whereas structure-dependent baselines identified substantially fewer positives. Computational alanine scanning further confirmed that the framework contextually localizes its predictions to functionally active residues. Taken together, these findings suggest that systematic negative-set design should be prioritized alongside algorithmic complexity in biological sequence classification.",
+  "authors": [
+    "Seongmin Kim",
+    "Min-Seok Kim",
+    "Chungoo PARK"
+  ],
+  "published_date": "2026-09-24",
+  "updated_date": "2026-09-24T22:50:14Z",
+  "journal": "bioRxiv",
+  "category": "Bioinformatics",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.18.752542",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.18.752542.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [
+    "Bioinformatics"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Bioinformatics",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            24
+          ]
+        ],
+        "date-time": "2026-09-24T23:01:18Z",
+        "timestamp": 1790290878642,
+        "version": "4.1.0"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            24
+          ]
+        ]
+      },
+      "group-title": "Bioinformatics",
+      "reference-count": 0,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                24
+              ]
+            ],
+            "date-time": "2026-09-24T00:00:00Z",
+            "timestamp": 1790208000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "name": "by the Ministry of Oceans and Fisheries",
+          "award": [
+            "RS-2025-02292973"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "RS-2025-02292973"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/00c5s4a53",
+              "id-type": "ROR",
+              "asserted-by": "crossref"
+            }
+          ]
+        },
+        {
+          "name": "National Research Foundation of Korea (NRF), the Ministry of Science and ICT",
+          "award": [
+            "RS-2025-02217886"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "RS-2025-02217886"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/013aysd81",
+              "id-type": "ROR",
+              "asserted-by": "crossref"
+            }
+          ]
+        },
+        {
+          "name": "National Research Foundation of Korea (NRF), the Ministry of Science and ICT",
+          "award": [
+            "RS-2025-02309093"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "RS-2025-02309093"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/013aysd81",
+              "id-type": "ROR",
+              "asserted-by": "crossref"
+            }
+          ]
+        },
+        {
+          "name": "the Bio & Medical Technology Development Program of the National Research Foundation (NRF), funded by the Korean government (MSIT)",
+          "award": [
+            "RS-2025-24523548"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "RS-2025-24523548"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Global-Learning & Academic research institution for Masters · PhD students, and Postdocs (LAMP) Program of the National Research Foundation of Korea (NRF) grant funded by the Ministry of Education",
+          "award": [
+            "RS-2024-00442775"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "RS-2024-00442775"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/013aysd81",
+              "id-type": "ROR",
+              "asserted-by": "crossref"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            24
+          ]
+        ]
+      },
+      "abstract": "<jats:p>Although protein toxins represent valuable pharmacological templates, predicting toxicity directly from primary sequences is inherently challenging because of their evolutionary dynamics. Active toxins and their benign homologues frequently share identical structural scaffolds and differ by only a few key residue substitutions, making global sequence similarity an unreliable indicator of function. Conventional predictors compound this challenge through flawed negative-set designs that sample non-toxic controls from arbitrary background proteins and reduce redundancy through identity-based clustering under random partitioning. This practice introduces global confounding shortcuts that inflate benchmark performance while failing to capture true functional boundaries. To address these limitations, we developed NeoToxPred, a sequence-only binary classifier that fine-tunes the pretrained ESM-C 600M protein language model end-to-end with a six-layer feed-forward classification head. Although the neural architecture is intentionally standard to ensure computational scalability, the core novelty of the framework lies in its rigorous training-data curation: (i) an orthologous negative set drawn from the same InterPro families under controlled taxonomic proximity to eliminate phylogenetic shortcuts, (ii) a length-stratified negative control set to eliminate sequence length as a predictive cue, and (iii) a strict family-disjoint splitting strategy to prevent performance inflation caused by pattern memorization. On held-out internal benchmarks, NeoToxPred achieved a Matthews correlation coefficient (MCC) of 0.897 and an F1-score of 0.949 on long sequences and an MCC of 0.869 on short peptides, decisively outperforming five recent predictors while maintaining stable performance across varying sequence lengths and evolutionary distances. In a genome-scale external validation using the previously unseen proteome of the redfin waspfish (Paracentropogon rubripinnis), NeoToxPred successfully recovered 11 of 16 empirically validated toxins without collapsing into a single-class prediction, whereas structure-dependent baselines identified substantially fewer positives. Computational alanine scanning further confirmed that the framework contextually localizes its predictions to functionally active residues. Taken together, these findings suggest that systematic negative-set design should be prioritized alongside algorithmic complexity in biological sequence classification.</jats:p>",
+      "DOI": "10.64898/2026.09.18.752542",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            24
+          ]
+        ],
+        "date-time": "2026-09-24T22:50:14Z",
+        "timestamp": 1790290214000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "NeoToxPred: a fine-tuned protein language model with orthologous and length-stratified negative controls for robust toxicity classification"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "given": "Seongmin",
+          "family": "Kim",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Chonnam National University"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Min-Seok",
+          "family": "Kim",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Chonnam National University"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-9545-6654",
+          "authenticated-orcid": false,
+          "given": "Chungoo",
+          "family": "PARK",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Chonnam National University"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.09.18.752542",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            24
+          ]
+        ],
+        "date-time": "2026-09-24T22:50:14Z",
+        "timestamp": 1790290214000
+      },
+      "score": 44.296574,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.09.18.752542"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            24
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.64898/2026.09.18.752542",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            24
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

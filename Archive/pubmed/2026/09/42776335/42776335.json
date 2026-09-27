@@ -1,0 +1,207 @@
+{
+  "identity": {
+    "pmid": "42776335",
+    "doi": "10.1007/s10930-026-10352-6",
+    "title": "A Quantum-Classical Analysis of Variability in Peptide Energies and Conformations."
+  },
+  "content": {
+    "abstract": "The exploration of protein structure and folding mechanisms is a cornerstone of molecular biology, with significant implications for understanding biological functions and advancing drug discovery. Traditional computational methods, such as AlphaFold, RoseTTAFold and I-TASSER, have been instrumental in this field. However, these methods are often constrained by extensive challenges in predicting structures for proteins lacking significant homologous sequences in the training data, impacting accuracy in novel or less well-characterized proteins. In contrast, quantum computing offers a promising avenue for overcoming these limitations through algorithms like the Variational Quantum Eigensolver (VQE). Quantum computing is in an early stage for optimization problems, particularly for protein folding. This study harnesses the power of VQE to explore the folding behavior and low-energy conformational landscape of 15 peptides, each comprising eight amino acids, selected from the RCSB Protein Data Bank (PDB). Classical 100-ns molecular dynamics (MD) simulations are used to characterize the structural stability and relative energetic trends of the corresponding atomistic conformations. These results are then contrasted with energies obtained from a lattice-based Hamiltonian optimization using the VQE algorithm, executed on the IBM quantum simulator. Although the absolute energy scales differ between MD and lattice Hamiltonian models, this comparison enables a correlation-based evaluation of how effectively VQE identifies physically plausible low-energy folded states. The results demonstrate that VQE consistently converges to competitive low-energy conformations. Further investigation was carried out by converting the PDB structure into a lattice model using the LatFit tool for visual comparison with the VQE-predicted structure. In addition, quantitative evaluation was performed by comparing the VQE-predicted structure with the original PDB structure using Calpha Root Mean Square Deviation (RMSD) and Template Modeling (TM) score. Furthermore, the TM-scores obtained from the VQE predictions were compared with those obtained from the AlphaFold predictions. This work highlights the benefits of utilizing quantum algorithms to examine protein folding and also paves the road for future quantum biology studies.",
+    "keywords": [
+      "Molecular dynamics",
+      "Protein folding",
+      "Quantum computing",
+      "Variational quantum eigensolver"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ayushi",
+        "Shakya, Madhvi"
+      ],
+      "short_names": [
+        "Ayushi",
+        "Shakya M"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Mathematics, Bioinformatics & Computer Applications, Maulana Azad National Institute of Technology, Bhopal, 462003, India. ayushirajput888@gmail.com.",
+        "Department of Mathematics, Bioinformatics & Computer Applications, Maulana Azad National Institute of Technology, Bhopal, 462003, India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ayushi",
+        "short_name": "Ayushi",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Mathematics, Bioinformatics & Computer Applications, Maulana Azad National Institute of Technology, Bhopal, 462003, India. ayushirajput888@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Shakya, Madhvi",
+        "short_name": "Shakya M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Mathematics, Bioinformatics & Computer Applications, Maulana Azad National Institute of Technology, Bhopal, 462003, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The protein journal"
+    ],
+    "journal_abbrev": [
+      "Protein J"
+    ],
+    "pub_date": "2026 Sep 23",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/23 17:36",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42776335",
+      "41999908",
+      "38862055",
+      "42475469",
+      "41671215",
+      "41527830",
+      "38492238",
+      "40105132",
+      "30512959",
+      "38287087",
+      "42072565",
+      "40873222",
+      "42608429",
+      "39555616",
+      "39795178",
+      "33344422",
+      "41363738",
+      "34077220",
+      "17488521",
+      "41315890",
+      "41489110",
+      "37224265",
+      "42127224",
+      "39321582",
+      "41537690",
+      "42017200",
+      "38225897",
+      "41410820",
+      "40581860",
+      "35055269",
+      "38547028",
+      "40755323",
+      "38144092",
+      "38214999",
+      "37006701",
+      "33073565",
+      "41413083",
+      "15849316",
+      "23912807",
+      "40202103",
+      "35971280",
+      "35414867",
+      "41310253",
+      "41144353",
+      "36689668",
+      "36696487",
+      "37702939",
+      "34558958",
+      "39441921",
+      "32109854",
+      "41400196",
+      "22891157",
+      "32282198",
+      "15959866",
+      "40610378",
+      "35816117",
+      "34806097",
+      "35041784",
+      "19754142",
+      "39435828",
+      "41626194",
+      "34241330",
+      "39083465",
+      "37244882",
+      "35926142",
+      "21793008",
+      "37760106",
+      "41342529",
+      "25691321",
+      "22551826",
+      "40857661",
+      "38701352",
+      "38639446",
+      "40973394",
+      "38950444",
+      "38526102",
+      "38754216",
+      "38634491",
+      "41142336",
+      "24077543",
+      "37789284",
+      "11913380",
+      "18570534",
+      "30240202",
+      "17876760",
+      "31298869",
+      "41529403",
+      "31448259",
+      "42425235",
+      "38109881",
+      "35792931",
+      "41280853",
+      "42118388",
+      "40597628",
+      "35984716",
+      "42289880",
+      "32274468",
+      "33940828",
+      "42437791",
+      "42133621"
+    ],
+    "review": [
+      "42776335",
+      "41999908",
+      "40873222",
+      "41410820",
+      "37702939",
+      "39083465",
+      "37244882",
+      "40973394"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://link.springer.com/article/10.1007/s10930-026-10352-6",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-76",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

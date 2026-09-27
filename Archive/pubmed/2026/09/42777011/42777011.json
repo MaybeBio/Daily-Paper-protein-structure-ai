@@ -1,0 +1,182 @@
+{
+  "identity": {
+    "pmid": "42777011",
+    "doi": "10.1371/journal.pcbi.1014778",
+    "title": "A spectral framework for measuring diversity in multiple sequence alignments."
+  },
+  "content": {
+    "abstract": "Machine learning (ML) methods for proteins and RNAs rely on multiple sequence alignments (MSAs) and related datasets such as experimental mutagenesis libraries, yet the amount of usable information they contain remains unclear. Here, a spectral measure of information is recast into an interpretable quantity for MSAs, denoted Leff, defined as the number of fully independent alignment positions that reproduce the observed sequence diversity. Applied to RNA MSAs, this measure shows that evolutionary constraints nearly halve diversity relative to the secondary structure alone, quantifying functional and phylogenetic restrictions beyond base pairing. The same analysis indicates even lower effective diversity in proteins, reflecting tighter packing and coevolutionary constraints. Leff further correlates with protein structure prediction accuracy, anticipating cases with insufficient evolutionary signal. When applied to experimentally and computationally generated libraries, it measures both produced diversity and cross-library overlap, quantifying novelty rather than redundant sampling. Together, these results establish Leff as an operational tool to estimate effective information in MSAs, anticipate modeling difficulties, and guide protein and RNA design.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Opuu, Vaitea"
+      ],
+      "short_names": [
+        "Opuu V"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-8364-5098"
+      ],
+      "affiliations": [
+        "Laboratoire de Biophysique et Evolution, UMR CNRS-ESPCI 8231 Chimie Biologie Innovation, PSL University, Paris, France."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Opuu, Vaitea",
+        "short_name": "Opuu V",
+        "identifiers": [
+          "0000-0001-8364-5098"
+        ],
+        "affiliations": [
+          "Laboratoire de Biophysique et Evolution, UMR CNRS-ESPCI 8231 Chimie Biologie Innovation, PSL University, Paris, France."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "PLoS computational biology"
+    ],
+    "journal_abbrev": [
+      "PLoS Comput Biol"
+    ],
+    "pub_date": "2026 Sep 23",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/23 17:37",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42777011",
+      "18287115",
+      "42475469",
+      "28093407",
+      "36321557",
+      "42581579",
+      "36355460",
+      "31918654",
+      "36273003",
+      "39237735",
+      "41279404",
+      "28166227",
+      "15972285",
+      "37440576",
+      "26568625",
+      "39575640",
+      "37321965",
+      "33961009",
+      "25649229",
+      "37847775",
+      "21507242",
+      "42282134",
+      "33828153",
+      "40092441",
+      "41431261",
+      "27315797",
+      "20066664",
+      "32500917",
+      "41084281",
+      "18402697",
+      "37748220",
+      "35662466",
+      "42427317",
+      "24694831",
+      "20470364",
+      "23091608",
+      "31197318",
+      "34112907",
+      "30634908",
+      "39766238",
+      "29047157",
+      "34021744",
+      "41014267",
+      "16551661",
+      "16755504",
+      "29947739",
+      "22168237",
+      "35609601",
+      "18439255",
+      "17263882",
+      "41201924",
+      "15556476",
+      "41959221",
+      "22646090",
+      "41257887",
+      "15478601",
+      "16842622",
+      "11524371",
+      "14552658",
+      "10966778",
+      "12210997",
+      "23634662",
+      "40297999",
+      "38913900",
+      "22574904",
+      "40365615",
+      "18503087",
+      "22199391",
+      "38472223",
+      "36192636",
+      "42481161",
+      "37608940",
+      "27187202",
+      "33704363",
+      "24886131",
+      "31407406",
+      "17993694",
+      "15531601",
+      "22399676",
+      "8913301",
+      "31665393",
+      "40751131",
+      "10813826",
+      "24170409",
+      "17081313",
+      "31847804",
+      "30945214",
+      "20307279",
+      "40820259",
+      "8743695",
+      "37414576",
+      "42015301",
+      "18096747",
+      "15059245",
+      "18302738",
+      "12855464",
+      "26445311",
+      "17182698",
+      "15614759",
+      "11031119"
+    ],
+    "review": [
+      "42777011",
+      "36321557"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://dx.plos.org/10.1371/journal.pcbi.1014778",
+        "provider": "Public Library of Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

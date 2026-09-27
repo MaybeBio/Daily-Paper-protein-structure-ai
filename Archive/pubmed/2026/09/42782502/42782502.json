@@ -1,0 +1,327 @@
+{
+  "identity": {
+    "pmid": "42782502",
+    "doi": "10.1002/smll.75835",
+    "title": "Defect-Enhanced Low-Temperature CO Oxidation on Graphene-Supported Pt-Au Nanoclusters."
+  },
+  "content": {
+    "abstract": "The catalytic properties of bimetallic nanoclusters are governed by a complex interplay between their size, composition, chemical ordering, and interaction with the support. Here, we perform a comprehensive data-driven computational study using the USPEX evolutionary algorithm for global structure prediction of Pt-Au nanoclusters (up to 24 atoms), followed by high-throughput screening for O and CO adsorption energy with MACE foundation model and simulations of chemical reactor. We combine about 12 000 density functional theory (DFT) calculations with a machine learning workflow that adds over 80 000 additional data points to enable extensive sampling of ground-state and metastable isomers. Our analysis reveals that adsorption energies are primarily determined by local atomic composition of the active site rather than by the precise global-minimum structure. Consequently, a representative set of low-energy isomers provides the same adsorption information as the most stable clusters, which is crucial for experiments where monodisperse samples are difficult to obtain. We further demonstrate that a graphene substrate with a single carbon monovacancy strongly anchors cluster, enhances O2 adsorption, and lowers CO oxidation barriers by activating traditionally inert Au atoms. Molecular dynamics simulations of CO saturation show that the supported cluster undergoes adsorption-induced reconstruction, with Pt atoms segregating to the surface, and that the support significantly alters the saturation profile compared to the free-standing cluster. This work establishes that rational design of bimetallic catalysts must take into account for local site chemistry, dynamic synergy with the support, and practical relevance of isomer ensembles.",
+    "keywords": [
+      "active site",
+      "adsorption",
+      "bimetallic strip",
+      "chemical physics",
+      "dispersity",
+      "graphene",
+      "molecular dynamics",
+      "nanoclusters"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chepkasov, Ilya V",
+        "Baidyshev, Viktor S",
+        "Radina, Aleksandra D",
+        "Lukanov, Michail M",
+        "Baturin, Vladimir S",
+        "Lazarev, Mikhail",
+        "Ter-Oganessian, Nikita V",
+        "Galushko, Alexey S",
+        "Khrizanforov, Mikhail N",
+        "Ananikov, Valentine P",
+        "Kvashnin, Alexander G"
+      ],
+      "short_names": [
+        "Chepkasov IV",
+        "Baidyshev VS",
+        "Radina AD",
+        "Lukanov MM",
+        "Baturin VS",
+        "Lazarev M",
+        "Ter-Oganessian NV",
+        "Galushko AS",
+        "Khrizanforov MN",
+        "Ananikov VP",
+        "Kvashnin AG"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-8376-2999",
+        "ORCID: 0000-0003-2694-1709",
+        "ORCID: 0009-0007-1768-8728",
+        "ORCID: 0000-0001-9624-8104",
+        "ORCID: 0000-0003-2252-625X",
+        "ORCID: 0000-0001-8965-1800",
+        "ORCID: 0000-0002-4372-213X",
+        "ORCID: 0000-0002-6447-557X",
+        "ORCID: 0000-0002-0718-6691"
+      ],
+      "affiliations": [
+        "Skolkovo Institute of Science and Technology, Moscow, Russian Federation.",
+        "Bauman Moscow State Technical University, Moscow, Russian Federation.",
+        "Skolkovo Institute of Science and Technology, Moscow, Russian Federation.",
+        "Skolkovo Institute of Science and Technology, Moscow, Russian Federation.",
+        "Skolkovo Institute of Science and Technology, Moscow, Russian Federation.",
+        "CNRS-Saint-Gobain-NIMS, IRL 3629, Laboratory for Innovative Key Materials and Structures (LINK), National Institute for Materials Science (NIMS), Tsukuba, Ibaraki, Japan.",
+        "HSE University, Moscow, Russia.",
+        "Institute of Physics, Southern Federal University, Rostov-on-Don, Russian Federation.",
+        "Zelinsky Institute of Organic Chemistry, Russian Academy of Sciences, Moscow, Russian Federation.",
+        "Zelinsky Institute of Organic Chemistry, Russian Academy of Sciences, Moscow, Russian Federation.",
+        "Zelinsky Institute of Organic Chemistry, Russian Academy of Sciences, Moscow, Russian Federation.",
+        "Skolkovo Institute of Science and Technology, Moscow, Russian Federation."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chepkasov, Ilya V",
+        "short_name": "Chepkasov IV",
+        "identifiers": [
+          "0000-0001-8376-2999"
+        ],
+        "affiliations": [
+          "Skolkovo Institute of Science and Technology, Moscow, Russian Federation.",
+          "Bauman Moscow State Technical University, Moscow, Russian Federation."
+        ]
+      },
+      {
+        "full_name": "Baidyshev, Viktor S",
+        "short_name": "Baidyshev VS",
+        "identifiers": [
+          "0000-0003-2694-1709"
+        ],
+        "affiliations": [
+          "Skolkovo Institute of Science and Technology, Moscow, Russian Federation."
+        ]
+      },
+      {
+        "full_name": "Radina, Aleksandra D",
+        "short_name": "Radina AD",
+        "identifiers": [
+          "0009-0007-1768-8728"
+        ],
+        "affiliations": [
+          "Skolkovo Institute of Science and Technology, Moscow, Russian Federation."
+        ]
+      },
+      {
+        "full_name": "Lukanov, Michail M",
+        "short_name": "Lukanov MM",
+        "identifiers": [],
+        "affiliations": [
+          "Skolkovo Institute of Science and Technology, Moscow, Russian Federation."
+        ]
+      },
+      {
+        "full_name": "Baturin, Vladimir S",
+        "short_name": "Baturin VS",
+        "identifiers": [
+          "0000-0001-9624-8104"
+        ],
+        "affiliations": [
+          "CNRS-Saint-Gobain-NIMS, IRL 3629, Laboratory for Innovative Key Materials and Structures (LINK), National Institute for Materials Science (NIMS), Tsukuba, Ibaraki, Japan."
+        ]
+      },
+      {
+        "full_name": "Lazarev, Mikhail",
+        "short_name": "Lazarev M",
+        "identifiers": [
+          "0000-0003-2252-625X"
+        ],
+        "affiliations": [
+          "HSE University, Moscow, Russia."
+        ]
+      },
+      {
+        "full_name": "Ter-Oganessian, Nikita V",
+        "short_name": "Ter-Oganessian NV",
+        "identifiers": [
+          "0000-0001-8965-1800"
+        ],
+        "affiliations": [
+          "Institute of Physics, Southern Federal University, Rostov-on-Don, Russian Federation."
+        ]
+      },
+      {
+        "full_name": "Galushko, Alexey S",
+        "short_name": "Galushko AS",
+        "identifiers": [
+          "0000-0002-4372-213X"
+        ],
+        "affiliations": [
+          "Zelinsky Institute of Organic Chemistry, Russian Academy of Sciences, Moscow, Russian Federation."
+        ]
+      },
+      {
+        "full_name": "Khrizanforov, Mikhail N",
+        "short_name": "Khrizanforov MN",
+        "identifiers": [],
+        "affiliations": [
+          "Zelinsky Institute of Organic Chemistry, Russian Academy of Sciences, Moscow, Russian Federation."
+        ]
+      },
+      {
+        "full_name": "Ananikov, Valentine P",
+        "short_name": "Ananikov VP",
+        "identifiers": [
+          "0000-0002-6447-557X"
+        ],
+        "affiliations": [
+          "Zelinsky Institute of Organic Chemistry, Russian Academy of Sciences, Moscow, Russian Federation."
+        ]
+      },
+      {
+        "full_name": "Kvashnin, Alexander G",
+        "short_name": "Kvashnin AG",
+        "identifiers": [
+          "0000-0002-0718-6691"
+        ],
+        "affiliations": [
+          "Skolkovo Institute of Science and Technology, Moscow, Russian Federation."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Small (Weinheim an der Bergstrasse, Germany)"
+    ],
+    "journal_abbrev": [
+      "Small"
+    ],
+    "pub_date": "2026 Sep 24",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/24 23:52",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42782502",
+      "42475469",
+      "21366255",
+      "21919447",
+      "30289424",
+      "16853910",
+      "25563574",
+      "41327550",
+      "25493586",
+      "17181366",
+      "25921328",
+      "21888432",
+      "42179576",
+      "19722624",
+      "29863492",
+      "19453197",
+      "16851216",
+      "38236500",
+      "18825289",
+      "28764366",
+      "37563984",
+      "16686464",
+      "42089919",
+      "34904892",
+      "41347733",
+      "42240682",
+      "21693862",
+      "39809888",
+      "20499981",
+      "36050003",
+      "41784787",
+      "40022776",
+      "38869073",
+      "42300616",
+      "33289945",
+      "41427731",
+      "39372006",
+      "40965411",
+      "37249232",
+      "12465990",
+      "38775219",
+      "19044790",
+      "34137246",
+      "26524466",
+      "23486106",
+      "42446002",
+      "36321557",
+      "34582175",
+      "40212548",
+      "33147012",
+      "42318870",
+      "42160874",
+      "35952385",
+      "22806095",
+      "26267299",
+      "19588952",
+      "29331133",
+      "34048257",
+      "36131985",
+      "27476577",
+      "36380531",
+      "23912807",
+      "22374435",
+      "26409345",
+      "42231736",
+      "41243722",
+      "33990137",
+      "25939360",
+      "28960217",
+      "23646692",
+      "31460390",
+      "21247156",
+      "24372536",
+      "30741519",
+      "32022555",
+      "21116540",
+      "40319041",
+      "32869965",
+      "30087976",
+      "30480998",
+      "40522704",
+      "33154783",
+      "31482889",
+      "26878836",
+      "16722752",
+      "17129150",
+      "28805223",
+      "31483599",
+      "25865213",
+      "29604843",
+      "36650999",
+      "21341654",
+      "34008972",
+      "29412512",
+      "34787997",
+      "18980366",
+      "42283773",
+      "24283343",
+      "39596122",
+      "36680516"
+    ],
+    "review": [
+      "42782502",
+      "36321557"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1002/smll.75835",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

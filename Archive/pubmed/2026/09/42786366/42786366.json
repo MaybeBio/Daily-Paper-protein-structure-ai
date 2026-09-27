@@ -1,0 +1,323 @@
+{
+  "identity": {
+    "pmid": "42786366",
+    "doi": "10.1007/s11095-026-04192-3",
+    "title": "Computational Design of a Trivalent Multi-Epitope mRNA Vaccine Candidate Against Western, Eastern, and Venezuelan Equine Encephalitis Viruses."
+  },
+  "content": {
+    "abstract": "PURPOSE: Western equine encephalitis virus (WEEV), Eastern equine encephalitis virus (EEEV), and Venezuelan equine encephalitis virus (VEEV) are mosquito-borne neurotropic alphaviruses that can cause severe encephalitis in humans and equids, yet no licensed vaccines are currently available for routine human prevention. This study aimed to computationally design a trivalent multi-epitope mRNA vaccine targeting WEEV, EEEV, and VEEV. METHODS: Immunoinformatics and reverse vaccinology approaches were used to identify conserved cytotoxic T-lymphocyte, helper T-lymphocyte, and linear B-cell epitopes from the three viruses. Fifteen candidate constructs incorporating different immunomodulatory strategies were evaluated for predicted antigenicity, safety, stability, and solubility, and the construct with the most balanced overall profile was selected for further analysis. Secondary- and tertiary-structure prediction, molecular docking, molecular dynamics (MD) simulations, binding free-energy analysis, and immune simulation were subsequently performed. RESULTS: WEV showed a favorable overall physicochemical and immunological profile, supporting its further structural and immunological characterization. Molecular docking demonstrated favorable interactions between WEV and TLR2, TLR3, and TLR4, with the strongest predicted HADDOCK score observed for TLR4. In contrast, molecular dynamics simulations and MM-PBSA analysis indicated greater dynamic stability and a more favorable estimated binding free energy for the WEV-TLR2 complex. In silico immune simulation predicted enhanced IgM and IgG production, B- and T-cell responses, memory-cell formation, and increased IFN-gamma and IL-2 levels. CONCLUSIONS: WEV represents a computationally designed trivalent multi-epitope mRNA vaccine candidate against WEEV, EEEV, and VEEV. The present study provides a sequence-defined framework for the rational development of multivalent vaccines, and further in vitro and in vivo studies are warranted to evaluate antigen expression, immunogenicity, protective efficacy, and safety.",
+    "keywords": [
+      "Eastern equine encephalitis virus",
+      "Venezuelan equine encephalitis virus",
+      "Western equine encephalitis virus",
+      "immunoinformatics",
+      "multi-epitope mRNA vaccine"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Qin, Rongliu",
+        "Luo, Yuying",
+        "Zhou, Ziyou",
+        "Xu, Yizhong",
+        "Wu, Xu",
+        "Hou, Yanqun",
+        "Chen, Jie",
+        "Zhu, Fei",
+        "Pan, Pinhua"
+      ],
+      "short_names": [
+        "Qin R",
+        "Luo Y",
+        "Zhou Z",
+        "Xu Y",
+        "Wu X",
+        "Hou Y",
+        "Chen J",
+        "Zhu F",
+        "Pan P"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-5883-0531"
+      ],
+      "affiliations": [
+        "Department of Respiratory Medicine, National Key Clinical Specialty, Branch of National Clinical Research Center for Respiratory Disease, Xiangya Hospital, Central South University, Changsha, Hunan, 410008, China.",
+        "Clinical Research Center for Respiratory Diseases in Hunan Province, Changsha, Hunan, China.",
+        "Hunan Engineering Research Center for Intelligent Diagnosis and Treatment of Respiratory Disease, Changsha, Hunan, China.",
+        "National Clinical Research Center for Geriatric Disease, Xiangya Hospital, Changsha, Hunan, China.",
+        "Department of Respiratory Medicine, National Key Clinical Specialty, Branch of National Clinical Research Center for Respiratory Disease, Xiangya Hospital, Central South University, Changsha, Hunan, 410008, China.",
+        "Clinical Research Center for Respiratory Diseases in Hunan Province, Changsha, Hunan, China.",
+        "Hunan Engineering Research Center for Intelligent Diagnosis and Treatment of Respiratory Disease, Changsha, Hunan, China.",
+        "National Clinical Research Center for Geriatric Disease, Xiangya Hospital, Changsha, Hunan, China.",
+        "Department of Respiratory Medicine, National Key Clinical Specialty, Branch of National Clinical Research Center for Respiratory Disease, Xiangya Hospital, Central South University, Changsha, Hunan, 410008, China.",
+        "Clinical Research Center for Respiratory Diseases in Hunan Province, Changsha, Hunan, China.",
+        "Hunan Engineering Research Center for Intelligent Diagnosis and Treatment of Respiratory Disease, Changsha, Hunan, China.",
+        "National Clinical Research Center for Geriatric Disease, Xiangya Hospital, Changsha, Hunan, China.",
+        "Department of Respiratory Medicine, National Key Clinical Specialty, Branch of National Clinical Research Center for Respiratory Disease, Xiangya Hospital, Central South University, Changsha, Hunan, 410008, China.",
+        "Clinical Research Center for Respiratory Diseases in Hunan Province, Changsha, Hunan, China.",
+        "Hunan Engineering Research Center for Intelligent Diagnosis and Treatment of Respiratory Disease, Changsha, Hunan, China.",
+        "National Clinical Research Center for Geriatric Disease, Xiangya Hospital, Changsha, Hunan, China.",
+        "Department of Respiratory Medicine, National Key Clinical Specialty, Branch of National Clinical Research Center for Respiratory Disease, Xiangya Hospital, Central South University, Changsha, Hunan, 410008, China.",
+        "Clinical Research Center for Respiratory Diseases in Hunan Province, Changsha, Hunan, China.",
+        "Hunan Engineering Research Center for Intelligent Diagnosis and Treatment of Respiratory Disease, Changsha, Hunan, China.",
+        "National Clinical Research Center for Geriatric Disease, Xiangya Hospital, Changsha, Hunan, China.",
+        "Department of Respiratory Medicine, National Key Clinical Specialty, Branch of National Clinical Research Center for Respiratory Disease, Xiangya Hospital, Central South University, Changsha, Hunan, 410008, China.",
+        "Clinical Research Center for Respiratory Diseases in Hunan Province, Changsha, Hunan, China.",
+        "Hunan Engineering Research Center for Intelligent Diagnosis and Treatment of Respiratory Disease, Changsha, Hunan, China.",
+        "National Clinical Research Center for Geriatric Disease, Xiangya Hospital, Changsha, Hunan, China.",
+        "Department of Respiratory Medicine, National Key Clinical Specialty, Branch of National Clinical Research Center for Respiratory Disease, Xiangya Hospital, Central South University, Changsha, Hunan, 410008, China.",
+        "Clinical Research Center for Respiratory Diseases in Hunan Province, Changsha, Hunan, China.",
+        "Hunan Engineering Research Center for Intelligent Diagnosis and Treatment of Respiratory Disease, Changsha, Hunan, China.",
+        "National Clinical Research Center for Geriatric Disease, Xiangya Hospital, Changsha, Hunan, China.",
+        "Department of Respiratory Medicine, National Key Clinical Specialty, Branch of National Clinical Research Center for Respiratory Disease, Xiangya Hospital, Central South University, Changsha, Hunan, 410008, China. 2204150422@csu.edu.cn.",
+        "Clinical Research Center for Respiratory Diseases in Hunan Province, Changsha, Hunan, China. 2204150422@csu.edu.cn.",
+        "Hunan Engineering Research Center for Intelligent Diagnosis and Treatment of Respiratory Disease, Changsha, Hunan, China. 2204150422@csu.edu.cn.",
+        "National Clinical Research Center for Geriatric Disease, Xiangya Hospital, Changsha, Hunan, China. 2204150422@csu.edu.cn.",
+        "Department of Respiratory Medicine, National Key Clinical Specialty, Branch of National Clinical Research Center for Respiratory Disease, Xiangya Hospital, Central South University, Changsha, Hunan, 410008, China. pinhuapan668@csu.edu.cn.",
+        "Clinical Research Center for Respiratory Diseases in Hunan Province, Changsha, Hunan, China. pinhuapan668@csu.edu.cn.",
+        "Hunan Engineering Research Center for Intelligent Diagnosis and Treatment of Respiratory Disease, Changsha, Hunan, China. pinhuapan668@csu.edu.cn.",
+        "National Clinical Research Center for Geriatric Disease, Xiangya Hospital, Changsha, Hunan, China. pinhuapan668@csu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Qin, Rongliu",
+        "short_name": "Qin R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Respiratory Medicine, National Key Clinical Specialty, Branch of National Clinical Research Center for Respiratory Disease, Xiangya Hospital, Central South University, Changsha, Hunan, 410008, China.",
+          "Clinical Research Center for Respiratory Diseases in Hunan Province, Changsha, Hunan, China.",
+          "Hunan Engineering Research Center for Intelligent Diagnosis and Treatment of Respiratory Disease, Changsha, Hunan, China.",
+          "National Clinical Research Center for Geriatric Disease, Xiangya Hospital, Changsha, Hunan, China."
+        ]
+      },
+      {
+        "full_name": "Luo, Yuying",
+        "short_name": "Luo Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Respiratory Medicine, National Key Clinical Specialty, Branch of National Clinical Research Center for Respiratory Disease, Xiangya Hospital, Central South University, Changsha, Hunan, 410008, China.",
+          "Clinical Research Center for Respiratory Diseases in Hunan Province, Changsha, Hunan, China.",
+          "Hunan Engineering Research Center for Intelligent Diagnosis and Treatment of Respiratory Disease, Changsha, Hunan, China.",
+          "National Clinical Research Center for Geriatric Disease, Xiangya Hospital, Changsha, Hunan, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Ziyou",
+        "short_name": "Zhou Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Respiratory Medicine, National Key Clinical Specialty, Branch of National Clinical Research Center for Respiratory Disease, Xiangya Hospital, Central South University, Changsha, Hunan, 410008, China.",
+          "Clinical Research Center for Respiratory Diseases in Hunan Province, Changsha, Hunan, China.",
+          "Hunan Engineering Research Center for Intelligent Diagnosis and Treatment of Respiratory Disease, Changsha, Hunan, China.",
+          "National Clinical Research Center for Geriatric Disease, Xiangya Hospital, Changsha, Hunan, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Yizhong",
+        "short_name": "Xu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Respiratory Medicine, National Key Clinical Specialty, Branch of National Clinical Research Center for Respiratory Disease, Xiangya Hospital, Central South University, Changsha, Hunan, 410008, China.",
+          "Clinical Research Center for Respiratory Diseases in Hunan Province, Changsha, Hunan, China.",
+          "Hunan Engineering Research Center for Intelligent Diagnosis and Treatment of Respiratory Disease, Changsha, Hunan, China.",
+          "National Clinical Research Center for Geriatric Disease, Xiangya Hospital, Changsha, Hunan, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Xu",
+        "short_name": "Wu X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Respiratory Medicine, National Key Clinical Specialty, Branch of National Clinical Research Center for Respiratory Disease, Xiangya Hospital, Central South University, Changsha, Hunan, 410008, China.",
+          "Clinical Research Center for Respiratory Diseases in Hunan Province, Changsha, Hunan, China.",
+          "Hunan Engineering Research Center for Intelligent Diagnosis and Treatment of Respiratory Disease, Changsha, Hunan, China.",
+          "National Clinical Research Center for Geriatric Disease, Xiangya Hospital, Changsha, Hunan, China."
+        ]
+      },
+      {
+        "full_name": "Hou, Yanqun",
+        "short_name": "Hou Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Respiratory Medicine, National Key Clinical Specialty, Branch of National Clinical Research Center for Respiratory Disease, Xiangya Hospital, Central South University, Changsha, Hunan, 410008, China.",
+          "Clinical Research Center for Respiratory Diseases in Hunan Province, Changsha, Hunan, China.",
+          "Hunan Engineering Research Center for Intelligent Diagnosis and Treatment of Respiratory Disease, Changsha, Hunan, China.",
+          "National Clinical Research Center for Geriatric Disease, Xiangya Hospital, Changsha, Hunan, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Jie",
+        "short_name": "Chen J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Respiratory Medicine, National Key Clinical Specialty, Branch of National Clinical Research Center for Respiratory Disease, Xiangya Hospital, Central South University, Changsha, Hunan, 410008, China.",
+          "Clinical Research Center for Respiratory Diseases in Hunan Province, Changsha, Hunan, China.",
+          "Hunan Engineering Research Center for Intelligent Diagnosis and Treatment of Respiratory Disease, Changsha, Hunan, China.",
+          "National Clinical Research Center for Geriatric Disease, Xiangya Hospital, Changsha, Hunan, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Fei",
+        "short_name": "Zhu F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Respiratory Medicine, National Key Clinical Specialty, Branch of National Clinical Research Center for Respiratory Disease, Xiangya Hospital, Central South University, Changsha, Hunan, 410008, China. 2204150422@csu.edu.cn.",
+          "Clinical Research Center for Respiratory Diseases in Hunan Province, Changsha, Hunan, China. 2204150422@csu.edu.cn.",
+          "Hunan Engineering Research Center for Intelligent Diagnosis and Treatment of Respiratory Disease, Changsha, Hunan, China. 2204150422@csu.edu.cn.",
+          "National Clinical Research Center for Geriatric Disease, Xiangya Hospital, Changsha, Hunan, China. 2204150422@csu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Pan, Pinhua",
+        "short_name": "Pan P",
+        "identifiers": [
+          "0000-0001-5883-0531"
+        ],
+        "affiliations": [
+          "Department of Respiratory Medicine, National Key Clinical Specialty, Branch of National Clinical Research Center for Respiratory Disease, Xiangya Hospital, Central South University, Changsha, Hunan, 410008, China. pinhuapan668@csu.edu.cn.",
+          "Clinical Research Center for Respiratory Diseases in Hunan Province, Changsha, Hunan, China. pinhuapan668@csu.edu.cn.",
+          "Hunan Engineering Research Center for Intelligent Diagnosis and Treatment of Respiratory Disease, Changsha, Hunan, China. pinhuapan668@csu.edu.cn.",
+          "National Clinical Research Center for Geriatric Disease, Xiangya Hospital, Changsha, Hunan, China. pinhuapan668@csu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Pharmaceutical research"
+    ],
+    "journal_abbrev": [
+      "Pharm Res"
+    ],
+    "pub_date": "2026 Sep 24",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/25 05:32",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42786366",
+      "33542715",
+      "38494412",
+      "32503232",
+      "30037666",
+      "41897006",
+      "42380441",
+      "42192530",
+      "35568049",
+      "41083417",
+      "40134009",
+      "42696180",
+      "25122801",
+      "27632563",
+      "41706189",
+      "41929236",
+      "41915177",
+      "28575582",
+      "42774152",
+      "42445188",
+      "42148102",
+      "40226615",
+      "41949632",
+      "42333966",
+      "41822585",
+      "40830404",
+      "42696893",
+      "42653802",
+      "41252394",
+      "42436212",
+      "41343928",
+      "41444309",
+      "41901750",
+      "40688509",
+      "39325755",
+      "38028215",
+      "36845087",
+      "36603375",
+      "41484553",
+      "41599631",
+      "41211458",
+      "41629588",
+      "41239337",
+      "41792674",
+      "41593501",
+      "42417153",
+      "39936916",
+      "42115669",
+      "41381008",
+      "39936152",
+      "41674438",
+      "41534429",
+      "39617074",
+      "40610881",
+      "41791311",
+      "39840071",
+      "42676359",
+      "36776835",
+      "40594603",
+      "41134838",
+      "28148802",
+      "32755661",
+      "42746578",
+      "41304878",
+      "42710342",
+      "41930240",
+      "39441880",
+      "29187545",
+      "40957351",
+      "40463368",
+      "42035012",
+      "38222668",
+      "41196893",
+      "39703502",
+      "42424695",
+      "33823988",
+      "35891482",
+      "41686297",
+      "39339884",
+      "38487680",
+      "41032627",
+      "41905024",
+      "42506617",
+      "42236804",
+      "39936178",
+      "42064452",
+      "41559260",
+      "42589673",
+      "40130172",
+      "42365117",
+      "42655066",
+      "41730794",
+      "42151414",
+      "42154343",
+      "23512478",
+      "34611250",
+      "42004740",
+      "41478472",
+      "29967804",
+      "42527813"
+    ],
+    "review": [
+      "42786366",
+      "32503232",
+      "42506617"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

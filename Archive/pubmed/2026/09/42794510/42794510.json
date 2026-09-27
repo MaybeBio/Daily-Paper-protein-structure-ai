@@ -1,0 +1,244 @@
+{
+  "identity": {
+    "pmid": "42794510",
+    "doi": "10.3390/ijms27188081",
+    "title": "Unveiling Novel Metalloprotease Inhibitors Targeting Botulinum Neurotoxin Through Structure-Based Virtual Screening of Drug Libraries and Molecular Dynamics Simulations."
+  },
+  "content": {
+    "abstract": "Botulinum neurotoxin (BoNT) is one of the most lethal biological substances to humans, which inhibits acetylcholine release by the presynaptic nerve in neuromuscular junctions. Of the existing BoNT serotypes, BoNT serotype A (BoNT/A) is particularly potent, making it the primary focus in neurotoxin research. Its catalytic domain exhibits similar structural features and zinc-dependent activity as thermolysin, a key bacterial enzyme, which provides a foundation for designing antibacterial agents targeting related protease mechanisms. Repurposing of preapproved drugs or existing medications has recently proven an effective strategy to accelerate drug discovery. Accordingly, we employed drug-likeness screening, quantitative estimation of drug-likeness (QED), and molecular docking to screen about 9000 ligands from the FDA-preapproved drug library using the known crystal structures of the toxin's light chain, and we identified potential inhibitors with the highest binding affinity. We further refined our selection using molecular dynamics simulations to investigate the stability of the receptor-ligand complexes. The binding mode analysis and binding free energies of the receptor-ligand complexes provide crucial information about the mechanism of action of our top-ranked potential inhibitors. Notably, 16 ligands exhibit a binding affinity greater (in magnitude) than that of the hydroxamate inhibitors that are co-crystallized in the X-ray structure. Most of these ligands contain fluorine, carboxylic and phosphate moieties as key functional groups that enhance their interactions with key residues of the BoNT active site. Our results suggest that dinoprost and 15 other clinically investigated ligands may serve as candidate scaffolds for further evaluation as potential BoNT/A LC inhibitors, pending experimental validation.",
+    "keywords": [
+      "Clostridium",
+      "binding affinity",
+      "botulinum neurotoxin",
+      "drug repurposing",
+      "hydroxamates",
+      "molecular docking",
+      "molecular dynamics simulations"
+    ],
+    "mesh_terms": [
+      "*Molecular Dynamics Simulation",
+      "Molecular Docking Simulation",
+      "Ligands",
+      "*Metalloproteases/antagonists & inhibitors/chemistry",
+      "Small Molecule Libraries/chemistry",
+      "*Protease Inhibitors/chemistry/pharmacology",
+      "*Botulinum Toxins, Type A/chemistry/antagonists & inhibitors",
+      "Protein Binding",
+      "Humans",
+      "Catalytic Domain",
+      "*Botulinum Toxins/chemistry/antagonists & inhibitors"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Sulaimon, Ridwan",
+        "Selvaraj, Gurudeeban",
+        "Chan, Nora W C",
+        "Hu, Anguang",
+        "Peslherbe, Gilles H"
+      ],
+      "short_names": [
+        "Sulaimon R",
+        "Selvaraj G",
+        "Chan NWC",
+        "Hu A",
+        "Peslherbe GH"
+      ],
+      "auids": [
+        "ORCID: 0009-0002-4244-661X",
+        "ORCID: 0000-0002-7223-3853",
+        "ORCID: 0000-0003-4711-6927"
+      ],
+      "affiliations": [
+        "Centre for Research in Molecular Modeling (CERMM), Department of Chemistry and Biochemistry, Concordia University, Montreal, QC H4B 1R6, Canada.",
+        "Centre for Research in Molecular Modeling (CERMM), Department of Chemistry and Biochemistry, Concordia University, Montreal, QC H4B 1R6, Canada.",
+        "Suffield Research Centre (SRC), Defence Research and Development Canada, Government of Canada, Medicine Hat, AB T1A 8K6, Canada.",
+        "Suffield Research Centre (SRC), Defence Research and Development Canada, Government of Canada, Medicine Hat, AB T1A 8K6, Canada.",
+        "Centre for Research in Molecular Modeling (CERMM), Department of Chemistry and Biochemistry, Concordia University, Montreal, QC H4B 1R6, Canada."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Sulaimon, Ridwan",
+        "short_name": "Sulaimon R",
+        "identifiers": [
+          "0009-0002-4244-661X"
+        ],
+        "affiliations": [
+          "Centre for Research in Molecular Modeling (CERMM), Department of Chemistry and Biochemistry, Concordia University, Montreal, QC H4B 1R6, Canada."
+        ]
+      },
+      {
+        "full_name": "Selvaraj, Gurudeeban",
+        "short_name": "Selvaraj G",
+        "identifiers": [
+          "0000-0002-7223-3853"
+        ],
+        "affiliations": [
+          "Centre for Research in Molecular Modeling (CERMM), Department of Chemistry and Biochemistry, Concordia University, Montreal, QC H4B 1R6, Canada."
+        ]
+      },
+      {
+        "full_name": "Chan, Nora W C",
+        "short_name": "Chan NWC",
+        "identifiers": [],
+        "affiliations": [
+          "Suffield Research Centre (SRC), Defence Research and Development Canada, Government of Canada, Medicine Hat, AB T1A 8K6, Canada."
+        ]
+      },
+      {
+        "full_name": "Hu, Anguang",
+        "short_name": "Hu A",
+        "identifiers": [],
+        "affiliations": [
+          "Suffield Research Centre (SRC), Defence Research and Development Canada, Government of Canada, Medicine Hat, AB T1A 8K6, Canada."
+        ]
+      },
+      {
+        "full_name": "Peslherbe, Gilles H",
+        "short_name": "Peslherbe GH",
+        "identifiers": [
+          "0000-0003-4711-6927"
+        ],
+        "affiliations": [
+          "Centre for Research in Molecular Modeling (CERMM), Department of Chemistry and Biochemistry, Concordia University, Montreal, QC H4B 1R6, Canada."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of molecular sciences"
+    ],
+    "journal_abbrev": [
+      "Int J Mol Sci"
+    ],
+    "pub_date": "2026 Sep 11",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/26 05:35",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42794510",
+      "21434688",
+      "24958623",
+      "23545109",
+      "14511652",
+      "25745992",
+      "16404524",
+      "42106528",
+      "32828426",
+      "22082667",
+      "27543389",
+      "39639531",
+      "24984937",
+      "15598556",
+      "34023445",
+      "25148595",
+      "26522088",
+      "41887806",
+      "31322847",
+      "25335884",
+      "33322848",
+      "37120484",
+      "30366191",
+      "30557817",
+      "21421315",
+      "10932256",
+      "17524984",
+      "29540745",
+      "37978909",
+      "24360826",
+      "15009541",
+      "39703994",
+      "15751983",
+      "39561033",
+      "23340139",
+      "28698055",
+      "25295706",
+      "38954072",
+      "40223217",
+      "17417831",
+      "25192471",
+      "28475321",
+      "26275678",
+      "25751268",
+      "30389764",
+      "41386398",
+      "37646701",
+      "20138889",
+      "16128577",
+      "38095360",
+      "32561274",
+      "10932255",
+      "39403785",
+      "19528275",
+      "25622129",
+      "42413396",
+      "26178648",
+      "22525749",
+      "42112455",
+      "39757683",
+      "41503904",
+      "40973684",
+      "39613993",
+      "19476346",
+      "20092262",
+      "34324152",
+      "27981421",
+      "40792456",
+      "25541527",
+      "40632195",
+      "25731972",
+      "29475408",
+      "28137423",
+      "41546735",
+      "20614028",
+      "25925721",
+      "40733251",
+      "37907683",
+      "40353417",
+      "33164832",
+      "16568962",
+      "27469199",
+      "42450107",
+      "29688327",
+      "27443638",
+      "35728285",
+      "41483315",
+      "39837377",
+      "41880802",
+      "31557621",
+      "17092934",
+      "34990480",
+      "12146945",
+      "37697727",
+      "23523511",
+      "33256744",
+      "40685718",
+      "42118388",
+      "16203152",
+      "39467164"
+    ],
+    "review": [
+      "42794510",
+      "25335884"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

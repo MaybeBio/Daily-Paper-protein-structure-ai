@@ -1,0 +1,217 @@
+{
+  "identity": {
+    "pmid": "42773890",
+    "doi": "10.1080/07391102.2026.2733932",
+    "title": "Design of a high-affinity IL-21 decoy receptor as a novel therapeutic strategy for autoimmune disorders."
+  },
+  "content": {
+    "abstract": "Elevated levels of the pro-inflammatory cytokine Interleukin 21 (IL-21) contribute to the progression of autoimmune and inflammatory diseases by binding to its receptor (IL-21R) and activating detrimental signaling pathways in immune cells. Consequently, we developed a recombinant decoy receptor protein designed to competitively inhibit IL-21 binding to its receptor. Using the extracellular domain of IL-21R as a scaffold, five key binding-site residues (33, 38, 70, 94, and 130) were mutated with OSPREY software. Computational analyses with GROMACS selected the Q33S, E38D, M70T, L94N, and M130S mutant for its superior structural stability and high binding affinity to IL-21, with binding energy calculations confirming that the mutant successfully maintains the high baseline binding affinity of the wild-type complex. The decoy receptor protein was subsequently expressed recombinantly in E. coli Rosetta-gami. More importantly, the analysis of secondary structure revealed that the protein retained its overall secondary structure after mutagenesis, with slight alterations in alpha-helical content. Finally, the calculation of the KD value using the SPR technique demonstrated that the mutant IL-21R exhibited a 1.4-fold increase in binding affinity compared to the wild-type receptor (KD = 50pM vs. 70pM for the wild-type), supporting its potential as a competitive IL-21R decoy receptor. Therefore, this decoy receptor could be considered an effective therapeutic agent for blocking IL21 and controlling or preventing the progression of autoimmune and inflammatory diseases.",
+    "keywords": [
+      "Decoy receptor",
+      "Interleukin 21",
+      "Mutagenesis",
+      "autoimmune diseases",
+      "computational protein design"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Vazifeshenas, Sara",
+        "Hajihassan, Zahra",
+        "Arab, Seyed Shahriar",
+        "Najafyar, Ali"
+      ],
+      "short_names": [
+        "Vazifeshenas S",
+        "Hajihassan Z",
+        "Arab SS",
+        "Najafyar A"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Life Science Engineering, College of Interdisciplinary Science and Technology, University of Tehran, Tehran, Iran.",
+        "School of Life Science Engineering, College of Interdisciplinary Science and Technology, University of Tehran, Tehran, Iran.",
+        "Center for Molecular Medicine, University of Georgia, Athens, Georgia, USA.",
+        "School of Life Science Engineering, College of Interdisciplinary Science and Technology, University of Tehran, Tehran, Iran."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Vazifeshenas, Sara",
+        "short_name": "Vazifeshenas S",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Science Engineering, College of Interdisciplinary Science and Technology, University of Tehran, Tehran, Iran."
+        ]
+      },
+      {
+        "full_name": "Hajihassan, Zahra",
+        "short_name": "Hajihassan Z",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Science Engineering, College of Interdisciplinary Science and Technology, University of Tehran, Tehran, Iran."
+        ]
+      },
+      {
+        "full_name": "Arab, Seyed Shahriar",
+        "short_name": "Arab SS",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Molecular Medicine, University of Georgia, Athens, Georgia, USA."
+        ]
+      },
+      {
+        "full_name": "Najafyar, Ali",
+        "short_name": "Najafyar A",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Science Engineering, College of Interdisciplinary Science and Technology, University of Tehran, Tehran, Iran."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of biomolecular structure & dynamics"
+    ],
+    "journal_abbrev": [
+      "J Biomol Struct Dyn"
+    ],
+    "pub_date": "2026 Sep 23",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/23 05:34",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42773890",
+      "34765462",
+      "22363519",
+      "40045854",
+      "7760005",
+      "37525418",
+      "42715909",
+      "8621714",
+      "16640778",
+      "11101310",
+      "7518426",
+      "9125495",
+      "8647806",
+      "9260277",
+      "30304852",
+      "8468475",
+      "7964514",
+      "35891958",
+      "8885249",
+      "8631370",
+      "39112658",
+      "7907592",
+      "1460041",
+      "36729088",
+      "23919527",
+      "9166423",
+      "40417773",
+      "1940342",
+      "15060062",
+      "8316224",
+      "15109264",
+      "39405983",
+      "9182541",
+      "12027403",
+      "12531525",
+      "14999686",
+      "41391869",
+      "8626807",
+      "38023717",
+      "36745138",
+      "8626516",
+      "39953920",
+      "41424853",
+      "41796358",
+      "8662881",
+      "39254873",
+      "9103454",
+      "41067334",
+      "7957082",
+      "8276883",
+      "8943050",
+      "35398099",
+      "7918389",
+      "8034699",
+      "16260592",
+      "8013348",
+      "30233580",
+      "1678850",
+      "19486266",
+      "41356664",
+      "24549990",
+      "8662882",
+      "7575356",
+      "10529171",
+      "8786316",
+      "8547632",
+      "41065942",
+      "37588794",
+      "25838422",
+      "8555185",
+      "10677214",
+      "18569390",
+      "8505330",
+      "9344865",
+      "10071757",
+      "8824238",
+      "7737976",
+      "11237737",
+      "37759507",
+      "28782478",
+      "7744786",
+      "39416199",
+      "21064130",
+      "9863624",
+      "41087717",
+      "9405275",
+      "19059502",
+      "7878046",
+      "8505314",
+      "9092513",
+      "25242553",
+      "33929673",
+      "35003094",
+      "18797176",
+      "7925442",
+      "30446251",
+      "11602187",
+      "8770906",
+      "1826128",
+      "25969511"
+    ],
+    "review": [
+      "42773890",
+      "36745138"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.tandfonline.com/doi/10.1080/07391102.2026.2733932?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

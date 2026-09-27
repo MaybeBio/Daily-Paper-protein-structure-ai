@@ -1,0 +1,396 @@
+{
+  "identity": {
+    "pmid": "42797229",
+    "doi": "10.3390/pharmaceutics18091053",
+    "title": "Probing the Capsid: pH-Driven Gating at the AAV 5-Fold Pore and Its Role in Peptide Ligand Binding."
+  },
+  "content": {
+    "abstract": "Background/Objectives: Adeno-associated virus (AAV) capsids undergo pH-dependent conformational gating at the 5-fold symmetry pore, but how these structural dynamics shape serotype-specific behavior and affinity-ligand recognition remains unclear, particularly for the clinically important serotypes AAV8 and AAV9. This study aimed to establish a pH-resolved structural framework linking 5-fold pore dynamics to peptide-ligand recognition and to translate this framework into sequence-based design principles for affinity capture of gene therapy vectors. Methods: AAV8 and AAV9 5-fold capsid assemblies were subjected to 500 ns molecular dynamics simulations under acidic (pH 5), neutral (pH 7), and basic (pH 9) conditions, with analysis of pore volume, inter-residue contact networks, electrostatic potential, and solvent-accessible surface area. In parallel, affinity chromatography using three mixed-mode peptide ligands (RVVAVYRI, TTFRAHHI, and TYHHHHII) was performed on clarified HEK293 lysates containing AAV8 or AAV9, with capsid yield, host-cell-protein clearance, and transduction activity assessed by ELISA, SEC-HPLC, and flow-cytometry-based transduction assays. Results: AAV8 displayed a heterogeneous, bimodal pore conformational landscape at pH 7, whereas AAV9 exhibited a discrete gate-like transition with maximal pore constriction at physiological pH; both serotypes showed pore-proximal contact remodeling with distinct network topologies. Experimentally, TYHHHHII achieved the highest selectivity for genome-containing capsids at pH 7, with transduction activity enrichment factors of 2.82 (AAV8) and 5.61 (AAV9), while TTFRAHHI provided the broadest operational pH range for bulk capsid recovery. Conclusions: These findings establish a structural framework linking pH-dependent pore dynamics to affinity ligand recognition and suggest practical sequence-design rules for ligand engineering: clustered histidines for neutral-pH selectivity, Arg-containing motifs for broad-pH robustness, and aromatic or hydrophobic residues for reinforcement of capsid binding.",
+    "keywords": [
+      "adeno-associated virus",
+      "capsid proteins",
+      "downstream processing",
+      "mixed-mode chromatography",
+      "molecular dynamics"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Minzoni, Arianna",
+        "Bobay, Benjamin",
+        "Shastry, Shriarjun",
+        "Barbieri, Eduardo",
+        "Brino, Brandon",
+        "Collazo, Crystal",
+        "Kamita, Shizuo",
+        "Wang, Danni",
+        "Khuu, Ciera",
+        "Polgar, Alexander",
+        "Siino, Joseph",
+        "Koley, Sushmita",
+        "Russelburg, Peyton",
+        "Snyder, Mark",
+        "Belisle, Christopher",
+        "Daniele, Michael",
+        "Menegatti, Stefano"
+      ],
+      "short_names": [
+        "Minzoni A",
+        "Bobay B",
+        "Shastry S",
+        "Barbieri E",
+        "Brino B",
+        "Collazo C",
+        "Kamita S",
+        "Wang D",
+        "Khuu C",
+        "Polgar A",
+        "Siino J",
+        "Koley S",
+        "Russelburg P",
+        "Snyder M",
+        "Belisle C",
+        "Daniele M",
+        "Menegatti S"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-4504-9567",
+        "ORCID: 0000-0003-4775-3686",
+        "ORCID: 0000-0001-9164-9398",
+        "ORCID: 0009-0004-4158-2729",
+        "ORCID: 0009-0004-1213-5647",
+        "ORCID: 0000-0002-2016-4091",
+        "ORCID: 0000-0001-5633-434X"
+      ],
+      "affiliations": [
+        "Department of Chemical and Biomolecular Engineering, NC State University, 911 Partners Way, Raleigh, NC 27606, USA.",
+        "North Carolina Viral Vector Initiative in Research and Learning (NC-VVIRAL), NC State University, 911 Oval Dr, Raleigh, NC 27695, USA.",
+        "Duke University NMR Center, Department of Chemistry, Duke University Medical Center, 308 Research Dr, Durham, NC 27710, USA.",
+        "Department of Chemical and Biomolecular Engineering, NC State University, 911 Partners Way, Raleigh, NC 27606, USA.",
+        "North Carolina Viral Vector Initiative in Research and Learning (NC-VVIRAL), NC State University, 911 Oval Dr, Raleigh, NC 27695, USA.",
+        "Biomanufacturing Training and Education Center (BTEC), NC State University, 850 Oval Dr, Raleigh, NC 27695, USA.",
+        "Health Research Institute, Michigan Technological University, 1400 Townsend Drive, Houghton, MI 49931, USA.",
+        "Department of Chemical and Biomolecular Engineering, NC State University, 911 Partners Way, Raleigh, NC 27606, USA.",
+        "North Carolina Viral Vector Initiative in Research and Learning (NC-VVIRAL), NC State University, 911 Oval Dr, Raleigh, NC 27695, USA.",
+        "Department of Chemical and Biomolecular Engineering, NC State University, 911 Partners Way, Raleigh, NC 27606, USA.",
+        "North Carolina Viral Vector Initiative in Research and Learning (NC-VVIRAL), NC State University, 911 Oval Dr, Raleigh, NC 27695, USA.",
+        "Biomanufacturing Training and Education Center (BTEC), NC State University, 850 Oval Dr, Raleigh, NC 27695, USA.",
+        "Bio-Rad Laboratories, 1000 Alfred Nobel Drive, Hercules, CA 94547, USA.",
+        "Bio-Rad Laboratories, 1000 Alfred Nobel Drive, Hercules, CA 94547, USA.",
+        "Bio-Rad Laboratories, 1000 Alfred Nobel Drive, Hercules, CA 94547, USA.",
+        "Bio-Rad Laboratories, 1000 Alfred Nobel Drive, Hercules, CA 94547, USA.",
+        "Bio-Rad Laboratories, 1000 Alfred Nobel Drive, Hercules, CA 94547, USA.",
+        "Bio-Rad Laboratories, 1000 Alfred Nobel Drive, Hercules, CA 94547, USA.",
+        "Bio-Rad Laboratories, 1000 Alfred Nobel Drive, Hercules, CA 94547, USA.",
+        "Bio-Rad Laboratories, 1000 Alfred Nobel Drive, Hercules, CA 94547, USA.",
+        "Bio-Rad Laboratories, 1000 Alfred Nobel Drive, Hercules, CA 94547, USA.",
+        "North Carolina Viral Vector Initiative in Research and Learning (NC-VVIRAL), NC State University, 911 Oval Dr, Raleigh, NC 27695, USA.",
+        "Department of Electrical and Computer Engineering, NC State University, Raleigh, NC 27695, USA.",
+        "Lampe Joint Department of Biomedical Engineering, NC State University, Raleigh, NC 27695, USA.",
+        "Department of Chemical and Biomolecular Engineering, NC State University, 911 Partners Way, Raleigh, NC 27606, USA.",
+        "North Carolina Viral Vector Initiative in Research and Learning (NC-VVIRAL), NC State University, 911 Oval Dr, Raleigh, NC 27695, USA.",
+        "Biomanufacturing Training and Education Center (BTEC), NC State University, 850 Oval Dr, Raleigh, NC 27695, USA.",
+        "Chromagenix LLC, 1791 Varsity Drive, Raleigh, NC 27606, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Minzoni, Arianna",
+        "short_name": "Minzoni A",
+        "identifiers": [
+          "0000-0002-4504-9567"
+        ],
+        "affiliations": [
+          "Department of Chemical and Biomolecular Engineering, NC State University, 911 Partners Way, Raleigh, NC 27606, USA.",
+          "North Carolina Viral Vector Initiative in Research and Learning (NC-VVIRAL), NC State University, 911 Oval Dr, Raleigh, NC 27695, USA."
+        ]
+      },
+      {
+        "full_name": "Bobay, Benjamin",
+        "short_name": "Bobay B",
+        "identifiers": [
+          "0000-0003-4775-3686"
+        ],
+        "affiliations": [
+          "Duke University NMR Center, Department of Chemistry, Duke University Medical Center, 308 Research Dr, Durham, NC 27710, USA."
+        ]
+      },
+      {
+        "full_name": "Shastry, Shriarjun",
+        "short_name": "Shastry S",
+        "identifiers": [
+          "0000-0001-9164-9398"
+        ],
+        "affiliations": [
+          "Department of Chemical and Biomolecular Engineering, NC State University, 911 Partners Way, Raleigh, NC 27606, USA.",
+          "North Carolina Viral Vector Initiative in Research and Learning (NC-VVIRAL), NC State University, 911 Oval Dr, Raleigh, NC 27695, USA.",
+          "Biomanufacturing Training and Education Center (BTEC), NC State University, 850 Oval Dr, Raleigh, NC 27695, USA."
+        ]
+      },
+      {
+        "full_name": "Barbieri, Eduardo",
+        "short_name": "Barbieri E",
+        "identifiers": [],
+        "affiliations": [
+          "Health Research Institute, Michigan Technological University, 1400 Townsend Drive, Houghton, MI 49931, USA."
+        ]
+      },
+      {
+        "full_name": "Brino, Brandon",
+        "short_name": "Brino B",
+        "identifiers": [
+          "0009-0004-4158-2729"
+        ],
+        "affiliations": [
+          "Department of Chemical and Biomolecular Engineering, NC State University, 911 Partners Way, Raleigh, NC 27606, USA.",
+          "North Carolina Viral Vector Initiative in Research and Learning (NC-VVIRAL), NC State University, 911 Oval Dr, Raleigh, NC 27695, USA."
+        ]
+      },
+      {
+        "full_name": "Collazo, Crystal",
+        "short_name": "Collazo C",
+        "identifiers": [
+          "0009-0004-1213-5647"
+        ],
+        "affiliations": [
+          "Department of Chemical and Biomolecular Engineering, NC State University, 911 Partners Way, Raleigh, NC 27606, USA.",
+          "North Carolina Viral Vector Initiative in Research and Learning (NC-VVIRAL), NC State University, 911 Oval Dr, Raleigh, NC 27695, USA.",
+          "Biomanufacturing Training and Education Center (BTEC), NC State University, 850 Oval Dr, Raleigh, NC 27695, USA."
+        ]
+      },
+      {
+        "full_name": "Kamita, Shizuo",
+        "short_name": "Kamita S",
+        "identifiers": [],
+        "affiliations": [
+          "Bio-Rad Laboratories, 1000 Alfred Nobel Drive, Hercules, CA 94547, USA."
+        ]
+      },
+      {
+        "full_name": "Wang, Danni",
+        "short_name": "Wang D",
+        "identifiers": [],
+        "affiliations": [
+          "Bio-Rad Laboratories, 1000 Alfred Nobel Drive, Hercules, CA 94547, USA."
+        ]
+      },
+      {
+        "full_name": "Khuu, Ciera",
+        "short_name": "Khuu C",
+        "identifiers": [],
+        "affiliations": [
+          "Bio-Rad Laboratories, 1000 Alfred Nobel Drive, Hercules, CA 94547, USA."
+        ]
+      },
+      {
+        "full_name": "Polgar, Alexander",
+        "short_name": "Polgar A",
+        "identifiers": [],
+        "affiliations": [
+          "Bio-Rad Laboratories, 1000 Alfred Nobel Drive, Hercules, CA 94547, USA."
+        ]
+      },
+      {
+        "full_name": "Siino, Joseph",
+        "short_name": "Siino J",
+        "identifiers": [],
+        "affiliations": [
+          "Bio-Rad Laboratories, 1000 Alfred Nobel Drive, Hercules, CA 94547, USA."
+        ]
+      },
+      {
+        "full_name": "Koley, Sushmita",
+        "short_name": "Koley S",
+        "identifiers": [],
+        "affiliations": [
+          "Bio-Rad Laboratories, 1000 Alfred Nobel Drive, Hercules, CA 94547, USA."
+        ]
+      },
+      {
+        "full_name": "Russelburg, Peyton",
+        "short_name": "Russelburg P",
+        "identifiers": [],
+        "affiliations": [
+          "Bio-Rad Laboratories, 1000 Alfred Nobel Drive, Hercules, CA 94547, USA."
+        ]
+      },
+      {
+        "full_name": "Snyder, Mark",
+        "short_name": "Snyder M",
+        "identifiers": [],
+        "affiliations": [
+          "Bio-Rad Laboratories, 1000 Alfred Nobel Drive, Hercules, CA 94547, USA."
+        ]
+      },
+      {
+        "full_name": "Belisle, Christopher",
+        "short_name": "Belisle C",
+        "identifiers": [],
+        "affiliations": [
+          "Bio-Rad Laboratories, 1000 Alfred Nobel Drive, Hercules, CA 94547, USA."
+        ]
+      },
+      {
+        "full_name": "Daniele, Michael",
+        "short_name": "Daniele M",
+        "identifiers": [
+          "0000-0002-2016-4091"
+        ],
+        "affiliations": [
+          "North Carolina Viral Vector Initiative in Research and Learning (NC-VVIRAL), NC State University, 911 Oval Dr, Raleigh, NC 27695, USA.",
+          "Department of Electrical and Computer Engineering, NC State University, Raleigh, NC 27695, USA.",
+          "Lampe Joint Department of Biomedical Engineering, NC State University, Raleigh, NC 27695, USA."
+        ]
+      },
+      {
+        "full_name": "Menegatti, Stefano",
+        "short_name": "Menegatti S",
+        "identifiers": [
+          "0000-0001-5633-434X"
+        ],
+        "affiliations": [
+          "Department of Chemical and Biomolecular Engineering, NC State University, 911 Partners Way, Raleigh, NC 27606, USA.",
+          "North Carolina Viral Vector Initiative in Research and Learning (NC-VVIRAL), NC State University, 911 Oval Dr, Raleigh, NC 27695, USA.",
+          "Biomanufacturing Training and Education Center (BTEC), NC State University, 850 Oval Dr, Raleigh, NC 27695, USA.",
+          "Chromagenix LLC, 1791 Varsity Drive, Raleigh, NC 27606, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Pharmaceutics"
+    ],
+    "journal_abbrev": [
+      "Pharmaceutics"
+    ],
+    "pub_date": "2026 Aug 25",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/26 05:35",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42797229",
+      "39217737",
+      "41455403",
+      "34260280",
+      "37728197",
+      "21850255",
+      "41297510",
+      "28789965",
+      "34346767",
+      "33145372",
+      "37310260",
+      "23442071",
+      "39677563",
+      "42773382",
+      "38219623",
+      "17726459",
+      "30089698",
+      "42475469",
+      "31826994",
+      "34757842",
+      "24725949",
+      "22496238",
+      "32575696",
+      "40886676",
+      "39475275",
+      "40879499",
+      "15078923",
+      "22915820",
+      "33898632",
+      "31835440",
+      "21917944",
+      "17728238",
+      "27852862",
+      "37435968",
+      "40944521",
+      "33028973",
+      "37153616",
+      "41157561",
+      "28125909",
+      "41460704",
+      "22718833",
+      "34549984",
+      "41151708",
+      "26605372",
+      "27558418",
+      "34287038",
+      "37199615",
+      "40961169",
+      "39380499",
+      "21956692",
+      "41755004",
+      "35532224",
+      "41384590",
+      "26962225",
+      "16414198",
+      "40093067",
+      "41223953",
+      "40664211",
+      "32669341",
+      "23534873",
+      "40521522",
+      "25404742",
+      "32669336",
+      "24116972",
+      "27252527",
+      "42176353",
+      "18367523",
+      "41052725",
+      "40639463",
+      "17507473",
+      "31687421",
+      "41992847",
+      "18369962",
+      "27424005",
+      "42394168",
+      "38061416",
+      "42490955",
+      "28768875",
+      "39700611",
+      "39342729",
+      "24067976",
+      "36605211",
+      "42462410",
+      "41335022",
+      "40845401",
+      "33229719",
+      "15163751",
+      "40008086",
+      "41293066",
+      "26334681",
+      "38792776",
+      "17324107",
+      "37441888",
+      "37485847",
+      "40935180",
+      "40793780",
+      "21490687",
+      "22389684",
+      "29116194",
+      "24086458"
+    ],
+    "review": [
+      "42797229",
+      "18369962"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "identity": {
+    "pmid": "42768230",
+    "doi": "10.1007/s12064-026-00494-7",
+    "title": "Quaternionic response geometry for proteins: toward a noncommutative theory of ordered deformations."
+  },
+  "content": {
+    "abstract": "Protein function may depend not only on endpoint conformations but also on the ordered deformation histories through which they are reached. This distinction is relevant to allostery, conformational switching, mutation-induced rearrangements, and epistatic effects, where different perturbation sequences may produce similar visible structures while retaining distinct internal transport histories. Current state-centered or endpoint-centered representations do not always preserve this order-sensitive information. The practical motivation is therefore to provide a foundation for future descriptors of protein deformation trajectories that can distinguish ordered histories even when endpoint conformations are similar. Such descriptors could support analyses of allosteric switching, mutation-order effects, conformational memory, and path-dependent response in molecular-dynamics trajectories, NMR ensembles, structural families, and outputs of geometric generative models. We propose a deformation-first geometric framework based on quaternionic frame transport along the protein backbone. Local backbone frames are lifted to quaternionic variables, with infinitesimal rotation encoded by [Formula: see text]. Ordered concatenation of admissible deformation paths generates a noncommutative transport algebra, recording that deformation [Formula: see text] followed by [Formula: see text] need not be equivalent to [Formula: see text] followed by [Formula: see text]. From this ordered transport layer, we construct a spectral-response layer comprising a global Dirac-type operator, local spectral germs, a renormalized spectral density, and a mixed response form. A minimal realization on an idealized alpha-helix shows how localized pitch and bending perturbations can yield similar endpoint descriptors while producing a nonzero endpoint-derived ordered-transport discrepancy. At the formal level, the framework separates an order-sensitive transport-memory sector, lost under a commutative shadow, from a spectral-response sector that remains visible.",
+    "keywords": [
+      "Noncommutative geometry",
+      "Ordered transport algebra",
+      "Protein deformation",
+      "Quaternionic frame transport",
+      "Spectral response",
+      "Transport memory"
+    ],
+    "mesh_terms": [
+      "*Proteins/chemistry",
+      "*Protein Conformation",
+      "Mutation",
+      "Molecular Dynamics Simulation",
+      "Algorithms",
+      "Allosteric Regulation",
+      "Models, Molecular"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Xiaoting",
+        "Kam, Chon-Fai",
+        "Li, Yu",
+        "Medina-Ortiz, David",
+        "Damour, Cedric",
+        "Chabriat, Jean Pierre",
+        "Miranville, Alain",
+        "Bessafi, Miloud",
+        "Cadet, Frederic"
+      ],
+      "short_names": [
+        "Chen X",
+        "Kam CF",
+        "Li Y",
+        "Medina-Ortiz D",
+        "Damour C",
+        "Chabriat JP",
+        "Miranville A",
+        "Bessafi M",
+        "Cadet F"
+      ],
+      "auids": [],
+      "affiliations": [
+        "University Paris City & University of Reunion, 75015, Paris, France.",
+        "University Paris City & University of Reunion, 75015, Paris, France.",
+        "ENERGYLab, University of Reunion, Saint-Denis, France.",
+        "School of Information Science and Technology and Beijing Institute of Artificial Intelligence, Beijing, China.",
+        "Departamento de Ingenieria en Computacion, Universidad de Magallanes, Punta Arenas, Chile.",
+        "ENERGYLab, University of Reunion, Saint-Denis, France.",
+        "ENERGYLab, University of Reunion, Saint-Denis, France.",
+        "Laboratoire de Mathematiques Appliquees du Havre (LMAH), Universite Le Havre Normandie, Le Havre, France.",
+        "ENERGYLab, University of Reunion, Saint-Denis, France.",
+        "University Paris City & University of Reunion, 75015, Paris, France. frederic.cadet.run@gmail.com.",
+        "PEACCEL, AI for Biologics, Paris, France. frederic.cadet.run@gmail.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Xiaoting",
+        "short_name": "Chen X",
+        "identifiers": [],
+        "affiliations": [
+          "University Paris City & University of Reunion, 75015, Paris, France."
+        ]
+      },
+      {
+        "full_name": "Kam, Chon-Fai",
+        "short_name": "Kam CF",
+        "identifiers": [],
+        "affiliations": [
+          "University Paris City & University of Reunion, 75015, Paris, France.",
+          "ENERGYLab, University of Reunion, Saint-Denis, France."
+        ]
+      },
+      {
+        "full_name": "Li, Yu",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Information Science and Technology and Beijing Institute of Artificial Intelligence, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Medina-Ortiz, David",
+        "short_name": "Medina-Ortiz D",
+        "identifiers": [],
+        "affiliations": [
+          "Departamento de Ingeniería en Computación, Universidad de Magallanes, Punta Arenas, Chile."
+        ]
+      },
+      {
+        "full_name": "Damour, Cedric",
+        "short_name": "Damour C",
+        "identifiers": [],
+        "affiliations": [
+          "ENERGYLab, University of Reunion, Saint-Denis, France."
+        ]
+      },
+      {
+        "full_name": "Chabriat, Jean Pierre",
+        "short_name": "Chabriat JP",
+        "identifiers": [],
+        "affiliations": [
+          "ENERGYLab, University of Reunion, Saint-Denis, France."
+        ]
+      },
+      {
+        "full_name": "Miranville, Alain",
+        "short_name": "Miranville A",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratoire de Mathématiques Appliquées du Havre (LMAH), Université Le Havre Normandie, Le Havre, France."
+        ]
+      },
+      {
+        "full_name": "Bessafi, Miloud",
+        "short_name": "Bessafi M",
+        "identifiers": [],
+        "affiliations": [
+          "ENERGYLab, University of Reunion, Saint-Denis, France."
+        ]
+      },
+      {
+        "full_name": "Cadet, Frederic",
+        "short_name": "Cadet F",
+        "identifiers": [],
+        "affiliations": [
+          "University Paris City & University of Reunion, 75015, Paris, France. frederic.cadet.run@gmail.com.",
+          "PEACCEL, AI for Biologics, Paris, France. frederic.cadet.run@gmail.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Theory in biosciences = Theorie in den Biowissenschaften"
+    ],
+    "journal_abbrev": [
+      "Theory Biosci"
+    ],
+    "pub_date": "2026 Sep 21",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/22 05:37",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42768230",
+      "42475469",
+      "23912807",
+      "36321557",
+      "41723242",
+      "39485490",
+      "26578184",
+      "34904892",
+      "29735732",
+      "30141102",
+      "24565158",
+      "39337567",
+      "28190781",
+      "30507941",
+      "29267011",
+      "29066623",
+      "39684679",
+      "30346731",
+      "24104211",
+      "31793290",
+      "42696056",
+      "18662925",
+      "34132193",
+      "27490241",
+      "40015370",
+      "23228330",
+      "42162182",
+      "33761063",
+      "32796106",
+      "29564579",
+      "19343225",
+      "19679084",
+      "42176081",
+      "26488417",
+      "42599200",
+      "28760989",
+      "42304062",
+      "41284362",
+      "26255589",
+      "32060618",
+      "29378944",
+      "41701380",
+      "28522638",
+      "42286036",
+      "41654545",
+      "40327716",
+      "40738203",
+      "22369071",
+      "23824634",
+      "38228755",
+      "27412858",
+      "32709860",
+      "23365638",
+      "26124251",
+      "1920430",
+      "26424585",
+      "2266566",
+      "26818963",
+      "23300424",
+      "28534194",
+      "28335678",
+      "42322508",
+      "28827331",
+      "42268730",
+      "24086121",
+      "41898756",
+      "28882005",
+      "30731089",
+      "25869126",
+      "22089251",
+      "22730911",
+      "42742803",
+      "33772050",
+      "38037088",
+      "31017391",
+      "27448905",
+      "19224393",
+      "11838236",
+      "40842437",
+      "21284872",
+      "41633276",
+      "42420425",
+      "23376428",
+      "42482180",
+      "28188386",
+      "24785005",
+      "41593329",
+      "7153921",
+      "35169151",
+      "42472721",
+      "41576089",
+      "23533562",
+      "28508110",
+      "27308919",
+      "42766632",
+      "38743620",
+      "26818842",
+      "42426058",
+      "19805185",
+      "21951575"
+    ],
+    "review": [
+      "42768230",
+      "36321557",
+      "29735732",
+      "31793290",
+      "40015370",
+      "19679084",
+      "1920430",
+      "22089251",
+      "11838236"
+    ],
+    "pmc": [
+      "13593740"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42768230/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://dx.doi.org/10.1007/s12064-026-00494-7",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

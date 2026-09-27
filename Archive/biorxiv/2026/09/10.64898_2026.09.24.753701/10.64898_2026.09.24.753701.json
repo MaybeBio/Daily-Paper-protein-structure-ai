@@ -1,0 +1,439 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.24.753701",
+  "title": "From single-sequence structure prediction to protein fitness landscape through a composable, epistasis-aware mutation atlas",
+  "doi": "10.64898/2026.09.24.753701",
+  "abstract": "Mapping the multi-mutant fitness landscape is vital to protein engineering, but is challenging due to the vast combinatorial sequence space awaiting exploration. A central difficulty lies in the accurate and efficient modeling of non-additive epistatic effects among individual mutations, which partially arise from the physical inter-residue interactions prescribed by the protein structure. Existing fitness predictors usually perform well on single mutants but become less powerful for higher-order mutants, due to the lack of explicitly considering the relationship between sequence, structure and function of the target protein. Here, we present an end-to-end framework named Cerebra-Epistasis, which couples a single-sequence structure predictor that explicitly endows the structure awareness beyond the conventional sequence-fitness mapping with a downstream fitness prediction network that deliberately models the non-linear epistatic effects beyond the traditional additive terms. When evaluated across diverse assays, Cerebra-Epistasis outperforms the other state-of-the-art baselines in multi-mutant fitness prediction, with enhanced advantage over increasing mutation orders. Moreover, our special design on the epistasis modeling allows reliable extrapolation from low-order mutant data to unseen higher-order combinations, enabling one-shot inference of the overall mutation atlas from the starting sequence, a benefit that supposedly introduces three orders of magnitude acceleration in the landscape-scale prediction.",
+  "authors": [
+    "Weizhe Wang",
+    "Zimu Yu",
+    "Endi Yang",
+    "Ziyu Shi",
+    "Shize Yu",
+    "Jian Hu",
+    "Yunxin Xu",
+    "Haipeng Gong"
+  ],
+  "published_date": "2026-09-24",
+  "updated_date": "2026-09-24T23:15:19Z",
+  "journal": "bioRxiv",
+  "category": "Bioinformatics",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.24.753701",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.24.753701.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [
+    "Bioinformatics"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Bioinformatics",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            24
+          ]
+        ],
+        "date-time": "2026-09-24T23:59:33Z",
+        "timestamp": 1790294373441,
+        "version": "4.1.0"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            24
+          ]
+        ]
+      },
+      "group-title": "Bioinformatics",
+      "reference-count": 0,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                24
+              ]
+            ],
+            "date-time": "2026-09-24T00:00:00Z",
+            "timestamp": 1790208000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "name": "National Natural Science Foundation of China",
+          "award": [
+            "32671644"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "32671644"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/01h0zpd94",
+              "id-type": "ROR",
+              "asserted-by": "crossref"
+            }
+          ]
+        },
+        {
+          "name": "National Natural Science Foundation of China",
+          "award": [
+            "32500561"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "32500561"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/01h0zpd94",
+              "id-type": "ROR",
+              "asserted-by": "crossref"
+            }
+          ]
+        },
+        {
+          "name": "Ministry of Science and Technology of China",
+          "award": [
+            "2023YFF1204400"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "2023YFF1204400"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/02kv4zf79",
+              "id-type": "ROR",
+              "asserted-by": "crossref"
+            }
+          ]
+        },
+        {
+          "name": "Postdoctoral Fellowship Program of CPSF",
+          "award": [
+            "GZC20251844"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "GZC20251844"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "China Postdoctoral Science Foundation",
+          "award": [
+            "2026T190759"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "2026T190759"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/0426zh255",
+              "id-type": "ROR",
+              "asserted-by": "crossref"
+            }
+          ]
+        },
+        {
+          "name": "China Postdoctoral Science Foundation",
+          "award": [
+            "2026M793139"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "2026M793139"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/0426zh255",
+              "id-type": "ROR",
+              "asserted-by": "crossref"
+            }
+          ]
+        },
+        {
+          "name": "General Program of Hubei Provincial Natural Science Foundation of China",
+          "award": [
+            "2026AFB647"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "2026AFB647"
+              ]
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            24
+          ]
+        ]
+      },
+      "abstract": "<jats:p>Mapping the multi-mutant fitness landscape is vital to protein engineering, but is challenging due to the vast combinatorial sequence space awaiting exploration. A central difficulty lies in the accurate and efficient modeling of non-additive epistatic effects among individual mutations, which partially arise from the physical inter-residue interactions prescribed by the protein structure. Existing fitness predictors usually perform well on single mutants but become less powerful for higher-order mutants, due to the lack of explicitly considering the relationship between sequence, structure and function of the target protein. Here, we present an end-to-end framework named Cerebra-Epistasis, which couples a single-sequence structure predictor that explicitly endows the structure awareness beyond the conventional sequence-fitness mapping with a downstream fitness prediction network that deliberately models the non-linear epistatic effects beyond the traditional additive terms. When evaluated across diverse assays, Cerebra-Epistasis outperforms the other state-of-the-art baselines in multi-mutant fitness prediction, with enhanced advantage over increasing mutation orders. Moreover, our special design on the epistasis modeling allows reliable extrapolation from low-order mutant data to unseen higher-order combinations, enabling one-shot inference of the overall mutation atlas from the starting sequence, a benefit that supposedly introduces three orders of magnitude acceleration in the landscape-scale prediction.</jats:p>",
+      "DOI": "10.64898/2026.09.24.753701",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            24
+          ]
+        ],
+        "date-time": "2026-09-24T23:15:19Z",
+        "timestamp": 1790291719000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "From single-sequence structure prediction to protein fitness landscape through a composable, epistasis-aware mutation atlas"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0003-8066-3890",
+          "authenticated-orcid": false,
+          "given": "Weizhe",
+          "family": "Wang",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Tsinghua University;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0000-1906-036X",
+          "authenticated-orcid": false,
+          "given": "Zimu",
+          "family": "Yu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Zhongnan University of Economics and Law;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0005-4048-7444",
+          "authenticated-orcid": false,
+          "given": "Endi",
+          "family": "Yang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Zhongnan University of Economics and Law;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0002-3748-2536",
+          "authenticated-orcid": false,
+          "given": "Ziyu",
+          "family": "Shi",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Zhongnan University of Economics and Law;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0005-0448-9055",
+          "authenticated-orcid": false,
+          "given": "Shize",
+          "family": "Yu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Huazhong University of Science and Technology"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-2688-4153",
+          "authenticated-orcid": false,
+          "given": "Jian",
+          "family": "Hu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Tsinghua University;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-9981-2097",
+          "authenticated-orcid": false,
+          "given": "Yunxin",
+          "family": "Xu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Zhongnan University of Economics and Law;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5532-1640",
+          "authenticated-orcid": false,
+          "given": "Haipeng",
+          "family": "Gong",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Tsinghua University;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.09.24.753701",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            24
+          ]
+        ],
+        "date-time": "2026-09-24T23:15:19Z",
+        "timestamp": 1790291719000
+      },
+      "score": 48.874092,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.09.24.753701"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            24
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.64898/2026.09.24.753701",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            24
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

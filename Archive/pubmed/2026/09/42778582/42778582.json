@@ -1,0 +1,288 @@
+{
+  "identity": {
+    "pmid": "42778582",
+    "doi": "10.1038/s41467-026-77112-z",
+    "title": "The predicted interactome of the human mitochondrial proteome."
+  },
+  "content": {
+    "abstract": "Despite the fundamental importance of mitochondria in cellular metabolism, the molecular function(s) of many mitochondrial proteins remain unknown. Since protein function can be inferred from their interacting partners, we repurpose the protein structure prediction algorithm AlphaFold Multimer (AFM) as a classification model to predict protein-protein interactions of the entire human mitochondrial proteome. By screening 630,003 protein pairs, we create a compendium of 2,895 previously known and newly observed interactions, which include the interacting partner(s) of 85 uncharacterized mitochondrial proteins, thereby linking them to a known biochemical pathway. Extending the AFM-based analysis to 11 diverse eukaryotes identifies evolutionarily conserved interactions among human hits, including regulators of core bioenergetic pathways. Our experiments, guided by these predictions, nominate protein interactions that form the coenzyme Q metabolon and define the mitochondrial copper delivery pathway to cytochrome c oxidase. Our compendium represents a powerful resource for the systematic, structure-based functionalization of the human mitochondrial proteome.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "*Mitochondrial Proteins/metabolism/chemistry/genetics",
+      "*Proteome/metabolism",
+      "*Mitochondria/metabolism",
+      "Protein Interaction Mapping",
+      "Protein Binding",
+      "Algorithms",
+      "Electron Transport Complex IV/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Swaminathan, Abhinav B",
+        "Zulkifli, Mohammad",
+        "Guerra, Rachel M",
+        "Calabrese, Sofia M",
+        "Kalafatis, Dimitris T",
+        "Pagliarini, David J",
+        "Gohil, Vishal M"
+      ],
+      "short_names": [
+        "Swaminathan AB",
+        "Zulkifli M",
+        "Guerra RM",
+        "Calabrese SM",
+        "Kalafatis DT",
+        "Pagliarini DJ",
+        "Gohil VM"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-3585-2866",
+        "ORCID: 0000-0002-9110-9508",
+        "ORCID: 0000-0002-0001-0087",
+        "ORCID: 0000-0002-9920-2563"
+      ],
+      "affiliations": [
+        "Department of Biochemistry and Biophysics, Texas A&M University, College Station, TX, USA. abhinav22@tamu.edu.",
+        "Department of Biochemistry and Biophysics, Texas A&M University, College Station, TX, USA.",
+        "Department of Cell Biology and Physiology, Washington University School of Medicine, St. Louis, MO, USA.",
+        "Department of Biochemistry and Biophysics, Texas A&M University, College Station, TX, USA.",
+        "Department of Biochemistry and Biophysics, Texas A&M University, College Station, TX, USA.",
+        "Department of Cell Biology and Physiology, Washington University School of Medicine, St. Louis, MO, USA.",
+        "Department of Biochemistry and Molecular Biophysics, Washington University School of Medicine, St. Louis, MO, USA.",
+        "Department of Genetics, Washington University School of Medicine, St. Louis, MO, USA.",
+        "Howard Hughes Medical Institute, Washington University School of Medicine, St. Louis, MO, USA.",
+        "Department of Biochemistry and Biophysics, Texas A&M University, College Station, TX, USA. vgohil@tamu.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Swaminathan, Abhinav B",
+        "short_name": "Swaminathan AB",
+        "identifiers": [
+          "0000-0002-3585-2866"
+        ],
+        "affiliations": [
+          "Department of Biochemistry and Biophysics, Texas A&M University, College Station, TX, USA. abhinav22@tamu.edu."
+        ]
+      },
+      {
+        "full_name": "Zulkifli, Mohammad",
+        "short_name": "Zulkifli M",
+        "identifiers": [
+          "0000-0002-9110-9508"
+        ],
+        "affiliations": [
+          "Department of Biochemistry and Biophysics, Texas A&M University, College Station, TX, USA."
+        ]
+      },
+      {
+        "full_name": "Guerra, Rachel M",
+        "short_name": "Guerra RM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cell Biology and Physiology, Washington University School of Medicine, St. Louis, MO, USA."
+        ]
+      },
+      {
+        "full_name": "Calabrese, Sofia M",
+        "short_name": "Calabrese SM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Biophysics, Texas A&M University, College Station, TX, USA."
+        ]
+      },
+      {
+        "full_name": "Kalafatis, Dimitris T",
+        "short_name": "Kalafatis DT",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Biophysics, Texas A&M University, College Station, TX, USA."
+        ]
+      },
+      {
+        "full_name": "Pagliarini, David J",
+        "short_name": "Pagliarini DJ",
+        "identifiers": [
+          "0000-0002-0001-0087"
+        ],
+        "affiliations": [
+          "Department of Cell Biology and Physiology, Washington University School of Medicine, St. Louis, MO, USA.",
+          "Department of Biochemistry and Molecular Biophysics, Washington University School of Medicine, St. Louis, MO, USA.",
+          "Department of Genetics, Washington University School of Medicine, St. Louis, MO, USA.",
+          "Howard Hughes Medical Institute, Washington University School of Medicine, St. Louis, MO, USA."
+        ]
+      },
+      {
+        "full_name": "Gohil, Vishal M",
+        "short_name": "Gohil VM",
+        "identifiers": [
+          "0000-0002-9920-2563"
+        ],
+        "affiliations": [
+          "Department of Biochemistry and Biophysics, Texas A&M University, College Station, TX, USA. vgohil@tamu.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Aug 25",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/24 05:37",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42778582",
+      "26214018",
+      "35666203",
+      "21610103",
+      "22356826",
+      "31851937",
+      "24351685",
+      "29237729",
+      "24549041",
+      "35053273",
+      "30842271",
+      "25347823",
+      "42314984",
+      "29462794",
+      "21718467",
+      "33662401",
+      "35881696",
+      "24262152",
+      "22024028",
+      "28330871",
+      "39116681",
+      "35667195",
+      "18443040",
+      "20193760",
+      "25926683",
+      "38588835",
+      "28130547",
+      "23362268",
+      "25026440",
+      "18614015",
+      "37247699",
+      "42243177",
+      "41400464",
+      "18215330",
+      "30204084",
+      "40768618",
+      "40105103",
+      "15282306",
+      "40407326",
+      "27499296",
+      "18093982",
+      "19783770",
+      "19502588",
+      "31550165",
+      "19541297",
+      "26669719",
+      "20601428",
+      "31903891",
+      "20544885",
+      "31348612",
+      "28882199",
+      "28276017",
+      "42475469",
+      "34259807",
+      "33093673",
+      "19010998",
+      "30550986",
+      "31617661",
+      "31211616",
+      "15659396",
+      "18522804",
+      "34715012",
+      "32979421",
+      "15743667",
+      "23878239",
+      "29383422",
+      "19217306",
+      "15208715",
+      "27031334",
+      "22984289",
+      "23466738",
+      "25959673",
+      "41382025",
+      "21359316",
+      "39932033",
+      "27669165",
+      "41358576",
+      "17054397",
+      "16775426",
+      "28655155",
+      "17959197",
+      "29355485",
+      "29381136",
+      "42294822",
+      "16339140",
+      "21253866",
+      "23935861",
+      "31537648",
+      "29154948",
+      "14671022",
+      "19220469",
+      "22134189",
+      "16275660",
+      "26996128",
+      "21596162",
+      "31018154",
+      "23110155",
+      "24548633",
+      "41882029",
+      "21635751"
+    ],
+    "review": [
+      "42778582",
+      "35053273",
+      "24262152",
+      "38588835",
+      "20544885",
+      "33093673",
+      "18522804",
+      "32979421",
+      "15743667"
+    ],
+    "pmc": [
+      "13601606"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-77112-z",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-649",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

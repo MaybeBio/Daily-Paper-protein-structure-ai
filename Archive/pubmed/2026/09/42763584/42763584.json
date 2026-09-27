@@ -1,0 +1,321 @@
+{
+  "identity": {
+    "pmid": "42763584",
+    "doi": "10.1155/av/6915402",
+    "title": "Comparative Sequence Analysis of the Envelope Gene of Kyasanur Forest Disease Virus Vaccine Strain With Currently Circulating Field Strains."
+  },
+  "content": {
+    "abstract": "The present study was undertaken with the objective of performing comparative sequence analysis of the envelope (E) gene of Kyasanur forest disease virus (KFDV) vaccine strain P9605 with the circulating field strains. The study was taken up as the currently used KFDV vaccine strain, KFDV P9605, was isolated in the 1960s. For this study, we designed two sets of primers targeting the complete amplification of the E gene of KFDV. The sequencing was performed by the Sanger method, and the deduced sequence of the vaccine virus was deposited in GenBank with accession number PX067005. This sequence obtained for the vaccine virus was aligned and compared with sequences of GenBank-deposited circulating field strains. We also performed comparative sequence analysis of the Kyasanur forest disease (KFD) vaccine seed virus having passaged twice in mouse brain with the vaccine seed virus passaged six times in mouse brain to investigate whether multiple passages in mouse brain will lead to genetic mutation in the immunologically important E gene. The phylogenetic analysis revealed seven amino acid mutations in the field strains at positions A123T, S158N, D178E, D239N, A313S, M429I, and G479A when compared with the vaccine strain. We did not find any mutations at the critical fusogenic segment (residues 98-113) in the E gene of currently circulating field strains compared to the vaccine seed virus. The study found no genetic variations in the E gene of the KFD virus passed two times and passed six times in mouse brain. We performed SWISS-MODEL homology modeling, AlphaFold protein analysis, and Ramachandran plot analysis to study the E protein structures and stability. The observations made in this study suggest slow evolutionary drift and conserved structural stability of the envelope gene of KFDV ever since its emergence 7 decades ago; however, the functional implications of these amino acid substitutions need further studies on their roles in viral infectivity, transmission, and impact on immunity.",
+    "keywords": [
+      "E gene",
+      "KFD",
+      "KFDV",
+      "Kyasanur forest disease",
+      "Kyasanur forest disease virus",
+      "envelope",
+      "sequence analysis",
+      "vaccine"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kaje, Keerthi",
+        "Marinaik, Chandranaik B",
+        "Gomes, Amitha Reena",
+        "Rizwan, Apsana",
+        "Hiremath, Jagadish",
+        "Rathnamma, Doddamane",
+        "Isloor, Shrikrishna",
+        "Patil, Sharanagouda S",
+        "Archana, M"
+      ],
+      "short_names": [
+        "Kaje K",
+        "Marinaik CB",
+        "Gomes AR",
+        "Rizwan A",
+        "Hiremath J",
+        "Rathnamma D",
+        "Isloor S",
+        "Patil SS",
+        "Archana M"
+      ],
+      "auids": [
+        "ORCID: 0009-0005-8821-1834",
+        "ORCID: 0000-0002-3955-433X",
+        "ORCID: 0009-0007-8487-6884",
+        "ORCID: 0009-0009-7737-4629",
+        "ORCID: 0000-0002-6606-3771",
+        "ORCID: 0000-0002-2266-6853",
+        "ORCID: 0000-0002-3264-3874",
+        "ORCID: 0000-0002-3291-7513",
+        "ORCID: 0000-0001-5384-9911"
+      ],
+      "affiliations": [
+        "Institute of Animal Health and Veterinary Biologicals, KVAFSU, Bangalore 560024, India, kvafsu.kar.nic.in.",
+        "Veterinary College, KVAFSU, Bangalore 560024, Karnataka, India, kvafsu.kar.nic.in.",
+        "Institute of Animal Health and Veterinary Biologicals, KVAFSU, Bangalore 560024, India, kvafsu.kar.nic.in.",
+        "Institute of Animal Health and Veterinary Biologicals, KVAFSU, Bangalore 560024, India, kvafsu.kar.nic.in.",
+        "Institute of Animal Health and Veterinary Biologicals, KVAFSU, Bangalore 560024, India, kvafsu.kar.nic.in.",
+        "ICAR-National Institute for Veterinary Epidemiology and Disease Informatics, Bangalore 560 064, India, 560064.",
+        "Institute of Animal Health and Veterinary Biologicals, KVAFSU, Bangalore 560024, India, kvafsu.kar.nic.in.",
+        "Veterinary College, KVAFSU, Bangalore 560024, Karnataka, India, kvafsu.kar.nic.in.",
+        "ICAR-National Institute for Veterinary Epidemiology and Disease Informatics, Bangalore 560 064, India, 560064.",
+        "Institute of Animal Health and Veterinary Biologicals, KVAFSU, Bangalore 560024, India, kvafsu.kar.nic.in."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kaje, Keerthi",
+        "short_name": "Kaje K",
+        "identifiers": [
+          "0009-0005-8821-1834"
+        ],
+        "affiliations": [
+          "Institute of Animal Health and Veterinary Biologicals, KVAFSU, Bangalore 560024, India, kvafsu.kar.nic.in.",
+          "Veterinary College, KVAFSU, Bangalore 560024, Karnataka, India, kvafsu.kar.nic.in."
+        ]
+      },
+      {
+        "full_name": "Marinaik, Chandranaik B",
+        "short_name": "Marinaik CB",
+        "identifiers": [
+          "0000-0002-3955-433X"
+        ],
+        "affiliations": [
+          "Institute of Animal Health and Veterinary Biologicals, KVAFSU, Bangalore 560024, India, kvafsu.kar.nic.in."
+        ]
+      },
+      {
+        "full_name": "Gomes, Amitha Reena",
+        "short_name": "Gomes AR",
+        "identifiers": [
+          "0009-0007-8487-6884"
+        ],
+        "affiliations": [
+          "Institute of Animal Health and Veterinary Biologicals, KVAFSU, Bangalore 560024, India, kvafsu.kar.nic.in."
+        ]
+      },
+      {
+        "full_name": "Rizwan, Apsana",
+        "short_name": "Rizwan A",
+        "identifiers": [
+          "0009-0009-7737-4629"
+        ],
+        "affiliations": [
+          "Institute of Animal Health and Veterinary Biologicals, KVAFSU, Bangalore 560024, India, kvafsu.kar.nic.in."
+        ]
+      },
+      {
+        "full_name": "Hiremath, Jagadish",
+        "short_name": "Hiremath J",
+        "identifiers": [
+          "0000-0002-6606-3771"
+        ],
+        "affiliations": [
+          "ICAR-National Institute for Veterinary Epidemiology and Disease Informatics, Bangalore 560 064, India, 560064."
+        ]
+      },
+      {
+        "full_name": "Rathnamma, Doddamane",
+        "short_name": "Rathnamma D",
+        "identifiers": [
+          "0000-0002-2266-6853"
+        ],
+        "affiliations": [
+          "Institute of Animal Health and Veterinary Biologicals, KVAFSU, Bangalore 560024, India, kvafsu.kar.nic.in."
+        ]
+      },
+      {
+        "full_name": "Isloor, Shrikrishna",
+        "short_name": "Isloor S",
+        "identifiers": [
+          "0000-0002-3264-3874"
+        ],
+        "affiliations": [
+          "Veterinary College, KVAFSU, Bangalore 560024, Karnataka, India, kvafsu.kar.nic.in."
+        ]
+      },
+      {
+        "full_name": "Patil, Sharanagouda S",
+        "short_name": "Patil SS",
+        "identifiers": [
+          "0000-0002-3291-7513"
+        ],
+        "affiliations": [
+          "ICAR-National Institute for Veterinary Epidemiology and Disease Informatics, Bangalore 560 064, India, 560064."
+        ]
+      },
+      {
+        "full_name": "Archana, M",
+        "short_name": "Archana M",
+        "identifiers": [
+          "0000-0001-5384-9911"
+        ],
+        "affiliations": [
+          "Institute of Animal Health and Veterinary Biologicals, KVAFSU, Bangalore 560024, India, kvafsu.kar.nic.in."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Advances in virology"
+    ],
+    "journal_abbrev": [
+      "Adv Virol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/20 05:43",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42763584",
+      "40168937",
+      "29806609",
+      "42004966",
+      "29868505",
+      "37272880",
+      "38427645",
+      "16710839",
+      "32029759",
+      "24922308",
+      "9725665",
+      "40130172",
+      "34033342",
+      "37672587",
+      "39825388",
+      "34907224",
+      "35609707",
+      "32655070",
+      "41084624",
+      "39936178",
+      "37966909",
+      "8113732",
+      "38315741",
+      "41578914",
+      "16642221",
+      "31670274",
+      "40972996",
+      "36336957",
+      "18512139",
+      "34662258",
+      "32241712",
+      "41455997",
+      "33486011",
+      "34429443",
+      "29745301",
+      "24627765",
+      "29594846",
+      "25750730",
+      "25096447",
+      "41217250",
+      "42545991",
+      "39065734",
+      "37509510",
+      "21991403",
+      "42212661",
+      "27903800",
+      "24950196",
+      "15826917",
+      "29954631",
+      "39638261",
+      "21406076",
+      "28648850",
+      "39184677",
+      "42142462",
+      "20226891",
+      "19954114",
+      "40743256",
+      "40252820",
+      "40872737",
+      "24788358",
+      "30945970",
+      "37446083",
+      "21235484",
+      "41989163",
+      "39083139",
+      "41165010",
+      "2838962",
+      "30068352",
+      "35940341",
+      "32943687",
+      "21194462",
+      "36941826",
+      "20193592",
+      "8627686",
+      "23294868",
+      "32095042",
+      "39322295",
+      "22217077",
+      "15890119",
+      "25287886",
+      "25479596",
+      "27479197",
+      "32539799",
+      "8553578",
+      "29336707",
+      "8421909",
+      "1566570",
+      "11554750",
+      "37851522",
+      "12549056",
+      "12803470",
+      "24771495",
+      "27171207",
+      "28220635",
+      "12396345",
+      "18502466",
+      "34855915",
+      "23871775",
+      "17381044",
+      "41297079"
+    ],
+    "review": [
+      "42763584",
+      "29868505",
+      "16710839",
+      "39184677",
+      "20226891",
+      "40872737",
+      "30945970",
+      "41165010",
+      "36941826"
+    ],
+    "pmc": [
+      "13589198"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42763584/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/doi/10.1155/av/6915402",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

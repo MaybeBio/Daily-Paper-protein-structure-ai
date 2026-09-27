@@ -1,0 +1,39 @@
+{
+  "source": "arxiv",
+  "source_id": "2609.28113v1",
+  "title": "Position-dependent friction in protein folding from a GLE derived with a non-stationary localized projection distribution",
+  "doi": "",
+  "abstract": "The Generalized Langevin Equation (GLE) is an integro-differential equation of motion for a general observable of a many-body system and is rigorously derived using the projection operator formalism. In the standard derivation, a stationary canonical phase space distribution is used for the projection. Here, we derive a novel class of GLEs using a non-stationary projection distribution that constrains the initial ensemble to a hypersurface in phase space on which the observable has a fixed value $A_0$. As a result, all GLE parameters, and in particular the memory friction kernel, depend on $A_0$ and can be extracted from short simulations that do not sample the entire phase space. Applying this non-stationary GLE to protein folding trajectories, we find for villin and an $α$-helical poly-alanine segment that the total friction is higher in the folded state. These results demonstrate that observable-dependent friction effects are non-negligible and can be accounted for using non-stationary GLEs derived by constrained projection schemes.",
+  "authors": [
+    "Salma Salem",
+    "Lucas Tepper",
+    "Benjamin J. A. Héry",
+    "Henrik Kiefer",
+    "David D. Girardier",
+    "Roland R. Netz"
+  ],
+  "published_date": "2026-09-23T13:44:05Z",
+  "updated_date": "2026-09-23T13:44:05Z",
+  "journal": "",
+  "category": "cond-mat.soft, cond-mat.stat-mech, physics.bio-ph",
+  "landing_url": "https://arxiv.org/abs/2609.28113v1",
+  "pdf_url": "https://arxiv.org/pdf/2609.28113v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cond-mat.soft",
+    "cond-mat.stat-mech",
+    "physics.bio-ph"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2609.28113v1",
+    "raw_categories": [
+      "cond-mat.soft",
+      "cond-mat.stat-mech",
+      "physics.bio-ph"
+    ],
+    "journal_ref": ""
+  }
+}

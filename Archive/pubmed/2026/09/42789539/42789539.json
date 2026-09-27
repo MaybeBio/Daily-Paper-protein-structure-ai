@@ -1,0 +1,196 @@
+{
+  "identity": {
+    "pmid": "42789539",
+    "doi": "10.1371/journal.pone.0358222",
+    "title": "Comparative evolutionary pharmacogenomics of human prostaglandin-endoperoxide synthase paralogs identifies population-structured coding variation and protein-contextual candidates in N-terminal leader-sequence and catalytic-channel regions."
+  },
+  "content": {
+    "abstract": "Human PTGS1 and PTGS2 encode cyclooxygenase paralogs that regulate prostaglandin biosynthesis and are major targets of nonsteroidal anti-inflammatory drugs (NSAIDs). Interpreting population-differentiated PTGS variation requires integration of allele-frequency structure with transcript consequence, protein topology, splice-prediction evidence and structural context. This study integrated allele-resolved population differentiation, transcript-aware consequence annotation, splice-prediction boundary checks, protein-domain mapping, direct leader-sequence property calculations and controlled structural analyses. Candidate classes distinguished high-FST synonymous contextual markers, N-terminal PTGS1 leader-sequence missense variants, splice-region candidates and PTGS2 p.Val511Ala. Web-based SpliceAI/Pangolin evaluation of seven splice-relevant or comparator variants provided limited support for splice alteration. A retrospective comparison of 31 missense candidates showed that Val511Ala was not the most differentiated missense variant overall, but ranked first by allele frequency, allele-frequency range and maximum pairwise FST within four channel-context candidates; FST was used only to describe population differentiation. Canonical Val511 mapped to 5KIR Val525, a second-shell position adjacent to the rofecoxib-contact network. Controlled docking-score, contact and direct-frame pose analyses detected no systematic variant-associated shift under the tested conditions. PTGS1 p.Trp8Arg and p.Pro17Leu produced distinct directly calculated changes in net-charge proxy, hydrophobic-residue count, mean Kyte-Doolittle hydropathy, aromatic-residue count and proline count across the 23-residue leader sequence and descriptive H-region. No signal-peptide predictor output was used, and effects on SRP recognition, ER targeting, translocation, cleavage, membrane insertion, maturation, abundance, localization, enzyme activity or drug response were not demonstrated. These results support a calibrated prioritisation framework in which population differentiation identifies structured variation, while transcript consequence, protein context and reproducible quantitative analyses define experimentally testable candidates.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "*Cyclooxygenase 2/genetics/chemistry/metabolism",
+      "*Cyclooxygenase 1/genetics/chemistry/metabolism",
+      "Mutation, Missense",
+      "Gene Frequency",
+      "*Pharmacogenetics",
+      "Catalytic Domain/genetics",
+      "*Evolution, Molecular",
+      "Protein Sorting Signals/genetics"
+    ],
+    "pub_types": [
+      "Comparative Study",
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Maghembe, Reuben S"
+      ],
+      "short_names": [
+        "Maghembe RS"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-2453-5993"
+      ],
+      "affiliations": [
+        "Department of Microbiology and Parasitology, Faculty of Medicine, St. Francis University College of Health and Allied Sciences (SFUCHAS), Ifakara, Tanzania.",
+        "Department of Omics and Computational Biology, AfroBiomics Co. Ltd., Dar es Salaam, Tanzania."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Maghembe, Reuben S",
+        "short_name": "Maghembe RS",
+        "identifiers": [
+          "0000-0003-2453-5993"
+        ],
+        "affiliations": [
+          "Department of Microbiology and Parasitology, Faculty of Medicine, St. Francis University College of Health and Allied Sciences (SFUCHAS), Ifakara, Tanzania.",
+          "Department of Omics and Computational Biology, AfroBiomics Co. Ltd., Dar es Salaam, Tanzania."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "PloS one"
+    ],
+    "journal_abbrev": [
+      "PLoS One"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Comparative Study",
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/25 17:33",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42789539",
+      "25916522",
+      "42475469",
+      "16678543",
+      "16962117",
+      "2120214",
+      "15478601",
+      "12192304",
+      "42196261",
+      "24022467",
+      "23967159",
+      "20538124",
+      "36321557",
+      "42792977",
+      "41981514",
+      "24694232",
+      "11368314",
+      "35685361",
+      "27629384",
+      "39103060",
+      "31855381",
+      "12920574",
+      "16239272",
+      "7864630",
+      "34879103",
+      "24979680",
+      "12029479",
+      "8181472",
+      "24423291",
+      "16809283",
+      "17403665",
+      "24425867",
+      "11259585",
+      "19728970",
+      "1917927",
+      "42359198",
+      "23912807",
+      "10551860",
+      "10423538",
+      "26237215",
+      "26538570",
+      "11838236",
+      "29618315",
+      "19203472",
+      "36734655",
+      "16115753",
+      "26042329",
+      "19046748",
+      "17191953",
+      "39244638",
+      "19276290",
+      "42606140",
+      "2123875",
+      "16280041",
+      "23665149",
+      "12433707",
+      "38992748",
+      "21214909",
+      "2175460",
+      "15159324",
+      "22579447",
+      "12626409",
+      "1671038",
+      "26003046",
+      "42657169",
+      "16141368",
+      "16674937",
+      "39150724",
+      "29676940",
+      "17178263",
+      "8106398",
+      "17301694",
+      "23792016",
+      "10898934",
+      "19457650",
+      "34360596",
+      "29069390",
+      "36857413",
+      "31323913",
+      "16361272",
+      "12814642",
+      "42366251",
+      "25825493",
+      "42786430",
+      "40555919",
+      "29421522",
+      "12242329",
+      "33467191",
+      "8259666",
+      "17578436",
+      "31188556",
+      "18247574",
+      "12406645",
+      "16341840",
+      "29337087",
+      "38414044",
+      "30710016",
+      "32870157",
+      "17370310",
+      "33555556"
+    ],
+    "review": [
+      "42789539",
+      "25916522",
+      "23967159",
+      "36321557",
+      "11838236",
+      "19203472",
+      "39150724",
+      "12814642",
+      "29421522",
+      "12406645"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

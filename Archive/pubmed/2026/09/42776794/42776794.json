@@ -1,0 +1,301 @@
+{
+  "identity": {
+    "pmid": "42776794",
+    "doi": "10.3390/antib15050081",
+    "title": "The Evolution of Artificial Intelligence in Antibody Design: From Structure-Based Engineering to Generative Models."
+  },
+  "content": {
+    "abstract": "Background/Objectives: Artificial intelligence (AI) has transformed computational antibody engineering by enabling accurate prediction of antibody structures, rational optimization of therapeutic properties, and de novo antibody design. Recent advances in deep learning, protein language models, and generative AI have fundamentally changed the way antibodies are discovered and engineered. This review aims to present the historical evolution of computational antibody engineering, from early structure-based design strategies to modern AI-driven approaches, while highlighting the major computational tools, publicly available databases, current limitations, and future directions of the field. Methods: A comprehensive narrative review of the literature was conducted using PubMed, Scopus, Web of Science, and Google Scholar. Original research articles, methodological studies, and review papers published between 1985 and 2026 were evaluated. Publications were selected according to their scientific relevance, methodological quality, and contribution to the historical development of computational antibody engineering. Results: The review describes the progression of antibody engineering from phage display and structure-based computational methods to machine learning, deep learning, protein language models, and generative artificial intelligence. It summarizes key public databases supporting antibody research, discusses advances in antibody structure prediction and developability assessment, and reviews recent generative models capable of designing antibody sequences and structures. Current challenges, including limited experimental validation, dataset bias, prediction of highly flexible regions, model interpretability, and clinical translation, are also discussed. Conclusions: Artificial intelligence has fundamentally reshaped computational antibody engineering by integrating sequence, structural, and functional information into increasingly accurate predictive and generative frameworks. Although important challenges remain, recent developments indicate that AI-driven approaches will play an increasingly central role in the discovery and optimization of next-generation therapeutic antibodies.",
+    "keywords": [
+      "antibody engineering",
+      "antibody structure prediction",
+      "artificial intelligence",
+      "computational antibody design",
+      "computational biology",
+      "deep learning",
+      "generative artificial intelligence",
+      "protein language models",
+      "therapeutic antibodies"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Szataniak, Ida",
+        "Packi, Kacper"
+      ],
+      "short_names": [
+        "Szataniak I",
+        "Packi K"
+      ],
+      "auids": [
+        "ORCID: 0009-0006-5311-4900",
+        "ORCID: 0000-0001-8646-1884"
+      ],
+      "affiliations": [
+        "IMPAKT-Interdisciplinary Student Research Group of Immunology, Allergology, Parasitology and Molecular Medicine, Department of Medical Sciences, Wladyslaw Bieganski Collegium Medicum, Jan Dlugosz University in Czestochowa, 42-200 Czestochowa, Poland.",
+        "IMPAKT-Interdisciplinary Student Research Group of Immunology, Allergology, Parasitology and Molecular Medicine, Department of Medical Sciences, Wladyslaw Bieganski Collegium Medicum, Jan Dlugosz University in Czestochowa, 42-200 Czestochowa, Poland.",
+        "Department of Immunoparasitology and Molecular Allergology, Jan Dlugosz University in Czestochowa, 42-200 Czestochowa, Poland.",
+        "AllerGen Center of Personalized Medicine, 97-300 Piotrkow Trybunalski, Poland."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Szataniak, Ida",
+        "short_name": "Szataniak I",
+        "identifiers": [
+          "0009-0006-5311-4900"
+        ],
+        "affiliations": [
+          "IMPAKT-Interdisciplinary Student Research Group of Immunology, Allergology, Parasitology and Molecular Medicine, Department of Medical Sciences, Władysław Biegański Collegium Medicum, Jan Długosz University in Częstochowa, 42-200 Częstochowa, Poland."
+        ]
+      },
+      {
+        "full_name": "Packi, Kacper",
+        "short_name": "Packi K",
+        "identifiers": [
+          "0000-0001-8646-1884"
+        ],
+        "affiliations": [
+          "IMPAKT-Interdisciplinary Student Research Group of Immunology, Allergology, Parasitology and Molecular Medicine, Department of Medical Sciences, Władysław Biegański Collegium Medicum, Jan Długosz University in Częstochowa, 42-200 Częstochowa, Poland.",
+          "Department of Immunoparasitology and Molecular Allergology, Jan Długosz University in Częstochowa, 42-200 Częstochowa, Poland.",
+          "AllerGen Center of Personalized Medicine, 97-300 Piotrków Trybunalski, Poland."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Antibodies (Basel, Switzerland)"
+    ],
+    "journal_abbrev": [
+      "Antibodies (Basel)"
+    ],
+    "pub_date": "2026 Sep 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/23 17:37",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42776794",
+      "42475469",
+      "40887563",
+      "42745060",
+      "42491247",
+      "41753681",
+      "41749685",
+      "40677216",
+      "39407556",
+      "41939694",
+      "41996874",
+      "42112224",
+      "42349054",
+      "42169935",
+      "42427491",
+      "42022690",
+      "42452348",
+      "40549427",
+      "41758998",
+      "42616438",
+      "41017480",
+      "42727308",
+      "35875501",
+      "42052042",
+      "42153319",
+      "41709935",
+      "42341346",
+      "42377676",
+      "39980285",
+      "42211230",
+      "42364829",
+      "42344774",
+      "42778534",
+      "41348251",
+      "42620522",
+      "40456205",
+      "42470596",
+      "41909740",
+      "42605681",
+      "41778634",
+      "42565866",
+      "42565648",
+      "42400844",
+      "41306935",
+      "42154787",
+      "41839238",
+      "42310771",
+      "40346589",
+      "40155973",
+      "41685150",
+      "41911537",
+      "41456696",
+      "36669976",
+      "42491104",
+      "41253282",
+      "40283559",
+      "36321557",
+      "42198231",
+      "42546051",
+      "41878008",
+      "42461270",
+      "42438781",
+      "42449646",
+      "41749616",
+      "42205617",
+      "42231905",
+      "41607969",
+      "40711807",
+      "42453397",
+      "41515342",
+      "40121710",
+      "41036300",
+      "42348386",
+      "42736693",
+      "41440512",
+      "38856172",
+      "42133609",
+      "41816407",
+      "39584325",
+      "42535626",
+      "39349764",
+      "42467983",
+      "42763122",
+      "40809637",
+      "40847227",
+      "42051590",
+      "41332459",
+      "42597681",
+      "39608003",
+      "41505790",
+      "41843138",
+      "42505598",
+      "38956008",
+      "41464395",
+      "42652766",
+      "42769491",
+      "41900351",
+      "41482571",
+      "42583211",
+      "42181087"
+    ],
+    "review": [
+      "42776794",
+      "40887563",
+      "42745060",
+      "42491247",
+      "41753681",
+      "41749685",
+      "40677216",
+      "39407556",
+      "41939694",
+      "41996874",
+      "42112224",
+      "42349054",
+      "42169935",
+      "42427491",
+      "42452348",
+      "40549427",
+      "42616438",
+      "41017480",
+      "42727308",
+      "35875501",
+      "42052042",
+      "42153319",
+      "41709935",
+      "42341346",
+      "42377676",
+      "42211230",
+      "42364829",
+      "42344774",
+      "42778534",
+      "41348251",
+      "42620522",
+      "40456205",
+      "41909740",
+      "42605681",
+      "41778634",
+      "42565866",
+      "42565648",
+      "42400844",
+      "41306935",
+      "42154787",
+      "41839238",
+      "42310771",
+      "40346589",
+      "40155973",
+      "41685150",
+      "41911537",
+      "41456696",
+      "36669976",
+      "42491104",
+      "41253282",
+      "40283559",
+      "36321557",
+      "42198231",
+      "42546051",
+      "41878008",
+      "42461270",
+      "42438781",
+      "42449646",
+      "41749616",
+      "42231905",
+      "41607969",
+      "40711807",
+      "42453397",
+      "41515342",
+      "40121710",
+      "41440512",
+      "38856172",
+      "42133609",
+      "41816407",
+      "39584325",
+      "42535626",
+      "39349764",
+      "42467983",
+      "42763122",
+      "40809637",
+      "40847227",
+      "42051590",
+      "41332459",
+      "42597681",
+      "39608003",
+      "41505790",
+      "41843138",
+      "42505598",
+      "38956008",
+      "41464395",
+      "42652766",
+      "42769491",
+      "41900351",
+      "41482571"
+    ],
+    "pmc": [
+      "13600136"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=antib15050081",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "identity": {
+    "pmid": "42773013",
+    "doi": "10.1016/j.tibs.2026.09.002",
+    "title": "Kinesins as dynamic drug targets: structural insights and emerging therapeutic strategies."
+  },
+  "content": {
+    "abstract": "Kinesins are essential for intracellular organization and cell division, and their involvement in disease has generated interest in their therapeutic potential. However, pharmacological studies have focused on a limited subset of kinesins and have mainly targeted the conserved motor domain. Advances in cryogenic electron microscopy and artificial intelligence-based structure prediction are revealing new opportunities for selective modulation. These approaches show that specific kinesin families may be inhibited by targeting conformational states induced by nucleotide and microtubule binding. They have also identified regulatory sites outside the motor domain, including stalk and tail interfaces that control autoinhibition, cargo binding, and localization. These insights redefine kinesins as dynamic, multidomain machines and highlight opportunities for selective, mechanism-guided therapeutic strategies.",
+    "keywords": [
+      "KANDs",
+      "SBDD",
+      "cancer",
+      "infectious disease",
+      "kinesopathies",
+      "microtubule"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Allingham, John S",
+        "Kwok, Benjamin H",
+        "Sosa, Hernando"
+      ],
+      "short_names": [
+        "Allingham JS",
+        "Kwok BH",
+        "Sosa H"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Biomedical and Molecular Sciences, Queen's University, Kingston, Ontario K7L 3N6, Canada. Electronic address: allinghj@queensu.ca.",
+        "Department of Oral Biology, College of Dentistry, University of Nebraska Medical Center, Lincoln, NE 68583, USA. Electronic address: bkwok@unmc.edu.",
+        "Department of Biochemistry, Albert Einstein College of Medicine, Bronx, NY, USA. Electronic address: hernando.sosa@einsteinmed.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Allingham, John S",
+        "short_name": "Allingham JS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical and Molecular Sciences, Queen's University, Kingston, Ontario K7L 3N6, Canada. Electronic address: allinghj@queensu.ca."
+        ]
+      },
+      {
+        "full_name": "Kwok, Benjamin H",
+        "short_name": "Kwok BH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Oral Biology, College of Dentistry, University of Nebraska Medical Center, Lincoln, NE 68583, USA. Electronic address: bkwok@unmc.edu."
+        ]
+      },
+      {
+        "full_name": "Sosa, Hernando",
+        "short_name": "Sosa H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, Albert Einstein College of Medicine, Bronx, NY, USA. Electronic address: hernando.sosa@einsteinmed.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Trends in biochemical sciences"
+    ],
+    "journal_abbrev": [
+      "Trends Biochem Sci"
+    ],
+    "pub_date": "2026 Sep 22",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/22 23:33",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42773013",
+      "36125250",
+      "42475469",
+      "42455938",
+      "33252036",
+      "24257625",
+      "25209998",
+      "37726093",
+      "39394463",
+      "18513992",
+      "34375637",
+      "42239121",
+      "31288039",
+      "37910016",
+      "31958056",
+      "21836017",
+      "35879313",
+      "32084356",
+      "41979187",
+      "28826477",
+      "42168523",
+      "24039047",
+      "24449904",
+      "35859148",
+      "34310069",
+      "40791459",
+      "17244481",
+      "36065637",
+      "19236100",
+      "42738392",
+      "22038119",
+      "15853642",
+      "29401437",
+      "11466472",
+      "25418105",
+      "21192710",
+      "34797717",
+      "33513284",
+      "40552145",
+      "26778612",
+      "41732280",
+      "30215159",
+      "25975756",
+      "38646780",
+      "10231357",
+      "37560910",
+      "37575008",
+      "25915621",
+      "36178151",
+      "20818331",
+      "19851335",
+      "22674872",
+      "29078367",
+      "17696365",
+      "15850386",
+      "24244223",
+      "39580563",
+      "35721476",
+      "10764575",
+      "19364082",
+      "41134888",
+      "17200414",
+      "34131133",
+      "28701465",
+      "38309508",
+      "38170592",
+      "41604282",
+      "37610838",
+      "40146390",
+      "17927906",
+      "30659798",
+      "42619876",
+      "28290984",
+      "33825702",
+      "11983180",
+      "38643904",
+      "20305385",
+      "17084703",
+      "41879467",
+      "35717732",
+      "17200416",
+      "42538967",
+      "26055718",
+      "9048948",
+      "10225949",
+      "8758976",
+      "42486258",
+      "31217419",
+      "29229862",
+      "15175652",
+      "37896786",
+      "18294653",
+      "20071331",
+      "29695795",
+      "41075004",
+      "22167300",
+      "40060414",
+      "26976726",
+      "33232665",
+      "27493553"
+    ],
+    "review": [
+      "42773013",
+      "39394463",
+      "24039047",
+      "42738392",
+      "22038119",
+      "15853642",
+      "11466472",
+      "40552145",
+      "30215159",
+      "25975756",
+      "38646780",
+      "10231357",
+      "37560910",
+      "19851335",
+      "39580563",
+      "35721476",
+      "19364082",
+      "41604282",
+      "40146390",
+      "38643904",
+      "41879467",
+      "22167300"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0968-0004(26)00280-X",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

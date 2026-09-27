@@ -1,0 +1,119 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.15.751749",
+  "title": "PREpiBind: Protein Representation-integrated Epitope–MHC Class II Binding Prediction",
+  "doi": "10.64898/2026.09.15.751749",
+  "abstract": "Accurate prediction of peptide–MHC class II (pMHC-II) binding remains challenging because of extensive MHC polymorphism and context-dependent peptide recognition, and it is unclear which protein representation best captures these determinants when the downstream model is held fixed. Here, we present PREpiBind, a pMHC-II prediction method based on a dual-stream, joint-attention framework that integrates MHC and epitope representations. We integrated ten protein representations spanning substitution-matrix, structure-prediction-derived, and protein language model (PLM) families and evaluated them under a common downstream architecture and identical splits across Qualitative, mass spectrometry (MS), and thresholded IC50 datasets. Overall, PREpiBind with PLM representations yielded higher performance than the evaluated reference methods in the Qualitative and MS datasets, whereas NetMHCIIpan-4.3 was higher on the thresholded IC50 datasets using its binding-affinity head. In pooled evaluations, PLM representations yielded the highest ROC-AUC values among the tested representations. ESM3 Large led the Qualitative dataset with an AUC value of 0.927 ± 0.002, and PLMs also led on the MS and thresholded IC50 datasets. This advantage remained, but narrowed in allele-wise and leave-one-molecule-out evaluations, where structure-prediction-derived Chai-1 was competitive with the leading PLM representations. Under cross-species H2-out transfer, PLMs led when all H2 rows were pooled, whereas Chai-1 led when the eight H2 molecules were weighted equally. The small H2 panel did not support a stable ordering among these leading representations. The results indicate that protein representation choice should depend on the intended prediction scenario rather than on a single global ranking. PREpiBind is an openly available pMHC-II prediction framework with modular and flexible protein representations.",
+  "authors": [
+    "Jang DH",
+    "Kim D",
+    "Park B",
+    "Hwang U",
+    "Choi Y",
+    "Lee J"
+  ],
+  "published_date": "2026-09-21",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.15.751749",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.15.751749.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1325145",
+    "raw_record": {
+      "id": "PPR1325145",
+      "source": "PPR",
+      "doi": "10.64898/2026.09.15.751749",
+      "title": "PREpiBind: Protein Representation-integrated Epitope–MHC Class II Binding Prediction",
+      "authorString": "Jang DH, Kim D, Park B, Hwang U, Choi Y, Lee J.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Jang DH",
+            "lastName": "Jang",
+            "firstName": "David Hyunyoo",
+            "initials": "DH"
+          },
+          {
+            "fullName": "Kim D",
+            "lastName": "Kim",
+            "firstName": "Dongwoo",
+            "initials": "D"
+          },
+          {
+            "fullName": "Park B",
+            "lastName": "Park",
+            "firstName": "Byungho",
+            "initials": "B"
+          },
+          {
+            "fullName": "Hwang U",
+            "lastName": "Hwang",
+            "firstName": "Untaek",
+            "initials": "U"
+          },
+          {
+            "fullName": "Choi Y",
+            "lastName": "Choi",
+            "firstName": "Yoonjoo",
+            "initials": "Y"
+          },
+          {
+            "fullName": "Lee J",
+            "lastName": "Lee",
+            "firstName": "Juyong",
+            "initials": "J"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Accurate prediction of peptide–MHC class II (pMHC-II) binding remains challenging because of extensive MHC polymorphism and context-dependent peptide recognition, and it is unclear which protein representation best captures these determinants when the downstream model is held fixed. Here, we present PREpiBind, a pMHC-II prediction method based on a dual-stream, joint-attention framework that integrates MHC and epitope representations. We integrated ten protein representations spanning substitution-matrix, structure-prediction-derived, and protein language model (PLM) families and evaluated them under a common downstream architecture and identical splits across Qualitative, mass spectrometry (MS), and thresholded IC50 datasets. Overall, PREpiBind with PLM representations yielded higher performance than the evaluated reference methods in the Qualitative and MS datasets, whereas NetMHCIIpan-4.3 was higher on the thresholded IC50 datasets using its binding-affinity head. In pooled evaluations, PLM representations yielded the highest ROC-AUC values among the tested representations. ESM3 Large led the Qualitative dataset with an AUC value of 0.927 ± 0.002, and PLMs also led on the MS and thresholded IC50 datasets. This advantage remained, but narrowed in allele-wise and leave-one-molecule-out evaluations, where structure-prediction-derived Chai-1 was competitive with the leading PLM representations. Under cross-species H2-out transfer, PLMs led when all H2 rows were pooled, whereas Chai-1 led when the eight H2 molecules were weighted equally. The small H2 panel did not support a stable ordering among these leading representations. The results indicate that protein representation choice should depend on the intended prediction scenario rather than on a single global ranking. PREpiBind is an openly available pMHC-II prediction framework with modular and flexible protein representations.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.09.15.751749"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-09-23",
+      "firstPublicationDate": "2026-09-21",
+      "firstIndexDate": "2026-09-23",
+      "hasEvaluations": "N"
+    }
+  }
+}

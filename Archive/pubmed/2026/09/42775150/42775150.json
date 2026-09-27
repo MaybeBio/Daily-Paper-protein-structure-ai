@@ -1,0 +1,305 @@
+{
+  "identity": {
+    "pmid": "42775150",
+    "doi": "10.1088/3049-477X/aea331",
+    "title": "Machine-learning in optimization of CRISPR technology."
+  },
+  "content": {
+    "abstract": "The clustered regularly interspaced short palindromic repeats (CRISPR)-Cas system has become an indispensable tool in modern gene-engineering applications over recent years. Despite its rapid adoption, further development and broader applicability are hindered by several inherent limitations. This review surveys a range of machine-learning based approaches that aim to address these challenges. In particular, we focus on the optimization of key components of the CRISPR system, including protospacer adjacent motif recognition, Cas-protein-engineering, guide RNA sequence design and extension of the approaches to alternative editing modalities. Applied machine-learning methodologies, their underlying rationale, and comparisons with experimental observations are critically discussed. Special emphasis is placed on the role of machine-learning frameworks in advancing biophysical research, where complex, high-dimensional data increasingly demand integrative computational approaches. Finally, we outline current limitations, draw overarching conclusions, and propose perspectives for future developments and applications in CRISPR-based technologies.",
+    "keywords": [
+      "CRISPR technology",
+      "artificial intelligence",
+      "machine-learning"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liyanage, Risi",
+        "Jin, Lei",
+        "Chen, Shi-Jie"
+      ],
+      "short_names": [
+        "Liyanage R",
+        "Jin L",
+        "Chen SJ"
+      ],
+      "auids": [
+        "ORCID: 0009-0006-6747-5192",
+        "ORCID: 0009-0006-2624-7732",
+        "ORCID: 0000-0002-8093-7244"
+      ],
+      "affiliations": [
+        "Department of Physics and Astronomy, Department of Biochemistry, Institute of Data Science and Informatics, University of Missouri, Columbia, MO, United States of America.",
+        "Department of Physics and Astronomy, Department of Biochemistry, Institute of Data Science and Informatics, University of Missouri, Columbia, MO, United States of America.",
+        "Department of Physics and Astronomy, Department of Biochemistry, Institute of Data Science and Informatics, University of Missouri, Columbia, MO, United States of America."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Liyanage, Risi",
+        "short_name": "Liyanage R",
+        "identifiers": [
+          "0009-0006-6747-5192"
+        ],
+        "affiliations": [
+          "Department of Physics and Astronomy, Department of Biochemistry, Institute of Data Science and Informatics, University of Missouri, Columbia, MO, United States of America."
+        ]
+      },
+      {
+        "full_name": "Jin, Lei",
+        "short_name": "Jin L",
+        "identifiers": [
+          "0009-0006-2624-7732"
+        ],
+        "affiliations": [
+          "Department of Physics and Astronomy, Department of Biochemistry, Institute of Data Science and Informatics, University of Missouri, Columbia, MO, United States of America."
+        ]
+      },
+      {
+        "full_name": "Chen, Shi-Jie",
+        "short_name": "Chen SJ",
+        "identifiers": [
+          "0000-0002-8093-7244"
+        ],
+        "affiliations": [
+          "Department of Physics and Astronomy, Department of Biochemistry, Institute of Data Science and Informatics, University of Missouri, Columbia, MO, United States of America."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Machine learning. Health"
+    ],
+    "journal_abbrev": [
+      "Mach Learn Health"
+    ],
+    "pub_date": "2026 Dec 31",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/23 11:50",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42775150",
+      "42475469",
+      "42261595",
+      "39312149",
+      "36710911",
+      "31862124",
+      "42080108",
+      "40763823",
+      "34963339",
+      "39628916",
+      "35949837",
+      "38186450",
+      "30369475",
+      "42405245",
+      "40675140",
+      "33835761",
+      "33285226",
+      "41533202",
+      "37287132",
+      "37506757",
+      "42402276",
+      "36895064",
+      "35341983",
+      "27252719",
+      "37642232",
+      "31890142",
+      "33451939",
+      "37080758",
+      "25371501",
+      "34304411",
+      "36231007",
+      "32695770",
+      "39726634",
+      "35198566",
+      "34454111",
+      "42075136",
+      "41514894",
+      "29082719",
+      "41254174",
+      "35693174",
+      "26932460",
+      "31022459",
+      "34456559",
+      "39526384",
+      "31971562",
+      "32098761",
+      "36091445",
+      "27340770",
+      "40591237",
+      "37762535",
+      "40813265",
+      "28057617",
+      "28254804",
+      "42771304",
+      "26683213",
+      "33748164",
+      "36925702",
+      "36260301",
+      "41024979",
+      "40195838",
+      "38909984",
+      "39119666",
+      "28140746",
+      "37847697",
+      "41057263",
+      "42586508",
+      "29362972",
+      "33754170",
+      "40351170",
+      "40086675",
+      "39375864",
+      "31902584",
+      "41096677",
+      "29690746",
+      "34164771",
+      "32217510",
+      "35018532",
+      "40553337",
+      "40887498",
+      "42180850",
+      "39552996",
+      "37469443",
+      "30269229",
+      "40745000",
+      "34261850",
+      "29019352",
+      "42742639",
+      "40081781",
+      "34911411",
+      "35698891",
+      "39690326",
+      "32918585",
+      "33452819",
+      "39522681",
+      "40125088",
+      "38188709",
+      "38860212",
+      "40424009",
+      "42090053",
+      "42263664"
+    ],
+    "review": [
+      "42775150",
+      "42261595",
+      "36710911",
+      "31862124",
+      "42080108",
+      "40763823",
+      "34963339",
+      "39628916",
+      "35949837",
+      "38186450",
+      "30369475",
+      "42405245",
+      "40675140",
+      "33835761",
+      "33285226",
+      "41533202",
+      "37287132",
+      "37506757",
+      "42402276",
+      "36895064",
+      "35341983",
+      "27252719",
+      "37642232",
+      "31890142",
+      "37080758",
+      "25371501",
+      "36231007",
+      "32695770",
+      "39726634",
+      "35198566",
+      "34454111",
+      "42075136",
+      "41514894",
+      "29082719",
+      "41254174",
+      "35693174",
+      "26932460",
+      "31022459",
+      "34456559",
+      "32098761",
+      "36091445",
+      "27340770",
+      "40591237",
+      "37762535",
+      "40813265",
+      "28254804",
+      "42771304",
+      "33748164",
+      "36925702",
+      "36260301",
+      "41024979",
+      "40195838",
+      "38909984",
+      "39119666",
+      "28140746",
+      "37847697",
+      "41057263",
+      "42586508",
+      "29362972",
+      "33754170",
+      "40351170",
+      "40086675",
+      "31902584",
+      "41096677",
+      "29690746",
+      "34164771",
+      "32217510",
+      "35018532",
+      "40553337",
+      "40887498",
+      "42180850",
+      "39552996",
+      "37469443",
+      "30269229",
+      "40745000",
+      "34261850",
+      "42742639",
+      "40081781",
+      "34911411",
+      "35698891",
+      "39690326",
+      "32918585",
+      "33452819",
+      "40125088",
+      "38188709",
+      "38860212",
+      "40424009",
+      "42090053",
+      "42263664"
+    ],
+    "pmc": [
+      "13595359"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42775150/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

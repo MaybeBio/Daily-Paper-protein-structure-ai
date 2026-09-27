@@ -1,0 +1,36 @@
+{
+  "source": "arxiv",
+  "source_id": "2609.25659v1",
+  "title": "When Riemann flows with Wasserstein: Generative Modeling of Probability Distributions on Manifolds",
+  "doi": "",
+  "abstract": "Many scientific datasets, such as molecular conformational ensembles or single-cell tissue measurements, are naturally modeled as meta-distributions: distributions over probability measures on non-Euclidean domains. Existing generative methods largely assume Euclidean geometry and fail to capture this structure. We introduce Riemannian Wasserstein Entropic Flow Matching (RWEFM), a generative framework on the Wasserstein space $\\mathcal{P}_2(\\mathcal{M})$ of a Riemannian manifold $(\\mathcal{M},g)$. RWEFM is trained by regressing a neural vector field onto Riemannian optimal transport velocities, using McCann displacement interpolations as conditional paths. We confirm theoretically that this construction leads to a valid flow matching approach on $\\mathcal{P}_2(\\mathcal{M})$ and introduce the Riemannian Entropic Map, a GPU-efficient approximation of the optimal transport map on manifolds. Our experiments show that by respecting the intrinsic geometry of the data, RWEFM can generate whole single-cell samples in hyperspherical latent spaces and protein conformational ensembles on the torus. As RWEFM requires only a geodesic distance and a projection operator, it is not restricted to manifolds with closed-form geometry, which we demonstrate by generating distributions on a general triangulated mesh.",
+  "authors": [
+    "Doron Haviv",
+    "Edward De Brouwer",
+    "Rishabh Anand",
+    "Rex Ying",
+    "Aïcha Bentaieb",
+    "Gabriele Scalia",
+    "Hector Corrada Bravo"
+  ],
+  "published_date": "2026-09-22T04:07:32Z",
+  "updated_date": "2026-09-22T04:07:32Z",
+  "journal": "",
+  "category": "cs.LG",
+  "landing_url": "https://arxiv.org/abs/2609.25659v1",
+  "pdf_url": "https://arxiv.org/pdf/2609.25659v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cs.LG"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2609.25659v1",
+    "raw_categories": [
+      "cs.LG"
+    ],
+    "journal_ref": ""
+  }
+}

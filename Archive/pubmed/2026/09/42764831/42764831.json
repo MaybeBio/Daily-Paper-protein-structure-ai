@@ -1,0 +1,236 @@
+{
+  "identity": {
+    "pmid": "42764831",
+    "doi": "10.21769/BioProtoc.5785",
+    "title": "A Step-by-Step Protocol for Efficient Global Accuracy Estimation of Protein Complex Structural Models with MViewEMA."
+  },
+  "content": {
+    "abstract": "Estimation of model accuracy (EMA) is a critical step in protein structure prediction, enabling the ranking and selection of models in the absence of experimental structures. EMA methods aim to function independently of modeling approaches, ensuring broad applicability across diverse prediction workflows. Recent state-of-the-art EMA methods often improve estimation accuracy by incorporating consensus information from model pools, multiple sequence alignments (MSAs), structural templates, or protein language model representations. However, these strategies typically incur substantial computational cost or rely on information derived from the modeling process itself, which may introduce bias and compromise the independence of the assessment. This protocol describes the use of MViewEMA for global accuracy estimation of protein complex models from a single input structure. MViewEMA extracts residue-residue interaction features from complementary micro-, meso-, and macro-environmental perspectives and integrates multi-scale structural representations through a multi-view representation learning framework to predict global confidence scores. The protocol provides detailed procedures for input structure preparation, feature extraction, model inference, and global confidence score output, together with a tutorial for using the MViewEMA web server. The protocol provides a workflow based solely on structural information from the input model, achieving a balance between computational efficiency and estimation accuracy. It enables large-scale evaluation and selection of predicted models for protein structure prediction and downstream structural analysis applications. Key features * Provides an efficient and accurate single-model EMA framework for protein complex accuracy estimation. * Integrates residue-residue interaction features across micro-, meso-, and macro-environmental views through multi-view representation learning. * Performs independent protein structural model assessment without requiring MSAs, templates, protein language models, or consensus information from model ensembles. * Supports large-scale protein complex model ranking and selection for downstream structural analysis applications.",
+    "keywords": [
+      "Deep learning",
+      "Estimation of model accuracy",
+      "MViewEMA",
+      "Multi-view representation learning",
+      "Single-model method"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Xie, Lei",
+        "Ye, Enjia",
+        "Liu, Dong",
+        "Zhang, Guijun"
+      ],
+      "short_names": [
+        "Xie L",
+        "Ye E",
+        "Liu D",
+        "Zhang G"
+      ],
+      "auids": [],
+      "affiliations": [
+        "College of Information Engineering, Zhejiang University of Technology, Hangzhou, Zhejiang, China.",
+        "College of Information Engineering, Zhejiang University of Technology, Hangzhou, Zhejiang, China.",
+        "College of Information Engineering, Zhejiang University of Technology, Hangzhou, Zhejiang, China.",
+        "College of Information Engineering, Zhejiang University of Technology, Hangzhou, Zhejiang, China.",
+        "Zhejiang Key Laboratory of Intelligent Perception and Control for Complex Systems, Zhejiang University of Technology, Hangzhou, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Xie, Lei",
+        "short_name": "Xie L",
+        "identifiers": [],
+        "affiliations": [
+          "College of Information Engineering, Zhejiang University of Technology, Hangzhou, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Ye, Enjia",
+        "short_name": "Ye E",
+        "identifiers": [],
+        "affiliations": [
+          "College of Information Engineering, Zhejiang University of Technology, Hangzhou, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Dong",
+        "short_name": "Liu D",
+        "identifiers": [],
+        "affiliations": [
+          "College of Information Engineering, Zhejiang University of Technology, Hangzhou, Zhejiang, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Guijun",
+        "short_name": "Zhang G",
+        "identifiers": [],
+        "affiliations": [
+          "College of Information Engineering, Zhejiang University of Technology, Hangzhou, Zhejiang, China.",
+          "Zhejiang Key Laboratory of Intelligent Perception and Control for Complex Systems, Zhejiang University of Technology, Hangzhou, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Bio-protocol"
+    ],
+    "journal_abbrev": [
+      "Bio Protoc"
+    ],
+    "pub_date": "2026 Aug 20",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/21 05:34",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42764831",
+      "41690307",
+      "42475469",
+      "31436360",
+      "34035363",
+      "37357816",
+      "40322921",
+      "39881398",
+      "41094395",
+      "41201924",
+      "42119874",
+      "37356909",
+      "40815964",
+      "35439931",
+      "40119464",
+      "37314190",
+      "34473228",
+      "19457232",
+      "42248581",
+      "38380738",
+      "39916698",
+      "38986287",
+      "37317619",
+      "38707538",
+      "41206398",
+      "42316773",
+      "40183298",
+      "34418678",
+      "42185919",
+      "38785981",
+      "41614412",
+      "36945536",
+      "42587429",
+      "42104958",
+      "41902842",
+      "39975041",
+      "42531108",
+      "40684093",
+      "42336024",
+      "41014267",
+      "31073605",
+      "41310253",
+      "38920342",
+      "33961009",
+      "40483648",
+      "34291486",
+      "37748220",
+      "31918654",
+      "42752891",
+      "40945830",
+      "40569190",
+      "42726619",
+      "37740296",
+      "39679271",
+      "41021316",
+      "40592174",
+      "41306577",
+      "41977286",
+      "30985027",
+      "37650367",
+      "40661500",
+      "39850657",
+      "39795988",
+      "40585263",
+      "40062613",
+      "42508236",
+      "42105590",
+      "42157243",
+      "39091736",
+      "42270697",
+      "42102639",
+      "42286075",
+      "41744270",
+      "42427317",
+      "40751131",
+      "39661307",
+      "41284811",
+      "41911141",
+      "40327458",
+      "42133173",
+      "40628826",
+      "40143108",
+      "37258453",
+      "41532285",
+      "27319297",
+      "35982086",
+      "23912807",
+      "26369671",
+      "40439671",
+      "36637199",
+      "41822751",
+      "41839829",
+      "38091726",
+      "39830331",
+      "42711316",
+      "41352986",
+      "42351452",
+      "41431261",
+      "28905467",
+      "42048356"
+    ],
+    "review": [
+      "42764831",
+      "38986287",
+      "38707538"
+    ],
+    "pmc": [
+      "13589690"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42764831/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-MUC1-2",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://bio-protocol.org/e5785",
+        "provider": "Bio-Protocol, LLC",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

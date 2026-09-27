@@ -1,0 +1,247 @@
+{
+  "identity": {
+    "pmid": "42782655",
+    "doi": "10.3390/biomimetics11090629",
+    "title": "A Bioinspired Soft Manipulator Based on Wave Spring Structure: Design and Control."
+  },
+  "content": {
+    "abstract": "Architectured soft structures have unlocked new possibilities for designing continuum manipulators with tailored mechanical performance. This work introduces a bioinspired soft manipulator based on modular wave spring units, leveraging the high elasticity of wave spring structures to enable compliant deformation and axial extensibility of the soft manipulator. To achieve precise control of the soft manipulator, a neural network-based inverse kinematics framework is developed to establish an efficient mapping from desired end poses to tendon actuation lengths. An iterative learning control strategy is further integrated to compensate for material hysteresis, friction, and external disturbances. A prototype is fabricated using flexible 3D-printable material (TPU), and comprehensive experiments are conducted to validate extensible performance, point positioning accuracy, trajectory-tracking accuracy, and compliant interaction capability. The results demonstrate that the proposed wave spring-based soft manipulator achieves a high extension ratio and reliable control precision.",
+    "keywords": [
+      "compliant control",
+      "continuum robot",
+      "iterative learning control",
+      "wave spring structure"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Sui, Dongbao",
+        "Zhang, Zongwei",
+        "Wang, Tianshuo",
+        "Zhao, Sikai",
+        "Zhang, Yu",
+        "Wang, Xinzui"
+      ],
+      "short_names": [
+        "Sui D",
+        "Zhang Z",
+        "Wang T",
+        "Zhao S",
+        "Zhang Y",
+        "Wang X"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-8801-6415",
+        "ORCID: 0000-0002-3272-8851"
+      ],
+      "affiliations": [
+        "Ji Hua Laboratory, Foshan 528200, China.",
+        "Ji Hua Laboratory, Foshan 528200, China.",
+        "Ji Hua Laboratory, Foshan 528200, China.",
+        "State Key Laboratory of Robotics and Systems, Harbin Institute of Technology, Harbin 150001, China.",
+        "Heilongjiang Provincial Key Laboratory of Complex Intelligent System and Integration, Harbin University of Science and Technology, Harbin 150080, China.",
+        "Ji Hua Laboratory, Foshan 528200, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Sui, Dongbao",
+        "short_name": "Sui D",
+        "identifiers": [
+          "0000-0002-8801-6415"
+        ],
+        "affiliations": [
+          "Ji Hua Laboratory, Foshan 528200, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Zongwei",
+        "short_name": "Zhang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Ji Hua Laboratory, Foshan 528200, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Tianshuo",
+        "short_name": "Wang T",
+        "identifiers": [
+          "0000-0002-3272-8851"
+        ],
+        "affiliations": [
+          "Ji Hua Laboratory, Foshan 528200, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Sikai",
+        "short_name": "Zhao S",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Robotics and Systems, Harbin Institute of Technology, Harbin 150001, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yu",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Heilongjiang Provincial Key Laboratory of Complex Intelligent System and Integration, Harbin University of Science and Technology, Harbin 150080, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Xinzui",
+        "short_name": "Wang X",
+        "identifiers": [],
+        "affiliations": [
+          "Ji Hua Laboratory, Foshan 528200, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biomimetics (Basel, Switzerland)"
+    ],
+    "journal_abbrev": [
+      "Biomimetics (Basel)"
+    ],
+    "pub_date": "2026 Sep 3",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/24 23:52",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42782655",
+      "41149173",
+      "29251567",
+      "38781417",
+      "41198882",
+      "42475469",
+      "34334877",
+      "34573832",
+      "36772685",
+      "35998612",
+      "42645275",
+      "42601391",
+      "22128305",
+      "37669887",
+      "41468153",
+      "34235629",
+      "41217923",
+      "41309825",
+      "42740022",
+      "37839933",
+      "34629752",
+      "36203791",
+      "38386561",
+      "30917093",
+      "41318342",
+      "32123751",
+      "39224905",
+      "27647806",
+      "37571667",
+      "39668568",
+      "33501042",
+      "42203557",
+      "39001195",
+      "34152857",
+      "29182085",
+      "31105225",
+      "32568718",
+      "25970238",
+      "34330110",
+      "41516729",
+      "42729445",
+      "37572003",
+      "35196171",
+      "33869294",
+      "32109180",
+      "34692668",
+      "29746203",
+      "36772312",
+      "41829569",
+      "33497540",
+      "34520370",
+      "41439872",
+      "38124562",
+      "38676173",
+      "38721039",
+      "37501743",
+      "42043789",
+      "33343325",
+      "40391295",
+      "39517734",
+      "34359064",
+      "38042692",
+      "40946185",
+      "41084304",
+      "38816531",
+      "37763860",
+      "40089532",
+      "37763906",
+      "40096167",
+      "30720388",
+      "38392133",
+      "33501155",
+      "33501128",
+      "35746314",
+      "39388237",
+      "42225505",
+      "34395538",
+      "41958848",
+      "38392150",
+      "33349814",
+      "37001175",
+      "30997634",
+      "38899065",
+      "34297904",
+      "31744040",
+      "36939437",
+      "40790014",
+      "41444038",
+      "33255700",
+      "31990630",
+      "38324014",
+      "41058750",
+      "39512658",
+      "18784015",
+      "42236569",
+      "39035541",
+      "39889344",
+      "39616642",
+      "41775071",
+      "40675897"
+    ],
+    "review": [
+      "42782655",
+      "37763860"
+    ],
+    "pmc": [
+      "13604736"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=biomimetics11090629",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

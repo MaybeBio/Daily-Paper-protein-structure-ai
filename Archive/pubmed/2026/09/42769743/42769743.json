@@ -1,0 +1,214 @@
+{
+  "identity": {
+    "pmid": "42769743",
+    "doi": "10.21769/BioProtoc.5794",
+    "title": "Cryo-EM Pipeline for Actin Filament End Structures."
+  },
+  "content": {
+    "abstract": "Actin filaments undergo dynamic growth and disassembly at their ends, regulated by many actin-binding proteins. However, structural analysis of filament end dynamics has been challenging due to the low abundance of filament ends in cryo-electron microscopy (cryo-EM) micrographs, their intrinsic polymorphisms, and the diversity and flexibility of end-binding proteins. Here, we describe a standardized cryo-EM protocol for determining actin filament end structures. First, short actin filaments are generated either biochemically using capping or severing proteins or mechanically through shearing. Filaments are then vitrified under conditions optimized for each specific end-binding protein. We describe data collection parameters using a 300 kV Titan Krios G3i microscope, including optimized grid preparation and imaging settings. Finally, we present a data processing pipeline for filament end structure determination based on machine learning-based particle picking, masking, and sorting strategies. This protocol has enabled the determination of multiple high-resolution structures of free, capped, elongating, and depolymerizing actin filament ends, and we further discuss considerations for extending this approach to other end-binding proteins. Key features * Generation of short actin filaments for cryo-EM using capping proteins, severing proteins, or mechanical shearing. * Integrated data collection and image processing workflow for filament end structure determination. * Common challenges, solutions, and experimental considerations for diverse actin filament end-binding complexes.",
+    "keywords": [
+      "Actin filament",
+      "Cryo-EM",
+      "Cytoskeleton",
+      "Filament ends",
+      "Machine learning",
+      "Protein structure",
+      "Vitrification"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Palmer, Nicholas J",
+        "Dominguez, Roberto"
+      ],
+      "short_names": [
+        "Palmer NJ",
+        "Dominguez R"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Physiology and Biochemistry, Biophysics and Chemical Biology Graduate Group, University of Pennsylvania, Perelman School of Medicine, Philadelphia, PA, USA.",
+        "Department of Physiology and Biochemistry, Biophysics and Chemical Biology Graduate Group, University of Pennsylvania, Perelman School of Medicine, Philadelphia, PA, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Palmer, Nicholas J",
+        "short_name": "Palmer NJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology and Biochemistry, Biophysics and Chemical Biology Graduate Group, University of Pennsylvania, Perelman School of Medicine, Philadelphia, PA, USA."
+        ]
+      },
+      {
+        "full_name": "Dominguez, Roberto",
+        "short_name": "Dominguez R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology and Biochemistry, Biophysics and Chemical Biology Graduate Group, University of Pennsylvania, Perelman School of Medicine, Philadelphia, PA, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Bio-protocol"
+    ],
+    "journal_abbrev": [
+      "Bio Protoc"
+    ],
+    "pub_date": "2026 Sep 5",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/22 12:42",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42769743",
+      "17110933",
+      "17059832",
+      "31900364",
+      "28625781",
+      "38596739",
+      "37228182",
+      "37214997",
+      "9354614",
+      "9366258",
+      "29463680",
+      "3994988",
+      "20969875",
+      "33508320",
+      "12055192",
+      "21628589",
+      "41075793",
+      "2995403",
+      "15659626",
+      "41289381",
+      "2250026",
+      "39820248",
+      "1655780",
+      "20484056",
+      "42055641",
+      "17569543",
+      "42259257",
+      "21378753",
+      "36586407",
+      "28625780",
+      "11069108",
+      "29749375",
+      "34742832",
+      "22446529",
+      "30299652",
+      "2050808",
+      "31195977",
+      "14990563",
+      "41931606",
+      "21860371",
+      "14680631",
+      "39261469",
+      "6890554",
+      "9210222",
+      "26940918",
+      "27976861",
+      "37930544",
+      "39100595",
+      "35622886",
+      "36865277",
+      "24371134",
+      "37349345",
+      "39848862",
+      "9382870",
+      "8956003",
+      "31480377",
+      "15039433",
+      "25706231",
+      "23352932",
+      "42517196",
+      "31628168",
+      "42710486",
+      "34932487",
+      "30131964",
+      "27587510",
+      "42567514",
+      "38364988",
+      "39706262",
+      "22488942",
+      "39992031",
+      "37632366",
+      "37399949",
+      "38766263",
+      "38407301",
+      "35913272",
+      "29440489",
+      "1618909",
+      "26812019",
+      "42517194",
+      "30499293",
+      "42463260",
+      "8707824",
+      "40832324",
+      "25448002",
+      "33524412",
+      "25046383",
+      "32668234",
+      "22960908",
+      "33303625",
+      "21103060",
+      "12956956",
+      "39178734",
+      "38448439",
+      "42410114",
+      "10085247",
+      "31498927",
+      "24943913",
+      "35244536",
+      "42239445",
+      "14742433"
+    ],
+    "review": [
+      "42769743",
+      "39820248",
+      "9210222",
+      "26940918",
+      "37930544",
+      "39848862",
+      "30131964",
+      "22488942",
+      "37399949",
+      "42463260"
+    ],
+    "pmc": [
+      "13592462"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42769743/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://bio-protocol.org/e5794",
+        "provider": "Bio-Protocol, LLC",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

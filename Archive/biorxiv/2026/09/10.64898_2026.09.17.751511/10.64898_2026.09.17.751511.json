@@ -1,0 +1,341 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.17.751511",
+  "title": "SurfGraphPro: Integrating Protein Language Models with Geometric Deep Learning On Coarse Protein Surfaces for Binding Site Prediction",
+  "doi": "10.64898/2026.09.17.751511",
+  "abstract": "Accurate and fast prediction of protein binding sites remains essential for understanding molecular interactions and facilitating protein engineering. Here, we present SurfGraphPro, a geometric deep learning approach that bridges protein language models with surface-based structural representations for a rapid binding interface prediction. Our method operates on coarse-graphed triangulated protein surfaces, utilizing solvent-excluded surface meshes downsampled into amino acid residue centered patches. Unlike existing approaches that rely on extensive physicochemical feature engineering, we leverage evolutionary information directly from protein language model embeddings, eliminating the need for computationally expensive multiple sequence alignments and hand-crafted features. This integration achieves on average $\\sim18-28 \\times$ speedup for proteins of $\\sim$100 to a few 1000s of amino acids over current state-of-the-art surface-based model while maintaining comparable accuracy on diverse binding interfaces, including challenging antibody-antigen complexes. To our knowledge, this represents the first approach to integrate protein language model embeddings with coarse geometric surface representations for binding site prediction, demonstrating that learned evolutionary features coupled with geometric transformers can replace traditional feature engineering without sacrificing performance.",
+  "authors": [
+    "Adela Habib",
+    "Li-Wei Hung",
+    "Kaetlyn Gibson",
+    "Martha Dix",
+    "Patrick Sum Guy Chain",
+    "Bin Hu"
+  ],
+  "published_date": "2026-09-24",
+  "updated_date": "2026-09-24T23:40:17Z",
+  "journal": "bioRxiv",
+  "category": "Bioinformatics",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.17.751511",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.17.751511.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [
+    "Bioinformatics"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Bioinformatics",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            26
+          ]
+        ],
+        "date-time": "2026-09-26T07:59:23Z",
+        "timestamp": 1790409563062,
+        "version": "4.1.0"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            24
+          ]
+        ]
+      },
+      "group-title": "Bioinformatics",
+      "reference-count": 0,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                24
+              ]
+            ],
+            "date-time": "2026-09-24T00:00:00Z",
+            "timestamp": 1790208000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "award": [
+            "20250639DI"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "20250639DI"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/01e41cf67",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "award": [
+            "20250638DI"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "20250638DI"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/01e41cf67",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "award": [
+            "20250637DI"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "20250637DI"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/01e41cf67",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "award": [
+            "20240734DI"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "20240734DI"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/01e41cf67",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            25
+          ]
+        ]
+      },
+      "abstract": "<jats:p>Accurate and fast prediction of protein binding sites remains essential for understanding molecular interactions and facilitating protein engineering. Here, we present SurfGraphPro, a geometric deep learning approach that bridges protein language models with surface-based structural representations for a rapid binding interface prediction. Our method operates on coarse-graphed triangulated protein surfaces, utilizing solvent-excluded surface meshes downsampled into amino acid residue centered patches. Unlike existing approaches that rely on extensive physicochemical feature engineering, we leverage evolutionary information directly from protein language model embeddings, eliminating the need for computationally expensive multiple sequence alignments and hand-crafted features. This integration achieves on average $\\sim18-28 \\times$ speedup for proteins of $\\sim$100 to a few 1000s of amino acids over current state-of-the-art surface-based model while maintaining comparable accuracy on diverse binding interfaces, including challenging antibody-antigen complexes. To our knowledge, this represents the first approach to integrate protein language model embeddings with coarse geometric surface representations for binding site prediction, demonstrating that learned evolutionary features coupled with geometric transformers can replace traditional feature engineering without sacrificing performance.</jats:p>",
+      "DOI": "10.64898/2026.09.17.751511",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            24
+          ]
+        ],
+        "date-time": "2026-09-24T23:40:17Z",
+        "timestamp": 1790293217000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "SurfGraphPro: Integrating Protein Language Models with Geometric Deep Learning On Coarse Protein Surfaces for Binding Site Prediction"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-8351-4610",
+          "authenticated-orcid": false,
+          "given": "Adela",
+          "family": "Habib",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Biosciences Division, Los Alamos National Laboratory"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Li-Wei",
+          "family": "Hung",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Biosciences Division, Los Alamos National Laboratory"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Kaetlyn",
+          "family": "Gibson",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Biosciences Division, Los Alamos National Laboratory"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Martha",
+          "family": "Dix",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Biosciences Division, Los Alamos National Laboratory"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Patrick Sum Guy",
+          "family": "Chain",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Biosciences Division, Los Alamos National Laboratory"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Bin",
+          "family": "Hu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Biosciences Division, Los Alamos National Laboratory"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.09.17.751511",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            26
+          ]
+        ],
+        "date-time": "2026-09-26T07:25:17Z",
+        "timestamp": 1790407517000
+      },
+      "score": 56.59183,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.09.17.751511"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            24
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.64898/2026.09.17.751511",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            24
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

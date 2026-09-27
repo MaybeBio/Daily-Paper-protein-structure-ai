@@ -1,0 +1,225 @@
+{
+  "identity": {
+    "pmid": "42768780",
+    "doi": "10.1002/jcc.70499",
+    "title": "Time-Dependent Voronoi Analysis of Amino Acid Side-Chain Packing in Simulations."
+  },
+  "content": {
+    "abstract": "Protein conformational motion depends on geometric and chemical constraints in side-chain packing. Thermal forces and incomplete packing produce \"breathing\" motions that allow internal rearrangement. Packing dynamics therefore inform protein allostery, conformational change, and folding. While Voronoi tessellation is a promising approach to this end, its application to proteins has been mainly focused on static structures. Here, the Voro++ library is adopted to investigate time-dependent amino acid packing in molecular dynamics trajectories of a titin immunoglobulin domain at 300 and 400 K. Tracking per-residue Voronoi volume changes and reorganization of neighbor faces in the Voronoi lattice reveals residue-level volume shifts and the corresponding timing of localized protein swelling. Side-chain motion into and out of the protein core can also be monitored by mapping neighbor switching. This framework is applicable to detecting delicate changes preceding protein conformational transition or unfolding, and analyzing protein-protein interface reorganization or surface hydration.",
+    "keywords": [
+      "Voronoi tessellation",
+      "molecular dynamics simulation",
+      "protein packing"
+    ],
+    "mesh_terms": [
+      "*Molecular Dynamics Simulation",
+      "*Amino Acids/chemistry",
+      "*Connectin/chemistry",
+      "Protein Conformation",
+      "Time Factors"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Bettencourt, Sofiya B",
+        "Hwang, Wonmuk"
+      ],
+      "short_names": [
+        "Bettencourt SB",
+        "Hwang W"
+      ],
+      "auids": [
+        "ORCID: 0009-0006-5663-8734",
+        "ORCID: 0000-0001-7514-3186"
+      ],
+      "affiliations": [
+        "Department of Biomedical Engineering, Texas A&M University, College Station, Texas, USA.",
+        "Department of Biomedical Engineering, Texas A&M University, College Station, Texas, USA.",
+        "Department of Materials Science & Engineering, Texas A&M University, College Station, Texas, USA.",
+        "Department of Physics & Astronomy, Texas A&M University, College Station, Texas, USA.",
+        "Center for AI and Natural Sciences, Korea Institute for Advanced Study, Seoul, Republic of Korea."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Bettencourt, Sofiya B",
+        "short_name": "Bettencourt SB",
+        "identifiers": [
+          "0009-0006-5663-8734"
+        ],
+        "affiliations": [
+          "Department of Biomedical Engineering, Texas A&M University, College Station, Texas, USA."
+        ]
+      },
+      {
+        "full_name": "Hwang, Wonmuk",
+        "short_name": "Hwang W",
+        "identifiers": [
+          "0000-0001-7514-3186"
+        ],
+        "affiliations": [
+          "Department of Biomedical Engineering, Texas A&M University, College Station, Texas, USA.",
+          "Department of Materials Science & Engineering, Texas A&M University, College Station, Texas, USA.",
+          "Department of Physics & Astronomy, Texas A&M University, College Station, Texas, USA.",
+          "Center for AI and Natural Sciences, Korea Institute for Advanced Study, Seoul, Republic of Korea."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of computational chemistry"
+    ],
+    "journal_abbrev": [
+      "J Comput Chem"
+    ],
+    "pub_date": "2026 Sep 30",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/22 05:37",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42768780",
+      "12402355",
+      "28107510",
+      "16852728",
+      "28149485",
+      "10026283",
+      "21280126",
+      "9336831",
+      "30589846",
+      "16317667",
+      "23912807",
+      "11427046",
+      "16246369",
+      "42679129",
+      "11469867",
+      "15749783",
+      "30620582",
+      "23140218",
+      "18713857",
+      "31793290",
+      "28970487",
+      "22102317",
+      "40188940",
+      "30462715",
+      "39681347",
+      "15959866",
+      "26990194",
+      "24202172",
+      "25954889",
+      "41020411",
+      "16292476",
+      "15093839",
+      "24603188",
+      "25794270",
+      "21999345",
+      "22984947",
+      "39769139",
+      "15268287",
+      "17193263",
+      "27886109",
+      "20392111",
+      "10452609",
+      "35101819",
+      "20621565",
+      "20815561",
+      "38430110",
+      "41316704",
+      "12200537",
+      "22426125",
+      "21639141",
+      "31386362",
+      "28592485",
+      "37253017",
+      "25544680",
+      "22665780",
+      "8906883",
+      "10593256",
+      "26545107",
+      "20947758",
+      "35755337",
+      "27339138",
+      "30021109",
+      "25146482",
+      "20816077",
+      "25637891",
+      "16887254",
+      "18186476",
+      "27003106",
+      "38790143",
+      "26579777",
+      "8672470",
+      "41655460",
+      "8464066",
+      "12834829",
+      "7663945",
+      "14756550",
+      "9413550",
+      "12596268",
+      "29267011",
+      "7563082",
+      "42450193",
+      "11030939",
+      "23663843",
+      "40958150",
+      "28642368",
+      "16957327",
+      "37373197",
+      "28747759",
+      "41720904",
+      "24354725",
+      "21617814",
+      "29864281",
+      "29558133",
+      "24697422",
+      "31877033",
+      "29427530",
+      "25799983",
+      "20959095",
+      "39332669",
+      "29611030"
+    ],
+    "review": [
+      "42768780",
+      "30620582",
+      "31793290",
+      "15093839",
+      "35101819",
+      "10593256"
+    ],
+    "pmc": [
+      "13594690"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42768780/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.1002/jcc.70499",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,386 @@
+{
+  "identity": {
+    "pmid": "42775662",
+    "doi": "10.1002/pro.70808",
+    "title": "Conformational stability and domain-specific structural features of tumor autoantigens regulate autoantibody epitope propensity."
+  },
+  "content": {
+    "abstract": "Autoantibodies against tumor-associated autoantigens are clinically valuable biomarkers for cancer diagnosis; however, the structural determinants governing epitope selectivity remain unknown. Here, we investigated whether the intrinsic conformational stability of target autoantigens regulates the epitope propensity of tumor-associated autoantibodies in non-small cell lung cancer. Using a dual-antigen Luminex bead-based assay that presents each autoantigen in both native and S-cationized denatured forms, we directly compared IgG autoantibody reactivity toward conformational and linear epitopes across 11 autoantigens. Intrinsically disordered aggregation-prone autoantigens, including cancer/testis antigens, NY-ESO-1, and XAGE-1b, predominantly elicit linear epitope-directed responses, whereas thermodynamically stable soluble autoantigens generally drive conformational epitope recognition. Intriguingly, for autoantigens harboring both ordered and disordered segments, the immune response is strictly guided by domain-specific biophysics: while p53-specific antibodies preferentially target their flanking disordered regions, the Wilms' tumor protein 1 exceptionally drives conformational recognition directed toward its structured zinc-finger domains. Recombinant solubility in Escherichia coli broadly correlated with epitope class across all 11 autoantigens, confirming that prokaryotic folding efficiency generally reflects intrinsic conformational stability in vivo for autonomously folding monomeric cytosolic proteins. Independent computational validation was provided by the concordance between the experimental solubility ratios and AlphaFold3-derived Rosetta energy unit/solvent-accessible surface area values, demonstrating the convergence of thermodynamic estimates and patient-derived immune data within a unifying biophysical framework. These findings establish that the autoantibody epitope propensity is closely associated with the thermodynamic stability of the target autoantigen and provide a rational basis for tailoring antigen preparation strategies for autoantibody-based cancer diagnosis.",
+    "keywords": [
+      "autoantibody",
+      "biomarker",
+      "cancer/testis antigen",
+      "epitope propensity",
+      "intrinsically disordered regions",
+      "protein engineering",
+      "tumor-associated antigens"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Autoantibodies/immunology/chemistry",
+      "*Epitopes/chemistry/immunology",
+      "*Autoantigens/chemistry/immunology",
+      "*Antigens, Neoplasm/chemistry/immunology",
+      "Protein Stability",
+      "*Carcinoma, Non-Small-Cell Lung/immunology",
+      "*Lung Neoplasms/immunology",
+      "Protein Conformation"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Miyamoto, Ai",
+        "Yamamoto, Rika",
+        "Sakaguchi, Ryui",
+        "Kutsuma, Rikako",
+        "Mori, Takeru",
+        "Masui, Mirei",
+        "Honjo, Tomoko",
+        "Futami, Midori",
+        "Morii, Mariko",
+        "Watanabe, Hiromi",
+        "Kuribayashi, Tadahiro",
+        "Ohashi, Kadoaki",
+        "Kiura, Katsuyuki",
+        "Futami, Junichiro"
+      ],
+      "short_names": [
+        "Miyamoto A",
+        "Yamamoto R",
+        "Sakaguchi R",
+        "Kutsuma R",
+        "Mori T",
+        "Masui M",
+        "Honjo T",
+        "Futami M",
+        "Morii M",
+        "Watanabe H",
+        "Kuribayashi T",
+        "Ohashi K",
+        "Kiura K",
+        "Futami J"
+      ],
+      "auids": [
+        "ORCID: 0009-0006-7079-3984",
+        "ORCID: 0009-0000-2552-2794",
+        "ORCID: 0000-0002-2814-4087",
+        "ORCID: 0000-0002-5180-3933",
+        "ORCID: 0000-0002-0020-2855"
+      ],
+      "affiliations": [
+        "Graduate School of Interdisciplinary Science and Engineering in Health Systems, Okayama University, Okayama, Japan.",
+        "Graduate School of Interdisciplinary Science and Engineering in Health Systems, Okayama University, Okayama, Japan.",
+        "Graduate School of Interdisciplinary Science and Engineering in Health Systems, Okayama University, Okayama, Japan.",
+        "Graduate School of Interdisciplinary Science and Engineering in Health Systems, Okayama University, Okayama, Japan.",
+        "Graduate School of Interdisciplinary Science and Engineering in Health Systems, Okayama University, Okayama, Japan.",
+        "Graduate School of Interdisciplinary Science and Engineering in Health Systems, Okayama University, Okayama, Japan.",
+        "Graduate School of Interdisciplinary Science and Engineering in Health Systems, Okayama University, Okayama, Japan.",
+        "Department of Bioscience, Faculty of Life Science, Okayama University of Science, Okayama, Japan.",
+        "Graduate School of Interdisciplinary Science and Engineering in Health Systems, Okayama University, Okayama, Japan.",
+        "Department of Respiratory Medicine, Okayama University Hospital, Okayama, Japan.",
+        "Department of Respiratory Medicine, Okayama University Hospital, Okayama, Japan.",
+        "Department of Respiratory Medicine, Okayama University Hospital, Okayama, Japan.",
+        "Department of Respiratory Medicine, Okayama University Hospital, Okayama, Japan.",
+        "Graduate School of Interdisciplinary Science and Engineering in Health Systems, Okayama University, Okayama, Japan."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Miyamoto, Ai",
+        "short_name": "Miyamoto A",
+        "identifiers": [
+          "0009-0006-7079-3984"
+        ],
+        "affiliations": [
+          "Graduate School of Interdisciplinary Science and Engineering in Health Systems, Okayama University, Okayama, Japan."
+        ]
+      },
+      {
+        "full_name": "Yamamoto, Rika",
+        "short_name": "Yamamoto R",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate School of Interdisciplinary Science and Engineering in Health Systems, Okayama University, Okayama, Japan."
+        ]
+      },
+      {
+        "full_name": "Sakaguchi, Ryui",
+        "short_name": "Sakaguchi R",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate School of Interdisciplinary Science and Engineering in Health Systems, Okayama University, Okayama, Japan."
+        ]
+      },
+      {
+        "full_name": "Kutsuma, Rikako",
+        "short_name": "Kutsuma R",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate School of Interdisciplinary Science and Engineering in Health Systems, Okayama University, Okayama, Japan."
+        ]
+      },
+      {
+        "full_name": "Mori, Takeru",
+        "short_name": "Mori T",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate School of Interdisciplinary Science and Engineering in Health Systems, Okayama University, Okayama, Japan."
+        ]
+      },
+      {
+        "full_name": "Masui, Mirei",
+        "short_name": "Masui M",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate School of Interdisciplinary Science and Engineering in Health Systems, Okayama University, Okayama, Japan."
+        ]
+      },
+      {
+        "full_name": "Honjo, Tomoko",
+        "short_name": "Honjo T",
+        "identifiers": [
+          "0009-0000-2552-2794"
+        ],
+        "affiliations": [
+          "Graduate School of Interdisciplinary Science and Engineering in Health Systems, Okayama University, Okayama, Japan."
+        ]
+      },
+      {
+        "full_name": "Futami, Midori",
+        "short_name": "Futami M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bioscience, Faculty of Life Science, Okayama University of Science, Okayama, Japan."
+        ]
+      },
+      {
+        "full_name": "Morii, Mariko",
+        "short_name": "Morii M",
+        "identifiers": [
+          "0000-0002-2814-4087"
+        ],
+        "affiliations": [
+          "Graduate School of Interdisciplinary Science and Engineering in Health Systems, Okayama University, Okayama, Japan."
+        ]
+      },
+      {
+        "full_name": "Watanabe, Hiromi",
+        "short_name": "Watanabe H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Respiratory Medicine, Okayama University Hospital, Okayama, Japan."
+        ]
+      },
+      {
+        "full_name": "Kuribayashi, Tadahiro",
+        "short_name": "Kuribayashi T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Respiratory Medicine, Okayama University Hospital, Okayama, Japan."
+        ]
+      },
+      {
+        "full_name": "Ohashi, Kadoaki",
+        "short_name": "Ohashi K",
+        "identifiers": [
+          "0000-0002-5180-3933"
+        ],
+        "affiliations": [
+          "Department of Respiratory Medicine, Okayama University Hospital, Okayama, Japan."
+        ]
+      },
+      {
+        "full_name": "Kiura, Katsuyuki",
+        "short_name": "Kiura K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Respiratory Medicine, Okayama University Hospital, Okayama, Japan."
+        ]
+      },
+      {
+        "full_name": "Futami, Junichiro",
+        "short_name": "Futami J",
+        "identifiers": [
+          "0000-0002-0020-2855"
+        ],
+        "affiliations": [
+          "Graduate School of Interdisciplinary Science and Engineering in Health Systems, Okayama University, Okayama, Japan."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Protein science : a publication of the Protein Society"
+    ],
+    "journal_abbrev": [
+      "Protein Sci"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/23 11:50",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42775662",
+      "24726865",
+      "28456790",
+      "7519242",
+      "26355635",
+      "12296864",
+      "7542577",
+      "29866600",
+      "34048178",
+      "10403911",
+      "27117167",
+      "16468707",
+      "31924500",
+      "33434603",
+      "11145717",
+      "22109656",
+      "7543435",
+      "15540228",
+      "10931132",
+      "40009215",
+      "26937656",
+      "14871964",
+      "24641868",
+      "10196215",
+      "29954402",
+      "14519847",
+      "9566759",
+      "24614036",
+      "2478582",
+      "30429015",
+      "42475469",
+      "11937581",
+      "1691756",
+      "16403100",
+      "40912936",
+      "22922091",
+      "8919052",
+      "41777153",
+      "26362417",
+      "31275329",
+      "15294004",
+      "16503116",
+      "22198767",
+      "18923710",
+      "11504947",
+      "31191560",
+      "33158670",
+      "20131295",
+      "11091269",
+      "9588444",
+      "18480433",
+      "40985572",
+      "11251884",
+      "10881691",
+      "1381402",
+      "15992994",
+      "28074593",
+      "15034020",
+      "25078248",
+      "31333652",
+      "27577085",
+      "9158085",
+      "11219392",
+      "9328334",
+      "9725268",
+      "31397047",
+      "22415278",
+      "11826415",
+      "20570928",
+      "32967941",
+      "18514483",
+      "25171478",
+      "24604332",
+      "38665908",
+      "24122232",
+      "8943434",
+      "26896032",
+      "15501393",
+      "2481579",
+      "11959762",
+      "33763057",
+      "11862315",
+      "24304136",
+      "31629809",
+      "21858191",
+      "21504557",
+      "9862676",
+      "29181273",
+      "29022480",
+      "11129117",
+      "8617422",
+      "31328572",
+      "25906289",
+      "41792674",
+      "18178866",
+      "26806845",
+      "33530489",
+      "36642483",
+      "30254034",
+      "19838329"
+    ],
+    "review": [
+      "42775662",
+      "31924500",
+      "31333652",
+      "27577085",
+      "9328334",
+      "2481579",
+      "33763057",
+      "11129117"
+    ],
+    "pmc": [
+      "13599353"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/lungcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Lung Cancer"
+      },
+      {
+        "url": "https://doi.org/10.1002/pro.70808",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-OTUB1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-951",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

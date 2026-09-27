@@ -1,0 +1,259 @@
+{
+  "identity": {
+    "pmid": "42778547",
+    "doi": "10.1038/s41467-026-76875-9",
+    "title": "Protein entanglement misfolding influences whether proteins undergo proteasomal degradation or persist in near-native misfolded states."
+  },
+  "content": {
+    "abstract": "A novel class of protein misfolding involving changes in entanglement status occurs across the bacterial cytosolic proteome and likely exists in many other organisms. Here, we test whether this class of misfolding has measurable consequences for protein homeostasis by examining its relationship with ubiquitin-mediated proteasomal degradation immediately after protein synthesis. Integrating protein structural information with ubiquitin mass spectrometry (Ubq-MS) data from human fibroblasts, we find that proteins containing native non-covalent lasso entanglements (NCLEs), which are known to be more prone to misfolding, are 93% (95% Confidence Interval: 44-160%) more likely to be ubiquitinated and targeted for proteasomal degradation than proteins lacking native entanglements. Coarse-grained folding simulations further show that ubiquitinated proteins with native entanglements are four-fold more likely to misfold than non-ubiquitinated proteins without entanglements. These results suggest that entanglement misfolding, primarily through failure to form native entanglements, increases susceptibility to proteasomal degradation. We further estimate that approximately one-third of the globular proteome populates near-native entanglement-misfolded states that evade proteasomal degradation because they remain structurally similar to the native ensemble. Given that entanglement misfolding is inherent to the polymeric nature of proteins, these findings are likely applicable across diverse organisms.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Proteasome Endopeptidase Complex/metabolism",
+      "*Protein Folding",
+      "Humans",
+      "Proteolysis",
+      "Ubiquitination",
+      "Ubiquitin/metabolism",
+      "Proteome/metabolism/chemistry",
+      "Fibroblasts/metabolism",
+      "Mass Spectrometry",
+      "Proteotoxic Stress"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Jiang, Yang",
+        "Jain, Anushka",
+        "Ghaemmaghami, Sina",
+        "P O'Brien, Edward"
+      ],
+      "short_names": [
+        "Jiang Y",
+        "Jain A",
+        "Ghaemmaghami S",
+        "P O'Brien E"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-1100-9177",
+        "ORCID: 0000-0002-8696-2950",
+        "ORCID: 0000-0001-9809-3273"
+      ],
+      "affiliations": [
+        "Department of Chemistry, Pennsylvania State University, University Park, PA, USA.",
+        "National Synthesis Center for Emergence in the Molecular and Cellular Sciences, Pennsylvania State University, University Park, PA, USA.",
+        "Department of Biology, University of Rochester, New York, USA.",
+        "Department of Biology, University of Rochester, New York, USA.",
+        "University of Rochester Mass Spectrometry Resource Laboratory, New York, USA.",
+        "Department of Chemistry, Pennsylvania State University, University Park, PA, USA. epo2@psu.edu.",
+        "National Synthesis Center for Emergence in the Molecular and Cellular Sciences, Pennsylvania State University, University Park, PA, USA. epo2@psu.edu.",
+        "Institute for Computational and Data Sciences, Pennsylvania State University, University Park, PA, USA. epo2@psu.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Jiang, Yang",
+        "short_name": "Jiang Y",
+        "identifiers": [
+          "0000-0003-1100-9177"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Pennsylvania State University, University Park, PA, USA.",
+          "National Synthesis Center for Emergence in the Molecular and Cellular Sciences, Pennsylvania State University, University Park, PA, USA."
+        ]
+      },
+      {
+        "full_name": "Jain, Anushka",
+        "short_name": "Jain A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, University of Rochester, New York, USA."
+        ]
+      },
+      {
+        "full_name": "Ghaemmaghami, Sina",
+        "short_name": "Ghaemmaghami S",
+        "identifiers": [
+          "0000-0002-8696-2950"
+        ],
+        "affiliations": [
+          "Department of Biology, University of Rochester, New York, USA.",
+          "University of Rochester Mass Spectrometry Resource Laboratory, New York, USA."
+        ]
+      },
+      {
+        "full_name": "P O'Brien, Edward",
+        "short_name": "P O'Brien E",
+        "identifiers": [
+          "0000-0001-9809-3273"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Pennsylvania State University, University Park, PA, USA. epo2@psu.edu.",
+          "National Synthesis Center for Emergence in the Molecular and Cellular Sciences, Pennsylvania State University, University Park, PA, USA. epo2@psu.edu.",
+          "Institute for Computational and Data Sciences, Pennsylvania State University, University Park, PA, USA. epo2@psu.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Aug 25",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/24 05:37",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42778547",
+      "42039501",
+      "40779622",
+      "42039498",
+      "42400911",
+      "38470915",
+      "41387432",
+      "42039644",
+      "41000677",
+      "23954725",
+      "27698423",
+      "40085700",
+      "34321666",
+      "33705978",
+      "42039376",
+      "38341172",
+      "39623727",
+      "28416611",
+      "33406777",
+      "38797438",
+      "26669439",
+      "29394096",
+      "32483380",
+      "35654797",
+      "30429547",
+      "25782750",
+      "32882436",
+      "31825716",
+      "35740875",
+      "20834021",
+      "42267824",
+      "24882209",
+      "30634694",
+      "25919710",
+      "37734998",
+      "35704754",
+      "32118579",
+      "40645560",
+      "27448207",
+      "19041308",
+      "19962293",
+      "29723144",
+      "21815694",
+      "26260793",
+      "23530227",
+      "28121483",
+      "35037035",
+      "31738130",
+      "27630065",
+      "40795920",
+      "26851277",
+      "35163578",
+      "33634825",
+      "32645369",
+      "30989230",
+      "34358326",
+      "23341891",
+      "29861160",
+      "29929515",
+      "22318725",
+      "22506054",
+      "23608881",
+      "29430620",
+      "22426620",
+      "41247240",
+      "27173001",
+      "22494772",
+      "28947610",
+      "25250704",
+      "26383969",
+      "32513741",
+      "29777695",
+      "33960368",
+      "21890473",
+      "19158272",
+      "16371426",
+      "19841631",
+      "32668237",
+      "22812526",
+      "31375563",
+      "25859050",
+      "37201526",
+      "25888615",
+      "24121268",
+      "32868373",
+      "38296158",
+      "22219383",
+      "17941820",
+      "18558098",
+      "15853655",
+      "27350445",
+      "28052459",
+      "24743594",
+      "39618332",
+      "22389393",
+      "18155658",
+      "9499087",
+      "33382395",
+      "27932549",
+      "40132582"
+    ],
+    "review": [
+      "42778547",
+      "23954725",
+      "33406777",
+      "29394096",
+      "30634694",
+      "37734998",
+      "29723144",
+      "35037035",
+      "26851277",
+      "35163578",
+      "33634825",
+      "41247240",
+      "28947610",
+      "25250704",
+      "19841631",
+      "22812526",
+      "17941820",
+      "18558098",
+      "15853655"
+    ],
+    "pmc": [
+      "13601551"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-76875-9",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

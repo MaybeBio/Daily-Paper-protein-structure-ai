@@ -1,0 +1,373 @@
+{
+  "identity": {
+    "pmid": "42793187",
+    "doi": "10.3390/biom16091355",
+    "title": "Comparing YAP(WW1) and TAZ(WW): Similar Binding Sites but Different Stability and Conformational Dynamics."
+  },
+  "content": {
+    "abstract": "The two paralogs YAP and TAZ act through TEAD transcription factors and bind PPxY motif proteins in the Hippo pathway via WW domains. YAP has up to two WW domains, whereas TAZ has one. Because YAP(WW1) and TAZ(WW) are the most similar in sequence, they can be considered as corresponding modules in these two proteins. This study shows that, despite their similarity, they differ strongly in conformational stability and in how they bind flexible ligands. Nano-differential scanning fluorimetry, circular dichroism, and NMR indicate that both isolated domains populate partially folded or exchanging states in solution, but TAZ(WW) is more thermally stable and has a larger folded population. Peptide binding stabilizes both domains, producing sharper NMR signals. Surface plasmon resonance measurements with PPxY peptides show micromolar affinities and generally modest differences between YAP(WW1) and TAZ(WW), although these differences increase for conformationally plastic ligands. A high resolution LATS2:YAP(WW1) crystal structure and molecular dynamics simulations suggest that preorganized peptides bind more tightly and less selectively, while flexible peptides incur larger binding penalties that dynamic YAP(WW1) compensates more effectively. These observations indicate that differences in WW-domain stability contribute to subtle YAP/TAZ binding preferences despite conserved binding surfaces and evolutionary relatedness between the paralogs.",
+    "keywords": [
+      "PPxY motif",
+      "TAZ",
+      "WW domain",
+      "YAP",
+      "conformational flexibility",
+      "molecular recognition"
+    ],
+    "mesh_terms": [
+      "Binding Sites",
+      "Molecular Dynamics Simulation",
+      "*Transcription Factors/chemistry/metabolism",
+      "Humans",
+      "Protein Conformation",
+      "Protein Binding",
+      "Protein Stability",
+      "*Adaptor Proteins, Signal Transducing/chemistry/metabolism",
+      "YAP-Signaling Proteins",
+      "Trans-Activators/chemistry",
+      "WW Domains"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Merlen, Clara",
+        "Mesrouze, Yannick",
+        "Chau, Suzanne",
+        "Diehl, Benjamin A",
+        "Hinniger, Alexandra",
+        "Zimmermann, Catherine",
+        "Meyerhofer, Marco",
+        "Fontana, Patrizia",
+        "Groebke, Svenya",
+        "Hinrichs, Jurgen",
+        "Abdul Rahman, Wassim",
+        "Gutmann, Sascha",
+        "Fernandez, Cesar",
+        "Petrovic, Dusan",
+        "Chene, Patrick"
+      ],
+      "short_names": [
+        "Merlen C",
+        "Mesrouze Y",
+        "Chau S",
+        "Diehl BA",
+        "Hinniger A",
+        "Zimmermann C",
+        "Meyerhofer M",
+        "Fontana P",
+        "Groebke S",
+        "Hinrichs J",
+        "Abdul Rahman W",
+        "Gutmann S",
+        "Fernandez C",
+        "Petrovic D",
+        "Chene P"
+      ],
+      "auids": [
+        "ORCID: 0009-0002-2628-7268",
+        "ORCID: 0000-0002-9069-5293",
+        "ORCID: 0000-0002-1834-7358"
+      ],
+      "affiliations": [
+        "Oncology Disease Area, Novartis Biomedical Research, CH-4056 Basel, Switzerland.",
+        "Oncology Disease Area, Novartis Biomedical Research, CH-4056 Basel, Switzerland.",
+        "Discovery Sciences, Novartis Biomedical Research, CH-4056 Basel, Switzerland.",
+        "Global Discovery Chemistry, Novartis Biomedical Research, CH-4056 Basel, Switzerland.",
+        "Discovery Sciences, Novartis Biomedical Research, CH-4056 Basel, Switzerland.",
+        "Oncology Disease Area, Novartis Biomedical Research, CH-4056 Basel, Switzerland.",
+        "Oncology Disease Area, Novartis Biomedical Research, CH-4056 Basel, Switzerland.",
+        "Oncology Disease Area, Novartis Biomedical Research, CH-4056 Basel, Switzerland.",
+        "Oncology Disease Area, Novartis Biomedical Research, CH-4056 Basel, Switzerland.",
+        "Global Discovery Chemistry, Novartis Biomedical Research, CH-4056 Basel, Switzerland.",
+        "Oncology Disease Area, Novartis Biomedical Research, CH-4056 Basel, Switzerland.",
+        "Discovery Sciences, Novartis Biomedical Research, CH-4056 Basel, Switzerland.",
+        "Discovery Sciences, Novartis Biomedical Research, CH-4056 Basel, Switzerland.",
+        "Global Discovery Chemistry, Novartis Biomedical Research, CH-4056 Basel, Switzerland.",
+        "Oncology Disease Area, Novartis Biomedical Research, CH-4056 Basel, Switzerland."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Merlen, Clara",
+        "short_name": "Merlen C",
+        "identifiers": [],
+        "affiliations": [
+          "Oncology Disease Area, Novartis Biomedical Research, CH-4056 Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Mesrouze, Yannick",
+        "short_name": "Mesrouze Y",
+        "identifiers": [],
+        "affiliations": [
+          "Oncology Disease Area, Novartis Biomedical Research, CH-4056 Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Chau, Suzanne",
+        "short_name": "Chau S",
+        "identifiers": [],
+        "affiliations": [
+          "Discovery Sciences, Novartis Biomedical Research, CH-4056 Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Diehl, Benjamin A",
+        "short_name": "Diehl BA",
+        "identifiers": [
+          "0009-0002-2628-7268"
+        ],
+        "affiliations": [
+          "Global Discovery Chemistry, Novartis Biomedical Research, CH-4056 Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Hinniger, Alexandra",
+        "short_name": "Hinniger A",
+        "identifiers": [],
+        "affiliations": [
+          "Discovery Sciences, Novartis Biomedical Research, CH-4056 Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Zimmermann, Catherine",
+        "short_name": "Zimmermann C",
+        "identifiers": [],
+        "affiliations": [
+          "Oncology Disease Area, Novartis Biomedical Research, CH-4056 Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Meyerhofer, Marco",
+        "short_name": "Meyerhofer M",
+        "identifiers": [],
+        "affiliations": [
+          "Oncology Disease Area, Novartis Biomedical Research, CH-4056 Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Fontana, Patrizia",
+        "short_name": "Fontana P",
+        "identifiers": [],
+        "affiliations": [
+          "Oncology Disease Area, Novartis Biomedical Research, CH-4056 Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Groebke, Svenya",
+        "short_name": "Groebke S",
+        "identifiers": [],
+        "affiliations": [
+          "Oncology Disease Area, Novartis Biomedical Research, CH-4056 Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Hinrichs, Jürgen",
+        "short_name": "Hinrichs J",
+        "identifiers": [],
+        "affiliations": [
+          "Global Discovery Chemistry, Novartis Biomedical Research, CH-4056 Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Abdul Rahman, Wassim",
+        "short_name": "Abdul Rahman W",
+        "identifiers": [
+          "0000-0002-9069-5293"
+        ],
+        "affiliations": [
+          "Oncology Disease Area, Novartis Biomedical Research, CH-4056 Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Gutmann, Sascha",
+        "short_name": "Gutmann S",
+        "identifiers": [],
+        "affiliations": [
+          "Discovery Sciences, Novartis Biomedical Research, CH-4056 Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Fernández, César",
+        "short_name": "Fernández C",
+        "identifiers": [],
+        "affiliations": [
+          "Discovery Sciences, Novartis Biomedical Research, CH-4056 Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Petrović, Dušan",
+        "short_name": "Petrović D",
+        "identifiers": [
+          "0000-0002-1834-7358"
+        ],
+        "affiliations": [
+          "Global Discovery Chemistry, Novartis Biomedical Research, CH-4056 Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Chène, Patrick",
+        "short_name": "Chène P",
+        "identifiers": [],
+        "affiliations": [
+          "Oncology Disease Area, Novartis Biomedical Research, CH-4056 Basel, Switzerland."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biomolecules"
+    ],
+    "journal_abbrev": [
+      "Biomolecules"
+    ],
+    "pub_date": "2026 Sep 17",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/26 05:35",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42793187",
+      "21417403",
+      "34964176",
+      "21981024",
+      "20972459",
+      "25607641",
+      "38606592",
+      "41427739",
+      "34463254",
+      "35716775",
+      "29787761",
+      "30978352",
+      "26435515",
+      "28960584",
+      "21224387",
+      "28515457",
+      "31905227",
+      "25283809",
+      "29457552",
+      "39903968",
+      "31782549",
+      "35481651",
+      "39153238",
+      "41949975",
+      "30482112",
+      "31015482",
+      "41656414",
+      "26432639",
+      "41157900",
+      "39527559",
+      "24472438",
+      "38565949",
+      "28752853",
+      "40626835",
+      "41192283",
+      "23780915",
+      "40914169",
+      "36076260",
+      "39826667",
+      "33146905",
+      "36877351",
+      "9171351",
+      "24380865",
+      "42769416",
+      "39348982",
+      "36598329",
+      "25652178",
+      "31057295",
+      "38553612",
+      "26989177",
+      "22634283",
+      "29487715",
+      "39177727",
+      "22609812",
+      "31597702",
+      "27129148",
+      "32816858",
+      "31831627",
+      "41158074",
+      "37830584",
+      "28634071",
+      "28642262",
+      "32748155",
+      "24560909",
+      "36096997",
+      "41870210",
+      "30401838",
+      "32553712",
+      "40389325",
+      "41034521",
+      "35349740",
+      "40381686",
+      "29325286",
+      "14981252",
+      "29208682",
+      "39210147",
+      "11278422",
+      "20123905",
+      "42398167",
+      "29257682",
+      "35993908",
+      "40482695",
+      "27048650",
+      "31018586",
+      "30472188",
+      "7641887",
+      "29802201",
+      "10512838",
+      "41654508",
+      "38643945",
+      "29749524",
+      "38767621",
+      "41854080",
+      "40654305",
+      "9753456",
+      "25719868",
+      "41534572",
+      "33913810",
+      "38266816",
+      "32056132"
+    ],
+    "review": [
+      "42793187",
+      "29457552",
+      "30482112",
+      "41656414",
+      "41192283",
+      "36877351",
+      "39348982",
+      "25652178",
+      "31057295",
+      "22609812",
+      "41158074",
+      "32748155",
+      "36096997",
+      "32553712",
+      "35349740",
+      "40381686",
+      "29325286",
+      "31018586",
+      "7641887",
+      "29749524",
+      "40654305",
+      "25719868"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

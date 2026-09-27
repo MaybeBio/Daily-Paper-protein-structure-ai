@@ -1,0 +1,185 @@
+{
+  "identity": {
+    "pmid": "42786416",
+    "doi": "10.1002/prot.70176",
+    "title": "Method for the Determination of Dynamic Domains in Proteins From Structural Pairs and Conformational Ensembles."
+  },
+  "content": {
+    "abstract": "A straightforward method for the determination of dynamic domains from pairs of conformations or general conformational ensembles of proteins is presented. The method applies metric multi-dimensional scaling (MDS) to distance-differences or root-mean square-fluctuations of inter-atomic distances (RMSFIDs). The approach determines points in a low-dimensional space, each representing an amino-acid residue, where distances between the points give an approximation to the distance-differences, in the case of a pair of conformations, or RMSFIDs for an ensemble. This point-based representation enables top-down clustering methods to be used to determine dynamic domains. The two implementations, Pair-DD and Ensemble-DD, are demonstrated on idealized examples where domains move as perfect rigid bodies, on conformational pairs and ensembles derived from X-ray structures both monomeric and multimeric, and on trajectories derived from simulation methods. A parameter is proposed which can be used as a threshold for acceptance of dynamic domains to enable automatic assignment. The results show excellent correspondence with a well-established approach, but the method has the added advantage of being versatile in that it is applicable to both a pair of structures and an ensemble of conformations. Furthermore, for a pair of conformations, a one-dimensional MDS coordinate seems to be sufficient, meaning that the degree of association of a residue with a dynamic domain can be visualized in a simple plot.",
+    "keywords": [
+      "functional movement",
+      "hinge bending",
+      "protein domain",
+      "protein dynamics",
+      "protein motion"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Hayward, Steven"
+      ],
+      "short_names": [
+        "Hayward S"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-6959-2604"
+      ],
+      "affiliations": [
+        "Computational Biology Group, School of Computing Sciences, University East Anglia, Norwich, UK."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Hayward, Steven",
+        "short_name": "Hayward S",
+        "identifiers": [
+          "0000-0001-6959-2604"
+        ],
+        "affiliations": [
+          "Computational Biology Group, School of Computing Sciences, University East Anglia, Norwich, UK."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Proteins"
+    ],
+    "journal_abbrev": [
+      "Proteins"
+    ],
+    "pub_date": "2026 Sep 24",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/25 05:31",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42786416",
+      "23912807",
+      "10373009",
+      "10593256",
+      "21569575",
+      "29427936",
+      "36321557",
+      "15608373",
+      "39684679",
+      "19224393",
+      "26263302",
+      "24564500",
+      "24384868",
+      "24089719",
+      "15842167",
+      "35705565",
+      "36934808",
+      "7473739",
+      "37178169",
+      "39574675",
+      "30498328",
+      "24089737",
+      "11170204",
+      "38800659",
+      "32272894",
+      "39548730",
+      "2359125",
+      "37418278",
+      "20801888",
+      "38557679",
+      "9416612",
+      "19145244",
+      "42210062",
+      "29864281",
+      "30204435",
+      "9003182",
+      "29775635",
+      "34628062",
+      "15268287",
+      "26735936",
+      "29605935",
+      "42693585",
+      "31793290",
+      "20976204",
+      "18179702",
+      "26575576",
+      "17510963",
+      "17059826",
+      "39499823",
+      "38857126",
+      "31647645",
+      "26406154",
+      "42475469",
+      "30428663",
+      "26502070",
+      "12471596",
+      "1996325",
+      "28168752",
+      "25222115",
+      "42463482",
+      "15820977",
+      "32938768",
+      "32502383",
+      "27990729",
+      "24564893",
+      "42084449",
+      "39190324",
+      "26487681",
+      "33725442",
+      "26522428",
+      "38978607",
+      "26488417",
+      "30632745",
+      "15335837",
+      "28799290",
+      "38856158",
+      "38865109",
+      "19891472",
+      "17847091",
+      "37163076",
+      "19572703",
+      "30840442",
+      "11838236",
+      "24603188",
+      "24108626",
+      "42708699",
+      "16425239",
+      "31090275",
+      "37072659",
+      "38979147",
+      "21034466",
+      "19044859",
+      "33573010",
+      "34342282",
+      "24975328",
+      "42734541",
+      "18083189",
+      "22911557",
+      "19478996",
+      "2855369"
+    ],
+    "review": [
+      "42786416",
+      "10593256",
+      "36321557",
+      "31793290",
+      "30840442",
+      "11838236",
+      "31090275"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

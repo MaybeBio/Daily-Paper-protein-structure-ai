@@ -1,0 +1,226 @@
+{
+  "identity": {
+    "pmid": "42771608",
+    "doi": "10.1371/journal.pone.0358847",
+    "title": "All-atom molecular dynamics simulation of Cyclophilin A in complex with Sanglifehrin A."
+  },
+  "content": {
+    "abstract": "Cyclophilin A (CypA), a key peptidyl-prolyl cis/trans isomerase, plays a pivotal role in various biological processes and is a target for therapeutic intervention, particularly in viral and cancer-related diseases. This study explores the structural and dynamic effects of Sanglifehrin A (SangfA), a potent CypA inhibitor, using molecular dynamics (MD) simulation. All-atom MD simulations (100 ns) of apo CypA and its complex with SangfA were performed using GROMACS v2023. In addition to MD analyses, essential dynamics, clustering, secondary structure, and binding free energy were analyzed. SangfA binding induces a dual dynamic response: local rigidification of the active-site beta2-beta3 loop, residues 100-102 and 108-111 with a coil‑to‑beta-strand transition (beta-sheet content rises from 28.0% to 32.3%), alongside enhanced mobility in distal loops and a 1.1‑fold expansion of the conformational ensemble. Principal component analysis shows redistribution of motions from a single dominant mode (apo PC1 = 44.2%) to more diffuse fluctuations (holo PC1 = 30.4%), increasing configurational entropy. The ligand forms a dynamic hydrogen‑bond network (1-2 persistent bonds) anchored by Arg55 and hydrophobic contacts with Phe60 and Lys105, while Arg55 remains uninvolved. The computed binding free energy (DeltaG = -20.45 +/- 3.07 Kcal/mol) accords with picomolar potency. SangfA acts via conformational selection, stabilizing a pre‑existing CypA substate with augmented beta-structure and broader dynamics. This entropically driven mechanism challenges static inhibition paradigms. Future efforts should validate the beta2-beta3 loop transition experimentally and exploit the Lys105 contact to design next‑generation cyclophilin inhibitors.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Molecular Dynamics Simulation",
+      "*Cyclophilin A/chemistry/metabolism/antagonists & inhibitors",
+      "Protein Binding",
+      "*Lactones/chemistry/metabolism",
+      "Thermodynamics",
+      "Protein Structure, Secondary",
+      "Spiro Compounds"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Aliabadi, Zahra",
+        "Mohebbi, Alireza"
+      ],
+      "short_names": [
+        "Aliabadi Z",
+        "Mohebbi A"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-2489-585X"
+      ],
+      "affiliations": [
+        "Student Research Committee, School of Medicine, Golestan University of Medical Sciences, Gorgan, Iran.",
+        "Department of Virology, Iran University of Medical Sciences, Tehran, Iran.",
+        "Vista Aria Rena Gene Inc., Gorgan, Iran."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Aliabadi, Zahra",
+        "short_name": "Aliabadi Z",
+        "identifiers": [],
+        "affiliations": [
+          "Student Research Committee, School of Medicine, Golestan University of Medical Sciences, Gorgan, Iran."
+        ]
+      },
+      {
+        "full_name": "Mohebbi, Alireza",
+        "short_name": "Mohebbi A",
+        "identifiers": [
+          "0000-0003-2489-585X"
+        ],
+        "affiliations": [
+          "Department of Virology, Iran University of Medical Sciences, Tehran, Iran.",
+          "Vista Aria Rena Gene Inc., Gorgan, Iran."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "PloS one"
+    ],
+    "journal_abbrev": [
+      "PLoS One"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/22 21:36",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42771608",
+      "31793290",
+      "23312027",
+      "22891696",
+      "23332074",
+      "29852734",
+      "32471245",
+      "12071739",
+      "11390463",
+      "33164832",
+      "25537000",
+      "41780348",
+      "20920334",
+      "31351319",
+      "25119989",
+      "15229879",
+      "21194235",
+      "15772070",
+      "17225137",
+      "39775383",
+      "26264861",
+      "41759210",
+      "26553990",
+      "42217703",
+      "42441750",
+      "42144504",
+      "23519664",
+      "35913096",
+      "30947724",
+      "22342556",
+      "14653737",
+      "19908896",
+      "31830361",
+      "29655319",
+      "12881522",
+      "34286666",
+      "40632195",
+      "35981056",
+      "21245143",
+      "16307882",
+      "16267559",
+      "12730686",
+      "42118388",
+      "16682211",
+      "11943775",
+      "42112455",
+      "30198892",
+      "28241387",
+      "33289734",
+      "12656618",
+      "34533641",
+      "39769245",
+      "42771273",
+      "38954072",
+      "38281913",
+      "15311922",
+      "38943005",
+      "41621295",
+      "28075591",
+      "18175325",
+      "21593166",
+      "30047829",
+      "42083166",
+      "39076021",
+      "22451902",
+      "41780347",
+      "42275761",
+      "32659632",
+      "39227512",
+      "42561603",
+      "42372607",
+      "37948293",
+      "42555228",
+      "25579571",
+      "41713229",
+      "40792456",
+      "29737445",
+      "21963115",
+      "25923019",
+      "11929983",
+      "42011130",
+      "22345441",
+      "22643972",
+      "7990129",
+      "42376479",
+      "30634692",
+      "27071107",
+      "28076787",
+      "22316150",
+      "16737676",
+      "31315928",
+      "39298085",
+      "40696994",
+      "22132071",
+      "10698632",
+      "22906739",
+      "29516382",
+      "27699868",
+      "25060329",
+      "41828834"
+    ],
+    "review": [
+      "42771608",
+      "31793290"
+    ],
+    "pmc": [
+      "13596834"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://dx.plos.org/10.1371/journal.pone.0358847",
+        "provider": "Public Library of Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42771608/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-KRT+Group+A-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-4032",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

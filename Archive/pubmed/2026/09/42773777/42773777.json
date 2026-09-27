@@ -1,0 +1,339 @@
+{
+  "identity": {
+    "pmid": "42773777",
+    "doi": "10.1093/nar/gkag904",
+    "title": "VDJdb in 2026: boosting T-cell receptor recognition evidence using paratope embeddings and AI-based structure prediction."
+  },
+  "content": {
+    "abstract": "We present a significant update to VDJdb, introducing substantial enhancements to both the data content and the technical infrastructure. The integration of steadily accumulating T-cell receptor (TCR):epitope recognition data, together with advances in high-throughput experimental techniques, has expanded the landscape for machine learning-based prediction of TCR specificity, covering foreign antigens, neoantigens, and autoimmunity-associated epitopes. However, these advances have introduced new challenges, most notably in data quality-large-scale assays have heightened concerns about measurement reliability and exacerbated existing issues such as HLA and epitope coverage biases. To address these issues, we have adopted state-of-the-art artificial intelligence approaches, including protein sequence embeddings and AI-driven structure prediction. The updated VDJdb resource now features TCR specificity records annotated with embedding-derived paratope features, advanced noise filtering capabilities, and predicted three-dimensional protein structures. These improvements enable more comprehensive interrogation of TCR-epitope recognition and provide novel lines of evidence to support the reliability of high-throughput assay records, which are frequently limited by insufficient independent validation. VDJdb can be accessed at https://vdjdb.com and https://github.com/antigenomics/vdjdb-db.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Luppov, Daniil V",
+        "Koneva, Anna E",
+        "Bagaev, Dmitry V",
+        "Alexandrova, Anastasiia V",
+        "Vlasova, Elizaveta K",
+        "Chudakov, Dmitry M",
+        "Motozono, Chihiro",
+        "Sewell, Andrew K",
+        "Shugay, Mikhail"
+      ],
+      "short_names": [
+        "Luppov DV",
+        "Koneva AE",
+        "Bagaev DV",
+        "Alexandrova AV",
+        "Vlasova EK",
+        "Chudakov DM",
+        "Motozono C",
+        "Sewell AK",
+        "Shugay M"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-4993-8636",
+        "ORCID: 0009-0003-3181-8235",
+        "ORCID: 0000-0001-9655-7986",
+        "ORCID: 0000-0003-0430-790X",
+        "ORCID: 0000-0002-9027-742X",
+        "ORCID: 0000-0003-3194-3135",
+        "ORCID: 0000-0001-7826-7942"
+      ],
+      "affiliations": [
+        "Institute of Translational Medicine, Russian National Medical State University, 117513 Moscow, Russia.",
+        "Institute of Translational Medicine, Russian National Medical State University, 117513 Moscow, Russia.",
+        "Department of Genomics of Adaptive Immunity, Shemyakin-Ovchinnikov Institute of Bioorganic Chemistry RAS, 117997Moscow, Russia.",
+        "BIASlab, Department of Electrical Engineering, Eindhoven University of Technology, 5600 MBEindhoven, The Netherlands.",
+        "Institute of Translational Medicine, Russian National Medical State University, 117513 Moscow, Russia.",
+        "Institute of Translational Medicine, Russian National Medical State University, 117513 Moscow, Russia.",
+        "ITMO University, 197101Saint-Petersburg, Russia.",
+        "Institute of Translational Medicine, Russian National Medical State University, 117513 Moscow, Russia.",
+        "Department of Genomics of Adaptive Immunity, Shemyakin-Ovchinnikov Institute of Bioorganic Chemistry RAS, 117997Moscow, Russia.",
+        "Center for Molecular and Cellular Biology, 121205Moscow, Russia.",
+        "Abu Dhabi Stem Cells Center (ADSCC), 00000Abu Dhabi, United Arab Emirates.",
+        "Division of Human Molecular Immunology, Joint Research Center for Human Retrovirus Infection, Kumamoto University, 860-0811Kumamoto, Japan.",
+        "Division of Human Molecular Immunology, Joint Research Center for Human Retrovirus Infection, Kumamoto University, 860-0811Kumamoto, Japan.",
+        "Division of Infection and Immunity, Cardiff University School of Medicine, CF14 4XNCardiff, Wales, United Kingdom.",
+        "Institute of Translational Medicine, Russian National Medical State University, 117513 Moscow, Russia.",
+        "Department of Genomics of Adaptive Immunity, Shemyakin-Ovchinnikov Institute of Bioorganic Chemistry RAS, 117997Moscow, Russia.",
+        "Institute of Molecular Biology NAS RA, 0014Erevan, Armenia."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Luppov, Daniil V",
+        "short_name": "Luppov DV",
+        "identifiers": [
+          "0000-0002-4993-8636"
+        ],
+        "affiliations": [
+          "Institute of Translational Medicine, Russian National Medical State University, 117513 Moscow, Russia."
+        ]
+      },
+      {
+        "full_name": "Koneva, Anna E",
+        "short_name": "Koneva AE",
+        "identifiers": [
+          "0009-0003-3181-8235"
+        ],
+        "affiliations": [
+          "Institute of Translational Medicine, Russian National Medical State University, 117513 Moscow, Russia.",
+          "Department of Genomics of Adaptive Immunity, Shemyakin-Ovchinnikov Institute of Bioorganic Chemistry RAS, 117997Moscow, Russia."
+        ]
+      },
+      {
+        "full_name": "Bagaev, Dmitry V",
+        "short_name": "Bagaev DV",
+        "identifiers": [
+          "0000-0001-9655-7986"
+        ],
+        "affiliations": [
+          "BIASlab, Department of Electrical Engineering, Eindhoven University of Technology, 5600 MBEindhoven, The Netherlands."
+        ]
+      },
+      {
+        "full_name": "Alexandrova, Anastasiia V",
+        "short_name": "Alexandrova AV",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Translational Medicine, Russian National Medical State University, 117513 Moscow, Russia."
+        ]
+      },
+      {
+        "full_name": "Vlasova, Elizaveta K",
+        "short_name": "Vlasova EK",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Translational Medicine, Russian National Medical State University, 117513 Moscow, Russia.",
+          "ITMO University, 197101Saint-Petersburg, Russia."
+        ]
+      },
+      {
+        "full_name": "Chudakov, Dmitry M",
+        "short_name": "Chudakov DM",
+        "identifiers": [
+          "0000-0003-0430-790X"
+        ],
+        "affiliations": [
+          "Institute of Translational Medicine, Russian National Medical State University, 117513 Moscow, Russia.",
+          "Department of Genomics of Adaptive Immunity, Shemyakin-Ovchinnikov Institute of Bioorganic Chemistry RAS, 117997Moscow, Russia.",
+          "Center for Molecular and Cellular Biology, 121205Moscow, Russia.",
+          "Abu Dhabi Stem Cells Center (ADSCC), 00000Abu Dhabi, United Arab Emirates."
+        ]
+      },
+      {
+        "full_name": "Motozono, Chihiro",
+        "short_name": "Motozono C",
+        "identifiers": [
+          "0000-0002-9027-742X"
+        ],
+        "affiliations": [
+          "Division of Human Molecular Immunology, Joint Research Center for Human Retrovirus Infection, Kumamoto University, 860-0811Kumamoto, Japan."
+        ]
+      },
+      {
+        "full_name": "Sewell, Andrew K",
+        "short_name": "Sewell AK",
+        "identifiers": [
+          "0000-0003-3194-3135"
+        ],
+        "affiliations": [
+          "Division of Human Molecular Immunology, Joint Research Center for Human Retrovirus Infection, Kumamoto University, 860-0811Kumamoto, Japan.",
+          "Division of Infection and Immunity, Cardiff University School of Medicine, CF14 4XNCardiff, Wales, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Shugay, Mikhail",
+        "short_name": "Shugay M",
+        "identifiers": [
+          "0000-0001-7826-7942"
+        ],
+        "affiliations": [
+          "Institute of Translational Medicine, Russian National Medical State University, 117513 Moscow, Russia.",
+          "Department of Genomics of Adaptive Immunity, Shemyakin-Ovchinnikov Institute of Bioorganic Chemistry RAS, 117997Moscow, Russia.",
+          "Institute of Molecular Biology NAS RA, 0014Erevan, Armenia."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nucleic acids research"
+    ],
+    "journal_abbrev": [
+      "Nucleic Acids Res"
+    ],
+    "pub_date": "2026 Sep 23",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/23 05:35",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42773777",
+      "28977646",
+      "32623023",
+      "42410432",
+      "42475469",
+      "34252922",
+      "31588507",
+      "36072653",
+      "42649117",
+      "42467983",
+      "37649481",
+      "39221256",
+      "37983648",
+      "42568581",
+      "36907658",
+      "40036690",
+      "42768776",
+      "42583501",
+      "37847663",
+      "37094220",
+      "33346826",
+      "39052940",
+      "30399156",
+      "36303787",
+      "39007599",
+      "38070156",
+      "38515756",
+      "34845450",
+      "40463065",
+      "42473046",
+      "39883514",
+      "41939694",
+      "40549427",
+      "42597681",
+      "36929656",
+      "33952199",
+      "42700152",
+      "40662810",
+      "26185983",
+      "42043567",
+      "21846404",
+      "39988670",
+      "42482119",
+      "35601486",
+      "41479904",
+      "36341448",
+      "41225487",
+      "41256614",
+      "12517961",
+      "40628266",
+      "42620522",
+      "40948755",
+      "40681176",
+      "42315254",
+      "40702702",
+      "38711371",
+      "40368275",
+      "31057550",
+      "31741011",
+      "42611956",
+      "40225296",
+      "37133356",
+      "39656887",
+      "40741879",
+      "33036834",
+      "32184781",
+      "42745543",
+      "39778580",
+      "41841601",
+      "41890808",
+      "38671743",
+      "36477794",
+      "35758821",
+      "41280903",
+      "40378554",
+      "31849987",
+      "33920780",
+      "38791470",
+      "40101113",
+      "40553344",
+      "41410516",
+      "42316179",
+      "42762864",
+      "40662786",
+      "37232386",
+      "41590268",
+      "41822751",
+      "41536693",
+      "42265149",
+      "41534901",
+      "34455212",
+      "42292401",
+      "39231422",
+      "37175454",
+      "36561755",
+      "32983088",
+      "42416807",
+      "41100668",
+      "36661395",
+      "21819547"
+    ],
+    "review": [
+      "42773777",
+      "42410432",
+      "42467983",
+      "42583501",
+      "42473046",
+      "41939694",
+      "40549427",
+      "42597681",
+      "42700152",
+      "42043567",
+      "39988670",
+      "42620522",
+      "42315254",
+      "31741011",
+      "42611956",
+      "40741879",
+      "41841601",
+      "40101113",
+      "41410516",
+      "42316179",
+      "41590268",
+      "42292401",
+      "37175454"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-HLA-DQB1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-4044",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkag904",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

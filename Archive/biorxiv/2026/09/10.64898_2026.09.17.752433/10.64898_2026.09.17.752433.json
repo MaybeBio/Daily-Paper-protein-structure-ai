@@ -1,0 +1,462 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.17.752433",
+  "title": "Leakage-controlled benchmarking reveals generalization limits of deep learning for protein–ligand binding affinity prediction",
+  "doi": "10.64898/2026.09.17.752433",
+  "abstract": "To address widespread data leakage and inconsistent evaluation in protein–ligand affinity prediction, we introduce PLABench, a leakage-controlled and target-centric benchmarking framework that enables standardized comparison across sequence- and structure-based models. We benchmark nine deep learning methods across blind CASP16 targets, leakage-controlled ChEMBL35 sets, and established Davis and KIBA datasets under rigorous data split settings, standardizing structural input via AlphaFold3 to ensure fair comparison. Although pretrained structure-based models achieve the highest overall accuracy, they show severe target-dependent variability, and increasing structural fidelity from predicted to experimental conformations yields no consistent gains. Meanwhile, sequence-based approaches surpass some structure-based methods on select targets, and protein family-level evaluations reveal uneven performance across families and substantial inter-model complementarity obscured by aggregate metrics. These findings demonstrate that training scale and structural input alone cannot guarantee cross-target generalization, highlighting the need for context-aware interaction modeling. PLABench provides an extensible open-source platform to facilitate these developments.",
+  "authors": [
+    "Lyuwei Wang",
+    "Jianlin Cheng"
+  ],
+  "published_date": "2026-09-23",
+  "updated_date": "2026-09-23T22:10:17Z",
+  "journal": "bioRxiv",
+  "category": "Bioinformatics",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.17.752433",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.17.752433.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [
+    "Bioinformatics"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Bioinformatics",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            26
+          ]
+        ],
+        "date-time": "2026-09-26T17:58:52Z",
+        "timestamp": 1790445532405,
+        "version": "4.1.0"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            23
+          ]
+        ]
+      },
+      "group-title": "Bioinformatics",
+      "reference-count": 39,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                23
+              ]
+            ],
+            "date-time": "2026-09-23T00:00:00Z",
+            "timestamp": 1790121600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            23
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>To address widespread data leakage and inconsistent evaluation in protein–ligand affinity prediction, we introduce PLABench, a leakage-controlled and target-centric benchmarking framework that enables standardized comparison across sequence- and structure-based models. We benchmark nine deep learning methods across blind CASP16 targets, leakage-controlled ChEMBL35 sets, and established Davis and KIBA datasets under rigorous data split settings, standardizing structural input via AlphaFold3 to ensure fair comparison. Although pretrained structure-based models achieve the highest overall accuracy, they show severe target-dependent variability, and increasing structural fidelity from predicted to experimental conformations yields no consistent gains. Meanwhile, sequence-based approaches surpass some structure-based methods on select targets, and protein family-level evaluations reveal uneven performance across families and substantial inter-model complementarity obscured by aggregate metrics. These findings demonstrate that training scale and structural input alone cannot guarantee cross-target generalization, highlighting the need for context-aware interaction modeling. PLABench provides an extensible open-source platform to facilitate these developments.</jats:p>",
+      "DOI": "10.64898/2026.09.17.752433",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            23
+          ]
+        ],
+        "date-time": "2026-09-23T22:10:17Z",
+        "timestamp": 1790201417000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Leakage-controlled benchmarking reveals generalization limits of deep learning for protein–ligand binding affinity prediction"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0003-7678-4972",
+          "authenticated-orcid": false,
+          "given": "Lyuwei",
+          "family": "Wang",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Electrical Engineering and Computer Science, University of Missouri, Columbia, MO 65211, U.S.A"
+            },
+            {
+              "name": "NextGen Precision Health, University of Missouri, Columbia, MO 65211, U.S.A"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-0305-2853",
+          "authenticated-orcid": false,
+          "given": "Jianlin",
+          "family": "Cheng",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Electrical Engineering and Computer Science, University of Missouri, Columbia, MO 65211, U.S.A"
+            },
+            {
+              "name": "NextGen Precision Health, University of Missouri, Columbia, MO 65211, U.S.A"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "reference": [
+        {
+          "key": "2026092610351585000_2026.09.17.752433v1.1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Mak, K.-K. , Wong, Y.-H. & Pichika, M. R . Artificial intelligence in drug discovery and development. Drug discovery and evaluation: safety and pharmacokinetic assays 1461–1498 (2024).",
+          "DOI": "10.1007/978-3-031-35529-5_92"
+        },
+        {
+          "key": "2026092610351585000_2026.09.17.752433v1.2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nrd.2017.232"
+        },
+        {
+          "key": "2026092610351585000_2026.09.17.752433v1.3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/pmic.200900458"
+        },
+        {
+          "key": "2026092610351585000_2026.09.17.752433v1.4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/bioinformatics/bty593"
+        },
+        {
+          "key": "2026092610351585000_2026.09.17.752433v1.5",
+          "doi-asserted-by": "crossref",
+          "first-page": "i105",
+          "DOI": "10.1093/bioinformatics/btaf238",
+          "article-title": "MixingDTA: improved drug–target affinity prediction by extending mixup with guilt-by-association",
+          "volume": "41",
+          "year": "2025",
+          "journal-title": "Bioinformatics"
+        },
+        {
+          "key": "2026092610351585000_2026.09.17.752433v1.6",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Passaro, S. , et al. Boltz-2: Towards accurate and efficient binding affinity prediction. BioRxiv (2025).",
+          "DOI": "10.1101/2025.06.14.659707"
+        },
+        {
+          "key": "2026092610351585000_2026.09.17.752433v1.7",
+          "doi-asserted-by": "crossref",
+          "first-page": "i198",
+          "DOI": "10.1093/bioinformatics/btaf187",
+          "article-title": "Flowdock: Geometric flow matching for generative protein–ligand docking and affinity prediction",
+          "volume": "41",
+          "year": "2025",
+          "journal-title": "Bioinformatics"
+        },
+        {
+          "key": "2026092610351585000_2026.09.17.752433v1.8",
+          "first-page": "e1465",
+          "article-title": "Machine-learning scoring functions for structure-based drug lead optimization",
+          "volume": "10",
+          "year": "2020",
+          "journal-title": "Wiley Interdisciplinary Reviews: Computational Molecular Science"
+        },
+        {
+          "key": "2026092610351585000_2026.09.17.752433v1.9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/ci500080q"
+        },
+        {
+          "key": "2026092610351585000_2026.09.17.752433v1.10",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/acs.jcim.8b00545"
+        },
+        {
+          "key": "2026092610351585000_2026.09.17.752433v1.11",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/ci200082t"
+        },
+        {
+          "key": "2026092610351585000_2026.09.17.752433v1.12",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Cremer, J. , et al. Flowr. root: a flow matching based foundation model for joint multi-purpose structure-aware 3d ligand generation and affinity prediction. arXiv preprint arXiv:2510.02578 (2025).",
+          "DOI": "10.1038/s41467-026-74130-9"
+        },
+        {
+          "key": "2026092610351585000_2026.09.17.752433v1.13",
+          "doi-asserted-by": "crossref",
+          "first-page": "286",
+          "DOI": "10.1002/prot.70010",
+          "article-title": "Graph_RG: Dominating casp16’s small molecule affinity prediction subcategory—a pose-free framework for billion-scale virtual screening",
+          "volume": "94",
+          "year": "2026",
+          "journal-title": "Proteins: Structure, Function, and Bioinformatics"
+        },
+        {
+          "key": "2026092610351585000_2026.09.17.752433v1.14",
+          "doi-asserted-by": "crossref",
+          "first-page": "3480",
+          "DOI": "10.1021/acs.jcim.5c02591",
+          "article-title": "BA-Pred and RMSD-Pred: Integrated graph neural network models for accurate protein–ligand binding affinity and binding pose prediction",
+          "volume": "66",
+          "year": "2026",
+          "journal-title": "Journal of Chemical Information and Modeling"
+        },
+        {
+          "key": "2026092610351585000_2026.09.17.752433v1.15",
+          "doi-asserted-by": "crossref",
+          "first-page": "btae413",
+          "DOI": "10.1093/bioinformatics/btae413",
+          "article-title": "Surface-based multimodal protein–ligand binding affinity prediction",
+          "volume": "40",
+          "year": "2024",
+          "journal-title": "Bioinformatics"
+        },
+        {
+          "key": "2026092610351585000_2026.09.17.752433v1.16",
+          "doi-asserted-by": "crossref",
+          "first-page": "108310",
+          "DOI": "10.1016/j.compbiolchem.2024.108310",
+          "article-title": "Improving binding affinity prediction by emphasizing local features of drug and protein",
+          "volume": "115",
+          "year": "2025",
+          "journal-title": "Computational Biology and Chemistry"
+        },
+        {
+          "key": "2026092610351585000_2026.09.17.752433v1.17",
+          "doi-asserted-by": "crossref",
+          "first-page": "1256",
+          "DOI": "10.1038/s42256-022-00580-7",
+          "article-title": "Large-scale chemical language representations capture molecular structure and properties",
+          "volume": "4",
+          "year": "2022",
+          "journal-title": "Nature Machine Intelligence"
+        },
+        {
+          "key": "2026092610351585000_2026.09.17.752433v1.18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.ads0018"
+        },
+        {
+          "key": "2026092610351585000_2026.09.17.752433v1.19",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/S41586-024-07487-W"
+        },
+        {
+          "key": "2026092610351585000_2026.09.17.752433v1.20",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/S41586-021-03819-2"
+        },
+        {
+          "key": "2026092610351585000_2026.09.17.752433v1.21",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.ade2574"
+        },
+        {
+          "key": "2026092610351585000_2026.09.17.752433v1.22",
+          "doi-asserted-by": "crossref",
+          "first-page": "195",
+          "DOI": "10.1038/s42256-024-00792-z",
+          "article-title": "State-specific protein– ligand complex structure prediction with a multiscale deep generative model",
+          "volume": "6",
+          "year": "2024",
+          "journal-title": "Nature Machine Intelligence"
+        },
+        {
+          "key": "2026092610351585000_2026.09.17.752433v1.23",
+          "unstructured": "Jing, B. , Eismann, S. , Soni, P. N. & Dror, R. O. Equivariant graph neural networks for 3d macromolecular structure. arXiv preprint arXiv:2106.03843 (2021)."
+        },
+        {
+          "key": "2026092610351585000_2026.09.17.752433v1.24",
+          "first-page": "7112",
+          "article-title": "ProtTrans: toward understanding the language of life through self-supervised learning",
+          "volume": "44",
+          "year": "2021",
+          "journal-title": "IEEE transactions on pattern analysis and machine intelligence"
+        },
+        {
+          "key": "2026092610351585000_2026.09.17.752433v1.25",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/acs.accounts.6b00491"
+        },
+        {
+          "key": "2026092610351585000_2026.09.17.752433v1.26",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nbt.1990"
+        },
+        {
+          "key": "2026092610351585000_2026.09.17.752433v1.27",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/ci400709d"
+        },
+        {
+          "key": "2026092610351585000_2026.09.17.752433v1.28",
+          "doi-asserted-by": "crossref",
+          "first-page": "249",
+          "DOI": "10.1002/prot.70061",
+          "article-title": "Assessment of pharmaceutical protein–ligand pose and affinity predictions in CASP16",
+          "volume": "94",
+          "year": "2026",
+          "journal-title": "Proteins: Structure, Function, and Bioinformatics"
+        },
+        {
+          "key": "2026092610351585000_2026.09.17.752433v1.29",
+          "doi-asserted-by": "crossref",
+          "first-page": "11",
+          "DOI": "10.1273/cbij.26.11",
+          "article-title": "ChEMBL-derived benchmark dataset and computational results of boltz-2-based binding affinity prediction",
+          "volume": "26",
+          "year": "2026",
+          "journal-title": "Chem-Bio Informatics Journal"
+        },
+        {
+          "key": "2026092610351585000_2026.09.17.752433v1.30",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/gkv315"
+        },
+        {
+          "key": "2026092610351585000_2026.09.17.752433v1.31",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/gkad1004"
+        },
+        {
+          "key": "2026092610351585000_2026.09.17.752433v1.32",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nrd.2016.230"
+        },
+        {
+          "key": "2026092610351585000_2026.09.17.752433v1.33",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/bioinformatics/btaa921"
+        },
+        {
+          "key": "2026092610351585000_2026.09.17.752433v1.34",
+          "unstructured": "Huang, K. et al. Therapeutics data commons: Machine learning datasets and tasks for drug discovery and development. arXiv preprint arXiv:2102.09548 (2021)."
+        },
+        {
+          "key": "2026092610351585000_2026.09.17.752433v1.35",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/28.1.235"
+        },
+        {
+          "key": "2026092610351585000_2026.09.17.752433v1.36",
+          "doi-asserted-by": "crossref",
+          "first-page": "btae319",
+          "DOI": "10.1093/bioinformatics/btae319",
+          "article-title": "DEAttentionDTA: protein–ligand binding affinity prediction based on dynamic embedding and self-attention",
+          "volume": "40",
+          "year": "2024",
+          "journal-title": "Bioinformatics"
+        },
+        {
+          "key": "2026092610351585000_2026.09.17.752433v1.37",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/jcc.23231"
+        },
+        {
+          "key": "2026092610351585000_2026.09.17.752433v1.38",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5281/zenodo.22716174"
+        },
+        {
+          "key": "2026092610351585000_2026.09.17.752433v1.39",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5281/zenodo.22782934"
+        }
+      ],
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.09.17.752433",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            26
+          ]
+        ],
+        "date-time": "2026-09-26T17:35:25Z",
+        "timestamp": 1790444125000
+      },
+      "score": 50.7064,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.09.17.752433"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            23
+          ]
+        ]
+      },
+      "references-count": 39,
+      "URL": "https://doi.org/10.64898/2026.09.17.752433",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            23
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

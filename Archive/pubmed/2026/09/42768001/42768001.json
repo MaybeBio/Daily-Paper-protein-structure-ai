@@ -1,0 +1,456 @@
+{
+  "identity": {
+    "pmid": "42768001",
+    "doi": "10.1038/s41467-026-76730-x",
+    "title": "Structure-guided allosteric modulation of the delta opioid receptor."
+  },
+  "content": {
+    "abstract": "Opioid analgesics remain essential for pain management but are associated with significant adverse effects, including respiratory depression, tolerance, and dependence. The delta-opioid receptor (deltaOR) represents a promising therapeutic target for developing safer opioid analgesics with reduced adverse effects compared to conventional mu-opioid receptor-targeting drugs. Positive allosteric modulators (PAMs) offer advantages over direct agonists by enhancing endogenous opioid signaling while preserving natural spatiotemporal activation patterns, potentially avoiding tolerance and dependence issues. Here, we present high-resolution cryo-EM structures of deltaOR complexed with the peptide agonist DADLE and the PAM MIPS3614, revealing a lipid-facing allosteric binding site formed by transmembrane helices 2, 3, and 4. MIPS3614 stabilizes the active receptor conformation through a critical hydrogen bond with residue N131(3.35) in the conserved sodium binding site, a key regulatory region controlling GPCR activation. Comprehensive mutagenesis, molecular dynamics simulations, and structure-activity relationships validate this proposed mechanism. Structure-guided optimization yields MIPS3983 with enhanced binding affinity and retained cooperativity. Our findings describe a molecular basis for deltaOR allosteric modulation and provide structural information relevant to the rational design of opioid therapeutics with improved safety profiles.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Receptors, Opioid, delta/metabolism/chemistry/genetics/agonists/ultrastructure",
+      "Allosteric Regulation",
+      "Allosteric Site",
+      "Humans",
+      "Binding Sites",
+      "Cryoelectron Microscopy",
+      "Enkephalin, Leucine/chemistry/metabolism",
+      "Animals",
+      "Analgesics, Opioid/chemistry/pharmacology",
+      "Protein Conformation",
+      "Protein Binding"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Mobbs, Jesse I",
+        "Nguyen, M Deborah",
+        "Deo, Owindeep",
+        "Bartuzi, Damian",
+        "Venugopal, Hariprasad",
+        "Alvi, Sadia",
+        "Pham, Vi",
+        "Barnes, Nicholas",
+        "Christopoulos, Arthur",
+        "Poole, Daniel P",
+        "Carbone, Simona E",
+        "Jorg, Manuela",
+        "Capuano, Ben",
+        "Carlsson, Jens",
+        "Gondin, Arisbel B",
+        "Scammells, Peter J",
+        "Valant, Celine",
+        "Thal, David M"
+      ],
+      "short_names": [
+        "Mobbs JI",
+        "Nguyen MD",
+        "Deo O",
+        "Bartuzi D",
+        "Venugopal H",
+        "Alvi S",
+        "Pham V",
+        "Barnes N",
+        "Christopoulos A",
+        "Poole DP",
+        "Carbone SE",
+        "Jorg M",
+        "Capuano B",
+        "Carlsson J",
+        "Gondin AB",
+        "Scammells PJ",
+        "Valant C",
+        "Thal DM"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-6979-1427",
+        "ORCID: 0000-0001-9927-376X",
+        "ORCID: 0000-0001-5230-2973",
+        "ORCID: 0000-0002-8363-1793",
+        "ORCID: 0000-0003-4442-3294",
+        "ORCID: 0000-0002-6168-8422",
+        "ORCID: 0000-0002-3116-373X",
+        "ORCID: 0000-0003-4623-2977",
+        "ORCID: 0000-0002-1751-4062",
+        "ORCID: 0000-0003-2930-895X",
+        "ORCID: 0000-0002-2509-7465",
+        "ORCID: 0000-0002-0325-2524"
+      ],
+      "affiliations": [
+        "Monash Institute of Pharmaceutical Sciences, Parkville, VIC, Australia.",
+        "ARC Centre for Cryo-Electron Microscopy of Membrane Proteins, Monash Institute of Pharmaceutical Sciences, Parkville, VIC, Australia.",
+        "Monash Institute of Pharmaceutical Sciences, Parkville, VIC, Australia.",
+        "Monash Institute of Pharmaceutical Sciences, Parkville, VIC, Australia.",
+        "Science for Life Laboratory, Department of Cell and Molecular Biology, Uppsala University, Uppsala, Sweden.",
+        "Department of Synthesis and Chemical Technology of Pharmaceutical Substances with Computer Modeling Laboratory, Faculty of Pharmacy, Medical University of Lublin, Lublin, Poland.",
+        "Ramaciotti Centre for Cryo-Electron Microscopy, Monash University, Clayton, VIC, Australia.",
+        "Monash Institute of Pharmaceutical Sciences, Parkville, VIC, Australia.",
+        "Monash Institute of Pharmaceutical Sciences, Parkville, VIC, Australia.",
+        "Monash Institute of Pharmaceutical Sciences, Parkville, VIC, Australia.",
+        "Monash Institute of Pharmaceutical Sciences, Parkville, VIC, Australia.",
+        "ARC Centre for Cryo-Electron Microscopy of Membrane Proteins, Monash Institute of Pharmaceutical Sciences, Parkville, VIC, Australia.",
+        "Monash Institute of Pharmaceutical Sciences, Parkville, VIC, Australia.",
+        "Monash Institute of Pharmaceutical Sciences, Parkville, VIC, Australia.",
+        "Monash Institute of Pharmaceutical Sciences, Parkville, VIC, Australia.",
+        "Monash Institute of Pharmaceutical Sciences, Parkville, VIC, Australia.",
+        "Science for Life Laboratory, Department of Cell and Molecular Biology, Uppsala University, Uppsala, Sweden.",
+        "Monash Institute of Pharmaceutical Sciences, Parkville, VIC, Australia. arisbel.batista@monash.edu.",
+        "Monash Institute of Pharmaceutical Sciences, Parkville, VIC, Australia. peter.scammells@monash.edu.",
+        "Monash Institute of Pharmaceutical Sciences, Parkville, VIC, Australia. celine.valant@monash.edu.",
+        "ARC Centre for Cryo-Electron Microscopy of Membrane Proteins, Monash Institute of Pharmaceutical Sciences, Parkville, VIC, Australia. celine.valant@monash.edu.",
+        "Monash Institute of Pharmaceutical Sciences, Parkville, VIC, Australia. david.thal@monash.edu.",
+        "ARC Centre for Cryo-Electron Microscopy of Membrane Proteins, Monash Institute of Pharmaceutical Sciences, Parkville, VIC, Australia. david.thal@monash.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Mobbs, Jesse I",
+        "short_name": "Mobbs JI",
+        "identifiers": [
+          "0000-0001-6979-1427"
+        ],
+        "affiliations": [
+          "Monash Institute of Pharmaceutical Sciences, Parkville, VIC, Australia.",
+          "ARC Centre for Cryo-Electron Microscopy of Membrane Proteins, Monash Institute of Pharmaceutical Sciences, Parkville, VIC, Australia."
+        ]
+      },
+      {
+        "full_name": "Nguyen, M Deborah",
+        "short_name": "Nguyen MD",
+        "identifiers": [],
+        "affiliations": [
+          "Monash Institute of Pharmaceutical Sciences, Parkville, VIC, Australia."
+        ]
+      },
+      {
+        "full_name": "Deo, Owindeep",
+        "short_name": "Deo O",
+        "identifiers": [],
+        "affiliations": [
+          "Monash Institute of Pharmaceutical Sciences, Parkville, VIC, Australia."
+        ]
+      },
+      {
+        "full_name": "Bartuzi, Damian",
+        "short_name": "Bartuzi D",
+        "identifiers": [
+          "0000-0001-9927-376X"
+        ],
+        "affiliations": [
+          "Science for Life Laboratory, Department of Cell and Molecular Biology, Uppsala University, Uppsala, Sweden.",
+          "Department of Synthesis and Chemical Technology of Pharmaceutical Substances with Computer Modeling Laboratory, Faculty of Pharmacy, Medical University of Lublin, Lublin, Poland."
+        ]
+      },
+      {
+        "full_name": "Venugopal, Hariprasad",
+        "short_name": "Venugopal H",
+        "identifiers": [
+          "0000-0001-5230-2973"
+        ],
+        "affiliations": [
+          "Ramaciotti Centre for Cryo-Electron Microscopy, Monash University, Clayton, VIC, Australia."
+        ]
+      },
+      {
+        "full_name": "Alvi, Sadia",
+        "short_name": "Alvi S",
+        "identifiers": [
+          "0000-0002-8363-1793"
+        ],
+        "affiliations": [
+          "Monash Institute of Pharmaceutical Sciences, Parkville, VIC, Australia."
+        ]
+      },
+      {
+        "full_name": "Pham, Vi",
+        "short_name": "Pham V",
+        "identifiers": [],
+        "affiliations": [
+          "Monash Institute of Pharmaceutical Sciences, Parkville, VIC, Australia."
+        ]
+      },
+      {
+        "full_name": "Barnes, Nicholas",
+        "short_name": "Barnes N",
+        "identifiers": [],
+        "affiliations": [
+          "Monash Institute of Pharmaceutical Sciences, Parkville, VIC, Australia."
+        ]
+      },
+      {
+        "full_name": "Christopoulos, Arthur",
+        "short_name": "Christopoulos A",
+        "identifiers": [
+          "0000-0003-4442-3294"
+        ],
+        "affiliations": [
+          "Monash Institute of Pharmaceutical Sciences, Parkville, VIC, Australia.",
+          "ARC Centre for Cryo-Electron Microscopy of Membrane Proteins, Monash Institute of Pharmaceutical Sciences, Parkville, VIC, Australia."
+        ]
+      },
+      {
+        "full_name": "Poole, Daniel P",
+        "short_name": "Poole DP",
+        "identifiers": [
+          "0000-0002-6168-8422"
+        ],
+        "affiliations": [
+          "Monash Institute of Pharmaceutical Sciences, Parkville, VIC, Australia."
+        ]
+      },
+      {
+        "full_name": "Carbone, Simona E",
+        "short_name": "Carbone SE",
+        "identifiers": [],
+        "affiliations": [
+          "Monash Institute of Pharmaceutical Sciences, Parkville, VIC, Australia."
+        ]
+      },
+      {
+        "full_name": "Jörg, Manuela",
+        "short_name": "Jörg M",
+        "identifiers": [
+          "0000-0002-3116-373X"
+        ],
+        "affiliations": [
+          "Monash Institute of Pharmaceutical Sciences, Parkville, VIC, Australia."
+        ]
+      },
+      {
+        "full_name": "Capuano, Ben",
+        "short_name": "Capuano B",
+        "identifiers": [],
+        "affiliations": [
+          "Monash Institute of Pharmaceutical Sciences, Parkville, VIC, Australia."
+        ]
+      },
+      {
+        "full_name": "Carlsson, Jens",
+        "short_name": "Carlsson J",
+        "identifiers": [
+          "0000-0003-4623-2977"
+        ],
+        "affiliations": [
+          "Science for Life Laboratory, Department of Cell and Molecular Biology, Uppsala University, Uppsala, Sweden."
+        ]
+      },
+      {
+        "full_name": "Gondin, Arisbel B",
+        "short_name": "Gondin AB",
+        "identifiers": [
+          "0000-0002-1751-4062"
+        ],
+        "affiliations": [
+          "Monash Institute of Pharmaceutical Sciences, Parkville, VIC, Australia. arisbel.batista@monash.edu."
+        ]
+      },
+      {
+        "full_name": "Scammells, Peter J",
+        "short_name": "Scammells PJ",
+        "identifiers": [
+          "0000-0003-2930-895X"
+        ],
+        "affiliations": [
+          "Monash Institute of Pharmaceutical Sciences, Parkville, VIC, Australia. peter.scammells@monash.edu."
+        ]
+      },
+      {
+        "full_name": "Valant, Celine",
+        "short_name": "Valant C",
+        "identifiers": [
+          "0000-0002-2509-7465"
+        ],
+        "affiliations": [
+          "Monash Institute of Pharmaceutical Sciences, Parkville, VIC, Australia. celine.valant@monash.edu.",
+          "ARC Centre for Cryo-Electron Microscopy of Membrane Proteins, Monash Institute of Pharmaceutical Sciences, Parkville, VIC, Australia. celine.valant@monash.edu."
+        ]
+      },
+      {
+        "full_name": "Thal, David M",
+        "short_name": "Thal DM",
+        "identifiers": [
+          "0000-0002-0325-2524"
+        ],
+        "affiliations": [
+          "Monash Institute of Pharmaceutical Sciences, Parkville, VIC, Australia. david.thal@monash.edu.",
+          "ARC Centre for Cryo-Electron Microscopy of Membrane Proteins, Monash Institute of Pharmaceutical Sciences, Parkville, VIC, Australia. david.thal@monash.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Aug 22",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/22 05:37",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42768001",
+      "41280124",
+      "42082465",
+      "41671375",
+      "42362532",
+      "40082451",
+      "31855381",
+      "41279289",
+      "40679069",
+      "26841170",
+      "33846240",
+      "34755545",
+      "25489080",
+      "28182309",
+      "39661492",
+      "40623180",
+      "34885825",
+      "40745154",
+      "25047277",
+      "39333070",
+      "29233847",
+      "28368571",
+      "8226821",
+      "28419415",
+      "20977461",
+      "23754417",
+      "24413399",
+      "25901762",
+      "8863845",
+      "25073009",
+      "38961287",
+      "36073904",
+      "42777063",
+      "31842282",
+      "24460691",
+      "30710458",
+      "40378294",
+      "28364251",
+      "28502978",
+      "22489047",
+      "41145026",
+      "40159181",
+      "39615602",
+      "35164182",
+      "9271350",
+      "8058754",
+      "39827063",
+      "8618916",
+      "32221355",
+      "33187107",
+      "42720491",
+      "32389635",
+      "26517559",
+      "17377963",
+      "32857187",
+      "31807708",
+      "39384768",
+      "8632752",
+      "8621408",
+      "27744679",
+      "38991032",
+      "41757031",
+      "23818586",
+      "38740791",
+      "35637350",
+      "8913373",
+      "29466721",
+      "42250290",
+      "36099150",
+      "17897075",
+      "24084045",
+      "9435189",
+      "42115595",
+      "16584118",
+      "40925963",
+      "41879197",
+      "39975287",
+      "34685631",
+      "16375901",
+      "19416973",
+      "39070616",
+      "35412886",
+      "18639745",
+      "2563375",
+      "10585498",
+      "16682504",
+      "11038249",
+      "38382524",
+      "41880505",
+      "16159882",
+      "37248726",
+      "42372394",
+      "9700759",
+      "36868791",
+      "9736649",
+      "34433090",
+      "40451369",
+      "26347990",
+      "8284266",
+      "32238139"
+    ],
+    "review": [
+      "42768001",
+      "28368571",
+      "28419415",
+      "24460691",
+      "39615602",
+      "39827063",
+      "29466721",
+      "16584118",
+      "40925963",
+      "42372394",
+      "32238139"
+    ],
+    "pmc": [
+      "13594213"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-76730-x",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42768001/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-GST+Mu1-6",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3445",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,378 @@
+{
+  "identity": {
+    "pmid": "42794659",
+    "doi": "10.3390/ijms27188231",
+    "title": "Molecular Engineering of Aptamers for Glioblastoma Therapy: From Simple Antagonists to AI-Driven Approaches, a Narrative Review."
+  },
+  "content": {
+    "abstract": "Glioblastoma multiforme (GBM) is an extremely aggressive and lethal brain tumor, characterized by marked molecular heterogeneity, the persistence of glioma stem cells (GSCs), and the limited permeability of the blood-brain barrier (BBB), which collectively hinder therapeutic efficacy. To address these barriers, nucleic acid aptamers, short single-stranded oligonucleotides with high affinity and specificity for molecular targets, have emerged as a promising therapeutic platform. Early unmodified aptamers, such as AS1411 and U2, demonstrated target engagement but showed limited performance due to instability and rapid systemic clearance. Chemical modifications, including 2'-fluoro substitutions and PEGylation, resulted in improved stability, specificity, and pharmacokinetic properties, enabling the development of innovative aptamer drug conjugates (ApDCs) for targeted delivery to GBM cells. In parallel, multivalent aptamer architectures, such as bispecific aptamer targeting entities (BATEs) and aptamer guided nanostructures, have been designed to enhance binding avidity, address tumor heterogeneity, and facilitate BBB transcytosis. More recently, computational strategies ranging from machine learning-guided sequence optimization to structure prediction and generative AI have accelerated the rational design of aptamers tailored to GBM specific challenges. This review examines these advances, the remaining pharmacological limitations, and the potential of computational tools to reshape the future of aptamer based GBM therapeutics.",
+    "keywords": [
+      "aptamers",
+      "generative machine learning",
+      "glioblastoma",
+      "nanostructures",
+      "targeted drug delivery"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Aptamers, Nucleotide/therapeutic use/chemistry",
+      "*Glioblastoma/drug therapy",
+      "*Brain Neoplasms/drug therapy",
+      "Animals",
+      "Blood-Brain Barrier/metabolism",
+      "Antineoplastic Agents/therapeutic use",
+      "Drug Delivery Systems",
+      "Machine Learning",
+      "Artificial Intelligence"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Di Leandro, Luana",
+        "Colasante, Martina",
+        "Catanesi, Mariano",
+        "Giansanti, Francesco",
+        "Cimini, Annamaria",
+        "D'Angelo, Michele",
+        "Castelli, Vanessa",
+        "Savino, Rocco",
+        "Ippoliti, Rodolfo"
+      ],
+      "short_names": [
+        "Di Leandro L",
+        "Colasante M",
+        "Catanesi M",
+        "Giansanti F",
+        "Cimini A",
+        "D'Angelo M",
+        "Castelli V",
+        "Savino R",
+        "Ippoliti R"
+      ],
+      "auids": [
+        "ORCID: 0009-0005-0882-0892",
+        "ORCID: 0000-0002-2737-7970",
+        "ORCID: 0000-0002-3693-840X",
+        "ORCID: 0000-0002-7005-3218"
+      ],
+      "affiliations": [
+        "Department of Life, Health and Environmental Sciences, University of L'Aquila, 67100 L'Aquila, Italy.",
+        "Department of Life, Health and Environmental Sciences, University of L'Aquila, 67100 L'Aquila, Italy.",
+        "Department of Life, Health and Environmental Sciences, University of L'Aquila, 67100 L'Aquila, Italy.",
+        "Department of Life, Health and Environmental Sciences, University of L'Aquila, 67100 L'Aquila, Italy.",
+        "Department of Life, Health and Environmental Sciences, University of L'Aquila, 67100 L'Aquila, Italy.",
+        "Sbarro Institute for Cancer Research and Molecular Medicine, Department of Biology, Temple University, Philadelphia, PA 19122, USA.",
+        "Department of Life, Health and Environmental Sciences, University of L'Aquila, 67100 L'Aquila, Italy.",
+        "Sbarro Institute for Cancer Research and Molecular Medicine, Department of Biology, Temple University, Philadelphia, PA 19122, USA.",
+        "Department of Life, Health and Environmental Sciences, University of L'Aquila, 67100 L'Aquila, Italy.",
+        "Department of Medical and Surgical Sciences, Magna Graecia University, 88100 Catanzaro, Italy.",
+        "Department of Life, Health and Environmental Sciences, University of L'Aquila, 67100 L'Aquila, Italy."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Di Leandro, Luana",
+        "short_name": "Di Leandro L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Life, Health and Environmental Sciences, University of L'Aquila, 67100 L'Aquila, Italy."
+        ]
+      },
+      {
+        "full_name": "Colasante, Martina",
+        "short_name": "Colasante M",
+        "identifiers": [
+          "0009-0005-0882-0892"
+        ],
+        "affiliations": [
+          "Department of Life, Health and Environmental Sciences, University of L'Aquila, 67100 L'Aquila, Italy."
+        ]
+      },
+      {
+        "full_name": "Catanesi, Mariano",
+        "short_name": "Catanesi M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Life, Health and Environmental Sciences, University of L'Aquila, 67100 L'Aquila, Italy."
+        ]
+      },
+      {
+        "full_name": "Giansanti, Francesco",
+        "short_name": "Giansanti F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Life, Health and Environmental Sciences, University of L'Aquila, 67100 L'Aquila, Italy."
+        ]
+      },
+      {
+        "full_name": "Cimini, Annamaria",
+        "short_name": "Cimini A",
+        "identifiers": [
+          "0000-0002-2737-7970"
+        ],
+        "affiliations": [
+          "Department of Life, Health and Environmental Sciences, University of L'Aquila, 67100 L'Aquila, Italy.",
+          "Sbarro Institute for Cancer Research and Molecular Medicine, Department of Biology, Temple University, Philadelphia, PA 19122, USA."
+        ]
+      },
+      {
+        "full_name": "D'Angelo, Michele",
+        "short_name": "D'Angelo M",
+        "identifiers": [
+          "0000-0002-3693-840X"
+        ],
+        "affiliations": [
+          "Department of Life, Health and Environmental Sciences, University of L'Aquila, 67100 L'Aquila, Italy.",
+          "Sbarro Institute for Cancer Research and Molecular Medicine, Department of Biology, Temple University, Philadelphia, PA 19122, USA."
+        ]
+      },
+      {
+        "full_name": "Castelli, Vanessa",
+        "short_name": "Castelli V",
+        "identifiers": [
+          "0000-0002-7005-3218"
+        ],
+        "affiliations": [
+          "Department of Life, Health and Environmental Sciences, University of L'Aquila, 67100 L'Aquila, Italy."
+        ]
+      },
+      {
+        "full_name": "Savino, Rocco",
+        "short_name": "Savino R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical and Surgical Sciences, Magna Graecia University, 88100 Catanzaro, Italy."
+        ]
+      },
+      {
+        "full_name": "Ippoliti, Rodolfo",
+        "short_name": "Ippoliti R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Life, Health and Environmental Sciences, University of L'Aquila, 67100 L'Aquila, Italy."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of molecular sciences"
+    ],
+    "journal_abbrev": [
+      "Int J Mol Sci"
+    ],
+    "pub_date": "2026 Sep 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/26 05:35",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42794659",
+      "32957732",
+      "41475668",
+      "42069201",
+      "40531093",
+      "38923419",
+      "25924917",
+      "39545622",
+      "42694529",
+      "40944840",
+      "40754186",
+      "40359342",
+      "39485272",
+      "40581129",
+      "42252764",
+      "40844759",
+      "33808496",
+      "40785950",
+      "41497188",
+      "41527799",
+      "41580174",
+      "28962871",
+      "26189784",
+      "25791797",
+      "29768997",
+      "41918192",
+      "40925520",
+      "39854126",
+      "29617327",
+      "40568899",
+      "34881767",
+      "32380206",
+      "41951078",
+      "39922136",
+      "39368608",
+      "31928355",
+      "42521280",
+      "40353316",
+      "40651601",
+      "41483269",
+      "42736498",
+      "42272446",
+      "42273826",
+      "42740496",
+      "41116650",
+      "38606460",
+      "42349576",
+      "41270975",
+      "28471660",
+      "40993928",
+      "41599806",
+      "37762559",
+      "38505170",
+      "40912371",
+      "42309126",
+      "41683542",
+      "41386501",
+      "40659167",
+      "41527798",
+      "42112351",
+      "41718120",
+      "33575970",
+      "27988470",
+      "42149294",
+      "37619244",
+      "42498054",
+      "42351156",
+      "31861277",
+      "27292970",
+      "21955150",
+      "37403389",
+      "27464719",
+      "40716251",
+      "42248236",
+      "26046399",
+      "42142763",
+      "31728942",
+      "42007396",
+      "39134023",
+      "40211994",
+      "40563410",
+      "30125604",
+      "40174811",
+      "41608577",
+      "41926335",
+      "42392327",
+      "37186374",
+      "41317918",
+      "39746097",
+      "19513946",
+      "41698301",
+      "40134106",
+      "26359209",
+      "40760744",
+      "41245487",
+      "42361746",
+      "30056527",
+      "38686045",
+      "29669750",
+      "35142277"
+    ],
+    "review": [
+      "42794659",
+      "32957732",
+      "41475668",
+      "42069201",
+      "38923419",
+      "39545622",
+      "40944840",
+      "40754186",
+      "39485272",
+      "40581129",
+      "42252764",
+      "40844759",
+      "33808496",
+      "40785950",
+      "41497188",
+      "41527799",
+      "41580174",
+      "28962871",
+      "26189784",
+      "25791797",
+      "29768997",
+      "40925520",
+      "39854126",
+      "29617327",
+      "40568899",
+      "34881767",
+      "32380206",
+      "41951078",
+      "39922136",
+      "39368608",
+      "31928355",
+      "42521280",
+      "40353316",
+      "40651601",
+      "41483269",
+      "42736498",
+      "42272446",
+      "42273826",
+      "42740496",
+      "41116650",
+      "38606460",
+      "42349576",
+      "41270975",
+      "40993928",
+      "41599806",
+      "37762559",
+      "38505170",
+      "40912371",
+      "42309126",
+      "41683542",
+      "41386501",
+      "40659167",
+      "41527798",
+      "42112351",
+      "41718120",
+      "33575970",
+      "42149294",
+      "37619244",
+      "42498054",
+      "42351156",
+      "31861277",
+      "27292970",
+      "21955150",
+      "37403389",
+      "27464719",
+      "40716251",
+      "42248236",
+      "26046399",
+      "42142763",
+      "31728942",
+      "42007396",
+      "40211994",
+      "30125604",
+      "40174811",
+      "41608577",
+      "37186374",
+      "41317918",
+      "39746097",
+      "19513946",
+      "41698301",
+      "40134106",
+      "26359209",
+      "40760744",
+      "41245487",
+      "30056527",
+      "38686045"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

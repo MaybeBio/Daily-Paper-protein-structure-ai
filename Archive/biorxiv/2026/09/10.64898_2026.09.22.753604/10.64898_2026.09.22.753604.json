@@ -1,0 +1,105 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.22.753604",
+  "title": "Agentic campaign control for high-throughput de novo binder design",
+  "doi": "10.64898/2026.09.22.753604",
+  "abstract": "Progress in artificial intelligence has produced a rapidly growing ecosystem of methods for de novo protein design. With access to many specialized and often complementary tools, how does one use them effectively, especially with a finite compute budget? Here, we introduce Target-adaptive Rescue-Explore-eXploit (T-REX), an agentic protein binder design framework that orchestrates multiple state-of-the-art protein generative models and structure evaluators. Over the course of a design campaign, T-REX leverages large language model (LLM) agents to reason over accumulating outcomes and decide whether to rescue promising candidates, explore alternative settings, or exploit productive routes, while a deterministic controller validates and schedules proposed actions.",
+  "authors": [
+    "Jeon M",
+    "Song J",
+    "Kim J",
+    "Zhong ED"
+  ],
+  "published_date": "2026-09-23",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.22.753604",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.22.753604.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1326246",
+    "raw_record": {
+      "id": "PPR1326246",
+      "source": "PPR",
+      "doi": "10.64898/2026.09.22.753604",
+      "title": "Agentic campaign control for high-throughput de novo binder design",
+      "authorString": "Jeon M, Song J, Kim J, Zhong ED.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Jeon M",
+            "lastName": "Jeon",
+            "firstName": "Minkyu",
+            "initials": "M"
+          },
+          {
+            "fullName": "Song J",
+            "lastName": "Song",
+            "firstName": "Jinyeop",
+            "initials": "J"
+          },
+          {
+            "fullName": "Kim J",
+            "lastName": "Kim",
+            "firstName": "Jina",
+            "initials": "J"
+          },
+          {
+            "fullName": "Zhong ED",
+            "lastName": "Zhong",
+            "firstName": "Ellen",
+            "initials": "ED"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Progress in artificial intelligence has produced a rapidly growing ecosystem of methods for de novo protein design. With access to many specialized and often complementary tools, how does one use them effectively, especially with a finite compute budget? Here, we introduce Target-adaptive Rescue-Explore-eXploit (T-REX), an agentic protein binder design framework that orchestrates multiple state-of-the-art protein generative models and structure evaluators. Over the course of a design campaign, T-REX leverages large language model (LLM) agents to reason over accumulating outcomes and decide whether to rescue promising candidates, explore alternative settings, or exploit productive routes, while a deterministic controller validates and schedules proposed actions.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.09.22.753604"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-09-24",
+      "firstPublicationDate": "2026-09-23",
+      "firstIndexDate": "2026-09-24",
+      "hasEvaluations": "N"
+    }
+  }
+}

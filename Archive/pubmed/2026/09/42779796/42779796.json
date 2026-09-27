@@ -1,0 +1,651 @@
+{
+  "identity": {
+    "pmid": "42779796",
+    "doi": "10.64898/2026.09.12.751118",
+    "title": "Latent generative search unlocks de novo design of untapped biomolecular interactions at scale."
+  },
+  "content": {
+    "abstract": "De novo protein design has advanced rapidly, yet designing binders to polar, solvent-exposed epitopes and small, flexible ligands remains challenging. Such hydrated surfaces and flexible molecules, including carbohydrates, provide few of the hydrophobic contacts favoured by current methods and have largely resisted de novo binders. To address this challenge, here we introduce latent generative search for binder design, a novel framework that uses reward-guided search at inference time to steer the Proteina-Complexa generative model. The model codesigns sequence and structure - generating them together in a continuous latent space - and thereby removes the inverse-folding step on which current methods rely. In a screen of more than one million designs by multiplexed phage display, latent generative search produced more validated binders than every other method tested, its codesigned sequences surpassing post hoc redesign. It delivered high-affinity binders across therapeutic receptors, a viral attachment protein and intracellular signalling targets. Our approach also accessed previously untapped biology, generating the first de novo proteins that bind a free carbohydrate, including one that discriminates between blood-group antigens - a polar, flexible target class beyond the reach of current design methods.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Didi, Kieran",
+        "Reidenbach, Danny",
+        "Penner, Matthew",
+        "Ravichandran, Supriya",
+        "Case, Marshall",
+        "Nichols, Mike",
+        "Swanson, Erik",
+        "Reis, Alex",
+        "Prescott, Maggie",
+        "Qian, Yue",
+        "Qian, Dongming",
+        "Yang, Jingjing",
+        "Li, Weiji",
+        "Li, Le",
+        "Shonai, Daichi",
+        "Gay, Sean",
+        "Basu Mallik, Bhoomika",
+        "Chim, Ho Yeung",
+        "Chen, Liurong",
+        "Atienza Juanatey, Miguel",
+        "Klein, Hubert",
+        "Rieger, Dominic",
+        "Schlegel, Phillip",
+        "Macintyre, Anna U",
+        "Secor, Maxim",
+        "Granata, Daniele",
+        "Cha, Sooyoung",
+        "Cao, Zhonglin",
+        "Zhou, Guoqing",
+        "Geffner, Tomas",
+        "Chen, Xi",
+        "Livne, Micha",
+        "Zhang, Zuobai",
+        "Zhang, Tianjing",
+        "Gion, Kyle",
+        "Bronstein, Michael M",
+        "Steinegger, Martin",
+        "Deibler, Kristine",
+        "Soderling, Scott",
+        "Schoeder, Clara T",
+        "Khmelinskaia, Alena",
+        "Hollfelder, Florian",
+        "Dallago, Christian",
+        "Kucukbenli, Emine",
+        "Vahdat, Arash",
+        "Ogden, Pierce",
+        "Kreis, Karsten"
+      ],
+      "short_names": [
+        "Didi K",
+        "Reidenbach D",
+        "Penner M",
+        "Ravichandran S",
+        "Case M",
+        "Nichols M",
+        "Swanson E",
+        "Reis A",
+        "Prescott M",
+        "Qian Y",
+        "Qian D",
+        "Yang J",
+        "Li W",
+        "Li L",
+        "Shonai D",
+        "Gay S",
+        "Basu Mallik B",
+        "Chim HY",
+        "Chen L",
+        "Atienza Juanatey M",
+        "Klein H",
+        "Rieger D",
+        "Schlegel P",
+        "Macintyre AU",
+        "Secor M",
+        "Granata D",
+        "Cha S",
+        "Cao Z",
+        "Zhou G",
+        "Geffner T",
+        "Chen X",
+        "Livne M",
+        "Zhang Z",
+        "Zhang T",
+        "Gion K",
+        "Bronstein MM",
+        "Steinegger M",
+        "Deibler K",
+        "Soderling S",
+        "Schoeder CT",
+        "Khmelinskaia A",
+        "Hollfelder F",
+        "Dallago C",
+        "Kucukbenli E",
+        "Vahdat A",
+        "Ogden P",
+        "Kreis K"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-6839-3320",
+        "ORCID: 0000-0002-2973-8709",
+        "ORCID: 0000-0003-1989-7586",
+        "ORCID: 0009-0005-4463-5045",
+        "ORCID: 0000-0003-0746-1953",
+        "ORCID: 0009-0009-7406-5759",
+        "ORCID: 0000-0001-7504-7362",
+        "ORCID: 0000-0001-5430-6185",
+        "ORCID: 0000-0003-0758-5016",
+        "ORCID: 0000-0002-0592-4267",
+        "ORCID: 0009-0003-4472-9792",
+        "ORCID: 0009-0000-0265-0304",
+        "ORCID: 0009-0006-4640-2322",
+        "ORCID: 0000-0003-2096-1178",
+        "ORCID: 0000-0002-4000-8467",
+        "ORCID: 0009-0005-8116-019X",
+        "ORCID: 0000-0002-2055-2676",
+        "ORCID: 0000-0002-8094-7426",
+        "ORCID: 0000-0002-9773-0696",
+        "ORCID: 0000-0002-7809-6845",
+        "ORCID: 0000-0001-5162-2481",
+        "ORCID: 0000-0002-1262-7252",
+        "ORCID: 0000-0001-8781-9753",
+        "ORCID: 0000-0002-2376-8456",
+        "ORCID: 0000-0001-7808-197X",
+        "ORCID: 0000-0002-4664-961X",
+        "ORCID: 0000-0003-1584-9800",
+        "ORCID: 0000-0002-1367-6312",
+        "ORCID: 0000-0003-4650-6181",
+        "ORCID: 0009-0005-9476-1306",
+        "ORCID: 0009-0007-0414-8650"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Didi, Kieran",
+        "short_name": "Didi K",
+        "identifiers": [
+          "0000-0001-6839-3320"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Reidenbach, Danny",
+        "short_name": "Reidenbach D",
+        "identifiers": [
+          "0000-0002-2973-8709"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Penner, Matthew",
+        "short_name": "Penner M",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Ravichandran, Supriya",
+        "short_name": "Ravichandran S",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Case, Marshall",
+        "short_name": "Case M",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Nichols, Mike",
+        "short_name": "Nichols M",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Swanson, Erik",
+        "short_name": "Swanson E",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Reis, Alex",
+        "short_name": "Reis A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Prescott, Maggie",
+        "short_name": "Prescott M",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Qian, Yue",
+        "short_name": "Qian Y",
+        "identifiers": [
+          "0000-0003-1989-7586"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Qian, Dongming",
+        "short_name": "Qian D",
+        "identifiers": [
+          "0009-0005-4463-5045"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Yang, Jingjing",
+        "short_name": "Yang J",
+        "identifiers": [
+          "0000-0003-0746-1953"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Li, Weiji",
+        "short_name": "Li W",
+        "identifiers": [
+          "0009-0009-7406-5759"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Li, Le",
+        "short_name": "Li L",
+        "identifiers": [
+          "0000-0001-7504-7362"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Shonai, Daichi",
+        "short_name": "Shonai D",
+        "identifiers": [
+          "0000-0001-5430-6185"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Gay, Sean",
+        "short_name": "Gay S",
+        "identifiers": [
+          "0000-0003-0758-5016"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Basu Mallik, Bhoomika",
+        "short_name": "Basu Mallik B",
+        "identifiers": [
+          "0000-0002-0592-4267"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Chim, Ho Yeung",
+        "short_name": "Chim HY",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Chen, Liurong",
+        "short_name": "Chen L",
+        "identifiers": [
+          "0009-0003-4472-9792"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Atienza Juanatey, Miguel",
+        "short_name": "Atienza Juanatey M",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Klein, Hubert",
+        "short_name": "Klein H",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Rieger, Dominic",
+        "short_name": "Rieger D",
+        "identifiers": [
+          "0009-0000-0265-0304"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Schlegel, Phillip",
+        "short_name": "Schlegel P",
+        "identifiers": [
+          "0009-0006-4640-2322"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Macintyre, Anna U",
+        "short_name": "Macintyre AU",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Secor, Maxim",
+        "short_name": "Secor M",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Granata, Daniele",
+        "short_name": "Granata D",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Cha, Sooyoung",
+        "short_name": "Cha S",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Cao, Zhonglin",
+        "short_name": "Cao Z",
+        "identifiers": [
+          "0000-0003-2096-1178"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Zhou, Guoqing",
+        "short_name": "Zhou G",
+        "identifiers": [
+          "0000-0002-4000-8467"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Geffner, Tomas",
+        "short_name": "Geffner T",
+        "identifiers": [
+          "0009-0005-8116-019X"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Chen, Xi",
+        "short_name": "Chen X",
+        "identifiers": [
+          "0000-0002-2055-2676"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Livne, Micha",
+        "short_name": "Livne M",
+        "identifiers": [
+          "0000-0002-8094-7426"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Zhang, Zuobai",
+        "short_name": "Zhang Z",
+        "identifiers": [
+          "0000-0002-9773-0696"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Zhang, Tianjing",
+        "short_name": "Zhang T",
+        "identifiers": [
+          "0000-0002-7809-6845"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Gion, Kyle",
+        "short_name": "Gion K",
+        "identifiers": [
+          "0000-0001-5162-2481"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Bronstein, Michael M",
+        "short_name": "Bronstein MM",
+        "identifiers": [
+          "0000-0002-1262-7252"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Steinegger, Martin",
+        "short_name": "Steinegger M",
+        "identifiers": [
+          "0000-0001-8781-9753"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Deibler, Kristine",
+        "short_name": "Deibler K",
+        "identifiers": [
+          "0000-0002-2376-8456"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Soderling, Scott",
+        "short_name": "Soderling S",
+        "identifiers": [
+          "0000-0001-7808-197X"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Schoeder, Clara T",
+        "short_name": "Schoeder CT",
+        "identifiers": [
+          "0000-0002-4664-961X"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Khmelinskaia, Alena",
+        "short_name": "Khmelinskaia A",
+        "identifiers": [
+          "0000-0003-1584-9800"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Hollfelder, Florian",
+        "short_name": "Hollfelder F",
+        "identifiers": [
+          "0000-0002-1367-6312"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Dallago, Christian",
+        "short_name": "Dallago C",
+        "identifiers": [
+          "0000-0003-4650-6181"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Kucukbenli, Emine",
+        "short_name": "Kucukbenli E",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Vahdat, Arash",
+        "short_name": "Vahdat A",
+        "identifiers": [
+          "0009-0005-9476-1306"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Ogden, Pierce",
+        "short_name": "Ogden P",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Kreis, Karsten",
+        "short_name": "Kreis K",
+        "identifiers": [
+          "0009-0007-0414-8650"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Sep 18",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/24 13:06",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42779796",
+      "42620311",
+      "41394589",
+      "40463249",
+      "23912807",
+      "36321557",
+      "42222300",
+      "41256494",
+      "29214605",
+      "41409142",
+      "32945673",
+      "39091799",
+      "42489162",
+      "42039485",
+      "39266056",
+      "41750280",
+      "37969589",
+      "38109936",
+      "41332631",
+      "40686280",
+      "42072649",
+      "35332283",
+      "42369908",
+      "40964086",
+      "34760151",
+      "40897171",
+      "42716964",
+      "39803556",
+      "40984000",
+      "41337470",
+      "41551047",
+      "42104019",
+      "42118199",
+      "37873004",
+      "37165539",
+      "42410671",
+      "42185313",
+      "39841846",
+      "41332746",
+      "37674239",
+      "41415384",
+      "42757549",
+      "41813969",
+      "38442440",
+      "35830870",
+      "28953867",
+      "42546051",
+      "38070805",
+      "41278626",
+      "35793555",
+      "42753517",
+      "40804173",
+      "38177840",
+      "41703061",
+      "41473986",
+      "42475469",
+      "39605685",
+      "40542165",
+      "42228533",
+      "39493989",
+      "38907298",
+      "34406761",
+      "30973707",
+      "40677216",
+      "41251237",
+      "35984470",
+      "38187589",
+      "42716354",
+      "35713420",
+      "42126315",
+      "42125061",
+      "37450999",
+      "37449757",
+      "39352899",
+      "35724626",
+      "36788579",
+      "40429825",
+      "34410338",
+      "38663170",
+      "37205527",
+      "38384298",
+      "36275629",
+      "41333172",
+      "38177755",
+      "36764588",
+      "42327252",
+      "39475544",
+      "33985583",
+      "32041676",
+      "39131360",
+      "42317170",
+      "41759349",
+      "10547293",
+      "38297834",
+      "34533311",
+      "38867692",
+      "41542477",
+      "36651657",
+      "41081718",
+      "41094041"
+    ],
+    "review": [
+      "42779796",
+      "36321557",
+      "29214605",
+      "40897171",
+      "42757549",
+      "42546051",
+      "35793555",
+      "40677216",
+      "42716354",
+      "38663170",
+      "38384298",
+      "32041676",
+      "41759349"
+    ],
+    "pmc": [
+      "13596280"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.64898/2026.09.12.751118",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

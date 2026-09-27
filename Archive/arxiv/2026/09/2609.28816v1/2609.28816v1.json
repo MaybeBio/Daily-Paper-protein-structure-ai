@@ -1,0 +1,32 @@
+{
+  "source": "arxiv",
+  "source_id": "2609.28816v1",
+  "title": "FlyCNS: Connectome-Grounded Information Organization for Communication-Constrained Embodied Control",
+  "doi": "",
+  "abstract": "Robotic bodies are inherently distributed in sensing and actuation, yet learning-based control still commonly relies on centralized information processing. This work studies the problem of information organization in communication-constrained embodied control: which computations should remain local, and which information is worth transmitting for whole-body coordination. We propose FlyCNS, an embodied information-organization framework inspired by the Drosophila brain--nerve-cord connectome. FlyCNS preserves local sensorimotor computation within each limb and enables selective long-range communication through separate ascending and descending routing pathways. From a real connectome, FlyCNS extracts the directional structural complexity of these two pathway types and uses it as a weak prior over communication allocation, while message content, transmission timing, and locomotion policies remain task-adaptive and are learned through reinforcement learning. In Unitree Go1 simulation, FlyCNS exhibits more graceful performance degradation as the communication budget is tightened. Under the most restrictive setting, it uses only about 21--22\\% of the communication of the full-communication reference, while still maintaining a tracking score of approximately 0.882 under both command protocols, with a gap of no more than 6.1\\% from the full-communication reference. These results indicate that real neural connectomes can inform not only the structural design of control networks, but also provide transferable inductive biases for information organization across embodiments, guiding robots in balancing local computation and long-range coordination under limited communication resources.",
+  "authors": [
+    "Jinchang Zhang",
+    "Jiakai Lin",
+    "Guoyu Lu"
+  ],
+  "published_date": "2026-09-23T21:51:01Z",
+  "updated_date": "2026-09-23T21:51:01Z",
+  "journal": "",
+  "category": "cs.RO",
+  "landing_url": "https://arxiv.org/abs/2609.28816v1",
+  "pdf_url": "https://arxiv.org/pdf/2609.28816v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cs.RO"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2609.28816v1",
+    "raw_categories": [
+      "cs.RO"
+    ],
+    "journal_ref": ""
+  }
+}

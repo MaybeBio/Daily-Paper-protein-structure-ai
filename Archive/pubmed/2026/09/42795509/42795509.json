@@ -1,0 +1,280 @@
+{
+  "identity": {
+    "pmid": "42795509",
+    "doi": "10.3390/microorganisms14091925",
+    "title": "Gut Microbiota-Elicited Aberrant Phosphorylation Induces Protein Structural Anomalies: A Non-Negligible Pathogenic Driver of Autism Spectrum Disorder."
+  },
+  "content": {
+    "abstract": "Autism spectrum disorder (ASD) is a heterogeneous neurodevelopmental condition characterized by impaired social interaction and repetitive stereotyped behaviors, with pathogenic mechanisms that remain incompletely understood. The gut microbiota has emerged as a key regulator of ASD; however, its impact on hippocampal proteomic and phosphoproteomic signatures has not been fully characterized. In this study, we performed fecal microbiota transplantation (FMT) by transferring fecal samples from children with ASD and typically developing controls into antibiotic-treated mice. Gut microbiota from children with ASD induced several ASD-like behaviors in recipient mice, accompanied by aberrant activation of microglia, astrocytes, and neurons, as well as impaired neurogenesis. Phosphoproteomic profiling combined with Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) analyses revealed that differentially phosphorylated proteins were predominantly enriched in synapse-related pathways. ASD-derived microbiota markedly reduced synaptic density, downregulated the synaptic proteins SYP and PSD-95, and inhibited the expression of blood-brain barrier (BBB) tight junction proteins. In silico structural simulations using AlphaFold3 (AF3) and HADDOCK further supported that ASD-FMT may promote abnormal phosphorylation, potentially remodeling SHANK3 and SRRM2 conformations and weakening the binding affinity of SHANK3. Integrative proteomic and phosphoproteomic screening identified FNDC3A as a potential susceptibility-associated protein upregulated by gut microbiota from children with ASD, which was verified in mouse hippocampal tissues and plasma samples from children with ASD using Western blotting and ELISA, respectively. Mechanistically, ASD pathogenesis may be attributable not only to the dysregulation of classical ASD susceptibility genes but also to gut microbiota-driven post-translational phosphorylation remodeling of multiple protein structures. Importantly, this study established an innovative research framework that integrates in silico analyses with wet-lab experiments, yielding novel insights into ASD pathogenesis from the perspective of gut microbiota-induced alterations in the hippocampal phosphoproteome and revealing a plausible molecular mechanism underlying ASD.",
+    "keywords": [
+      "AlphaFold3",
+      "autism spectrum disorder",
+      "fecal microbiota transplantation",
+      "gut microbiota",
+      "gut-brain axis",
+      "molecular docking",
+      "phosphoproteomic profiling"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ge, Yongsheng",
+        "Li, Zhi",
+        "Yu, Caiyun",
+        "Guo, Weitong",
+        "Fan, Guangying",
+        "Lin, Guiyu",
+        "Yu, Han",
+        "Wang, Ying"
+      ],
+      "short_names": [
+        "Ge Y",
+        "Li Z",
+        "Yu C",
+        "Guo W",
+        "Fan G",
+        "Lin G",
+        "Yu H",
+        "Wang Y"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-5612-9597"
+      ],
+      "affiliations": [
+        "Pediatric Research Institute, Children's Hospital Affiliated to Shandong University (Jinan Children's Hospital), Jinan 250022, China.",
+        "Pediatric Research Institute, Children's Hospital Affiliated to Shandong University (Jinan Children's Hospital), Jinan 250022, China.",
+        "Pediatric Research Institute, Children's Hospital Affiliated to Shandong University (Jinan Children's Hospital), Jinan 250022, China.",
+        "Jinan Institute of Child Health Care, Children's Hospital Affiliated to Shandong University (Jinan Children's Hospital), Jinan 250022, China.",
+        "Pediatric Research Institute, Children's Hospital Affiliated to Shandong University (Jinan Children's Hospital), Jinan 250022, China.",
+        "Pediatric Research Institute, Children's Hospital Affiliated to Shandong University (Jinan Children's Hospital), Jinan 250022, China.",
+        "Pediatric Research Institute, Children's Hospital Affiliated to Shandong University (Jinan Children's Hospital), Jinan 250022, China.",
+        "Pediatric Research Institute, Children's Hospital Affiliated to Shandong University (Jinan Children's Hospital), Jinan 250022, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ge, Yongsheng",
+        "short_name": "Ge Y",
+        "identifiers": [],
+        "affiliations": [
+          "Pediatric Research Institute, Children's Hospital Affiliated to Shandong University (Jinan Children's Hospital), Jinan 250022, China."
+        ]
+      },
+      {
+        "full_name": "Li, Zhi",
+        "short_name": "Li Z",
+        "identifiers": [],
+        "affiliations": [
+          "Pediatric Research Institute, Children's Hospital Affiliated to Shandong University (Jinan Children's Hospital), Jinan 250022, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Caiyun",
+        "short_name": "Yu C",
+        "identifiers": [],
+        "affiliations": [
+          "Pediatric Research Institute, Children's Hospital Affiliated to Shandong University (Jinan Children's Hospital), Jinan 250022, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Weitong",
+        "short_name": "Guo W",
+        "identifiers": [],
+        "affiliations": [
+          "Jinan Institute of Child Health Care, Children's Hospital Affiliated to Shandong University (Jinan Children's Hospital), Jinan 250022, China."
+        ]
+      },
+      {
+        "full_name": "Fan, Guangying",
+        "short_name": "Fan G",
+        "identifiers": [],
+        "affiliations": [
+          "Pediatric Research Institute, Children's Hospital Affiliated to Shandong University (Jinan Children's Hospital), Jinan 250022, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Guiyu",
+        "short_name": "Lin G",
+        "identifiers": [],
+        "affiliations": [
+          "Pediatric Research Institute, Children's Hospital Affiliated to Shandong University (Jinan Children's Hospital), Jinan 250022, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Han",
+        "short_name": "Yu H",
+        "identifiers": [],
+        "affiliations": [
+          "Pediatric Research Institute, Children's Hospital Affiliated to Shandong University (Jinan Children's Hospital), Jinan 250022, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Ying",
+        "short_name": "Wang Y",
+        "identifiers": [
+          "0000-0002-5612-9597"
+        ],
+        "affiliations": [
+          "Pediatric Research Institute, Children's Hospital Affiliated to Shandong University (Jinan Children's Hospital), Jinan 250022, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Microorganisms"
+    ],
+    "journal_abbrev": [
+      "Microorganisms"
+    ],
+    "pub_date": "2026 Sep 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/26 05:35",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42795509",
+      "42549413",
+      "41907468",
+      "33824200",
+      "42157185",
+      "41183735",
+      "41001132",
+      "41010510",
+      "42656725",
+      "38780265",
+      "34737978",
+      "41471147",
+      "42786851",
+      "40207766",
+      "38075901",
+      "33087514",
+      "41724218",
+      "38783921",
+      "42240365",
+      "42793152",
+      "30394313",
+      "40881681",
+      "40505847",
+      "41136355",
+      "41349941",
+      "42277041",
+      "42158647",
+      "41527019",
+      "41052746",
+      "42277197",
+      "41910195",
+      "42353350",
+      "41511111",
+      "41561085",
+      "36670104",
+      "40535973",
+      "42687165",
+      "39093342",
+      "40120833",
+      "38294580",
+      "34994172",
+      "39870302",
+      "32100127",
+      "41641220",
+      "37730588",
+      "36544550",
+      "28122648",
+      "33776811",
+      "41387911",
+      "40671079",
+      "41474687",
+      "40018671",
+      "41009500",
+      "39773319",
+      "38887795",
+      "42713444",
+      "32819434",
+      "41011244",
+      "42010670",
+      "40376856",
+      "41917778",
+      "36804416",
+      "31704787",
+      "40143866",
+      "34238386",
+      "39861379",
+      "40645949",
+      "41038145",
+      "40649705",
+      "41382128",
+      "42582282",
+      "39733842",
+      "42157347",
+      "40861764",
+      "41657993",
+      "38455067",
+      "36905650",
+      "36196151",
+      "40963960",
+      "33268567",
+      "41615476",
+      "41385953",
+      "39299209",
+      "33356668",
+      "38378622",
+      "41676058",
+      "42588064",
+      "40351314",
+      "41201723",
+      "35792193",
+      "40110373",
+      "34684301",
+      "42488571",
+      "38307030",
+      "42395905",
+      "40944170",
+      "32830918",
+      "40218893",
+      "42367812",
+      "41429819"
+    ],
+    "review": [
+      "42795509",
+      "41010510",
+      "42656725",
+      "40207766",
+      "42793152",
+      "40505847",
+      "42353350",
+      "41561085",
+      "40535973",
+      "39093342",
+      "36544550",
+      "41474687",
+      "40376856",
+      "36804416",
+      "40143866",
+      "42582282",
+      "39733842",
+      "40861764",
+      "38455067",
+      "36905650",
+      "33356668",
+      "41676058",
+      "42488571"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

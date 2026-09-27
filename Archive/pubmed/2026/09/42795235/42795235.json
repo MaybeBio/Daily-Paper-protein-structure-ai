@@ -1,0 +1,195 @@
+{
+  "identity": {
+    "pmid": "42795235",
+    "doi": "10.3390/ma19184015",
+    "title": "Machine Learning-Driven Prediction of Formability and Cubic Phase in Compositionally Complex ABO(3) Perovskite Oxides."
+  },
+  "content": {
+    "abstract": "Perovskite oxides (ABO(3)) are widely investigated for energy-related applications due to their compositional flexibility and tunable physicochemical properties. However, identifying formable and cubic perovskite oxides from the vast compositional space remains challenging using conventional approaches, especially for doped perovskite oxides. In this work, a two-stage machine learning framework is developed to accelerate the discovery of formable and cubic perovskite oxides in doped ABO(3) compositions. A dataset comprising 1502 ABO(3) compounds was compiled from published literature. Compositional features derived from elemental properties were used to describe them, and feature selection was employed to identify the most relevant descriptors. It was found that perovskite formability and cubic structure were greatly determined by radius-based and volume-related descriptors, respectively. Compared with other algorithms, three ensemble learning algorithms, including Random Forest (RF), Extreme Gradient Boosting (XGB), and Light Gradient Boosting Machine (LGBM), displayed better performance. For formability prediction, XGB yielded the best results with an accuracy of 0.910 and an F1 score of 0.937, while for cubic structure prediction, it achieved an accuracy of 0.924 and an F1 score of 0.889. The trained models were subsequently applied to screen 710,269 virtual ABO(3) compositions, identifying 505,698 and 217,596 candidates predicted to be formable and cubic, respectively, with 189,247 satisfying both criteria. This study provides an efficient framework for high-throughput screening and rational design of advanced perovskite oxides.",
+    "keywords": [
+      "cubic structure",
+      "formability",
+      "high-throughput screening",
+      "machine learning",
+      "perovskite oxides"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhao, Jie",
+        "Wang, Xiaoyan"
+      ],
+      "short_names": [
+        "Zhao J",
+        "Wang X"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-7712-6635",
+        "ORCID: 0000-0003-1939-3839"
+      ],
+      "affiliations": [
+        "College of Chemical Engineering, Nanjing Tech University, Nanjing 211816, China.",
+        "School of Computer Science, Nanjing Audit University, Nanjing 211815, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhao, Jie",
+        "short_name": "Zhao J",
+        "identifiers": [
+          "0000-0002-7712-6635"
+        ],
+        "affiliations": [
+          "College of Chemical Engineering, Nanjing Tech University, Nanjing 211816, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Xiaoyan",
+        "short_name": "Wang X",
+        "identifiers": [
+          "0000-0003-1939-3839"
+        ],
+        "affiliations": [
+          "School of Computer Science, Nanjing Audit University, Nanjing 211815, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Materials (Basel, Switzerland)"
+    ],
+    "journal_abbrev": [
+      "Materials (Basel)"
+    ],
+    "pub_date": "2026 Sep 21",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/26 05:35",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42795235",
+      "35382292",
+      "41822751",
+      "41688057",
+      "42033414",
+      "41969262",
+      "42075890",
+      "39396025",
+      "42638966",
+      "37986610",
+      "42266687",
+      "34375112",
+      "38283590",
+      "42429095",
+      "41803390",
+      "40180767",
+      "42321368",
+      "30481460",
+      "18004035",
+      "41114446",
+      "41310253",
+      "42129635",
+      "31856726",
+      "39498698",
+      "30457872",
+      "42457826",
+      "41617871",
+      "40769955",
+      "41564302",
+      "41687013",
+      "35475628",
+      "39417479",
+      "39715219",
+      "42517130",
+      "42163282",
+      "35147024",
+      "41957161",
+      "42444889",
+      "41065001",
+      "42380674",
+      "40133201",
+      "38050743",
+      "42475469",
+      "42617561",
+      "41934166",
+      "41452825",
+      "26428400",
+      "40658076",
+      "37178007",
+      "36903569",
+      "38247920",
+      "42266872",
+      "40863881",
+      "41633286",
+      "38930399",
+      "35076405",
+      "38554168",
+      "41535484",
+      "40509263",
+      "37256426",
+      "42611842",
+      "37498277",
+      "40616894",
+      "42265490",
+      "33725039",
+      "40778440",
+      "40228243",
+      "42129764",
+      "39904511",
+      "42375822",
+      "41153292",
+      "41044714",
+      "39915732",
+      "40071570",
+      "42044068",
+      "32282466",
+      "37117319",
+      "41086648",
+      "42224263",
+      "41153873",
+      "42324504",
+      "41734354",
+      "42103119",
+      "42623428",
+      "42344510",
+      "36749620",
+      "37003039",
+      "36585641",
+      "41419964",
+      "38792198",
+      "37920093",
+      "38837004",
+      "35571042",
+      "39256656",
+      "42340103",
+      "42158462",
+      "29763967",
+      "35361114",
+      "37024885",
+      "42452017"
+    ],
+    "review": [
+      "42795235",
+      "34375112",
+      "40769955"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

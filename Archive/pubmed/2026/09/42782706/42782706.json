@@ -1,0 +1,261 @@
+{
+  "identity": {
+    "pmid": "42782706",
+    "doi": "10.3390/biomimetics11090680",
+    "title": "Embrace Disorder as a Function: Bio-Informed Biomaterials Design Advanced by Intrinsically Disordered Proteins."
+  },
+  "content": {
+    "abstract": "The \"lock and key\" model of molecular recognition, anchored by the canonical sequence-structure-function paradigm, has successfully served as a basis for designing biomimetic biomaterials for decades. This classical concept associates the function of molecules with a stable three-dimensional structure that recognizes a specific complementary surface. However, biological systems routinely achieve specificity, adaptability, and multifunctionality through protein domains that never adopt a single stable fold. Intrinsically Disordered Proteins (IDPs) and Intrinsically Disordered Regions (IDRs) represent an underutilized functional repertoire in which conformational plasticity, short linear motifs, and phase-separation capacity underpin behaviors that rigid-fold proteins cannot replicate. This Perspective Article extends the molecular biomimetic design framework to the broader range of IDPs/IDRs roles-as effectors triggering downstream signaling, as motion-directing elements interacting with external partners, and as molecular assemblers that organize dynamic complexes while largely avoiding the steric constraints that structured proteins impose. Sequence plasticity, which is greater in disordered domains than in structured proteins, further expands this versatility. Metamorphic and moonlighting proteins further extend the sequence-to-function landscape by encoding multiple folds or functions within a single chain. We discuss how this bio-informed framework guides peptide-based biomaterials design by exploiting the dynamic, multivalent interactions of IDPs. Artificial Intelligence (AI)-guided approaches and machine learning strategies-from supervised classifiers to reinforcement learning loops-that are integrated with experimental feedback to navigate within these high-dimensional design landscapes of intrinsically disordered bio-informed materials systems are provided. Next-generation bio-informed material design must meet challenges driven by clinical, environmental, and industrial needs. Expanding protein matrix in bio-informed material design may enable mimicking complex, dynamic and hierarchical biological functions and materials that are found in Nature. Embracing disorder may even expand functions beyond addressing current challenges. Moving beyond the single-structure paradigm that has dominated the biomimetic field, embracing disorder in biological protein repertoire may give rise to emerging functions in bio-informed biomaterials. These functions are truly adaptive, modular, resourceful, responsive, and sustainable.",
+    "keywords": [
+      "artificial intelligence",
+      "bio-informed biomaterials",
+      "biomineralization",
+      "functional peptide design",
+      "intrinsically disordered proteins",
+      "machine learning",
+      "short linear motifs"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Tamerler, Candan",
+        "Snead, Malcolm L"
+      ],
+      "short_names": [
+        "Tamerler C",
+        "Snead ML"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-1960-2218",
+        "ORCID: 0000-0002-4496-6478"
+      ],
+      "affiliations": [
+        "Institute for Bioengineering Research, University of Kansas, Lawrence, KS 66045, USA.",
+        "Department of Mechanical Engineering, University of Kansas, Lawrence, KS 66045, USA.",
+        "Bioengineering Program, University of Kansas, Lawrence, KS 66045, USA.",
+        "The University of Kansas Cancer Center, Kansas City, KS 66210, USA.",
+        "Institute for Bioengineering Research, University of Kansas, Lawrence, KS 66045, USA.",
+        "Center for Craniofacial Molecular Biology, Herman Ostrow School of Dentistry of USC, The University of Southern California, Los Angeles, CA 90033, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Tamerler, Candan",
+        "short_name": "Tamerler C",
+        "identifiers": [
+          "0000-0002-1960-2218"
+        ],
+        "affiliations": [
+          "Institute for Bioengineering Research, University of Kansas, Lawrence, KS 66045, USA.",
+          "Department of Mechanical Engineering, University of Kansas, Lawrence, KS 66045, USA.",
+          "Bioengineering Program, University of Kansas, Lawrence, KS 66045, USA.",
+          "The University of Kansas Cancer Center, Kansas City, KS 66210, USA."
+        ]
+      },
+      {
+        "full_name": "Snead, Malcolm L",
+        "short_name": "Snead ML",
+        "identifiers": [
+          "0000-0002-4496-6478"
+        ],
+        "affiliations": [
+          "Institute for Bioengineering Research, University of Kansas, Lawrence, KS 66045, USA.",
+          "Center for Craniofacial Molecular Biology, Herman Ostrow School of Dentistry of USC, The University of Southern California, Los Angeles, CA 90033, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biomimetics (Basel, Switzerland)"
+    ],
+    "journal_abbrev": [
+      "Biomimetics (Basel)"
+    ],
+    "pub_date": "2026 Sep 21",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/24 23:52",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42782706",
+      "42475469",
+      "23912807",
+      "42437078",
+      "34390736",
+      "39433443",
+      "38987470",
+      "42041496",
+      "38220424",
+      "38194282",
+      "38097100",
+      "18831774",
+      "41036572",
+      "35139468",
+      "33719450",
+      "31441158",
+      "34545666",
+      "34285781",
+      "41544898",
+      "39094909",
+      "42448413",
+      "20522251",
+      "25752799",
+      "41053403",
+      "19462392",
+      "31709918",
+      "33248138",
+      "29982297",
+      "41497175",
+      "36674958",
+      "37961110",
+      "31139867",
+      "32828470",
+      "34922214",
+      "39214891",
+      "38275091",
+      "34179096",
+      "40645561",
+      "37634152",
+      "31894361",
+      "30058229",
+      "30144197",
+      "23269364",
+      "24532081",
+      "39196930",
+      "34626492",
+      "36648282",
+      "33243935",
+      "34461937",
+      "28191922",
+      "33087759",
+      "42306853",
+      "32824743",
+      "35325330",
+      "19594884",
+      "25286318",
+      "42317555",
+      "41082321",
+      "36851914",
+      "42387899",
+      "22280012",
+      "35436286",
+      "23056474",
+      "38956008",
+      "33260713",
+      "39828029",
+      "24317797",
+      "24027208",
+      "31756456",
+      "34656334",
+      "36430530",
+      "38252962",
+      "33036302",
+      "27668217",
+      "42585785",
+      "35098694",
+      "26149687",
+      "35310482",
+      "26922996",
+      "38118365",
+      "35034725",
+      "42282589",
+      "39740709",
+      "30813315",
+      "31425549",
+      "35882686",
+      "30979035",
+      "21732203",
+      "32696395",
+      "36908253",
+      "37498545",
+      "36750251",
+      "42715790",
+      "32859072",
+      "33076213",
+      "38297118",
+      "21647374",
+      "34656327",
+      "39071267",
+      "30352491"
+    ],
+    "review": [
+      "42782706",
+      "42437078",
+      "34390736",
+      "38220424",
+      "38097100",
+      "41036572",
+      "35139468",
+      "31441158",
+      "34545666",
+      "34285781",
+      "41544898",
+      "39094909",
+      "42448413",
+      "25752799",
+      "19462392",
+      "31709918",
+      "33248138",
+      "29982297",
+      "41497175",
+      "31139867",
+      "32828470",
+      "34922214",
+      "39214891",
+      "40645561",
+      "30144197",
+      "23269364",
+      "24532081",
+      "36648282",
+      "33243935",
+      "28191922",
+      "42306853",
+      "42317555",
+      "36851914",
+      "22280012",
+      "38956008",
+      "33260713",
+      "39828029",
+      "24027208",
+      "34656334",
+      "36430530",
+      "27668217",
+      "35098694",
+      "26922996",
+      "38118365",
+      "39740709",
+      "35882686",
+      "30979035",
+      "36750251",
+      "42715790"
+    ],
+    "pmc": [
+      "13604059"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.mdpi.com/resolver?pii=biomimetics11090680",
+        "provider": "MDPI",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

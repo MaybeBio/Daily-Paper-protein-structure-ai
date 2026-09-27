@@ -1,0 +1,271 @@
+{
+  "identity": {
+    "pmid": "42769965",
+    "doi": "10.1039/d6sc04842k",
+    "title": "Constrained diffusion-enabled construction of a highly expressed and robust peptide asparaginyl ligase."
+  },
+  "content": {
+    "abstract": "Peptide asparaginyl ligases (PALs) hold great promise for peptide macrocyclization and protein bioconjugation, yet their broader application is limited by insufficient thermal stability and low recombinant expression. Here, we report FortiPAL-1, a diffusion-enabled PAL developed through an integrated computational-experimental strategy that couples de novo sequence generation with multi-model-guided mutagenesis and PAL-specific functional refinements. Compared with natural PALs, FortiPAL-1 exhibits markedly enhanced thermal stability (T (m) = 69  degrees C versus  approximately 50  degrees C for typical PALs) and achieves a soluble zymogen expression level of 64 mg L(-1) in E. coli, substantially exceeding reported expression levels for natural PALs, while maintaining catalytic efficiency comparable to the fastest known natural PAL, butelase-1 (k (cat)/K (m) = 1.3 x 10(6) M(-1) s(-1)). Notably, the enhanced structural stability does not translate into a corresponding shift in the optimal reaction temperature, highlighting a decoupling between global folding stability and catalytic performance. Together, these results demonstrate how a constrained, diffusion-enabled engineering workflow can transform fragile enzyme scaffolds into robust, application-ready biocatalysts and highlight the importance of integrating generative protein design with experimental optimization to translate in silico designs into high-performance dynamic enzymes.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Pang, Shuo",
+        "Hao, Yuxing",
+        "Mo, Jiarong",
+        "He, Yingying",
+        "Cui, Yinglu",
+        "Wu, Bian",
+        "Hemu, Xinya"
+      ],
+      "short_names": [
+        "Pang S",
+        "Hao Y",
+        "Mo J",
+        "He Y",
+        "Cui Y",
+        "Wu B",
+        "Hemu X"
+      ],
+      "auids": [
+        "ORCID: 0009-0007-1091-7188",
+        "ORCID: 0000-0002-2147-5879",
+        "ORCID: 0000-0003-1979-5854"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Natural Medicines, School of Traditional Chinese Pharmacy, China Pharmaceutical University Nanjing 211198 China hemuxinya@cpu.edu.cn.",
+        "State Key Laboratory of Microbial Diversity and Innovative Utilization, Institute of Microbiology, Chinese Academy of Sciences Beijing China cuiyinglu@im.ac.cn.",
+        "State Key Laboratory of Natural Medicines, School of Traditional Chinese Pharmacy, China Pharmaceutical University Nanjing 211198 China hemuxinya@cpu.edu.cn.",
+        "School of Life Science and Technology, China Pharmaceutical University Nanjing 211198 China.",
+        "State Key Laboratory of Microbial Diversity and Innovative Utilization, Institute of Microbiology, Chinese Academy of Sciences Beijing China cuiyinglu@im.ac.cn.",
+        "China State Key Laboratory of Green Biomanufacturing, Beijing University of Chemical Technology Beijing 100029 PR China thebianwu@outlook.com.",
+        "State Key Laboratory of Natural Medicines, School of Traditional Chinese Pharmacy, China Pharmaceutical University Nanjing 211198 China hemuxinya@cpu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Pang, Shuo",
+        "short_name": "Pang S",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Natural Medicines, School of Traditional Chinese Pharmacy, China Pharmaceutical University Nanjing 211198 China hemuxinya@cpu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Hao, Yuxing",
+        "short_name": "Hao Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Microbial Diversity and Innovative Utilization, Institute of Microbiology, Chinese Academy of Sciences Beijing China cuiyinglu@im.ac.cn."
+        ]
+      },
+      {
+        "full_name": "Mo, Jiarong",
+        "short_name": "Mo J",
+        "identifiers": [
+          "0009-0007-1091-7188"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Natural Medicines, School of Traditional Chinese Pharmacy, China Pharmaceutical University Nanjing 211198 China hemuxinya@cpu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "He, Yingying",
+        "short_name": "He Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Science and Technology, China Pharmaceutical University Nanjing 211198 China."
+        ]
+      },
+      {
+        "full_name": "Cui, Yinglu",
+        "short_name": "Cui Y",
+        "identifiers": [
+          "0000-0002-2147-5879"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Microbial Diversity and Innovative Utilization, Institute of Microbiology, Chinese Academy of Sciences Beijing China cuiyinglu@im.ac.cn."
+        ]
+      },
+      {
+        "full_name": "Wu, Bian",
+        "short_name": "Wu B",
+        "identifiers": [],
+        "affiliations": [
+          "China State Key Laboratory of Green Biomanufacturing, Beijing University of Chemical Technology Beijing 100029 PR China thebianwu@outlook.com."
+        ]
+      },
+      {
+        "full_name": "Hemu, Xinya",
+        "short_name": "Hemu X",
+        "identifiers": [
+          "0000-0003-1979-5854"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Natural Medicines, School of Traditional Chinese Pharmacy, China Pharmaceutical University Nanjing 211198 China hemuxinya@cpu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Chemical science"
+    ],
+    "journal_abbrev": [
+      "Chem Sci"
+    ],
+    "pub_date": "2026 Sep 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/22 12:42",
+    "fetched_at": "2026-09-27 07:35:17"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42769965",
+      "42475469",
+      "31123145",
+      "35480425",
+      "31875402",
+      "38832470",
+      "42045211",
+      "41713572",
+      "36764523",
+      "23912807",
+      "35761050",
+      "36788723",
+      "36662259",
+      "30638507",
+      "41449959",
+      "39536149",
+      "36843268",
+      "25038786",
+      "42747196",
+      "34746098",
+      "39025194",
+      "40533551",
+      "34003638",
+      "36099055",
+      "26556173",
+      "40946437",
+      "41547509",
+      "38525648",
+      "34745555",
+      "34096285",
+      "25879765",
+      "42479387",
+      "27446236",
+      "9208949",
+      "41705341",
+      "36924109",
+      "21729945",
+      "39556614",
+      "42390092",
+      "31187974",
+      "41850450",
+      "36321557",
+      "40106785",
+      "41315820",
+      "42649117",
+      "42696893",
+      "42092962",
+      "41138874",
+      "32832059",
+      "41924473",
+      "42217501",
+      "41916458",
+      "14661974",
+      "22685214",
+      "42419186",
+      "40943500",
+      "40916978",
+      "23338700",
+      "40762489",
+      "27303445",
+      "41161424",
+      "42085918",
+      "41683378",
+      "38458293",
+      "42134585",
+      "31249343",
+      "11722565",
+      "38637620",
+      "33614604",
+      "42172541",
+      "40391832",
+      "33760451",
+      "10736234",
+      "39614317",
+      "42398548",
+      "27658013",
+      "37815487",
+      "42218716",
+      "10821702",
+      "31161505",
+      "42160334",
+      "24657866",
+      "42758048",
+      "15639234",
+      "38357862",
+      "11297666",
+      "36602359",
+      "19181663",
+      "42762885",
+      "38437538",
+      "41855859",
+      "36106702",
+      "34813066",
+      "23455344",
+      "41858178",
+      "41638280",
+      "28284313",
+      "16473525",
+      "42096864",
+      "33897886"
+    ],
+    "review": [
+      "42769965",
+      "36321557",
+      "42419186"
+    ],
+    "pmc": [
+      "13591771"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42769965/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.1039/d6sc04842k",
+        "provider": "Royal Society of Chemistry",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-472",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}
