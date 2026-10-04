@@ -1,0 +1,112 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.26.754739",
+  "title": "EnsPlex: Integrative Protein Complex Prediction through Multi-source Complementary Structural Sampling and Topology-Aware Candidate Selection",
+  "doi": "10.64898/2026.09.26.754739",
+  "abstract": "Protein complex structure prediction depends on both the breadth of candidate coverage and the ability to select accurate models within a limited output budget. Most existing approaches emphasize only one stage. End-to-end models and molecular docking workflows generate candidate structures, whereas quality-assessment models primarily rerank a predefined candidate pool. A complete strategy must account for complementary sampling across generators, differences among scoring scales and the allocation of final candidate quotas. Here, EnsPlex is presented as a multi-source framework that couples structural sampling with candidate selection for protein-protein interaction complex prediction. EnsPlex combines conformation-expanded docking, AlphaFold-Multimer, AlphaFold3 and Boltz-1 to expand the sampled conformational space. Conformation-expanded docking comprises monomer conformational expansion followed by flexible HADDOCK docking. FACET is trained to predict candidate quality using DockQ and its component metrics as supervision. Across 102 antigen-antibody systems, EnsPlex achieved up to a 27.8% relative improvement in target success rate over AlphaFold3 with its built-in ranking under matched output budgets. FACET also improved within-source ranking in the internal candidate pools and in homology-filtered external data. These findings support the utility of EnsPlex for structure prediction in the evaluated antigen-antibody systems.",
+  "authors": [
+    "Hu B",
+    "Lu Z",
+    "Zaman K",
+    "Sun Z",
+    "He X"
+  ],
+  "published_date": "2026-10-02",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.26.754739",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.26.754739.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1332998",
+    "raw_record": {
+      "id": "PPR1332998",
+      "source": "PPR",
+      "doi": "10.64898/2026.09.26.754739",
+      "title": "EnsPlex: Integrative Protein Complex Prediction through Multi-source Complementary Structural Sampling and Topology-Aware Candidate Selection",
+      "authorString": "Hu B, Lu Z, Zaman K, Sun Z, He X.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Hu B",
+            "lastName": "Hu",
+            "firstName": "Baochuan",
+            "initials": "B"
+          },
+          {
+            "fullName": "Lu Z",
+            "lastName": "Lu",
+            "firstName": "Zhenhua",
+            "initials": "Z"
+          },
+          {
+            "fullName": "Zaman K",
+            "lastName": "Zaman",
+            "firstName": "Khalid",
+            "initials": "K"
+          },
+          {
+            "fullName": "Sun Z",
+            "lastName": "Sun",
+            "firstName": "Zhaoxi",
+            "initials": "Z"
+          },
+          {
+            "fullName": "He X",
+            "lastName": "He",
+            "firstName": "Xiao",
+            "initials": "X"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Protein complex structure prediction depends on both the breadth of candidate coverage and the ability to select accurate models within a limited output budget. Most existing approaches emphasize only one stage. End-to-end models and molecular docking workflows generate candidate structures, whereas quality-assessment models primarily rerank a predefined candidate pool. A complete strategy must account for complementary sampling across generators, differences among scoring scales and the allocation of final candidate quotas. Here, EnsPlex is presented as a multi-source framework that couples structural sampling with candidate selection for protein-protein interaction complex prediction. EnsPlex combines conformation-expanded docking, AlphaFold-Multimer, AlphaFold3 and Boltz-1 to expand the sampled conformational space. Conformation-expanded docking comprises monomer conformational expansion followed by flexible HADDOCK docking. FACET is trained to predict candidate quality using DockQ and its component metrics as supervision. Across 102 antigen-antibody systems, EnsPlex achieved up to a 27.8% relative improvement in target success rate over AlphaFold3 with its built-in ranking under matched output budgets. FACET also improved within-source ranking in the internal candidate pools and in homology-filtered external data. These findings support the utility of EnsPlex for structure prediction in the evaluated antigen-antibody systems.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.09.26.754739"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-10-03",
+      "firstPublicationDate": "2026-10-02",
+      "firstIndexDate": "2026-10-03",
+      "hasEvaluations": "N"
+    }
+  }
+}

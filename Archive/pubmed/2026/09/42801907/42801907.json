@@ -1,0 +1,260 @@
+{
+  "identity": {
+    "pmid": "42801907",
+    "doi": "10.1016/j.jmgm.2026.109583",
+    "title": "Staged computational prioritization of lanmodulin binding-site designs for dysprosium-focused rare-earth separation."
+  },
+  "content": {
+    "abstract": "Rare-earth separations are energy- and solvent-intensive, motivating aqueous protein-based alternatives. We developed a staged computational workflow combining four experimental lanmodulin templates, constrained ProteinMPNN and LigandMPNN sampling, score-only Rosetta triage, and an exploratory OpenMM geometry screen to prioritize a candidate for future reduced-cluster multireference characterization. The residue-role inventory comprised 70 category memberships representing 66 unique positions because four positions belonged to two roles. Fixed-seed sequence generation and subsequent triage yielded three finalist models. Three 100 ps OpenMM replicas were evaluated for each candidate-metal combination, yielding 45 simulations. Audit of the retained systems showed that amber19-all.xml and amber19/opc3.xml were loaded, but no explicit bulk-solvent molecules or counterions were present. The retained system XMLs and execution code contained a standard NonbondedForce and no verified C4/r4 implementation; the calculations therefore cannot be described as verified 12-6-4 simulations. Every replica produced a 3.2 A any-oxygen occupancy fraction of 1.000 using oxygen atoms present in the retained topology, making this descriptor non-discriminating. The Hans pocket and AM1/Mex descriptors each averaged four target-metal sites, whereas the Hans interface descriptor averaged 14 sites, including 10 on fixed chains B-D. Cross-topology distance comparisons were therefore not site matched. Within each topology, Al(III) and Fe(III) produced shorter model-dependent distances than Dy(III), Nd(III), and Y(III), but these observations are not binding free energies or evidence of selectivity. A dimensionless Composite Quality Index, CQI = 0.7L + 0.3G, ranked the Hans chain-A pocket model highest at 0.802 and was used solely for candidate prioritization. The workflow therefore identifies a model-prioritized candidate for further computation and experiment.",
+    "keywords": [
+      "Candidate prioritization",
+      "Dysprosium",
+      "Lanmodulin",
+      "Molecular dynamics",
+      "Protein sequence design",
+      "Rare-earth separation"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Rahatul Ashakin, M D",
+        "Mahata, Avik",
+        "Khan, Raiyan",
+        "Andriotakis, Gregory",
+        "Provencher, Brian",
+        "Stuetzle, Christopher",
+        "Roosan, Don"
+      ],
+      "short_names": [
+        "Rahatul Ashakin MD",
+        "Mahata A",
+        "Khan R",
+        "Andriotakis G",
+        "Provencher B",
+        "Stuetzle C",
+        "Roosan D"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Washington University of Science and Technology, Alexandria, USA.",
+        "Mechanical and Electrical Engineering, Merrimack College, North Andover, MA, 01845, USA.",
+        "Montclair State University, Montclair, NJ, USA.",
+        "School of Engineering and Computational Sciences, Merrimack College, 315 Turnpike Street, North Andover, MA, 01845, USA.",
+        "Department of Chemistry, Merrimack College, North Andover, MA, 01845, USA.",
+        "School of Engineering and Computational Sciences, Merrimack College, 315 Turnpike Street, North Andover, MA, 01845, USA.",
+        "School of Engineering and Computational Sciences, Merrimack College, 315 Turnpike Street, North Andover, MA, 01845, USA. Electronic address: roosand@merrimack.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Rahatul Ashakin, M D",
+        "short_name": "Rahatul Ashakin MD",
+        "identifiers": [],
+        "affiliations": [
+          "Washington University of Science and Technology, Alexandria, USA."
+        ]
+      },
+      {
+        "full_name": "Mahata, Avik",
+        "short_name": "Mahata A",
+        "identifiers": [],
+        "affiliations": [
+          "Mechanical and Electrical Engineering, Merrimack College, North Andover, MA, 01845, USA."
+        ]
+      },
+      {
+        "full_name": "Khan, Raiyan",
+        "short_name": "Khan R",
+        "identifiers": [],
+        "affiliations": [
+          "Montclair State University, Montclair, NJ, USA."
+        ]
+      },
+      {
+        "full_name": "Andriotakis, Gregory",
+        "short_name": "Andriotakis G",
+        "identifiers": [],
+        "affiliations": [
+          "School of Engineering and Computational Sciences, Merrimack College, 315 Turnpike Street, North Andover, MA, 01845, USA."
+        ]
+      },
+      {
+        "full_name": "Provencher, Brian",
+        "short_name": "Provencher B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Merrimack College, North Andover, MA, 01845, USA."
+        ]
+      },
+      {
+        "full_name": "Stuetzle, Christopher",
+        "short_name": "Stuetzle C",
+        "identifiers": [],
+        "affiliations": [
+          "School of Engineering and Computational Sciences, Merrimack College, 315 Turnpike Street, North Andover, MA, 01845, USA."
+        ]
+      },
+      {
+        "full_name": "Roosan, Don",
+        "short_name": "Roosan D",
+        "identifiers": [],
+        "affiliations": [
+          "School of Engineering and Computational Sciences, Merrimack College, 315 Turnpike Street, North Andover, MA, 01845, USA. Electronic address: roosand@merrimack.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of molecular graphics & modelling"
+    ],
+    "journal_abbrev": [
+      "J Mol Graph Model"
+    ],
+    "pub_date": "2026 Sep 25",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/27 23:28",
+    "fetched_at": "2026-10-04 07:45:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42801907",
+      "37259003",
+      "38527460",
+      "39847513",
+      "41851437",
+      "42785137",
+      "40046988",
+      "39467132",
+      "42510696",
+      "40202178",
+      "23912807",
+      "42475469",
+      "39844641",
+      "42393217",
+      "34904892",
+      "42676336",
+      "42211825",
+      "42573395",
+      "9480772",
+      "26609601",
+      "38236582",
+      "42662718",
+      "36041177",
+      "42685901",
+      "42696893",
+      "33620822",
+      "41310253",
+      "26042329",
+      "36321557",
+      "42561603",
+      "24941018",
+      "42794687",
+      "41416701",
+      "42653127",
+      "12889961",
+      "31265293",
+      "26596615",
+      "11924735",
+      "42376479",
+      "39333310",
+      "32510956",
+      "34841054",
+      "42479975",
+      "41582617",
+      "19643976",
+      "39150724",
+      "42356587",
+      "42043606",
+      "40982250",
+      "39030817",
+      "42734526",
+      "12862469",
+      "33187185",
+      "40155723",
+      "12866050",
+      "26584363",
+      "41888275",
+      "16844742",
+      "37834751",
+      "26503829",
+      "28677954",
+      "42797499",
+      "42019241",
+      "20225831",
+      "35935293",
+      "29345906",
+      "20151411",
+      "41822751",
+      "41612433",
+      "31588316",
+      "40498541",
+      "34694813",
+      "42792956",
+      "22497310",
+      "41331039",
+      "42611581",
+      "40985823",
+      "28513090",
+      "34542285",
+      "42412272",
+      "23914143",
+      "17718478",
+      "41685578",
+      "20507100",
+      "31984465",
+      "33085409",
+      "1167543",
+      "26613320",
+      "42670866",
+      "20460129",
+      "38330842",
+      "42611115",
+      "16616932",
+      "27606388",
+      "37116124",
+      "21303099",
+      "42216919",
+      "500729",
+      "42647531",
+      "26592409"
+    ],
+    "review": [
+      "42801907",
+      "26042329",
+      "36321557",
+      "39150724"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1093-3263(26)00309-8",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3339",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

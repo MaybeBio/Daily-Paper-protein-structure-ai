@@ -1,0 +1,35 @@
+{
+  "source": "arxiv",
+  "source_id": "2609.37571v1",
+  "title": "What Does a Semilocal Machine-Learning Correction Actually Learn? Size-Dependent Errors across Four Parent Functionals",
+  "doi": "",
+  "abstract": "Machine-learning (ML) corrections to density functional approximations (DFAs) offer a route to improving electronic-structure predictions while retaining the efficiency of semilocal functionals. An important question is whether such corrections learn transferable improvements or instead compensate for errors specific to the parent functional. Here, we address this question by applying the semilocal ML correction of Wang \\textit{et al.} [J.~Chem.~Phys.~\\textbf{158}, 154107 (2023)] to PBE, B3LYP, SCAN, and r$^2$SCAN, while keeping the network architecture, loss function, training set, and optimization protocol unchanged. We find that the learned correction develops a systematic size-dependent contribution to atomization energies for all four parents, with $|r|\\geq0.9999$ along the $n$-alkane series, where r is the Pearson coefficient of the linear fit. Its magnitude and sign depend systematically on the parent: the correction partially compensates the size-dependent errors of PBE and B3LYP, but introduces substantial size-dependent contributions for SCAN and r$^2$SCAN, whose parent errors show little size dependence. In contrast, ionization potentials, electron affinities, and isomerization energies are largely unaffected. Spatial decomposition further reveals distinct origins of this extensive contribution, with bonding regions dominating for B3LYP, SCAN, and r$^2$SCAN and core regions dominating for PBE. These results show that the global-energy ML correction is strongly dependent on the error structure of its parent DFA, highlighting size-dependent error accumulation as a critical consideration in the assessment and development of ML-enhanced density functionals.",
+  "authors": [
+    "Abhishek Bhattacharjee",
+    "Kishan Kumar Mohanta",
+    "Subrata Jana",
+    "Prasanjit Samal"
+  ],
+  "published_date": "2026-09-29T13:39:00Z",
+  "updated_date": "2026-09-29T13:39:00Z",
+  "journal": "",
+  "category": "physics.chem-ph, cond-mat.mtrl-sci",
+  "landing_url": "https://arxiv.org/abs/2609.37571v1",
+  "pdf_url": "https://arxiv.org/pdf/2609.37571v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "physics.chem-ph",
+    "cond-mat.mtrl-sci"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2609.37571v1",
+    "raw_categories": [
+      "physics.chem-ph",
+      "cond-mat.mtrl-sci"
+    ],
+    "journal_ref": ""
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "identity": {
+    "pmid": "42818193",
+    "doi": "10.64898/2026.04.28.720402",
+    "title": "Predicting Supramolecular Self-Assembly of Peptide Structures with AlphaFold3."
+  },
+  "content": {
+    "abstract": "Self-assembled peptide-based nanostructures have diverse applications in the pharmaceutical and materials fields, but accurately predicting their self-assembly behavior without time-intensive organic synthesis and characterization remains a significant challenge. Here, we assess the effectiveness of AlphaFold3 (AF3), a deep learning model for protein structure prediction, in modeling peptide-based nanostructures and the interactions driving supramolecular self-assembly. We designed amphiphilic peptides composed of alternating hydrophobic residues (valine, leucine, isoleucine, phenylalanine) and hydrophilic residues (glutamic acid), varying both sequence length and residue order. Using AF3's multimer mode, we modeled assemblies with copy numbers ranging from 10 to 1000, generating diverse morphologies such as micelles and nanotubes. We qualitatively analyzed hydrophobic regions, secondary structures, and intermolecular interactions, while also calculating radii of gyration, packing scores, and aspect ratios using PyRosetta. Our results indicate that AF3 predicts morphologies consistent with hydrophobic driving forces and steric constraints. Increased hydrophobicity correlates with smaller radii of gyration, while higher copy numbers correspond to smaller aspect ratios (more compact structures). Longer hydrophobic segments lead to disordered structures, whereas longer hydrophilic segments promote organization. While AF3 captures systemic trends consistent with biophysical principles, comparisons to literature reveal discrepancies driven by charge effects and secondary structure bias, including an overemphasis on helical propensity (e.g., alanine-rich sequences) and sensitivity to terminal charge repulsion. Additionally, since AF3 is predisposed to predict a single assembled entity rather than higher-order assemblies such as multiple micelles or fibers, finding the optimal copy number for the best prediction requires system-specific iteration. These limitations highlight the need for complementary approaches with controlled chemical potential and environmental conditions, though qualitative agreement with experimental trends in morphology and compactness supports AF3's utility for initial structure generation. Our findings highlight AF3's potential as a user-friendly first pass screening tool for peptide design, enabling rapid generation and prioritization of candidate assemblies for subsequent evaluation using coarse-grained or all-atom molecular simulations toward the efficient development of functional self-assembled peptide nanomaterials.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Sklar, Claire",
+        "Huh, Jessie",
+        "Chen, Sabrina",
+        "Gray, Jeffrey J"
+      ],
+      "short_names": [
+        "Sklar C",
+        "Huh J",
+        "Chen S",
+        "Gray JJ"
+      ],
+      "auids": [
+        "ORCID: 0009-0005-5033-1734",
+        "ORCID: 0009-0007-1432-1568",
+        "ORCID: 0009-0007-8076-4535",
+        "ORCID: 0000-0001-6380-2324"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Sklar, Claire",
+        "short_name": "Sklar C",
+        "identifiers": [
+          "0009-0005-5033-1734"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Huh, Jessie",
+        "short_name": "Huh J",
+        "identifiers": [
+          "0009-0007-1432-1568"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Chen, Sabrina",
+        "short_name": "Chen S",
+        "identifiers": [
+          "0009-0007-8076-4535"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Gray, Jeffrey J",
+        "short_name": "Gray JJ",
+        "identifiers": [
+          "0000-0001-6380-2324"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Sep 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/01 11:37",
+    "fetched_at": "2026-10-04 07:45:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42818193",
+      "42475469",
+      "23912807",
+      "30253107",
+      "36321557",
+      "28263559",
+      "21568346",
+      "41712661",
+      "31004957",
+      "22352406",
+      "33182629",
+      "35786832",
+      "23553562",
+      "28453939",
+      "39772484",
+      "33074649",
+      "42714942",
+      "34014638",
+      "36049324",
+      "26301845",
+      "41142756",
+      "41639320",
+      "24888420",
+      "21234982",
+      "42262767",
+      "25000284",
+      "33052654",
+      "40784106",
+      "30869864",
+      "16055181",
+      "27677734",
+      "41438428",
+      "23554376",
+      "35029997",
+      "24478261",
+      "35507643",
+      "41229118",
+      "29558116",
+      "18597507",
+      "40376775",
+      "25488898",
+      "34151480",
+      "34800001",
+      "23952713",
+      "26619132",
+      "34904892",
+      "29868964",
+      "28589640",
+      "37726235",
+      "42089187",
+      "21413731",
+      "33136361",
+      "29081050",
+      "24559427",
+      "34477738",
+      "23145959",
+      "24945080",
+      "30828574",
+      "40702806",
+      "24468750",
+      "41000000",
+      "28905963",
+      "34940778",
+      "23927837",
+      "40166350",
+      "26741294",
+      "38883239",
+      "42790247",
+      "27088564",
+      "27626071",
+      "42815324",
+      "35796261",
+      "16283291",
+      "18367205",
+      "28571316",
+      "24915982",
+      "25574953",
+      "30285407",
+      "32027125",
+      "24652037",
+      "34846491",
+      "17894489",
+      "36948821",
+      "40498829",
+      "28876055",
+      "32930440",
+      "31404449",
+      "25003982",
+      "22468743",
+      "37462931",
+      "21956759",
+      "19555073",
+      "40857166",
+      "42662366",
+      "38345926",
+      "34887062",
+      "42252868",
+      "36738209",
+      "38232052",
+      "39745487"
+    ],
+    "review": [
+      "42818193",
+      "36321557",
+      "34014638",
+      "41438428",
+      "34800001",
+      "42089187",
+      "30828574",
+      "19555073",
+      "36738209",
+      "38232052"
+    ],
+    "pmc": [
+      "13622397"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.64898/2026.04.28.720402",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

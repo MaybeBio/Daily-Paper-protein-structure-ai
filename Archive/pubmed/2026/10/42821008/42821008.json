@@ -1,0 +1,336 @@
+{
+  "identity": {
+    "pmid": "42821008",
+    "doi": "10.1007/s10822-026-00949-5",
+    "title": "Uncovering hidden druggable sites: computational approaches to allosteric and cryptic pocket discovery-from molecular dynamics to AI."
+  },
+  "content": {
+    "abstract": "Allosteric and cryptic binding pockets represent a vast underexploited frontier in drug discovery, offering routes to biological targets historically considered undruggable. The absence of apparent binding pockets in the global conformations of apo structures, together with limitations in availability of chemical probes and experimental structures for novel targets, makes the identification of allosteric and cryptic sites particularly challenging. Despite their ability to reveal transient and otherwise inaccessible pockets, computational methods remain underutilized for allosteric and cryptic site discovery. In this perspective, we present the current state-of-the-art of computational strategies that are available in a computational scientists' toolbox to evaluate the possibility of finding such pockets when assessing a new target in a drug discovery project. Computational approaches span a spectrum from physics-based methods grounded in molecular thermodynamics to AI/ML techniques for identifying allosteric and cryptic binding sites. Physics-based approaches encompass methods operating across multiple scales, from single-conformation analyses that identify pockets based on geometry and energetics (e.g., Fpocket, SiteMap) to molecular simulations that reveal cryptic states and transient binding sites, as well as mixed-solvent and probe-based approaches (e.g., SILCS, MixMD) that delineate druggable hotspots through enhanced sampling. AI/ML methods such as PocketMiner and deep learning cofolding models (AlphaFold3, Boltz) that rapidly predict cryptic sites are discussed in the context of them being over 1,000-fold faster than classical simulations. By surveying current methods and benchmark studies, we aim to define their domains of applicability, highlight their strengths and limitations, and identify opportunities for their integration in prospective drug discovery.",
+    "keywords": [
+      "AI/ML",
+      "Allosteric Sites",
+      "Cryptic Sites",
+      "Molecular Dynamics",
+      "Protein Flexibility"
+    ],
+    "mesh_terms": [
+      "*Molecular Dynamics Simulation",
+      "*Drug Discovery/methods",
+      "Binding Sites",
+      "Allosteric Site",
+      "Thermodynamics",
+      "Humans",
+      "*Proteins/chemistry",
+      "Allosteric Regulation",
+      "Protein Conformation",
+      "Artificial Intelligence",
+      "Protein Binding",
+      "Ligands"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Lakkaraju, Sirish Kaushik",
+        "Pierce, Olivia",
+        "Mentes, Ahmet",
+        "Zhang, Ivy",
+        "Tokarski, John",
+        "Chalkley, Matthew",
+        "Kuriappan, Jissy",
+        "Mukherjee, Goutam",
+        "Palmeri, Antonio",
+        "Johnson, Theresa",
+        "Shanmugasundaram, Veerabahu"
+      ],
+      "short_names": [
+        "Lakkaraju SK",
+        "Pierce O",
+        "Mentes A",
+        "Zhang I",
+        "Tokarski J",
+        "Chalkley M",
+        "Kuriappan J",
+        "Mukherjee G",
+        "Palmeri A",
+        "Johnson T",
+        "Shanmugasundaram V"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-0566-6779"
+      ],
+      "affiliations": [
+        "Computational Sciences, Bristol Myers Squibb, Princeton, NJ, 08540, USA. kaushik.lakkaraju@bms.com.",
+        "Computational Sciences, Bristol Myers Squibb, Cambridge, MA, 02141, USA.",
+        "Computational Sciences, Bristol Myers Squibb, Princeton, NJ, 08540, USA.",
+        "Computational Sciences, Bristol Myers Squibb, Cambridge, MA, 02141, USA.",
+        "Computational Sciences, Bristol Myers Squibb, Princeton, NJ, 08540, USA.",
+        "Computational Sciences, Bristol Myers Squibb, Redwood City, CA, 94063, USA.",
+        "Biocon Bristol Myers Squibb R&D Centre, Bangalore, Karnataka, 560099, India.",
+        "Biocon Bristol Myers Squibb R&D Centre, Bangalore, Karnataka, 560099, India.",
+        "Informatics & Predictive Sciences, Bristol Myers Squibb, Cambridge, MA, 02141, USA.",
+        "Computational Sciences, Bristol Myers Squibb, Cambridge, MA, 02141, USA.",
+        "Computational Sciences, Bristol Myers Squibb, Cambridge, MA, 02141, USA. veerabahu.shanmugasundaram@bms.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Lakkaraju, Sirish Kaushik",
+        "short_name": "Lakkaraju SK",
+        "identifiers": [],
+        "affiliations": [
+          "Computational Sciences, Bristol Myers Squibb, Princeton, NJ, 08540, USA. kaushik.lakkaraju@bms.com."
+        ]
+      },
+      {
+        "full_name": "Pierce, Olivia",
+        "short_name": "Pierce O",
+        "identifiers": [],
+        "affiliations": [
+          "Computational Sciences, Bristol Myers Squibb, Cambridge, MA, 02141, USA."
+        ]
+      },
+      {
+        "full_name": "Mentes, Ahmet",
+        "short_name": "Mentes A",
+        "identifiers": [],
+        "affiliations": [
+          "Computational Sciences, Bristol Myers Squibb, Princeton, NJ, 08540, USA."
+        ]
+      },
+      {
+        "full_name": "Zhang, Ivy",
+        "short_name": "Zhang I",
+        "identifiers": [],
+        "affiliations": [
+          "Computational Sciences, Bristol Myers Squibb, Cambridge, MA, 02141, USA."
+        ]
+      },
+      {
+        "full_name": "Tokarski, John",
+        "short_name": "Tokarski J",
+        "identifiers": [],
+        "affiliations": [
+          "Computational Sciences, Bristol Myers Squibb, Princeton, NJ, 08540, USA."
+        ]
+      },
+      {
+        "full_name": "Chalkley, Matthew",
+        "short_name": "Chalkley M",
+        "identifiers": [],
+        "affiliations": [
+          "Computational Sciences, Bristol Myers Squibb, Redwood City, CA, 94063, USA."
+        ]
+      },
+      {
+        "full_name": "Kuriappan, Jissy",
+        "short_name": "Kuriappan J",
+        "identifiers": [],
+        "affiliations": [
+          "Biocon Bristol Myers Squibb R&D Centre, Bangalore, Karnataka, 560099, India."
+        ]
+      },
+      {
+        "full_name": "Mukherjee, Goutam",
+        "short_name": "Mukherjee G",
+        "identifiers": [],
+        "affiliations": [
+          "Biocon Bristol Myers Squibb R&D Centre, Bangalore, Karnataka, 560099, India."
+        ]
+      },
+      {
+        "full_name": "Palmeri, Antonio",
+        "short_name": "Palmeri A",
+        "identifiers": [],
+        "affiliations": [
+          "Informatics & Predictive Sciences, Bristol Myers Squibb, Cambridge, MA, 02141, USA."
+        ]
+      },
+      {
+        "full_name": "Johnson, Theresa",
+        "short_name": "Johnson T",
+        "identifiers": [],
+        "affiliations": [
+          "Computational Sciences, Bristol Myers Squibb, Cambridge, MA, 02141, USA."
+        ]
+      },
+      {
+        "full_name": "Shanmugasundaram, Veerabahu",
+        "short_name": "Shanmugasundaram V",
+        "identifiers": [
+          "0000-0003-0566-6779"
+        ],
+        "affiliations": [
+          "Computational Sciences, Bristol Myers Squibb, Cambridge, MA, 02141, USA. veerabahu.shanmugasundaram@bms.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of computer-aided molecular design"
+    ],
+    "journal_abbrev": [
+      "J Comput Aided Mol Des"
+    ],
+    "pub_date": "2026 Oct 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/01 23:30",
+    "fetched_at": "2026-10-04 07:45:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42821008",
+      "42490529",
+      "39778412",
+      "39283165",
+      "41604887",
+      "34933653",
+      "33570386",
+      "36868791",
+      "40429853",
+      "41945898",
+      "42734533",
+      "40665815",
+      "41685393",
+      "42473809",
+      "40384021",
+      "32134250",
+      "31911242",
+      "37896786",
+      "33315227",
+      "39419500",
+      "38732174",
+      "38904218",
+      "20626410",
+      "41413356",
+      "41865847",
+      "33599485",
+      "42701301",
+      "27726386",
+      "41051642",
+      "40404166",
+      "37175454",
+      "37716095",
+      "36859488",
+      "41648445",
+      "28570708",
+      "35636004",
+      "29800865",
+      "22753506",
+      "26854760",
+      "42239053",
+      "27074285",
+      "39190764",
+      "34748701",
+      "40653264",
+      "40423592",
+      "29030241",
+      "29581267",
+      "40914553",
+      "40784662",
+      "42018639",
+      "20356358",
+      "23095452",
+      "30998331",
+      "27258368",
+      "36922138",
+      "41776961",
+      "35041430",
+      "32175736",
+      "37143823",
+      "39484820",
+      "28537745",
+      "26487442",
+      "39256431",
+      "35595169",
+      "37896850",
+      "31810712",
+      "33140952",
+      "30652534",
+      "42227652",
+      "37003737",
+      "41758998",
+      "42475469",
+      "26579775",
+      "38563746",
+      "42414572",
+      "21371598",
+      "34163609",
+      "25107670",
+      "22183526",
+      "36827465",
+      "31337749",
+      "26648062",
+      "41689234",
+      "41901326",
+      "42579383",
+      "41182888",
+      "39393724",
+      "33682622",
+      "29905479",
+      "40043838",
+      "25185787",
+      "29188568",
+      "40842437",
+      "35175753",
+      "22035460",
+      "31141211",
+      "30525607",
+      "29768914",
+      "42160909",
+      "37115636"
+    ],
+    "review": [
+      "42821008",
+      "39778412",
+      "41604887",
+      "34933653",
+      "40665815",
+      "41685393",
+      "42473809",
+      "32134250",
+      "37175454",
+      "37716095",
+      "35636004",
+      "29800865",
+      "27074285",
+      "40653264",
+      "40423592",
+      "29030241",
+      "40914553",
+      "40784662",
+      "26487442",
+      "25107670",
+      "36827465",
+      "26648062",
+      "41901326",
+      "40043838",
+      "29188568"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1007/s10822-026-00949-5",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "identity": {
+    "pmid": "42806979",
+    "doi": "10.3389/fcimb.2026.1924817",
+    "title": "Antigenic remodeling of the SARS-CoV-2 Spike N-terminal domain links sequence variability to structural reorganization of a neutralizing antibody supersite."
+  },
+  "content": {
+    "abstract": "INTRODUCTION: The N-terminal domain (NTD) of the Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Spike harbors a neutralizing antibody supersite and is a recurrent site of antigenic change. However, how sequence variability across pre- and post-vaccination immune landscapes reshapes antibody recognition remains incompletely characterized. METHODS: Clinical-genomic surveillance was combined with structural modeling and molecular dynamics to identify antigenically relevant NTD changes and probe their structural impact on the neutralizing antibody interface. SARS-CoV-2 profiles were compared across two periods reflecting contrasting immune contexts: a pre-vaccination period dominated by B.1.1.33 and a post-vaccination period dominated by the Omicron sublineage BQ.1.1. A local cohort (n=126) supported descriptive characterization. An expanded cohort integrating local and GISAID genomes with harmonized clinical metadata (n=534; 401 pre-vaccination, 133 post-vaccination) was used to prioritize candidate loci by their association with clinical severity. RESULTS: In adjusted models, age remained independently associated with severity in both periods, whereas sex did not. In the pre-vaccination cohort, Spike S in the NTD was associated with greater severity, without phylogenetic segregation by outcome. This association is exploratory and was used to prioritize an antigenically located NTD change for structural analysis. Q23K was regionally concentrated in Espirito Santo (57.4%) relative to other Brazilian states (2.7%) and international genomes (1.4%). In the post-vaccination cohort, an overlapping deletion event (ORF9b -29/N -33) was associated with non-severe disease, but should be interpreted cautiously given metadata heterogeneity, cohort structure, and the nature of the locus. However, in this period clinical outcome and sequencing source were partially confounded. A source-stratified sensitivity analysis restricted to GISAID-only samples showed the association persisted, but could not rule out a source- or pipeline-dependent indel-calling artifact, so the finding is reported as exploratory. Although Q23K itself did not persist, adjacent NTD changes (T19I/A27S/D24 -26) became recurrent post-vaccination, indicating remodeling of the same antigenic neighborhood rather than persistence of a single mutation. Structural modeling and molecular dynamics of the NTD-antibody 1 -87 complex supported reorganization of the modeled antibody-antigen interface, with redistribution of supersite contacts rather than loss of structural compatibility. DISCUSSION: These findings link NTD variability across immune contexts to structural reorganization of the modeled antibody-antigen interface and support integrating genomic surveillance with structural analysis to prioritize antigenically relevant changes for functional testing.",
+    "keywords": [
+      "N-terminal domain",
+      "SARS-CoV-2",
+      "antibody-antigen interface",
+      "antigenic remodeling",
+      "genomic surveillance",
+      "molecular dynamics",
+      "neutralizing antibody supersite"
+    ],
+    "mesh_terms": [
+      "*SARS-CoV-2/immunology/genetics",
+      "*Antibodies, Neutralizing/immunology/chemistry",
+      "Humans",
+      "*COVID-19/immunology/virology/prevention & control",
+      "*Spike Glycoprotein, Coronavirus/immunology/genetics/chemistry",
+      "*Antibodies, Viral/immunology",
+      "Molecular Dynamics Simulation",
+      "Protein Domains",
+      "Male",
+      "COVID-19 Vaccines/immunology",
+      "Female"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ardisson, Juliana Santa",
+        "Athaydes, Brena Ramos",
+        "Monfardini Sagrillo, Mariane Vedovatti",
+        "de Almeida, Raphaella Luisa Fernandes",
+        "Paneto, Greiciane Gaburro",
+        "de Paula, Hebert",
+        "Nunes, Gabriela Ferreira",
+        "Spano, Liliana Cruz",
+        "von Zeidler, Sandra Ventorin",
+        "Bastos-Filho, Teodiano Freire"
+      ],
+      "short_names": [
+        "Ardisson JS",
+        "Athaydes BR",
+        "Monfardini Sagrillo MV",
+        "de Almeida RLF",
+        "Paneto GG",
+        "de Paula H",
+        "Nunes GF",
+        "Spano LC",
+        "von Zeidler SV",
+        "Bastos-Filho TF"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Postgraduate Program in Biotechnology, Health Sciences Center, Federal University of Espirito Santo, Vitoria, Espirito Santo, Brazil.",
+        "Postgraduate Program in Biotechnology, Health Sciences Center, Federal University of Espirito Santo, Vitoria, Espirito Santo, Brazil.",
+        "Postgraduate Program in Biotechnology, Health Sciences Center, Federal University of Espirito Santo, Vitoria, Espirito Santo, Brazil.",
+        "Postgraduate Program in Biotechnology, Health Sciences Center, Federal University of Espirito Santo, Vitoria, Espirito Santo, Brazil.",
+        "Postgraduate Program in Biotechnology, Health Sciences Center, Federal University of Espirito Santo, Vitoria, Espirito Santo, Brazil.",
+        "Department of Pharmacy and Nutrition, Center of Exact, Natural and Health Sciences, Federal University of Espirito Santo, Alegre, Espirito Santo, Brazil.",
+        "Postgraduate Program in Infectious Diseases, Health Sciences Center, Federal University of Espirito Santo, Vitoria, Espirito Santo, Brazil.",
+        "Postgraduate Program in Infectious Diseases, Health Sciences Center, Federal University of Espirito Santo, Vitoria, Espirito Santo, Brazil.",
+        "Postgraduate Program in Biotechnology, Health Sciences Center, Federal University of Espirito Santo, Vitoria, Espirito Santo, Brazil.",
+        "Department of Pathology, Health Sciences Center, Federal University of Espirito Santo, Vitoria, Espirito Santo, Brazil.",
+        "Postgraduate Program in Biotechnology, Health Sciences Center, Federal University of Espirito Santo, Vitoria, Espirito Santo, Brazil."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ardisson, Juliana Santa",
+        "short_name": "Ardisson JS",
+        "identifiers": [],
+        "affiliations": [
+          "Postgraduate Program in Biotechnology, Health Sciences Center, Federal University of Espírito Santo, Vitória, Espírito Santo, Brazil."
+        ]
+      },
+      {
+        "full_name": "Athaydes, Brena Ramos",
+        "short_name": "Athaydes BR",
+        "identifiers": [],
+        "affiliations": [
+          "Postgraduate Program in Biotechnology, Health Sciences Center, Federal University of Espírito Santo, Vitória, Espírito Santo, Brazil."
+        ]
+      },
+      {
+        "full_name": "Monfardini Sagrillo, Mariane Vedovatti",
+        "short_name": "Monfardini Sagrillo MV",
+        "identifiers": [],
+        "affiliations": [
+          "Postgraduate Program in Biotechnology, Health Sciences Center, Federal University of Espírito Santo, Vitória, Espírito Santo, Brazil."
+        ]
+      },
+      {
+        "full_name": "de Almeida, Raphaella Luisa Fernandes",
+        "short_name": "de Almeida RLF",
+        "identifiers": [],
+        "affiliations": [
+          "Postgraduate Program in Biotechnology, Health Sciences Center, Federal University of Espírito Santo, Vitória, Espírito Santo, Brazil."
+        ]
+      },
+      {
+        "full_name": "Paneto, Greiciane Gaburro",
+        "short_name": "Paneto GG",
+        "identifiers": [],
+        "affiliations": [
+          "Postgraduate Program in Biotechnology, Health Sciences Center, Federal University of Espírito Santo, Vitória, Espírito Santo, Brazil."
+        ]
+      },
+      {
+        "full_name": "de Paula, Hebert",
+        "short_name": "de Paula H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacy and Nutrition, Center of Exact, Natural and Health Sciences, Federal University of Espírito Santo, Alegre, Espírito Santo, Brazil."
+        ]
+      },
+      {
+        "full_name": "Nunes, Gabriela Ferreira",
+        "short_name": "Nunes GF",
+        "identifiers": [],
+        "affiliations": [
+          "Postgraduate Program in Infectious Diseases, Health Sciences Center, Federal University of Espírito Santo, Vitória, Espírito Santo, Brazil."
+        ]
+      },
+      {
+        "full_name": "Spano, Liliana Cruz",
+        "short_name": "Spano LC",
+        "identifiers": [],
+        "affiliations": [
+          "Postgraduate Program in Infectious Diseases, Health Sciences Center, Federal University of Espírito Santo, Vitória, Espírito Santo, Brazil."
+        ]
+      },
+      {
+        "full_name": "von Zeidler, Sandra Ventorin",
+        "short_name": "von Zeidler SV",
+        "identifiers": [],
+        "affiliations": [
+          "Postgraduate Program in Biotechnology, Health Sciences Center, Federal University of Espírito Santo, Vitória, Espírito Santo, Brazil.",
+          "Department of Pathology, Health Sciences Center, Federal University of Espírito Santo, Vitória, Espírito Santo, Brazil."
+        ]
+      },
+      {
+        "full_name": "Bastos-Filho, Teodiano Freire",
+        "short_name": "Bastos-Filho TF",
+        "identifiers": [],
+        "affiliations": [
+          "Postgraduate Program in Biotechnology, Health Sciences Center, Federal University of Espírito Santo, Vitória, Espírito Santo, Brazil."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in cellular and infection microbiology"
+    ],
+    "journal_abbrev": [
+      "Front Cell Infect Microbiol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/29 12:28",
+    "fetched_at": "2026-10-04 07:45:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42806979",
+      "40135879",
+      "42519305",
+      "34033342",
+      "40136024",
+      "33789084",
+      "35080430",
+      "33112236",
+      "40415355",
+      "39361729",
+      "35467422",
+      "39470577",
+      "39192804",
+      "34431691",
+      "39589795",
+      "42555640",
+      "39173622",
+      "39969224",
+      "34834921",
+      "35072628",
+      "34925381",
+      "40882161",
+      "40043139",
+      "38624232",
+      "40485545",
+      "40042313",
+      "34872349",
+      "42554515",
+      "41666181",
+      "37126534",
+      "41027157",
+      "32571838",
+      "42117695",
+      "34643438",
+      "35447092",
+      "34021265",
+      "39162540",
+      "34696403",
+      "39759508",
+      "40498855",
+      "33836142",
+      "35176090",
+      "39565133",
+      "34868082",
+      "41698311",
+      "33684923",
+      "40130874",
+      "34210893",
+      "40872744",
+      "39723823",
+      "33947773",
+      "41519394",
+      "42047168",
+      "39189731",
+      "39241318",
+      "33761326",
+      "34452287",
+      "38953380",
+      "34192529",
+      "42741364",
+      "33706364",
+      "42774458",
+      "39727342",
+      "34417349",
+      "41008647",
+      "35714668",
+      "41901725",
+      "39033078",
+      "41288098",
+      "42623712",
+      "41902185",
+      "42157126",
+      "40967903",
+      "34607456",
+      "35196783",
+      "40431652",
+      "35123652",
+      "40463385",
+      "35003104",
+      "35073390",
+      "34781736",
+      "40073246",
+      "40842437",
+      "35090596",
+      "42515087",
+      "41060789",
+      "42616572",
+      "41478237",
+      "41042059",
+      "35472136",
+      "38563762",
+      "33810465",
+      "33045718",
+      "39789099",
+      "39749328",
+      "42350987",
+      "34182775",
+      "39339934",
+      "40001552",
+      "40573332"
+    ],
+    "review": [
+      "42806979",
+      "40415355",
+      "35176090"
+    ],
+    "pmc": [
+      "13616644"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/covid19coronavirusdisease2019.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "COVID-19 (Coronavirus Disease 2019)"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42806979/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-438",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fcimb.2026.1924817",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.23.753608",
+  "title": "AtomWeaver: Multi-Component Flow Matching with a Structured Geometric Prior Facilitates Non-Canonical Peptide Design",
+  "doi": "10.64898/2026.09.23.753608",
+  "abstract": "Fixed-backbone sequence discovery, or inverse folding , is a critical recurring task in the development of new polypeptide therapeutics. Once promising backbones are established for a target pocket, computational inverse folding methods greatly help accelerate generation of candidate sequences. Such methods are mature for the traditional case of limiting to the fixed twenty-letter canonical vocabulary; however, they cannot access the broader space of non-canonical amino acids (NCAAs). This design constraint is exacerbated for peptide binders, a fast-growing modality that readily incorporates NCAAs, though in practice non-canonical design frequently depends on laborious medicinal-chemistry campaigns. An extension of inverse folding to NCAAs is thus critical to accelerating design of novel therapeutic peptides. AtomWeaver uses a joint all-site, atom-level generative scheme that does not restrict side-chain categorical assignment by either predetermined or co-resolving residue identity. Conditioned only on a fixed peptide backbone and its target protein, its multi-component flow guides side-chain atoms as unlabeled points in R 3 from a nested shell prior to a variable-count final atom cloud. Identity is then read by matching each predicted cloud against a reference library of canonical and non-canonical templates. Since identity is decided only at decode time, the addressable vocabulary is a property of the library rather than of the trained weights: a new NCAA costs one reference structure and no retraining, and the model can select residues it was never prompted for and never saw in training. On a deep mutational scan of two peptide–target systems, AtomWeaver’s canonical readout shows high observed mean agreement with experimental values among the compared inverse-folding methods. In the mixed canonical–noncanonical setting that canonical-only baselines cannot support at all, it likewise retains ranking signal across both systems. AtomWeaver also displayed self-consistent designs on de novo binder backbones, with the highest interface confidence among compared methods. Notably, it reached these metrics while achieving broad empirical coverage of our 300-residue vocabulary, including four non-canonical types never visible in training. AtomWeaver thus serves canonical and non-canonical peptide design alike, while transforming residue vocabulary to an expandable inference-time choice.",
+  "authors": [
+    "Kitaygorodsky A",
+    "Hostallero DE",
+    "Broom A",
+    "Layne E",
+    "Hwang S",
+    "Kanawaty AK",
+    "Babej T",
+    "Butterfoss GL",
+    "Fingerhuth M"
+  ],
+  "published_date": "2026-09-28",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.23.753608",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.23.753608.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1330800",
+    "raw_record": {
+      "id": "PPR1330800",
+      "source": "PPR",
+      "doi": "10.64898/2026.09.23.753608",
+      "title": "AtomWeaver: Multi-Component Flow Matching with a Structured Geometric Prior Facilitates Non-Canonical Peptide Design",
+      "authorString": "Kitaygorodsky A, Hostallero DE, Broom A, Layne E, Hwang S, Kanawaty AK, Babej T, Butterfoss GL, Fingerhuth M.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Kitaygorodsky A",
+            "lastName": "Kitaygorodsky",
+            "firstName": "Alexander",
+            "initials": "A"
+          },
+          {
+            "fullName": "Hostallero DE",
+            "lastName": "Hostallero",
+            "firstName": "David Earl",
+            "initials": "DE"
+          },
+          {
+            "fullName": "Broom A",
+            "lastName": "Broom",
+            "firstName": "Aron",
+            "initials": "A"
+          },
+          {
+            "fullName": "Layne E",
+            "lastName": "Layne",
+            "firstName": "Elliot",
+            "initials": "E"
+          },
+          {
+            "fullName": "Hwang S",
+            "lastName": "Hwang",
+            "firstName": "Sungwon",
+            "initials": "S"
+          },
+          {
+            "fullName": "Kanawaty AK",
+            "lastName": "Kanawaty",
+            "firstName": "Ashlin",
+            "initials": "AK"
+          },
+          {
+            "fullName": "Babej T",
+            "lastName": "Babej",
+            "firstName": "Tomáš",
+            "initials": "T"
+          },
+          {
+            "fullName": "Butterfoss GL",
+            "lastName": "Butterfoss",
+            "firstName": "Glenn",
+            "initials": "GL"
+          },
+          {
+            "fullName": "Fingerhuth M",
+            "lastName": "Fingerhuth",
+            "firstName": "Mark",
+            "initials": "M"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Fixed-backbone sequence discovery, or  inverse folding , is a critical recurring task in the development of new polypeptide therapeutics. Once promising backbones are established for a target pocket, computational inverse folding methods greatly help accelerate generation of candidate sequences. Such methods are mature for the traditional case of limiting to the fixed twenty-letter  canonical vocabulary; however, they cannot access the broader space of non-canonical amino acids (NCAAs). This design constraint is exacerbated for peptide binders, a fast-growing modality that readily incorporates NCAAs, though in practice non-canonical design frequently depends on laborious medicinal-chemistry campaigns. An extension of inverse folding to NCAAs is thus critical to accelerating design of novel therapeutic peptides.  AtomWeaver uses a joint all-site, atom-level generative scheme that does not restrict side-chain categorical assignment by either predetermined or co-resolving residue identity. Conditioned only on a fixed peptide backbone and its target protein, its multi-component flow guides side-chain atoms as unlabeled points in R  3 from a  nested shell prior to a variable-count final atom cloud. Identity is then read by matching each predicted cloud against a reference library of canonical and non-canonical templates. Since identity is decided only at decode time, the addressable vocabulary is a property of the library rather than of the trained weights: a new NCAA costs one reference structure and no retraining, and the model can select residues it was never prompted for and never saw in training.  On a deep mutational scan of two peptide–target systems, AtomWeaver’s canonical readout shows high observed mean agreement with experimental values among the compared inverse-folding methods. In the mixed canonical–noncanonical setting that canonical-only baselines cannot support at all, it likewise retains ranking signal across both systems. AtomWeaver also displayed self-consistent designs on  de novo binder backbones, with the highest interface confidence among compared methods. Notably, it reached these metrics  while achieving broad empirical coverage of our 300-residue vocabulary, including four non-canonical types never visible in training. AtomWeaver thus serves canonical and non-canonical peptide design alike, while transforming residue vocabulary to an expandable inference-time choice.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.09.23.753608"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-09-30",
+      "firstPublicationDate": "2026-09-28",
+      "firstIndexDate": "2026-09-30",
+      "hasEvaluations": "N"
+    }
+  }
+}

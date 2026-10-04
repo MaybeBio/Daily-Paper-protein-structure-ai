@@ -1,0 +1,219 @@
+{
+  "identity": {
+    "pmid": "42802474",
+    "doi": "10.1002/prot.70179",
+    "title": "Thermodynamics and Kinetics of Dimerization-Coupled Fold Switching in the Chemokine XCL1."
+  },
+  "content": {
+    "abstract": "Metamorphic proteins challenge the classical view of protein folding by reversibly interconverting between two distinct, stable native structures. XCL1 (lymphotactin) is a prototypical example, transitioning between a monomeric mixed- alpha/beta chemokine fold and an alternate all- beta fold that forms a stable dimer. Here we develop and apply a coarse-grained, structure-based model to investigate how temperature and electrostatic screening control this fold switch. By tuning the relative interaction strength of native contacts in the two folds, we show that the model qualitatively reproduces the experimentally observed temperature dependence of XCL1 fold populations, including an increasing alternate-fold population with increasing temperature. We introduce a sequence-dependent treatment of salt effects, which reveals a strong sensitivity of the fold equilibrium to salt concentration and yields a temperature-salt phase diagram with a broad coexistence region. Focusing on conditions near coexistence, kinetic simulations of the chemokine-to-alternate fold transition show that productive dimerization tends to occur when both chains are at least partially unfolded, and that formation of the final alternate dimer may proceed via an intermediate state characterized by a partially formed dimer interface. Finally, we use the model to examine how charge patterning in ancestral variants of XCL1 modulates the population balance between the two folds.",
+    "keywords": [
+      "XCL1",
+      "coarse-grained simulation",
+      "dimerization",
+      "fold switching",
+      "lymphotactin",
+      "metamorphic protein",
+      "structure-based model"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Seifi, Bahman",
+        "de Souza, Greg",
+        "Wallin, Stefan"
+      ],
+      "short_names": [
+        "Seifi B",
+        "de Souza G",
+        "Wallin S"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-6202-5316",
+        "ORCID: 0000-0001-5446-7704",
+        "ORCID: 0000-0002-1077-5331"
+      ],
+      "affiliations": [
+        "Department of Physics and Physical Oceanography, Memorial University, St. John's, Newfoundland, Canada.",
+        "Department of Physics and Physical Oceanography, Memorial University, St. John's, Newfoundland, Canada.",
+        "Department of Physics and Physical Oceanography, Memorial University, St. John's, Newfoundland, Canada."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Seifi, Bahman",
+        "short_name": "Seifi B",
+        "identifiers": [
+          "0000-0001-6202-5316"
+        ],
+        "affiliations": [
+          "Department of Physics and Physical Oceanography, Memorial University, St. John's, Newfoundland, Canada."
+        ]
+      },
+      {
+        "full_name": "de Souza, Greg",
+        "short_name": "de Souza G",
+        "identifiers": [
+          "0000-0001-5446-7704"
+        ],
+        "affiliations": [
+          "Department of Physics and Physical Oceanography, Memorial University, St. John's, Newfoundland, Canada."
+        ]
+      },
+      {
+        "full_name": "Wallin, Stefan",
+        "short_name": "Wallin S",
+        "identifiers": [
+          "0000-0002-1077-5331"
+        ],
+        "affiliations": [
+          "Department of Physics and Physical Oceanography, Memorial University, St. John's, Newfoundland, Canada."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Proteins"
+    ],
+    "journal_abbrev": [
+      "Proteins"
+    ],
+    "pub_date": "2026 Sep 27",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/28 05:33",
+    "fetched_at": "2026-10-04 07:45:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42802474",
+      "34204234",
+      "32986858",
+      "33384377",
+      "32243126",
+      "20059117",
+      "11580254",
+      "11967361",
+      "26085164",
+      "25497737",
+      "37291449",
+      "26302421",
+      "41483876",
+      "42120955",
+      "11604538",
+      "37233895",
+      "23882999",
+      "24385911",
+      "17545246",
+      "35230837",
+      "37270322",
+      "39400465",
+      "39875045",
+      "25252157",
+      "10518944",
+      "36669114",
+      "12684011",
+      "20338854",
+      "39671178",
+      "24473276",
+      "9813133",
+      "39840812",
+      "18364395",
+      "27305837",
+      "18840448",
+      "22161863",
+      "15035606",
+      "37551809",
+      "38826295",
+      "9245428",
+      "37956216",
+      "18086840",
+      "25259958",
+      "24289039",
+      "42475469",
+      "19480914",
+      "22979897",
+      "20017540",
+      "22755603",
+      "17092136",
+      "42310953",
+      "9080195",
+      "11580255",
+      "9398154",
+      "33521926",
+      "18156467",
+      "11041875",
+      "22583310",
+      "17942114",
+      "18234223",
+      "9585569",
+      "34339197",
+      "20568747",
+      "42079206",
+      "39386676",
+      "10995234",
+      "30913878",
+      "9079363",
+      "11889129",
+      "15568807",
+      "15588829",
+      "24214655",
+      "12963815",
+      "9865958",
+      "16023675",
+      "23912807",
+      "8988022",
+      "24050152",
+      "23163394",
+      "20226790",
+      "15313622",
+      "18186476",
+      "8993335",
+      "12755636",
+      "36992534",
+      "16848488",
+      "8605191",
+      "14672667",
+      "19150359",
+      "8611580",
+      "32061276",
+      "6544036",
+      "24115081",
+      "15629113",
+      "40823744",
+      "12054829",
+      "11352586",
+      "9153420",
+      "28445749",
+      "27626458"
+    ],
+    "review": [
+      "42802474",
+      "41483876",
+      "37270322"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1002/prot.70179",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "source": "arxiv",
+  "source_id": "2609.35296v1",
+  "title": "AbGaze: Attentive Geometric Representation Learning for End-to-End Antibody Design",
+  "doi": "",
+  "abstract": "Computational antibody design requires representations that capture the geometric patterns underlying antigen--antibody interactions, yet existing approaches often rely on scalar distances or surface-intrinsic features, leaving cross-molecular geometry largely implicit. We present AbGaze, an end-to-end antibody design framework based on attentive geometric representation learning, which encodes distance, spatial direction, and surface-normal orientation of antigen surfaces relative to antibody-residue local frames, and adaptively aggregates these geometric interactions according to their interfacial context. The learned interaction representation is shared across multi-CDR co-design, complex structure prediction, and affinity optimization, with local-frame geometric supervision further constraining the representation. AbGaze outperforms prior methods across all three tasks: relative to the second-best method, it improves amino-acid recovery by 7.1% and reduces structural error by 14.9% on average over the six CDRs, improves interface docking quality (DockQ) by 6.6%, and raises the affinity improvement rate (IMP) by 32.5%.",
+  "authors": [
+    "Jiashuo Wang",
+    "Siqi Fan",
+    "Yizhen Luo",
+    "Zaiqing Nie"
+  ],
+  "published_date": "2026-09-28T14:38:57Z",
+  "updated_date": "2026-09-28T14:38:57Z",
+  "journal": "",
+  "category": "cs.AI",
+  "landing_url": "https://arxiv.org/abs/2609.35296v1",
+  "pdf_url": "https://arxiv.org/pdf/2609.35296v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cs.AI"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2609.35296v1",
+    "raw_categories": [
+      "cs.AI"
+    ],
+    "journal_ref": ""
+  }
+}

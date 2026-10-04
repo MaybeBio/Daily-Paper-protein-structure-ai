@@ -1,0 +1,329 @@
+{
+  "identity": {
+    "pmid": "42802164",
+    "doi": "10.1038/s41467-026-77019-9",
+    "title": "Atomic resolution structure of human papillomavirus bound to heparin."
+  },
+  "content": {
+    "abstract": "Human papillomavirus (HPV) is a significant health burden and leading cause of virus-induced cancers. The mechanisms of HPV receptor binding and host entry are not completely understood, although it is known that heparan sulfate proteoglycans (HSPGs) mediate entry. HPV16 quasivirus, composed of L1 and L2 capsid proteins with a packaged cottontail rabbit papillomavirus genome was incubated with heparin. The complex was vitrified, and data were collected for cryoEM single particle analysis. Subparticles were extracted and hexavalent and pentavalent capsomers were refined separately. Here we present the resulting 1.9 A resolution structure, with heparin visualized around the capsomer at the icosahedral fivefold vertex. A model of the asymmetric unit was built unambiguously into the atomic resolution cryoEM map. Hydrogen bonds are predicted between L1 N-terminal regions, which are supported by molecular dynamics. The heparin binding site was identified, along with local L1 conformational changes and global flexibility changes. These changes induced by heparin binding likely reflect the structure of HPV during early stages of entry and provide a framework for future HPV biochemical, genetic, and biophysical studies.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Heparin/metabolism/chemistry",
+      "*Capsid Proteins/metabolism/chemistry/ultrastructure",
+      "Animals",
+      "Cryoelectron Microscopy",
+      "Binding Sites",
+      "*Human papillomavirus 16/metabolism/chemistry/ultrastructure",
+      "*Oncogene Proteins, Viral/metabolism/chemistry/ultrastructure",
+      "Protein Binding",
+      "Cottontail rabbit papillomavirus/metabolism/genetics",
+      "Humans",
+      "Rabbits",
+      "Models, Molecular",
+      "Molecular Dynamics Simulation",
+      "Protein Conformation",
+      "Capsid/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Langley, Caroline H",
+        "Goetschius, Daniel J",
+        "Antolinez, Santiago",
+        "Orji, Ebere Precious",
+        "Bator, Carol M",
+        "Brendle, Sarah A",
+        "Christensen, Neil D",
+        "Hadden-Perilla, Jodi A",
+        "Hafenstein, Susan L"
+      ],
+      "short_names": [
+        "Langley CH",
+        "Goetschius DJ",
+        "Antolinez S",
+        "Orji EP",
+        "Bator CM",
+        "Brendle SA",
+        "Christensen ND",
+        "Hadden-Perilla JA",
+        "Hafenstein SL"
+      ],
+      "auids": [
+        "ORCID: 0009-0009-5346-6051",
+        "ORCID: 0000-0002-6052-7141",
+        "ORCID: 0009-0006-9415-9873",
+        "ORCID: 0000-0003-4685-8291",
+        "ORCID: 0000-0003-2609-4036"
+      ],
+      "affiliations": [
+        "Department of Biochemistry, Molecular Biology, and Biophysics, University of Minnesota, Minneapolis, MN, USA.",
+        "The Hormel Institute, University of Minnesota, Austin, MN, USA.",
+        "Department of Medicine, Pennsylvania State University College of Medicine, Hershey, PA, USA.",
+        "Department of Chemistry & Biochemistry, University of Delaware, Newark, DE, USA.",
+        "Department of Biochemistry, Molecular Biology, and Biophysics, University of Minnesota, Minneapolis, MN, USA.",
+        "The Hormel Institute, University of Minnesota, Austin, MN, USA.",
+        "The Hormel Institute, University of Minnesota, Austin, MN, USA.",
+        "Department of Pathology, Pennsylvania State University College of Medicine, Hershey, PA, USA.",
+        "The Jake Gittlen Laboratories for Cancer Research, College of Medicine, Hershey, PA, USA.",
+        "Department of Pathology, Pennsylvania State University College of Medicine, Hershey, PA, USA.",
+        "The Jake Gittlen Laboratories for Cancer Research, College of Medicine, Hershey, PA, USA.",
+        "Department of Microbiology and Immunology, Pennsylvania State University College of Medicine, Hershey, PA, USA.",
+        "Department of Chemistry & Biochemistry, University of Delaware, Newark, DE, USA. jhadden@udel.edu.",
+        "Department of Biochemistry, Molecular Biology, and Biophysics, University of Minnesota, Minneapolis, MN, USA. hafen@umn.edu.",
+        "The Hormel Institute, University of Minnesota, Austin, MN, USA. hafen@umn.edu.",
+        "Department of Infectious Diseases, Mayo Clinic, Rochester, MN, USA. hafen@umn.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Langley, Caroline H",
+        "short_name": "Langley CH",
+        "identifiers": [
+          "0009-0009-5346-6051"
+        ],
+        "affiliations": [
+          "Department of Biochemistry, Molecular Biology, and Biophysics, University of Minnesota, Minneapolis, MN, USA.",
+          "The Hormel Institute, University of Minnesota, Austin, MN, USA."
+        ]
+      },
+      {
+        "full_name": "Goetschius, Daniel J",
+        "short_name": "Goetschius DJ",
+        "identifiers": [
+          "0000-0002-6052-7141"
+        ],
+        "affiliations": [
+          "Department of Medicine, Pennsylvania State University College of Medicine, Hershey, PA, USA."
+        ]
+      },
+      {
+        "full_name": "Antolínez, Santiago",
+        "short_name": "Antolínez S",
+        "identifiers": [
+          "0009-0006-9415-9873"
+        ],
+        "affiliations": [
+          "Department of Chemistry & Biochemistry, University of Delaware, Newark, DE, USA."
+        ]
+      },
+      {
+        "full_name": "Orji, Ebere Precious",
+        "short_name": "Orji EP",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, Molecular Biology, and Biophysics, University of Minnesota, Minneapolis, MN, USA.",
+          "The Hormel Institute, University of Minnesota, Austin, MN, USA."
+        ]
+      },
+      {
+        "full_name": "Bator, Carol M",
+        "short_name": "Bator CM",
+        "identifiers": [],
+        "affiliations": [
+          "The Hormel Institute, University of Minnesota, Austin, MN, USA."
+        ]
+      },
+      {
+        "full_name": "Brendle, Sarah A",
+        "short_name": "Brendle SA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, Pennsylvania State University College of Medicine, Hershey, PA, USA.",
+          "The Jake Gittlen Laboratories for Cancer Research, College of Medicine, Hershey, PA, USA."
+        ]
+      },
+      {
+        "full_name": "Christensen, Neil D",
+        "short_name": "Christensen ND",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, Pennsylvania State University College of Medicine, Hershey, PA, USA.",
+          "The Jake Gittlen Laboratories for Cancer Research, College of Medicine, Hershey, PA, USA.",
+          "Department of Microbiology and Immunology, Pennsylvania State University College of Medicine, Hershey, PA, USA."
+        ]
+      },
+      {
+        "full_name": "Hadden-Perilla, Jodi A",
+        "short_name": "Hadden-Perilla JA",
+        "identifiers": [
+          "0000-0003-4685-8291"
+        ],
+        "affiliations": [
+          "Department of Chemistry & Biochemistry, University of Delaware, Newark, DE, USA. jhadden@udel.edu."
+        ]
+      },
+      {
+        "full_name": "Hafenstein, Susan L",
+        "short_name": "Hafenstein SL",
+        "identifiers": [
+          "0000-0003-2609-4036"
+        ],
+        "affiliations": [
+          "Department of Biochemistry, Molecular Biology, and Biophysics, University of Minnesota, Minneapolis, MN, USA. hafen@umn.edu.",
+          "The Hormel Institute, University of Minnesota, Austin, MN, USA. hafen@umn.edu.",
+          "Department of Infectious Diseases, Mayo Clinic, Rochester, MN, USA. hafen@umn.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Aug 26",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/28 05:33",
+    "fetched_at": "2026-10-04 07:45:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42802164",
+      "28065506",
+      "33568731",
+      "26401038",
+      "18367526",
+      "30996086",
+      "29211035",
+      "26246568",
+      "31387913",
+      "25392224",
+      "23601855",
+      "39572555",
+      "22356831",
+      "22761365",
+      "34696452",
+      "26202251",
+      "24928042",
+      "17715230",
+      "17961263",
+      "23966387",
+      "19629175",
+      "10026203",
+      "20666526",
+      "27276427",
+      "23800545",
+      "8380832",
+      "25926655",
+      "31092566",
+      "36815785",
+      "8289365",
+      "25096873",
+      "30602608",
+      "25911730",
+      "10882140",
+      "22927980",
+      "39155395",
+      "23536685",
+      "19121398",
+      "24444361",
+      "29593032",
+      "20739540",
+      "20598725",
+      "12663788",
+      "41973535",
+      "28178455",
+      "15543569",
+      "28250129",
+      "25693203",
+      "35285688",
+      "19640991",
+      "22085463",
+      "16175337",
+      "25111024",
+      "17210082",
+      "31645650",
+      "12533712",
+      "40415288",
+      "17553881",
+      "1334560",
+      "24621643",
+      "21115492",
+      "11287582",
+      "29535023",
+      "18854037",
+      "11160736",
+      "29058661",
+      "12768018",
+      "26559838",
+      "11044077",
+      "12857908",
+      "39431827",
+      "7561785",
+      "41941926",
+      "17640876",
+      "32967963",
+      "32938763",
+      "23689062",
+      "17239496",
+      "19756360",
+      "19027752",
+      "18175039",
+      "38829892",
+      "27147749",
+      "19087355",
+      "24469550",
+      "14645552",
+      "27992877",
+      "30375341",
+      "8230414",
+      "24036405",
+      "39276669",
+      "27654294",
+      "32123072",
+      "17005666",
+      "29155139",
+      "21865392",
+      "41125214",
+      "8553535",
+      "25540379",
+      "27795438"
+    ],
+    "review": [
+      "42802164",
+      "23800545",
+      "23536685"
+    ],
+    "pmc": [
+      "13616934"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/bloodthinners.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Blood Thinners"
+      },
+      {
+        "url": "https://doi.org/10.1038/s41467-026-77019-9",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42802164/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

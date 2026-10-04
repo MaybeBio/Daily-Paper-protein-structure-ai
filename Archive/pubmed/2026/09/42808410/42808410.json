@@ -1,0 +1,280 @@
+{
+  "identity": {
+    "pmid": "42808410",
+    "doi": "10.31557/APJCP.2026.27.9.3411",
+    "title": "alpha-Chaconine as a Potential Inhibitor of Mutant Phosphatidylinositol 3-Kinase Alpha in Breast Cancer Stem Cells: Insights from Structure Prediction and Molecular Dynamics."
+  },
+  "content": {
+    "abstract": "INTRODUCTION: Breast cancer stem cells (BCSCs) promote chemoresistance and metastasis by activating aberrant signaling pathways such as phosphatidylinositol 3-kinase/protein kinase B (PI3K/Akt). alpha-Chaconine (CHA) is a steroidal glycoalkaloid that has demonstrated cytotoxic and antiproliferative activity in various cancer models, possibly through modulation of the PI3K/Akt pathway. However, its direct interaction with PI3Kalpha and related alterations has not yet been elucidated. This study aimed to assess CHA as a potential BCSC-targeting agent, particularly as a PI3K inhibitor targeting both wild-type and mutant PI3Kalpha, using an in silico approach. METHODS: Mutation data were retrieved from cBioPortal and analyzed using MutPred2. SWISS-MODEL was used to generate homology models of the wild-type and mutant PI3Kalpha structures. Structural validation was performed using PROCHECK and ERRAT. Molecular docking was employed to evaluate the binding affinity of the PI3Kalpha-CHA complex. Molecular dynamics simulations were conducted to assess the stability of the interaction between CHA and PI3Kalpha. RESULTS: Three PIK3CA mutations were identified as pathogenic: E542K, E545K, and H1047R. Molecular docking revealed a strong binding affinity of alpelisib to both wild-type and mutant (E542K, E545K, and H1047R) forms of p110 alpha. CHA exhibited the lowest binding energy with the H1047R mutant, with a docking score of -9.93 kcal/mol. Molecular dynamics simulations demonstrated stable interactions of alpelisib with wild-type, E542K, and E545K mutants, whereas CHA showed stable interaction only with the H1047R mutant. MM-PBSA calculations confirmed the lowest binding free energies for alpelisib-wild-type p110alpha and CHA-H1047R complexes, with values of -29.21 kcal/mol and -25.88 kcal/mol, respectively. CONCLUSION: These findings provide a basis for further in vitro and in vivo studies to evaluate CHA as a selective PI3K inhibitor targeting the H1047R PIK3CA mutation in breast cancer stem cells.",
+    "keywords": [
+      "Anticancer",
+      "Mutation",
+      "PI3Kalpha",
+      "alpha-chaconine",
+      "breast cancer stem cells"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Neoplastic Stem Cells/drug effects/pathology/enzymology/metabolism",
+      "*Breast Neoplasms/drug therapy/pathology/genetics/enzymology",
+      "*Class I Phosphatidylinositol 3-Kinases/genetics/antagonists & inhibitors/chemistry",
+      "Female",
+      "*Molecular Dynamics Simulation",
+      "*Mutation",
+      "Molecular Docking Simulation",
+      "*Phosphoinositide-3 Kinase Inhibitors/pharmacology",
+      "Thiazoles"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Saputra, Bakti Wahyu",
+        "Ujiantari, Navista Sri Octa",
+        "Rattyananda, Badra Sanditya",
+        "Alwi, Ratna Surya",
+        "Setiawati, Agustina",
+        "Hermawan, Adam"
+      ],
+      "short_names": [
+        "Saputra BW",
+        "Ujiantari NSO",
+        "Rattyananda BS",
+        "Alwi RS",
+        "Setiawati A",
+        "Hermawan A"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-6398-704X",
+        "ORCID: 0000-0001-5851-3691"
+      ],
+      "affiliations": [
+        "Master in Pharmaceutical Sciences, Faculty of Pharmacy, Gadjah Mada University, Yogyakarta 55281, Indonesia.",
+        "Laboratory of Advanced Pharmaceutical Sciences, Faculty of Pharmacy, Universitas Gadjah Mada, Sekip Utara II, 55281, Yogyakarta, Indonesia.",
+        "Laboratory of Medicinal Chemistry, Department of Pharmaceutical Chemistry, Faculty of Pharmacy, Universitas Gadjah Mada, Sekip Utara II, 55281, Yogyakarta, Indonesia.",
+        "Research Centre for Computation, Research Organization for Electronics and Informatics, National Research and Innovation Agency (BRIN), Jl. Tamansari 71, Bandung City, 40132, Indonesia.",
+        "Doctoral Program of Computational Science, Division of Mathematical & Physical Sciences, Graduate School of Science & Technology, Kanazawa University, Kakuma, Kanazawa, Ishikawa, 920-1192, Japan.",
+        "Research Centre for Computing, National Research and Innovation Agency (BRIN), Jl. Raya Jakarta-Bogor KM 46 Cibinong, 16911, Indonesia.",
+        "Faculty of Pharmacy, Sanata Dharma University, Paingan, Maguwoharjo, Depok, Sleman, Yogyakarta, 55282, Indonesia.",
+        "Laboratory of Advanced Pharmaceutical Sciences, Faculty of Pharmacy, Universitas Gadjah Mada, Sekip Utara II, 55281, Yogyakarta, Indonesia.",
+        "Laboratory of Macromolecular Engineering, Department of Pharmaceutical Chemistry, Faculty of Pharmacy, Universitas Gadjah Mada Sekip Utara II, 55281, Yogyakarta, Indonesia."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Saputra, Bakti Wahyu",
+        "short_name": "Saputra BW",
+        "identifiers": [],
+        "affiliations": [
+          "Master in Pharmaceutical Sciences, Faculty of Pharmacy, Gadjah Mada University, Yogyakarta 55281, Indonesia.",
+          "Laboratory of Advanced Pharmaceutical Sciences, Faculty of Pharmacy, Universitas Gadjah Mada, Sekip Utara II, 55281, Yogyakarta, Indonesia."
+        ]
+      },
+      {
+        "full_name": "Ujiantari, Navista Sri Octa",
+        "short_name": "Ujiantari NSO",
+        "identifiers": [
+          "0000-0001-6398-704X"
+        ],
+        "affiliations": [
+          "Laboratory of Medicinal Chemistry, Department of Pharmaceutical Chemistry, Faculty of Pharmacy, Universitas Gadjah Mada, Sekip Utara II, 55281, Yogyakarta, Indonesia."
+        ]
+      },
+      {
+        "full_name": "Rattyananda, Badra Sanditya",
+        "short_name": "Rattyananda BS",
+        "identifiers": [],
+        "affiliations": [
+          "Research Centre for Computation, Research Organization for Electronics and Informatics, National Research and Innovation Agency (BRIN), Jl. Tamansari 71, Bandung City, 40132, Indonesia.",
+          "Doctoral Program of Computational Science, Division of Mathematical & Physical Sciences, Graduate School of Science & Technology, Kanazawa University, Kakuma, Kanazawa, Ishikawa, 920-1192, Japan."
+        ]
+      },
+      {
+        "full_name": "Alwi, Ratna Surya",
+        "short_name": "Alwi RS",
+        "identifiers": [],
+        "affiliations": [
+          "Research Centre for Computing, National Research and Innovation Agency (BRIN), Jl. Raya Jakarta-Bogor KM 46 Cibinong, 16911, Indonesia."
+        ]
+      },
+      {
+        "full_name": "Setiawati, Agustina",
+        "short_name": "Setiawati A",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Pharmacy, Sanata Dharma University, Paingan, Maguwoharjo, Depok, Sleman, Yogyakarta, 55282, Indonesia."
+        ]
+      },
+      {
+        "full_name": "Hermawan, Adam",
+        "short_name": "Hermawan A",
+        "identifiers": [
+          "0000-0001-5851-3691"
+        ],
+        "affiliations": [
+          "Laboratory of Advanced Pharmaceutical Sciences, Faculty of Pharmacy, Universitas Gadjah Mada, Sekip Utara II, 55281, Yogyakarta, Indonesia.",
+          "Laboratory of Macromolecular Engineering, Department of Pharmaceutical Chemistry, Faculty of Pharmacy, Universitas Gadjah Mada Sekip Utara II, 55281, Yogyakarta, Indonesia."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Asian Pacific journal of cancer prevention : APJCP"
+    ],
+    "journal_abbrev": [
+      "Asian Pac J Cancer Prev"
+    ],
+    "pub_date": "2026 Sep 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/29 12:28",
+    "fetched_at": "2026-10-04 07:45:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42808410",
+      "35842959",
+      "42204977",
+      "40390333",
+      "38909932",
+      "40829787",
+      "41232383",
+      "41581885",
+      "40619551",
+      "24361696",
+      "20866085",
+      "38477582",
+      "27581627",
+      "31173106",
+      "34816327",
+      "41544342",
+      "42024964",
+      "40117718",
+      "33189828",
+      "25152245",
+      "38582077",
+      "28296140",
+      "23826249",
+      "42286162",
+      "36563059",
+      "37466805",
+      "38913211",
+      "31699932",
+      "39698883",
+      "40327992",
+      "19903845",
+      "26827608",
+      "37916958",
+      "29504069",
+      "27197157",
+      "39528618",
+      "27771839",
+      "30341384",
+      "41247066",
+      "37715109",
+      "41406241",
+      "23888070",
+      "30796030",
+      "36343266",
+      "32404150",
+      "25340423",
+      "30543347",
+      "27919038",
+      "28526744",
+      "40638603",
+      "39982680",
+      "38507171",
+      "33356909",
+      "39979449",
+      "34344439",
+      "42310133",
+      "38471647",
+      "38305819",
+      "20424113",
+      "30547809",
+      "37086897",
+      "33386585",
+      "29401002",
+      "39253929",
+      "42496151",
+      "40016671",
+      "39901702",
+      "39275052",
+      "34625531",
+      "41793668",
+      "23986086",
+      "24563540",
+      "23157418",
+      "42508941",
+      "18829560",
+      "24451154",
+      "36455032",
+      "40332431",
+      "26640141",
+      "24633771",
+      "42518131",
+      "27126994",
+      "36913051",
+      "42011130",
+      "23248156",
+      "30630630",
+      "23633485",
+      "37948293",
+      "30314968",
+      "41796700",
+      "42764855",
+      "19029981",
+      "25953087",
+      "30671946",
+      "41620612",
+      "25422220",
+      "28036259",
+      "35778737",
+      "23663564",
+      "41980433"
+    ],
+    "review": [
+      "42808410",
+      "40829787",
+      "26827608",
+      "42496151",
+      "42508941"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/breastcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Breast Cancer"
+      },
+      {
+        "url": "http://journal.waocp.org/?sid=Entrez:PubMed&id=pmid:42808410&key=2026.27.9.3411",
+        "provider": "Asian Pacific Organization for Cancer Prevention",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1631",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "source": "arxiv",
+  "source_id": "2609.36057v1",
+  "title": "Mirror-Score: Calibrated, Inference-only Scoring Exposes the Limits of Sequence-compatibility Ranking in D-peptide Design",
+  "doi": "",
+  "abstract": "D-peptides combine protease resistance with high target specificity, but computational design of D-peptide binders remains immature. Mirror-Peptidizer introduced an in silico mirror-image screening pipeline using target reflection, backbone generation, and ProteinMPNN sequence design, but its raw ProteinMPNN negative log-likelihood (NLL) ranking was not validated against measured affinities, and only 4 of 9 tested MDM2 designs bound detectably. We introduce Mirror-Score, a calibrated, inference-only scoring framework for heterochiral D-peptide/L-protein complexes, and a public benchmark of 31 crystal complexes across four target families, including 18 with literature-verified affinities. Raw ProteinMPNN NLL is not a valid affinity ranker: its pooled Spearman correlation with affinity is 0.19, and correlations reverse between MDM2/CHIP (+0.62) and gp41 (-0.70). We therefore evaluate Boltz-2 mirror-space cofolding confidence. For the complete viral-entry family (7 structures representing 3 peptides), interface predicted local distance difference test (pLDDT) achieves structure-level leave-one-out Spearman rho = 0.90 (p = 0.006) and correctly orders all three peptides by affinity, whereas NLL fails (structure-level rho = 0.18). Because only three independent chemotypes are represented, this result indicates directional consistency rather than a statistically validated predictor. Cross-family calibration does not transfer at current sample sizes, supporting family-matched calibration as the practical deployment mode. We also specify a prospective design protocol for the antimicrobial-resistance targets LasR and LecB from Pseudomonas aeruginosa, including mirrored structures, ligand-derived hotspot maps, diffusion-model-ready inputs, and Mirror-Score ranking. Code, benchmark data, structures, and analysis scripts are openly available at https://github.com/Jiadalee/Mirror-Score.",
+  "authors": [
+    "Jiada Li"
+  ],
+  "published_date": "2026-09-28T18:15:57Z",
+  "updated_date": "2026-09-28T18:15:57Z",
+  "journal": "",
+  "category": "cs.AI, cs.CE, cs.ET, cs.LG, q-bio.QM",
+  "landing_url": "https://arxiv.org/abs/2609.36057v1",
+  "pdf_url": "https://arxiv.org/pdf/2609.36057v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cs.AI",
+    "cs.CE",
+    "cs.ET",
+    "cs.LG",
+    "q-bio.QM"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2609.36057v1",
+    "raw_categories": [
+      "cs.AI",
+      "cs.CE",
+      "cs.ET",
+      "cs.LG",
+      "q-bio.QM"
+    ],
+    "journal_ref": ""
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "identity": {
+    "pmid": "42801963",
+    "doi": "10.1016/j.fitote.2026.107495",
+    "title": "Cytochrome P450 enzymes in the biosynthesis of bioactive diterpenoids from traditional chinese medicinal plants."
+  },
+  "content": {
+    "abstract": "Cytochrome P450 enzymes play key catalytic roles in the biosynthesis of diterpenoid natural products from traditional Chinese medicinal plants. Operating through a conserved heme-thiolate catalytic cycle and Compound I-driven oxidation, these enzymes mediate most post-cyclization oxidative tailoring of diterpene scaffolds, including hydroxylation, epoxidation, carbon-skeleton rearrangement, and lactone formation. This review surveys the biosynthetic pathways of seven representative diterpenoids, namely tanshinones, paclitaxel, triptolide, andrographolide, ginkgolides, forskolin, and oridonin, in which sequential site-selective hydroxylation and multifunctional catalysis are recurring features, whereas carbon-skeleton remodeling proceeds through pathway-specific modes, including Wagner-Meerwein methyl migration in triptolide, NIH-shift alkyl migration and dual C-C bond cleavage in ginkgolides, and oxidative oxetane-ring formation in paclitaxel, with lactone ring construction observed in the andrographolide, triptolide, and ginkgolide pathways. Atomic-level studies of representative enzymes CYP76AH1, CYP725A4, TOT1, and TmCYP1 further clarify how substrate recognition, regioselectivity, and catalytic trajectories are governed within the active site, providing a basis for rational enzyme engineering. Finally, the prospects of artificial intelligence-assisted protein design for engineering P450 catalytic elements are discussed, encompassing structure prediction, protein language model-based mutational prescreening, and de novo catalytic-pocket design, along with their potential to facilitate heterologous biosynthesis and the sustainable production of bioactive diterpenoids from medicinal plants.",
+    "keywords": [
+      "Cytochrome P450",
+      "diterpenoid biosynthesis",
+      "enzyme engineering",
+      "synthetic biology",
+      "traditional Chinese medicine"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Zheng",
+        "Li, Wei",
+        "Li, Hong"
+      ],
+      "short_names": [
+        "Zhang Z",
+        "Li W",
+        "Li H"
+      ],
+      "auids": [],
+      "affiliations": [
+        "College of Pharmacy, Shandong University of Traditional Chinese Medicine, Jinan, Shandong 250355, China.",
+        "College of Pharmacy, Shandong University of Traditional Chinese Medicine, Jinan, Shandong 250355, China. Electronic address: 60030039@sdutcm.edu.cn.",
+        "College of Pharmacy, Shandong University of Traditional Chinese Medicine, Jinan, Shandong 250355, China. Electronic address: hong_lee123@163.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Zheng",
+        "short_name": "Zhang Z",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, Shandong University of Traditional Chinese Medicine, Jinan, Shandong 250355, China."
+        ]
+      },
+      {
+        "full_name": "Li, Wei",
+        "short_name": "Li W",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, Shandong University of Traditional Chinese Medicine, Jinan, Shandong 250355, China. Electronic address: 60030039@sdutcm.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Li, Hong",
+        "short_name": "Li H",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, Shandong University of Traditional Chinese Medicine, Jinan, Shandong 250355, China. Electronic address: hong_lee123@163.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Fitoterapia"
+    ],
+    "journal_abbrev": [
+      "Fitoterapia"
+    ],
+    "pub_date": "2026 Sep 27",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/27 23:28",
+    "fetched_at": "2026-10-04 07:45:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42801963",
+      "30909879",
+      "42239869",
+      "33938025",
+      "34419551",
+      "12797816",
+      "41108668",
+      "23812755",
+      "40015195",
+      "29315936",
+      "37735947",
+      "38271490",
+      "36123694",
+      "32551504",
+      "42588501",
+      "8807878",
+      "22952225",
+      "38712793",
+      "37615706",
+      "26682704",
+      "40364767",
+      "35873989",
+      "41584702",
+      "42673660",
+      "42701548",
+      "27291148",
+      "38293787",
+      "25250512",
+      "42215860",
+      "40696759",
+      "42537937",
+      "37902563",
+      "39341787",
+      "42701257",
+      "38129385",
+      "24260395",
+      "29751197",
+      "28053093",
+      "27297674",
+      "41147720",
+      "30173763",
+      "36376429",
+      "18774806",
+      "35196638",
+      "12296749",
+      "36613657",
+      "32893572",
+      "34710827",
+      "41366128",
+      "39870600",
+      "42740699",
+      "35129020",
+      "36307198",
+      "35464232",
+      "37282858",
+      "41799975",
+      "27382792",
+      "39525594",
+      "8620563",
+      "41588612",
+      "39072959",
+      "38136604",
+      "19947890",
+      "41793977",
+      "42267725",
+      "34281222",
+      "40931706",
+      "29974561",
+      "37139574",
+      "39454871",
+      "30496917",
+      "33712426",
+      "41508225",
+      "36847541",
+      "22820933",
+      "16401082",
+      "38602511",
+      "40068711",
+      "28667013",
+      "29792672",
+      "40523616",
+      "41776991",
+      "41584698",
+      "30733060",
+      "39182256",
+      "20481499",
+      "32992593",
+      "40329414",
+      "28770915",
+      "42715952",
+      "36050299",
+      "30533540",
+      "42300065",
+      "40595667",
+      "37042073",
+      "39081244",
+      "34561077",
+      "39287061",
+      "42638169",
+      "36991182"
+    ],
+    "review": [
+      "42801963",
+      "42239869",
+      "33938025",
+      "40015195",
+      "42588501",
+      "42673660",
+      "25250512",
+      "42215860",
+      "40696759",
+      "27297674",
+      "35196638",
+      "36613657",
+      "39870600",
+      "35129020",
+      "36307198",
+      "41799975",
+      "27382792",
+      "19947890",
+      "41793977",
+      "40931706",
+      "37139574",
+      "41508225",
+      "22820933",
+      "40068711",
+      "29792672",
+      "41776991",
+      "41584698",
+      "30733060",
+      "28770915",
+      "30533540",
+      "42300065",
+      "39081244",
+      "34561077"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0367-326X(26)00415-6",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

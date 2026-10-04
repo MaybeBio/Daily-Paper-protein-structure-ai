@@ -1,0 +1,36 @@
+{
+  "source": "arxiv",
+  "source_id": "2609.36398v1",
+  "title": "Where Should Physics Enter a Molecular Crystal Generator?",
+  "doi": "",
+  "abstract": "Generative models make molecular crystal structure prediction fast, but their samples still exhibit geometric and packing violations. Physics can be introduced during training, post-training, or inference, yet these choices are rarely compared with the generator and physical signal held fixed. We introduce CrystAF, an all-atom crystal flow-map generation model, and use it with the UMA interatomic potential to systematically study where physics should enter. Post-training learns physical preferences directly into CrystAF, improving molecular validity and crystal packing while leaving sampling unchanged: physics is paid for once during training rather than repeatedly at deployment. In contrast, UMA relaxation is effective at repairing local clashes but makes generation 6--26$\\times$ slower, while learning from relaxed targets provides little benefit. These routes are complementary rather than competing. Physics-informed post-training first shifts the generated distribution toward more physically reasonable structures, after which inexpensive inference-time corrections further remove clashes and restore stereochemistry that the generator cannot represent. Importantly, the same post-training strategy also improves the multi-step all-atom Clari-M and rigid-body MolCrystalFlow generators, demonstrating transfer across architectures and representations. Together, our results suggest a simple principle: learn reusable physical alignment into the generator, and reserve inference-time physics for residual constraints that are better corrected than learned.",
+  "authors": [
+    "Haocheng Tang",
+    "Junmei Wang",
+    "Wengong Jin"
+  ],
+  "published_date": "2026-09-28T23:53:27Z",
+  "updated_date": "2026-09-28T23:53:27Z",
+  "journal": "",
+  "category": "q-bio.BM, cs.AI, cs.CE",
+  "landing_url": "https://arxiv.org/abs/2609.36398v1",
+  "pdf_url": "https://arxiv.org/pdf/2609.36398v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "q-bio.BM",
+    "cs.AI",
+    "cs.CE"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2609.36398v1",
+    "raw_categories": [
+      "q-bio.BM",
+      "cs.AI",
+      "cs.CE"
+    ],
+    "journal_ref": ""
+  }
+}

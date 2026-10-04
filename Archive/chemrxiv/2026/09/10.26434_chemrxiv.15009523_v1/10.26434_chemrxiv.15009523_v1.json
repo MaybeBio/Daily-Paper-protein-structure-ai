@@ -1,0 +1,146 @@
+{
+  "source": "chemrxiv",
+  "source_id": "10.26434/chemrxiv.15009523/v1",
+  "title": "Target-Specific De Novo Drug Design via Fine-Tuned Language Models and Molecular Docking, Molecular Dynamics Simulation Validation",
+  "doi": "10.26434/chemrxiv.15009523/v1",
+  "abstract": "De novo drug design remains an expensive and low-yield process, particularly for targets with limited bioactivity data. In this study, we fine-tuned the Qwen 2.5 0.5B model to treat ligand design as a sequence-to-sequence task from protein amino acid sequences to molecular SELFIES representations. A curated and balanced dataset derived from ChEMBL was used to reduce target-level data imbalance, followed by systematic evaluation using beam search and stochastic sampling. The fine-tuned model demonstrated strong ligand generation capability across multiple targets, achieving high validity, uniqueness, and novelty. Comparative analysis revealed that beam search favored conservative exploitation of learned chemical space, whereas sampling enabled broader exploration and higher novelty. Molecular docking, molecular dynamics simulations, and MM/PBSA binding free-energy calculations for representative targets showed that generated compounds formed stable complexes with energetically favorable binding profiles comparable to known inhibitors. Notably, target-specific fine-tuning under extreme low data conditions, enabled through molecular representation augmentation, successfully guided ligand generation toward relevant structural frameworks. Our work suggests that small language models can be effectively fine-tuned for structure-aware, target-specific ligand design, even under limited bioactivity information.",
+  "authors": [
+    "Phuong Nguyen"
+  ],
+  "published_date": "2026-09-28",
+  "updated_date": "2026-09-28T08:45:34Z",
+  "journal": "ChemRxiv",
+  "category": "",
+  "landing_url": "https://doi.org/10.26434/chemrxiv.15009523/v1",
+  "pdf_url": "https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15009523/v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "1",
+  "keywords": [],
+  "extra": {
+    "publisher": "American Chemical Society (ACS)",
+    "prefix": "10.26434",
+    "type": "posted-content",
+    "group_title": "",
+    "raw_record": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            28
+          ]
+        ],
+        "date-time": "2026-09-28T09:00:22Z",
+        "timestamp": 1790586022339,
+        "version": "4.1.0"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            28
+          ]
+        ]
+      },
+      "reference-count": 0,
+      "publisher": "American Chemical Society (ACS)",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "abstract": "<jats:p>De novo drug design remains an expensive and low-yield process, particularly for targets with limited bioactivity data. In this study, we fine-tuned the Qwen 2.5 0.5B model to treat ligand design as a sequence-to-sequence task from protein amino acid sequences to molecular SELFIES representations. A curated and balanced dataset derived from ChEMBL was used to reduce target-level data imbalance, followed by systematic evaluation using beam search and stochastic sampling. The fine-tuned model demonstrated strong ligand generation capability across multiple targets, achieving high validity, uniqueness, and novelty. Comparative analysis revealed that beam search favored conservative exploitation of learned chemical space, whereas sampling enabled broader exploration and higher novelty. Molecular docking, molecular dynamics simulations, and MM/PBSA binding free-energy calculations for representative targets showed that generated compounds formed stable complexes with energetically favorable binding profiles comparable to known inhibitors. Notably, target-specific fine-tuning under extreme low data conditions, enabled through molecular representation augmentation, successfully guided ligand generation toward relevant structural frameworks. Our work suggests that small language models can be effectively fine-tuned for structure-aware, target-specific ligand design, even under limited bioactivity information.</jats:p>",
+      "DOI": "10.26434/chemrxiv.15009523/v1",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            28
+          ]
+        ],
+        "date-time": "2026-09-28T08:45:34Z",
+        "timestamp": 1790585134000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Target-Specific De Novo Drug Design via Fine-Tuned Language Models and Molecular Docking, Molecular Dynamics Simulation Validation"
+      ],
+      "prefix": "10.26434",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-1915-0565",
+          "authenticated-orcid": true,
+          "given": "Phuong",
+          "family": "Nguyen",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Hanoi University of Pharmacy",
+              "place": [
+                "Hanoi, Vietnam"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "316",
+      "link": [
+        {
+          "URL": "https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15009523/v1",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            28
+          ]
+        ],
+        "date-time": "2026-09-28T08:45:34Z",
+        "timestamp": 1790585134000
+      },
+      "score": 53.640987,
+      "resource": {
+        "primary": {
+          "URL": "https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009523/v1"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            28
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.26434/chemrxiv.15009523/v1",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            28
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

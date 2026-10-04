@@ -1,0 +1,140 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.24.752146",
+  "title": "The novel viper FETUA-3 protein evolved a unique mode of inhibiting snake venom metalloproteinases",
+  "doi": "10.64898/2026.09.24.752146",
+  "abstract": "Molecular innovation and coevolution play major roles in the evolution of biological diversity, yet we have few instances in which we understand the biological and molecular bases of coevolution. Rattlesnakes and other vipers have evolved resistance to their own novel venom metalloproteinase (MP) toxins through the invention and coevolution of serum-borne inhibitors (FETUAs) derived from the ancestral, non-inhibitory, serum glycoprotein Fetuin-A. However, how FETUAs acquired their function and mechanism of action are unknown. Here, we use a combination of structure prediction, site-directed mutagenesis, functional analyses, and molecular dynamics to elucidate how the rattlesnake FETUA-3 protein evolved to inhibit three classes of venom MP toxins. We show that FETUA-3 uses a combination of structural motifs to bind multiple MPs with high-affinity and acts as a potent noncompetitive inhibitor by inserting its N-terminus into MP active sites and directly disrupting substrate cleavage. We also find strong selective constraints on key N-terminal residues that maintain FETUA-3 specificity for multiple MP targets. These results reveal that FETUA-3 evolved a unique mechanism of action distinct from other vertebrate metalloproteinase inhibitors and how a small number of FETUA proteins controls the activities of a large family of venom toxins.",
+  "authors": [
+    "Dowell NL",
+    "Vázquez Torres S",
+    "Ukken FP",
+    "Andjelkovic M",
+    "Hajra M",
+    "Cahill E",
+    "Höcker B",
+    "Fernández-Leiro R",
+    "Carroll SB"
+  ],
+  "published_date": "2026-09-29",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.24.752146",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.24.752146.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1331758",
+    "raw_record": {
+      "id": "PPR1331758",
+      "source": "PPR",
+      "doi": "10.64898/2026.09.24.752146",
+      "title": "The novel viper FETUA-3 protein evolved a unique mode of inhibiting snake venom metalloproteinases",
+      "authorString": "Dowell NL, Vázquez Torres S, Ukken FP, Andjelkovic M, Hajra M, Cahill E, Höcker B, Fernández-Leiro R, Carroll SB.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Dowell NL",
+            "lastName": "Dowell",
+            "firstName": "Noah",
+            "initials": "NL"
+          },
+          {
+            "fullName": "Vázquez Torres S",
+            "lastName": "Vázquez Torres",
+            "firstName": "Susana",
+            "initials": "S"
+          },
+          {
+            "fullName": "Ukken FP",
+            "lastName": "Ukken",
+            "firstName": "Fiona",
+            "initials": "FP"
+          },
+          {
+            "fullName": "Andjelkovic M",
+            "lastName": "Andjelkovic",
+            "firstName": "Milorad",
+            "initials": "M"
+          },
+          {
+            "fullName": "Hajra M",
+            "lastName": "Hajra",
+            "firstName": "Mamta",
+            "initials": "M"
+          },
+          {
+            "fullName": "Cahill E",
+            "lastName": "Cahill",
+            "firstName": "Elizabeth",
+            "initials": "E"
+          },
+          {
+            "fullName": "Höcker B",
+            "lastName": "Höcker",
+            "firstName": "Birte",
+            "initials": "B"
+          },
+          {
+            "fullName": "Fernández-Leiro R",
+            "lastName": "Fernández-Leiro",
+            "firstName": "Rafael",
+            "initials": "R"
+          },
+          {
+            "fullName": "Carroll SB",
+            "lastName": "Carroll",
+            "firstName": "Sean",
+            "initials": "SB"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Molecular innovation and coevolution play major roles in the evolution of biological diversity, yet we have few instances in which we understand the biological and molecular bases of coevolution. Rattlesnakes and other vipers have evolved resistance to their own novel venom metalloproteinase (MP) toxins through the invention and coevolution of serum-borne inhibitors (FETUAs) derived from the ancestral, non-inhibitory, serum glycoprotein Fetuin-A. However, how FETUAs acquired their function and mechanism of action are unknown. Here, we use a combination of structure prediction, site-directed mutagenesis, functional analyses, and molecular dynamics to elucidate how the rattlesnake FETUA-3 protein evolved to inhibit three classes of venom MP toxins. We show that FETUA-3 uses a combination of structural motifs to bind multiple MPs with high-affinity and acts as a potent noncompetitive inhibitor by inserting its N-terminus into MP active sites and directly disrupting substrate cleavage. We also find strong selective constraints on key N-terminal residues that maintain FETUA-3 specificity for multiple MP targets. These results reveal that FETUA-3 evolved a unique mechanism of action distinct from other vertebrate metalloproteinase inhibitors and how a small number of FETUA proteins controls the activities of a large family of venom toxins.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.09.24.752146"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-10-01",
+      "firstPublicationDate": "2026-09-29",
+      "firstIndexDate": "2026-10-01",
+      "hasEvaluations": "N"
+    }
+  }
+}

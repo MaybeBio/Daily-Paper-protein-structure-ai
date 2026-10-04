@@ -1,0 +1,36 @@
+{
+  "source": "arxiv",
+  "source_id": "2610.01086v1",
+  "title": "Multi-Scale Temporal Flows for Peptide Trajectory Generation",
+  "doi": "",
+  "abstract": "Peptides occupy a particularly challenging regime of biomolecular dynamics. Short peptides lack a stable folded core and populate broad conformational ensembles, while cyclization adds ring closure, non-local residue coupling, and stereochemical diversity. Deep generative models have made remarkable progress in emulating molecular-dynamics trajectories directly, yet each is trained on windows cut at a fixed interval and therefore observes the process at a fixed temporal resolution. More fundamentally, none takes that interval as an input, so the physical time a window spans is never represented, leaving the sparse frames on which a peptide crosses between metastable states difficult to learn. Here, we introduce PepTIDE, a multi-scale temporal framework for peptide trajectory generation. The stride of each training window is drawn from a continuous range, so one model observes the same dynamics at many temporal resolutions, and an Adaptive Physical-Time Embedding encodes the relative interval of a window together with the absolute time of each frame, making the shared velocity field interval-aware. All frames are generated jointly through a stochastic-interpolant flow, and pair-aware invariant point attention captures the geometry and topology of both linear and cyclic peptides. On PepMD and a 50-system cyclic-peptide benchmark, PepTIDE reaches state-of-the-art distribution agreement and structural validity. Read in temporal order, its trajectories recover these sparse transition frames and reproduce inter-state fluxes more faithfully, confirming that modeling multiple temporal scales is what makes these rare events accessible.",
+  "authors": [
+    "Xichen Sun",
+    "Wentao Wei",
+    "Xiaoxi Zhang",
+    "Yuedong Yang",
+    "Jiahua Rao"
+  ],
+  "published_date": "2026-10-01T05:29:38Z",
+  "updated_date": "2026-10-01T05:29:38Z",
+  "journal": "",
+  "category": "q-bio.BM, q-bio.QM",
+  "landing_url": "https://arxiv.org/abs/2610.01086v1",
+  "pdf_url": "https://arxiv.org/pdf/2610.01086v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "q-bio.BM",
+    "q-bio.QM"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2610.01086v1",
+    "raw_categories": [
+      "q-bio.BM",
+      "q-bio.QM"
+    ],
+    "journal_ref": ""
+  }
+}

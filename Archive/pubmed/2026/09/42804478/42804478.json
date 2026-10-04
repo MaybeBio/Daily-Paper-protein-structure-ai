@@ -1,0 +1,271 @@
+{
+  "identity": {
+    "pmid": "42804478",
+    "doi": "10.1371/journal.pcbi.1014805",
+    "title": "Attribution assignment for deep-generative sequence models enables interpretability analysis using positive-only data."
+  },
+  "content": {
+    "abstract": "Generative machine learning models offer a powerful framework for therapeutic design, by efficiently exploring large spaces of biological sequences enriched for desirable properties. Unlike supervised learning methods, which require both positive and negative labeled data, generative models such as LSTMs can be trained solely on positively labeled sequences, for example, high-affinity antibodies. This is particularly advantageous in biological settings where negative data are scarce, unreliable, or biologically ill-defined. However, the lack of attribution methods for generative models has hindered the ability to extract interpretable biological insights from such models. To address this gap, we developed Generative Attribution Metric Analysis (GAMA), an attribution method for autoregressive generative models based on Integrated Gradients. We assessed GAMA using synthetic datasets with known ground truths to characterize its statistical behavior and validate its ability to recover biologically relevant features. We further demonstrated the utility of GAMA by applying it to experimental antibody-antigen binding data. GAMA enables model interpretability and the validation of generative sequence design strategies without the need for negative training data.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Frank, Robert",
+        "Widrich, Michael",
+        "Akbar, Rahmad",
+        "Klambauer, Gunter",
+        "Sandve, Geir Kjetil",
+        "Robert, Philippe A",
+        "Greiff, Victor"
+      ],
+      "short_names": [
+        "Frank R",
+        "Widrich M",
+        "Akbar R",
+        "Klambauer G",
+        "Sandve GK",
+        "Robert PA",
+        "Greiff V"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-9097-7963",
+        "ORCID: 0000-0003-2622-5032"
+      ],
+      "affiliations": [
+        "Department of Immunology and Oslo University Hospital, University of Oslo, Oslo, Norway.",
+        "Institute for Machine Learning, Johannes Kepler University Linz, Linz, Austria.",
+        "Department of Immunology and Oslo University Hospital, University of Oslo, Oslo, Norway.",
+        "Institute for Machine Learning, Johannes Kepler University Linz, Linz, Austria.",
+        "Department of Informatics, University of Oslo, Oslo, Norway.",
+        "University Hospital Basel, Basel, Switzerland.",
+        "Department of Immunology and Oslo University Hospital, University of Oslo, Oslo, Norway.",
+        "Imprint Labs, LLC, New York, New York, United States of America."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Frank, Robert",
+        "short_name": "Frank R",
+        "identifiers": [
+          "0000-0001-9097-7963"
+        ],
+        "affiliations": [
+          "Department of Immunology and Oslo University Hospital, University of Oslo, Oslo, Norway."
+        ]
+      },
+      {
+        "full_name": "Widrich, Michael",
+        "short_name": "Widrich M",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Machine Learning, Johannes Kepler University Linz, Linz, Austria."
+        ]
+      },
+      {
+        "full_name": "Akbar, Rahmad",
+        "short_name": "Akbar R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Immunology and Oslo University Hospital, University of Oslo, Oslo, Norway."
+        ]
+      },
+      {
+        "full_name": "Klambauer, Günter",
+        "short_name": "Klambauer G",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Machine Learning, Johannes Kepler University Linz, Linz, Austria."
+        ]
+      },
+      {
+        "full_name": "Sandve, Geir Kjetil",
+        "short_name": "Sandve GK",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Informatics, University of Oslo, Oslo, Norway."
+        ]
+      },
+      {
+        "full_name": "Robert, Philippe A",
+        "short_name": "Robert PA",
+        "identifiers": [],
+        "affiliations": [
+          "University Hospital Basel, Basel, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Greiff, Victor",
+        "short_name": "Greiff V",
+        "identifiers": [
+          "0000-0003-2622-5032"
+        ],
+        "affiliations": [
+          "Department of Immunology and Oslo University Hospital, University of Oslo, Oslo, Norway.",
+          "Imprint Labs, LLC, New York, New York, United States of America."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "PLoS computational biology"
+    ],
+    "journal_abbrev": [
+      "PLoS Comput Biol"
+    ],
+    "pub_date": "2026 Sep 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/28 17:31",
+    "fetched_at": "2026-10-04 07:45:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42804478",
+      "42475469",
+      "26269925",
+      "35377271",
+      "40050400",
+      "40112290",
+      "42380674",
+      "41997678",
+      "42716354",
+      "33074102",
+      "41319624",
+      "41707467",
+      "40146990",
+      "42351098",
+      "42805095",
+      "41763759",
+      "40591960",
+      "41723205",
+      "36174101",
+      "42536998",
+      "41052214",
+      "38048895",
+      "42680992",
+      "37246641",
+      "41328470",
+      "33712669",
+      "39690595",
+      "38367355",
+      "42268907",
+      "41310253",
+      "35482911",
+      "38960404",
+      "40156370",
+      "39878897",
+      "42487110",
+      "42776794",
+      "40383057",
+      "41937807",
+      "36814939",
+      "39303095",
+      "41967399",
+      "34770678",
+      "41750280",
+      "40952788",
+      "39444340",
+      "32501278",
+      "41257571",
+      "41667775",
+      "41008314",
+      "41580928",
+      "42184375",
+      "41150248",
+      "36806303",
+      "36759776",
+      "32746932",
+      "40635002",
+      "35792364",
+      "42492189",
+      "37125242",
+      "37864295",
+      "34325627",
+      "33808317",
+      "35769205",
+      "35471889",
+      "41206951",
+      "38177393",
+      "29872252",
+      "40660861",
+      "42443634",
+      "37749655",
+      "38960407",
+      "41392472",
+      "42351883",
+      "37988083",
+      "34608136",
+      "39586344",
+      "36321557",
+      "38956008",
+      "41803650",
+      "38600621",
+      "40584874",
+      "41316099",
+      "30143328",
+      "42639073",
+      "34731481",
+      "23912807",
+      "37597316",
+      "36796796",
+      "41877793",
+      "40678928",
+      "39851074",
+      "32282466",
+      "41109500",
+      "38544255",
+      "37931573",
+      "40795828",
+      "40124853",
+      "42609427",
+      "41801982",
+      "39651880"
+    ],
+    "review": [
+      "42804478",
+      "26269925",
+      "42716354",
+      "42805095",
+      "42776794",
+      "41580928",
+      "36759776",
+      "42492189",
+      "37864295",
+      "35769205",
+      "42351883",
+      "36321557",
+      "38956008"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://dx.plos.org/10.1371/journal.pcbi.1014805",
+        "provider": "Public Library of Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1548",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

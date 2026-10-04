@@ -1,0 +1,250 @@
+{
+  "identity": {
+    "pmid": "42826131",
+    "doi": "10.1073/pnas.2536965123",
+    "title": "A structure-aware generative AI framework for revealing functional relationships in protein families."
+  },
+  "content": {
+    "abstract": "Proteins can be studied through their sequence statistics or structural properties. These represent complementary views that are useful but lack a quantitative framework to tell, family by family, which is most informative and how to combine them. We introduce a framework that builds both views in parallel: amino acid (AA) alignments are translated into parallel alignments over a 3D interaction (3Di) structure-informed alphabet. Variational autoencoders compress each into a two-dimensional map, and direct coupling analysis places a shared coevolutionary energy on both maps, turning them into latent generative landscapes. On these landscapes, we define information-theoretic distance metrics that quantify how sequence changes drive structural and functional variation in protein families. We demonstrate the framework on five families: in malate dehydrogenases, the 3Di landscape identifies the structurally conserved scaffold that this family uses to encode thermal adaptation via sequence variability revealed in the AA landscape. In globins and transient receptor potential melastatin (TRPM), the 3Di landscape recovers known functional subfamilies. In the Flaviviridae E1 and E2 glycoproteins, structure reveals evolutionary relationships invisible at the sequence level. Because many sequences encode the same fold, our framework lets us disentangle family-sequence variability from structural and functional variation. These generative landscapes allow sampling near functional regions, and we show they can help us gain mechanistic insight into the evolutionary forces shaping sequence-structure-function variation and guide the design of new proteins.",
+    "keywords": [
+      "coevolution",
+      "generative modeling",
+      "language models",
+      "protein function",
+      "protein structure"
+    ],
+    "mesh_terms": [
+      "Generative Artificial Intelligence",
+      "*Proteins/chemistry/genetics",
+      "Models, Molecular",
+      "Amino Acid Sequence",
+      "Sequence Alignment",
+      "Malate Dehydrogenase/chemistry/genetics",
+      "Protein Conformation",
+      "Autoencoder",
+      "Evolution, Molecular"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Shukla, Divyanshu",
+        "Martin, Jonathan",
+        "Morcos, Faruck",
+        "Potoyan, Davit A"
+      ],
+      "short_names": [
+        "Shukla D",
+        "Martin J",
+        "Morcos F",
+        "Potoyan DA"
+      ],
+      "auids": [
+        "ORCID: 0009-0004-5495-9863",
+        "ORCID: 0000-0003-0946-3864",
+        "ORCID: 0000-0001-6208-1561",
+        "ORCID: 0000-0002-5860-1699"
+      ],
+      "affiliations": [
+        "Bioinformatics and Computational Biology Program, Iowa State University, Ames, IA 50011. ROR: https://ror.org/04rswrd78",
+        "Department of Biological Sciences, The University of Texas at Dallas, Dallas, TX 75080. ROR: https://ror.org/049emcs32",
+        "Department of Biological Sciences, The University of Texas at Dallas, Dallas, TX 75080. ROR: https://ror.org/049emcs32",
+        "Department of Bioengineering, The University of Texas at Dallas, Dallas, TX 75080. ROR: https://ror.org/049emcs32",
+        "Department of Physics, The University of Texas at Dallas, Dallas, TX 75080. ROR: https://ror.org/049emcs32",
+        "Center for Systems Biology, The University of Texas at Dallas, Dallas, TX 75080. ROR: https://ror.org/049emcs32",
+        "Bioinformatics and Computational Biology Program, Iowa State University, Ames, IA 50011. ROR: https://ror.org/04rswrd78",
+        "Department of Chemistry, Iowa State University, Ames, IA 50011. ROR: https://ror.org/04rswrd78",
+        "Roy J. Carver Department of Biochemistry, Biophysics and Molecular Biology, Iowa State University, 50011, Ames, IA. ROR: https://ror.org/04rswrd78"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Shukla, Divyanshu",
+        "short_name": "Shukla D",
+        "identifiers": [
+          "0009-0004-5495-9863"
+        ],
+        "affiliations": [
+          "Bioinformatics and Computational Biology Program, Iowa State University, Ames, IA 50011."
+        ]
+      },
+      {
+        "full_name": "Martin, Jonathan",
+        "short_name": "Martin J",
+        "identifiers": [
+          "0000-0003-0946-3864"
+        ],
+        "affiliations": [
+          "Department of Biological Sciences, The University of Texas at Dallas, Dallas, TX 75080."
+        ]
+      },
+      {
+        "full_name": "Morcos, Faruck",
+        "short_name": "Morcos F",
+        "identifiers": [
+          "0000-0001-6208-1561"
+        ],
+        "affiliations": [
+          "Department of Biological Sciences, The University of Texas at Dallas, Dallas, TX 75080.",
+          "Department of Bioengineering, The University of Texas at Dallas, Dallas, TX 75080.",
+          "Department of Physics, The University of Texas at Dallas, Dallas, TX 75080.",
+          "Center for Systems Biology, The University of Texas at Dallas, Dallas, TX 75080."
+        ]
+      },
+      {
+        "full_name": "Potoyan, Davit A",
+        "short_name": "Potoyan DA",
+        "identifiers": [
+          "0000-0002-5860-1699"
+        ],
+        "affiliations": [
+          "Bioinformatics and Computational Biology Program, Iowa State University, Ames, IA 50011.",
+          "Department of Chemistry, Iowa State University, Ames, IA 50011.",
+          "Roy J. Carver Department of Biochemistry, Biophysics and Molecular Biology, Iowa State University, 50011, Ames, IA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Proceedings of the National Academy of Sciences of the United States of America"
+    ],
+    "journal_abbrev": [
+      "Proc Natl Acad Sci U S A"
+    ],
+    "pub_date": "2026 Oct 6",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/02 17:30",
+    "fetched_at": "2026-10-04 07:45:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42826131",
+      "41446059",
+      "42475469",
+      "40079215",
+      "37076519",
+      "27315797",
+      "40645892",
+      "11391013",
+      "31415557",
+      "15059245",
+      "10966778",
+      "42716354",
+      "28453724",
+      "41750280",
+      "41052325",
+      "11021970",
+      "30298393",
+      "11524371",
+      "41693001",
+      "18402697",
+      "11292355",
+      "29953938",
+      "34616884",
+      "29382650",
+      "31029927",
+      "9847191",
+      "12381308",
+      "11752317",
+      "18179702",
+      "26956673",
+      "42567392",
+      "42136025",
+      "12910454",
+      "27535545",
+      "15922591",
+      "34608136",
+      "32123092",
+      "41527918",
+      "36752285",
+      "11159310",
+      "42140027",
+      "36734516",
+      "18451428",
+      "7849603",
+      "11125050",
+      "23091608",
+      "26931141",
+      "41955366",
+      "16184609",
+      "33465950",
+      "25473967",
+      "27028541",
+      "22579045",
+      "41795657",
+      "34117879",
+      "40437407",
+      "41055214",
+      "19165315",
+      "11125048",
+      "40893959",
+      "42535558",
+      "15771780",
+      "15741509",
+      "34728624",
+      "25114242",
+      "15542556",
+      "42310671",
+      "38739795",
+      "26223372",
+      "18818722",
+      "14623182",
+      "8609628",
+      "9779294",
+      "22163331",
+      "15882054",
+      "40815917",
+      "11292347",
+      "16310215",
+      "2183216",
+      "17983264",
+      "30422978",
+      "10222208",
+      "42056698",
+      "19507241",
+      "26254434",
+      "20830209",
+      "28980349",
+      "8798343",
+      "15364576",
+      "28799172",
+      "15558583",
+      "24510270",
+      "37988083",
+      "14978301",
+      "25297700",
+      "26269100",
+      "17683581",
+      "42253053",
+      "42400844",
+      "38011273"
+    ],
+    "review": [
+      "42826131",
+      "42716354",
+      "31029927",
+      "42567392",
+      "15922591",
+      "42140027",
+      "7849603",
+      "41955366",
+      "40815917",
+      "2183216"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

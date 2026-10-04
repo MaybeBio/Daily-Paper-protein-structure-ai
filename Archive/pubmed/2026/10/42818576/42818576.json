@@ -1,0 +1,234 @@
+{
+  "identity": {
+    "pmid": "42818576",
+    "doi": "10.64898/2026.09.06.749733",
+    "title": "Inverse FoldDir: Structure-conditioned Protein Sequence Design by Dirichlet Flow Matching."
+  },
+  "content": {
+    "abstract": "1 Protein engineering has important implications in the bioeconomy, enabling applications in materials, medicine, and energy. A key challenge is designing protein sequences that have a specific form and function. Protein inverse folding seeks to address this challenge by identifying amino acid sequences compatible with a desired protein backbone. This task is central to protein redesign and can provide a sequence-design capability for de novo backbones produced by structure-generation methods. Ideally, inverse folding can provide diverse sequence alternatives, fixed residues or motifs, soft biochemical preferences at selected positions, and candidates that remain experimentally useful. We developed Inverse FoldDir, a controllable inverse-folding method that performs iterative denoising on the amino acid probability simplex. Given a backbone structure, the model updates all positions jointly through a learned Dirichlet flow, supporting full sequence generation, fixed-residue inpainting, and user-defined soft residue priors. On the held-out CATH 4.2 test set, Inverse FoldDir achieved a mean TM-score of 84.5 (on a 0-100 scale) and a mean C alpha RMSD of 1.76 A, compared with 83.3 and 1.86 A, respectively, for ESM-IF1, the strongest evaluated baseline on both metrics. Denoising trajectory analyses showed that positions commit at different rates and that some residues change identity late in generation, illustrating whole-sequence refinement rather than one-shot prediction or irreversible sequential decoding. We experimentally tested Inverse FoldDir in an anti-GFP nanobody redesign task, where two of 35 redesigned sequences retained reproducible sfGFP-binding signal across independent assay runs with approximately 43% sequence divergence from the native nanobody. Inverse FoldDir is a structure-conditioned protein redesign method that combines structural recovery, user control, experimental validation, and a natural route toward future property-guided sampling.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Tartici, Alp",
+        "Stojkovic, Mihajlo",
+        "Tian, Anru",
+        "Jewett, Michael C",
+        "Altman, Russ B",
+        "Wittmann, Bruce J"
+      ],
+      "short_names": [
+        "Tartici A",
+        "Stojkovic M",
+        "Tian A",
+        "Jewett MC",
+        "Altman RB",
+        "Wittmann BJ"
+      ],
+      "auids": [
+        "ORCID: 0009-0008-1885-0077",
+        "ORCID: 0000-0003-2948-6211",
+        "ORCID: 0000-0003-3859-2905",
+        "ORCID: 0000-0001-8144-9157"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Tartici, Alp",
+        "short_name": "Tartici A",
+        "identifiers": [
+          "0009-0008-1885-0077"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Stojkovic, Mihajlo",
+        "short_name": "Stojkovic M",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Tian, Anru",
+        "short_name": "Tian A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Jewett, Michael C",
+        "short_name": "Jewett MC",
+        "identifiers": [
+          "0000-0003-2948-6211"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Altman, Russ B",
+        "short_name": "Altman RB",
+        "identifiers": [
+          "0000-0003-3859-2905"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Wittmann, Bruce J",
+        "short_name": "Wittmann BJ",
+        "identifiers": [
+          "0000-0001-8144-9157"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Sep 11",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/01 11:37",
+    "fetched_at": "2026-10-04 07:45:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42818576",
+      "42218716",
+      "42466941",
+      "42475469",
+      "38157313",
+      "8229093",
+      "29672021",
+      "42573394",
+      "36321557",
+      "23912807",
+      "42192491",
+      "42261813",
+      "37880344",
+      "40465588",
+      "29702641",
+      "40027759",
+      "38940178",
+      "19003998",
+      "41310253",
+      "37789284",
+      "8577692",
+      "21329699",
+      "24898915",
+      "17597151",
+      "25287625",
+      "42089695",
+      "37883472",
+      "35136054",
+      "42427317",
+      "18179702",
+      "29508448",
+      "19137613",
+      "30240202",
+      "41307002",
+      "42391398",
+      "41409142",
+      "24204234",
+      "38309959",
+      "20398384",
+      "41292907",
+      "10373380",
+      "38385151",
+      "41394077",
+      "39322764",
+      "9390302",
+      "11119639",
+      "26549790",
+      "11178917",
+      "40595650",
+      "38187780",
+      "8497488",
+      "11746709",
+      "40170886",
+      "11579224",
+      "37253017",
+      "25436908",
+      "41261139",
+      "41256668",
+      "25964298",
+      "41337470",
+      "42508035",
+      "20017215",
+      "17932940",
+      "17014735",
+      "38855543",
+      "23912941",
+      "41898734",
+      "41028986",
+      "38947930",
+      "33001599",
+      "15478601",
+      "33590881",
+      "37165539",
+      "16289118",
+      "37973874",
+      "18803867",
+      "8355272",
+      "37321965",
+      "28844906",
+      "26933401",
+      "40671352",
+      "12021450",
+      "42716354",
+      "41323878",
+      "18642934",
+      "22632833",
+      "37020023",
+      "41995290",
+      "38557677",
+      "41256639",
+      "29262162",
+      "42814674",
+      "15268287",
+      "16939206",
+      "9390292",
+      "35060221",
+      "23651206",
+      "36252041",
+      "36647771",
+      "40662823"
+    ],
+    "review": [
+      "42818576",
+      "8229093",
+      "36321557",
+      "33001599",
+      "42716354"
+    ],
+    "pmc": [
+      "13622493"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.64898/2026.09.06.749733",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "source": "arxiv",
+  "source_id": "2609.39225v1",
+  "title": "Argument Structure Prediction in Online Conversations: A Comparative Study of Modeling Paradigms and Task Architectures",
+  "doi": "",
+  "abstract": "Argument structure prediction (ASP) constructs complete argument structures from discourse by identifying argumentative units and their relations. While recent work has explored diverse approaches---including unified neural models, multi-step pipelines, and prompt-based large language models (LLMs)---their relative trade-offs remain under-explored, particularly in dialogical settings. We present a systematic evaluation of ASP under strict schema constraints, comparing supervised fine-tuning and prompt-based LLMs across single- and multi-step task architectures, generating complete argument structures from dialogical input end-to-end. We benchmark them on three diverse dialogical corpora adapted from Inference Anchoring Theory into bipolar argument structures. Under a shared evaluation framework, we assess predictive performance, cross-domain generalization, schema compliance, and computational efficiency. Our results show that ASP remains a challenging task, with identifying argumentative relations emerging as the primary bottleneck, largely due to the implicit and context-dependent nature of dialogical argumentation. To facilitate future research, we release our data processing pipeline and end-to-end modeling framework for computational ASP on dialogical corpora.",
+  "authors": [
+    "Siddharth Bhargava",
+    "Sara Tonelli",
+    "Patricia Martín-Rodilla",
+    "Javier Parapar"
+  ],
+  "published_date": "2026-09-30T08:01:11Z",
+  "updated_date": "2026-09-30T08:01:11Z",
+  "journal": "",
+  "category": "cs.CL, cs.IR",
+  "landing_url": "https://arxiv.org/abs/2609.39225v1",
+  "pdf_url": "https://arxiv.org/pdf/2609.39225v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cs.CL",
+    "cs.IR"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2609.39225v1",
+    "raw_categories": [
+      "cs.CL",
+      "cs.IR"
+    ],
+    "journal_ref": ""
+  }
+}

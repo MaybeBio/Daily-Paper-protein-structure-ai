@@ -1,0 +1,37 @@
+{
+  "source": "arxiv",
+  "source_id": "2610.00994v1",
+  "title": "VIEScore2: Unified Image Evaluation with Spatially Grounded Explanations",
+  "doi": "",
+  "abstract": "Existing synthetic image evaluators typically provide only a scalar quality score and do not identify the image regions that support it. We introduce VIEScore2, a unified evaluator for image generation and editing tasks with optional conditioning images. VIEScore2 represents an image as an N x N grid and jointly predicts quality scores and defect locations in a single model pass. Its text-native grid representation provides a common interface for heterogeneous spatial supervision and enables directly verifiable post-training objectives. We train on 38K examples spanning score-only, localization-only, and joint supervision across generation and editing tasks. Starting from supervised fine-tuning, we further apply GRPO to improve defect localization using rewards that combine cell-level Dice overlap, score accuracy, and output-format validity. A parameter-free parser converts the structured predictions into readable explanations. On the primary suite, VIEScore2 achieves an overall-score SRCC of 0.601, compared with 0.491 for Gemini-3-Flash, the strongest zero-shot general-purpose VLM baseline under matched inputs. For defect localization, VIEScore2 outperforms both general-purpose VLMs and specialized spatial evaluators on three of six benchmarks in per-image grid IoU and ranks among the top three on five, including datasets beyond its training sources.",
+  "authors": [
+    "Xianda Du",
+    "Max Ku",
+    "Weiming Ren",
+    "Zhi Rui Tam",
+    "Chunlin Ren",
+    "Ping Nie",
+    "Min-Hung Chen",
+    "Wenhu Chen"
+  ],
+  "published_date": "2026-10-01T03:29:03Z",
+  "updated_date": "2026-10-01T03:29:03Z",
+  "journal": "",
+  "category": "cs.CV",
+  "landing_url": "https://arxiv.org/abs/2610.00994v1",
+  "pdf_url": "https://arxiv.org/pdf/2610.00994v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cs.CV"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2610.00994v1",
+    "raw_categories": [
+      "cs.CV"
+    ],
+    "journal_ref": ""
+  }
+}

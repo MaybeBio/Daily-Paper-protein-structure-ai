@@ -1,0 +1,210 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.25.754455",
+  "title": "AmyloCore-ML: AI/Machine Learning Enabled Identification of Amyloid Fibril Core Regions Using Protein Language Models",
+  "doi": "10.64898/2026.09.25.754455",
+  "abstract": "In many neurodegenerative and systemic disorders, proteins can form insoluble protein aggregates called amyloids. Identification of amyloid forming regions in a protein remains central to understanding of its aggregation behaviour. Many predictors have been formed in the past and until recently which to estimate the aggregation-prone regions, which may not correspond to total residues found in actual disease associated fibril structures. To address this, we formed a sequence-based based predictor to ascertain structural amyloid-core propensity. The predictor was developed using experimentally determined fibril structures obtained from Amyloid Atlas. Ordered residues in the experimental structures were designated as core, and unresolved sampled from the same proteins as matched controls as non-core. Core and non-core regions were encoded using various physicochemical descriptors and protein language model (PLM) embeddings (ESM-2, ANKH, ProtT5) and evaluated using protein-grouped cross-validation. PLMs consistently outperformed physicochemical descriptors, with the best models reaching AUROC values of ~0.88 and AUPRC values of ~0.85. Locked full-length protein scans further localized experimental cores, with ESM-2/ExtraTrees W21 achieving AUROC 0.833, AUPRC 0.751, and a mean peak distance of 12.4 residues. In comparative benchmarking, our predictor showed better performance metrics than CrossBeta and AggrescanAI. The framework therefore provides residue-resolved prediction of structurally incorporated amyloid-core regions directly from sequence. AmyloCore-ML is easily accessible through an interactive Google Colab notebook, enabling sequence-based amyloid fibril-core prediction without local installation or dedicated computing infrastructure.",
+  "authors": [
+    "Jasdeep Singh",
+    "Raunak Jangid",
+    "Ankit Srivastava"
+  ],
+  "published_date": "2026-10-01",
+  "updated_date": "2026-10-01T19:30:18Z",
+  "journal": "bioRxiv",
+  "category": "Bioinformatics",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.25.754455",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.25.754455.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [
+    "Bioinformatics"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Bioinformatics",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            1
+          ]
+        ],
+        "date-time": "2026-10-01T19:58:25Z",
+        "timestamp": 1790884705547,
+        "version": "4.1.0"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            1
+          ]
+        ]
+      },
+      "group-title": "Bioinformatics",
+      "reference-count": 0,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2026-10-01T00:00:00Z",
+            "timestamp": 1790812800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            1
+          ]
+        ]
+      },
+      "abstract": "<jats:p>In many neurodegenerative and systemic disorders, proteins can form insoluble protein aggregates called amyloids. Identification of amyloid forming regions in a protein remains central to understanding of its aggregation behaviour. Many predictors have been formed in the past and until recently which to estimate the aggregation-prone regions, which may not correspond to total residues found in actual disease associated fibril structures. To address this, we formed a sequence-based based predictor to ascertain structural amyloid-core propensity. The predictor was developed using experimentally determined fibril structures obtained from Amyloid Atlas. Ordered residues in the experimental structures were designated as core, and unresolved sampled from the same proteins as matched controls as non-core. Core and non-core regions were encoded using various physicochemical descriptors and protein language model (PLM) embeddings (ESM-2, ANKH, ProtT5) and evaluated using protein-grouped cross-validation. PLMs consistently outperformed physicochemical descriptors, with the best models reaching AUROC values of ~0.88 and AUPRC values of ~0.85. Locked full-length protein scans further localized experimental cores, with ESM-2/ExtraTrees W21 achieving AUROC 0.833, AUPRC 0.751, and a mean peak distance of 12.4 residues. In comparative benchmarking, our predictor showed better performance metrics than CrossBeta and AggrescanAI. The framework therefore provides residue-resolved prediction of structurally incorporated amyloid-core regions directly from sequence. AmyloCore-ML is easily accessible through an interactive Google Colab notebook, enabling sequence-based amyloid fibril-core prediction without local installation or dedicated computing infrastructure.</jats:p>",
+      "DOI": "10.64898/2026.09.25.754455",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            1
+          ]
+        ],
+        "date-time": "2026-10-01T19:30:18Z",
+        "timestamp": 1790883018000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "AmyloCore-ML: AI/Machine Learning Enabled Identification of Amyloid Fibril Core Regions Using Protein Language Models"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "given": "Jasdeep",
+          "family": "Singh",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "University of Denver;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Raunak",
+          "family": "Jangid",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Manipal University Jaipur, India"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ankit",
+          "family": "Srivastava",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Manipal University Jaipur, India"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.09.25.754455",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            1
+          ]
+        ],
+        "date-time": "2026-10-01T19:30:18Z",
+        "timestamp": 1790883018000
+      },
+      "score": 47.913433,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.09.25.754455"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            1
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.64898/2026.09.25.754455",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            1
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

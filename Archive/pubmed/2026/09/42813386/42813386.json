@@ -1,0 +1,231 @@
+{
+  "identity": {
+    "pmid": "42813386",
+    "doi": "10.1002/bit.70397",
+    "title": "Loop-Centric Engineering of Terminal Deoxynucleotidyl Transferase for Enhanced Catalysis of 3'-Modified Nucleotides."
+  },
+  "content": {
+    "abstract": "Efficient enzymatic DNA synthesis requires terminal deoxynucleotidyl transferases (TdTs) that can accept reversibly blocked nucleotides, but improving wild-type enzymes has traditionally depended on labor-intensive screening. Here, we combine deep learning-based structure prediction with molecular dynamics simulations to guide loop-centric engineering of a TdT from Crocodylus porosus. The resulting variant M3 (V253E/L256M/N338R) showed a 26-fold increase in specific activity toward 3'-ONH(2)-dCTP while maintaining expression and thermostability. Simulations indicated that the mutations reorganized Loop1 dynamics and reproducibly biased the incoming nucleotide toward a more favorable in-line attack orientation. The key N338R change also improved a second TdT scaffold, supporting N338 as a potentially transferable engineering hotspot. These results provide a practical computational strategy for improving terminal deoxynucleotidyl transferases for incorporation of 3'-modified nucleotides, reducing reliance on large-scale screening.",
+    "keywords": [
+      "enzymatic DNA synthesis",
+      "loop engineering",
+      "molecular dynamics simulation",
+      "protein-ligand complex prediction",
+      "terminal deoxynucleotidyl transferase"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Shi, Kun",
+        "Li, An-Na",
+        "Xu, Jian-He",
+        "Yu, Hui-Lei"
+      ],
+      "short_names": [
+        "Shi K",
+        "Li AN",
+        "Xu JH",
+        "Yu HL"
+      ],
+      "auids": [
+        "ORCID: 0009-0001-0838-1026",
+        "ORCID: 0000-0003-4301-7630",
+        "ORCID: 0000-0002-1925-3679"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Bioreactor Engineering, School of Biotechnology, East China University of Science and Technology, Shanghai, P.R. China.",
+        "State Key Laboratory of Bioreactor Engineering, School of Biotechnology, East China University of Science and Technology, Shanghai, P.R. China.",
+        "State Key Laboratory of Bioreactor Engineering, School of Biotechnology, East China University of Science and Technology, Shanghai, P.R. China.",
+        "State Key Laboratory of Bioreactor Engineering, School of Biotechnology, East China University of Science and Technology, Shanghai, P.R. China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Shi, Kun",
+        "short_name": "Shi K",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Bioreactor Engineering, School of Biotechnology, East China University of Science and Technology, Shanghai, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Li, An-Na",
+        "short_name": "Li AN",
+        "identifiers": [
+          "0009-0001-0838-1026"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Bioreactor Engineering, School of Biotechnology, East China University of Science and Technology, Shanghai, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Xu, Jian-He",
+        "short_name": "Xu JH",
+        "identifiers": [
+          "0000-0003-4301-7630"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Bioreactor Engineering, School of Biotechnology, East China University of Science and Technology, Shanghai, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Yu, Hui-Lei",
+        "short_name": "Yu HL",
+        "identifiers": [
+          "0000-0002-1925-3679"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Bioreactor Engineering, School of Biotechnology, East China University of Science and Technology, Shanghai, P.R. China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biotechnology and bioengineering"
+    ],
+    "journal_abbrev": [
+      "Biotechnol Bioeng"
+    ],
+    "pub_date": "2026 Sep 30",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/30 11:35",
+    "fetched_at": "2026-10-04 07:45:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42813386",
+      "32497424",
+      "39295567",
+      "41938127",
+      "41232740",
+      "41538097",
+      "41516058",
+      "42522991",
+      "31963235",
+      "39199349",
+      "39302688",
+      "28441732",
+      "41915827",
+      "16963491",
+      "40415290",
+      "41873075",
+      "39149896",
+      "40931711",
+      "36455255",
+      "11136823",
+      "40538715",
+      "31630739",
+      "41603735",
+      "37625083",
+      "41702732",
+      "12217692",
+      "39181358",
+      "34156829",
+      "39988321",
+      "39275897",
+      "38915690",
+      "39083642",
+      "40174852",
+      "30451377",
+      "28662471",
+      "36880583",
+      "42475469",
+      "39951433",
+      "29141528",
+      "33248645",
+      "31318972",
+      "14579105",
+      "19596089",
+      "42616434",
+      "36342345",
+      "42173379",
+      "30011192",
+      "31615894",
+      "42805534",
+      "19805281",
+      "27338351",
+      "33742693",
+      "41928412",
+      "39984092",
+      "38468086",
+      "40448641",
+      "35196636",
+      "40173016",
+      "41763370",
+      "10739871",
+      "38944066",
+      "32070604",
+      "27311013",
+      "10666473",
+      "40086319",
+      "38834993",
+      "8647805",
+      "7556063",
+      "40042274",
+      "11266568",
+      "2429703",
+      "8163485",
+      "38823749",
+      "40488680",
+      "38236018",
+      "33992409",
+      "39434600",
+      "41941911",
+      "36912632",
+      "31650168",
+      "38582485",
+      "17302416",
+      "28389544",
+      "37192389",
+      "42576045",
+      "15901847",
+      "41554444",
+      "19502493",
+      "41605391",
+      "20977676",
+      "7338513",
+      "30291121",
+      "42497700",
+      "27499438",
+      "3841264",
+      "30943891",
+      "41574436",
+      "11406636",
+      "30529723",
+      "42374346"
+    ],
+    "review": [
+      "42813386",
+      "40538715",
+      "30451377",
+      "19596089",
+      "36342345",
+      "41763370"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1002/bit.70397",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

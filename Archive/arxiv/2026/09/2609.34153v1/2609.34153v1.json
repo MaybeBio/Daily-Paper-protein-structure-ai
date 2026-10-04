@@ -1,0 +1,35 @@
+{
+  "source": "arxiv",
+  "source_id": "2609.34153v1",
+  "title": "SPINET: Sheaf Protein Inverse Folding Network",
+  "doi": "",
+  "abstract": "Proteins change shape as they function, yet most inverse folding models predict amino acid sequences from a single, fixed backbone. A central challenge in protein engineering is to design proteins that undergo specific motions, which requires accounting for how their structures change over time. This motivates inverse protein folding conditioned on protein motion. We introduce SPINET, which predicts sequences from molecular dynamics trajectories. It uses cellular sheaves to represent residue interactions within each frame and recurrent units to integrate information across frames, then predicts all amino acids in a single pass. We evaluate SPINET on mdCATH and ATLAS, where it outperforms all evaluated static and ensemble baselines in sequence recovery. On mdCATH, it achieves 56.7% top-1 recovery, compared with 44.5% for the strongest static baseline and 40.7% for the strongest ensemble baseline. We also evaluate whether the predicted sequences are compatible with conformations sampled along the target trajectory. On mdCATH, they achieve a median TM-score of 0.760, and structural recovery favors target conformations over unrelated decoys for 99.5% of test domains.",
+  "authors": [
+    "Jens Lundsgaard",
+    "Colin Mikulski",
+    "Zhixuan Yan",
+    "Dhananjay Bhaskar"
+  ],
+  "published_date": "2026-09-28T02:34:00Z",
+  "updated_date": "2026-09-28T02:34:00Z",
+  "journal": "",
+  "category": "cs.LG, q-bio.BM",
+  "landing_url": "https://arxiv.org/abs/2609.34153v1",
+  "pdf_url": "https://arxiv.org/pdf/2609.34153v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cs.LG",
+    "q-bio.BM"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2609.34153v1",
+    "raw_categories": [
+      "cs.LG",
+      "q-bio.BM"
+    ],
+    "journal_ref": ""
+  }
+}

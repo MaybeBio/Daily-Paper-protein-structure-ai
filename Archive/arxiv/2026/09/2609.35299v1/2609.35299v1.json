@@ -1,0 +1,31 @@
+{
+  "source": "arxiv",
+  "source_id": "2609.35299v1",
+  "title": "Purely flavon driven leptogenesis for exactly degenerate Dirac or Majorana neutrino mass matrix in the type-I seesaw model",
+  "doi": "",
+  "abstract": "While the type-I seesaw model provides an attractive framework for simultaneously explaining the origin of neutrino masses and the baryon asymmetry of the Universe, flavor symmetries offer a natural approach to understanding the observed neutrino mixing pattern. However, the highly constrained neutrino mass structures predicted by flavor symmetries may also prevent conventional leptogenesis to work. In particular, when the Dirac neutrino mass matrix $M^{}_{\\rm D}$ or the Majorana right-handed-neutrino (RHN) mass matrix $M^{}_{\\rm R}$ is exactly degenerate (namely, they are proportional to the identity matrix $I$), the CP asymmetry of RHN decays will vanish either due to the orthogonality of different neutrino Yukawa coupling columns or the exact degeneracy of RHN masses. In this work, we propose that the flavon fields (which are inherently present in flavor-symmetry neutrino mass models to be responsible for generating the nontrivial neutrino flavor structure) can naturally overcome these obstacles. For the case of $M^{}_{\\rm D} \\propto I$, flavon--RHN interactions induce additional decay channels $N_I \\to N_J φ$ and generate new CP-violating contributions to RHN decays. For the case of $M^{}_{\\rm R} \\propto I$, three-body decays $N_I\\rightarrow L^{}_αHφ$ mediated by heavy vectorlike fermions provide a CP asymmetry source even when the RHN masses are exactly degenerate. Our results demonstrate that the flavon sector provides a natural connection between neutrino flavor structure and leptogenesis, offering a new mechanism for leptogenesis in flavor-symmetry-based neutrino mass models.",
+  "authors": [
+    "Yan Shao",
+    "Zhen-hua Zhao"
+  ],
+  "published_date": "2026-09-28T14:39:46Z",
+  "updated_date": "2026-09-28T14:39:46Z",
+  "journal": "",
+  "category": "hep-ph",
+  "landing_url": "https://arxiv.org/abs/2609.35299v1",
+  "pdf_url": "https://arxiv.org/pdf/2609.35299v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "hep-ph"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2609.35299v1",
+    "raw_categories": [
+      "hep-ph"
+    ],
+    "journal_ref": ""
+  }
+}

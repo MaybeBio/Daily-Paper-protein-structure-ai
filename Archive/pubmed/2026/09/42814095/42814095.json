@@ -1,0 +1,268 @@
+{
+  "identity": {
+    "pmid": "42814095",
+    "doi": "10.1002/smll.76025",
+    "title": "Orthogonal Decoupling of First- and Second-Shell Contributions in Protein-Supported Single-Atom Catalysis."
+  },
+  "content": {
+    "abstract": "Single-atom catalysis is predominantly interpreted through the electronic structure of the metal center and its first coordination sphere, whereas the independent contribution of the second shell remains difficult to isolate experimentally. Here, we report a protein-supported single-atom catalytic platform that enables orthogonal decoupling of first- and second-shell effects. Structurally invariant Pt(Glu)(2) units were covalently anchored onto protein scaffolds, while protein conformational transitions selectively modulated the surrounding spatial microenvironment without perturbing the metal active site. Reversible catalytic modulation spanning  approximately 65% activity range was achieved solely through conformational cycling, without any detectable change to the metal coordination environment. Kinetic analysis revealed that activity changes were dominated by variations in substrate affinity (Km) rather than intrinsic turnover, as confirmed by nearly identical activation energies between folded and unfolded states from Arrhenius analysis. Fluorescence tracking and molecular dynamics simulations further supported that protein folding enhances substrate accessibility and spatial preorganization around the catalytic center. These findings provide an experimentally grounded basis for second-shell design in artificial catalysts, offering a rational strategy to bridge the activity gap between synthetic single-atom systems and natural metalloenzymes.",
+    "keywords": [
+      "conformational gating",
+      "nanozyme",
+      "second coordination shell",
+      "single-atom catalysis",
+      "spatial probability regulation"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Haiyan",
+        "Xu, Ruishu",
+        "Cai, Jiangtao",
+        "Liu, Zhennian",
+        "Tao, Hongwen",
+        "Huang, Haowen"
+      ],
+      "short_names": [
+        "Li H",
+        "Xu R",
+        "Cai J",
+        "Liu Z",
+        "Tao H",
+        "Huang H"
+      ],
+      "auids": [
+        "ORCID: 0009-0008-4912-879X",
+        "ORCID: 0000-0002-1158-7236"
+      ],
+      "affiliations": [
+        "School of Chemistry and Chemical Engineering, Key Laboratory of Theoretical Organic Chemistry and Function Molecule, Ministry of Education, Hunan Provincial Key Laboratory of Controllable Preparation and Functional Application of Fine Polymers, Hunan University of Science and Technology, Xiangtan, China.",
+        "School of Chemistry and Chemical Engineering, Key Laboratory of Theoretical Organic Chemistry and Function Molecule, Ministry of Education, Hunan Provincial Key Laboratory of Controllable Preparation and Functional Application of Fine Polymers, Hunan University of Science and Technology, Xiangtan, China.",
+        "School of Life and Health Sciences, Hunan University of Science and Technology, Xiangtan, China.",
+        "School of Chemistry and Chemical Engineering, Key Laboratory of Theoretical Organic Chemistry and Function Molecule, Ministry of Education, Hunan Provincial Key Laboratory of Controllable Preparation and Functional Application of Fine Polymers, Hunan University of Science and Technology, Xiangtan, China.",
+        "School of Chemistry and Chemical Engineering, Key Laboratory of Theoretical Organic Chemistry and Function Molecule, Ministry of Education, Hunan Provincial Key Laboratory of Controllable Preparation and Functional Application of Fine Polymers, Hunan University of Science and Technology, Xiangtan, China.",
+        "School of Chemistry and Chemical Engineering, Key Laboratory of Theoretical Organic Chemistry and Function Molecule, Ministry of Education, Hunan Provincial Key Laboratory of Controllable Preparation and Functional Application of Fine Polymers, Hunan University of Science and Technology, Xiangtan, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Haiyan",
+        "short_name": "Li H",
+        "identifiers": [],
+        "affiliations": [
+          "School of Chemistry and Chemical Engineering, Key Laboratory of Theoretical Organic Chemistry and Function Molecule, Ministry of Education, Hunan Provincial Key Laboratory of Controllable Preparation and Functional Application of Fine Polymers, Hunan University of Science and Technology, Xiangtan, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Ruishu",
+        "short_name": "Xu R",
+        "identifiers": [
+          "0009-0008-4912-879X"
+        ],
+        "affiliations": [
+          "School of Chemistry and Chemical Engineering, Key Laboratory of Theoretical Organic Chemistry and Function Molecule, Ministry of Education, Hunan Provincial Key Laboratory of Controllable Preparation and Functional Application of Fine Polymers, Hunan University of Science and Technology, Xiangtan, China."
+        ]
+      },
+      {
+        "full_name": "Cai, Jiangtao",
+        "short_name": "Cai J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life and Health Sciences, Hunan University of Science and Technology, Xiangtan, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Zhennian",
+        "short_name": "Liu Z",
+        "identifiers": [],
+        "affiliations": [
+          "School of Chemistry and Chemical Engineering, Key Laboratory of Theoretical Organic Chemistry and Function Molecule, Ministry of Education, Hunan Provincial Key Laboratory of Controllable Preparation and Functional Application of Fine Polymers, Hunan University of Science and Technology, Xiangtan, China."
+        ]
+      },
+      {
+        "full_name": "Tao, Hongwen",
+        "short_name": "Tao H",
+        "identifiers": [],
+        "affiliations": [
+          "School of Chemistry and Chemical Engineering, Key Laboratory of Theoretical Organic Chemistry and Function Molecule, Ministry of Education, Hunan Provincial Key Laboratory of Controllable Preparation and Functional Application of Fine Polymers, Hunan University of Science and Technology, Xiangtan, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Haowen",
+        "short_name": "Huang H",
+        "identifiers": [
+          "0000-0002-1158-7236"
+        ],
+        "affiliations": [
+          "School of Chemistry and Chemical Engineering, Key Laboratory of Theoretical Organic Chemistry and Function Molecule, Ministry of Education, Hunan Provincial Key Laboratory of Controllable Preparation and Functional Application of Fine Polymers, Hunan University of Science and Technology, Xiangtan, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Small (Weinheim an der Bergstrasse, Germany)"
+    ],
+    "journal_abbrev": [
+      "Small"
+    ],
+    "pub_date": "2026 Sep 30",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/30 11:35",
+    "fetched_at": "2026-10-04 07:45:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42814095",
+      "38091378",
+      "30830755",
+      "42566952",
+      "40855767",
+      "39430928",
+      "41757527",
+      "40468607",
+      "42475469",
+      "23912807",
+      "37874010",
+      "40479510",
+      "39508156",
+      "30689339",
+      "37130833",
+      "29510023",
+      "38710509",
+      "32233391",
+      "40233689",
+      "38830464",
+      "37480375",
+      "42807987",
+      "35867176",
+      "42300327",
+      "41139929",
+      "34138406",
+      "39083439",
+      "29723477",
+      "38163411",
+      "21919447",
+      "40233010",
+      "32786220",
+      "40468075",
+      "38461534",
+      "38513153",
+      "41946286",
+      "40059586",
+      "40304143",
+      "41457827",
+      "32614491",
+      "37340794",
+      "37658810",
+      "31150207",
+      "39719664",
+      "40575722",
+      "40434266",
+      "41042111",
+      "42189734",
+      "30129753",
+      "34477254",
+      "36795591",
+      "40373349",
+      "30512920",
+      "24945095",
+      "42555237",
+      "42695769",
+      "12126628",
+      "30023146",
+      "42570521",
+      "36734468",
+      "41099368",
+      "40353561",
+      "29504227",
+      "36651658",
+      "42580129",
+      "32022555",
+      "26181849",
+      "30540456",
+      "37992240",
+      "40553013",
+      "40664623",
+      "34021141",
+      "40782064",
+      "42044695",
+      "41641523",
+      "36930201",
+      "42622480",
+      "41649254",
+      "38608251",
+      "40598967",
+      "33448131",
+      "20949947",
+      "37358396",
+      "42044374",
+      "42287262",
+      "35089019",
+      "37779465",
+      "21967389",
+      "18620421",
+      "39844730",
+      "35244341",
+      "42691020",
+      "41493147",
+      "28902501",
+      "42361631",
+      "24599751",
+      "42759300",
+      "37322382",
+      "23815772",
+      "42627035"
+    ],
+    "review": [
+      "42814095",
+      "41757527",
+      "40468607",
+      "32233391",
+      "37480375",
+      "42807987",
+      "35867176",
+      "34138406",
+      "40233010",
+      "39719664",
+      "34477254",
+      "40373349",
+      "42555237",
+      "42044695",
+      "41641523",
+      "33448131",
+      "37779465"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1002/smll.76025",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1548",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

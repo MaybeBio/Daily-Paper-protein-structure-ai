@@ -1,0 +1,236 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.29.755338",
+  "title": "Repurposing PeTriBERT for Protein Protein Interaction Prediction with Sequence Structure Fusion",
+  "doi": "10.64898/2026.09.29.755338",
+  "abstract": "Recent advances in artificial intelligence have enabled models to capture protein sequence and structural features. We present PeTriPPI2, a hybrid framework for protein--protein interaction (PPI) prediction that combines sequence embeddings from ESM-2 with structural representations from PeTriBERT, an encoder originally designed for inverse folding. We evaluate this sequence--structure approach on the Pinder dataset. On a test set of 2,342 protein pairs, the selected checkpoint achieves 0.898 accuracy, 0.917 precision, 0.876 recall, and 0.896 F1 score for the interacting class (AUROC 0.963). Compared with SpatialPPIv2 on the same test data, PeTriPPI2 has higher precision (0.917 versus 0.886) but lower recall (0.876 versus 0.942) and F1 score (0.896 versus 0.913). Component ablations indicate that both the sequence and structural pathways contribute to this configuration.",
+  "authors": [
+    "Arthur Wavreille",
+    "Gabriel Krouk",
+    "Baldwin Dumortier"
+  ],
+  "published_date": "2026-09-30",
+  "updated_date": "2026-10-01T03:35:19Z",
+  "journal": "bioRxiv",
+  "category": "Bioinformatics",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.29.755338",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.29.755338.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [
+    "Bioinformatics"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Bioinformatics",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            1
+          ]
+        ],
+        "date-time": "2026-10-01T03:58:55Z",
+        "timestamp": 1790827135976,
+        "version": "4.1.0"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            30
+          ]
+        ]
+      },
+      "group-title": "Bioinformatics",
+      "reference-count": 0,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                30
+              ]
+            ],
+            "date-time": "2026-09-30T00:00:00Z",
+            "timestamp": 1790726400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "name": "Agence Nationale de la Recherche",
+          "award": [
+            "ANR-23-CE20-0020-01"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "ANR-23-CE20-0020-01"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/00rbzpz17",
+              "id-type": "ROR",
+              "asserted-by": "crossref"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            30
+          ]
+        ]
+      },
+      "abstract": "<jats:p>Recent advances in artificial intelligence have enabled models to capture protein sequence and structural features. We present PeTriPPI2, a hybrid framework for protein--protein interaction (PPI) prediction that combines sequence embeddings from ESM-2 with structural representations from PeTriBERT, an encoder originally designed for inverse folding. We evaluate this sequence--structure approach on the Pinder dataset. On a test set of 2,342 protein pairs, the selected checkpoint achieves 0.898 accuracy, 0.917 precision, 0.876 recall, and 0.896 F1 score for the interacting class (AUROC 0.963). Compared with SpatialPPIv2 on the same test data, PeTriPPI2 has higher precision (0.917 versus 0.886) but lower recall (0.876 versus 0.942) and F1 score (0.896 versus 0.913). Component ablations indicate that both the sequence and structural pathways contribute to this configuration.</jats:p>",
+      "DOI": "10.64898/2026.09.29.755338",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            1
+          ]
+        ],
+        "date-time": "2026-10-01T03:35:19Z",
+        "timestamp": 1790825719000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Repurposing PeTriBERT for Protein Protein Interaction Prediction with Sequence Structure Fusion"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "given": "Arthur",
+          "family": "Wavreille",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "IMAG Institut Montpellierain Alexander Grothendieck, CNRS;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-3693-6735",
+          "authenticated-orcid": false,
+          "given": "Gabriel",
+          "family": "Krouk",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "IPSiM, CNRS"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-1753-328X",
+          "authenticated-orcid": false,
+          "given": "Baldwin",
+          "family": "Dumortier",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "IMAG Institut Montpellierain Alexander Grothendieck, CNRS;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.09.29.755338",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            1
+          ]
+        ],
+        "date-time": "2026-10-01T03:35:19Z",
+        "timestamp": 1790825719000
+      },
+      "score": 67.909386,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.09.29.755338"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            30
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.64898/2026.09.29.755338",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            30
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

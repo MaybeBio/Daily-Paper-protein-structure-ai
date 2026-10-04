@@ -1,0 +1,36 @@
+{
+  "source": "arxiv",
+  "source_id": "2609.33392v1",
+  "title": "AutoHGNN: Robust and Efficient Neural Architecture Search for Hypergraph Neural Networks",
+  "doi": "10.1016/j.knosys.2026.116609",
+  "abstract": "Hypergraph neural networks have achieved significant success in recent years. However, manual architecture crafting is labor-intensive and often fails to capture complex, higher-order relations, making the automation of hypergraph neural network structure design crucial. To improve the automation and adaptability of hypergraph learning, this paper proposes AutoHGNN, a neural architecture search framework tailored for hypergraph neural networks. First, we introduce a Hyper-Interaction Module (HIM) into the search space to address the mismatch between conventional graph neural network designs and hypergraph data. Second, we propose Hypergraph Stable Topological Distance (HyperSTD) as a structural selection criterion to identify architectures that best preserve the intrinsic structural affinities of the original hypergraph during differentiable search. Extensive experiments on various benchmark datasets demonstrate that AutoHGNN consistently outperforms manually designed and automatically searched baselines in classification accuracy and time efficiency, proving that the discovered architectures are significantly more effective.",
+  "authors": [
+    "Sirui Li",
+    "Pietro Liò b",
+    "Xinsheng Li",
+    "Baisong Liu",
+    "Chengbin Peng"
+  ],
+  "published_date": "2026-09-27T09:16:13Z",
+  "updated_date": "2026-09-27T09:16:13Z",
+  "journal": "",
+  "category": "cs.LG, cs.AI",
+  "landing_url": "https://arxiv.org/abs/2609.33392v1",
+  "pdf_url": "https://arxiv.org/pdf/2609.33392v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cs.LG",
+    "cs.AI"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2609.33392v1",
+    "raw_categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "journal_ref": ""
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "identity": {
+    "pmid": "42812786",
+    "doi": "10.3389/fpls.2026.1959829",
+    "title": "Structural and functional perspectives on DEAD-box RNA helicases in the rubber tree cold stress response."
+  },
+  "content": {
+    "abstract": "DExD/H-box RNA helicases constitute one of the largest families of adenosine triphosphate (ATP)-dependent nucleic-acid enzymes, with roles spanning the full breadth of RNA metabolism, from transcription to turnover. Their defining architectural feature is a conserved helicase core comprising two tandem RecA-like domains that couples ATP hydrolysis to duplex unwinding and ribonucleoprotein remodeling. Structural investigations have historically focused on human and yeast model systems, but recent methodological advances, particularly cryo-electron microscopy and deep learning-based structure prediction, have broadened the structural coverage of the DDX family, including full-length constructs and their incorporation into multiprotein assemblies. In plants, DDX helicases remain far less characterized despite their essential functions in development and stress adaptation. This review integrates structural biology insights with recent multi-omics datasets from cold-stressed rubber tree (Hevea brasiliensis), a tropical crop highly susceptible to chilling injury. Quantitative profiling has identified nine differentially abundant DDX proteins under cold stress, among which DDX39B shows the most pronounced response. Rubber tree DDX39B shares >95% sequence identity with orthologs from other tropical species and ~73% identity with human DDX39B; AlphaFold2 predictions reveal near-identical core helicase folds, consistent with strong functional constraint across vast evolutionary distances. These predictions also reveal plant-specific domain arrangements, including a putative DDX39B isoform bearing additional LysM and protein kinase domains. This work illustrates how computational structure prediction can bridge the sequence-to-function gap for stress-responsive proteins in non-model plant species and provides a conceptual framework for dissecting DDX helicase roles in plant abiotic stress tolerance.",
+    "keywords": [
+      "AlphaFold2",
+      "DExD/H-box family",
+      "RNA helicases",
+      "cold stress",
+      "rubber tree",
+      "structural biology"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Gao, Baocai",
+        "Xiao, Mingxia",
+        "Mao, Changli",
+        "Liu, Jin"
+      ],
+      "short_names": [
+        "Gao B",
+        "Xiao M",
+        "Mao C",
+        "Liu J"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Yunnan Technology Innovation Center of Natural Rubber, Yunnan Key Laboratory of Sustainable Utilization Research on Rubber Tree, Yunnan Institute of Tropical Crops, Jinghong, China.",
+        "Yunnan Technology Innovation Center of Natural Rubber, Yunnan Key Laboratory of Sustainable Utilization Research on Rubber Tree, Yunnan Institute of Tropical Crops, Jinghong, China.",
+        "Yunnan Technology Innovation Center of Natural Rubber, Yunnan Key Laboratory of Sustainable Utilization Research on Rubber Tree, Yunnan Institute of Tropical Crops, Jinghong, China.",
+        "Yunnan Technology Innovation Center of Natural Rubber, Yunnan Key Laboratory of Sustainable Utilization Research on Rubber Tree, Yunnan Institute of Tropical Crops, Jinghong, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Gao, Baocai",
+        "short_name": "Gao B",
+        "identifiers": [],
+        "affiliations": [
+          "Yunnan Technology Innovation Center of Natural Rubber, Yunnan Key Laboratory of Sustainable Utilization Research on Rubber Tree, Yunnan Institute of Tropical Crops, Jinghong, China."
+        ]
+      },
+      {
+        "full_name": "Xiao, Mingxia",
+        "short_name": "Xiao M",
+        "identifiers": [],
+        "affiliations": [
+          "Yunnan Technology Innovation Center of Natural Rubber, Yunnan Key Laboratory of Sustainable Utilization Research on Rubber Tree, Yunnan Institute of Tropical Crops, Jinghong, China."
+        ]
+      },
+      {
+        "full_name": "Mao, Changli",
+        "short_name": "Mao C",
+        "identifiers": [],
+        "affiliations": [
+          "Yunnan Technology Innovation Center of Natural Rubber, Yunnan Key Laboratory of Sustainable Utilization Research on Rubber Tree, Yunnan Institute of Tropical Crops, Jinghong, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Jin",
+        "short_name": "Liu J",
+        "identifiers": [],
+        "affiliations": [
+          "Yunnan Technology Innovation Center of Natural Rubber, Yunnan Key Laboratory of Sustainable Utilization Research on Rubber Tree, Yunnan Institute of Tropical Crops, Jinghong, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in plant science"
+    ],
+    "journal_abbrev": [
+      "Front Plant Sci"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/30 11:35",
+    "fetched_at": "2026-10-04 07:45:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42812786",
+      "42475469",
+      "22940866",
+      "10731411",
+      "25720120",
+      "32669294",
+      "40537811",
+      "30315521",
+      "24863059",
+      "16624568",
+      "29472942",
+      "12782131",
+      "20941364",
+      "22995829",
+      "24265739",
+      "25772680",
+      "34956297",
+      "30714414",
+      "38592921",
+      "33539277",
+      "26241658",
+      "19400936",
+      "28288365",
+      "23093803",
+      "21509200",
+      "18184816",
+      "19747077",
+      "31164105",
+      "23371945",
+      "39212449",
+      "23765433",
+      "17631897",
+      "20026132",
+      "20510246",
+      "28115633",
+      "22899052",
+      "31894476",
+      "41653604",
+      "33035275",
+      "23111163",
+      "30879402",
+      "37221012",
+      "34744366",
+      "32213379",
+      "25095995",
+      "22404686",
+      "36312747",
+      "30830263",
+      "26323305",
+      "18096186",
+      "23912807",
+      "24835919",
+      "25123660",
+      "33191911",
+      "28468824",
+      "8413273",
+      "24908423",
+      "42100033",
+      "24279382",
+      "18441339",
+      "41543169",
+      "26820724",
+      "19710183",
+      "23572877",
+      "20691700",
+      "41944921",
+      "39306810",
+      "39889906",
+      "32087197",
+      "36416783",
+      "30365976",
+      "31300642",
+      "22713316",
+      "33640359",
+      "25497230",
+      "20160110",
+      "18760338",
+      "20166751",
+      "32575790",
+      "35965018",
+      "25579586",
+      "37261960",
+      "26783509",
+      "8627691",
+      "9705931",
+      "21779027",
+      "32526283",
+      "41453602",
+      "26598523",
+      "15797730",
+      "29588407",
+      "16118224",
+      "23945169",
+      "30387775",
+      "32033386",
+      "9601648",
+      "28396352",
+      "23416748",
+      "18272921",
+      "21884706"
+    ],
+    "review": [
+      "42812786",
+      "40537811",
+      "16624568",
+      "29472942",
+      "22995829",
+      "30714414",
+      "23093803",
+      "19747077",
+      "39212449",
+      "23765433",
+      "25095995",
+      "22404686",
+      "39306810",
+      "39889906",
+      "36416783",
+      "33640359",
+      "32575790",
+      "21779027",
+      "41453602",
+      "32033386"
+    ],
+    "pmc": [
+      "13621893"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1548",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fpls.2026.1959829",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

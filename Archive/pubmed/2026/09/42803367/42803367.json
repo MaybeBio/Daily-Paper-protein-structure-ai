@@ -1,0 +1,295 @@
+{
+  "identity": {
+    "pmid": "42803367",
+    "doi": "10.7554/eLife.109964",
+    "title": "Bifunctional architecture enables substrate catalysis and channeling in Paracoccus TMAO demethylase."
+  },
+  "content": {
+    "abstract": "Substrate channeling enhances efficiency and prevents toxicity by directing unstable intermediates between active sites. Trimethylamine N-oxide demethylase (TDM) degrades trimethylamine N-oxide (TMAO) to dimethylamine and formaldehyde (HCHO), but the fate of HCHO has remained unclear. We report cryo-EM structures of TDM in apo, substrate-, and product-bound states that reveal a previously unknown channeling pathway. Combined structural, biochemical, and target molecular dynamics analyses show that HCHO is generated in a catalytic core and guided through a tunnel to a remote tetrahydrofolate (THF)-binding site, where it forms methylene-THF. Thus, TDM emerges as a bifunctional enzyme that unites TMAO demethylation with one-carbon transfer, providing a mechanistic explanation for its role in metabolic efficiency and detoxification.",
+    "keywords": [
+      "E. coli",
+      "Paracoccus",
+      "Paracoccus DMF",
+      "molecular biophysics",
+      "structural biology"
+    ],
+    "mesh_terms": [
+      "*Methylamines/metabolism",
+      "*Paracoccus/enzymology",
+      "Formaldehyde/metabolism",
+      "Cryoelectron Microscopy",
+      "Substrate Specificity",
+      "*Oxidoreductases, N-Demethylating/metabolism/chemistry",
+      "Catalytic Domain",
+      "Molecular Dynamics Simulation",
+      "Protein Conformation",
+      "Catalysis",
+      "Dimethylamines/metabolism",
+      "Tetrahydrofolates/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Thach, Trung",
+        "Dhanabalan, KanagaVijayan",
+        "Maurya, Shiwangi",
+        "Han-Hallett, Yu",
+        "Quan, Senwei",
+        "Allison, Jane",
+        "Ramanathan, Gurunath",
+        "Subramanian, Ramaswamy"
+      ],
+      "short_names": [
+        "Thach T",
+        "Dhanabalan K",
+        "Maurya S",
+        "Han-Hallett Y",
+        "Quan S",
+        "Allison J",
+        "Ramanathan G",
+        "Subramanian R"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-8395-0623",
+        "ORCID: 0000-0001-8636-2616",
+        "ORCID: 0000-0002-6709-190X"
+      ],
+      "affiliations": [
+        "Department of Biological Sciences, Purdue University, West Lafayette, United States.",
+        "Department of Biological Sciences, Purdue University, West Lafayette, United States.",
+        "Department of Chemistry, Indian Institute of Technology Kanpur, Kanpur, India.",
+        "Bindley Bioscience Center, Purdue University, West Lafayette, United States.",
+        "School of Biological Sciences, University of Auckland, Auckland, New Zealand.",
+        "School of Biological Sciences, University of Auckland, Auckland, New Zealand.",
+        "Department of Chemistry, Indian Institute of Technology Kanpur, Kanpur, India.",
+        "Department of Biological Sciences, Purdue University, West Lafayette, United States.",
+        "Weldon School of Biomedical Engineering, Purdue University, West Lafayette, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Thach, Trung",
+        "short_name": "Thach T",
+        "identifiers": [
+          "0000-0001-8395-0623"
+        ],
+        "affiliations": [
+          "Department of Biological Sciences, Purdue University, West Lafayette, United States."
+        ]
+      },
+      {
+        "full_name": "Dhanabalan, KanagaVijayan",
+        "short_name": "Dhanabalan K",
+        "identifiers": [
+          "0000-0001-8636-2616"
+        ],
+        "affiliations": [
+          "Department of Biological Sciences, Purdue University, West Lafayette, United States."
+        ]
+      },
+      {
+        "full_name": "Maurya, Shiwangi",
+        "short_name": "Maurya S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Indian Institute of Technology Kanpur, Kanpur, India."
+        ]
+      },
+      {
+        "full_name": "Han-Hallett, Yu",
+        "short_name": "Han-Hallett Y",
+        "identifiers": [],
+        "affiliations": [
+          "Bindley Bioscience Center, Purdue University, West Lafayette, United States."
+        ]
+      },
+      {
+        "full_name": "Quan, Senwei",
+        "short_name": "Quan S",
+        "identifiers": [],
+        "affiliations": [
+          "School of Biological Sciences, University of Auckland, Auckland, New Zealand."
+        ]
+      },
+      {
+        "full_name": "Allison, Jane",
+        "short_name": "Allison J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Biological Sciences, University of Auckland, Auckland, New Zealand."
+        ]
+      },
+      {
+        "full_name": "Ramanathan, Gurunath",
+        "short_name": "Ramanathan G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Indian Institute of Technology Kanpur, Kanpur, India."
+        ]
+      },
+      {
+        "full_name": "Subramanian, Ramaswamy",
+        "short_name": "Subramanian R",
+        "identifiers": [
+          "0000-0002-6709-190X"
+        ],
+        "affiliations": [
+          "Department of Biological Sciences, Purdue University, West Lafayette, United States.",
+          "Weldon School of Biomedical Engineering, Purdue University, West Lafayette, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "eLife"
+    ],
+    "journal_abbrev": [
+      "Elife"
+    ],
+    "pub_date": "2026 Sep 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/28 11:40",
+    "fetched_at": "2026-10-04 07:45:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42803367",
+      "27644004",
+      "25471524",
+      "25088783",
+      "41147895",
+      "24715612",
+      "24550299",
+      "40280423",
+      "9813127",
+      "27851736",
+      "22162093",
+      "16221580",
+      "26283766",
+      "10224069",
+      "10869173",
+      "26880641",
+      "22483119",
+      "9047296",
+      "15609999",
+      "20437165",
+      "25849409",
+      "10757974",
+      "9813128",
+      "21858078",
+      "19369258",
+      "18512962",
+      "41138279",
+      "18186483",
+      "41106812",
+      "18189414",
+      "10673422",
+      "19154134",
+      "24858690",
+      "41353435",
+      "37774104",
+      "28373573",
+      "40738191",
+      "31604072",
+      "18331754",
+      "34254507",
+      "6297456",
+      "20080605",
+      "22112564",
+      "29528805",
+      "11685371",
+      "11553643",
+      "16362057",
+      "40920486",
+      "29856598",
+      "27025561",
+      "17589501",
+      "33485849",
+      "19432488",
+      "26160737",
+      "29094409",
+      "26708480",
+      "32198136",
+      "7556160",
+      "23526831",
+      "12754260",
+      "29358376",
+      "4040104",
+      "17589523",
+      "40577193",
+      "25492892",
+      "31412262",
+      "31873303",
+      "11234928",
+      "25137435",
+      "40252559",
+      "25625844",
+      "26147643",
+      "36795942",
+      "32452120",
+      "41027962",
+      "22328667",
+      "24053355",
+      "31511507",
+      "27642068",
+      "22488511",
+      "8022286",
+      "31118236",
+      "8171437",
+      "25711934",
+      "42160434",
+      "12049645",
+      "10224070",
+      "29161028",
+      "18393445",
+      "17040909",
+      "42235519",
+      "39365814",
+      "11481469",
+      "40915980",
+      "32523125",
+      "32433614",
+      "7060357",
+      "6509932",
+      "10386884",
+      "8652588"
+    ],
+    "review": [
+      "42803367",
+      "34254507"
+    ],
+    "pmc": [
+      "13619132"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42803367/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.7554/eLife.109964",
+        "provider": "eLife Sciences Publications, Ltd",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

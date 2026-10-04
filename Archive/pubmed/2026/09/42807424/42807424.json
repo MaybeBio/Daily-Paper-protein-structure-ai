@@ -1,0 +1,316 @@
+{
+  "identity": {
+    "pmid": "42807424",
+    "doi": "10.3389/fpls.2026.1882021",
+    "title": "AI-assisted crop improvement: new design tools within established regulatory frameworks."
+  },
+  "content": {
+    "abstract": "The integration of Artificial intelligence (AI) into crop improvement offers the potential to enhance the precision, efficiency, and speed of development of new varieties. Accelerated genetic gain is promised by an increasing repertoire of AI tools for analyzing large and complex genetic and phenotypic datasets to discover and elucidate traits and predict functional variants that can be realized with the use of, inter alia, genome editing tools. This power, in combination with parallel AI tool development for optimization of genome editing processes, has generated optimism for a new era of smart breeding. This Perspective examines the regulatory implications of AI-assisted crop improvement, using illustrative examples where deep learning models have been integrated for protein sequence and structure prediction, and the optimization or design of proteins for improved or novel functionalities. The examples represent either end of a spectrum of current and emerging genome editing applications: (i) editing of endogenous genes to enhance beneficial alleles and optimize functionality; and (ii) the design and engineering of new (\"de novo\") protein domains for customized or new functionality. This range of outcomes can also be achieved without guidance from AI tools, albeit less efficiently, and their regulatory status is generally established. We consider relevant risks associated with these applications and contend that the regulatory status of the potential outcomes should not change, nor should they challenge the foundational applicability of existing regulatory frameworks and approaches for biotech crops. We also briefly discuss some current limitations of AI tools, and broader regulatory and governance considerations.",
+    "keywords": [
+      "AI",
+      "artificial intelligence",
+      "biotech crops",
+      "biotech regulation",
+      "crop improvement",
+      "genome editing",
+      "plant breeding",
+      "synthetic biology"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Keiper, Felicity",
+        "Sanches da Rocha, Mitscheli",
+        "Beeckman, Delphine Sylvie Anne",
+        "Atanassova, Ana"
+      ],
+      "short_names": [
+        "Keiper F",
+        "Sanches da Rocha M",
+        "Beeckman DSA",
+        "Atanassova A"
+      ],
+      "auids": [],
+      "affiliations": [
+        "BASF Agricultural Solutions Australia Pty Ltd., Southbank, VIC, Australia.",
+        "BASF Agricultural Solutions US LLC, Research Triangle Park, NC, United States.",
+        "BASF Agricultural Solutions Belgium NV, Ghent, Belgium.",
+        "BASF Agricultural Solutions Belgium NV, Ghent, Belgium."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Keiper, Felicity",
+        "short_name": "Keiper F",
+        "identifiers": [],
+        "affiliations": [
+          "BASF Agricultural Solutions Australia Pty Ltd., Southbank, VIC, Australia."
+        ]
+      },
+      {
+        "full_name": "Sanches da Rocha, Mitscheli",
+        "short_name": "Sanches da Rocha M",
+        "identifiers": [],
+        "affiliations": [
+          "BASF Agricultural Solutions US LLC, Research Triangle Park, NC, United States."
+        ]
+      },
+      {
+        "full_name": "Beeckman, Delphine Sylvie Anne",
+        "short_name": "Beeckman DSA",
+        "identifiers": [],
+        "affiliations": [
+          "BASF Agricultural Solutions Belgium NV, Ghent, Belgium."
+        ]
+      },
+      {
+        "full_name": "Atanassova, Ana",
+        "short_name": "Atanassova A",
+        "identifiers": [],
+        "affiliations": [
+          "BASF Agricultural Solutions Belgium NV, Ghent, Belgium."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in plant science"
+    ],
+    "journal_abbrev": [
+      "Front Plant Sci"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/29 12:28",
+    "fetched_at": "2026-10-04 07:45:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42807424",
+      "42475469",
+      "39668563",
+      "41999049",
+      "41065853",
+      "40702261",
+      "26930114",
+      "41064763",
+      "42452277",
+      "35910205",
+      "41451278",
+      "27499678",
+      "41254910",
+      "34367194",
+      "41889171",
+      "39117482",
+      "42643124",
+      "42534996",
+      "42337128",
+      "40744834",
+      "37107535",
+      "41092254",
+      "38216788",
+      "36438626",
+      "36232455",
+      "40553349",
+      "41851984",
+      "41713401",
+      "39963359",
+      "33825100",
+      "40538131",
+      "34070430",
+      "36149531",
+      "27726285",
+      "42694518",
+      "41254174",
+      "30809237",
+      "42109576",
+      "35647578",
+      "41939694",
+      "37515323",
+      "42053928",
+      "35941420",
+      "41081913",
+      "40524056",
+      "32194972",
+      "40613890",
+      "41546796",
+      "42280680",
+      "35891620",
+      "40632351",
+      "41533202",
+      "35460444",
+      "35736444",
+      "42211230",
+      "42100688",
+      "39603170",
+      "32276445",
+      "31541446",
+      "37549968",
+      "41125905",
+      "41755349",
+      "34713214",
+      "31644801",
+      "41231321",
+      "42278532",
+      "42211476",
+      "37687620",
+      "28900432",
+      "38260726",
+      "40612601",
+      "40095140",
+      "37401892",
+      "42405245",
+      "32875201",
+      "42745060",
+      "29967764",
+      "36321718",
+      "40079459",
+      "38925317",
+      "42287453",
+      "41165418",
+      "41688767",
+      "42364829",
+      "40455285",
+      "32236850",
+      "41073589",
+      "42044246",
+      "31430902",
+      "31423300",
+      "28762506",
+      "36072906",
+      "41813232",
+      "40536536",
+      "38658741",
+      "42648065",
+      "38903438",
+      "40390692",
+      "37510388",
+      "39467106"
+    ],
+    "review": [
+      "42807424",
+      "39668563",
+      "41999049",
+      "41065853",
+      "40702261",
+      "41064763",
+      "42452277",
+      "35910205",
+      "41451278",
+      "41254910",
+      "34367194",
+      "41889171",
+      "39117482",
+      "42643124",
+      "42337128",
+      "40744834",
+      "37107535",
+      "41092254",
+      "38216788",
+      "36232455",
+      "40553349",
+      "41851984",
+      "41713401",
+      "39963359",
+      "33825100",
+      "40538131",
+      "34070430",
+      "36149531",
+      "27726285",
+      "42694518",
+      "41254174",
+      "30809237",
+      "42109576",
+      "35647578",
+      "41939694",
+      "37515323",
+      "42053928",
+      "41081913",
+      "40524056",
+      "32194972",
+      "40613890",
+      "41546796",
+      "42280680",
+      "40632351",
+      "41533202",
+      "35460444",
+      "35736444",
+      "42211230",
+      "42100688",
+      "39603170",
+      "32276445",
+      "37549968",
+      "41125905",
+      "41755349",
+      "34713214",
+      "41231321",
+      "42278532",
+      "42211476",
+      "37687620",
+      "28900432",
+      "38260726",
+      "40612601",
+      "40095140",
+      "37401892",
+      "42405245",
+      "32875201",
+      "42745060",
+      "36321718",
+      "40079459",
+      "38925317",
+      "42287453",
+      "41165418",
+      "41688767",
+      "42364829",
+      "40455285",
+      "32236850",
+      "41073589",
+      "31430902",
+      "31423300",
+      "28762506",
+      "36072906",
+      "41813232",
+      "40536536",
+      "38658741",
+      "42648065",
+      "38903438",
+      "40390692",
+      "37510388",
+      "39467106"
+    ],
+    "pmc": [
+      "13617007"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42807424/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fpls.2026.1882021",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

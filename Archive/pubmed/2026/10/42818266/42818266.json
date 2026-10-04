@@ -1,0 +1,235 @@
+{
+  "identity": {
+    "pmid": "42818266",
+    "doi": "10.64898/2026.09.22.753604",
+    "title": "Agentic campaign control for high-throughput de novo binder design."
+  },
+  "content": {
+    "abstract": "Progress in artificial intelligence has produced a rapidly growing ecosystem of methods for de novo protein design. With access to many specialized and often complementary tools, how does one use them effectively, especially with a finite compute budget? Here, we introduce Target-adaptive Rescue-Explore-eXploit (T-REX) , an agentic protein binder design framework that orchestrates multiple state-of-the-art protein generative models and structure evaluators. Over the course of a design campaign, T-REX leverages large language model (LLM) agents to reason over accumulating outcomes and decide whether to rescue promising candidates, explore alternative settings, or exploit productive routes, while a deterministic controller validates and schedules proposed actions. Across seven targets, we find that T-REX adaptively allocates its compute across methods in a target-dependent manner and achieves the highest throughput of structurally distinct hits compared to all baselines. These results suggest that adaptive orchestration can complement increasingly powerful protein design models, and we openly release T-REX to support compute-efficient binder design workflows.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Jeon, Minkyu",
+        "Song, Jinyeop",
+        "Kim, Jina",
+        "Zhong, Ellen D"
+      ],
+      "short_names": [
+        "Jeon M",
+        "Song J",
+        "Kim J",
+        "Zhong ED"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-0572-6065",
+        "ORCID: 0000-0002-4113-5185",
+        "ORCID: 0009-0009-6898-7933",
+        "ORCID: 0000-0001-6345-1907"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Jeon, Minkyu",
+        "short_name": "Jeon M",
+        "identifiers": [
+          "0000-0003-0572-6065"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Song, Jinyeop",
+        "short_name": "Song J",
+        "identifiers": [
+          "0000-0002-4113-5185"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Kim, Jina",
+        "short_name": "Kim J",
+        "identifiers": [
+          "0009-0009-6898-7933"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Zhong, Ellen D",
+        "short_name": "Zhong ED",
+        "identifiers": [
+          "0000-0001-6345-1907"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Sep 24",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/01 11:37",
+    "fetched_at": "2026-10-04 07:45:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42818266",
+      "42475469",
+      "42410671",
+      "42555501",
+      "41877581",
+      "41532836",
+      "41310253",
+      "42146566",
+      "29214605",
+      "38384298",
+      "42779796",
+      "42126315",
+      "41409142",
+      "41451541",
+      "42125061",
+      "42321544",
+      "38663170",
+      "36321557",
+      "42119128",
+      "41562285",
+      "41696047",
+      "40463249",
+      "39266056",
+      "42222300",
+      "41270120",
+      "40897171",
+      "41394589",
+      "42743923",
+      "37433327",
+      "42039485",
+      "42546051",
+      "40945783",
+      "42104019",
+      "42052042",
+      "42185313",
+      "40760099",
+      "39605685",
+      "42716354",
+      "21452978",
+      "35544331",
+      "41728283",
+      "40542165",
+      "42421755",
+      "42620311",
+      "39584325",
+      "42202198",
+      "23912807",
+      "42655921",
+      "42116185",
+      "30726003",
+      "42369004",
+      "41579609",
+      "42814849",
+      "41279570",
+      "41911379",
+      "40108317",
+      "41713127",
+      "41759349",
+      "35724626",
+      "39493989",
+      "42104391",
+      "41152135",
+      "36263480",
+      "34760151",
+      "37969589",
+      "37934070",
+      "40766944",
+      "38791544",
+      "42320766",
+      "41253282",
+      "40146990",
+      "42280270",
+      "41693001",
+      "40021099",
+      "31523183",
+      "42327254",
+      "41776746",
+      "41546836",
+      "37149653",
+      "42740140",
+      "42734505",
+      "41202205",
+      "41454792",
+      "40259427",
+      "41973425",
+      "41973863",
+      "41973821",
+      "42767679",
+      "35128926",
+      "42776794",
+      "42817087",
+      "42640119",
+      "41519030",
+      "40447738",
+      "41685258",
+      "41905130",
+      "42114040",
+      "42398927",
+      "40804173",
+      "38745704"
+    ],
+    "review": [
+      "42818266",
+      "41532836",
+      "29214605",
+      "38384298",
+      "38663170",
+      "36321557",
+      "40897171",
+      "42546051",
+      "42052042",
+      "42716354",
+      "35544331",
+      "39584325",
+      "41759349",
+      "41152135",
+      "36263480",
+      "37934070",
+      "41253282",
+      "40021099",
+      "41454792",
+      "41973863",
+      "35128926",
+      "42776794"
+    ],
+    "pmc": [
+      "13622205"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.64898/2026.09.22.753604",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

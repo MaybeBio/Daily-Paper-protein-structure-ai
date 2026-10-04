@@ -1,0 +1,227 @@
+{
+  "identity": {
+    "pmid": "42821695",
+    "doi": "10.1126/science.aek7949",
+    "title": "Keep AI-augmented science contestable."
+  },
+  "content": {
+    "abstract": "Artificial intelligence (AI) is moving upstream in science. Systems such as AlphaFold have already transformed protein-structure prediction, while newer agentic systems can search literatures, generate hypotheses, write and execute code, interpret results, and automate much of the path from idea to paper. Recent debates have asked how such systems may change scientific progress, surprise, and human understanding. Yet they also change something more fundamental: who-or what-participates in deciding which questions are asked, which evidence is surfaced, and which alternatives survive. As machine intelligence becomes part of science's epistemic infrastructure, steps must be taken to ensure that researchers who did not build, own, or operate the system can still contest how ideas and evidence became a claim.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Artificial Intelligence",
+      "Humans",
+      "*Science/methods/trends"
+    ],
+    "pub_types": [
+      "Editorial"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Trattner, Christoph"
+      ],
+      "short_names": [
+        "Trattner C"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Christoph Trattner is professor of Information Science at the University of Bergen and founding director of MediaFutures: Research Centre for Responsible Media Technology & Innovation, Bergen, Norway."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Trattner, Christoph",
+        "short_name": "Trattner C",
+        "identifiers": [],
+        "affiliations": [
+          "Christoph Trattner is professor of Information Science at the University of Bergen and founding director of MediaFutures: Research Centre for Responsible Media Technology & Innovation, Bergen, Norway."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Science (New York, N.Y.)"
+    ],
+    "journal_abbrev": [
+      "Science"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Editorial"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/01 23:30",
+    "fetched_at": "2026-10-04 07:45:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42821695",
+      "40689731",
+      "42475469",
+      "35875501",
+      "41535462",
+      "23912807",
+      "42753735",
+      "29262162",
+      "33611272",
+      "37603120",
+      "40945783",
+      "42196328",
+      "41952583",
+      "42171538",
+      "33416835",
+      "40845390",
+      "41882133",
+      "41432196",
+      "39579663",
+      "36733854",
+      "37337701",
+      "42520754",
+      "28474609",
+      "37271177",
+      "33036834",
+      "41911537",
+      "41348304",
+      "42734488",
+      "37443269",
+      "39637910",
+      "41835982",
+      "35412610",
+      "42737969",
+      "41873493",
+      "41911026",
+      "42383551",
+      "41532836",
+      "31022744",
+      "41864777",
+      "42048905",
+      "37758895",
+      "41410516",
+      "29784537",
+      "37384870",
+      "34644128",
+      "41577147",
+      "30869226",
+      "42077282",
+      "42544917",
+      "39769135",
+      "42478148",
+      "41506062",
+      "37567040",
+      "40480952",
+      "42627223",
+      "38991316",
+      "41363672",
+      "40580377",
+      "31022753",
+      "42042548",
+      "37709769",
+      "32996892",
+      "17810298",
+      "42241685",
+      "42814997",
+      "42265523",
+      "42126692",
+      "35943820",
+      "33891859",
+      "36578657",
+      "42034372",
+      "38345839",
+      "41175385",
+      "42444255",
+      "41248320",
+      "29787190",
+      "35879937",
+      "30555582",
+      "41312451",
+      "41911411",
+      "40055746",
+      "42128801",
+      "40705666",
+      "42427764",
+      "41755911",
+      "42721478",
+      "42282102",
+      "38838418",
+      "26042329",
+      "40549427",
+      "38217755",
+      "41382220",
+      "37065505",
+      "41602311",
+      "40960111",
+      "38570011",
+      "39169971",
+      "37169649",
+      "32813121",
+      "35419602"
+    ],
+    "review": [
+      "42821695",
+      "35875501",
+      "42753735",
+      "33611272",
+      "42196328",
+      "41952583",
+      "33416835",
+      "39579663",
+      "36733854",
+      "42520754",
+      "37271177",
+      "41911537",
+      "41348304",
+      "39637910",
+      "42737969",
+      "41873493",
+      "42383551",
+      "41532836",
+      "41864777",
+      "42048905",
+      "41410516",
+      "29784537",
+      "34644128",
+      "41577147",
+      "42544917",
+      "39769135",
+      "38991316",
+      "31022753",
+      "42042548",
+      "42265523",
+      "36578657",
+      "38345839",
+      "41175385",
+      "42444255",
+      "41248320",
+      "29787190",
+      "41312451",
+      "40055746",
+      "42128801",
+      "41755911",
+      "38838418",
+      "26042329",
+      "40549427",
+      "38217755",
+      "40960111",
+      "37169649",
+      "35419602"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https:///www.science.org/doi/10.1126/science.aek7949",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

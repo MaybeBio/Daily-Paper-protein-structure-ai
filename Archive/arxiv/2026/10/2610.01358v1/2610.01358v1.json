@@ -1,0 +1,39 @@
+{
+  "source": "arxiv",
+  "source_id": "2610.01358v1",
+  "title": "Fold'EM: Direct atomic structure inference from Cryo-EM particles",
+  "doi": "",
+  "abstract": "Single-particle cryo-electron microscopy (cryo-EM) has become a widely adopted technique for biomolecular structure determination. The conventional cryo-EM computational pipeline first combines many particle images to reconstruct an electrostatic potential (ESP) map and then fits an atomic model to the recovered map. Density reconstruction has high sample complexity, requiring large numbers of particle images and making structure determination high-cost and low-throughput, particularly for heterogeneous samples. Downstream atomic model building, in turn, becomes increasingly difficult as the resolution of the reconstructed map deteriorates. Protein structure prediction models provide strong sequence-derived priors on atomic structure, and experiment-guided approaches can use these priors to recover structures consistent with experimental measurements. Yet, in cryo-EM, such priors are typically integrated only after density reconstruction during atomic model fitting. We introduce Fold'EM, an inference-time framework that combines priors from protein generative models directly with cryo-EM particle images to determine atomic models from a small number of single particle images, bypassing both intermediate density reconstruction and downstream model building against the reconstructed map. Across synthetic and experimental cryo-EM datasets, Fold'EM recovers accurate atomic structures both with known particle orientations and in an ab-initio setting where orientations are inferred jointly with structure. In heterogeneous datasets, Fold'EM further resolves distinct conformational states from mixed particle populations without separately reconstructing a density map and building an atomic model for each state. We believe these results open new avenues for structure determination in the low-sample regime and for characterizing low-population conformational states directly from cryo-EM particles.",
+  "authors": [
+    "Advaith Maddipatla",
+    "Märt-Erik Mäeots",
+    "Marco Pegoraro",
+    "Nikolaus Dräger",
+    "Roberto Covino",
+    "Sanketh Vedula",
+    "Martin Pacesa",
+    "Alex M. Bronstein"
+  ],
+  "published_date": "2026-10-01T09:28:37Z",
+  "updated_date": "2026-10-01T09:28:37Z",
+  "journal": "",
+  "category": "q-bio.BM, cs.AI",
+  "landing_url": "https://arxiv.org/abs/2610.01358v1",
+  "pdf_url": "https://arxiv.org/pdf/2610.01358v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "q-bio.BM",
+    "cs.AI"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2610.01358v1",
+    "raw_categories": [
+      "q-bio.BM",
+      "cs.AI"
+    ],
+    "journal_ref": ""
+  }
+}

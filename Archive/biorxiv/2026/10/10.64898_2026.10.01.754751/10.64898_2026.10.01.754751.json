@@ -1,0 +1,196 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.01.754751",
+  "title": "Design-Evolution Synergy Enables New-to-Nature Enzyme Chemistry",
+  "doi": "10.64898/2026.10.01.754751",
+  "abstract": "Directed evolution and machine-learning-assisted evolution have transformed biocatalysis by enabling rapid optimisation of catalytic performance within compatible protein scaffolds. In parallel, advances in deep-learning-driven de novo protein design have expanded accessible protein architectural space, enabling the generation of functional catalysts for increasingly challenging transformations. We herein report a synergistic design-evolution strategy to encode new-to-nature regio- and enantioselective C-H amination reactions using engineered de novo haemproteins to synthesise chiral piperidines, a privileged pharmacophore in drug discovery. By integrating motif scaffolding, computational re-design, and directed evolution, we demonstrate de novo enzyme design can enable challenging, high-energy-barrier enzyme chemistry with programmable regio- and enantioselectivity, high catalytic efficiency, excellent enzyme stability, and scaffold diversity.",
+  "authors": [
+    "Li Z",
+    "Zhang RK",
+    "Xie P",
+    "Kelly J",
+    "Zhang Y",
+    "Qin Z",
+    "Lambert T",
+    "Mukhopadhyay O",
+    "Hanley D",
+    "Danson AE",
+    "Abramson J",
+    "Singh S",
+    "Wu Z",
+    "Kohli P",
+    "Liu P",
+    "Wang J",
+    "Arnold FH"
+  ],
+  "published_date": "2026-10-02",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.01.754751",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.01.754751.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1332934",
+    "raw_record": {
+      "id": "PPR1332934",
+      "source": "PPR",
+      "doi": "10.64898/2026.10.01.754751",
+      "title": "Design-Evolution Synergy Enables New-to-Nature Enzyme Chemistry",
+      "authorString": "Li Z, Zhang RK, Xie P, Kelly J, Zhang Y, Qin Z, Lambert T, Mukhopadhyay O, Hanley D, Danson AE, Abramson J, Singh S, Wu Z, Kohli P, Liu P, Wang J, Arnold FH.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Li Z",
+            "lastName": "Li",
+            "firstName": "Zi-Qi",
+            "initials": "Z"
+          },
+          {
+            "fullName": "Zhang RK",
+            "lastName": "Zhang",
+            "firstName": "Ruijie",
+            "initials": "RK"
+          },
+          {
+            "fullName": "Xie P",
+            "lastName": "Xie",
+            "firstName": "Pei-Pei",
+            "initials": "P"
+          },
+          {
+            "fullName": "Kelly J",
+            "lastName": "Kelly",
+            "firstName": "Jacob",
+            "initials": "J"
+          },
+          {
+            "fullName": "Zhang Y",
+            "lastName": "Zhang",
+            "firstName": "Yu",
+            "initials": "Y"
+          },
+          {
+            "fullName": "Qin Z",
+            "lastName": "Qin",
+            "firstName": "Zi-Yang",
+            "initials": "Z"
+          },
+          {
+            "fullName": "Lambert T",
+            "lastName": "Lambert",
+            "firstName": "Theophile",
+            "initials": "T"
+          },
+          {
+            "fullName": "Mukhopadhyay O",
+            "lastName": "Mukhopadhyay",
+            "firstName": "Orna",
+            "initials": "O"
+          },
+          {
+            "fullName": "Hanley D",
+            "lastName": "Hanley",
+            "firstName": "Deirdre",
+            "initials": "D"
+          },
+          {
+            "fullName": "Danson AE",
+            "lastName": "Danson",
+            "firstName": "Amy",
+            "initials": "AE"
+          },
+          {
+            "fullName": "Abramson J",
+            "lastName": "Abramson",
+            "firstName": "Joshua",
+            "initials": "J"
+          },
+          {
+            "fullName": "Singh S",
+            "lastName": "Singh",
+            "firstName": "Sukhdeep",
+            "initials": "S"
+          },
+          {
+            "fullName": "Wu Z",
+            "lastName": "Wu",
+            "firstName": "Zachary",
+            "initials": "Z"
+          },
+          {
+            "fullName": "Kohli P",
+            "lastName": "Kohli",
+            "firstName": "Pushmeet",
+            "initials": "P"
+          },
+          {
+            "fullName": "Liu P",
+            "lastName": "Liu",
+            "firstName": "Peng",
+            "initials": "P"
+          },
+          {
+            "fullName": "Wang J",
+            "lastName": "Wang",
+            "firstName": "Jue",
+            "initials": "J"
+          },
+          {
+            "fullName": "Arnold FH",
+            "lastName": "Arnold",
+            "firstName": "Frances",
+            "initials": "FH"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Directed evolution and machine-learning-assisted evolution have transformed biocatalysis by enabling rapid optimisation of catalytic performance within compatible protein scaffolds. In parallel, advances in deep-learning-driven de novo protein design have expanded accessible protein architectural space, enabling the generation of functional catalysts for increasingly challenging transformations. We herein report a synergistic design-evolution strategy to encode new-to-nature regio- and enantioselective C-H amination reactions using engineered de novo haemproteins to synthesise chiral piperidines, a privileged pharmacophore in drug discovery. By integrating motif scaffolding, computational re-design, and directed evolution, we demonstrate de novo enzyme design can enable challenging, high-energy-barrier enzyme chemistry with programmable regio- and enantioselectivity, high catalytic efficiency, excellent enzyme stability, and scaffold diversity.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.10.01.754751"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-10-03",
+      "firstPublicationDate": "2026-10-02",
+      "firstIndexDate": "2026-10-03",
+      "hasEvaluations": "N"
+    }
+  }
+}

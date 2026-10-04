@@ -1,0 +1,235 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.27.754816",
+  "title": "Protein Language Model-Conditioned Graph Neural Networks for Multitask GPCR Ligand Activity Prediction",
+  "doi": "10.64898/2026.09.27.754816",
+  "abstract": "Predicting ligand activity across G protein-coupled receptors (GPCRs) requires models that capture both molecular structure and receptor-specific information while remaining robust to chemical and target-domain shifts. We developed a multimodal graph neural network that combines explicit ligand molecular graphs with frozen protein language model representations of GPCR sequences and jointly predicts quantitative pActivity and binary activity. The model was trained on 271,739 curated ligand-GPCR pairs spanning 183,694 ligands and 216 human GPCRs and evaluated using random, Bemis-Murcko scaffold, and strict cold-ligand partitions. With ESM-2 650M receptor embeddings, the selected model achieved mean absolute errors of 0.513 ± 0.006, 0.540 ± 0.006, and 0.641 ± 0.005 pActivity units under random, cold-ligand, and scaffold evaluation, respectively, substantially outperforming a protein-aware fixed-feature multilayer perceptron and consistently improving quantitative prediction over a matched GINE reference. Removing receptor embeddings markedly degraded both regression and classification, whereas differences among ESM-2 35M, ESM-2 650M, and ProtT5 were comparatively small. Independent evaluation on 6,319 ChEMBL 37/BindingDB pairs revealed a substantial external domain shift, with mean absolute error increasing to approximately 0.94-0.95 despite chemically stringent internal validation. Nevertheless, receptor-specific information remained highly informative in a DRD2-DRD3 selectivity analysis: the cold-ligand ensemble achieved R^2 = 0.853, Spearman ρ = 0.916, and ROC-AUC = 0.966 for strong DRD3 selectivity, whereas the receptor-independent ablation approached chance-level discrimination. These results establish protein-language-model-conditioned molecular graph learning as a scalable strategy for GPCR bioactivity prediction while identifying chemotype novelty, external-domain transfer, and richer ligand-receptor interaction representations as key remaining challenges.",
+  "authors": [
+    "Manashi De",
+    "Ekarsi Lodh",
+    "Shalini Majumder",
+    "Tapan Chowdhury"
+  ],
+  "published_date": "2026-10-02",
+  "updated_date": "2026-10-02T21:05:42Z",
+  "journal": "bioRxiv",
+  "category": "Bioinformatics",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.27.754816",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.27.754816.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [
+    "Bioinformatics"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Bioinformatics",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            2
+          ]
+        ],
+        "date-time": "2026-10-02T21:53:06Z",
+        "timestamp": 1790977986471,
+        "version": "4.1.0"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            2
+          ]
+        ]
+      },
+      "group-title": "Bioinformatics",
+      "reference-count": 0,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                2
+              ]
+            ],
+            "date-time": "2026-10-02T00:00:00Z",
+            "timestamp": 1790899200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://www.biorxiv.org/about/FAQ#license"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            2
+          ]
+        ]
+      },
+      "abstract": "<jats:p>Predicting ligand activity across G protein-coupled receptors (GPCRs) requires models that capture both molecular structure and receptor-specific information while remaining robust to chemical and target-domain shifts. We developed a multimodal graph neural network that combines explicit ligand molecular graphs with frozen protein language model representations of GPCR sequences and jointly predicts quantitative pActivity and binary activity. The model was trained on 271,739 curated ligand-GPCR pairs spanning 183,694 ligands and 216 human GPCRs and evaluated using random, Bemis-Murcko scaffold, and strict cold-ligand partitions. With ESM-2 650M receptor embeddings, the selected model achieved mean absolute errors of 0.513 ± 0.006, 0.540 ± 0.006, and 0.641 ± 0.005 pActivity units under random, cold-ligand, and scaffold evaluation, respectively, substantially outperforming a protein-aware fixed-feature multilayer perceptron and consistently improving quantitative prediction over a matched GINE reference. Removing receptor embeddings markedly degraded both regression and classification, whereas differences among ESM-2 35M, ESM-2 650M, and ProtT5 were comparatively small. Independent evaluation on 6,319 ChEMBL 37/BindingDB pairs revealed a substantial external domain shift, with mean absolute error increasing to approximately 0.94-0.95 despite chemically stringent internal validation. Nevertheless, receptor-specific information remained highly informative in a DRD2-DRD3 selectivity analysis: the cold-ligand ensemble achieved R^2 = 0.853, Spearman ρ = 0.916, and ROC-AUC = 0.966 for strong DRD3 selectivity, whereas the receptor-independent ablation approached chance-level discrimination. These results establish protein-language-model-conditioned molecular graph learning as a scalable strategy for GPCR bioactivity prediction while identifying chemotype novelty, external-domain transfer, and richer ligand-receptor interaction representations as key remaining challenges.</jats:p>",
+      "DOI": "10.64898/2026.09.27.754816",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            2
+          ]
+        ],
+        "date-time": "2026-10-02T21:05:42Z",
+        "timestamp": 1790975142000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Protein Language Model-Conditioned Graph Neural Networks for Multitask GPCR Ligand Activity Prediction"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-4709-3219",
+          "authenticated-orcid": false,
+          "given": "Manashi",
+          "family": "De",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Techno Main Salt Lake;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0000-7462-3217",
+          "authenticated-orcid": false,
+          "given": "Ekarsi",
+          "family": "Lodh",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "College of Medicine and Health, University of Birmingham"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0003-6371-1504",
+          "authenticated-orcid": false,
+          "given": "Shalini",
+          "family": "Majumder",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "College of Medicine and Health, University of Birmingham"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1511-1793",
+          "authenticated-orcid": false,
+          "given": "Tapan",
+          "family": "Chowdhury",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Techno Main Salt Lake;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.09.27.754816",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            2
+          ]
+        ],
+        "date-time": "2026-10-02T21:05:42Z",
+        "timestamp": 1790975142000
+      },
+      "score": 72.82755,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.09.27.754816"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            2
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.64898/2026.09.27.754816",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            2
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

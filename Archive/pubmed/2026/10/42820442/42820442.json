@@ -1,0 +1,262 @@
+{
+  "identity": {
+    "pmid": "42820442",
+    "doi": "10.1063/5.0347970",
+    "title": "Probing mechanisms of allosteric regulation in AAA+ ATPases for microtubule severing and protein disaggregation."
+  },
+  "content": {
+    "abstract": "Ring-like AAA+ (ATPases associated with diverse cellular activities) biological machines mediate protein remodeling to assist a broad range of essential cellular functions. The nucleotide-dependent remodeling action involves intra- and inter-ring allosteric communication to generate mechanical force applied onto the substrate by a set of loops that protrude into the central channel. In this study, we probe these allosteric mechanisms through a comparative study of the katanin, a microtubule severing protein including a clade 3 AAA domain, and the double-ring ClpB, a protein disaggregase including both a clade 3 and a clade 5 AAA domain. Our molecular dynamics simulations, combined with machine learning and bioinformatic analysis, reveal both similar mechanisms involving the clade 3 domain and ClpB-specific ones involving communication with the clade 5 domain. We find that both nucleotide and substrate polypeptide binding restrict the conformational landscape sampled by katanin and ClpB, with ligand-specific conformations observed in the latter case. Allosteric contributions of secondary structure elements, ranked using SHapley Additive exPlanations analysis in machine learning approaches and binary classification of features in ligand states, highlight the important role of regions adjacent to the nucleotide-binding site and the pore loops. Amino acid-level analysis of the allosteric paths reveals that intra-ring cooperativity modulates long-distance communication within the AAA+ protomers.",
+    "keywords": [],
+    "mesh_terms": [
+      "Allosteric Regulation",
+      "Molecular Dynamics Simulation",
+      "*Microtubules/metabolism/chemistry",
+      "*Adenosine Triphosphatases/chemistry/metabolism",
+      "*Katanin/chemistry/metabolism",
+      "AAA Domain",
+      "Machine Learning"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Irshad, Maryum",
+        "Walpalage, Krishan",
+        "Zhang, Zhaocheng",
+        "Gillen, Maria S",
+        "Dima, Ruxandra I",
+        "Stan, George"
+      ],
+      "short_names": [
+        "Irshad M",
+        "Walpalage K",
+        "Zhang Z",
+        "Gillen MS",
+        "Dima RI",
+        "Stan G"
+      ],
+      "auids": [
+        "ORCID: 0009-0007-5558-6968",
+        "ORCID: 0000-0001-6105-7287",
+        "ORCID: 0000-0003-1880-4173"
+      ],
+      "affiliations": [
+        "Department of Chemistry, University of Cincinnati, Cincinnati, Ohio 45221, USA.",
+        "Department of Chemistry, University of Cincinnati, Cincinnati, Ohio 45221, USA.",
+        "Department of Chemistry, University of Cincinnati, Cincinnati, Ohio 45221, USA.",
+        "Department of Chemistry, University of Cincinnati, Cincinnati, Ohio 45221, USA.",
+        "Department of Chemistry, University of Cincinnati, Cincinnati, Ohio 45221, USA.",
+        "Department of Chemistry, University of Cincinnati, Cincinnati, Ohio 45221, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Irshad, Maryum",
+        "short_name": "Irshad M",
+        "identifiers": [
+          "0009-0007-5558-6968"
+        ],
+        "affiliations": [
+          "Department of Chemistry, University of Cincinnati, Cincinnati, Ohio 45221, USA."
+        ]
+      },
+      {
+        "full_name": "Walpalage, Krishan",
+        "short_name": "Walpalage K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, University of Cincinnati, Cincinnati, Ohio 45221, USA."
+        ]
+      },
+      {
+        "full_name": "Zhang, Zhaocheng",
+        "short_name": "Zhang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, University of Cincinnati, Cincinnati, Ohio 45221, USA."
+        ]
+      },
+      {
+        "full_name": "Gillen, Maria S",
+        "short_name": "Gillen MS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, University of Cincinnati, Cincinnati, Ohio 45221, USA."
+        ]
+      },
+      {
+        "full_name": "Dima, Ruxandra I",
+        "short_name": "Dima RI",
+        "identifiers": [
+          "0000-0001-6105-7287"
+        ],
+        "affiliations": [
+          "Department of Chemistry, University of Cincinnati, Cincinnati, Ohio 45221, USA."
+        ]
+      },
+      {
+        "full_name": "Stan, George",
+        "short_name": "Stan G",
+        "identifiers": [
+          "0000-0003-1880-4173"
+        ],
+        "affiliations": [
+          "Department of Chemistry, University of Cincinnati, Cincinnati, Ohio 45221, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The Journal of chemical physics"
+    ],
+    "journal_abbrev": [
+      "J Chem Phys"
+    ],
+    "pub_date": "2026 Oct 7",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/01 23:30",
+    "fetched_at": "2026-10-04 07:45:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42820442",
+      "34181904",
+      "26555750",
+      "24089733",
+      "38196191",
+      "36475672",
+      "25253689",
+      "25805498",
+      "18202664",
+      "29752405",
+      "41258800",
+      "31735665",
+      "22325007",
+      "30699360",
+      "31285604",
+      "28275610",
+      "42746985",
+      "23178168",
+      "24007343",
+      "28783150",
+      "31879896",
+      "28132444",
+      "19748354",
+      "20339000",
+      "22745126",
+      "39738711",
+      "10531065",
+      "25713084",
+      "23595989",
+      "26682813",
+      "17977001",
+      "24531492",
+      "30926805",
+      "29636472",
+      "31017848",
+      "9568719",
+      "23272056",
+      "30373906",
+      "27726198",
+      "31216466",
+      "10910766",
+      "31599052",
+      "12054807",
+      "35050852",
+      "39681249",
+      "25833946",
+      "23973074",
+      "15208691",
+      "28892477",
+      "19177562",
+      "21554542",
+      "30980604",
+      "34563541",
+      "16879409",
+      "40009545",
+      "25886649",
+      "42475469",
+      "27578779",
+      "38157339",
+      "22348341",
+      "23894477",
+      "27041592",
+      "35638578",
+      "27037673",
+      "27703410",
+      "17389232",
+      "24550114",
+      "10751153",
+      "27335666",
+      "19619244",
+      "32694211",
+      "36586979",
+      "18313382",
+      "25418105",
+      "26929214",
+      "26619280",
+      "12378543",
+      "39795072",
+      "32412594",
+      "19963362",
+      "18599077",
+      "19914167",
+      "17897320",
+      "27556733",
+      "33782614",
+      "37003718",
+      "36351914",
+      "31648844",
+      "12023214",
+      "27447295",
+      "32325699",
+      "11732186",
+      "18490357",
+      "30789974",
+      "31160557",
+      "37003743",
+      "10401578",
+      "17244533",
+      "17244532",
+      "28819163"
+    ],
+    "review": [
+      "42820442",
+      "26555750",
+      "28132444",
+      "30373906",
+      "10910766",
+      "31599052",
+      "16879409",
+      "35638578",
+      "27037673",
+      "27703410",
+      "27335666",
+      "19963362",
+      "17897320"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.aip.org/aip/jcp/article-lookup/doi/10.1063/5.0347970",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

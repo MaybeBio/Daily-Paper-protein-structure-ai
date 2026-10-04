@@ -1,0 +1,33 @@
+{
+  "source": "arxiv",
+  "source_id": "2609.33377v1",
+  "title": "Optimal Transport Dropout for Structured Predictive Uncertainty",
+  "doi": "",
+  "abstract": "Deterministic neural networks and neural operators provide point predictions with no intrinsic measure of reliability. Yet, predictive uncertainty may stem from irreducible outcome variability, finite data, or limitations of the chosen model class. Monte Carlo dropout offers a computationally convenient way to construct a predictive distribution through stochastic feature masking, without training multiple independent networks or explicitly inferring a posterior over model parameters. However, its perturbation law is largely prescribed a priori and typically factorised across latent coordinates. We introduce Optimal Transport Dropout (OTD), which instead learns the predictive mapping and the law of its latent perturbations jointly. Starting from a simple independent reference distribution, OTD transports latent perturbations through a learnable flow and propagates them through the predictive neural network, thereby inducing a structured predictive law. Training uses the strictly proper Energy Score, while a kinetic-action term geometrically regularises the transport. Synthetic benchmarks show that OTD captures multimodal predictive distributions, generates meaningful dispersion when the model is misspecified, and exhibits contracting dispersion as more training data or greater model capacity are provided. For a field-valued partial differential equation surrogate, predictive dispersion strongly aligns with the spatial pattern of prediction errors. On this task, compared with Monte Carlo dropout, OTD yields more accurate predictions and better-calibrated, substantially narrower intervals. On real-world regression benchmarks, it further shows competitive accuracy and better probabilistic predictions compared to established baselines. OTD therefore offers a way to learn structured predictive uncertainty without explicit posterior inference or ensembles of independently trained predictors.",
+  "authors": [
+    "Giacomo Lorenzon",
+    "Francesco Regazzoni"
+  ],
+  "published_date": "2026-09-27T09:00:29Z",
+  "updated_date": "2026-09-27T09:00:29Z",
+  "journal": "",
+  "category": "cs.LG, math.NA",
+  "landing_url": "https://arxiv.org/abs/2609.33377v1",
+  "pdf_url": "https://arxiv.org/pdf/2609.33377v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cs.LG",
+    "math.NA"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2609.33377v1",
+    "raw_categories": [
+      "cs.LG",
+      "math.NA"
+    ],
+    "journal_ref": ""
+  }
+}

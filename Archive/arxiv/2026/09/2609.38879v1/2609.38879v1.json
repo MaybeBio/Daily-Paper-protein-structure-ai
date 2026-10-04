@@ -1,0 +1,38 @@
+{
+  "source": "arxiv",
+  "source_id": "2609.38879v1",
+  "title": "Does Learning Protein Folding Generalize to Broader Reasoning?",
+  "doi": "",
+  "abstract": "Large language models rely heavily on human text, which often conveys surface answers rather than the spatial and structural logic behind them. Protein folding is a natural testbed, because one solved structure yields thousands of exactly checkable spatial and topological statements. We ask: can learning to fold proteins teach general models reusable reasoning capabilities? To answer this, we build FoldingCorpus, a protein-derived question-answer dataset, and Fold2Reason, a recipe that post-trains on it through two complementary signals: discrete structural answers predicted via the model's native language head, and continuous 3D geometry decoded from the same shared representations. On FoldBench, Fold2Reason achieves structure prediction scores 2.7 to 3.5 times those of Qwen3.5-9B. Beyond protein structure prediction, it improves performance on all 10 benchmarks spanning spatial, graph, scientific, and general reasoning, raising macro-average accuracy from 45.09% to 48.33% (+3.23 pp), with positive gains on all 10 benchmarks, while matched controls built from random, synthetic, and shuffled structure yield substantially smaller or negative gains. Our work shows that non-linguistic, structure-dense scientific data can systematically improve broad reasoning in language models, making a solved scientific problem a practical source of post-training supervision.",
+  "authors": [
+    "Yong Liu",
+    "Zhanpeng Shi",
+    "Yizhou Dang",
+    "Zhongyue Zhang",
+    "Xiaoliang Shi",
+    "Zhijian Wei",
+    "Shuangjia Zheng"
+  ],
+  "published_date": "2026-09-30T03:28:40Z",
+  "updated_date": "2026-09-30T03:28:40Z",
+  "journal": "",
+  "category": "cs.LG, cs.AI",
+  "landing_url": "https://arxiv.org/abs/2609.38879v1",
+  "pdf_url": "https://arxiv.org/pdf/2609.38879v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cs.LG",
+    "cs.AI"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2609.38879v1",
+    "raw_categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "journal_ref": ""
+  }
+}

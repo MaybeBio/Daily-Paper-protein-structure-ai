@@ -1,0 +1,567 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.24.754173",
+  "title": "RNASeek: A Cross-Phyla Generative Foundation Model for Multipurpose RNA Modeling and Reinforcement Learning-Based Design",
+  "doi": "10.64898/2026.09.24.754173",
+  "abstract": "RNA plays central roles in regulating information flow and provides a versatile substrate for engineering biological functions. While large language models (LLMs) have transformed natural language processing and protein design, a general framework connecting RNA foundation models to functional sequence design remains limited. Here, we present RNASeek, a 1.6-billion-parameter generative foundation model built on a DeepSeek architecture and trained on a cross-phyla transcriptomic corpus for RNA sequence representation and generation. Natural-language tokens enable flexible conditional prediction and sequence design using a unified backbone. RNASeek captures species-specific transcript features and intron–exon boundaries in a zero-shot setting. We then fine-tune RNASeek to predict ribozyme self-cleavage activity and viral mRNA stability, revealing interpretable sequence features associated with function, including ribozyme loop flexibility and stem stability, as well as AU-rich motifs associated with mRNA stability. We use these functional predictors as reward models and apply Group Relative Policy Optimization (GRPO) to update RNASeek’s generation policy toward sequences with desired properties. GRPO-guided generation produces faster-cleaving ribozymes and stability-enhancing 3′ UTRs while satisfying user-specified IUPAC constraints. Experimentally validated RNASeek-generated ribozymes achieve wild-type levels of activity, while RNASeek-generated 3′ UTR sequences exceed the performance of the training data and benchmarked AI-generated 3′ UTRs. Together, RNASeek establishes a unified pretrain–predict–optimize framework that connects learned RNA function to controllable de novo sequence design and provides a general strategy for engineering regulatory RNAs with desired properties.",
+  "authors": [
+    "Shiyuan Chen",
+    "Neil R. Fernandes",
+    "Wei Vivian Li",
+    "Lili Wang",
+    "Zhenyu Jia",
+    "Joy S. Xiang"
+  ],
+  "published_date": "2026-09-28",
+  "updated_date": "2026-09-28T08:40:19Z",
+  "journal": "bioRxiv",
+  "category": "Bioengineering",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.24.754173",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.24.754173.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [
+    "Bioengineering"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Bioengineering",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            30
+          ]
+        ],
+        "date-time": "2026-09-30T17:01:42Z",
+        "timestamp": 1790787702411,
+        "version": "4.1.0"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            28
+          ]
+        ]
+      },
+      "group-title": "Bioengineering",
+      "reference-count": 39,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                28
+              ]
+            ],
+            "date-time": "2026-09-28T00:00:00Z",
+            "timestamp": 1790553600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "name": "NSF",
+          "award": [
+            "MRI-2215705"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "MRI-2215705"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NSF",
+          "award": [
+            "MRI-1429826"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "MRI-1429826"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NIH",
+          "award": [
+            "1S10OD016290-01A1"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "1S10OD016290-01A1"
+              ]
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            28
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>RNA plays central roles in regulating information flow and provides a versatile substrate for engineering biological functions. While large language models (LLMs) have transformed natural language processing and protein design, a general framework connecting RNA foundation models to functional sequence design remains limited. Here, we present RNASeek, a 1.6-billion-parameter generative foundation model built on a DeepSeek architecture and trained on a cross-phyla transcriptomic corpus for RNA sequence representation and generation. Natural-language tokens enable flexible conditional prediction and sequence design using a unified backbone. RNASeek captures species-specific transcript features and intron–exon boundaries in a zero-shot setting. We then fine-tune RNASeek to predict ribozyme self-cleavage activity and viral mRNA stability, revealing interpretable sequence features associated with function, including ribozyme loop flexibility and stem stability, as well as AU-rich motifs associated with mRNA stability. We use these functional predictors as reward models and apply Group Relative Policy Optimization (GRPO) to update RNASeek’s generation policy toward sequences with desired properties. GRPO-guided generation produces faster-cleaving ribozymes and stability-enhancing 3′ UTRs while satisfying user-specified IUPAC constraints. Experimentally validated RNASeek-generated ribozymes achieve wild-type levels of activity, while RNASeek-generated 3′ UTR sequences exceed the performance of the training data and benchmarked AI-generated 3′ UTRs. Together, RNASeek establishes a unified pretrain–predict–optimize framework that connects learned RNA function to controllable de novo sequence design and provides a general strategy for engineering regulatory RNAs with desired properties.</jats:p>",
+      "DOI": "10.64898/2026.09.24.754173",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            28
+          ]
+        ],
+        "date-time": "2026-09-28T08:40:19Z",
+        "timestamp": 1790584819000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "RNASeek: A Cross-Phyla Generative Foundation Model for Multipurpose RNA Modeling and Reinforcement Learning-Based Design"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "given": "Shiyuan",
+          "family": "Chen",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Graduate program in Genetics, Genomics and Bioinformatics, University of California, Riverside, CA, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Neil R.",
+          "family": "Fernandes",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Division of Biomedical Sciences, School of Medicine, University of California, Riverside, CA, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Wei Vivian",
+          "family": "Li",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Statistics, University of California, Riverside, CA, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Lili",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Medical Sciences, Irving Medical Center, Columbia University, NY, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Zhenyu",
+          "family": "Jia",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Botany & Plant Sciences, University of California, Riverside, CA, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-6400-1876",
+          "authenticated-orcid": false,
+          "given": "Joy S.",
+          "family": "Xiang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Division of Biomedical Sciences, School of Medicine, University of California, Riverside, CA, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "reference": [
+        {
+          "key": "2026093009151206000_2026.09.24.754173v1.1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Wurmthaler, L. A. , Klauser, B. & Hartig, J. S. Highly Motif- and Organism-Dependent Effects of Naturally Occurring Hammerhead Ribozyme Sequences on Gene Expression. (2018).",
+          "DOI": "10.1080/15476286.2017.1397870"
+        },
+        {
+          "key": "2026093009151206000_2026.09.24.754173v1.2",
+          "doi-asserted-by": "crossref",
+          "first-page": "931",
+          "DOI": "10.1038/nmeth.3547",
+          "article-title": "Predicting effects of noncoding variants with deep learning–based sequence model",
+          "volume": "12",
+          "year": "2015",
+          "journal-title": "Nature Methods"
+        },
+        {
+          "key": "2026093009151206000_2026.09.24.754173v1.3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nbt.3300"
+        },
+        {
+          "key": "2026093009151206000_2026.09.24.754173v1.4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/J.CELL.2018.12.015"
+        },
+        {
+          "key": "2026093009151206000_2026.09.24.754173v1.5",
+          "doi-asserted-by": "crossref",
+          "first-page": "1196",
+          "DOI": "10.1038/s41592-021-01252-x",
+          "article-title": "Effective gene expression prediction from sequence by integrating long-range interactions",
+          "volume": "18",
+          "year": "2021",
+          "journal-title": "Nature Methods"
+        },
+        {
+          "key": "2026093009151206000_2026.09.24.754173v1.6",
+          "doi-asserted-by": "crossref",
+          "first-page": "5671",
+          "DOI": "10.1038/s41467-025-60872-5",
+          "article-title": "RiNALMo: general-purpose RNA language models can generalize well on structure prediction tasks",
+          "volume": "16",
+          "year": "2025",
+          "journal-title": "Nat Commun"
+        },
+        {
+          "key": "2026093009151206000_2026.09.24.754173v1.7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/bioinformatics/btab083"
+        },
+        {
+          "key": "2026093009151206000_2026.09.24.754173v1.8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.adr8470"
+        },
+        {
+          "key": "2026093009151206000_2026.09.24.754173v1.9",
+          "doi-asserted-by": "crossref",
+          "first-page": "5284",
+          "DOI": "10.1038/s41467-024-49508-2",
+          "article-title": "Optimizing 5’UTRs for mRNA-delivered gene editing using deep learning",
+          "volume": "15",
+          "year": "2024",
+          "journal-title": "Nature Communications"
+        },
+        {
+          "key": "2026093009151206000_2026.09.24.754173v1.10",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Pan, S. et al. UTR-Insight: integrating deep learning for efficient 5′ UTR discovery and design. BMC Genomics 26, 107 (2025).",
+          "DOI": "10.1186/s12864-025-11269-7"
+        },
+        {
+          "key": "2026093009151206000_2026.09.24.754173v1.11",
+          "doi-asserted-by": "crossref",
+          "first-page": "gkaf861",
+          "DOI": "10.1093/nar/gkaf861",
+          "article-title": "Machine learning-based analysis of the impact of 5′ untranslated region on protein expression",
+          "volume": "53",
+          "year": "2025",
+          "journal-title": "Nucleic Acids Res"
+        },
+        {
+          "key": "2026093009151206000_2026.09.24.754173v1.12",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Chen, J. , et al. Interpretable RNA Foundation Model from Unannotated Data for Highly Accurate RNA Structure and Function Predictions. (2022).",
+          "DOI": "10.1101/2022.08.06.503062"
+        },
+        {
+          "key": "2026093009151206000_2026.09.24.754173v1.13",
+          "doi-asserted-by": "crossref",
+          "first-page": "548",
+          "DOI": "10.1038/s42256-024-00836-4",
+          "article-title": "Multi-purpose RNA language modelling with motif-aware pretraining and type-guided fine-tuning",
+          "volume": "6",
+          "year": "2024",
+          "journal-title": "Nature Machine Intelligence"
+        },
+        {
+          "key": "2026093009151206000_2026.09.24.754173v1.14",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Chen, K. et al. Self-supervised learning on millions of primary RNA sequences from 72 vertebrates improves sequence-based RNA splicing prediction. Brief Bioinform 25, (2024).",
+          "DOI": "10.1093/bib/bbae163"
+        },
+        {
+          "key": "2026093009151206000_2026.09.24.754173v1.15",
+          "first-page": "287",
+          "article-title": "Nucleotide Transformer: building and evaluating robust foundation models for human genomics",
+          "volume": "22",
+          "year": "2024",
+          "journal-title": "Nature Methods"
+        },
+        {
+          "key": "2026093009151206000_2026.09.24.754173v1.16",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Nguyen, E. , et al. HyenaDNA: Long-Range Genomic Sequence Modeling at Single Nucleotide Resolution. ArXiv (2023).",
+          "DOI": "10.52202/075280-1872"
+        },
+        {
+          "key": "2026093009151206000_2026.09.24.754173v1.17",
+          "unstructured": "Lambert, N. Reinforcement Learning from Human Feedback. https://arxiv.org/html/2504.12501v3."
+        },
+        {
+          "key": "2026093009151206000_2026.09.24.754173v1.18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pcbi.1006176"
+        },
+        {
+          "key": "2026093009151206000_2026.09.24.754173v1.19",
+          "doi-asserted-by": "crossref",
+          "first-page": "24",
+          "DOI": "10.1186/s44342-025-00058-z",
+          "article-title": "A curation system of rice trait ontology with reliable interoperation by LLM and PubAnnotation",
+          "volume": "23",
+          "year": "2025",
+          "journal-title": "Genomics Inform"
+        },
+        {
+          "key": "2026093009151206000_2026.09.24.754173v1.20",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Lambert, C. N. et al. Exploring the space of self-reproducing ribozymes using generative models. Nature communications 16, (2025).",
+          "DOI": "10.1038/s41467-025-63151-5"
+        },
+        {
+          "key": "2026093009151206000_2026.09.24.754173v1.21",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Rotrattanadumrong, R. & Yokobayashi, Y . Experimental exploration of a ribozyme neutral network using evolutionary algorithm and deep learning. Nature communications 13, (2022).",
+          "DOI": "10.1038/s41467-022-32538-z"
+        },
+        {
+          "key": "2026093009151206000_2026.09.24.754173v1.22",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Seo, J. J. , Jung, S. J. , Yang, J. , Choi, D. E. & Kim, V. N . Functional viromic screens uncover regulatory RNA elements. Cell 186, (2023).",
+          "DOI": "10.1016/j.cell.2023.06.007"
+        },
+        {
+          "key": "2026093009151206000_2026.09.24.754173v1.23",
+          "doi-asserted-by": "crossref",
+          "first-page": "4327",
+          "DOI": "10.1038/s41467-019-12334-y",
+          "article-title": "Massively parallel RNA device engineering in mammalian cells with RNA-Seq",
+          "volume": "10",
+          "year": "2019",
+          "journal-title": "Nature Communications"
+        },
+        {
+          "key": "2026093009151206000_2026.09.24.754173v1.24",
+          "doi-asserted-by": "crossref",
+          "first-page": "989",
+          "DOI": "10.1038/nmeth.3486",
+          "article-title": "High-throughput cellular RNA device engineering",
+          "volume": "12",
+          "year": "2015",
+          "journal-title": "Nature Methods"
+        },
+        {
+          "key": "2026093009151206000_2026.09.24.754173v1.25",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Strobel, B. et al. High-throughput identification of synthetic riboswitches by barcode-free amplicon-sequencing in human cells. Nature communications 11, (2020).",
+          "DOI": "10.1038/s41467-020-14491-x"
+        },
+        {
+          "key": "2026093009151206000_2026.09.24.754173v1.26",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Townshend, B. , Xiang, J. S. , Manzanarez, G. , Hayden, E. J. & Smolke, C. D . A multiplexed, automated evolution pipeline enables scalable discovery and characterization of biosensors. Nature communications 12, (2021).",
+          "DOI": "10.1038/s41467-021-21716-0"
+        },
+        {
+          "key": "2026093009151206000_2026.09.24.754173v1.27",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/emboj/cdg530"
+        },
+        {
+          "key": "2026093009151206000_2026.09.24.754173v1.28",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Schmidt, C. M. & Smolke, C. D . A convolutional neural network for the prediction and forward design of ribozyme-based gene-control elements. eLife 10, (2021).",
+          "DOI": "10.7554/eLife.59697"
+        },
+        {
+          "key": "2026093009151206000_2026.09.24.754173v1.29",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Martick, M. & Scott, W. G . Tertiary Contacts Distant from the Active Site Prime a Ribozyme for Catalysis. Cell 126, 309 (2006).",
+          "DOI": "10.1016/j.cell.2006.06.036"
+        },
+        {
+          "key": "2026093009151206000_2026.09.24.754173v1.30",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/gkae1071"
+        },
+        {
+          "key": "2026093009151206000_2026.09.24.754173v1.31",
+          "unstructured": "riboviria.org. https://riboviria.org."
+        },
+        {
+          "key": "2026093009151206000_2026.09.24.754173v1.32",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Lorenz, R. et al. ViennaRNA Package 2.0. Algorithms for molecular biology : AMB 6, (2011).",
+          "DOI": "10.1186/1748-7188-6-26"
+        },
+        {
+          "key": "2026093009151206000_2026.09.24.754173v1.33",
+          "unstructured": "Qwen et al. Qwen2.5 Technical Report. (2024)."
+        },
+        {
+          "key": "2026093009151206000_2026.09.24.754173v1.34",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Devlin, J. , Chang, M.-W. , Lee, K. & Toutanova, K . BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. (2018).",
+          "DOI": "10.18653/v1/N19-1423"
+        },
+        {
+          "key": "2026093009151206000_2026.09.24.754173v1.35",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Bailey, T. L . STREME: accurate and versatile sequence motif discovery. Bioinformatics (Oxford , England ) 37, (2021).",
+          "DOI": "10.1101/2020.11.23.394619"
+        },
+        {
+          "key": "2026093009151206000_2026.09.24.754173v1.36",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.aaq0180"
+        },
+        {
+          "key": "2026093009151206000_2026.09.24.754173v1.37",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1101/2025.05.26.656146"
+        },
+        {
+          "key": "2026093009151206000_2026.09.24.754173v1.38",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Dao, T. , Fu, D. Y. , Ermon, S. , Rudra, A. & Ré, C. FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness. (2022).",
+          "DOI": "10.52202/068431-1189"
+        },
+        {
+          "key": "2026093009151206000_2026.09.24.754173v1.39",
+          "doi-asserted-by": "crossref",
+          "first-page": "1187",
+          "DOI": "10.1016/j.csbj.2025.03.021",
+          "article-title": "Transformers in RNA structure prediction: A review",
+          "volume": "27",
+          "year": "2025",
+          "journal-title": "Comput Struct Biotechnol J"
+        }
+      ],
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.09.24.754173",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            30
+          ]
+        ],
+        "date-time": "2026-09-30T16:15:27Z",
+        "timestamp": 1790784927000
+      },
+      "score": 52.216354,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.09.24.754173"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            28
+          ]
+        ]
+      },
+      "references-count": 39,
+      "URL": "https://doi.org/10.64898/2026.09.24.754173",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            28
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

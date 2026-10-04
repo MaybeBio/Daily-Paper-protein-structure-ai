@@ -1,0 +1,42 @@
+{
+  "source": "arxiv",
+  "source_id": "2609.39773v1",
+  "title": "Riemannian Flow Models with Reinforcement Learning for Molecular Crystal Structure Prediction",
+  "doi": "",
+  "abstract": "Crystal structure governs material properties, making crystal structure prediction (CSP) a fundamental problem in materials science. Generative models are a promising approach for solving this problem, but the prevalence of polymorphism, coupled with large unit cells and complex packing geometry, makes the molecular CSP task challenging for existing models. To address this, we introduce Coarse-Grained Open Materials Generation (CG-OMatG), an equivariant Riemannian flow-based generative model. CG-OMatG predicts molecular crystal structures \\textit{via} a coarse-grained, hierarchical representation. CG-OMatG treats molecules as rigid bodies---performing both inter- and intra-molecular message passing to construct a geometric representation for molecular packings---and learns to reconstruct molecule centroid positions, orientations, and lattice parameters, conditioned on chemical species and conformer geometry. We train the model on subsets of the Open Molecular Crystals (OMC25) and Cambridge Structural Database (CSD) datasets. Further, we fine-tune the model \\textit{via} policy gradient reinforcement learning to steer the model towards generating low-energy candidate structures. We validate the generated structures on the CSP blind test benchmark, assessing agreement with experimentally determined crystals using COMPACK packing-similarity analysis. CG-OMatG exhibits strong performance for generative molecular crystal structure prediction, paving the way for accelerated polymorph screening and organic solid-state materials discovery.",
+  "authors": [
+    "Thomas Egg",
+    "Harry Winston Sullivan",
+    "Maya M. Martirossyan",
+    "Philipp Höllmer",
+    "Cheng Zeng",
+    "Adrian Roitberg",
+    "Mingjie Liu",
+    "Richard Hennig",
+    "Sapna Sarupria",
+    "Ellad B. Tadmor",
+    "Stefano Martiniani"
+  ],
+  "published_date": "2026-09-30T14:00:39Z",
+  "updated_date": "2026-09-30T14:00:39Z",
+  "journal": "",
+  "category": "cs.LG, physics.comp-ph",
+  "landing_url": "https://arxiv.org/abs/2609.39773v1",
+  "pdf_url": "https://arxiv.org/pdf/2609.39773v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cs.LG",
+    "physics.comp-ph"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2609.39773v1",
+    "raw_categories": [
+      "cs.LG",
+      "physics.comp-ph"
+    ],
+    "journal_ref": ""
+  }
+}

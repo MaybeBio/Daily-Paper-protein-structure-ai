@@ -1,0 +1,242 @@
+{
+  "identity": {
+    "pmid": "42818501",
+    "doi": "10.21203/rs.3.rs-10986412/v1",
+    "title": "dictyBase 2026: a reimplementation of the Dictyostelium model organism database on minimal infrastructure."
+  },
+  "content": {
+    "abstract": "Dictyostelium discoideum is a model organism used to investigate a wide array of biological processes including chemotaxis, cell motility, phagocytosis, multicellular development, and autophagy. Many of its genes have human orthologs implicated in disease, making it a useful model organism for studying conditions ranging from cancer to neurodegeneration. dictyBase has served this community for two decades as a home for genomic data, protocols, a stock center, and community news. Here we describe a complete reimplementation of dictyBase as a self-contained service that uses static data files rather than a database server. Each gene record gathers curated function, human-disease context, developmental expression, and protein structure in a single webpage. The site also provides tools for sequence search, genome browsing, enrichment analysis, and experimental design. The complete Dicty Stock Center (DSC) catalog of 7,055 strains and 1,265 plasmids is included, and both can be ordered from the site. New literature is curated by an author-in-the-loop pipeline. A language model drafts the annotations, the authors of the paper correct them, and a curator approves them. Analyses can be run on curator-approved annotations alone or extended to include those still awaiting review. dictyBase is freely available at https://dicty.org.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Mendieta, Maddox",
+        "Dodson, Robert J",
+        "Basu, Siddhartha",
+        "Chisholm, Rex L",
+        "Scaglione, K"
+      ],
+      "short_names": [
+        "Mendieta M",
+        "Dodson RJ",
+        "Basu S",
+        "Chisholm RL",
+        "Scaglione K"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-3858-9418"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Mendieta, Maddox",
+        "short_name": "Mendieta M",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Dodson, Robert J",
+        "short_name": "Dodson RJ",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Basu, Siddhartha",
+        "short_name": "Basu S",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Chisholm, Rex L",
+        "short_name": "Chisholm RL",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Scaglione, K",
+        "short_name": "Scaglione K",
+        "identifiers": [
+          "0000-0002-3858-9418"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Research square"
+    ],
+    "journal_abbrev": [
+      "Res Sq"
+    ],
+    "pub_date": "2026 Sep 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/01 11:37",
+    "fetched_at": "2026-10-04 07:45:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42818501",
+      "23494302",
+      "26088819",
+      "31840793",
+      "21087999",
+      "16957284",
+      "21356735",
+      "18974179",
+      "16381903",
+      "36321557",
+      "14681427",
+      "18366659",
+      "23172289",
+      "34776869",
+      "20157489",
+      "42475469",
+      "23200106",
+      "41755740",
+      "15478601",
+      "30717401",
+      "26724853",
+      "39062545",
+      "11911458",
+      "23160413",
+      "28578698",
+      "33646931",
+      "17991680",
+      "31840772",
+      "23494300",
+      "33001599",
+      "33124755",
+      "29761463",
+      "23912807",
+      "19387798",
+      "33314144",
+      "30694504",
+      "11752261",
+      "17135206",
+      "15681572",
+      "37347557",
+      "33807046",
+      "29378288",
+      "27287925",
+      "11206323",
+      "26150326",
+      "33119236",
+      "27173523",
+      "21356751",
+      "34429112",
+      "21356745",
+      "40168691",
+      "20869524",
+      "2672337",
+      "39037262",
+      "21909927",
+      "32352381",
+      "33572113",
+      "10642783",
+      "23923624",
+      "42619814",
+      "21447097",
+      "9171087",
+      "10403058",
+      "22587966",
+      "16381920",
+      "38052102",
+      "41860230",
+      "23516620",
+      "32687285",
+      "30726003",
+      "27899582",
+      "12519987",
+      "22489754",
+      "7565716",
+      "34831258",
+      "33036834",
+      "12368253",
+      "17090585",
+      "35380658",
+      "32276653",
+      "26861020",
+      "21145982",
+      "12727861",
+      "11483584",
+      "20952411",
+      "25940563",
+      "34490273",
+      "18827980",
+      "23125366",
+      "30407545",
+      "29718337",
+      "22064862",
+      "36862626",
+      "11061438",
+      "30321395",
+      "22859749",
+      "28819044",
+      "23150412",
+      "34235653",
+      "21051359"
+    ],
+    "review": [
+      "42818501",
+      "31840793",
+      "16957284",
+      "36321557",
+      "34776869",
+      "23200106",
+      "30717401",
+      "39062545",
+      "11911458",
+      "31840772",
+      "33001599",
+      "33124755",
+      "19387798",
+      "37347557",
+      "11206323",
+      "26150326",
+      "33119236",
+      "40168691",
+      "2672337",
+      "10642783",
+      "23923624",
+      "21447097",
+      "10403058",
+      "38052102",
+      "32687285",
+      "34831258",
+      "21145982",
+      "12727861",
+      "18827980",
+      "11061438"
+    ],
+    "pmc": [
+      "13622841"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.21203/rs.3.rs-10986412/v1",
+        "provider": "Research Square",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

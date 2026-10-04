@@ -1,0 +1,41 @@
+{
+  "source": "arxiv",
+  "source_id": "2609.33726v1",
+  "title": "Robust Biomolecular Complex Design Across Protein Conformational Landscapes",
+  "doi": "",
+  "abstract": "Proteins populate conformational ensembles, yet structure-based biomolecular design typically optimizes candidates against a single target conformation. Consequently, a candidate that fits one state can lose favorable interactions or develop steric clashes when the target adopts another. We introduce FlexEvo, a model-agnostic evolutionary framework that adapts candidates once at inference time from a single target conformation to improve compatibility with alternative natural conformations unseen during adaptation, without retraining the source model or requiring a conformational ensemble. FlexEvo casts cross-state adaptation as geometry-constrained bi-objective optimization, balancing preservation of input-state interactions against robustness to plausible conformational perturbations. To limit the search space and reduce invalid structural edits, geometry-derived FlexBoxes define protected anchor regions, adaptable regions for local exploration, and forbidden regions for clash avoidance. A unified all-atom representation supports topology-preserving adaptation across diverse binder categories, while Pareto selection preserves nondominated candidates across the two objectives. We evaluate FlexEvo across multiple generation baselines and nine representative binder categories spanning diverse molecular sizes and structural topologies. FlexEvo reduces the category-balanced mean relative performance degradation from 47.8% to 4.4%, while adding only 1.4--3.1 minutes of adaptation per sample. These results establish single-state inference-time adaptation as a practical route toward robust biomolecular complex design across protein conformational landscapes.",
+  "authors": [
+    "Qingyuan Zeng",
+    "Zongqi Xu",
+    "Anglin Liu",
+    "Ziqi Gong",
+    "Pengxiang Cai",
+    "Zixin Guan",
+    "Yunan Chen",
+    "Sen Gao",
+    "Min Zhou",
+    "Jintai Chen"
+  ],
+  "published_date": "2026-09-27T16:28:14Z",
+  "updated_date": "2026-09-27T16:28:14Z",
+  "journal": "",
+  "category": "cs.AI, q-bio.QM",
+  "landing_url": "https://arxiv.org/abs/2609.33726v1",
+  "pdf_url": "https://arxiv.org/pdf/2609.33726v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cs.AI",
+    "q-bio.QM"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2609.33726v1",
+    "raw_categories": [
+      "cs.AI",
+      "q-bio.QM"
+    ],
+    "journal_ref": ""
+  }
+}

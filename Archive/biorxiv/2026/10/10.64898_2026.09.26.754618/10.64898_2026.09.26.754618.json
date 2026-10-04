@@ -1,0 +1,140 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.26.754618",
+  "title": "Ultrafast and Accurate Selection of High-Quality Protein Complex Models from Large-Scale Prediction",
+  "doi": "10.64898/2026.09.26.754618",
+  "abstract": "In the post-AlphaFold era, advances in protein complex structure prediction have enabled the generation of thousands of candidate models per target, making the accurate and efficient selection of high-quality models from large candidate pools a critical challenge. Existing model-selection approaches commonly employ estimated model accuracy (EMA) methods, which include single-model and consensus-based methods. The former lack cross-model comparative information, whereas the latter often incur high computational costs from pairwise structural alignments and are influenced by candidate-pool quality. Here, we present DeepUMQA-Selection, a two-stage framework combining single-model accuracy estimators for preliminary selection with Ultrafast Shape Recognition (USR)-based structural alignment for consensus selection. Preliminary selection enriches the candidate pool with high-quality models and reduces subsequent structural comparisons, while USR-based structural alignment enables efficient consensus selection without explicit structural superposition. On the retrospective CASP16 QMODE3 benchmark dataset, DeepUMQA-Selection outperformed all participating methods and predictor-derived confidence metrics, as measured by mean Top-5 weighted penalty. The advantage was particularly pronounced for heteromeric targets, with a 13.9% improvement in model-selection performance relative to the best-performing CASP16 participating method. Furthermore, a confidence-assisted strategy enabled the framework to accommodate larger protein complexes while maintaining superior model-selection performance over competing methods, supporting its scalability. Runtime benchmarking showed that the proposed USR-based structural alignment achieved a substantial 317-fold speedup over US-align for candidate pools containing 1,000 models, demonstrating its computational efficiency for large-scale model selection. Our results demonstrate that DeepUMQA-Selection enables accurate and computationally efficient selection of high-quality protein complex models from large-scale candidate pools.",
+  "authors": [
+    "Liang F",
+    "Xie L",
+    "Ye E",
+    "Pan Z",
+    "Xu T",
+    "Wang H",
+    "Wei P",
+    "Liu J",
+    "Zhang G"
+  ],
+  "published_date": "2026-10-01",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.26.754618",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.26.754618.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1333133",
+    "raw_record": {
+      "id": "PPR1333133",
+      "source": "PPR",
+      "doi": "10.64898/2026.09.26.754618",
+      "title": "Ultrafast and Accurate Selection of High-Quality Protein Complex Models from Large-Scale Prediction",
+      "authorString": "Liang F, Xie L, Ye E, Pan Z, Xu T, Wang H, Wei P, Liu J, Zhang G.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Liang F",
+            "lastName": "Liang",
+            "firstName": "Fang",
+            "initials": "F"
+          },
+          {
+            "fullName": "Xie L",
+            "lastName": "Xie",
+            "firstName": "Lei",
+            "initials": "L"
+          },
+          {
+            "fullName": "Ye E",
+            "lastName": "Ye",
+            "firstName": "Enjia",
+            "initials": "E"
+          },
+          {
+            "fullName": "Pan Z",
+            "lastName": "Pan",
+            "firstName": "Zhengri",
+            "initials": "Z"
+          },
+          {
+            "fullName": "Xu T",
+            "lastName": "Xu",
+            "firstName": "TianTian",
+            "initials": "T"
+          },
+          {
+            "fullName": "Wang H",
+            "lastName": "Wang",
+            "firstName": "Haodong",
+            "initials": "H"
+          },
+          {
+            "fullName": "Wei P",
+            "lastName": "Wei",
+            "firstName": "Pengcheng",
+            "initials": "P"
+          },
+          {
+            "fullName": "Liu J",
+            "lastName": "Liu",
+            "firstName": "Jun",
+            "initials": "J"
+          },
+          {
+            "fullName": "Zhang G",
+            "lastName": "Zhang",
+            "firstName": "Guijun",
+            "initials": "G"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "In the post-AlphaFold era, advances in protein complex structure prediction have enabled the generation of thousands of candidate models per target, making the accurate and efficient selection of high-quality models from large candidate pools a critical challenge. Existing model-selection approaches commonly employ estimated model accuracy (EMA) methods, which include single-model and consensus-based methods. The former lack cross-model comparative information, whereas the latter often incur high computational costs from pairwise structural alignments and are influenced by candidate-pool quality. Here, we present DeepUMQA-Selection, a two-stage framework combining single-model accuracy estimators for preliminary selection with Ultrafast Shape Recognition (USR)-based structural alignment for consensus selection. Preliminary selection enriches the candidate pool with high-quality models and reduces subsequent structural comparisons, while USR-based structural alignment enables efficient consensus selection without explicit structural superposition. On the retrospective CASP16 QMODE3 benchmark dataset, DeepUMQA-Selection outperformed all participating methods and predictor-derived confidence metrics, as measured by mean Top-5 weighted penalty. The advantage was particularly pronounced for heteromeric targets, with a 13.9% improvement in model-selection performance relative to the best-performing CASP16 participating method. Furthermore, a confidence-assisted strategy enabled the framework to accommodate larger protein complexes while maintaining superior model-selection performance over competing methods, supporting its scalability. Runtime benchmarking showed that the proposed USR-based structural alignment achieved a substantial 317-fold speedup over US-align for candidate pools containing 1,000 models, demonstrating its computational efficiency for large-scale model selection. Our results demonstrate that DeepUMQA-Selection enables accurate and computationally efficient selection of high-quality protein complex models from large-scale candidate pools.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.09.26.754618"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-10-03",
+      "firstPublicationDate": "2026-10-01",
+      "firstIndexDate": "2026-10-03",
+      "hasEvaluations": "N"
+    }
+  }
+}

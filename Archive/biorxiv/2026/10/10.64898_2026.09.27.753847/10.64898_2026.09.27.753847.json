@@ -1,0 +1,214 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.27.753847",
+  "title": "Downstream mRNA Secondary Structure, Not Codon Elongation Supply, Coordinates Co-Translational Protein Folding Across the Human Ribosomal Exit Tunnel",
+  "doi": "10.64898/2026.09.27.753847",
+  "abstract": "How ribosomes pace translation to assist nascent protein folding remains an open question in molecular biology. While synonymous codon selection is widely hypothesized to regulate elongation rates to facilitate domain organization, distinguishing genuine translational kinetics from baseline amino acid preferences has proven technically difficult. Here, we analyze a non-redundant cohort of 1,270 high-resolution human crystal structures (410,151 residues) mapped to their native mRNA transcripts. When we mathematically isolate synonymous codon choices from amino acid identity using orthogonal linear projection, standard codon-supply metrics i.e. the tRNA Adaptation Index (tAI) and the Codon Adaptation Index (CAI), show negligible independent spatial coupling with downstream protein structure. Their uncorrected correlations predominantly reflect local amino acid chemistry rather than physical translation pacing. In contrast, downstream mRNA secondary structure stability (minimum free energy, MFE) displays a subtle but consistent correlation that survives amino acid control. Across 100,000 whole-proteome permutations per pair, this MFE signal centers at an offset of +15 to +16 codons across multiple independent physical properties, including residue packing density (r = -0.0699, Z = -23.64, p < 10-5), crystallographic rigidity (B-factor, r = +0.0614, Z = +13.74, p < 10-5), and solvent burial (SASA, r = +0.0492, Z = +18.98, p < 10-5). This +15 codon offset corresponds directly to the physical dimensions of the eukaryotic 80S ribosome: the path from the peptidyl transferase center to the internal uL4/uL22 constriction neck (~10 amino acids) plus the downstream mRNA helicase entry channel (~5 codons). While the overall effect size is modest, accounting for approximately 0.49% of local packing variance, its spatial specificity and consistency across independent structural metrics suggest that downstream mRNA stability acts as a localized mechanical brake during early chain compaction.",
+  "authors": [
+    "Muhammad Saad Ul Hassan",
+    "Ishrat Jabeen",
+    "Yusra Sajid Kiani"
+  ],
+  "published_date": "2026-10-02",
+  "updated_date": "2026-10-02T17:10:18Z",
+  "journal": "bioRxiv",
+  "category": "Bioinformatics",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.27.753847",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.27.753847.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [
+    "Bioinformatics"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Bioinformatics",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            2
+          ]
+        ],
+        "date-time": "2026-10-02T17:54:22Z",
+        "timestamp": 1790963662107,
+        "version": "4.1.0"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            2
+          ]
+        ]
+      },
+      "group-title": "Bioinformatics",
+      "reference-count": 0,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                2
+              ]
+            ],
+            "date-time": "2026-10-02T00:00:00Z",
+            "timestamp": 1790899200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            2
+          ]
+        ]
+      },
+      "abstract": "<jats:p>How ribosomes pace translation to assist nascent protein folding remains an open question in molecular biology. While synonymous codon selection is widely hypothesized to regulate elongation rates to facilitate domain organization, distinguishing genuine translational kinetics from baseline amino acid preferences has proven technically difficult. Here, we analyze a non-redundant cohort of 1,270 high-resolution human crystal structures (410,151 residues) mapped to their native mRNA transcripts. When we mathematically isolate synonymous codon choices from amino acid identity using orthogonal linear projection, standard codon-supply metrics i.e. the tRNA Adaptation Index (tAI) and the Codon Adaptation Index (CAI), show negligible independent spatial coupling with downstream protein structure. Their uncorrected correlations predominantly reflect local amino acid chemistry rather than physical translation pacing. In contrast, downstream mRNA secondary structure stability (minimum free energy, MFE) displays a subtle but consistent correlation that survives amino acid control. Across 100,000 whole-proteome permutations per pair, this MFE signal centers at an offset of +15 to +16 codons across multiple independent physical properties, including residue packing density (r = -0.0699, Z = -23.64, p &lt; 10-5), crystallographic rigidity (B-factor, r = +0.0614, Z = +13.74, p &lt; 10-5), and solvent burial (SASA, r = +0.0492, Z = +18.98, p &lt; 10-5). This +15 codon offset corresponds directly to the physical dimensions of the eukaryotic 80S ribosome: the path from the peptidyl transferase center to the internal uL4/uL22 constriction neck (~10 amino acids) plus the downstream mRNA helicase entry channel (~5 codons). While the overall effect size is modest, accounting for approximately 0.49% of local packing variance, its spatial specificity and consistency across independent structural metrics suggest that downstream mRNA stability acts as a localized mechanical brake during early chain compaction.</jats:p>",
+      "DOI": "10.64898/2026.09.27.753847",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            2
+          ]
+        ],
+        "date-time": "2026-10-02T17:10:18Z",
+        "timestamp": 1790961018000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Downstream mRNA Secondary Structure, Not Codon Elongation Supply, Coordinates Co-Translational Protein Folding Across the Human Ribosomal Exit Tunnel"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0009-1655-4132",
+          "authenticated-orcid": false,
+          "given": "Muhammad",
+          "family": "Saad Ul Hassan",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "National University of Sciences and Technology;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ishrat",
+          "family": "Jabeen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Interdisciplinary Engineering & Sciences (SINES), National University of Sciences & Technology (NUST), Sector H-12, Islamabad, Pakistan"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1462-2006",
+          "authenticated-orcid": false,
+          "given": "Yusra Sajid",
+          "family": "Kiani",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Interdisciplinary Engineering & Sciences (SINES), National University of Sciences & Technology (NUST), Sector H-12, Islamabad, Pakistan"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.09.27.753847",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            2
+          ]
+        ],
+        "date-time": "2026-10-02T17:10:18Z",
+        "timestamp": 1790961018000
+      },
+      "score": 56.300842,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.09.27.753847"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            2
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.64898/2026.09.27.753847",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            2
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

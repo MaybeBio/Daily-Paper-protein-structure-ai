@@ -1,0 +1,37 @@
+{
+  "source": "arxiv",
+  "source_id": "2609.33129v1",
+  "title": "Flow-Matching-Based Protein Structure Tokenizer Made Efficient and Easy",
+  "doi": "",
+  "abstract": "As the bridge between protein modality and discrete modeling, protein structure tokenization still largely relies on heavily engineered training objectives tailored to specific downstream tasks and large training datasets, which hinders its transfer to broader application scenarios. To address this issue, we propose ProFiT, a lightweight flow matching tokenizer. With simple training strategies that encourage healthy codebook utilization, ProFiT can be trained efficiently and naturally learns semantically meaningful representations without any manual semantic alignment, while achieving reconstruction quality and generalization that match or surpass those of substantially larger tokenizers. We conduct extensive evaluations across a wide range of settings and demonstrate that ProFiT is a plug-and-play tokenizer adaptable to diverse downstream tasks. This study further reveals the significant potential of the flow matching tokenizer paradigm. Our code is publicly available at https://github.com/QDKStorm/ProFiT.",
+  "authors": [
+    "Zhe Zhang",
+    "Yikai Zhang",
+    "Jiangtao Feng",
+    "Ya-Qin Zhang",
+    "Wei-Ying Ma",
+    "Hao Zhou"
+  ],
+  "published_date": "2026-09-27T02:56:09Z",
+  "updated_date": "2026-09-27T02:56:09Z",
+  "journal": "",
+  "category": "cs.LG, cs.AI",
+  "landing_url": "https://arxiv.org/abs/2609.33129v1",
+  "pdf_url": "https://arxiv.org/pdf/2609.33129v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cs.LG",
+    "cs.AI"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2609.33129v1",
+    "raw_categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "journal_ref": ""
+  }
+}

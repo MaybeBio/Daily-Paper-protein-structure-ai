@@ -1,0 +1,332 @@
+{
+  "identity": {
+    "pmid": "42826183",
+    "doi": "10.1126/sciadv.aef8456",
+    "title": "Structural and kinetic mechanisms of state-dependent potassium channel inhibition."
+  },
+  "content": {
+    "abstract": "The KCNQ1 (Kv7.1) potassium ion (K(+)) channel plays a critical role in cardiac repolarization, while loss- or gain-of-function mutations increase the risk of life-threatening arrythmias and sudden death. Like many channels, KCNQ1 exhibits state-dependent pharmacological properties with inhibitors such as UCL2077 displaying higher potency for intermediate over activated states. Here, we report cryo-EM structures and MD simulations of KCNQ1 in complex with UCL2077 in two activation states. UCL2077 breaks tetrameric symmetry and binds in diagonally opposed protomers in pockets formed by the S5-S6 helices from one protomer and the S6 of an adjacent protomer. UCL2077 binding drives distortion of the S6 helix and causes an allosteric collapse of the pore. Specificity arises via structural configurations in the pore that occur with greater frequency in the intermediate state and are stabilized upon drug binding.",
+    "keywords": [],
+    "mesh_terms": [
+      "*KCNQ1 Potassium Channel/chemistry/antagonists & inhibitors/metabolism/genetics",
+      "Kinetics",
+      "*Potassium Channel Blockers/chemistry/pharmacology",
+      "Molecular Dynamics Simulation",
+      "Humans",
+      "Cryoelectron Microscopy",
+      "Protein Binding",
+      "Protein Conformation",
+      "Binding Sites",
+      "Ion Channel Gating"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kyriakis, Efthimios",
+        "Roscioni, Agnese",
+        "Eldstrom, Jodene",
+        "Sastre, Daniel",
+        "Dou, Ying",
+        "Taddei, Alice",
+        "Molinarolo, Steven",
+        "Tian, Michael",
+        "Maragliano, Luca",
+        "Van Petegem, Filip",
+        "Fedida, David"
+      ],
+      "short_names": [
+        "Kyriakis E",
+        "Roscioni A",
+        "Eldstrom J",
+        "Sastre D",
+        "Dou Y",
+        "Taddei A",
+        "Molinarolo S",
+        "Tian M",
+        "Maragliano L",
+        "Van Petegem F",
+        "Fedida D"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-9183-8970",
+        "ORCID: 0009-0005-2681-8243",
+        "ORCID: 0000-0002-7684-175X",
+        "ORCID: 0000-0001-9471-9398",
+        "ORCID: 0009-0004-3992-1736",
+        "ORCID: 0000-0002-6077-1291",
+        "ORCID: 0009-0009-7688-2170",
+        "ORCID: 0000-0002-5705-6967",
+        "ORCID: 0000-0003-2728-8537",
+        "ORCID: 0000-0001-6797-5185"
+      ],
+      "affiliations": [
+        "The Department of Anesthesiology, Pharmacology and Therapeutics, University of British Columbia, Vancouver V6T 1Z3, Canada.",
+        "Department of Life and Environmental Sciences, Polytechnic University of Marche, Via Brecce Bianche, Ancona 60131, Italy.",
+        "Center for Synaptic Neuroscience and Technology, Istituto Italiano di Tecnologia, Largo Rosanna Benzi 10, Genova 16132, Italy.",
+        "The Department of Anesthesiology, Pharmacology and Therapeutics, University of British Columbia, Vancouver V6T 1Z3, Canada.",
+        "The Department of Anesthesiology, Pharmacology and Therapeutics, University of British Columbia, Vancouver V6T 1Z3, Canada.",
+        "The Department of Anesthesiology, Pharmacology and Therapeutics, University of British Columbia, Vancouver V6T 1Z3, Canada.",
+        "Department of Life and Environmental Sciences, Polytechnic University of Marche, Via Brecce Bianche, Ancona 60131, Italy.",
+        "The Department of Biochemistry and Molecular Biology, University of British Columbia, Vancouver V6T 1Z3, Canada.",
+        "The Department of Anesthesiology, Pharmacology and Therapeutics, University of British Columbia, Vancouver V6T 1Z3, Canada.",
+        "Department of Life and Environmental Sciences, Polytechnic University of Marche, Via Brecce Bianche, Ancona 60131, Italy.",
+        "Center for Synaptic Neuroscience and Technology, Istituto Italiano di Tecnologia, Largo Rosanna Benzi 10, Genova 16132, Italy.",
+        "The Department of Biochemistry and Molecular Biology, University of British Columbia, Vancouver V6T 1Z3, Canada.",
+        "The Department of Anesthesiology, Pharmacology and Therapeutics, University of British Columbia, Vancouver V6T 1Z3, Canada."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kyriakis, Efthimios",
+        "short_name": "Kyriakis E",
+        "identifiers": [
+          "0000-0002-9183-8970"
+        ],
+        "affiliations": [
+          "The Department of Anesthesiology, Pharmacology and Therapeutics, University of British Columbia, Vancouver V6T 1Z3, Canada."
+        ]
+      },
+      {
+        "full_name": "Roscioni, Agnese",
+        "short_name": "Roscioni A",
+        "identifiers": [
+          "0009-0005-2681-8243"
+        ],
+        "affiliations": [
+          "Department of Life and Environmental Sciences, Polytechnic University of Marche, Via Brecce Bianche, Ancona 60131, Italy.",
+          "Center for Synaptic Neuroscience and Technology, Istituto Italiano di Tecnologia, Largo Rosanna Benzi 10, Genova 16132, Italy."
+        ]
+      },
+      {
+        "full_name": "Eldstrom, Jodene",
+        "short_name": "Eldstrom J",
+        "identifiers": [
+          "0000-0002-7684-175X"
+        ],
+        "affiliations": [
+          "The Department of Anesthesiology, Pharmacology and Therapeutics, University of British Columbia, Vancouver V6T 1Z3, Canada."
+        ]
+      },
+      {
+        "full_name": "Sastre, Daniel",
+        "short_name": "Sastre D",
+        "identifiers": [
+          "0000-0001-9471-9398"
+        ],
+        "affiliations": [
+          "The Department of Anesthesiology, Pharmacology and Therapeutics, University of British Columbia, Vancouver V6T 1Z3, Canada."
+        ]
+      },
+      {
+        "full_name": "Dou, Ying",
+        "short_name": "Dou Y",
+        "identifiers": [],
+        "affiliations": [
+          "The Department of Anesthesiology, Pharmacology and Therapeutics, University of British Columbia, Vancouver V6T 1Z3, Canada."
+        ]
+      },
+      {
+        "full_name": "Taddei, Alice",
+        "short_name": "Taddei A",
+        "identifiers": [
+          "0009-0004-3992-1736"
+        ],
+        "affiliations": [
+          "Department of Life and Environmental Sciences, Polytechnic University of Marche, Via Brecce Bianche, Ancona 60131, Italy."
+        ]
+      },
+      {
+        "full_name": "Molinarolo, Steven",
+        "short_name": "Molinarolo S",
+        "identifiers": [
+          "0000-0002-6077-1291"
+        ],
+        "affiliations": [
+          "The Department of Biochemistry and Molecular Biology, University of British Columbia, Vancouver V6T 1Z3, Canada."
+        ]
+      },
+      {
+        "full_name": "Tian, Michael",
+        "short_name": "Tian M",
+        "identifiers": [
+          "0009-0009-7688-2170"
+        ],
+        "affiliations": [
+          "The Department of Anesthesiology, Pharmacology and Therapeutics, University of British Columbia, Vancouver V6T 1Z3, Canada."
+        ]
+      },
+      {
+        "full_name": "Maragliano, Luca",
+        "short_name": "Maragliano L",
+        "identifiers": [
+          "0000-0002-5705-6967"
+        ],
+        "affiliations": [
+          "Department of Life and Environmental Sciences, Polytechnic University of Marche, Via Brecce Bianche, Ancona 60131, Italy.",
+          "Center for Synaptic Neuroscience and Technology, Istituto Italiano di Tecnologia, Largo Rosanna Benzi 10, Genova 16132, Italy."
+        ]
+      },
+      {
+        "full_name": "Van Petegem, Filip",
+        "short_name": "Van Petegem F",
+        "identifiers": [
+          "0000-0003-2728-8537"
+        ],
+        "affiliations": [
+          "The Department of Biochemistry and Molecular Biology, University of British Columbia, Vancouver V6T 1Z3, Canada."
+        ]
+      },
+      {
+        "full_name": "Fedida, David",
+        "short_name": "Fedida D",
+        "identifiers": [
+          "0000-0001-6797-5185"
+        ],
+        "affiliations": [
+          "The Department of Anesthesiology, Pharmacology and Therapeutics, University of British Columbia, Vancouver V6T 1Z3, Canada."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Science advances"
+    ],
+    "journal_abbrev": [
+      "Sci Adv"
+    ],
+    "pub_date": "2026 Oct 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/02 17:30",
+    "fetched_at": "2026-10-04 07:45:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42826183",
+      "41175503",
+      "41034624",
+      "41044058",
+      "20940310",
+      "41776084",
+      "39671184",
+      "31518351",
+      "14561821",
+      "21691061",
+      "21059661",
+      "31883792",
+      "24314077",
+      "42165438",
+      "39480699",
+      "23193163",
+      "26743208",
+      "22908235",
+      "15226366",
+      "29438706",
+      "41616768",
+      "31825788",
+      "17932138",
+      "29545312",
+      "28575668",
+      "12815162",
+      "18611041",
+      "27731317",
+      "16308347",
+      "15649981",
+      "33095155",
+      "28992529",
+      "26745405",
+      "29451064",
+      "29167462",
+      "25559286",
+      "32259418",
+      "29444113",
+      "35768468",
+      "41543902",
+      "20479109",
+      "23718892",
+      "18490447",
+      "22509038",
+      "41046027",
+      "40831387",
+      "23291057",
+      "31330137",
+      "31722973",
+      "41591909",
+      "26188173",
+      "17999538",
+      "28483800",
+      "17227916",
+      "34884666",
+      "16887873",
+      "15662042",
+      "33147278",
+      "11739240",
+      "16787255",
+      "33450182",
+      "18504315",
+      "29724949",
+      "25564853",
+      "24166878",
+      "18567635",
+      "39520043",
+      "18599533",
+      "27682982",
+      "16945016",
+      "11838236",
+      "17347319",
+      "19934648",
+      "23882077",
+      "27516594",
+      "23861489",
+      "32581825",
+      "19156197",
+      "26454161",
+      "20399767",
+      "25475720",
+      "35138621",
+      "32015334",
+      "40566678",
+      "32877186",
+      "42141755",
+      "30299652",
+      "29706893",
+      "39321803",
+      "24947509",
+      "42270663",
+      "24470490",
+      "25441029",
+      "16556865",
+      "41299264",
+      "16326905",
+      "31738900",
+      "24920132",
+      "22771213",
+      "37494189"
+    ],
+    "review": [
+      "42826183",
+      "31825788",
+      "26745405",
+      "16787255",
+      "11838236",
+      "32581825"
+    ],
+    "pmc": [
+      "13632742"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

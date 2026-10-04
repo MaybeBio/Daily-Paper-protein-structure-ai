@@ -1,0 +1,220 @@
+{
+  "identity": {
+    "pmid": "42823418",
+    "doi": "10.1038/s41467-026-77333-2",
+    "title": "Unsupervised discovery of functional sequence patterns from protein language model with MotifAE."
+  },
+  "content": {
+    "abstract": "Protein language models (pLMs) learn sequence patterns at evolutionary scale, but these patterns remain inaccessible within these \"black box\" models. To discover them, we developed MotifAE, an unsupervised framework based on the sparse autoencoder (SAE) architecture that projects pLM embeddings into an interpretable, sparse latent space. MotifAE introduces an additional smoothness loss to encourage coherent feature activation, which markedly improves the identification of known functional motifs compared to the standard SAE. The sequence patterns captured by MotifAE exhibit rich diversity, align with known functional motifs, and are reflected in the model's weight space. Beyond short motifs, MotifAE also captures some structural domains, with latent feature activation scores correlating with residue importance for diverse domain functions. By aligning MotifAE features with experimental data, we further identified features associated with domain folding stability. These features enable the prediction of a stability-specific fitness landscape. Overall, MotifAE provides a general framework for systematic sequence pattern discovery and interpretation, with the potential to advance protein function analysis, mutation effect interpretation, and rational protein engineering.",
+    "keywords": [],
+    "mesh_terms": [
+      "Amino Acid Motifs",
+      "Autoencoder",
+      "*Proteins/chemistry/genetics/metabolism",
+      "Protein Folding",
+      "*Sequence Analysis, Protein/methods",
+      "Amino Acid Sequence",
+      "Algorithms"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Hou, Chao",
+        "Liu, Di",
+        "Shen, Yufeng"
+      ],
+      "short_names": [
+        "Hou C",
+        "Liu D",
+        "Shen Y"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-4806-7637",
+        "ORCID: 0009-0004-2021-4468",
+        "ORCID: 0000-0002-1299-5979"
+      ],
+      "affiliations": [
+        "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA. ch3849@cumc.columbia.edu.",
+        "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY, USA.",
+        "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA. ys2411@cumc.columbia.edu.",
+        "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY, USA. ys2411@cumc.columbia.edu.",
+        "JP Sulzberger Columbia Genome Center, Columbia University, New York, NY, USA. ys2411@cumc.columbia.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Hou, Chao",
+        "short_name": "Hou C",
+        "identifiers": [
+          "0000-0003-4806-7637"
+        ],
+        "affiliations": [
+          "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA. ch3849@cumc.columbia.edu."
+        ]
+      },
+      {
+        "full_name": "Liu, Di",
+        "short_name": "Liu D",
+        "identifiers": [
+          "0009-0004-2021-4468"
+        ],
+        "affiliations": [
+          "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Shen, Yufeng",
+        "short_name": "Shen Y",
+        "identifiers": [
+          "0000-0002-1299-5979"
+        ],
+        "affiliations": [
+          "Department of Systems Biology, Columbia University Irving Medical Center, New York, NY, USA. ys2411@cumc.columbia.edu.",
+          "Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY, USA. ys2411@cumc.columbia.edu.",
+          "JP Sulzberger Columbia Genome Center, Columbia University, New York, NY, USA. ys2411@cumc.columbia.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Sep 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/02 05:31",
+    "fetched_at": "2026-10-04 07:45:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42823418",
+      "41279608",
+      "41023434",
+      "42475469",
+      "40828027",
+      "20671322",
+      "17760982",
+      "42423292",
+      "40938959",
+      "42642559",
+      "39457474",
+      "39237735",
+      "26387106",
+      "41902287",
+      "42670836",
+      "40083048",
+      "15693737",
+      "39975216",
+      "40027759",
+      "18004784",
+      "18387204",
+      "37833837",
+      "30520530",
+      "41218076",
+      "23574940",
+      "16457614",
+      "16410325",
+      "20920294",
+      "42248581",
+      "18460207",
+      "42337419",
+      "29500695",
+      "42765333",
+      "20334658",
+      "41273410",
+      "42378434",
+      "40874821",
+      "42247461",
+      "20865493",
+      "16447965",
+      "41731742",
+      "17977881",
+      "16870939",
+      "18194537",
+      "12855449",
+      "22254467",
+      "18566768",
+      "12084910",
+      "19136552",
+      "40689706",
+      "41766583",
+      "41422228",
+      "20684774",
+      "41021316",
+      "17933773",
+      "18847485",
+      "16220690",
+      "26269100",
+      "40116777",
+      "16317074",
+      "39468034",
+      "39117802",
+      "38127603",
+      "17947032",
+      "12874050",
+      "17237086",
+      "31492097",
+      "20506260",
+      "40986350",
+      "40569190",
+      "19208148",
+      "41224841",
+      "29990265",
+      "39456153",
+      "17570144",
+      "38254915",
+      "41052325",
+      "12676049",
+      "15693735",
+      "38662579",
+      "38003686",
+      "40601266",
+      "17942446",
+      "42670877",
+      "39197652",
+      "41292907",
+      "18831774",
+      "23386227",
+      "24021383",
+      "17570145",
+      "41643061",
+      "15693739",
+      "37414576",
+      "37598423",
+      "40601249",
+      "41145424",
+      "16374913",
+      "41677811",
+      "42136025",
+      "41444215"
+    ],
+    "review": [
+      "42823418",
+      "26387106",
+      "18566768",
+      "15693735"
+    ],
+    "pmc": [
+      "13631247"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

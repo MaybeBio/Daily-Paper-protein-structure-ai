@@ -1,0 +1,213 @@
+{
+  "identity": {
+    "pmid": "42819252",
+    "doi": "10.1021/jacsau.6c00596",
+    "title": "Enhanced Sampling of Protein Conformations in AlphaFold3 with Repulsive Bias in the Diffusion Generative Model."
+  },
+  "content": {
+    "abstract": "Conformational changes in proteins are vital to their function yet remain challenging for state-of-the-art artificial intelligence, such as AlphaFold3 (AF3), to predict. It has been observed that AF3 sometimes fails to capture ligand-induced conformational changes, even though it explicitly includes ligand molecules that induce such changes. To address this challenge, we develop an enhanced sampling scheme that leverages the diffusion-based generative model used in AF3 to predict protein structures. Interpreting the diffusion generative model as a stochastic sampling process analogous to molecular dynamics (MD) simulations, we introduce here a repulsive biasing potential between predicted structures to explore wider conformational space. We demonstrate that the developed sampling scheme, AF3-ReD, successfully samples multiple conformational states in the AF3 distribution, including ligand-bound conformations of motor, kinase, and transporter proteins, which are rarely captured by the default AF3 settings. Consistency with experimentally determined structures not only at the global structural level but also in local ligand-binding poses confirms reliable conformational sampling with AF3-ReD. Notably, AF3-ReD succeeded in sampling conformational states of transporters that were unresolved at the AF3 training cutoff. Compared to another strategy based on multiple sequence alignment (MSA), AF3-ReD predicted intermediate conformations that are relatively closer to the stable states. Thus, AF3-ReD provides a promising approach to predicting dynamic conformational changes of proteins associated with ligand binding, which could be further extended to other diffusion-based generative models, such as those for protein design, potentially expanding their accessible design space.",
+    "keywords": [
+      "AlphaFold",
+      "Diffusion Models",
+      "Enhanced Sampling",
+      "Machine Learning",
+      "Metadynamics",
+      "Protein Structure",
+      "Structure Prediction"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ohnuki, Jun",
+        "Okazaki, Kei-Ichi"
+      ],
+      "short_names": [
+        "Ohnuki J",
+        "Okazaki KI"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-7351-3427",
+        "ORCID: 0000-0003-2168-3069"
+      ],
+      "affiliations": [
+        "Research Center for Computational Science, Institute for Molecular Science, National Institutes of Natural Sciences, Okazaki, Aichi 444-8585, Japan. RINGGOLD: 88301",
+        "Graduate Institute for Advanced Studies, SOKENDAI, Okazaki, Aichi 444-8585, Japan.",
+        "Research Center for Computational Science, Institute for Molecular Science, National Institutes of Natural Sciences, Okazaki, Aichi 444-8585, Japan. RINGGOLD: 88301",
+        "Graduate Institute for Advanced Studies, SOKENDAI, Okazaki, Aichi 444-8585, Japan."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ohnuki, Jun",
+        "short_name": "Ohnuki J",
+        "identifiers": [
+          "0000-0002-7351-3427"
+        ],
+        "affiliations": [
+          "Research Center for Computational Science, Institute for Molecular Science, National Institutes of Natural Sciences, Okazaki, Aichi 444-8585, Japan.",
+          "Graduate Institute for Advanced Studies, SOKENDAI, Okazaki, Aichi 444-8585, Japan."
+        ]
+      },
+      {
+        "full_name": "Okazaki, Kei-Ichi",
+        "short_name": "Okazaki KI",
+        "identifiers": [
+          "0000-0003-2168-3069"
+        ],
+        "affiliations": [
+          "Research Center for Computational Science, Institute for Molecular Science, National Institutes of Natural Sciences, Okazaki, Aichi 444-8585, Japan.",
+          "Graduate Institute for Advanced Studies, SOKENDAI, Okazaki, Aichi 444-8585, Japan."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "JACS Au"
+    ],
+    "journal_abbrev": [
+      "JACS Au"
+    ],
+    "pub_date": "2026 Sep 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/01 17:29",
+    "fetched_at": "2026-10-04 07:45:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42819252",
+      "42475469",
+      "39684679",
+      "42511621",
+      "42760289",
+      "41756927",
+      "42096314",
+      "41639320",
+      "23912807",
+      "37693436",
+      "41432299",
+      "42414572",
+      "40225838",
+      "42268730",
+      "41502950",
+      "40960922",
+      "41779774",
+      "39565312",
+      "40166350",
+      "41188090",
+      "42734519",
+      "39362060",
+      "33629765",
+      "42069689",
+      "42583324",
+      "39340358",
+      "41954434",
+      "41750280",
+      "38018910",
+      "42427182",
+      "39484820",
+      "40621440",
+      "40851426",
+      "42594575",
+      "41481844",
+      "40912020",
+      "39066727",
+      "42140027",
+      "41245953",
+      "35238773",
+      "42185313",
+      "39574675",
+      "36472885",
+      "39574676",
+      "30883122",
+      "42112265",
+      "41333163",
+      "41310253",
+      "42340349",
+      "42093884",
+      "31639304",
+      "37277701",
+      "37241789",
+      "39337567",
+      "38316797",
+      "37108059",
+      "35705565",
+      "25178116",
+      "39555603",
+      "41472324",
+      "39046952",
+      "38979147",
+      "42223122",
+      "41142756",
+      "39643640",
+      "37064532",
+      "40820259",
+      "40287075",
+      "33383937",
+      "39071413",
+      "38816696",
+      "38978607",
+      "22360151",
+      "36619585",
+      "26808351",
+      "40626554",
+      "40735632",
+      "40688505",
+      "40062613",
+      "35312477",
+      "17059826",
+      "25659594",
+      "39181864",
+      "34235478",
+      "38732174",
+      "26482713",
+      "28964335",
+      "41170922",
+      "26584388",
+      "42225696",
+      "40586518",
+      "41959328",
+      "39163334",
+      "40663654",
+      "42581579",
+      "38370653",
+      "41822751",
+      "41863075",
+      "37305323",
+      "41828473"
+    ],
+    "review": [
+      "42819252",
+      "42140027",
+      "37241789",
+      "39555603",
+      "36619585"
+    ],
+    "pmc": [
+      "13625536"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/jaaucr/article-lookup/doi/10.1021/jacsau.6c00596",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "identity": {
+    "pmid": "42808273",
+    "doi": "10.1002/jmr.70046",
+    "title": "Computational Insights Into the Conformational Dynamics of the Dengue Virus Capsid Protein."
+  },
+  "content": {
+    "abstract": "The Dengue virus (DENV) capsid protein plays an important role in the viral lifecycle, including encapsidation of the genome, recruitment of lipid droplets, and assembly of particles. Capsid protein includes a hydrophobic pocket, which plays a central role in these functions and switches between closed and open conformations. This work studies the conformational change pathway of the capsid protein, specifically how the molecular mechanisms controlling the opening and closing of the hydrophobic pocket are controlled. By using a combination of different types of molecular dynamics simulations and enhanced sampling methods, we share insights on the structural rearrangements that play a crucial role in governing these transitions. Our results show that lipid binding modulates the accessibility of the hydrophobic pocket through environmental cues. In the open conformation, the pocket is involved in the interaction with lipids, stabilization of capsid dimers, and the promotion of immature virus assembly. Conversely, the closed conformation protects the hydrophobic pocket from the surrounding aqueous media as also preventing premature interactions in the solution phase that might disrupt protein stability. Such insights allow a deep understanding of capsid protein's conformational dynamics and represent a promising set of potent targets for antiviral strategies aiming to interfere with its functional transitions.",
+    "keywords": [
+      "accessible surface area",
+      "conformational transition path",
+      "dengue virus capsid protein",
+      "milestoning study",
+      "targeted MD simulation"
+    ],
+    "mesh_terms": [
+      "*Capsid Proteins/chemistry/metabolism",
+      "*Dengue Virus/chemistry/metabolism",
+      "Molecular Dynamics Simulation",
+      "Hydrophobic and Hydrophilic Interactions",
+      "Protein Conformation",
+      "Protein Binding",
+      "Virus Assembly"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chaudhuri, Dwaipayan",
+        "Giri, Kalyan"
+      ],
+      "short_names": [
+        "Chaudhuri D",
+        "Giri K"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-5681-2612"
+      ],
+      "affiliations": [
+        "Department of Life Sciences, Presidency University, Kolkata, India.",
+        "Department of Life Sciences, Presidency University, Kolkata, India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chaudhuri, Dwaipayan",
+        "short_name": "Chaudhuri D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Life Sciences, Presidency University, Kolkata, India."
+        ]
+      },
+      {
+        "full_name": "Giri, Kalyan",
+        "short_name": "Giri K",
+        "identifiers": [
+          "0000-0001-5681-2612"
+        ],
+        "affiliations": [
+          "Department of Life Sciences, Presidency University, Kolkata, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of molecular recognition : JMR"
+    ],
+    "journal_abbrev": [
+      "J Mol Recognit"
+    ],
+    "pub_date": "2026 Nov",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/29 12:28",
+    "fetched_at": "2026-10-04 07:45:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42808273",
+      "39827433",
+      "31398956",
+      "32783888",
+      "27501261",
+      "19851456",
+      "39304568",
+      "34375636",
+      "25056895",
+      "41062611",
+      "22428600",
+      "25412346",
+      "40143261",
+      "29792674",
+      "34146962",
+      "23792329",
+      "28842264",
+      "22072762",
+      "41642338",
+      "40699462",
+      "30808916",
+      "26031340",
+      "42057356",
+      "35189699",
+      "26161501",
+      "40725228",
+      "40737183",
+      "34410905",
+      "36374110",
+      "31682219",
+      "33810481",
+      "39194132",
+      "23745515",
+      "29454707",
+      "8736552",
+      "41314213",
+      "27614702",
+      "29306785",
+      "30089690",
+      "26842475",
+      "39436094",
+      "32669438",
+      "34894959",
+      "28029785",
+      "22130547",
+      "40338128",
+      "28458006",
+      "32060358",
+      "25972558",
+      "36054910",
+      "39768179",
+      "40238893",
+      "35112241",
+      "33406991",
+      "25986309",
+      "41287266",
+      "23871485",
+      "31034208",
+      "23912807",
+      "30360716",
+      "40993170",
+      "33879615",
+      "29173158",
+      "31996436",
+      "27053549",
+      "27992765",
+      "32938763",
+      "41468551",
+      "26391975",
+      "33345726",
+      "23811054",
+      "41379934",
+      "27098294",
+      "34037793",
+      "23142681",
+      "27063578",
+      "14993605",
+      "24027323",
+      "21909430",
+      "38131136",
+      "29309148",
+      "41991550",
+      "19305942",
+      "39017952",
+      "26912613",
+      "27289029",
+      "19825044",
+      "23868207",
+      "42192530",
+      "21798792",
+      "24339931",
+      "37175867",
+      "30333189",
+      "34709638",
+      "34287037",
+      "31341057",
+      "31284608",
+      "31189701",
+      "18022640",
+      "29920071"
+    ],
+    "review": [
+      "42808273",
+      "27501261",
+      "40725228",
+      "39768179",
+      "30360716",
+      "23142681",
+      "19825044"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1002/jmr.70046",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

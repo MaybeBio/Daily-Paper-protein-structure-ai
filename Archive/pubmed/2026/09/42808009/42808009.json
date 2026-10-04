@@ -1,0 +1,229 @@
+{
+  "identity": {
+    "pmid": "42808009",
+    "doi": "10.34133/csbj.0202",
+    "title": "ProNA3D: Distance-Based Analysis of Nucleic Acid-Containing Interfaces."
+  },
+  "content": {
+    "abstract": "Biomolecular interactions are central to many essential cellular processes, but RNA-containing complexes remain challenging to resolve structurally, even as experimental methods and AI-based prediction have expanded structural coverage. Tools for the integrated analysis of interfaces within such complexes remain limited. We present ProNA3D, a tool that provides a unified platform for analyzing protein-nucleic acid and nucleic acid-only complexes, bridging the gap between structure prediction and functional interpretation. ProNA3D supports both experimental and computationally predicted structures, incorporating scoring metrics for AlphaFold 3 predictions. It also offers interactive 2-dimensional interface visualization and secondary-structure topology plots for RNA and DNA. An interface-based density zoning feature facilitates structure analysis of cryo-electron microscopy maps, allowing the evaluation of dynamic complexes in the context of heterogeneous density. We demonstrate ProNA3D on diverse complexes solved by x-ray crystallography or cryo-electron microscopy, as well as on computational models. In one example, ProNA3D identified a high-connectivity nucleotide with potential functional relevance in a trimeric complex of HIV-1 RNA and a human antibody. Applying ProNA3D to the entire Protein Data Bank revealed distinct interface connectivity trends and interaction modes characteristic of specific classes of nucleic acid-containing complexes (e.g., methyltransferase-DNA and CRISPR-associated). The method is available as both a UCSF ChimeraX plug-in for visualization and a command-line tool at https://gitlab.com/topf-lab/ProNA3D. In addition, the repository contains the results of the large-scale analyses.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Genz, Luca R",
+        "Topf, Maya"
+      ],
+      "short_names": [
+        "Genz LR",
+        "Topf M"
+      ],
+      "auids": [
+        "ORCID: 0009-0006-7374-2525",
+        "ORCID: 0000-0002-8185-1215"
+      ],
+      "affiliations": [
+        "Research Department of Integrative Virology, Leibniz-Institut fur Virologie (LIV), Hamburg, Germany.",
+        "Department of Chemistry, Universitat Hamburg, Hamburg, Germany.",
+        "Centre for Structural Systems Biology (CSSB), Hamburg, Germany.",
+        "Research Department of Integrative Virology, Leibniz-Institut fur Virologie (LIV), Hamburg, Germany.",
+        "Centre for Structural Systems Biology (CSSB), Hamburg, Germany.",
+        "Institute for Molecular Virology and Tumorvirology, Universitatsklinikum Hamburg-Eppendorf (UKE), Hamburg, Germany."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Genz, Luca R",
+        "short_name": "Genz LR",
+        "identifiers": [
+          "0009-0006-7374-2525"
+        ],
+        "affiliations": [
+          "Research Department of Integrative Virology, Leibniz-Institut für Virologie (LIV), Hamburg, Germany.",
+          "Department of Chemistry, Universität Hamburg, Hamburg, Germany.",
+          "Centre for Structural Systems Biology (CSSB), Hamburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Topf, Maya",
+        "short_name": "Topf M",
+        "identifiers": [
+          "0000-0002-8185-1215"
+        ],
+        "affiliations": [
+          "Research Department of Integrative Virology, Leibniz-Institut für Virologie (LIV), Hamburg, Germany.",
+          "Centre for Structural Systems Biology (CSSB), Hamburg, Germany.",
+          "Institute for Molecular Virology and Tumorvirology, Universitätsklinikum Hamburg-Eppendorf (UKE), Hamburg, Germany."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Computational and structural biotechnology journal"
+    ],
+    "journal_abbrev": [
+      "Comput Struct Biotechnol J"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/29 12:28",
+    "fetched_at": "2026-10-04 07:45:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42808009",
+      "42475469",
+      "23912807",
+      "37846034",
+      "41081541",
+      "23259794",
+      "36321557",
+      "34904892",
+      "41918630",
+      "40905273",
+      "35679397",
+      "42196370",
+      "26092861",
+      "40610378",
+      "42584949",
+      "37216015",
+      "40126909",
+      "18474114",
+      "39625988",
+      "35593869",
+      "36641210",
+      "30299652",
+      "27710935",
+      "40568131",
+      "42032810",
+      "37774136",
+      "41142756",
+      "41274550",
+      "42748924",
+      "41313605",
+      "10986461",
+      "31612957",
+      "35679404",
+      "41756897",
+      "41509633",
+      "41320116",
+      "26068746",
+      "40552661",
+      "35653385",
+      "26616093",
+      "36682003",
+      "23850846",
+      "39576589",
+      "42691127",
+      "39576577",
+      "35561171",
+      "40631076",
+      "25340325",
+      "39150724",
+      "25760613",
+      "39346815",
+      "16336694",
+      "42644389",
+      "18989044",
+      "37783885",
+      "35679401",
+      "39512332",
+      "35679425",
+      "11352589",
+      "23368786",
+      "34944417",
+      "38955920",
+      "30420522",
+      "28315749",
+      "42432836",
+      "35664227",
+      "39032884",
+      "32785279",
+      "41113973",
+      "42083865",
+      "41478913",
+      "25977296",
+      "41726894",
+      "20932910",
+      "25914056",
+      "39477926",
+      "42691619",
+      "37405868",
+      "37395405",
+      "21612274",
+      "37140053",
+      "33001599",
+      "26066760",
+      "38449296",
+      "41209584",
+      "27119636",
+      "42241776",
+      "41727101",
+      "28949136",
+      "21992011",
+      "32522662",
+      "30093489",
+      "31092198",
+      "38851299",
+      "38507204",
+      "39936575",
+      "42077125",
+      "31106363",
+      "42023506",
+      "41739924"
+    ],
+    "review": [
+      "42808009",
+      "36321557",
+      "37216015",
+      "30299652",
+      "39150724",
+      "39512332",
+      "38955920",
+      "28315749",
+      "33001599",
+      "26066760",
+      "41209584"
+    ],
+    "pmc": [
+      "13618712"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/0202",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42808009/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1548",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

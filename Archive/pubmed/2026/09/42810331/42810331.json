@@ -1,0 +1,212 @@
+{
+  "identity": {
+    "pmid": "42810331",
+    "doi": "10.1016/j.str.2026.09.003",
+    "title": "Reconstructing hidden GPCR conformations and ligand binding modes through integrative DEER modeling."
+  },
+  "content": {
+    "abstract": "Binding of biased ligands to a G protein-coupled receptor (GPCR) stabilizes specific receptor conformations, leading to distinct physiological responses. Recently, intra-transducer bias has emerged as an additional mechanism that fine-tunes receptor function by stabilizing specific architectures of the receptor-transducer complex. This mechanism was demonstrated for the angiotensin receptor (AT1R) and its beta-arrestin-biased ligand TRV026, which selectively promotes beta-arrestin-1 engagement via the receptor C terminus while preventing interaction with the receptor core. Here, we present a computational protocol integrating double electron-electron resonance (DEER) data with deep learning-based structure prediction and molecular dynamics simulations to reconstruct all-atom models of TRV026-bound AT1R. Using a new clustering method, we identify key ligand-receptor interactions underlying high-affinity binding, localized receptor flexibility, and ligand bias. Our results provide a framework for validating neural-network predictions and physics-based simulations to capture rare signaling states of membrane proteins and identify target conformations for designing more functionally selective, efficacious therapeutics.",
+    "keywords": [
+      "DEER",
+      "EPR",
+      "GPCRs",
+      "biased signaling",
+      "deep learning",
+      "integrative modeling",
+      "beta-arrestin"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Belyaeva, Julia",
+        "Elgeti, Matthias"
+      ],
+      "short_names": [
+        "Belyaeva J",
+        "Elgeti M"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Institute for Drug Discovery, Leipzig University - Faculty of Medicine, 04103 Leipzig, Saxony, Germany; Institute for Medical Physics and Biophysics, Leipzig University - Faculty of Medicine, 04107 Leipzig, Saxony, Germany.",
+        "Institute for Drug Discovery, Leipzig University - Faculty of Medicine, 04103 Leipzig, Saxony, Germany; Institute for Medical Physics and Biophysics, Leipzig University - Faculty of Medicine, 04107 Leipzig, Saxony, Germany; Integrative Center for Bioinformatics, Leipzig University, 04107 Leipzig, Saxony, Germany. Electronic address: matthias.elgeti@uni-leipzig.de."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Belyaeva, Julia",
+        "short_name": "Belyaeva J",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Drug Discovery, Leipzig University - Faculty of Medicine, 04103 Leipzig, Saxony, Germany; Institute for Medical Physics and Biophysics, Leipzig University - Faculty of Medicine, 04107 Leipzig, Saxony, Germany."
+        ]
+      },
+      {
+        "full_name": "Elgeti, Matthias",
+        "short_name": "Elgeti M",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Drug Discovery, Leipzig University - Faculty of Medicine, 04103 Leipzig, Saxony, Germany; Institute for Medical Physics and Biophysics, Leipzig University - Faculty of Medicine, 04107 Leipzig, Saxony, Germany; Integrative Center for Bioinformatics, Leipzig University, 04107 Leipzig, Saxony, Germany. Electronic address: matthias.elgeti@uni-leipzig.de."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Structure (London, England : 1993)"
+    ],
+    "journal_abbrev": [
+      "Structure"
+    ],
+    "pub_date": "2026 Sep 29",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/29 23:29",
+    "fetched_at": "2026-10-04 07:45:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42810331",
+      "41475549",
+      "40974303",
+      "40869309",
+      "36335829",
+      "36961836",
+      "25170081",
+      "40661650",
+      "31530642",
+      "30639099",
+      "31075355",
+      "30409826",
+      "32079768",
+      "38917219",
+      "29231251",
+      "37060492",
+      "40957834",
+      "24668815",
+      "25934394",
+      "33738925",
+      "42458575",
+      "28584054",
+      "23879802",
+      "38203545",
+      "35078997",
+      "41057732",
+      "29492619",
+      "28939107",
+      "41830514",
+      "34067265",
+      "39386521",
+      "41206221",
+      "38194225",
+      "32019899",
+      "31855381",
+      "33375124",
+      "28004074",
+      "42475469",
+      "29684376",
+      "34802238",
+      "32703898",
+      "42523394",
+      "41349424",
+      "33621418",
+      "23396314",
+      "33950683",
+      "39975168",
+      "40076272",
+      "40118988",
+      "41980512",
+      "23323542",
+      "41082500",
+      "35594393",
+      "31159491",
+      "30120952",
+      "34326250",
+      "38164609",
+      "40563495",
+      "39763753",
+      "41785085",
+      "31013635",
+      "27187591",
+      "22534132",
+      "29720655",
+      "35004696",
+      "38517694",
+      "39306191",
+      "29581292",
+      "41279546",
+      "36906681",
+      "26851281",
+      "36377848",
+      "39137246",
+      "26825061",
+      "35396120",
+      "37787634",
+      "35170592",
+      "18621717",
+      "30668103",
+      "30514808",
+      "26269596",
+      "23629648",
+      "35196859",
+      "33605032",
+      "26516769",
+      "39828030",
+      "30131371",
+      "32803684",
+      "25890247",
+      "20530803",
+      "34433090",
+      "30265513",
+      "22584219",
+      "42343124",
+      "23374189",
+      "41875231",
+      "29678287",
+      "33640432",
+      "15251227",
+      "25314362"
+    ],
+    "review": [
+      "42810331",
+      "31075355",
+      "33738925",
+      "41057732",
+      "28939107",
+      "34067265",
+      "41206221",
+      "41349424",
+      "33621418",
+      "40076272",
+      "39306191",
+      "26825061",
+      "35396120",
+      "39828030",
+      "32803684",
+      "29678287",
+      "33640432"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0969-2126(26)00289-3",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

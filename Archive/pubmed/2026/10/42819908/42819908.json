@@ -1,0 +1,237 @@
+{
+  "identity": {
+    "pmid": "42819908",
+    "doi": "10.1021/jacsau.6c00875",
+    "title": "Post-Search Validation and Curation of Site-Resolved N‑Glycoproteomics Data."
+  },
+  "content": {
+    "abstract": "Given the significant role of glycosylation in modulating protein structure and activity, glycoproteomics is gaining increased interest from the broad scientific community. Large-scale site-resolved N-glycoproteomics relies on automated MS(2)-based searches, but candidate glycopeptide assignments can remain ambiguous when isomeric or isobaric glycan structures, adducts, chemical modifications, in-source fragments, or incomplete MS(2) evidence support more than one plausible interpretation. Here, we systematically categorize common challenges and misassignments in glycoproteomics and present a post-search validation workflow using Skyline software to identify and correct these. The workflow matches search-engine-derived candidate assignments to LC-MS/MS evidence for correct precursor monoisotope assignment, retention time behavior, and glycosite context. The workflow is demonstrated with Byonic-derived glycopeptide candidate lists and converts automated search results into curated, verifiable, site-resolved N-glycopeptide features for downstream quantification and reporting. We applied the workflow to data from 52 human serum samples, and reviewed 3,071 candidate N-glycopeptide IDs. From these, 1,722 MS(2) candidate IDs were refuted as inconsistent with chromatographic and/or precursor-level evidence. Curation added 320 glycopeptide features, comprising 152 MS(1)-supported composition-level assignments and 168 additional LC-resolved isomer features, yielding a final curated feature set of 1,436 N-glycopeptides across the serum N-glycoproteome. Together, these results show that reviewing the raw LC-MS/MS data associated with search-engine results improves both the accuracy and comprehensiveness of detectable N-glycopeptides, supporting more transparent and reliable reporting. The curated dataset provides a resource for future method development, benchmarking and machine-learning efforts directed at automated glycopeptide validation.",
+    "keywords": [
+      "Glycopeptide validation",
+      "Human serum",
+      "LC-MS/MS",
+      "N-Glycoproteomics",
+      "Retention time monitoring"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Urminsky, Adam P",
+        "Rojas E, Juan C",
+        "Hernychova, Lenka",
+        "de Haan, Noortje"
+      ],
+      "short_names": [
+        "Urminsky AP",
+        "Rojas E JC",
+        "Hernychova L",
+        "de Haan N"
+      ],
+      "auids": [
+        "ORCID: 0009-0001-7199-6517",
+        "ORCID: 0000-0003-4440-9580",
+        "ORCID: 0000-0001-7026-6750"
+      ],
+      "affiliations": [
+        "Research Centre for Applied Molecular Oncology, Masaryk Memorial Cancer Institute, 65653 Brno, Czech Republic. RINGGOLD: 48275",
+        "National Centre for Biomolecular Research, Faculty of Science, Masaryk University, 62500 Brno, Czech Republic. RINGGOLD: 37748",
+        "Centre for Proteomics and Metabolomics, Leiden University Medical Centre, 2333 ZA Leiden, The Netherlands. RINGGOLD: 197732",
+        "Research Centre for Applied Molecular Oncology, Masaryk Memorial Cancer Institute, 65653 Brno, Czech Republic. RINGGOLD: 48275",
+        "Centre for Proteomics and Metabolomics, Leiden University Medical Centre, 2333 ZA Leiden, The Netherlands. RINGGOLD: 197732"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Urminsky, Adam P",
+        "short_name": "Urminsky AP",
+        "identifiers": [
+          "0009-0001-7199-6517"
+        ],
+        "affiliations": [
+          "Research Centre for Applied Molecular Oncology, Masaryk Memorial Cancer Institute, 65653 Brno, Czech Republic.",
+          "National Centre for Biomolecular Research, Faculty of Science, Masaryk University, 62500 Brno, Czech Republic."
+        ]
+      },
+      {
+        "full_name": "Rojas E, Juan C",
+        "short_name": "Rojas E JC",
+        "identifiers": [
+          "0000-0003-4440-9580"
+        ],
+        "affiliations": [
+          "Centre for Proteomics and Metabolomics, Leiden University Medical Centre, 2333 ZA Leiden, The Netherlands."
+        ]
+      },
+      {
+        "full_name": "Hernychova, Lenka",
+        "short_name": "Hernychova L",
+        "identifiers": [],
+        "affiliations": [
+          "Research Centre for Applied Molecular Oncology, Masaryk Memorial Cancer Institute, 65653 Brno, Czech Republic."
+        ]
+      },
+      {
+        "full_name": "de Haan, Noortje",
+        "short_name": "de Haan N",
+        "identifiers": [
+          "0000-0001-7026-6750"
+        ],
+        "affiliations": [
+          "Centre for Proteomics and Metabolomics, Leiden University Medical Centre, 2333 ZA Leiden, The Netherlands."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "JACS Au"
+    ],
+    "journal_abbrev": [
+      "JACS Au"
+    ],
+    "pub_date": "2026 Sep 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/02 03:09",
+    "fetched_at": "2026-10-04 07:45:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42819908",
+      "27519006",
+      "34505426",
+      "40910306",
+      "39985669",
+      "29069609",
+      "38286027",
+      "23994444",
+      "31117584",
+      "27399812",
+      "32965048",
+      "26729457",
+      "24830338",
+      "33363672",
+      "28874712",
+      "41106808",
+      "22239659",
+      "36334872",
+      "24796651",
+      "31759178",
+      "30370771",
+      "31079452",
+      "34010560",
+      "32102970",
+      "42475469",
+      "39181535",
+      "28975713",
+      "42471506",
+      "29687791",
+      "27743362",
+      "23829323",
+      "25137014",
+      "36482940",
+      "35507764",
+      "28887379",
+      "42304605",
+      "25945896",
+      "36781790",
+      "24618467",
+      "38924612",
+      "41757029",
+      "37341462",
+      "23438733",
+      "41483471",
+      "32223173",
+      "36321557",
+      "22843980",
+      "39030008",
+      "27760464",
+      "15378712",
+      "37271932",
+      "23568021",
+      "42489338",
+      "41364107",
+      "39426592",
+      "34159615",
+      "23891555",
+      "31637569",
+      "36525809",
+      "36811677",
+      "39531532",
+      "37319314",
+      "38084450",
+      "24090084",
+      "39039063",
+      "33020657",
+      "42349679",
+      "33578083",
+      "29391424",
+      "30334612",
+      "39788319",
+      "35372033",
+      "41833411",
+      "33439247",
+      "38263491",
+      "25182382",
+      "34725484",
+      "31517451",
+      "41106479",
+      "35091091",
+      "42518218",
+      "37665459",
+      "21647803",
+      "29405331",
+      "41929003",
+      "39207492",
+      "28258464",
+      "30252445",
+      "37362028",
+      "40680364",
+      "30186849",
+      "34227319",
+      "37175577",
+      "37287875",
+      "27766363",
+      "29730764",
+      "42631193",
+      "39676134",
+      "28695533",
+      "24549892"
+    ],
+    "review": [
+      "42819908",
+      "34505426",
+      "24830338",
+      "36321557",
+      "22843980",
+      "34159615",
+      "36525809",
+      "36811677"
+    ],
+    "pmc": [
+      "13625512"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/jaaucr/article-lookup/doi/10.1021/jacsau.6c00875",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

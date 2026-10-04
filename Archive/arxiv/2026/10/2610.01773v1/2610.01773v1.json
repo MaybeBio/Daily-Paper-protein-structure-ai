@@ -1,0 +1,38 @@
+{
+  "source": "arxiv",
+  "source_id": "2610.01773v1",
+  "title": "CODesign: Consistency from Data to Trajectory in All-Atom Protein Binder Co-Design",
+  "doi": "",
+  "abstract": "The central challenge in de novo protein design is generating plausible, mutually compatible structures and sequences, such that each designed sequence folds into its intended structure and the structure accommodates that sequence. Compared to typical two-stage design methods, which decouple the modeling of the interdependent modalities, co-design models improve the cross-modal consistency by jointly generating sequences and structures. However, naively generating sequences and structures simultaneously does not ensure their consistency. To address this challenge, we propose CODesign framework. We improve data consistency by generating approximately 105,000 consistency-distilled dimers. We further promote consistency through a multimodal joint flow model that captures the joint distribution of sequences, backbone structures, and local atomic configurations, together with a consistency-aware joint resampling strategy that iteratively refines sequences and side chains. Experiments show that CODesign achieves state-of-the-art performance with the highest in silico success rates on both protein- and ligand-target binder design. Ablation studies also demonstrate our distilled dataset increases performance by 70.9%, which can be further improved by our proposed resampling mechanism with negligible additional computational cost. Code, model weights and the new dataset will be completely open-source.",
+  "authors": [
+    "Yuanle Mo",
+    "Bo Qiang",
+    "Haitao Lin",
+    "Qinghan Wang",
+    "Gang Du",
+    "Odin Zhang",
+    "Pheng Ann Heng"
+  ],
+  "published_date": "2026-10-01T14:28:49Z",
+  "updated_date": "2026-10-01T14:28:49Z",
+  "journal": "",
+  "category": "cs.CE, cs.AI",
+  "landing_url": "https://arxiv.org/abs/2610.01773v1",
+  "pdf_url": "https://arxiv.org/pdf/2610.01773v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cs.CE",
+    "cs.AI"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2610.01773v1",
+    "raw_categories": [
+      "cs.CE",
+      "cs.AI"
+    ],
+    "journal_ref": ""
+  }
+}

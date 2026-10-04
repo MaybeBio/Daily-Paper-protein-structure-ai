@@ -1,0 +1,224 @@
+{
+  "identity": {
+    "pmid": "42800887",
+    "doi": "10.1016/j.bpj.2026.09.036",
+    "title": "Role of ligand-dependent conformational modulation of TNPO3 HEAT-repeat solenoid in nuclear import."
+  },
+  "content": {
+    "abstract": "Transportin-3 (TNPO3) is a HEAT-repeat nuclear transport receptor that mediates nuclear import of serine/arginine-rich (SR) proteins and interacts with Ran GTPase during nuclear transport cycle. Although structures of several TNPO3 complexes are available, how ligand binding modulates the conformational landscape of the receptor remains poorly understood. Here, we combine microsecond-scale molecular dynamics simulations with umbrella sampling free-energy calculations to investigate how SR cargo binding, Ran nucleotide state and cargo phosphorylation regulate TNPO3 conformational dynamics. Equilibrium simulations show that apo TNPO3 samples a broad conformational ensemble, while ligand binding substantially reshapes the conformational landscape. SR cargo protein stabilizes a partially extended solenoid architecture and introduces an energetic penalty to prevent further opening. Ran binding favours compact conformations of TNPO3 scaffold. Among these states, Ran-GTP produces the strongest confined conformational ensemble, while Ran-GDP allows broader structural variability. State-resolved structural analysis indicates that these energetic differences arise from ligand-dependent modulation of interface packing and hydrogen-bond networks. The modulation propagates across the HEAT-repeat array and alters global solenoid curvature. Reduction in phosphorylation of SR cargo weakens binding and increases conformational heterogeneity, highlighting the role of phosphorylation in stabilizing the TNPO3-cargo interface. These findings support a ligand-dependent conformational pathway, in which TNPO3 shifts from a flexible apo ensemble to an SR-bound extended state. This is followed by a structurally compatible intermediate shared with Ran-GTP-bound form before reaching compact Ran-GTP-stabilized state associated with cargo release. Together, these results provide a quantitative framework for understanding how ligand binding reshapes TNPO3 conformations during nuclear transport cycle.",
+    "keywords": [
+      "Conformational dynamic",
+      "HEAT-repeat solenoid",
+      "Molecular dynamics simulations",
+      "Nuclear import",
+      "Transportin-3 (TNPO3)",
+      "Umbrella sampling"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chatterjee, Sonali",
+        "Maity, Atanu",
+        "Bahadur, Ranjit Prasad"
+      ],
+      "short_names": [
+        "Chatterjee S",
+        "Maity A",
+        "Bahadur RP"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Computational Structural Biology Laboratory, Department of Bioscience and Biotechnology, Indian Institute of Technology Kharagpur, Kharagpur-721302, India.",
+        "Bioinformatics Center, Department of Bioscience and Biotechnology, Indian Institute of Technology Kharagpur, Kharagpur-721302, India.",
+        "Computational Structural Biology Laboratory, Department of Bioscience and Biotechnology, Indian Institute of Technology Kharagpur, Kharagpur-721302, India; Bioinformatics Center, Department of Bioscience and Biotechnology, Indian Institute of Technology Kharagpur, Kharagpur-721302, India. Electronic address: r.bahadur@bt.iitkgp.ac.in."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chatterjee, Sonali",
+        "short_name": "Chatterjee S",
+        "identifiers": [],
+        "affiliations": [
+          "Computational Structural Biology Laboratory, Department of Bioscience and Biotechnology, Indian Institute of Technology Kharagpur, Kharagpur-721302, India."
+        ]
+      },
+      {
+        "full_name": "Maity, Atanu",
+        "short_name": "Maity A",
+        "identifiers": [],
+        "affiliations": [
+          "Bioinformatics Center, Department of Bioscience and Biotechnology, Indian Institute of Technology Kharagpur, Kharagpur-721302, India."
+        ]
+      },
+      {
+        "full_name": "Bahadur, Ranjit Prasad",
+        "short_name": "Bahadur RP",
+        "identifiers": [],
+        "affiliations": [
+          "Computational Structural Biology Laboratory, Department of Bioscience and Biotechnology, Indian Institute of Technology Kharagpur, Kharagpur-721302, India; Bioinformatics Center, Department of Bioscience and Biotechnology, Indian Institute of Technology Kharagpur, Kharagpur-721302, India. Electronic address: r.bahadur@bt.iitkgp.ac.in."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biophysical journal"
+    ],
+    "journal_abbrev": [
+      "Biophys J"
+    ],
+    "pub_date": "2026 Sep 26",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/27 05:44",
+    "fetched_at": "2026-10-04 07:45:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42800887",
+      "24449914",
+      "40360518",
+      "32581109",
+      "22105828",
+      "41381450",
+      "36726377",
+      "21976643",
+      "9889103",
+      "40313743",
+      "42427754",
+      "30916345",
+      "42495344",
+      "10471274",
+      "8909533",
+      "8896452",
+      "12808444",
+      "15866177",
+      "21326825",
+      "14561738",
+      "9427645",
+      "9889126",
+      "27028637",
+      "42533714",
+      "7782302",
+      "24823279",
+      "23878195",
+      "24446370",
+      "10366588",
+      "41685952",
+      "8755535",
+      "41789351",
+      "26519791",
+      "19549784",
+      "9351834",
+      "28374773",
+      "41867755",
+      "34056776",
+      "11517331",
+      "38732174",
+      "7891706",
+      "33723285",
+      "39684679",
+      "9045717",
+      "8986607",
+      "20171875",
+      "9878368",
+      "42734533",
+      "9405152",
+      "9857054",
+      "8799832",
+      "9368653",
+      "24339986",
+      "8655588",
+      "9889100",
+      "10449743",
+      "10995230",
+      "9533885",
+      "32234784",
+      "42041575",
+      "27219646",
+      "12370244",
+      "31639304",
+      "8655589",
+      "10092666",
+      "42130234",
+      "8885229",
+      "42475469",
+      "24563355",
+      "9398678",
+      "10506153",
+      "7593180",
+      "9214382",
+      "42376479",
+      "15864302",
+      "9843686",
+      "9739075",
+      "8657562",
+      "23541588",
+      "10679025",
+      "42477346",
+      "10353245",
+      "35312477",
+      "21625522",
+      "38712087",
+      "16157349",
+      "8600522",
+      "10779340",
+      "26598113",
+      "11509570",
+      "25331866",
+      "25152957",
+      "18175325",
+      "42050969",
+      "42273233",
+      "24350625",
+      "23649804",
+      "12034733",
+      "21553929",
+      "10567585"
+    ],
+    "review": [
+      "42800887",
+      "24823279",
+      "26519791",
+      "20171875",
+      "24563355"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0006-3495(26)00666-1",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-SNCG-3",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3936",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "identity": {
+    "pmid": "42808650",
+    "doi": "10.1111/febs.70751",
+    "title": "Toward a minimal amino acid alphabet for protein design."
+  },
+  "content": {
+    "abstract": "While proteins are built from 20 canonical amino acids, it is interesting to explore whether proteins can be formed from significantly reduced amino acid alphabets. Our bioinformatics survey of UniProt (more than 250 m sequences) revealed that proteins composed of reduced amino acid alphabets are extremely rare among existing proteins. Next, we used computational protein design to design proteins 100 amino acid residues in length composed of all 1013 possible alphabets of 2-10 early amino acids (Ala, Asp, Glu, Gly, Ile, Leu, Pro, Ser, Thr, and Val). Our findings show that small amino acid alphabets preferred simple helices or helix bundles, while larger amino acid alphabets allowed for the design of more complex structures. We verified a protein composed of 8 amino acid types (Ala, Asp, Gly, Leu, Val, Ser, Thr, and Pro) finding it adopts the beta-sheet-rich fibronectin type III domain architecture. However, attempts to experimentally verify designs composed of 6 and 4 amino acid types were unsuccessful. Furthermore, we show by computational experiment with experimental validation that inverse folding models, namely ProteinMPNN(sol), can stabilize a designed protein within the same eight-amino-acid alphabet. Ultimately, our results show that globular proteins may have formed early in evolution using a minimal amino acid alphabet and that it is possible to design such proteins with interesting properties for biotechnology and synthetic biology.",
+    "keywords": [
+      "amino acid alphabet",
+      "deep learning",
+      "early evolution",
+      "protein design",
+      "protein evolution"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Pubal, Karel",
+        "Kushnir, Kseniia",
+        "Spiwok, Vojtech",
+        "Louzecka, Karolina",
+        "Setnicka, Vladimir",
+        "Lipovova, Petra"
+      ],
+      "short_names": [
+        "Pubal K",
+        "Kushnir K",
+        "Spiwok V",
+        "Louzecka K",
+        "Setnicka V",
+        "Lipovova P"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-8108-2033"
+      ],
+      "affiliations": [
+        "Department of Biochemistry and Microbiology, University of Chemistry and Technology, Prague, Czech Republic.",
+        "Department of Biochemistry and Microbiology, University of Chemistry and Technology, Prague, Czech Republic.",
+        "Department of Biochemistry and Microbiology, University of Chemistry and Technology, Prague, Czech Republic.",
+        "Department of Biochemistry and Microbiology, University of Chemistry and Technology, Prague, Czech Republic.",
+        "Department of Analytical Chemistry, University of Chemistry and Technology, Prague, Czech Republic.",
+        "Department of Biochemistry and Microbiology, University of Chemistry and Technology, Prague, Czech Republic."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Půbal, Karel",
+        "short_name": "Půbal K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Microbiology, University of Chemistry and Technology, Prague, Czech Republic."
+        ]
+      },
+      {
+        "full_name": "Kushnir, Kseniia",
+        "short_name": "Kushnir K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Microbiology, University of Chemistry and Technology, Prague, Czech Republic."
+        ]
+      },
+      {
+        "full_name": "Spiwok, Vojtěch",
+        "short_name": "Spiwok V",
+        "identifiers": [
+          "0000-0001-8108-2033"
+        ],
+        "affiliations": [
+          "Department of Biochemistry and Microbiology, University of Chemistry and Technology, Prague, Czech Republic."
+        ]
+      },
+      {
+        "full_name": "Loužecká, Karolína",
+        "short_name": "Loužecká K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Microbiology, University of Chemistry and Technology, Prague, Czech Republic."
+        ]
+      },
+      {
+        "full_name": "Setnička, Vladimír",
+        "short_name": "Setnička V",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Analytical Chemistry, University of Chemistry and Technology, Prague, Czech Republic."
+        ]
+      },
+      {
+        "full_name": "Lipovová, Petra",
+        "short_name": "Lipovová P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Microbiology, University of Chemistry and Technology, Prague, Czech Republic."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The FEBS journal"
+    ],
+    "journal_abbrev": [
+      "FEBS J"
+    ],
+    "pub_date": "2026 Sep 29",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/29 12:28",
+    "fetched_at": "2026-10-04 07:45:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42808650",
+      "3929689",
+      "1150658",
+      "6986168",
+      "183954",
+      "573775",
+      "6793571",
+      "402366",
+      "3926756",
+      "2684977",
+      "6386798",
+      "6818222",
+      "3542995",
+      "6818221",
+      "220224",
+      "4086466",
+      "6418731",
+      "2775757",
+      "3235446",
+      "3667634",
+      "6615451",
+      "2866794",
+      "7225204",
+      "2458699",
+      "77677",
+      "710402",
+      "1985896",
+      "3926769",
+      "811255",
+      "2421762",
+      "6752140",
+      "3164311",
+      "6753921",
+      "2993259",
+      "1176441",
+      "670174",
+      "28844736",
+      "336510",
+      "2427112",
+      "6273394",
+      "2830254",
+      "7363905",
+      "1091637",
+      "19126227",
+      "40734278",
+      "6259172",
+      "10873472",
+      "6715353",
+      "862621",
+      "2830253",
+      "31362700",
+      "476518",
+      "6165997",
+      "2587425",
+      "7410430",
+      "6244261",
+      "23764391",
+      "7005226",
+      "30781926",
+      "2429957",
+      "16453469",
+      "42094372",
+      "903363",
+      "956151",
+      "25473967",
+      "11129582",
+      "36169766",
+      "903362",
+      "2573895",
+      "8307963",
+      "33537892",
+      "6445090",
+      "6249799",
+      "8996642",
+      "3294835",
+      "22857400",
+      "192223",
+      "2578459",
+      "7240164",
+      "10775656",
+      "1125205",
+      "25641420",
+      "42412802",
+      "6938967",
+      "7309375",
+      "3118371",
+      "4084324",
+      "7470457",
+      "9264026",
+      "9626705",
+      "972147",
+      "6712225",
+      "18642934",
+      "2742828",
+      "31226791",
+      "7380605",
+      "8917736",
+      "10876041",
+      "6264908",
+      "7651904"
+    ],
+    "review": [
+      "42808650"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1111/febs.70751",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

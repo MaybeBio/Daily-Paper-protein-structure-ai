@@ -1,0 +1,267 @@
+{
+  "identity": {
+    "pmid": "42814775",
+    "doi": "10.1371/journal.pcbi.1014344",
+    "title": "GeoEPred: A multimodal structure-aware geometric deep learning framework for Gram-negative bacterial secreted effector prediction with sequence semantics."
+  },
+  "content": {
+    "abstract": "Accurate prediction of effector proteins secreted by Gram-negative bacteria is important for elucidating bacterial pathogenic mechanisms and developing precise anti-infective strategies. Although existing methods have benefited from the strong sequence feature extraction capacity of pretrained protein language models, reliance on linear sequence information alone often fails to fully capture the three-dimensional conformational signals required for virulence functions. Meanwhile, conventional structure-based methods are limited by the scarcity of experimentally resolved protein structures. To address these challenges, we propose GeoEPred, a multimodal deep learning framework designed for the synergistic modeling of protein sequence and structure to identify Gram-negative bacterial effector proteins. Specifically, the model integrates sequence-contextual embeddings from a pretrained protein language model with three-dimensional structural representations predicted by ESMFold. A feature projection network refines fine-grained sequence signals associated with effector functions, while geometric vector perceptrons characterize inter-residue orientations, distances, and local spatial topology to capture potential structural conformational motifs. To further enable effective cross-modal fusion, we design a cross-modal alignment and feature-tokenized self-attention module. This module enhances consistency between the sequence-semantic and structural-geometric spaces through contrastive learning and models associations between linear functional motifs and spatial conformational patterns at a fine-grained token level. Extensive evaluations on multiple benchmark datasets show that GeoEPred achieves better predictive performance than existing leading models in T3SE, T4SE, and T6SE prediction tasks, while maintaining stable performance in remote homolog recognition scenarios. Moreover, the modular and extensible architecture of GeoEPred demonstrates strong generalization ability and substantial application potential for genome-scale effector protein discovery.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Song, Shouzhen",
+        "Shi, Hua",
+        "Wu, Hongfeng",
+        "Liu, Dachen",
+        "Lin, Yihang",
+        "Mat Isa, Nor Ashidi",
+        "Zou, Quan",
+        "Wei, Leyi"
+      ],
+      "short_names": [
+        "Song S",
+        "Shi H",
+        "Wu H",
+        "Liu D",
+        "Lin Y",
+        "Mat Isa NA",
+        "Zou Q",
+        "Wei L"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-8812-5737",
+        "ORCID: 0000-0002-2675-4914",
+        "ORCID: 0000-0001-6406-1142"
+      ],
+      "affiliations": [
+        "School of Opto-electronic and Communication Engineering, Xiamen University of Technology, Xiamen, Fujian, China.",
+        "School of Opto-electronic and Communication Engineering, Xiamen University of Technology, Xiamen, Fujian, China.",
+        "School of Electrical and Electronic Engineering, Engineering Campus, Universiti Sains Malaysia, Nibong Tebal, Pulau Pinang, Malaysia.",
+        "School of Opto-electronic and Communication Engineering, Xiamen University of Technology, Xiamen, Fujian, China.",
+        "School of Opto-electronic and Communication Engineering, Xiamen University of Technology, Xiamen, Fujian, China.",
+        "School of Electrical and Electronic Engineering, Engineering Campus, Universiti Sains Malaysia, Nibong Tebal, Pulau Pinang, Malaysia.",
+        "Yangtze Delta Region Institute (Quzhou), University of Electronic Science and Technology of China, Quzhou, Zhejiang, China.",
+        "Institute of Fundamental and Frontier Sciences, University of Electronic Science and Technology of China, Chengdu, Sichuan, China.",
+        "Faculty of Applied Sciences, Macao Polytechnic University, Macao, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Song, Shouzhen",
+        "short_name": "Song S",
+        "identifiers": [],
+        "affiliations": [
+          "School of Opto-electronic and Communication Engineering, Xiamen University of Technology, Xiamen, Fujian, China."
+        ]
+      },
+      {
+        "full_name": "Shi, Hua",
+        "short_name": "Shi H",
+        "identifiers": [
+          "0000-0001-8812-5737"
+        ],
+        "affiliations": [
+          "School of Opto-electronic and Communication Engineering, Xiamen University of Technology, Xiamen, Fujian, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Hongfeng",
+        "short_name": "Wu H",
+        "identifiers": [],
+        "affiliations": [
+          "School of Electrical and Electronic Engineering, Engineering Campus, Universiti Sains Malaysia, Nibong Tebal, Pulau Pinang, Malaysia."
+        ]
+      },
+      {
+        "full_name": "Liu, Dachen",
+        "short_name": "Liu D",
+        "identifiers": [],
+        "affiliations": [
+          "School of Opto-electronic and Communication Engineering, Xiamen University of Technology, Xiamen, Fujian, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Yihang",
+        "short_name": "Lin Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Opto-electronic and Communication Engineering, Xiamen University of Technology, Xiamen, Fujian, China."
+        ]
+      },
+      {
+        "full_name": "Mat Isa, Nor Ashidi",
+        "short_name": "Mat Isa NA",
+        "identifiers": [
+          "0000-0002-2675-4914"
+        ],
+        "affiliations": [
+          "School of Electrical and Electronic Engineering, Engineering Campus, Universiti Sains Malaysia, Nibong Tebal, Pulau Pinang, Malaysia."
+        ]
+      },
+      {
+        "full_name": "Zou, Quan",
+        "short_name": "Zou Q",
+        "identifiers": [
+          "0000-0001-6406-1142"
+        ],
+        "affiliations": [
+          "Yangtze Delta Region Institute (Quzhou), University of Electronic Science and Technology of China, Quzhou, Zhejiang, China.",
+          "Institute of Fundamental and Frontier Sciences, University of Electronic Science and Technology of China, Chengdu, Sichuan, China."
+        ]
+      },
+      {
+        "full_name": "Wei, Leyi",
+        "short_name": "Wei L",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Applied Sciences, Macao Polytechnic University, Macao, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "PLoS computational biology"
+    ],
+    "journal_abbrev": [
+      "PLoS Comput Biol"
+    ],
+    "pub_date": "2026 Sep 30",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/30 17:32",
+    "fetched_at": "2026-10-04 07:45:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42814775",
+      "42475469",
+      "41811851",
+      "41056347",
+      "40609014",
+      "42259113",
+      "41284811",
+      "42270798",
+      "42669106",
+      "40754881",
+      "42119874",
+      "42670852",
+      "42455078",
+      "42094693",
+      "42519855",
+      "42295121",
+      "40684093",
+      "41838499",
+      "41206932",
+      "41352986",
+      "42001823",
+      "41749211",
+      "42391908",
+      "41257600",
+      "41864877",
+      "42295634",
+      "41729823",
+      "42090538",
+      "38365583",
+      "39487084",
+      "42131843",
+      "41977286",
+      "39686073",
+      "42188715",
+      "37886621",
+      "42670841",
+      "42123473",
+      "42492100",
+      "42709528",
+      "42767986",
+      "41947423",
+      "41023600",
+      "40569190",
+      "40279085",
+      "42335477",
+      "40883823",
+      "42248581",
+      "41606134",
+      "41653519",
+      "42599984",
+      "41385420",
+      "41310253",
+      "42289035",
+      "41364795",
+      "41830611",
+      "41648466",
+      "42098353",
+      "41516557",
+      "42243656",
+      "41902287",
+      "42488347",
+      "40727355",
+      "41629789",
+      "42634172",
+      "42280919",
+      "42772210",
+      "42508236",
+      "42083067",
+      "42223026",
+      "38940179",
+      "42286075",
+      "42785268",
+      "41691980",
+      "41399733",
+      "41971950",
+      "42605055",
+      "42154341",
+      "40483648",
+      "42336024",
+      "42447831",
+      "42587290",
+      "42574500",
+      "41576554",
+      "42450193",
+      "41950652",
+      "41495146",
+      "42115361",
+      "41691979",
+      "42157243",
+      "40646507",
+      "40116656",
+      "42603353",
+      "42641629",
+      "42632244",
+      "42323037",
+      "40807867",
+      "42478599",
+      "40363167",
+      "42019213",
+      "40741075"
+    ],
+    "review": [
+      "42814775",
+      "42094693"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://dx.plos.org/10.1371/journal.pcbi.1014344",
+        "provider": "Public Library of Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

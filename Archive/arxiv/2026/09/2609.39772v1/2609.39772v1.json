@@ -1,0 +1,32 @@
+{
+  "source": "arxiv",
+  "source_id": "2609.39772v1",
+  "title": "Curvature-induced migration of small domains on lipid membranes",
+  "doi": "",
+  "abstract": "Membrane curvature has been shown to bias the location of lipid or protein domains, but the roles of bending rigidity, spontaneous curvature, Gaussian bending modulus, and line tension are difficult to separate in general. We develop a small-domain description for a membrane whose shape is held fixed, e.g. by strong adhesion to a curved substrate. Combining a local Helfrich energy with the small-area isoperimetric expansion gives a position-dependent energy determined by the local mean and Gaussian curvatures. We identify four generic regimes of curvature preference whose boundaries depend on only two dimensionless parameters. On specific membrane shapes with complex curvature, we show that this curvature preference determines the energy landscapes experienced by small domains, which are strongly dependent on the size of the domain through the line tension contribution. For example, on an oblate-shaped membrane, very small domains tend to localize at the poles, whereas larger domains prefer to localize at the equator. Whether this transition is continuous or discontinuous is found to strongly depend on the spontaneous curvature of the domain. This ordering suggests a mechanism by which small domains can collect and coalesce at one location before relocating as they grow.",
+  "authors": [
+    "Jaime Agudo-Canalejo"
+  ],
+  "published_date": "2026-09-30T13:59:49Z",
+  "updated_date": "2026-09-30T13:59:49Z",
+  "journal": "",
+  "category": "cond-mat.soft, physics.bio-ph",
+  "landing_url": "https://arxiv.org/abs/2609.39772v1",
+  "pdf_url": "https://arxiv.org/pdf/2609.39772v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cond-mat.soft",
+    "physics.bio-ph"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2609.39772v1",
+    "raw_categories": [
+      "cond-mat.soft",
+      "physics.bio-ph"
+    ],
+    "journal_ref": ""
+  }
+}

@@ -1,0 +1,472 @@
+{
+  "identity": {
+    "pmid": "42816606",
+    "doi": "10.1038/s41586-026-10965-y",
+    "title": "Function-preserving watermarking of AI-generated proteins."
+  },
+  "content": {
+    "abstract": "Generative artificial intelligence (AI) models are revolutionizing biology, with tools such as AlphaFold 3 and protein design models accelerating breakthroughs in protein structure prediction and the creation of new functional proteins(1). Tracking and establishing the provenance of AI-generated protein sequences and structures is becoming increasingly important to tackle a range of emerging challenges, including biosecurity and concerns about information veracity(2-4). Here we introduce SynthIDBio, a family of methods for watermarking protein sequences and structures to establish the provenance of those generated with AI. SynthIDBio-sequence actively embeds a watermark into protein sequences while preserving function. We demonstrate this by creating watermarked, functional designed protein binders with binding affinity comparable with non-watermarked counterparts and near-perfect watermark detection accuracy. Furthermore, SynthIDBio-structure, a fine-tuned AlphaFold3 model, embeds an imperceptible watermark into biomolecular structures. Our work is a proof-of-concept that function-preserving biological watermarking is feasible, introducing a potential tool for provenance in the rapidly expanding era of AI-driven biological engineering.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Stutz, David",
+        "Cowen-Rivers, Alexander I",
+        "Ortiz-Jimenez, Guillermo",
+        "Ratcliff, Jeremy",
+        "Zambaldi, Vinicius",
+        "Willmore, Lindsay",
+        "Abramson, Josh",
+        "Patani, Harshnira",
+        "Kouridi, Christina",
+        "Stimberg, Florian",
+        "Vecerik, Mel",
+        "Chu, Alex",
+        "Singh, Sukhdeep",
+        "Dathathri, Sumanth",
+        "Papa, Eliseo",
+        "De Bortoli, Valentin",
+        "Doucet, Arnaud",
+        "Hassabis, Demis",
+        "Wang, Jue",
+        "Gowal, Sven",
+        "Kohli, Pushmeet"
+      ],
+      "short_names": [
+        "Stutz D",
+        "Cowen-Rivers AI",
+        "Ortiz-Jimenez G",
+        "Ratcliff J",
+        "Zambaldi V",
+        "Willmore L",
+        "Abramson J",
+        "Patani H",
+        "Kouridi C",
+        "Stimberg F",
+        "Vecerik M",
+        "Chu A",
+        "Singh S",
+        "Dathathri S",
+        "Papa E",
+        "De Bortoli V",
+        "Doucet A",
+        "Hassabis D",
+        "Wang J",
+        "Gowal S",
+        "Kohli P"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6286-1805",
+        "ORCID: 0000-0001-6522-138X",
+        "ORCID: 0000-0003-4314-0778",
+        "ORCID: 0009-0000-3496-6952",
+        "ORCID: 0009-0007-8709-5709",
+        "ORCID: 0009-0007-4937-9903",
+        "ORCID: 0000-0003-2812-9917",
+        "ORCID: 0000-0002-7466-7997"
+      ],
+      "affiliations": [
+        "Google DeepMind, London, UK. dstutz@google.com.",
+        "Google DeepMind, London, UK.",
+        "Google DeepMind, London, UK.",
+        "Google DeepMind, London, UK.",
+        "Google DeepMind, London, UK.",
+        "Google DeepMind, London, UK.",
+        "Google DeepMind, London, UK.",
+        "Google DeepMind, London, UK.",
+        "Google DeepMind, London, UK.",
+        "Google DeepMind, London, UK.",
+        "Google DeepMind, London, UK.",
+        "Google DeepMind, London, UK.",
+        "Google DeepMind, London, UK.",
+        "Google DeepMind, London, UK.",
+        "Google DeepMind, London, UK.",
+        "Google DeepMind, London, UK.",
+        "Google DeepMind, London, UK.",
+        "Google DeepMind, London, UK.",
+        "Google DeepMind, London, UK.",
+        "Google DeepMind, London, UK.",
+        "Google DeepMind, London, UK. pushmeet@google.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Stutz, David",
+        "short_name": "Stutz D",
+        "identifiers": [
+          "0000-0002-6286-1805"
+        ],
+        "affiliations": [
+          "Google DeepMind, London, UK. dstutz@google.com."
+        ]
+      },
+      {
+        "full_name": "Cowen-Rivers, Alexander I",
+        "short_name": "Cowen-Rivers AI",
+        "identifiers": [],
+        "affiliations": [
+          "Google DeepMind, London, UK."
+        ]
+      },
+      {
+        "full_name": "Ortiz-Jimenez, Guillermo",
+        "short_name": "Ortiz-Jimenez G",
+        "identifiers": [],
+        "affiliations": [
+          "Google DeepMind, London, UK."
+        ]
+      },
+      {
+        "full_name": "Ratcliff, Jeremy",
+        "short_name": "Ratcliff J",
+        "identifiers": [
+          "0000-0001-6522-138X"
+        ],
+        "affiliations": [
+          "Google DeepMind, London, UK."
+        ]
+      },
+      {
+        "full_name": "Zambaldi, Vinicius",
+        "short_name": "Zambaldi V",
+        "identifiers": [],
+        "affiliations": [
+          "Google DeepMind, London, UK."
+        ]
+      },
+      {
+        "full_name": "Willmore, Lindsay",
+        "short_name": "Willmore L",
+        "identifiers": [
+          "0000-0003-4314-0778"
+        ],
+        "affiliations": [
+          "Google DeepMind, London, UK."
+        ]
+      },
+      {
+        "full_name": "Abramson, Josh",
+        "short_name": "Abramson J",
+        "identifiers": [
+          "0009-0000-3496-6952"
+        ],
+        "affiliations": [
+          "Google DeepMind, London, UK."
+        ]
+      },
+      {
+        "full_name": "Patani, Harshnira",
+        "short_name": "Patani H",
+        "identifiers": [],
+        "affiliations": [
+          "Google DeepMind, London, UK."
+        ]
+      },
+      {
+        "full_name": "Kouridi, Christina",
+        "short_name": "Kouridi C",
+        "identifiers": [
+          "0009-0007-8709-5709"
+        ],
+        "affiliations": [
+          "Google DeepMind, London, UK."
+        ]
+      },
+      {
+        "full_name": "Stimberg, Florian",
+        "short_name": "Stimberg F",
+        "identifiers": [],
+        "affiliations": [
+          "Google DeepMind, London, UK."
+        ]
+      },
+      {
+        "full_name": "Vecerik, Mel",
+        "short_name": "Vecerik M",
+        "identifiers": [],
+        "affiliations": [
+          "Google DeepMind, London, UK."
+        ]
+      },
+      {
+        "full_name": "Chu, Alex",
+        "short_name": "Chu A",
+        "identifiers": [],
+        "affiliations": [
+          "Google DeepMind, London, UK."
+        ]
+      },
+      {
+        "full_name": "Singh, Sukhdeep",
+        "short_name": "Singh S",
+        "identifiers": [],
+        "affiliations": [
+          "Google DeepMind, London, UK."
+        ]
+      },
+      {
+        "full_name": "Dathathri, Sumanth",
+        "short_name": "Dathathri S",
+        "identifiers": [
+          "0009-0007-4937-9903"
+        ],
+        "affiliations": [
+          "Google DeepMind, London, UK."
+        ]
+      },
+      {
+        "full_name": "Papa, Eliseo",
+        "short_name": "Papa E",
+        "identifiers": [],
+        "affiliations": [
+          "Google DeepMind, London, UK."
+        ]
+      },
+      {
+        "full_name": "De Bortoli, Valentin",
+        "short_name": "De Bortoli V",
+        "identifiers": [],
+        "affiliations": [
+          "Google DeepMind, London, UK."
+        ]
+      },
+      {
+        "full_name": "Doucet, Arnaud",
+        "short_name": "Doucet A",
+        "identifiers": [],
+        "affiliations": [
+          "Google DeepMind, London, UK."
+        ]
+      },
+      {
+        "full_name": "Hassabis, Demis",
+        "short_name": "Hassabis D",
+        "identifiers": [
+          "0000-0003-2812-9917"
+        ],
+        "affiliations": [
+          "Google DeepMind, London, UK."
+        ]
+      },
+      {
+        "full_name": "Wang, Jue",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "Google DeepMind, London, UK."
+        ]
+      },
+      {
+        "full_name": "Gowal, Sven",
+        "short_name": "Gowal S",
+        "identifiers": [],
+        "affiliations": [
+          "Google DeepMind, London, UK."
+        ]
+      },
+      {
+        "full_name": "Kohli, Pushmeet",
+        "short_name": "Kohli P",
+        "identifiers": [
+          "0000-0002-7466-7997"
+        ],
+        "affiliations": [
+          "Google DeepMind, London, UK. pushmeet@google.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature"
+    ],
+    "journal_abbrev": [
+      "Nature"
+    ],
+    "pub_date": "2026 Sep 30",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/01 05:31",
+    "fetched_at": "2026-10-04 07:45:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42816606",
+      "39554012",
+      "41994287",
+      "42732748",
+      "42310771",
+      "41579817",
+      "42776794",
+      "41675592",
+      "23912807",
+      "42475469",
+      "40973394",
+      "41154856",
+      "41037625",
+      "41683791",
+      "42400844",
+      "40455159",
+      "41839238",
+      "42763122",
+      "41713401",
+      "39568891",
+      "40897171",
+      "41986008",
+      "41851984",
+      "40645892",
+      "38905025",
+      "40870256",
+      "42231905",
+      "37367465",
+      "40315154",
+      "41346856",
+      "39766238",
+      "39444187",
+      "41007412",
+      "41209584",
+      "39985945",
+      "42022779",
+      "41878008",
+      "42655921",
+      "39672676",
+      "39125995",
+      "42080590",
+      "41843138",
+      "39819459",
+      "42467514",
+      "40332289",
+      "42616438",
+      "40553329",
+      "40919100",
+      "29728239",
+      "38177398",
+      "42364829",
+      "39425804",
+      "41420940",
+      "40166291",
+      "40320551",
+      "37440398",
+      "41758998",
+      "41685150",
+      "38540759",
+      "41959328",
+      "42447289",
+      "42410671",
+      "40240260",
+      "42106495",
+      "40233800",
+      "41515342",
+      "41889171",
+      "40398752",
+      "42211230",
+      "32413257",
+      "41652159",
+      "41627746",
+      "39876941",
+      "40301283",
+      "39407556",
+      "42391906",
+      "39936575",
+      "17280954",
+      "42101103",
+      "42523792",
+      "39131181",
+      "41413203",
+      "42196328",
+      "40549238",
+      "37933859",
+      "40524056",
+      "39980285",
+      "42734525",
+      "41303412",
+      "42509551",
+      "37256685",
+      "41270264",
+      "42160034",
+      "39591473",
+      "42344850",
+      "40553333",
+      "41535686",
+      "42511621",
+      "41901326",
+      "41410516"
+    ],
+    "review": [
+      "42816606",
+      "41994287",
+      "42310771",
+      "41579817",
+      "42776794",
+      "40973394",
+      "41154856",
+      "42400844",
+      "41839238",
+      "42763122",
+      "41713401",
+      "40897171",
+      "41986008",
+      "41851984",
+      "42231905",
+      "39766238",
+      "39444187",
+      "41007412",
+      "41209584",
+      "39985945",
+      "41878008",
+      "39125995",
+      "41843138",
+      "39819459",
+      "40332289",
+      "42616438",
+      "40553329",
+      "38177398",
+      "42364829",
+      "41685150",
+      "38540759",
+      "40240260",
+      "40233800",
+      "41515342",
+      "41889171",
+      "40398752",
+      "42211230",
+      "41652159",
+      "39407556",
+      "42391906",
+      "39936575",
+      "42101103",
+      "42523792",
+      "42196328",
+      "40549238",
+      "40524056",
+      "42734525",
+      "41303412",
+      "40553333",
+      "41901326",
+      "41410516"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41586-026-10965-y",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

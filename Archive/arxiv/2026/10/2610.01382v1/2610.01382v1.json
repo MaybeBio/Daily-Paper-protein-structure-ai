@@ -1,0 +1,37 @@
+{
+  "source": "arxiv",
+  "source_id": "2610.01382v1",
+  "title": "Gacha Decoding: Eliciting Diverse Generations Through Instruction Following",
+  "doi": "",
+  "abstract": "We introduce Gacha Decoding, an inference-time method for eliciting diverse language model generations that scales with model capability. Across open-ended domains (in-the-wild chat, creative writing, planning for image generation, and protein design), Gacha Decoding significantly outperforms existing generation diversity approaches at equal quality (up to 2.4x Vendi over the next-best prior approach), reaching the same number of high-quality modes with over an order of magnitude fewer samples (11.0x) and discovering novel modes that no other approach surfaces. Our key insight is to treat diversity as an instruction-following problem: rather than relying on the LM's token entropy, we combine its instruction-following capability with randomness from an external RNG tool to scalably identify and realize distinct modes of the response space. This approach of \"planning with dice\" enables Gacha to invert the long-observed tension between diversity and model capability. As the underlying LM becomes a better instruction follower, diversity under Gacha Decoding consistently improves--even as its token entropy and diversity under prior approaches decline. Together, our results highlight that instruction following, rather than token entropy alone, can drive generation diversity.",
+  "authors": [
+    "Scott Geng",
+    "Yufei Zhang",
+    "Joseph Lee",
+    "Jerry Li",
+    "Marjan Ghazvininejad",
+    "Pang Wei Koh"
+  ],
+  "published_date": "2026-10-01T09:48:48Z",
+  "updated_date": "2026-10-01T09:48:48Z",
+  "journal": "",
+  "category": "cs.AI, cs.CL",
+  "landing_url": "https://arxiv.org/abs/2610.01382v1",
+  "pdf_url": "https://arxiv.org/pdf/2610.01382v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cs.AI",
+    "cs.CL"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2610.01382v1",
+    "raw_categories": [
+      "cs.AI",
+      "cs.CL"
+    ],
+    "journal_ref": ""
+  }
+}

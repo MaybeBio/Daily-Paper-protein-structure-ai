@@ -1,0 +1,230 @@
+{
+  "identity": {
+    "pmid": "42820154",
+    "doi": "",
+    "title": "GenUnfold: Rapidly Predict Protein Mechanical Unfolding Trajectory via a Physics-Guided Diffusion Model."
+  },
+  "content": {
+    "abstract": "Many fundamental biological processes are governed by mechanical forces, with proteins acting as the key molecular mediators. Elucidating how protein unfolding responds to force is critical for understanding the mechano-pathologies, such as cardiomyopathy and muscular dystrophy. While the unfolding trajectories measured by Single-Molecule Force Spectroscopy (SMFS) map the instantaneous force response against molecular extension, its broader application is limited by time-consuming data collection and high operational costs. Here, we present the first scalable generative diffusion framework for full unfolding trajectory prediction, which integrates protein encoders for multi-scale conditioning. Beyond establishing the field's first systematic benchmark using existing models, we propose GenUnfold, a novel physics-guided diffusion model that combines global coevolutionary context with a local mechanical representation of the protein. The representation is derived from a novel physics-biased attention mechanism, which steers the generative diffusion process by modeling dynamic residue dependencies as a function of both structural topology and interaction stiffness. The benchmark for this task is built upon the biomolecule stretching database and several representative baseline models. Empirical results demonstrate that GenUnfold achieves state-of-the-art performance, reducing distributional error (FID) by 30% and 54% compared to pretrained Evolutionary Scale Model (ESM)-2 and standard transformer, respectively. Beyond statistical curve similarity, GenUnfold demonstrates superior physical consistency; in downstream mechanical property prediction, it reduces prediction errors for unfolding force and energy distributions by 6% and 36% over the ESM-2 baseline. These results indicate that while existing generative AI approaches can alleviate the need for predicting representative force curves, GenUnfold further improves performance by leveraging the synergy between protein structure and evolutionary information. By enabling proteome-wide screening to identify mechanical candidates before costly physical validation, our approach is promising to accelerate the discovery of force-targeted therapeutics.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Yiyuan",
+        "Hua, Cailong",
+        "Singh, Vinitendra",
+        "Muretta, Joseph M",
+        "Ervasti, James M",
+        "Salapaka, Murti V"
+      ],
+      "short_names": [
+        "Zhang Y",
+        "Hua C",
+        "Singh V",
+        "Muretta JM",
+        "Ervasti JM",
+        "Salapaka MV"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Mechanical Engineering, University of Minnesota, Minneapolis, MN 55455, USA.",
+        "Department of Electrical and Computer Engineering, University of Minnesota, Minneapolis, MN 55455, USA.",
+        "Department of Electrical and Computer Engineering, University of Minnesota, Minneapolis, MN 55455, USA.",
+        "Department of Biochemistry, Molecular Biology and Biophysics, University of Minnesota, Minneapolis, MN 55455, USA.",
+        "Department of Biochemistry, Molecular Biology and Biophysics, University of Minnesota, Minneapolis, MN 55455, USA.",
+        "Department of Electrical and Computer Engineering, University of Minnesota, Minneapolis, MN 55455, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Yiyuan",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Mechanical Engineering, University of Minnesota, Minneapolis, MN 55455, USA."
+        ]
+      },
+      {
+        "full_name": "Hua, Cailong",
+        "short_name": "Hua C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Electrical and Computer Engineering, University of Minnesota, Minneapolis, MN 55455, USA."
+        ]
+      },
+      {
+        "full_name": "Singh, Vinitendra",
+        "short_name": "Singh V",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Electrical and Computer Engineering, University of Minnesota, Minneapolis, MN 55455, USA."
+        ]
+      },
+      {
+        "full_name": "Muretta, Joseph M",
+        "short_name": "Muretta JM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, Molecular Biology and Biophysics, University of Minnesota, Minneapolis, MN 55455, USA."
+        ]
+      },
+      {
+        "full_name": "Ervasti, James M",
+        "short_name": "Ervasti JM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, Molecular Biology and Biophysics, University of Minnesota, Minneapolis, MN 55455, USA."
+        ]
+      },
+      {
+        "full_name": "Salapaka, Murti V",
+        "short_name": "Salapaka MV",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Electrical and Computer Engineering, University of Minnesota, Minneapolis, MN 55455, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Proceedings of machine learning research"
+    ],
+    "journal_abbrev": [
+      "Proc Mach Learn Res"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/01 23:30",
+    "fetched_at": "2026-10-04 07:45:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42820154",
+      "42475469",
+      "23912807",
+      "42614780",
+      "41977286",
+      "42069689",
+      "41310253",
+      "41436386",
+      "37904735",
+      "41677811",
+      "38324676",
+      "42628175",
+      "41441912",
+      "39881398",
+      "35593869",
+      "16008495",
+      "40027759",
+      "42521422",
+      "42133173",
+      "36321557",
+      "42733795",
+      "16361331",
+      "41285097",
+      "22947942",
+      "20365199",
+      "41105005",
+      "17237097",
+      "41844874",
+      "35502131",
+      "41750265",
+      "42335477",
+      "42046069",
+      "42526193",
+      "42618906",
+      "42412784",
+      "42253229",
+      "42184115",
+      "42336024",
+      "42348910",
+      "28026101",
+      "34020035",
+      "42048356",
+      "41031876",
+      "42001823",
+      "26269925",
+      "40465350",
+      "20004685",
+      "41540516",
+      "27898663",
+      "26938931",
+      "41902287",
+      "42119874",
+      "41257586",
+      "41750280",
+      "42083067",
+      "28846268",
+      "18251532",
+      "40569190",
+      "10465743",
+      "34303013",
+      "41950652",
+      "40893250",
+      "42308045",
+      "18375518",
+      "32761965",
+      "42648458",
+      "41614412",
+      "40288256",
+      "41989903",
+      "42669106",
+      "17259284",
+      "30122292",
+      "27259540",
+      "15361414",
+      "42560912",
+      "41094395",
+      "42531108",
+      "27309041",
+      "38547658",
+      "40883823",
+      "28629863",
+      "22626004",
+      "40119464",
+      "42024942",
+      "16817984",
+      "41547300",
+      "41840728",
+      "39605426",
+      "42074175",
+      "10339559",
+      "41605176",
+      "41998275",
+      "41913214",
+      "39497201",
+      "42670852",
+      "34326473",
+      "39487800",
+      "41993534",
+      "33090021",
+      "41284811"
+    ],
+    "review": [
+      "42820154",
+      "36321557",
+      "26269925",
+      "32761965",
+      "27309041"
+    ],
+    "pmc": [
+      "13626394"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

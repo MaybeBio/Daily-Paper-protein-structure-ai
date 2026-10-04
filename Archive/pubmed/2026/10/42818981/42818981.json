@@ -1,0 +1,197 @@
+{
+  "identity": {
+    "pmid": "42818981",
+    "doi": "",
+    "title": "Protein eXplosion Imaging (PXI): Protein Structures from Laser-Driven Explosions."
+  },
+  "content": {
+    "abstract": "We investigate the structural information retained in the distribution of explosion ion trajectories from proteins subjected to strong ionization. Using molecular-dynamics simulations and machine-learning analysis benchmarked against an analytical approach, we show that low-resolution structural information can be retrieved from the explosion distributions alone. An ensemble of convolutional neural networks trained on simulated spherical ion maps recovers the radius of gyration and the three semi-axes of an ellipsoidal molecular envelope with prediction errors of 1.2 A and 1.5 A, respectively, while an analytical ellipsoid charge model returns similar estimates and performs best for globular structures. We further investigate how higher-level structural information and symmetries can be extrapolated from ion measurements. This study supports the viability for structural determination of single proteins without large-scale X-ray facilities.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Bellisario, Alfredo",
+        "Andre, Tomas",
+        "Caleman, Carl",
+        "Timneanu, Nicusor"
+      ],
+      "short_names": [
+        "Bellisario A",
+        "Andre T",
+        "Caleman C",
+        "Timneanu N"
+      ],
+      "auids": [],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Bellisario, Alfredo",
+        "short_name": "Bellisario A",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "André, Tomas",
+        "short_name": "André T",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Caleman, Carl",
+        "short_name": "Caleman C",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Tîmneanu, Nicuşor",
+        "short_name": "Tîmneanu N",
+        "identifiers": [],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ArXiv"
+    ],
+    "journal_abbrev": [
+      "ArXiv"
+    ],
+    "pub_date": "2026 Sep 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/01 17:29",
+    "fetched_at": "2026-10-04 07:45:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42818981",
+      "42683844",
+      "15291612",
+      "41805443",
+      "39544090",
+      "41310253",
+      "26267186",
+      "29488514",
+      "42567082",
+      "38579208",
+      "31407346",
+      "41171086",
+      "34880321",
+      "31161198",
+      "41131136",
+      "33920078",
+      "23912807",
+      "42461940",
+      "30917528",
+      "15511153",
+      "39223474",
+      "3783699",
+      "36102783",
+      "35132244",
+      "40215549",
+      "41771893",
+      "39349594",
+      "42412831",
+      "35073092",
+      "38291973",
+      "40602636",
+      "36925620",
+      "40660962",
+      "19224393",
+      "35705565",
+      "28530728",
+      "28793210",
+      "34101848",
+      "41040270",
+      "34668601",
+      "39273672",
+      "38407924",
+      "39460167",
+      "26844322",
+      "12596268",
+      "38956032",
+      "35147438",
+      "36950019",
+      "30874723",
+      "35679397",
+      "19183478",
+      "22848404",
+      "32477040",
+      "24969734",
+      "34904892",
+      "30617833",
+      "8513752",
+      "41383018",
+      "35521679",
+      "10373009",
+      "40887786",
+      "28709377",
+      "22314705",
+      "35246878",
+      "35279211",
+      "36576775",
+      "42133173",
+      "30535134",
+      "36681903",
+      "33291927",
+      "35891793",
+      "39223040",
+      "41946884",
+      "29404850",
+      "33506675",
+      "20804770",
+      "35910765",
+      "31245384",
+      "42196370",
+      "42310022",
+      "36929883",
+      "42172947",
+      "38677012",
+      "26465501",
+      "35430973",
+      "42010123",
+      "31073392",
+      "40662709",
+      "40848321",
+      "21972841",
+      "22224407",
+      "41410453",
+      "8811732",
+      "36930921",
+      "37693419",
+      "29604117",
+      "42475469",
+      "18700043",
+      "33182567",
+      "32220130"
+    ],
+    "review": [
+      "42818981",
+      "39273672",
+      "26844322",
+      "30617833",
+      "31073392"
+    ],
+    "pmc": [
+      "13622866"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

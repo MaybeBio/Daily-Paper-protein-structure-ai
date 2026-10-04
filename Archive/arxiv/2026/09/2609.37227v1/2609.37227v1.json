@@ -1,0 +1,35 @@
+{
+  "source": "arxiv",
+  "source_id": "2609.37227v1",
+  "title": "Interacting particle guidance for sampling reward-tilted generative priors",
+  "doi": "",
+  "abstract": "Inference-time steering adapts pretrained diffusion and flow-based models to new tasks, e.g., to generate samples from a conditional distribution or samples with desired properties, without retraining. This can be formalized as sampling from a reward-tilted generative prior. As exact sampling from this distribution is intractable, guidance-based methods rely on approximations producing biased samples, and sequential Monte Carlo (SMC) methods correct for this bias using importance weights. However, while exact in the large particle limit, SMC suffers from weight degeneracy and particle collapse in practice. We propose interacting particle guidance (IPG), which replaces reweighting with transport. The particles interact through an additional drift, derived from the Feynman--Kac PDE to cancel the reweighting term, and remain unweighted. Choosing the drift in a reproducing kernel Hilbert space yields a closed-form solution that is cheap to compute, with negligible overhead compared to SMC. We demonstrate the method on Gaussian mixtures with known posteriors, and on high-dimensional image inpainting and protein structure inference tasks.",
+  "authors": [
+    "Adhithyan Kalaivanan",
+    "Zheng Zhao",
+    "Jens Sjölund",
+    "Fredrik Lindsten"
+  ],
+  "published_date": "2026-09-29T10:40:37Z",
+  "updated_date": "2026-09-29T10:40:37Z",
+  "journal": "",
+  "category": "cs.LG, stat.ML",
+  "landing_url": "https://arxiv.org/abs/2609.37227v1",
+  "pdf_url": "https://arxiv.org/pdf/2609.37227v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cs.LG",
+    "stat.ML"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2609.37227v1",
+    "raw_categories": [
+      "cs.LG",
+      "stat.ML"
+    ],
+    "journal_ref": ""
+  }
+}

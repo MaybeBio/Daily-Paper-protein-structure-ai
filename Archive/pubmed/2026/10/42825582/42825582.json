@@ -1,0 +1,214 @@
+{
+  "identity": {
+    "pmid": "42825582",
+    "doi": "10.1039/d6cp01691j",
+    "title": "Assessing sequence reversal effects on coiled-coil stability using AI-based structure prediction and enhanced sampling atomistic simulations."
+  },
+  "content": {
+    "abstract": "This study investigates the impact of sequence inversion on the structural integrity and thermodynamic stability of the wtRop protein, a prototypical coiled-coil motif. We utilized AI-driven structure prediction (ColabFold) to generate initial models for the unknown rRop sequence, which yielded both parallel and antiparallel monomeric orientations. These models were subjected to classical molecular dynamics simulations and well-tempered metadynamics. The combination of atomistic simulations and enhanced sampling techniques allowed for the calculation of the free energy surface across four collective variables: (i) angle between the monomers, (ii) distance between the monomer's center of mass, (iii) helicity and (iv) torsion angle similarity, characterizing the energetic barriers and conformational transitions of the parallel rRop, the antiparallel rRop, and the parent wtRop systems. Free energy analysis reveals that both rRop models deviate from the native antiparallel orientation to stabilize at an intermediate angle. Notably, the antiparallel variant exhibits the most significant instability, characterized by increased monomer separation and a more pronounced loss of secondary structure relative to the wild-type and the parallel model. While both reversed sequences show a reduction in alpha-helicity compared to wtRop, the antiparallel model demonstrates a more pronounced loss of structural integrity, characterized by a disrupted hydrogen bond network, increased solvent-accessible surface area, and the failure to maintain a robust hydrophobic core. Free energy calculations further confirmed that the parallel variant shares greater conformational similarity with the parent protein.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Arnittali, Maria",
+        "Markopoulou, Elena",
+        "Harmandaris, Vagelis",
+        "Rissanou, Anastassia N"
+      ],
+      "short_names": [
+        "Arnittali M",
+        "Markopoulou E",
+        "Harmandaris V",
+        "Rissanou AN"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-9613-7639",
+        "ORCID: 0000-0003-1393-7639"
+      ],
+      "affiliations": [
+        "Department of Computer Science School of Sciences and Engineering, University of Nicosia, 46 Makedonitissas Avenue, 2417, Nicosia, Cyprus.",
+        "Department of Materials Science and Engineering, University of Crete, GR-71409 Heraklion, Crete, Greece.",
+        "Department of Mathematics and Applied Mathematics, University of Crete, GR-71409, Heraklion, Crete, Greece.",
+        "Institute of Applied and Computational Mathematics, Foundation for Research and Technology Hellas, IACM/FORTH, GR-71110 Heraklion, Crete, Greece.",
+        "Computation-Based Science and Technology Research Center, The Cyprus Institute, Nicosia, Cyprus.",
+        "Institute of Theoretical and Physical Chemistry, National Hellenic Research Foundation, 48 Vassileos Konstantinou Ave, Athens 11635, Greece. trissanou@eie.gr."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Arnittali, Maria",
+        "short_name": "Arnittali M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Computer Science School of Sciences and Engineering, University of Nicosia, 46 Makedonitissas Avenue, 2417, Nicosia, Cyprus."
+        ]
+      },
+      {
+        "full_name": "Markopoulou, Elena",
+        "short_name": "Markopoulou E",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Materials Science and Engineering, University of Crete, GR-71409 Heraklion, Crete, Greece."
+        ]
+      },
+      {
+        "full_name": "Harmandaris, Vagelis",
+        "short_name": "Harmandaris V",
+        "identifiers": [
+          "0000-0002-9613-7639"
+        ],
+        "affiliations": [
+          "Department of Mathematics and Applied Mathematics, University of Crete, GR-71409, Heraklion, Crete, Greece.",
+          "Institute of Applied and Computational Mathematics, Foundation for Research and Technology Hellas, IACM/FORTH, GR-71110 Heraklion, Crete, Greece.",
+          "Computation-Based Science and Technology Research Center, The Cyprus Institute, Nicosia, Cyprus."
+        ]
+      },
+      {
+        "full_name": "Rissanou, Anastassia N",
+        "short_name": "Rissanou AN",
+        "identifiers": [
+          "0000-0003-1393-7639"
+        ],
+        "affiliations": [
+          "Institute of Theoretical and Physical Chemistry, National Hellenic Research Foundation, 48 Vassileos Konstantinou Ave, Athens 11635, Greece. trissanou@eie.gr."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Physical chemistry chemical physics : PCCP"
+    ],
+    "journal_abbrev": [
+      "Phys Chem Chem Phys"
+    ],
+    "pub_date": "2026 Oct 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/02 13:37",
+    "fetched_at": "2026-10-04 07:45:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42825582",
+      "37671833",
+      "18704948",
+      "34073028",
+      "25753192",
+      "8117695",
+      "25028889",
+      "42475469",
+      "18076193",
+      "16584182",
+      "18506779",
+      "8366074",
+      "14690427",
+      "10508969",
+      "16042394",
+      "30904175",
+      "17140192",
+      "23607785",
+      "30042011",
+      "8142389",
+      "8457578",
+      "38236500",
+      "28445749",
+      "21500781",
+      "40227224",
+      "25402423",
+      "9730833",
+      "16331985",
+      "42376479",
+      "27276269",
+      "21858887",
+      "37937823",
+      "26919523",
+      "41789351",
+      "12021450",
+      "18052214",
+      "20816057",
+      "10052610",
+      "22296518",
+      "11800563",
+      "23691037",
+      "8003969",
+      "23975166",
+      "11178912",
+      "10873472",
+      "28345907",
+      "15959866",
+      "17177361",
+      "12064940",
+      "42657169",
+      "35386098",
+      "23912807",
+      "15530030",
+      "8764403",
+      "8626731",
+      "21638022",
+      "14517967",
+      "12441105",
+      "29186229",
+      "26940672",
+      "12824486",
+      "20027625",
+      "33639214",
+      "19422834",
+      "1725489",
+      "19754142",
+      "16150975",
+      "25381547",
+      "7563057",
+      "25446089",
+      "30243274",
+      "10757996",
+      "23374074",
+      "7731042",
+      "12064948",
+      "26596453",
+      "18186476",
+      "15936032",
+      "11913375",
+      "22368530",
+      "18491064",
+      "28720500",
+      "28876052",
+      "19579235",
+      "29279008",
+      "22497310",
+      "41151380",
+      "19693805",
+      "8356033",
+      "37196167",
+      "18179702",
+      "32145945",
+      "25278129",
+      "22828335",
+      "15680583",
+      "29715424",
+      "7563056",
+      "31680510",
+      "9054560",
+      "1733963"
+    ],
+    "review": [
+      "42825582",
+      "18491064"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

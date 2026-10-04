@@ -1,0 +1,257 @@
+{
+  "identity": {
+    "pmid": "42813590",
+    "doi": "10.1002/pro.70794",
+    "title": "DreamFold: A World Model to efficiently generate protein folding pathways in the latent space."
+  },
+  "content": {
+    "abstract": "While there is an abundance of static data for the structure of biological macromolecules, the data regarding their folding mechanisms and dynamics is scarce, posing a challenge to the training of AI models. The World Model approach, which has been very successful in robotics, can come in handy in this regard. From limited data, it can build a latent, approximated representation of the spatio-temporal folding environment that can be used to train downstream AI models. Here, we developed DreamFold, a World Model-based generative framework to perform biomolecular simulations. DreamFold encodes protein structures and dihedral angle moves into latent vectors using variational autoencoders. Then, it uses another neural network to rapidly predict the next latent structure after a latent move, allowing the model to develop its own understanding of protein dynamics. Finally, in a \"hallucinated\" latent environment, an agent learns, through evolutionary algorithms, a policy to drive folding simulations toward a target. Latent configurations can then be decoded back into atomistic structures. DreamFold can compute protein folding pathways four orders of magnitude faster than molecular dynamics (MD), up to ~30,000x. Furthermore, for the monomeric proteins tested here (up to 449 aa), the computational cost scales linearly with the number of atoms (N) as O(N) (in comparison, MD scales as O(NlogN)). We have validated our results against established MD benchmarks and other available experimental data. Finally, we show how DreamFold allows us to identify folding intermediates with cryptic binding sites that are therapeutically valuable. Overall, DreamFold facilitates the study of protein dynamics by generative AI with applications in structure-based drug discovery.",
+    "keywords": [
+      "Artificial Intelligence",
+      "drug discovery",
+      "latent space",
+      "protein folding",
+      "world models"
+    ],
+    "mesh_terms": [
+      "*Protein Folding",
+      "*Proteins/chemistry",
+      "Models, Molecular",
+      "Autoencoder",
+      "*Neural Networks, Computer",
+      "Protein Conformation",
+      "Molecular Dynamics Simulation",
+      "Algorithms"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ianeselli, Alan",
+        "Im, Jewon",
+        "Cavallin, Eddie",
+        "Gerstein, Mark B"
+      ],
+      "short_names": [
+        "Ianeselli A",
+        "Im J",
+        "Cavallin E",
+        "Gerstein MB"
+      ],
+      "auids": [
+        "ORCID: 0009-0000-4873-8715",
+        "ORCID: 0009-0000-7657-2628",
+        "ORCID: 0000-0002-9746-3719"
+      ],
+      "affiliations": [
+        "Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, Connecticut, USA.",
+        "Department of Computer Science, Yale University, New Haven, Connecticut, USA.",
+        "Department of Statistics and Data Science, Yale University, New Haven, Connecticut, USA.",
+        "Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, Connecticut, USA.",
+        "Department of Computer Science, Yale University, New Haven, Connecticut, USA.",
+        "Department of Statistics and Data Science, Yale University, New Haven, Connecticut, USA.",
+        "Program in Computational Biology and Bioinformatics, Yale University, New Haven, Connecticut, USA.",
+        "Department of Biomedical Informatics & Data Science, Yale University, New Haven, Connecticut, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ianeselli, Alan",
+        "short_name": "Ianeselli A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, Connecticut, USA."
+        ]
+      },
+      {
+        "full_name": "Im, Jewon",
+        "short_name": "Im J",
+        "identifiers": [
+          "0009-0000-4873-8715"
+        ],
+        "affiliations": [
+          "Department of Computer Science, Yale University, New Haven, Connecticut, USA."
+        ]
+      },
+      {
+        "full_name": "Cavallin, Eddie",
+        "short_name": "Cavallin E",
+        "identifiers": [
+          "0009-0000-7657-2628"
+        ],
+        "affiliations": [
+          "Department of Statistics and Data Science, Yale University, New Haven, Connecticut, USA."
+        ]
+      },
+      {
+        "full_name": "Gerstein, Mark B",
+        "short_name": "Gerstein MB",
+        "identifiers": [
+          "0000-0002-9746-3719"
+        ],
+        "affiliations": [
+          "Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, Connecticut, USA.",
+          "Department of Computer Science, Yale University, New Haven, Connecticut, USA.",
+          "Department of Statistics and Data Science, Yale University, New Haven, Connecticut, USA.",
+          "Program in Computational Biology and Bioinformatics, Yale University, New Haven, Connecticut, USA.",
+          "Department of Biomedical Informatics & Data Science, Yale University, New Haven, Connecticut, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Protein science : a publication of the Protein Society"
+    ],
+    "journal_abbrev": [
+      "Protein Sci"
+    ],
+    "pub_date": "2026 Nov",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/30 11:35",
+    "fetched_at": "2026-10-04 07:45:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42813590",
+      "23912807",
+      "36472885",
+      "42475469",
+      "41790944",
+      "42184149",
+      "22238629",
+      "20166738",
+      "19887634",
+      "40156184",
+      "38816696",
+      "25793854",
+      "30298393",
+      "16852728",
+      "40268976",
+      "34800961",
+      "40287075",
+      "38547871",
+      "30577777",
+      "42546051",
+      "41524971",
+      "40958150",
+      "24573485",
+      "41114697",
+      "30180164",
+      "42821008",
+      "38768341",
+      "41051642",
+      "33196646",
+      "21591767",
+      "21958108",
+      "39383860",
+      "41750265",
+      "42393517",
+      "29501958",
+      "20883829",
+      "40990820",
+      "23267502",
+      "38862055",
+      "29055321",
+      "34845619",
+      "28177752",
+      "41254233",
+      "26320390",
+      "42080348",
+      "34551528",
+      "31712314",
+      "39506110",
+      "21405789",
+      "12015875",
+      "8229093",
+      "12579582",
+      "17636132",
+      "39555603",
+      "38781245",
+      "42225696",
+      "24446356",
+      "28810783",
+      "17034338",
+      "18179702",
+      "40161645",
+      "39893805",
+      "35725761",
+      "20635348",
+      "30458007",
+      "20865515",
+      "41557462",
+      "42118199",
+      "23214808",
+      "17930474",
+      "40521689",
+      "28976219",
+      "27227775",
+      "9988523",
+      "17095606",
+      "22938266",
+      "26351667",
+      "16452612",
+      "31240912",
+      "11170204",
+      "37874270",
+      "21051320",
+      "33358827",
+      "26505754",
+      "21732676",
+      "31235180",
+      "42161036",
+      "29806937",
+      "22577825",
+      "35889332",
+      "39388723",
+      "40362221",
+      "8539252",
+      "26381910",
+      "12596268",
+      "15959866",
+      "41526649",
+      "34869602",
+      "20017540",
+      "20331318"
+    ],
+    "review": [
+      "42813590",
+      "42546051",
+      "41114697",
+      "42821008",
+      "20883829",
+      "26320390",
+      "31712314",
+      "8229093",
+      "39555603",
+      "17034338",
+      "28976219",
+      "21051320",
+      "22577825"
+    ],
+    "pmc": [
+      "13625212"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1002/pro.70794",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

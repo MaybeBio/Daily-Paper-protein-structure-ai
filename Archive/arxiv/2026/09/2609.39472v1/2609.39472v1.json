@@ -1,0 +1,33 @@
+{
+  "source": "arxiv",
+  "source_id": "2609.39472v1",
+  "title": "Aligning feature-mapping designs to given density fields, first and second order",
+  "doi": "",
+  "abstract": "Feature-mapping methods represent structural designs by explicit geometric primitives on fixed analysis grids, an interpretable and parametric alternative to the density fields of density-based topology optimization (SIMP). In contrast to SIMP, however, feature-mapping optimization is sensitive to the initial design. We present a gradient-based approach to align a feature-mapping configuration to a given (pseudo) density field, e.g., to initialize a subsequent feature-mapping optimization. The staged approach is based on a least-squares tracking formulation, preceded by a variant that only rewards alignment and does not penalize mismatch. Without an underlying finite element simulation, iterations are cheap, but isolated features receive little sensitivity information. As a remedy, we propose an asymmetric transition function based on automatically parametrized Bézier curves. We demonstrate the approach for a 2D cantilever and the five-bar design; for the latter, we show optional feature minimization based on the feature scaling variable of the geometry projection method. The approach works well with first-order optimizers. The absence of a state problem and the small number of variables, however, also make a second-order formulation attractive. To the best of the authors' knowledge, we present the first Hessian formulation for feature mapping and report the behavior of first- and second-order optimizers on our benchmark problems. For completeness, we also give the exact Hessian of the state-based compliance, which requires one additional solution of the FEM system per feature variable.",
+  "authors": [
+    "Fabian Wein",
+    "Patrick Jung",
+    "Arash Moradian",
+    "Michael Stingl"
+  ],
+  "published_date": "2026-09-30T10:33:40Z",
+  "updated_date": "2026-09-30T10:33:40Z",
+  "journal": "",
+  "category": "math.OC",
+  "landing_url": "https://arxiv.org/abs/2609.39472v1",
+  "pdf_url": "https://arxiv.org/pdf/2609.39472v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "math.OC"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2609.39472v1",
+    "raw_categories": [
+      "math.OC"
+    ],
+    "journal_ref": ""
+  }
+}

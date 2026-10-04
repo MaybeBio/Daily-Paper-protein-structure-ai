@@ -1,0 +1,329 @@
+{
+  "identity": {
+    "pmid": "42806706",
+    "doi": "10.1111/1744-7917.70375",
+    "title": "iORbase 2.0: Comprehensive analysis platform for insect odorant receptors from genome to structure and function."
+  },
+  "content": {
+    "abstract": "iORbase 2.0 is an analysis platform for insect odorant receptors that covers sequence, structure, and function analyses. It provides functionalities such as gene annotation, structure prediction, molecular docking, and analysis of molecular dynamics simulation results, along with large-scale sequence, structure, and functional data, thereby assisting research on insect odorant receptors.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Letter"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Yifeng",
+        "Gao, Chenxi",
+        "Xue, Jiameng",
+        "Guo, Yi",
+        "Duan, Suyang",
+        "Zhang, Tianmin",
+        "Xue, Wei",
+        "Yao, Xiang",
+        "Yin, Yangming",
+        "Sun, Qingbin",
+        "Li, Gang",
+        "Xu, Chang",
+        "Lu, Huimeng"
+      ],
+      "short_names": [
+        "Zhang Y",
+        "Gao C",
+        "Xue J",
+        "Guo Y",
+        "Duan S",
+        "Zhang T",
+        "Xue W",
+        "Yao X",
+        "Yin Y",
+        "Sun Q",
+        "Li G",
+        "Xu C",
+        "Lu H"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-7400-5486",
+        "ORCID: 0000-0002-5334-1402"
+      ],
+      "affiliations": [
+        "School of Life Science and Technology, Northwestern Polytechnical University, Xi'an, China.",
+        "School of Life Science and Technology, Northwestern Polytechnical University, Xi'an, China.",
+        "School of Life Science and Technology, Northwestern Polytechnical University, Xi'an, China.",
+        "School of Life Science and Technology, Northwestern Polytechnical University, Xi'an, China.",
+        "School of Life Science and Technology, Northwestern Polytechnical University, Xi'an, China.",
+        "School of Life Science and Technology, Northwestern Polytechnical University, Xi'an, China.",
+        "School of Life Science and Technology, Northwestern Polytechnical University, Xi'an, China.",
+        "School of Life Science and Technology, Northwestern Polytechnical University, Xi'an, China.",
+        "School of Life Science and Technology, Northwestern Polytechnical University, Xi'an, China.",
+        "School of Life Science and Technology, Northwestern Polytechnical University, Xi'an, China.",
+        "Pherobio Semiochemical Institute, Yangling, Shaanxi Province, China.",
+        "College of Life Sciences, Shaanxi Normal University, Xi'an, China.",
+        "College of Life Sciences, Shaanxi Normal University, Xi'an, China.",
+        "School of Life Science and Technology, Northwestern Polytechnical University, Xi'an, China.",
+        "Key Laboratory of Semiochemicals for Green Prevention and Control of Plant Diseases and Insect Pests, Ministry of Agriculture and Rural Affairs, Yangling, Shaanxi Province, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Yifeng",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Science and Technology, Northwestern Polytechnical University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Chenxi",
+        "short_name": "Gao C",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Science and Technology, Northwestern Polytechnical University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Xue, Jiameng",
+        "short_name": "Xue J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Science and Technology, Northwestern Polytechnical University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Yi",
+        "short_name": "Guo Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Science and Technology, Northwestern Polytechnical University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Duan, Suyang",
+        "short_name": "Duan S",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Science and Technology, Northwestern Polytechnical University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Tianmin",
+        "short_name": "Zhang T",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Science and Technology, Northwestern Polytechnical University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Xue, Wei",
+        "short_name": "Xue W",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Science and Technology, Northwestern Polytechnical University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Yao, Xiang",
+        "short_name": "Yao X",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Science and Technology, Northwestern Polytechnical University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Yin, Yangming",
+        "short_name": "Yin Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Science and Technology, Northwestern Polytechnical University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Qingbin",
+        "short_name": "Sun Q",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Science and Technology, Northwestern Polytechnical University, Xi'an, China.",
+          "Pherobio Semiochemical Institute, Yangling, Shaanxi Province, China."
+        ]
+      },
+      {
+        "full_name": "Li, Gang",
+        "short_name": "Li G",
+        "identifiers": [
+          "0000-0001-7400-5486"
+        ],
+        "affiliations": [
+          "College of Life Sciences, Shaanxi Normal University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Chang",
+        "short_name": "Xu C",
+        "identifiers": [],
+        "affiliations": [
+          "College of Life Sciences, Shaanxi Normal University, Xi'an, China."
+        ]
+      },
+      {
+        "full_name": "Lu, Huimeng",
+        "short_name": "Lu H",
+        "identifiers": [
+          "0000-0002-5334-1402"
+        ],
+        "affiliations": [
+          "School of Life Science and Technology, Northwestern Polytechnical University, Xi'an, China.",
+          "Key Laboratory of Semiochemicals for Green Prevention and Control of Plant Diseases and Insect Pests, Ministry of Agriculture and Rural Affairs, Yangling, Shaanxi Province, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Insect science"
+    ],
+    "journal_abbrev": [
+      "Insect Sci"
+    ],
+    "pub_date": "2026 Sep 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Letter"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/29 05:30",
+    "fetched_at": "2026-10-04 07:45:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42806706",
+      "36519267",
+      "37367376",
+      "12213773",
+      "26042329",
+      "38415377",
+      "42188163",
+      "42792945",
+      "41306577",
+      "42366497",
+      "39101323",
+      "41542085",
+      "11267907",
+      "40986830",
+      "12782114",
+      "21677030",
+      "40638250",
+      "40507781",
+      "38685215",
+      "11423007",
+      "34234208",
+      "35627304",
+      "30943891",
+      "41296138",
+      "24609470",
+      "29429152",
+      "41431166",
+      "28137743",
+      "39780497",
+      "28632334",
+      "42550295",
+      "40731090",
+      "38166563",
+      "42353755",
+      "27350348",
+      "42204179",
+      "41222130",
+      "19542205",
+      "31623555",
+      "33001599",
+      "40441539",
+      "39392676",
+      "25552932",
+      "23676093",
+      "40083686",
+      "28972152",
+      "19624863",
+      "25880816",
+      "33298524",
+      "37270128",
+      "22952629",
+      "17065610",
+      "27561358",
+      "37776004",
+      "31836898",
+      "42312182",
+      "35204784",
+      "26416146",
+      "22590607",
+      "41263491",
+      "26196387",
+      "34606949",
+      "30155713",
+      "42326533",
+      "27336743",
+      "39201754",
+      "30197600",
+      "36959448",
+      "28656349",
+      "31381201",
+      "25461171",
+      "12052782",
+      "23585033",
+      "26994445",
+      "31525411",
+      "40890621",
+      "39810101",
+      "32034042",
+      "41001798",
+      "25803580",
+      "41683995",
+      "35461301",
+      "35933834",
+      "38767431",
+      "31138111",
+      "25337796",
+      "38102559",
+      "26264734",
+      "23497397",
+      "18771731",
+      "40249485",
+      "14611657",
+      "25584517",
+      "26033210",
+      "39580516",
+      "42764364",
+      "18353104",
+      "29884939",
+      "41290063",
+      "31765753"
+    ],
+    "review": [
+      "42806706",
+      "26042329",
+      "42188163",
+      "40638250",
+      "41431166",
+      "33001599",
+      "40441539",
+      "26416146",
+      "34606949",
+      "30197600"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1111/1744-7917.70375",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

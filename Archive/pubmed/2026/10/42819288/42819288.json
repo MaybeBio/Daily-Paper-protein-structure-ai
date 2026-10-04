@@ -1,0 +1,325 @@
+{
+  "identity": {
+    "pmid": "42819288",
+    "doi": "10.1021/jacsau.6c01252",
+    "title": "Biosynthesis of Complex Phenazines Involves Dimerization and Amination Catalyzed by a Versatile Nuclear Transport Factor 2‑like Superfamily Protein."
+  },
+  "content": {
+    "abstract": "Phenazine natural products represent a structurally diverse class of aromatic alkaloids with broad-spectrum biological activities. Among these compounds, phenazine dimers have attracted considerable attention owing to their intricate molecular architectures and potent antibacterial and anticancer properties. Although the biosynthesis of the core phenazine scaffold is well characterized, the enzymatic postmodifications, especially those governing dimerization processes that yield structurally varied diphenazines, remain poorly understood. In this study, we elucidate the complete biosynthesis of diverse dimeric and aminated phenazines. Following core assembly, the flavoprotein DapS initiates postmodification by catalyzing the C6-selective decarboxylative hydroxylation of phenazine-1,6-dicarboxylic acid (PDC). We further uncover Dap5, a nuclear transport factor 2 (NTF2)-like protein, as a multifunctional enzyme that catalyzes hydroxylation, dimerization, and amination of phenazines. Strikingly, Dap5 operates independently of flavin or metal cofactors, instead activating oxygen by exploiting the redox cycling of its phenazine substrate within the enzyme-substrate complex. Structural and docking analyses based on a modeled protein structure suggest that these reactions likely share a common predicted active-site cavity but employ distinct residue networks for substrate binding and catalysis. This study solves a long-standing puzzle in the biosynthesis of dimeric phenazines and demonstrates a unique substrate-assisted radical strategy, offering new insights into the evolution of multifunctional enzymes.",
+    "keywords": [
+      "amination",
+      "biosynthesis",
+      "dimerization",
+      "multifunctional",
+      "phenazine"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Dong, Jun-Li",
+        "Dan, Ying",
+        "Xu, Xin",
+        "He, Bei-Bei",
+        "Huang, Yi",
+        "Xu, Jing-Jing",
+        "Liang, Qing-Bo",
+        "Li, Yi-Qing",
+        "Han, Li",
+        "Huang, Xue-Shi",
+        "He, Jing"
+      ],
+      "short_names": [
+        "Dong JL",
+        "Dan Y",
+        "Xu X",
+        "He BB",
+        "Huang Y",
+        "Xu JJ",
+        "Liang QB",
+        "Li YQ",
+        "Han L",
+        "Huang XS",
+        "He J"
+      ],
+      "auids": [
+        "ORCID: 0009-0006-5900-2459",
+        "ORCID: 0000-0002-9310-5666",
+        "ORCID: 0000-0002-2780-0978",
+        "ORCID: 0000-0002-1561-8108",
+        "ORCID: 0000-0003-1392-6040"
+      ],
+      "affiliations": [
+        "National Key Laboratory of Agricultural Microbiology, College of Life Science and Technology, Huazhong Agricultural University, No. 1 Shizishan Street, Wuhan 430070, People's Republic of China. RINGGOLD: 47895",
+        "National Key Laboratory of Agricultural Microbiology, College of Life Science and Technology, Huazhong Agricultural University, No. 1 Shizishan Street, Wuhan 430070, People's Republic of China. RINGGOLD: 47895",
+        "National Key Laboratory of Agricultural Microbiology, College of Life Science and Technology, Huazhong Agricultural University, No. 1 Shizishan Street, Wuhan 430070, People's Republic of China. RINGGOLD: 47895",
+        "National Key Laboratory of Agricultural Microbiology, College of Life Science and Technology, Huazhong Agricultural University, No. 1 Shizishan Street, Wuhan 430070, People's Republic of China. RINGGOLD: 47895",
+        "National Key Laboratory of Agricultural Microbiology, College of Life Science and Technology, Huazhong Agricultural University, No. 1 Shizishan Street, Wuhan 430070, People's Republic of China. RINGGOLD: 47895",
+        "National Key Laboratory of Agricultural Microbiology, College of Life Science and Technology, Huazhong Agricultural University, No. 1 Shizishan Street, Wuhan 430070, People's Republic of China. RINGGOLD: 47895",
+        "National Key Laboratory of Agricultural Microbiology, College of Life Science and Technology, Huazhong Agricultural University, No. 1 Shizishan Street, Wuhan 430070, People's Republic of China. RINGGOLD: 47895",
+        "Key Laboratory of Microbial Diversity in Southwest China, Ministry of Education, College of Life Science, Yunnan University, Kunming 650091, People's Republic of China. RINGGOLD: 12635",
+        "Institute of Microbial Pharmaceuticals, College of Life and Health Sciences, Northeastern University, Shenyang 110819, People's Republic of China. RINGGOLD: 12434",
+        "Institute of Microbial Pharmaceuticals, College of Life and Health Sciences, Northeastern University, Shenyang 110819, People's Republic of China. RINGGOLD: 12434",
+        "National Key Laboratory of Agricultural Microbiology, College of Life Science and Technology, Huazhong Agricultural University, No. 1 Shizishan Street, Wuhan 430070, People's Republic of China. RINGGOLD: 47895"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Dong, Jun-Li",
+        "short_name": "Dong JL",
+        "identifiers": [
+          "0009-0006-5900-2459"
+        ],
+        "affiliations": [
+          "National Key Laboratory of Agricultural Microbiology, College of Life Science and Technology, Huazhong Agricultural University, No. 1 Shizishan Street, Wuhan 430070, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Dan, Ying",
+        "short_name": "Dan Y",
+        "identifiers": [],
+        "affiliations": [
+          "National Key Laboratory of Agricultural Microbiology, College of Life Science and Technology, Huazhong Agricultural University, No. 1 Shizishan Street, Wuhan 430070, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Xu, Xin",
+        "short_name": "Xu X",
+        "identifiers": [],
+        "affiliations": [
+          "National Key Laboratory of Agricultural Microbiology, College of Life Science and Technology, Huazhong Agricultural University, No. 1 Shizishan Street, Wuhan 430070, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "He, Bei-Bei",
+        "short_name": "He BB",
+        "identifiers": [],
+        "affiliations": [
+          "National Key Laboratory of Agricultural Microbiology, College of Life Science and Technology, Huazhong Agricultural University, No. 1 Shizishan Street, Wuhan 430070, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Huang, Yi",
+        "short_name": "Huang Y",
+        "identifiers": [],
+        "affiliations": [
+          "National Key Laboratory of Agricultural Microbiology, College of Life Science and Technology, Huazhong Agricultural University, No. 1 Shizishan Street, Wuhan 430070, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Xu, Jing-Jing",
+        "short_name": "Xu JJ",
+        "identifiers": [],
+        "affiliations": [
+          "National Key Laboratory of Agricultural Microbiology, College of Life Science and Technology, Huazhong Agricultural University, No. 1 Shizishan Street, Wuhan 430070, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Liang, Qing-Bo",
+        "short_name": "Liang QB",
+        "identifiers": [],
+        "affiliations": [
+          "National Key Laboratory of Agricultural Microbiology, College of Life Science and Technology, Huazhong Agricultural University, No. 1 Shizishan Street, Wuhan 430070, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Li, Yi-Qing",
+        "short_name": "Li YQ",
+        "identifiers": [
+          "0000-0002-9310-5666"
+        ],
+        "affiliations": [
+          "Key Laboratory of Microbial Diversity in Southwest China, Ministry of Education, College of Life Science, Yunnan University, Kunming 650091, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Han, Li",
+        "short_name": "Han L",
+        "identifiers": [
+          "0000-0002-2780-0978"
+        ],
+        "affiliations": [
+          "Institute of Microbial Pharmaceuticals, College of Life and Health Sciences, Northeastern University, Shenyang 110819, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Huang, Xue-Shi",
+        "short_name": "Huang XS",
+        "identifiers": [
+          "0000-0002-1561-8108"
+        ],
+        "affiliations": [
+          "Institute of Microbial Pharmaceuticals, College of Life and Health Sciences, Northeastern University, Shenyang 110819, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "He, Jing",
+        "short_name": "He J",
+        "identifiers": [
+          "0000-0003-1392-6040"
+        ],
+        "affiliations": [
+          "National Key Laboratory of Agricultural Microbiology, College of Life Science and Technology, Huazhong Agricultural University, No. 1 Shizishan Street, Wuhan 430070, People's Republic of China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "JACS Au"
+    ],
+    "journal_abbrev": [
+      "JACS Au"
+    ],
+    "pub_date": "2026 Sep 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/01 17:29",
+    "fetched_at": "2026-10-04 07:45:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42819288",
+      "19053436",
+      "42554459",
+      "42144631",
+      "15502343",
+      "29510028",
+      "15449932",
+      "29483162",
+      "23897464",
+      "21849072",
+      "28174304",
+      "32815713",
+      "32786740",
+      "40315980",
+      "28871340",
+      "39414749",
+      "33741619",
+      "42475469",
+      "39300971",
+      "26414009",
+      "12741825",
+      "15545603",
+      "34465028",
+      "23119011",
+      "39430940",
+      "25224759",
+      "35138927",
+      "32013409",
+      "30933477",
+      "15159577",
+      "21070065",
+      "39407699",
+      "25250512",
+      "29629858",
+      "15667656",
+      "30886436",
+      "28094222",
+      "35870153",
+      "11114932",
+      "18504969",
+      "36104338",
+      "30159978",
+      "25215885",
+      "9032071",
+      "34890798",
+      "27145204",
+      "42635431",
+      "35604066",
+      "19089947",
+      "22999880",
+      "38530703",
+      "40542515",
+      "11188693",
+      "30045743",
+      "33600149",
+      "17045293",
+      "15522285",
+      "29531360",
+      "42469804",
+      "26305803",
+      "26507234",
+      "34487423",
+      "40927919",
+      "12896974",
+      "39250825",
+      "9634698",
+      "39798811",
+      "34143945",
+      "42079077",
+      "41322256",
+      "29546662",
+      "37611404",
+      "28975557",
+      "29773836",
+      "22383119",
+      "19339241",
+      "33136373",
+      "25843276",
+      "29792672",
+      "17669423",
+      "32197042",
+      "14684924",
+      "24499398",
+      "20869368",
+      "16650858",
+      "34962769",
+      "22097883",
+      "40504680",
+      "29802272",
+      "34240606",
+      "34000093",
+      "42136426",
+      "41031813",
+      "23912807",
+      "42567493",
+      "31767778",
+      "28740244",
+      "39252390",
+      "32380771",
+      "38784727"
+    ],
+    "review": [
+      "42819288",
+      "39300971",
+      "39407699",
+      "25250512",
+      "28094222",
+      "30159978",
+      "25215885",
+      "35604066",
+      "38530703",
+      "33600149",
+      "40927919",
+      "28975557",
+      "29792672",
+      "24499398",
+      "22097883"
+    ],
+    "pmc": [
+      "13625586"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/jaaucr/article-lookup/doi/10.1021/jacsau.6c01252",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

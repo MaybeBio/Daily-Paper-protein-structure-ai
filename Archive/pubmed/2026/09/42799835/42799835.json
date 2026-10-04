@@ -1,0 +1,335 @@
+{
+  "identity": {
+    "pmid": "42799835",
+    "doi": "10.1007/s11274-026-05269-2",
+    "title": "Granaticin biosynthesis and engineering: mechanistic understanding, production bottlenecks, and computational opportunities."
+  },
+  "content": {
+    "abstract": "Granaticin, as a member of the benzoisochromanequinone (BIQ) family, exhibits a range of biological activities, including antibacterial, antitumor, and antibiofilm effects. Notably, this compound displays a bright blue color under alkaline conditions, highlighting its potential application as a functional pigment.Although its biosynthetic gene cluster has been identified and partially characterized, efficient production of granaticin remains significantly constrained by an incomplete understanding of pathway regulation, enzymatic specificity, and metabolic flux distribution. Despite these advances, strategies for improving granaticin yield still rely largely on empirical approaches and lack predictive capability within complex biosynthetic systems. With the advancement of computational approaches-such as protein structure prediction, metabolic flux analysis, and data-driven optimization of fermentation processes-granaticin research is shifting from empirical optimization toward system-level and predictive engineering.This review systematically summarizes recent progress in granaticin research, with particular emphasis on biosynthetic mechanisms, pathway regulation, metabolic engineering strategies, tailoring enzyme functions, heterologous expression systems, and emerging computational approaches. In addition, the limitations of current engineering strategies and the major challenges associated with achieving scalable and controllable production are critically discussed.",
+    "keywords": [
+      "Artificial Intelligence",
+      "Benzoisochromanequinone",
+      "Biosynthesis",
+      "Granaticin",
+      "Pathway engineering"
+    ],
+    "mesh_terms": [
+      "*Metabolic Engineering/methods",
+      "Biosynthetic Pathways/genetics",
+      "Multigene Family",
+      "Fermentation",
+      "Computational Biology"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Chang",
+        "Zhao, Bingyu",
+        "Zhu, Qiaolei",
+        "Wang, Xiaodi",
+        "Ji, Nairu",
+        "Zhu, Yunping"
+      ],
+      "short_names": [
+        "Chen C",
+        "Zhao B",
+        "Zhu Q",
+        "Wang X",
+        "Ji N",
+        "Zhu Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Key Laboratory of Green Manufacturing and Biosynthesis of Food Bioactive Substances, China General Chamber of Commerce, School of Food and Health, Beijing Technology and Business University, Beijing, 100048, China.",
+        "Key Laboratory of Geriatric Nutrition and Health, School of Food and Health, Beijing Technology and Business University, Beijing, 100048, China.",
+        "Key Laboratory of Green Manufacturing and Biosynthesis of Food Bioactive Substances, China General Chamber of Commerce, School of Food and Health, Beijing Technology and Business University, Beijing, 100048, China.",
+        "Key Laboratory of Geriatric Nutrition and Health, School of Food and Health, Beijing Technology and Business University, Beijing, 100048, China.",
+        "Key Laboratory of Green Manufacturing and Biosynthesis of Food Bioactive Substances, China General Chamber of Commerce, School of Food and Health, Beijing Technology and Business University, Beijing, 100048, China.",
+        "Key Laboratory of Geriatric Nutrition and Health, School of Food and Health, Beijing Technology and Business University, Beijing, 100048, China.",
+        "Key Laboratory of Green Manufacturing and Biosynthesis of Food Bioactive Substances, China General Chamber of Commerce, School of Food and Health, Beijing Technology and Business University, Beijing, 100048, China.",
+        "Key Laboratory of Geriatric Nutrition and Health, School of Food and Health, Beijing Technology and Business University, Beijing, 100048, China.",
+        "Key Laboratory of Green Manufacturing and Biosynthesis of Food Bioactive Substances, China General Chamber of Commerce, School of Food and Health, Beijing Technology and Business University, Beijing, 100048, China.",
+        "Key Laboratory of Geriatric Nutrition and Health, School of Food and Health, Beijing Technology and Business University, Beijing, 100048, China.",
+        "Key Laboratory of Green Manufacturing and Biosynthesis of Food Bioactive Substances, China General Chamber of Commerce, School of Food and Health, Beijing Technology and Business University, Beijing, 100048, China. zhuyp@th.btbu.edu.cn.",
+        "Key Laboratory of Geriatric Nutrition and Health, School of Food and Health, Beijing Technology and Business University, Beijing, 100048, China. zhuyp@th.btbu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Chang",
+        "short_name": "Chen C",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Green Manufacturing and Biosynthesis of Food Bioactive Substances, China General Chamber of Commerce, School of Food and Health, Beijing Technology and Business University, Beijing, 100048, China.",
+          "Key Laboratory of Geriatric Nutrition and Health, School of Food and Health, Beijing Technology and Business University, Beijing, 100048, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Bingyu",
+        "short_name": "Zhao B",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Green Manufacturing and Biosynthesis of Food Bioactive Substances, China General Chamber of Commerce, School of Food and Health, Beijing Technology and Business University, Beijing, 100048, China.",
+          "Key Laboratory of Geriatric Nutrition and Health, School of Food and Health, Beijing Technology and Business University, Beijing, 100048, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Qiaolei",
+        "short_name": "Zhu Q",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Green Manufacturing and Biosynthesis of Food Bioactive Substances, China General Chamber of Commerce, School of Food and Health, Beijing Technology and Business University, Beijing, 100048, China.",
+          "Key Laboratory of Geriatric Nutrition and Health, School of Food and Health, Beijing Technology and Business University, Beijing, 100048, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Xiaodi",
+        "short_name": "Wang X",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Green Manufacturing and Biosynthesis of Food Bioactive Substances, China General Chamber of Commerce, School of Food and Health, Beijing Technology and Business University, Beijing, 100048, China.",
+          "Key Laboratory of Geriatric Nutrition and Health, School of Food and Health, Beijing Technology and Business University, Beijing, 100048, China."
+        ]
+      },
+      {
+        "full_name": "Ji, Nairu",
+        "short_name": "Ji N",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Green Manufacturing and Biosynthesis of Food Bioactive Substances, China General Chamber of Commerce, School of Food and Health, Beijing Technology and Business University, Beijing, 100048, China.",
+          "Key Laboratory of Geriatric Nutrition and Health, School of Food and Health, Beijing Technology and Business University, Beijing, 100048, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Yunping",
+        "short_name": "Zhu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Green Manufacturing and Biosynthesis of Food Bioactive Substances, China General Chamber of Commerce, School of Food and Health, Beijing Technology and Business University, Beijing, 100048, China. zhuyp@th.btbu.edu.cn.",
+          "Key Laboratory of Geriatric Nutrition and Health, School of Food and Health, Beijing Technology and Business University, Beijing, 100048, China. zhuyp@th.btbu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "World journal of microbiology & biotechnology"
+    ],
+    "journal_abbrev": [
+      "World J Microbiol Biotechnol"
+    ],
+    "pub_date": "2026 Sep 26",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/27 02:27",
+    "fetched_at": "2026-10-04 07:45:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42799835",
+      "42475469",
+      "40889688",
+      "42187150",
+      "42156323",
+      "42705720",
+      "40035874",
+      "26846670",
+      "42509354",
+      "42340804",
+      "42724091",
+      "42163627",
+      "30426283",
+      "41961299",
+      "42693015",
+      "41763370",
+      "42322407",
+      "42119751",
+      "41761947",
+      "9831526",
+      "41576205",
+      "41714869",
+      "42144631",
+      "41790735",
+      "42207417",
+      "39053562",
+      "28137297",
+      "42041109",
+      "41220064",
+      "40590991",
+      "40670299",
+      "40615742",
+      "30316556",
+      "41528591",
+      "42186953",
+      "41592899",
+      "41729605",
+      "42503339",
+      "33078922",
+      "32032637",
+      "42263832",
+      "40613122",
+      "42036390",
+      "30856706",
+      "38867081",
+      "41911954",
+      "28857502",
+      "41474478",
+      "42663654",
+      "42033624",
+      "41901235",
+      "42108832",
+      "35753652",
+      "34358728",
+      "40294756",
+      "41500038",
+      "42251865",
+      "40427558",
+      "42451734",
+      "34989926",
+      "35866382",
+      "41202968",
+      "27492654",
+      "42532679",
+      "41554995",
+      "41457543",
+      "42489835",
+      "39834096",
+      "41415687",
+      "23654254",
+      "36867718",
+      "40382775",
+      "29247672",
+      "41652771",
+      "31140756",
+      "41250832",
+      "39696244",
+      "26369437",
+      "41752388",
+      "42105954",
+      "41964842",
+      "41812943",
+      "38956879",
+      "40089911",
+      "40757780",
+      "42191018",
+      "39847892",
+      "34688880",
+      "40679465",
+      "42635857",
+      "39260778",
+      "41910824",
+      "41183603",
+      "28264562",
+      "39550572",
+      "29214355",
+      "42486496",
+      "42646139",
+      "12855716",
+      "40845950"
+    ],
+    "review": [
+      "42799835",
+      "42187150",
+      "42156323",
+      "42705720",
+      "40035874",
+      "42509354",
+      "42340804",
+      "42724091",
+      "42163627",
+      "30426283",
+      "41961299",
+      "42693015",
+      "41763370",
+      "42119751",
+      "41576205",
+      "41714869",
+      "41790735",
+      "42207417",
+      "39053562",
+      "28137297",
+      "42041109",
+      "41220064",
+      "40590991",
+      "40670299",
+      "40615742",
+      "30316556",
+      "41528591",
+      "41592899",
+      "41729605",
+      "42503339",
+      "32032637",
+      "42263832",
+      "40613122",
+      "42036390",
+      "30856706",
+      "38867081",
+      "41911954",
+      "28857502",
+      "41474478",
+      "42663654",
+      "42033624",
+      "41901235",
+      "35753652",
+      "34358728",
+      "40294756",
+      "41500038",
+      "42251865",
+      "40427558",
+      "42451734",
+      "34989926",
+      "42532679",
+      "41554995",
+      "41457543",
+      "42489835",
+      "39834096",
+      "41415687",
+      "36867718",
+      "40382775",
+      "29247672",
+      "41652771",
+      "31140756",
+      "41250832",
+      "39696244",
+      "41752388",
+      "42105954",
+      "41964842",
+      "41812943",
+      "40089911",
+      "40757780",
+      "42191018",
+      "42635857",
+      "39260778",
+      "41910824",
+      "41183603",
+      "29214355",
+      "42486496",
+      "42646139",
+      "40845950"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://dx.doi.org/10.1007/s11274-026-05269-2",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

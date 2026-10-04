@@ -1,0 +1,270 @@
+{
+  "identity": {
+    "pmid": "42815447",
+    "doi": "10.1016/j.cbpa.2026.102770",
+    "title": "What deep learning can and cannot (yet) do for enzyme design."
+  },
+  "content": {
+    "abstract": "Deep learning has substantially advanced structure-based enzyme design, yet reliably creating highly efficient enzymes remains out of reach. One emerging enzyme design strategy combines diffusion-based scaffold generation around active-site models with sequence design. Such structure-based approaches have expanded the accessible reaction space and enabled the emergence of enzymes with diverse catalytic functions and complex catalytic motifs. Despite notable catalytic efficiencies (k(cat)/K(M)), turnover rates (k(cat)) often remain limited, suggesting that current approaches typically yield tight substrate binders rather than enzymes that selectively stabilize the chemical transition state. Computational design of electrostatic catalysis, multistate behavior, and conformational dynamics could potentially enhance transition-state stabilization and improve catalytic activity. More reliable activity oracles, integration of evolutionary information, protein language models, and lab-in-the-loop optimization could further enhance design performance. Ultimately, advancing structure-based enzyme design will require directly targeting the physicochemical drivers of catalysis to move beyond substrate binding toward the reliable design of efficient catalysts.",
+    "keywords": [
+      "Computational protein design",
+      "De novo enzyme design",
+      "Electrostatic catalysis",
+      "Enzyme dynamics",
+      "Generative artificial intelligence",
+      "Lab-in-the-loop optimization",
+      "Protein language models"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ahr, Judith A",
+        "de Waal, Moor M",
+        "Cotet, Tudor-Stefan",
+        "Howell, Daniel C",
+        "Bunzel, H Adrian"
+      ],
+      "short_names": [
+        "Ahr JA",
+        "de Waal MM",
+        "Cotet TS",
+        "Howell DC",
+        "Bunzel HA"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Max Planck Institute for Terrestrial Microbiology, Marburg, Germany; Microbes-for-Climate (M4C) Cluster of Excellence, Synmikro, Marburg, Germany.",
+        "Max Planck Institute for Terrestrial Microbiology, Marburg, Germany; Microbes-for-Climate (M4C) Cluster of Excellence, Synmikro, Marburg, Germany; University of Groningen, Groningen, Netherlands.",
+        "Max Planck Institute for Terrestrial Microbiology, Marburg, Germany; Microbes-for-Climate (M4C) Cluster of Excellence, Synmikro, Marburg, Germany; Adaptyv, Lausanne, Switzerland.",
+        "Max Planck Institute for Terrestrial Microbiology, Marburg, Germany; Microbes-for-Climate (M4C) Cluster of Excellence, Synmikro, Marburg, Germany.",
+        "Max Planck Institute for Terrestrial Microbiology, Marburg, Germany; Microbes-for-Climate (M4C) Cluster of Excellence, Synmikro, Marburg, Germany. Electronic address: adrian.bunzel@mpi-marburg.mpg.de."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ahr, Judith A",
+        "short_name": "Ahr JA",
+        "identifiers": [],
+        "affiliations": [
+          "Max Planck Institute for Terrestrial Microbiology, Marburg, Germany; Microbes-for-Climate (M4C) Cluster of Excellence, Synmikro, Marburg, Germany."
+        ]
+      },
+      {
+        "full_name": "de Waal, Moor M",
+        "short_name": "de Waal MM",
+        "identifiers": [],
+        "affiliations": [
+          "Max Planck Institute for Terrestrial Microbiology, Marburg, Germany; Microbes-for-Climate (M4C) Cluster of Excellence, Synmikro, Marburg, Germany; University of Groningen, Groningen, Netherlands."
+        ]
+      },
+      {
+        "full_name": "Cotet, Tudor-Stefan",
+        "short_name": "Cotet TS",
+        "identifiers": [],
+        "affiliations": [
+          "Max Planck Institute for Terrestrial Microbiology, Marburg, Germany; Microbes-for-Climate (M4C) Cluster of Excellence, Synmikro, Marburg, Germany; Adaptyv, Lausanne, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Howell, Daniel C",
+        "short_name": "Howell DC",
+        "identifiers": [],
+        "affiliations": [
+          "Max Planck Institute for Terrestrial Microbiology, Marburg, Germany; Microbes-for-Climate (M4C) Cluster of Excellence, Synmikro, Marburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Bunzel, H Adrian",
+        "short_name": "Bunzel HA",
+        "identifiers": [],
+        "affiliations": [
+          "Max Planck Institute for Terrestrial Microbiology, Marburg, Germany; Microbes-for-Climate (M4C) Cluster of Excellence, Synmikro, Marburg, Germany. Electronic address: adrian.bunzel@mpi-marburg.mpg.de."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Current opinion in chemical biology"
+    ],
+    "journal_abbrev": [
+      "Curr Opin Chem Biol"
+    ],
+    "pub_date": "2026 Sep 30",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/30 23:30",
+    "fetched_at": "2026-10-04 07:45:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42815447",
+      "42475469",
+      "21967389",
+      "21920322",
+      "23912807",
+      "42779606",
+      "42429023",
+      "41339547",
+      "42716354",
+      "42470596",
+      "40106785",
+      "35816919",
+      "42818187",
+      "26825974",
+      "38532610",
+      "27243223",
+      "42776794",
+      "30254369",
+      "30830755",
+      "37961474",
+      "41152135",
+      "41851020",
+      "41849863",
+      "41197620",
+      "42616438",
+      "25848811",
+      "25738880",
+      "30277066",
+      "42419186",
+      "41763370",
+      "40089854",
+      "41339546",
+      "24847076",
+      "30973707",
+      "42430107",
+      "36813896",
+      "40548541",
+      "23649589",
+      "36321554",
+      "42526569",
+      "41750280",
+      "41641523",
+      "37433327",
+      "28383910",
+      "40828673",
+      "40513008",
+      "32233391",
+      "20426479",
+      "42202142",
+      "25539442",
+      "29595949",
+      "30021929",
+      "18293941",
+      "19161327",
+      "25243583",
+      "39407556",
+      "40370097",
+      "32496764",
+      "16103370",
+      "42231905",
+      "21603656",
+      "41339749",
+      "41629055",
+      "41515342",
+      "29728674",
+      "30794372",
+      "23170891",
+      "42173379",
+      "25539152",
+      "32968058",
+      "12914447",
+      "38357862",
+      "40938899",
+      "38105494",
+      "39803556",
+      "42491247",
+      "38437538",
+      "41822751",
+      "29686357",
+      "42372484",
+      "39792627",
+      "42721858",
+      "40887563",
+      "39513550",
+      "42817087",
+      "25574774",
+      "32234211",
+      "42002010",
+      "41443357",
+      "15842167",
+      "25539144",
+      "41778634",
+      "33985583",
+      "42118199",
+      "42410671",
+      "10320327",
+      "22075445",
+      "33760451",
+      "38740355",
+      "39162313"
+    ],
+    "review": [
+      "42815447",
+      "21920322",
+      "42429023",
+      "42716354",
+      "42776794",
+      "41152135",
+      "41851020",
+      "41849863",
+      "42616438",
+      "30277066",
+      "42419186",
+      "41763370",
+      "42430107",
+      "41641523",
+      "32233391",
+      "25539442",
+      "29595949",
+      "30021929",
+      "39407556",
+      "32496764",
+      "42231905",
+      "41629055",
+      "41515342",
+      "23170891",
+      "25539152",
+      "38105494",
+      "42491247",
+      "42372484",
+      "40887563",
+      "25574774",
+      "42002010",
+      "41443357",
+      "41778634"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1367-5931(26)00119-5",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-972",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

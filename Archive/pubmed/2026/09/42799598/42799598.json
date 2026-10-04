@@ -1,0 +1,260 @@
+{
+  "identity": {
+    "pmid": "42799598",
+    "doi": "10.1080/15592324.2026.2737116",
+    "title": "Aspects of plant intelligence (ii)."
+  },
+  "content": {
+    "abstract": "Plant intelligence was earlier described as adaptively variable behavior during the lifetime of the individual plant (Trewavas 2003). This general definition for animals and plants (biological intelligence) is now justified from generic terms and emphasis on adaptive behavior. Plant intelligence can also be defined from dictionary definitions of intelligence. Artificial intelligence has been indicated as adaptive behavior. Prominent psychological opinion now indicates that human intelligence is adaptive: IQ does not measure human intelligence. The uniformity of intelligence definitions negates views that plant intelligence is controversial. It is suggested that the early stages of transduction through calcium are interpreted through complex protein structures attached to mobile lipid rafts. Cell signaling acting as a cognitive process is investigated and evidence supports a relationship. Plants are biologically purposeful; they express goal-directed behavior throughout their life cycle and act as biologically purposeful agents in the wilderness. The demise of the Modern Synthesis of Evolution is indicated and could be replaced by one that correctly emphasizes biological purpose. Two sensory mechanisms are described for gravitropism as an illustration of the fail-safe mechanisms needed for all forms of behavior because true wilderness is often environmentally uncertain. Definitions of learning and memory are suggested and five kinds of plant biological memories are described.",
+    "keywords": [
+      "Signal transduction",
+      "artificial intelligence",
+      "biological Intelligence",
+      "cognitive cell signaling",
+      "learning and memories",
+      "purposeful behavior",
+      "two gravitropic mechanisms"
+    ],
+    "mesh_terms": [
+      "Signal Transduction",
+      "*Plant Physiological Phenomena",
+      "*Plants/metabolism",
+      "Gravitropism/physiology",
+      "Adaptation, Physiological"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Trewavas, Anthony"
+      ],
+      "short_names": [
+        "Trewavas A"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Institute of Molecular Plant Science, University of Edinburgh, Edinburgh, Scotland."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Trewavas, Anthony",
+        "short_name": "Trewavas A",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Molecular Plant Science, University of Edinburgh, Edinburgh, Scotland."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Plant signaling & behavior"
+    ],
+    "journal_abbrev": [
+      "Plant Signal Behav"
+    ],
+    "pub_date": "2026 Dec 31",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/27 02:27",
+    "fetched_at": "2026-10-04 07:45:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42799598",
+      "42475469",
+      "12740212",
+      "19816094",
+      "16142448",
+      "11806421",
+      "11538643",
+      "28637913",
+      "11541950",
+      "19143994",
+      "16384898",
+      "19826232",
+      "10352155",
+      "23419257",
+      "32557960",
+      "11540123",
+      "29107827",
+      "34647245",
+      "12024227",
+      "21843465",
+      "14555808",
+      "39381978",
+      "11543210",
+      "42237720",
+      "23121044",
+      "42342995",
+      "11407759",
+      "38687704",
+      "11538554",
+      "9048140",
+      "14555807",
+      "12033223",
+      "23002165",
+      "42429981",
+      "16492468",
+      "30726003",
+      "25482811",
+      "7858194",
+      "31563953",
+      "39163451",
+      "12024229",
+      "41667876",
+      "39505772",
+      "12959134",
+      "19912564",
+      "11540070",
+      "18267940",
+      "41538656",
+      "25577019",
+      "11540324",
+      "42130089",
+      "23258369",
+      "18166394",
+      "11537933",
+      "38885581",
+      "11539731",
+      "11537914",
+      "31375675",
+      "11537788",
+      "23419259",
+      "23281391",
+      "11596629",
+      "11569788",
+      "10047574",
+      "42155064",
+      "16914294",
+      "32233010",
+      "11710379",
+      "11541309",
+      "21828102",
+      "16054860",
+      "11541077",
+      "11540330",
+      "24373010",
+      "23913953",
+      "41168983",
+      "16987029",
+      "38101748",
+      "12695577",
+      "12678099",
+      "16843034",
+      "20028478",
+      "11540950",
+      "28479977",
+      "30914125",
+      "27263083",
+      "11540317",
+      "11541285",
+      "34120565",
+      "11538199",
+      "12045265",
+      "11540759",
+      "40552708",
+      "11541207",
+      "41353908",
+      "31855381",
+      "11540829",
+      "26162004",
+      "26690331",
+      "40349110"
+    ],
+    "review": [
+      "42799598",
+      "12740212",
+      "19816094",
+      "16142448",
+      "11806421",
+      "11541950",
+      "19143994",
+      "10352155",
+      "32557960",
+      "11540123",
+      "29107827",
+      "34647245",
+      "12024227",
+      "39381978",
+      "42237720",
+      "23121044",
+      "11407759",
+      "38687704",
+      "11538554",
+      "9048140",
+      "12033223",
+      "23002165",
+      "42429981",
+      "16492468",
+      "7858194",
+      "12024229",
+      "41667876",
+      "12959134",
+      "19912564",
+      "11540070",
+      "18267940",
+      "41538656",
+      "42130089",
+      "23258369",
+      "38885581",
+      "11539731",
+      "11537914",
+      "11596629",
+      "11569788",
+      "10047574",
+      "16914294",
+      "11541309",
+      "21828102",
+      "11541077",
+      "11540330",
+      "24373010",
+      "23913953",
+      "41168983",
+      "16987029",
+      "38101748",
+      "12678099",
+      "16843034",
+      "20028478",
+      "28479977",
+      "11541285",
+      "34120565",
+      "40552708",
+      "41353908",
+      "11540829"
+    ],
+    "pmc": [
+      "13618826"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.tandfonline.com/doi/10.1080/15592324.2026.2737116?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmid/42799598/",
+        "provider": "PubMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

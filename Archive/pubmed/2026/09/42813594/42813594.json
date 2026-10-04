@@ -1,0 +1,475 @@
+{
+  "identity": {
+    "pmid": "42813594",
+    "doi": "10.1107/S2059798326008569",
+    "title": "Radiation damage in serial femtosecond crystallography studied in hemoglobin."
+  },
+  "content": {
+    "abstract": "A central question in macromolecular crystallography is what X-ray free-electron laser pulse duration is required to obtain damage-free structural information. We compare serial femtosecond crystallography data from hemoglobin crystals using 3 and 10 fs pulses at comparable peak intensities ( approximately 3 x 10(17) W cm(-2)) and fixed photon energy (7.15 keV). Structural refinement produced very similar models and resolution-dependent data-quality indicators remained comparable. Both datasets also retained sufficient anomalous signal for phasing. These observations support the conclusion that high-resolution scattering was preserved under both pulse durations. Hybrid collisional-radiative and molecular-dynamics simulations show that under typical experimental conditions, atomic form-factor changes are negligible (<1%) and atomic displacements fall below the resolution limit imposed by the X-ray photon energy and the geometry of the detector. The combined experimental and theoretical results indicate that 10 fs pulses are adequate to obtain damage-free protein structures using femtosecond crystallography under the intensity conditions explored.",
+    "keywords": [
+      "X-ray free-electron lasers",
+      "X-ray pulse duration",
+      "global and specific damage",
+      "radiation damage",
+      "serial femtosecond crystallography"
+    ],
+    "mesh_terms": [
+      "Crystallography, X-Ray/methods",
+      "*Hemoglobins/chemistry/radiation effects",
+      "Lasers/adverse effects",
+      "Molecular Dynamics Simulation",
+      "Animals",
+      "Protein Conformation/radiation effects",
+      "Models, Molecular"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Galchenkova, Marina",
+        "Dawod, Ibrahim",
+        "Cardoch, Sebastian",
+        "Sprenger, Janina",
+        "Oberthur, Dominik",
+        "Awel, Salah",
+        "De Santis, Emiliano",
+        "Granas, Oscar",
+        "Knoska, Juraj",
+        "Metz, Markus",
+        "Passmore, Spencer",
+        "Pena, Gisel",
+        "Sarrou, Iosifina",
+        "Wiedorn, Max",
+        "Timneanu, Nicusor",
+        "Chapman, Henry",
+        "Yefanov, Oleksandr",
+        "Caleman, Carl"
+      ],
+      "short_names": [
+        "Galchenkova M",
+        "Dawod I",
+        "Cardoch S",
+        "Sprenger J",
+        "Oberthur D",
+        "Awel S",
+        "De Santis E",
+        "Granas O",
+        "Knoska J",
+        "Metz M",
+        "Passmore S",
+        "Pena G",
+        "Sarrou I",
+        "Wiedorn M",
+        "Timneanu N",
+        "Chapman H",
+        "Yefanov O",
+        "Caleman C"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-0978-5695",
+        "ORCID: 0000-0002-2926-5702",
+        "ORCID: 0000-0003-0707-1832",
+        "ORCID: 0000-0001-7977-3484",
+        "ORCID: 0000-0002-0894-9590",
+        "ORCID: 0000-0002-9470-5911",
+        "ORCID: 0000-0001-5029-7429",
+        "ORCID: 0000-0002-1482-2182",
+        "ORCID: 0000-0001-7258-6256",
+        "ORCID: 0000-0002-4038-8754",
+        "ORCID: 0009-0008-2783-5311",
+        "ORCID: 0000-0001-7842-4987",
+        "ORCID: 0000-0002-6963-5341",
+        "ORCID: 0000-0002-0856-2695",
+        "ORCID: 0000-0001-7328-0400",
+        "ORCID: 0000-0002-4655-1743",
+        "ORCID: 0000-0001-8676-0091",
+        "ORCID: 0000-0003-2638-1940"
+      ],
+      "affiliations": [
+        "Center for Free-Electron Laser Science (CFEL), Deutsches Elektronen-Synchrotron DESY, Notkestrasse 85, 22607 Hamburg, Germany.",
+        "Department of Physics and Astronomy, Uppsala University, Box 524, 75120 Uppsala, Sweden.",
+        "European XFEL, Holzkoppel 4, 22869 Schenefeld, Germany.",
+        "Department of Physics and Astronomy, Uppsala University, Box 524, 75120 Uppsala, Sweden.",
+        "Center for Free-Electron Laser Science (CFEL), Deutsches Elektronen-Synchrotron DESY, Notkestrasse 85, 22607 Hamburg, Germany.",
+        "Center for Free-Electron Laser Science (CFEL), Deutsches Elektronen-Synchrotron DESY, Notkestrasse 85, 22607 Hamburg, Germany.",
+        "Center for Free-Electron Laser Science (CFEL), Deutsches Elektronen-Synchrotron DESY, Notkestrasse 85, 22607 Hamburg, Germany.",
+        "Department of Chemistry - BMC, Uppsala University, Box 576, 75123 Uppsala, Sweden.",
+        "Department of Physics, University of Rome Tor Vergata and INFN, 00133 Rome, Italy.",
+        "Department of Physics and Astronomy, Uppsala University, Box 524, 75120 Uppsala, Sweden.",
+        "Center for Free-Electron Laser Science (CFEL), Deutsches Elektronen-Synchrotron DESY, Notkestrasse 85, 22607 Hamburg, Germany.",
+        "Center for Free-Electron Laser Science (CFEL), Deutsches Elektronen-Synchrotron DESY, Notkestrasse 85, 22607 Hamburg, Germany.",
+        "Department of Physics and Astronomy, Swinburne University of Technology, Victoria 3122, Australia.",
+        "European XFEL, Holzkoppel 4, 22869 Schenefeld, Germany.",
+        "Department of Chemistry - BMC, Uppsala University, Box 576, 75123 Uppsala, Sweden.",
+        "Center for Free-Electron Laser Science (CFEL), Deutsches Elektronen-Synchrotron DESY, Notkestrasse 85, 22607 Hamburg, Germany.",
+        "Center for Free-Electron Laser Science (CFEL), Deutsches Elektronen-Synchrotron DESY, Notkestrasse 85, 22607 Hamburg, Germany.",
+        "Centre for Ultrafast Imaging, Universitat Hamburg, 22761 Hamburg, Germany.",
+        "Department of Physics and Astronomy, Uppsala University, Box 524, 75120 Uppsala, Sweden.",
+        "Center for Free-Electron Laser Science (CFEL), Deutsches Elektronen-Synchrotron DESY, Notkestrasse 85, 22607 Hamburg, Germany.",
+        "Department of Physics, Universitat Hamburg, 22761 Hamburg, Germany.",
+        "Centre for Ultrafast Imaging, Universitat Hamburg, 22761 Hamburg, Germany.",
+        "Center for Free-Electron Laser Science (CFEL), Deutsches Elektronen-Synchrotron DESY, Notkestrasse 85, 22607 Hamburg, Germany.",
+        "Center for Free-Electron Laser Science (CFEL), Deutsches Elektronen-Synchrotron DESY, Notkestrasse 85, 22607 Hamburg, Germany.",
+        "Department of Physics and Astronomy, Uppsala University, Box 524, 75120 Uppsala, Sweden."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Galchenkova, Marina",
+        "short_name": "Galchenkova M",
+        "identifiers": [
+          "0000-0003-0978-5695"
+        ],
+        "affiliations": [
+          "Center for Free-Electron Laser Science (CFEL), Deutsches Elektronen-Synchrotron DESY, Notkestrasse 85, 22607 Hamburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Dawod, Ibrahim",
+        "short_name": "Dawod I",
+        "identifiers": [
+          "0000-0002-2926-5702"
+        ],
+        "affiliations": [
+          "Department of Physics and Astronomy, Uppsala University, Box 524, 75120 Uppsala, Sweden.",
+          "European XFEL, Holzkoppel 4, 22869 Schenefeld, Germany."
+        ]
+      },
+      {
+        "full_name": "Cardoch, Sebastian",
+        "short_name": "Cardoch S",
+        "identifiers": [
+          "0000-0003-0707-1832"
+        ],
+        "affiliations": [
+          "Department of Physics and Astronomy, Uppsala University, Box 524, 75120 Uppsala, Sweden."
+        ]
+      },
+      {
+        "full_name": "Sprenger, Janina",
+        "short_name": "Sprenger J",
+        "identifiers": [
+          "0000-0001-7977-3484"
+        ],
+        "affiliations": [
+          "Center for Free-Electron Laser Science (CFEL), Deutsches Elektronen-Synchrotron DESY, Notkestrasse 85, 22607 Hamburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Oberthür, Dominik",
+        "short_name": "Oberthür D",
+        "identifiers": [
+          "0000-0002-0894-9590"
+        ],
+        "affiliations": [
+          "Center for Free-Electron Laser Science (CFEL), Deutsches Elektronen-Synchrotron DESY, Notkestrasse 85, 22607 Hamburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Awel, Salah",
+        "short_name": "Awel S",
+        "identifiers": [
+          "0000-0002-9470-5911"
+        ],
+        "affiliations": [
+          "Center for Free-Electron Laser Science (CFEL), Deutsches Elektronen-Synchrotron DESY, Notkestrasse 85, 22607 Hamburg, Germany."
+        ]
+      },
+      {
+        "full_name": "De Santis, Emiliano",
+        "short_name": "De Santis E",
+        "identifiers": [
+          "0000-0001-5029-7429"
+        ],
+        "affiliations": [
+          "Department of Chemistry - BMC, Uppsala University, Box 576, 75123 Uppsala, Sweden.",
+          "Department of Physics, University of Rome Tor Vergata and INFN, 00133 Rome, Italy."
+        ]
+      },
+      {
+        "full_name": "Grånäs, Oscar",
+        "short_name": "Grånäs O",
+        "identifiers": [
+          "0000-0002-1482-2182"
+        ],
+        "affiliations": [
+          "Department of Physics and Astronomy, Uppsala University, Box 524, 75120 Uppsala, Sweden."
+        ]
+      },
+      {
+        "full_name": "Knoska, Juraj",
+        "short_name": "Knoska J",
+        "identifiers": [
+          "0000-0001-7258-6256"
+        ],
+        "affiliations": [
+          "Center for Free-Electron Laser Science (CFEL), Deutsches Elektronen-Synchrotron DESY, Notkestrasse 85, 22607 Hamburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Metz, Markus",
+        "short_name": "Metz M",
+        "identifiers": [
+          "0000-0002-4038-8754"
+        ],
+        "affiliations": [
+          "Center for Free-Electron Laser Science (CFEL), Deutsches Elektronen-Synchrotron DESY, Notkestrasse 85, 22607 Hamburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Passmore, Spencer",
+        "short_name": "Passmore S",
+        "identifiers": [
+          "0009-0008-2783-5311"
+        ],
+        "affiliations": [
+          "Department of Physics and Astronomy, Swinburne University of Technology, Victoria 3122, Australia."
+        ]
+      },
+      {
+        "full_name": "Pena, Gisel",
+        "short_name": "Pena G",
+        "identifiers": [
+          "0000-0001-7842-4987"
+        ],
+        "affiliations": [
+          "European XFEL, Holzkoppel 4, 22869 Schenefeld, Germany.",
+          "Department of Chemistry - BMC, Uppsala University, Box 576, 75123 Uppsala, Sweden."
+        ]
+      },
+      {
+        "full_name": "Sarrou, Iosifina",
+        "short_name": "Sarrou I",
+        "identifiers": [
+          "0000-0002-6963-5341"
+        ],
+        "affiliations": [
+          "Center for Free-Electron Laser Science (CFEL), Deutsches Elektronen-Synchrotron DESY, Notkestrasse 85, 22607 Hamburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Wiedorn, Max",
+        "short_name": "Wiedorn M",
+        "identifiers": [
+          "0000-0002-0856-2695"
+        ],
+        "affiliations": [
+          "Center for Free-Electron Laser Science (CFEL), Deutsches Elektronen-Synchrotron DESY, Notkestrasse 85, 22607 Hamburg, Germany.",
+          "Centre for Ultrafast Imaging, Universität Hamburg, 22761 Hamburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Timneanu, Nicusor",
+        "short_name": "Timneanu N",
+        "identifiers": [
+          "0000-0001-7328-0400"
+        ],
+        "affiliations": [
+          "Department of Physics and Astronomy, Uppsala University, Box 524, 75120 Uppsala, Sweden."
+        ]
+      },
+      {
+        "full_name": "Chapman, Henry",
+        "short_name": "Chapman H",
+        "identifiers": [
+          "0000-0002-4655-1743"
+        ],
+        "affiliations": [
+          "Center for Free-Electron Laser Science (CFEL), Deutsches Elektronen-Synchrotron DESY, Notkestrasse 85, 22607 Hamburg, Germany.",
+          "Department of Physics, Universität Hamburg, 22761 Hamburg, Germany.",
+          "Centre for Ultrafast Imaging, Universität Hamburg, 22761 Hamburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Yefanov, Oleksandr",
+        "short_name": "Yefanov O",
+        "identifiers": [
+          "0000-0001-8676-0091"
+        ],
+        "affiliations": [
+          "Center for Free-Electron Laser Science (CFEL), Deutsches Elektronen-Synchrotron DESY, Notkestrasse 85, 22607 Hamburg, Germany."
+        ]
+      },
+      {
+        "full_name": "Caleman, Carl",
+        "short_name": "Caleman C",
+        "identifiers": [
+          "0000-0003-2638-1940"
+        ],
+        "affiliations": [
+          "Center for Free-Electron Laser Science (CFEL), Deutsches Elektronen-Synchrotron DESY, Notkestrasse 85, 22607 Hamburg, Germany.",
+          "Department of Physics and Astronomy, Uppsala University, Box 524, 75120 Uppsala, Sweden."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Acta crystallographica. Section D, Structural biology"
+    ],
+    "journal_abbrev": [
+      "Acta Crystallogr D Struct Biol"
+    ],
+    "pub_date": "2026 Oct 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/09/30 11:35",
+    "fetched_at": "2026-10-04 07:45:28"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42813594",
+      "25723927",
+      "30821709",
+      "23633593",
+      "40227256",
+      "25723926",
+      "28915048",
+      "29079797",
+      "22653729",
+      "34605440",
+      "24089594",
+      "40862685",
+      "28569799",
+      "30601681",
+      "35491153",
+      "14573949",
+      "25723925",
+      "24914163",
+      "34804544",
+      "28202732",
+      "35953469",
+      "28733116",
+      "21293373",
+      "30836596",
+      "26811449",
+      "27143509",
+      "26594370",
+      "27811937",
+      "24914160",
+      "24914150",
+      "26627659",
+      "24357322",
+      "29097720",
+      "26360462",
+      "27679816",
+      "24914164",
+      "25664750",
+      "26134248",
+      "37898125",
+      "26342144",
+      "38003524",
+      "24270807",
+      "23989164",
+      "27799539",
+      "33399553",
+      "23517430",
+      "40756136",
+      "34906320",
+      "25931065",
+      "30364211",
+      "17211067",
+      "9159127",
+      "10963603",
+      "29760050",
+      "28248658",
+      "26342349",
+      "17211078",
+      "22197730",
+      "27377384",
+      "31740816",
+      "25723924",
+      "39608947",
+      "27626076",
+      "37925726",
+      "28573586",
+      "31618529",
+      "24352554",
+      "29196935",
+      "31678142",
+      "42455579",
+      "34849380",
+      "28573578",
+      "25362050",
+      "27303799",
+      "26594374",
+      "26960125",
+      "26172741",
+      "26175905",
+      "33950392",
+      "24914168",
+      "39470573",
+      "24078834",
+      "27158504",
+      "28083542",
+      "33753488",
+      "26786767",
+      "26996959",
+      "22330507",
+      "39608941",
+      "28001034",
+      "25768529",
+      "29354276",
+      "38726930",
+      "25866661",
+      "27438534",
+      "34475277",
+      "29123680",
+      "29488909",
+      "33864718",
+      "34475279"
+    ],
+    "review": [
+      "42813594",
+      "30821709",
+      "30601681",
+      "35491153",
+      "25723925",
+      "24914163",
+      "28733116",
+      "30836596",
+      "27143509",
+      "24914150",
+      "37898125",
+      "26342144",
+      "23517430",
+      "34906320",
+      "26342349",
+      "17211078",
+      "22197730",
+      "28573586",
+      "31618529",
+      "29196935",
+      "28573578",
+      "26960125",
+      "26175905",
+      "33950392",
+      "24914168",
+      "28001034",
+      "25866661"
+    ],
+    "pmc": [
+      "13632746"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "http://scripts.iucr.org/cgi-bin/paper?S2059798326008569",
+        "provider": "International Union of Crystallography",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

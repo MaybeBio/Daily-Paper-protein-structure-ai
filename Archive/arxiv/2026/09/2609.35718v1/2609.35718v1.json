@@ -1,0 +1,35 @@
+{
+  "source": "arxiv",
+  "source_id": "2609.35718v1",
+  "title": "Hard Vision, Easy Vision: What GPT-6 Astra Reveals Across Computer Vision",
+  "doi": "",
+  "abstract": "Frontier general-purpose systems are rapidly expanding beyond visual understanding into capabilities traditionally handled by dedicated computer-vision models. As these capabilities expand, a central question for the computer-vision community is how far this reach extends, and what remains hard. We evaluate GPT-6 Astra alongside five frontier general-purpose AI systems across 34 capabilities and 55 benchmarks spanning nine areas of computer vision. We compare their performance with dedicated models and humans where suitable references are available. Astra demonstrates broad visual capability, with substantial gains over other frontier systems in visual and spatial reasoning and several forms of structured prediction. Across the state-of-the-art systems, a consistent pattern emerges. Capabilities involving semantic interpretation, reasoning, and object-centric prediction increasingly approach or reach available reference levels. In contrast, larger gaps remain when tasks require metric geometric accuracy, faithful reconstruction, temporally consistent dense prediction, or specialized fine-grained visual knowledge. Additional reasoning and specialist tools close selected gaps, but their benefits vary across capabilities. These results map a changing landscape of computer vision in which increasingly sophisticated visual tasks are accessible through a general-purpose interface, while precise and fidelity-sensitive perception remains an important frontier.",
+  "authors": [
+    "Hanoona Rasheed",
+    "Mohammed Irfan Kurpath",
+    "Bin Ren",
+    "Hisham Cholakkal",
+    "Fahad Shahbaz Khan",
+    "Salman Khan"
+  ],
+  "published_date": "2026-09-28T17:46:57Z",
+  "updated_date": "2026-09-28T17:46:57Z",
+  "journal": "",
+  "category": "cs.CV",
+  "landing_url": "https://arxiv.org/abs/2609.35718v1",
+  "pdf_url": "https://arxiv.org/pdf/2609.35718v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cs.CV"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2609.35718v1",
+    "raw_categories": [
+      "cs.CV"
+    ],
+    "journal_ref": ""
+  }
+}
