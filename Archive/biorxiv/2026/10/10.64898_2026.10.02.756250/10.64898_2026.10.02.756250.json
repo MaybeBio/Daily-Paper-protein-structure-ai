@@ -1,0 +1,98 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.02.756250",
+  "title": "Generating Structural Ensembles of Disordered Proteins with Diffusion Models",
+  "doi": "10.64898/2026.10.02.756250",
+  "abstract": "Generative models of protein structures have accelerated scientific discovery. However, the leading structure-prediction models are trained primarily on crystal structures, limiting their ability to sample the conformations of intrinsically disordered proteins (IDPs). All-atom molecular dynamics (MD) simulations can probe the diversity of IDP conformational ensembles, but these simulations are slow and costly. Leveraging the speed of generative models and the accuracy of MD, we develop Zephyr, an SE(3) equivariant diffusion model trained on simulated IDP ensembles. The model generates the structure of a single protein sequence in two phases: a coarse-grained structure is first sampled and heavy atoms are subsequently denoised onto this structure. We evaluate our method on two fronts: ensemble accuracy and sampling efficiency. Across five test systems, the model reproduces key geometric and energetic metrics of the MD ensembles, while sampling at least 63 times faster.",
+  "authors": [
+    "Trottier O",
+    "Gwozdecky JH",
+    "Rauscher S"
+  ],
+  "published_date": "2026-10-04",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.02.756250",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.02.756250.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1334486",
+    "raw_record": {
+      "id": "PPR1334486",
+      "source": "PPR",
+      "doi": "10.64898/2026.10.02.756250",
+      "title": "Generating Structural Ensembles of Disordered Proteins with Diffusion Models",
+      "authorString": "Trottier O, Gwozdecky JH, Rauscher S.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Trottier O",
+            "lastName": "Trottier",
+            "firstName": "Olivier",
+            "initials": "O"
+          },
+          {
+            "fullName": "Gwozdecky JH",
+            "lastName": "Gwozdecky",
+            "firstName": "Jack",
+            "initials": "JH"
+          },
+          {
+            "fullName": "Rauscher S",
+            "lastName": "Rauscher",
+            "firstName": "Sarah",
+            "initials": "S"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Generative models of protein structures have accelerated scientific discovery. However, the leading structure-prediction models are trained primarily on crystal structures, limiting their ability to sample the conformations of intrinsically disordered proteins (IDPs). All-atom molecular dynamics (MD) simulations can probe the diversity of IDP conformational ensembles, but these simulations are slow and costly. Leveraging the speed of generative models and the accuracy of MD, we develop Zephyr, an SE(3) equivariant diffusion model trained on simulated IDP ensembles. The model generates the structure of a single protein sequence in two phases: a coarse-grained structure is first sampled and heavy atoms are subsequently denoised onto this structure. We evaluate our method on two fronts: ensemble accuracy and sampling efficiency. Across five test systems, the model reproduces key geometric and energetic metrics of the MD ensembles, while sampling at least 63 times faster.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.10.02.756250"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-10-06",
+      "firstPublicationDate": "2026-10-04",
+      "firstIndexDate": "2026-10-06",
+      "hasEvaluations": "N"
+    }
+  }
+}

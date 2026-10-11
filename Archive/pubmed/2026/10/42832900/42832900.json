@@ -1,0 +1,240 @@
+{
+  "identity": {
+    "pmid": "42832900",
+    "doi": "10.1016/j.neunet.2026.109700",
+    "title": "A dual-time-scale cooperative memory mechanism for spiking neural networks."
+  },
+  "content": {
+    "abstract": "Spiking neural networks (SNNs), as core models of brain-inspired computing, simulate the computational mechanisms of biological neural systems. However, existing models lack the division of labor and collaboration mechanisms found in biological fast and slow neural populations, making it difficult for single-timescale neural populations to simultaneously capture transient events and maintain long-term dependencies. Furthermore, these models are deeply coupled with specific data and tasks. Therefore, a spiking neural network with dual-timescale cooperative memory is proposed to simulate the division of labor and collaboration between biological fast and slow neural populations. This architecture employs a data-adaptive feature encoder to map multimodal inputs into a unified space, with its core being a dual-timescale collaborative reservoir. The fast reservoir captures transient events, while the slow reservoir maintains long-term dependencies. The two exchange information through learnable cross-modulation. Additionally, position-aware temporal attention pooling is employed to adaptively focus on key time segments, while feature decoupling diversity regularization forces the two reservoirs to learn complementary representations to prevent memory confusion. Classification and associative memory experiments were conducted on four datasets (i.e., MNIST, CIFAR-10, DVS128 Gesture, and a self-built behavior DVS dataset). In the classification experiments, the model achieved accuracy rates of 99.78%, 96.26%, 98.26% and 99.26%, respectively, outperforming single-pooling baselines with comparable parameter scales. Under various degraded query conditions, the dual-pool model consistently achieved higher Structural Similarity Index Measure scores than the single-pool model. This result demonstrates that a collaborative memory mechanism, formed by neural populations with multiple time constants, effectively enhances both the temporal modeling ability and the cross-task generalization of SNNs. It thus offers a reusable and unified backbone design for brain-inspired memory computing.",
+    "keywords": [
+      "Memory mechanisms",
+      "Multiscale",
+      "Reservoir structures",
+      "Spiking neural networks"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liu, Junxiu",
+        "Zhang, Zhaoxin",
+        "Fu, Qiang",
+        "Luo, Yuling",
+        "Qin, Sheng",
+        "Ouyang, Xue"
+      ],
+      "short_names": [
+        "Liu J",
+        "Zhang Z",
+        "Fu Q",
+        "Luo Y",
+        "Qin S",
+        "Ouyang X"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Guangxi Key Lab of Brain-inspired Computing and Intelligent Chips, School of Electronic and Information Engineering, Guangxi Normal University, Guilin, 541004, China; Key Laboratory of Nonlinear Circuits and Optical Communications (Guangxi Normal University), Education Department of Guangxi Zhuang Autonomous Region, Guilin, 541004, China.",
+        "Guangxi Key Lab of Brain-inspired Computing and Intelligent Chips, School of Electronic and Information Engineering, Guangxi Normal University, Guilin, 541004, China; Key Laboratory of Nonlinear Circuits and Optical Communications (Guangxi Normal University), Education Department of Guangxi Zhuang Autonomous Region, Guilin, 541004, China.",
+        "Guangxi Key Lab of Brain-inspired Computing and Intelligent Chips, School of Electronic and Information Engineering, Guangxi Normal University, Guilin, 541004, China; Key Laboratory of Nonlinear Circuits and Optical Communications (Guangxi Normal University), Education Department of Guangxi Zhuang Autonomous Region, Guilin, 541004, China. Electronic address: qiangfu@gxnu.edu.cn.",
+        "Guangxi Key Lab of Brain-inspired Computing and Intelligent Chips, School of Electronic and Information Engineering, Guangxi Normal University, Guilin, 541004, China; Key Laboratory of Nonlinear Circuits and Optical Communications (Guangxi Normal University), Education Department of Guangxi Zhuang Autonomous Region, Guilin, 541004, China.",
+        "Guangxi Key Lab of Brain-inspired Computing and Intelligent Chips, School of Electronic and Information Engineering, Guangxi Normal University, Guilin, 541004, China; Key Laboratory of Nonlinear Circuits and Optical Communications (Guangxi Normal University), Education Department of Guangxi Zhuang Autonomous Region, Guilin, 541004, China.",
+        "Guangxi Key Lab of Brain-inspired Computing and Intelligent Chips, School of Electronic and Information Engineering, Guangxi Normal University, Guilin, 541004, China; Key Laboratory of Nonlinear Circuits and Optical Communications (Guangxi Normal University), Education Department of Guangxi Zhuang Autonomous Region, Guilin, 541004, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Liu, Junxiu",
+        "short_name": "Liu J",
+        "identifiers": [],
+        "affiliations": [
+          "Guangxi Key Lab of Brain-inspired Computing and Intelligent Chips, School of Electronic and Information Engineering, Guangxi Normal University, Guilin, 541004, China; Key Laboratory of Nonlinear Circuits and Optical Communications (Guangxi Normal University), Education Department of Guangxi Zhuang Autonomous Region, Guilin, 541004, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Zhaoxin",
+        "short_name": "Zhang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Guangxi Key Lab of Brain-inspired Computing and Intelligent Chips, School of Electronic and Information Engineering, Guangxi Normal University, Guilin, 541004, China; Key Laboratory of Nonlinear Circuits and Optical Communications (Guangxi Normal University), Education Department of Guangxi Zhuang Autonomous Region, Guilin, 541004, China."
+        ]
+      },
+      {
+        "full_name": "Fu, Qiang",
+        "short_name": "Fu Q",
+        "identifiers": [],
+        "affiliations": [
+          "Guangxi Key Lab of Brain-inspired Computing and Intelligent Chips, School of Electronic and Information Engineering, Guangxi Normal University, Guilin, 541004, China; Key Laboratory of Nonlinear Circuits and Optical Communications (Guangxi Normal University), Education Department of Guangxi Zhuang Autonomous Region, Guilin, 541004, China. Electronic address: qiangfu@gxnu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Luo, Yuling",
+        "short_name": "Luo Y",
+        "identifiers": [],
+        "affiliations": [
+          "Guangxi Key Lab of Brain-inspired Computing and Intelligent Chips, School of Electronic and Information Engineering, Guangxi Normal University, Guilin, 541004, China; Key Laboratory of Nonlinear Circuits and Optical Communications (Guangxi Normal University), Education Department of Guangxi Zhuang Autonomous Region, Guilin, 541004, China."
+        ]
+      },
+      {
+        "full_name": "Qin, Sheng",
+        "short_name": "Qin S",
+        "identifiers": [],
+        "affiliations": [
+          "Guangxi Key Lab of Brain-inspired Computing and Intelligent Chips, School of Electronic and Information Engineering, Guangxi Normal University, Guilin, 541004, China; Key Laboratory of Nonlinear Circuits and Optical Communications (Guangxi Normal University), Education Department of Guangxi Zhuang Autonomous Region, Guilin, 541004, China."
+        ]
+      },
+      {
+        "full_name": "Ouyang, Xue",
+        "short_name": "Ouyang X",
+        "identifiers": [],
+        "affiliations": [
+          "Guangxi Key Lab of Brain-inspired Computing and Intelligent Chips, School of Electronic and Information Engineering, Guangxi Normal University, Guilin, 541004, China; Key Laboratory of Nonlinear Circuits and Optical Communications (Guangxi Normal University), Education Department of Guangxi Zhuang Autonomous Region, Guilin, 541004, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Neural networks : the official journal of the International Neural Network Society"
+    ],
+    "journal_abbrev": [
+      "Neural Netw"
+    ],
+    "pub_date": "2026 Oct 5",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/05 23:30",
+    "fetched_at": "2026-10-11 08:17:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42832900",
+      "42475469",
+      "42314438",
+      "41538895",
+      "37771337",
+      "41846117",
+      "40633294",
+      "42190587",
+      "32866745",
+      "41803281",
+      "41193546",
+      "40578214",
+      "36620452",
+      "41082828",
+      "37549609",
+      "41385543",
+      "26844322",
+      "39827835",
+      "40902268",
+      "35527819",
+      "41161209",
+      "40596197",
+      "31080402",
+      "37765758",
+      "42397175",
+      "41401600",
+      "34970310",
+      "38027490",
+      "42645052",
+      "24508754",
+      "39775193",
+      "41318360",
+      "36793542",
+      "41318629",
+      "38598397",
+      "40061257",
+      "33220642",
+      "42175604",
+      "41698240",
+      "37418862",
+      "38550564",
+      "42255354",
+      "37918270",
+      "39555273",
+      "26042330",
+      "37389360",
+      "36928104",
+      "40015573",
+      "38177124",
+      "31424720",
+      "41060856",
+      "37989040",
+      "42266665",
+      "40201191",
+      "42617634",
+      "40143843",
+      "38402808",
+      "38139626",
+      "40614455",
+      "40780320",
+      "39191782",
+      "38153835",
+      "41757790",
+      "37090791",
+      "42511394",
+      "39260008",
+      "39801909",
+      "39773093",
+      "42140147",
+      "37256807",
+      "37729206",
+      "37027669",
+      "37829721",
+      "40703089",
+      "33900924",
+      "40932808",
+      "39296710",
+      "32957655",
+      "36071719",
+      "41257600",
+      "41855881",
+      "35863201",
+      "42441458",
+      "41336863",
+      "40445887",
+      "38688068",
+      "39675195",
+      "29875621",
+      "42345023",
+      "39451852",
+      "39208467",
+      "37614339",
+      "41228949",
+      "41501541",
+      "41325706",
+      "41740093",
+      "41675690",
+      "41094871",
+      "42256855",
+      "42187426"
+    ],
+    "review": [
+      "42832900",
+      "26844322",
+      "40902268",
+      "24508754"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0893-6080(26)01155-X",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

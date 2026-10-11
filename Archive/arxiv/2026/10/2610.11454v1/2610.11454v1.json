@@ -1,0 +1,45 @@
+{
+  "source": "arxiv",
+  "source_id": "2610.11454v1",
+  "title": "Zatom-2: Multitask Pretraining on Atomistic Data for Generative Modeling across Domains",
+  "doi": "",
+  "abstract": "Unified atomistic modeling has the potential to accelerate discovery in chemistry, materials science, and biology by bridging data-rich chemical domains and data-scarce biological contexts. However, existing generative approaches to atomistic modeling remain highly specialized to scientific disciplines (chemistry vs. biology) or do not leverage both high-volume organic (molecule) and inorganic (material) data for general-purpose pretraining. To this end, we introduce Zatom-2, an atomistic generative model pretrained on approximately five million structures from the OMol25 and OMat24 electronic structure datasets. Zatom-2 features a multiscale Transformer architecture coupled with conditional flow matching that supports force conditioning and foundational pretraining tasks such as generation, structure prediction, and prediction of molecular and material energies and forces. Empirically, Zatom-2 achieves better molecular distribution fidelity than Zatom-1 and achieves strong performance on existing molecule and material generation benchmarks. Zatom-2 demonstrates the ability to control sample generation across low- and high-force regimes, and enhances protein generation in a low-data setting through joint generative-predictive pretraining and transfer learning, increasing protein backbone designability in a length extrapolation setting from 67.8% without pretraining to 74.8% after finetuning on 2,000 protein domains.",
+  "authors": [
+    "Miruna Cretu",
+    "Alex Abrudan",
+    "Antonia Panescu",
+    "Tynan Perez",
+    "Rishabh Anand",
+    "N. Benjamin Erichson",
+    "Michael W. Mahoney",
+    "Samuel Blau",
+    "Joseph Jacobson",
+    "Rafael Gómez-Bombarelli",
+    "Rex Ying",
+    "Tuomas Knowles",
+    "Pietro Liò",
+    "Alex Morehead"
+  ],
+  "published_date": "2026-10-08T08:09:17Z",
+  "updated_date": "2026-10-08T08:09:17Z",
+  "journal": "",
+  "category": "cs.LG, cs.AI",
+  "landing_url": "https://arxiv.org/abs/2610.11454v1",
+  "pdf_url": "https://arxiv.org/pdf/2610.11454v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cs.LG",
+    "cs.AI"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2610.11454v1",
+    "raw_categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "journal_ref": ""
+  }
+}

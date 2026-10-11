@@ -1,0 +1,305 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.05.756861",
+  "title": "Frustration Quenching and Network Topology of the Energy Landscape as Primary Determinants of Protein-Ligand Binding Pose Prediction by Deep Learning Models",
+  "doi": "10.64898/2026.10.05.756861",
+  "abstract": "Deep learning co-folding and docking models accurately predict ligand binding poses at orthosteric sites yet systematically underperform at allosteric pockets. Here, we demonstrate that this accuracy gap reflects a fundamental biophysical property of local energy landscape topology specifically, the magnitude of frustration quenching upon ligand binding rather than an intrinsic algorithmic defect. By evaluating leading co-folding and docking paradigms across curated benchmarks and large-scale uncurated datasets, we show that AI prediction success strongly tracks frustration quenching which the degree to which ligand binding relieves local energetic strain to form a steep energy funnel. Topologically, frustration-weighted residue interaction networks reveal that orthosteric pockets act as high-betweenness communication hubs embedded within contiguous, minimally frustrated pathways. In contrast, allosteric sites reside in low-betweenness peripheral regions with fragmented frustration profiles, presenting flatter, entropy-dominated landscapes that challenge structure prediction algorithms. Comparing generative diffusion with single-shot regression demonstrates that multi-pose sampling capacity is required to cross energy barriers and discover the frustration funnel, whereas joint receptor-ligand coordinate co-adaptation governs local optimization within the funnel. Collectively, this study reframes the allosteric \"blind spot\" as a quantitative property of energy landscape architecture rather than a defect of any specific predictive framework. We demonstrate that frustration quenching magnitude and structural network centrality serve as physical descriptors that define the intrinsic limits of AI performance, reframing AI accuracy from a benchmark metric into a physics-grounded quantitative reporter of macromolecular binding landscape architecture.",
+  "authors": [
+    "Lucas Turano",
+    "Brandon Foley",
+    "Ryan Dennis",
+    "Will Gatlin",
+    "Gennady Verkhivker"
+  ],
+  "published_date": "2026-10-09",
+  "updated_date": "2026-10-09T14:10:14Z",
+  "journal": "bioRxiv",
+  "category": "Biophysics",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.05.756861",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.05.756861.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [
+    "Biophysics"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Biophysics",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            9
+          ]
+        ],
+        "date-time": "2026-10-09T14:50:45Z",
+        "timestamp": 1791557445553,
+        "version": "4.3.4"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            9
+          ]
+        ]
+      },
+      "group-title": "Biophysics",
+      "reference-count": 0,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                9
+              ]
+            ],
+            "date-time": "2026-10-09T00:00:00Z",
+            "timestamp": 1791504000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://www.biorxiv.org/about/FAQ#license"
+        }
+      ],
+      "funder": [
+        {
+          "award": [
+            "1R01AI181600-01"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "1R01AI181600-01"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/043z4tv69",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "award": [
+            "5R01AI181600-02"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "5R01AI181600-02"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/043z4tv69",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "award": [
+            "Subaward 6069-SC24-11"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "Subaward 6069-SC24-11"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/043z4tv69",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            9
+          ]
+        ]
+      },
+      "abstract": "<jats:p>Deep learning co-folding and docking models accurately predict ligand binding poses at orthosteric sites yet systematically underperform at allosteric pockets. Here, we demonstrate that this accuracy gap reflects a fundamental biophysical property of local energy landscape topology specifically, the magnitude of frustration quenching upon ligand binding rather than an intrinsic algorithmic defect. By evaluating leading co-folding and docking paradigms across curated benchmarks and large-scale uncurated datasets, we show that AI prediction success strongly tracks frustration quenching which the degree to which ligand binding relieves local energetic strain to form a steep energy funnel. Topologically, frustration-weighted residue interaction networks reveal that orthosteric pockets act as high-betweenness communication hubs embedded within contiguous, minimally frustrated pathways. In contrast, allosteric sites reside in low-betweenness peripheral regions with fragmented frustration profiles, presenting flatter, entropy-dominated landscapes that challenge structure prediction algorithms. Comparing generative diffusion with single-shot regression demonstrates that multi-pose sampling capacity is required to cross energy barriers and discover the frustration funnel, whereas joint receptor-ligand coordinate co-adaptation governs local optimization within the funnel. Collectively, this study reframes the allosteric \"blind spot\" as a quantitative property of energy landscape architecture rather than a defect of any specific predictive framework. We demonstrate that frustration quenching magnitude and structural network centrality serve as physical descriptors that define the intrinsic limits of AI performance, reframing AI accuracy from a benchmark metric into a physics-grounded quantitative reporter of macromolecular binding landscape architecture.</jats:p>",
+      "DOI": "10.64898/2026.10.05.756861",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            9
+          ]
+        ],
+        "date-time": "2026-10-09T14:10:14Z",
+        "timestamp": 1791555014000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Frustration Quenching and Network Topology of the Energy Landscape as Primary Determinants of Protein-Ligand Binding Pose Prediction by Deep Learning Models"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "given": "Lucas",
+          "family": "Turano",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Chapman University;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Brandon",
+          "family": "Foley",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Chapman University;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ryan",
+          "family": "Dennis",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Chapman University;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Will",
+          "family": "Gatlin",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Chapman University;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-4507-4471",
+          "authenticated-orcid": false,
+          "given": "Gennady",
+          "family": "Verkhivker",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Chapman University School of Pharmacy"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.10.05.756861",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            9
+          ]
+        ],
+        "date-time": "2026-10-09T14:10:14Z",
+        "timestamp": 1791555014000
+      },
+      "score": 52.27312,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.10.05.756861"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            9
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.64898/2026.10.05.756861",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            9
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

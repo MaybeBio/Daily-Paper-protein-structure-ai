@@ -1,0 +1,253 @@
+{
+  "identity": {
+    "pmid": "42853246",
+    "doi": "10.1515/hsz-2026-0121",
+    "title": "Structural basis of serine protease inhibition by antibodies from biased Fab phage-display libraries."
+  },
+  "content": {
+    "abstract": "Biased Fab phage-display libraries were designed to determine whether inhibitory CDR H3 motifs from potent anti-matriptase antibodies could be transferred to target homologous serine proteases. Using reverse-binding and substrate-like H3 motifs from parental clones A11 and E2 as templates, six synthetic libraries with 10(10) diversity were constructed. Selection against matriptase identified 16 inhibitors with sub-100 nM potency, representing 100,000-fold improvement over circularized H3 loops alone. Selection against TMPRSS2, a serine protease implicated in viral entry and prostate cancer with 43 % sequence identity to matriptase, yielded binders with micromolar inhibitory potency. Selection against urokinase plasminogen activator (uPA, 35 % identity) identified binders that adopted a substrate-like CDR H3 binding mode in our structural models. Across all reference structures, including the separately identified uPA inhibitor AB2 (PDB: 9PYF, deposited with this work), benchmarking of five co-folding methods and rigid-body docking showed that co-folding consistently achieved acceptable to high quality DockQ scores, outperforming traditional docking and capturing the recognition of key active site determinants. Ensemble predictions of mutational binding energy changes (DeltaDeltaG) using these models identified key paratope-epitope interactions, with predictions validated through mutagenesis. This work establishes a framework integrating biased antibody libraries with computational structure prediction and analysis for targeting conserved protease epitopes.",
+    "keywords": [
+      "AlphaFold",
+      "antibody engineering",
+      "phage display",
+      "protease inhibition",
+      "structure prediction",
+      "DeltaDeltaG"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Anderson, Kyle J",
+        "Lee, Melody S",
+        "Sevillano, Natalia",
+        "Chen, Gang",
+        "Hornsby, Michael J",
+        "Sidhu, Sachdev S",
+        "Craik, Charles S"
+      ],
+      "short_names": [
+        "Anderson KJ",
+        "Lee MS",
+        "Sevillano N",
+        "Chen G",
+        "Hornsby MJ",
+        "Sidhu SS",
+        "Craik CS"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-2737-8129",
+        "ORCID: 0000-0001-7704-9185"
+      ],
+      "affiliations": [
+        "Biophysics Graduate Program, University of California San Francisco, San Francisco, CA 94158, USA.",
+        "Graduate Group in Chemistry and Chemical Biology, University of California, San Francisco, CA 94158, USA.",
+        "Department of Pharmaceutical Chemistry, University of California, San Francisco, CA 94158, USA.",
+        "Banting and Best Department of Medical Research, Terrence Donnelly Center for Cellular and Biomolecular Research, University of Toronto, 160 College Street, Toronto, ON M5S 3E1, Canada.",
+        "Department of Pharmaceutical Chemistry, University of California, San Francisco, CA 94158, USA.",
+        "Banting and Best Department of Medical Research, Terrence Donnelly Center for Cellular and Biomolecular Research, University of Toronto, 160 College Street, Toronto, ON M5S 3E1, Canada.",
+        "Department of Pharmaceutical Chemistry, University of California, San Francisco, CA 94158, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Anderson, Kyle J",
+        "short_name": "Anderson KJ",
+        "identifiers": [
+          "0000-0003-2737-8129"
+        ],
+        "affiliations": [
+          "Biophysics Graduate Program, University of California San Francisco, San Francisco, CA 94158, USA."
+        ]
+      },
+      {
+        "full_name": "Lee, Melody S",
+        "short_name": "Lee MS",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate Group in Chemistry and Chemical Biology, University of California, San Francisco, CA 94158, USA."
+        ]
+      },
+      {
+        "full_name": "Sevillano, Natalia",
+        "short_name": "Sevillano N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmaceutical Chemistry, University of California, San Francisco, CA 94158, USA."
+        ]
+      },
+      {
+        "full_name": "Chen, Gang",
+        "short_name": "Chen G",
+        "identifiers": [],
+        "affiliations": [
+          "Banting and Best Department of Medical Research, Terrence Donnelly Center for Cellular and Biomolecular Research, University of Toronto, 160 College Street, Toronto, ON M5S 3E1, Canada."
+        ]
+      },
+      {
+        "full_name": "Hornsby, Michael J",
+        "short_name": "Hornsby MJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmaceutical Chemistry, University of California, San Francisco, CA 94158, USA."
+        ]
+      },
+      {
+        "full_name": "Sidhu, Sachdev S",
+        "short_name": "Sidhu SS",
+        "identifiers": [],
+        "affiliations": [
+          "Banting and Best Department of Medical Research, Terrence Donnelly Center for Cellular and Biomolecular Research, University of Toronto, 160 College Street, Toronto, ON M5S 3E1, Canada."
+        ]
+      },
+      {
+        "full_name": "Craik, Charles S",
+        "short_name": "Craik CS",
+        "identifiers": [
+          "0000-0001-7704-9185"
+        ],
+        "affiliations": [
+          "Department of Pharmaceutical Chemistry, University of California, San Francisco, CA 94158, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biological chemistry"
+    ],
+    "journal_abbrev": [
+      "Biol Chem"
+    ],
+    "pub_date": "2026 Oct 7",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/09 11:40",
+    "fetched_at": "2026-10-11 08:17:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42853246",
+      "41959119",
+      "22154938",
+      "33221341",
+      "25888378",
+      "40100143",
+      "16141208",
+      "32997500",
+      "37278099",
+      "39965836",
+      "9642077",
+      "7744876",
+      "18514224",
+      "34160253",
+      "12923547",
+      "27965386",
+      "42636784",
+      "15236968",
+      "32829149",
+      "10543973",
+      "11731301",
+      "26385991",
+      "27593161",
+      "18077410",
+      "20015050",
+      "42554515",
+      "39345533",
+      "16426633",
+      "25882520",
+      "42475469",
+      "20704569",
+      "11292354",
+      "15522303",
+      "22489114",
+      "22841960",
+      "21693064",
+      "33039698",
+      "21635223",
+      "17825836",
+      "29104489",
+      "37879145",
+      "38350843",
+      "17932913",
+      "27226628",
+      "24085288",
+      "12549907",
+      "34759924",
+      "25556099",
+      "42737495",
+      "26498921",
+      "15777183",
+      "11854907",
+      "41667775",
+      "42382980",
+      "9839924",
+      "23255066",
+      "10556035",
+      "31363054",
+      "8798976",
+      "20540948",
+      "27122119",
+      "23219464",
+      "10779411",
+      "9680484",
+      "33107192",
+      "12742021",
+      "17475279",
+      "42476294",
+      "23966567",
+      "34077853",
+      "40298105",
+      "18713750",
+      "26406987",
+      "12369939",
+      "26378169",
+      "22233878",
+      "17587094",
+      "31471691",
+      "28884521",
+      "27986919",
+      "19772881",
+      "24794746",
+      "9642073",
+      "22258274",
+      "19857115",
+      "7806501",
+      "11162091",
+      "25749705",
+      "19285987",
+      "21787781",
+      "18318660",
+      "25238965",
+      "7537340",
+      "7538122",
+      "11959867",
+      "9328567",
+      "39167052",
+      "25889751",
+      "30648015",
+      "8144539"
+    ],
+    "review": [
+      "42853246",
+      "42636784",
+      "20704569",
+      "29104489",
+      "12369939"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

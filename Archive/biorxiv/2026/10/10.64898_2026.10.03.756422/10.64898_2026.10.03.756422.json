@@ -1,0 +1,570 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.03.756422",
+  "title": "trFlow: ultrafast all-atom protein conformational ensemble generation via conditional flow matching",
+  "doi": "10.64898/2026.10.03.756422",
+  "abstract": "Generating diverse, all-atom protein conformations remains challenging, especially for recovering alternative functional states and modeling conformational ensembles. We present trFlow, an ultrafast approach for generating all-atom conformations using geometry-guided flow matching. trFlow leverages three core innovations: (1) a hybrid single- and multi-step sampling scheme that balances accuracy and speed; (2) a decoupled representation-generation architecture that maximizes computational efficiency; and (3) fine-tuning on NMR ensembles to better capture conformational heterogeneity. Extensive benchmarking across dual-conformation proteins, NMR ensembles, and a CASP16 dynamic target shows that trFlow outperforms competing methods in recovering challenging states and reproducing experimental heterogeneity, while being an order of magnitude faster than existing all-atom approaches. These results establish trFlow as a practical and scalable framework for large-scale generation of all-atom conformational ensembles.",
+  "authors": [
+    "Chenxiao Xiang",
+    "Kailong Zhao",
+    "Zhenling Peng",
+    "Wenkai Wang",
+    "Jianyi Yang"
+  ],
+  "published_date": "2026-10-05",
+  "updated_date": "2026-10-06T03:55:19Z",
+  "journal": "bioRxiv",
+  "category": "Bioinformatics",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.03.756422",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.03.756422.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [
+    "Bioinformatics"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Bioinformatics",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            9
+          ]
+        ],
+        "date-time": "2026-10-09T02:49:33Z",
+        "timestamp": 1791514173097,
+        "version": "4.3.4"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            5
+          ]
+        ]
+      },
+      "group-title": "Bioinformatics",
+      "reference-count": 51,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                5
+              ]
+            ],
+            "date-time": "2026-10-05T00:00:00Z",
+            "timestamp": 1791158400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            5
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>Generating diverse, all-atom protein conformations remains challenging, especially for recovering alternative functional states and modeling conformational ensembles. We present trFlow, an ultrafast approach for generating all-atom conformations using geometry-guided flow matching. trFlow leverages three core innovations: (1) a hybrid single- and multi-step sampling scheme that balances accuracy and speed; (2) a decoupled representation-generation architecture that maximizes computational efficiency; and (3) fine-tuning on NMR ensembles to better capture conformational heterogeneity. Extensive benchmarking across dual-conformation proteins, NMR ensembles, and a CASP16 dynamic target shows that trFlow outperforms competing methods in recovering challenging states and reproducing experimental heterogeneity, while being an order of magnitude faster than existing all-atom approaches. These results establish trFlow as a practical and scalable framework for large-scale generation of all-atom conformational ensembles.</jats:p>",
+      "DOI": "10.64898/2026.10.03.756422",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            6
+          ]
+        ],
+        "date-time": "2026-10-06T03:55:19Z",
+        "timestamp": 1791258919000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "trFlow: ultrafast all-atom protein conformational ensemble generation via conditional flow matching"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "given": "Chenxiao",
+          "family": "Xiang",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "MOE Frontiers Science Center for Nonlinear Expectations, Research Center for Mathematics and Interdisciplinary Sciences, Shandong University, Qingdao 266237, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Kailong",
+          "family": "Zhao",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "MOE Frontiers Science Center for Nonlinear Expectations, Research Center for Mathematics and Interdisciplinary Sciences, Shandong University, Qingdao 266237, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-0303-6693",
+          "authenticated-orcid": false,
+          "given": "Zhenling",
+          "family": "Peng",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "MOE Frontiers Science Center for Nonlinear Expectations, Research Center for Mathematics and Interdisciplinary Sciences, Shandong University, Qingdao 266237, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8603-8250",
+          "authenticated-orcid": false,
+          "given": "Wenkai",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "MOE Frontiers Science Center for Nonlinear Expectations, Research Center for Mathematics and Interdisciplinary Sciences, Shandong University, Qingdao 266237, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-2912-7737",
+          "authenticated-orcid": false,
+          "given": "Jianyi",
+          "family": "Yang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "MOE Frontiers Science Center for Nonlinear Expectations, Research Center for Mathematics and Interdisciplinary Sciences, Shandong University, Qingdao 266237, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "reference": [
+        {
+          "key": "2026100819152056000_2026.10.03.756422v1.1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.181.4096.223"
+        },
+        {
+          "key": "2026100819152056000_2026.10.03.756422v1.2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nature06522"
+        },
+        {
+          "key": "2026100819152056000_2026.10.03.756422v1.3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/S41586-021-03819-2"
+        },
+        {
+          "key": "2026100819152056000_2026.10.03.756422v1.4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.abj8754"
+        },
+        {
+          "key": "2026100819152056000_2026.10.03.756422v1.5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.1914677117"
+        },
+        {
+          "key": "2026100819152056000_2026.10.03.756422v1.6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/S41586-024-07487-W"
+        },
+        {
+          "key": "2026100819152056000_2026.10.03.756422v1.7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/sci-ence.adl2528"
+        },
+        {
+          "key": "2026100819152056000_2026.10.03.756422v1.8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/bioinformatics/btac202"
+        },
+        {
+          "key": "2026100819152056000_2026.10.03.756422v1.9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/pro.4353"
+        },
+        {
+          "key": "2026100819152056000_2026.10.03.756422v1.10",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/bib/bbaf340"
+        },
+        {
+          "key": "2026100819152056000_2026.10.03.756422v1.11",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/28.1.235"
+        },
+        {
+          "key": "2026100819152056000_2026.10.03.756422v1.12",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41467-024-51507-2"
+        },
+        {
+          "key": "2026100819152056000_2026.10.03.756422v1.13",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.neuron.2018.08.011"
+        },
+        {
+          "key": "2026100819152056000_2026.10.03.756422v1.14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1042/BST20200193"
+        },
+        {
+          "key": "2026100819152056000_2026.10.03.756422v1.15",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41586-023-06832-9"
+        },
+        {
+          "key": "2026100819152056000_2026.10.03.756422v1.16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.2410662121"
+        },
+        {
+          "issue": "1",
+          "key": "2026100819152056000_2026.10.03.756422v1.17",
+          "doi-asserted-by": "crossref",
+          "first-page": "5622",
+          "DOI": "10.1038/s41467-025-60759-5",
+          "article-title": "Large-scale predictions of alternative protein conformations by AlphaFold2-based sequence association",
+          "volume": "16",
+          "year": "2025",
+          "journal-title": "Nature Communications"
+        },
+        {
+          "key": "2026100819152056000_2026.10.03.756422v1.18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7554/eLife.75751"
+        },
+        {
+          "key": "2026100819152056000_2026.10.03.756422v1.19",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Ge, L. , et al., AlphaFlex: Accuracy modeling of protein multiple conformations via predicted flexible residues. bioRxiv, 2025: p. 2025.07.11.664327.",
+          "DOI": "10.1101/2025.07.11.664327"
+        },
+        {
+          "issue": "1",
+          "key": "2026100819152056000_2026.10.03.756422v1.20",
+          "doi-asserted-by": "crossref",
+          "first-page": "7107",
+          "DOI": "10.1038/s41467-025-62582-4",
+          "article-title": "Modeling protein conformational ensembles by guiding AlphaFold2 with Double Electron Electron Resonance (DEER) distance distributions",
+          "volume": "16",
+          "year": "2025",
+          "journal-title": "Nature Communications"
+        },
+        {
+          "key": "2026100819152056000_2026.10.03.756422v1.21",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41586-024-08267-2"
+        },
+        {
+          "key": "2026100819152056000_2026.10.03.756422v1.22",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41467-024-51801-z"
+        },
+        {
+          "key": "2026100819152056000_2026.10.03.756422v1.23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/acs.jcim.3c01381"
+        },
+        {
+          "issue": "18",
+          "key": "2026100819152056000_2026.10.03.756422v1.24",
+          "doi-asserted-by": "crossref",
+          "first-page": "e18469",
+          "DOI": "10.1002/advs.202518469",
+          "article-title": "Generating Dynamic Structures Through Physics-Based Sampling of Predicted Inter-Residue Geometries",
+          "volume": "13",
+          "year": "2026",
+          "journal-title": "Advanced Science"
+        },
+        {
+          "key": "2026100819152056000_2026.10.03.756422v1.25",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Tang, J. , et al., SteerAF: Distogram-based Steering of AlphaFold2 toward Alternative Conformations. bioRxiv, 2026: p. 2026.06.19.733296.",
+          "DOI": "10.64898/2026.06.19.733296"
+        },
+        {
+          "key": "2026100819152056000_2026.10.03.756422v1.26",
+          "unstructured": "Jing, B. , et al., EigenFold: Generative Protein Structure Prediction with Diffusion Models. arXiv e-prints, 2023: p. arXiv:2304.02198."
+        },
+        {
+          "key": "2026100819152056000_2026.10.03.756422v1.27",
+          "unstructured": "Lu, J. , et al., Str2Str: A Score-based Framework for Zero-shot Protein Conformation Sampling, in The Twelfth International Conference on Learning Representations. 2024."
+        },
+        {
+          "issue": "5",
+          "key": "2026100819152056000_2026.10.03.756422v1.28",
+          "doi-asserted-by": "crossref",
+          "first-page": "558",
+          "DOI": "10.1038/s42256-024-00837-3",
+          "article-title": "Predicting equilibrium distributions for molecular systems with deep learning",
+          "volume": "6",
+          "year": "2024",
+          "journal-title": "Nature Machine Intelligence"
+        },
+        {
+          "issue": "6761",
+          "key": "2026100819152056000_2026.10.03.756422v1.29",
+          "doi-asserted-by": "crossref",
+          "first-page": "eadv9817",
+          "DOI": "10.1126/science.adv9817",
+          "article-title": "Scalable emulation of protein equilibrium ensembles with generative deep learning",
+          "volume": "389",
+          "year": "2025",
+          "journal-title": "Science"
+        },
+        {
+          "key": "2026100819152056000_2026.10.03.756422v1.30",
+          "unstructured": "Wang, Y. , et al. SimpleFold: Folding Proteins is Simpler than You Think. in International Conference on Learning Representations. 2026."
+        },
+        {
+          "key": "2026100819152056000_2026.10.03.756422v1.31",
+          "unstructured": "Li, S. , et al., Improving AlphaFlow for Efficient Protein Ensembles Generation, in ICML 2024 AI for Science Workshop. 2024."
+        },
+        {
+          "key": "2026100819152056000_2026.10.03.756422v1.32",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Cui, X. , et al., Exploring protein conformational ensembles using evolutionary conditional diffusion. bioRxiv, 2026: p. 2026.01.30.702768.",
+          "DOI": "10.64898/2026.01.30.702768"
+        },
+        {
+          "key": "2026100819152056000_2026.10.03.756422v1.33",
+          "unstructured": "Jing, B. , B. Berger , and T. Jaakkola , AlphaFold Meets Flow Matching for Generating Protein Ensembles, in Proceedings of the 41st International Conference on Machine Learning, R. Salakhutdinov , et al., Editors. 2024, PMLR. p. 22277–22303."
+        },
+        {
+          "key": "2026100819152056000_2026.10.03.756422v1.34",
+          "unstructured": "Wang, Y. , et al., Protein Conformation Generation via Force-Guided SE(3) Diffusion Models, in Proceedings of the 41st International Conference on Machine Learning, R. Salakhutdinov , et al., Editors. 2024, PMLR. p. 56835–56859."
+        },
+        {
+          "key": "2026100819152056000_2026.10.03.756422v1.35",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.sbi.2022.102495"
+        },
+        {
+          "key": "2026100819152056000_2026.10.03.756422v1.36",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.15252/embj.2019102177"
+        },
+        {
+          "issue": "34",
+          "key": "2026100819152056000_2026.10.03.756422v1.37",
+          "doi-asserted-by": "crossref",
+          "first-page": "e2500079122",
+          "DOI": "10.1073/pnas.2500079122",
+          "article-title": "The functional dynamics of FicD’s TPR domain are modulated by the interaction with ATP and BiP",
+          "volume": "122",
+          "year": "2025",
+          "journal-title": "Proceedings of the National Academy of Sciences"
+        },
+        {
+          "key": "2026100819152056000_2026.10.03.756422v1.38",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jmb.2018.06.022"
+        },
+        {
+          "issue": "1",
+          "key": "2026100819152056000_2026.10.03.756422v1.39",
+          "doi-asserted-by": "crossref",
+          "first-page": "362",
+          "DOI": "10.1002/prot.70062",
+          "article-title": "Predicting Pose Distribution of Protein Domains Connected by Flexible Linkers Is an Unsolved Problem",
+          "volume": "94",
+          "year": "2026",
+          "journal-title": "Proteins: Structure, Function, and Bioinformatics"
+        },
+        {
+          "key": "2026100819152056000_2026.10.03.756422v1.40",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/bioinformatics/btl158"
+        },
+        {
+          "key": "2026100819152056000_2026.10.03.756422v1.41",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nbt.3988"
+        },
+        {
+          "issue": "6",
+          "key": "2026100819152056000_2026.10.03.756422v1.42",
+          "doi-asserted-by": "crossref",
+          "first-page": "679",
+          "DOI": "10.1038/s41592-022-01488-1",
+          "article-title": "ColabFold: making protein folding accessible to all",
+          "volume": "19",
+          "year": "2022",
+          "journal-title": "Nature Methods"
+        },
+        {
+          "issue": "2",
+          "key": "2026100819152056000_2026.10.03.756422v1.43",
+          "doi-asserted-by": "crossref",
+          "first-page": "173",
+          "DOI": "10.1038/nmeth.1818",
+          "article-title": "HHblits: lightning-fast iterative protein sequence searching by HMM-HMM alignment",
+          "volume": "9",
+          "year": "2012",
+          "journal-title": "Nature Methods"
+        },
+        {
+          "key": "2026100819152056000_2026.10.03.756422v1.44",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s12859-019-3019-7"
+        },
+        {
+          "key": "2026100819152056000_2026.10.03.756422v1.45",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/prot.20264"
+        },
+        {
+          "key": "2026100819152056000_2026.10.03.756422v1.46",
+          "unstructured": "Rao, R.M. , et al., MSA Transformer, in Proceedings of the 38th International Conference on Machine Learning, M. Meila and T. Zhang , Editors. 2021, PMLR. p. 8844–8856."
+        },
+        {
+          "key": "2026100819152056000_2026.10.03.756422v1.47",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/TPAMI.2019.2938758"
+        },
+        {
+          "key": "2026100819152056000_2026.10.03.756422v1.48",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Geng, Z. , et al., Mean Flows for One-step Generative Modeling, in Advances in Neural Information Processing Systems. 2025, Neural Information Processing Systems Foundation, Inc. p. 84032–84054.",
+          "DOI": "10.52202/085713-2534"
+        },
+        {
+          "issue": "21",
+          "key": "2026100819152056000_2026.10.03.756422v1.49",
+          "doi-asserted-by": "crossref",
+          "first-page": "3953",
+          "DOI": "10.1093/bioinformatics/btab615",
+          "article-title": "FRETraj: integrating single-molecule spectroscopy with molecular dynamics",
+          "volume": "37",
+          "year": "2021",
+          "journal-title": "Bioinformatics"
+        },
+        {
+          "issue": "12",
+          "key": "2026100819152056000_2026.10.03.756422v1.50",
+          "doi-asserted-by": "crossref",
+          "first-page": "1218",
+          "DOI": "10.1038/nmeth.2222",
+          "article-title": "A toolkit and benchmark study for FRET-restrained high-precision structural modeling",
+          "volume": "9",
+          "year": "2012",
+          "journal-title": "Nature Methods"
+        },
+        {
+          "key": "2026100819152056000_2026.10.03.756422v1.51",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0278364909352700"
+        }
+      ],
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.10.03.756422",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            9
+          ]
+        ],
+        "date-time": "2026-10-09T02:15:33Z",
+        "timestamp": 1791512133000
+      },
+      "score": 58.21242,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.10.03.756422"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            5
+          ]
+        ]
+      },
+      "references-count": 51,
+      "URL": "https://doi.org/10.64898/2026.10.03.756422",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            5
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

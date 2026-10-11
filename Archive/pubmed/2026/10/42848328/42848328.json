@@ -1,0 +1,313 @@
+{
+  "identity": {
+    "pmid": "42848328",
+    "doi": "10.1096/fj.202601616RRR",
+    "title": "Structural and Mechanistic Insights Into GSDME Pore Formation and Functional Regulation."
+  },
+  "content": {
+    "abstract": "Gasdermin E (GSDME) is a unique member of the gasdermin family linked to deafness, cancer, and neurodegenerative diseases, and mediates chemotherapy-induced pyroptosis; however, its pore-forming mechanism remains poorly understood. Here, we present cryo-EM structures of GSDME pores with oligomeric stoichiometries ranging from 23 to 29 protomers. Using mutagenesis, liposome leakage assays, and analysis of cancer-associated mutations, we identified key residues responsible for membrane binding, shallow membrane insertion, and oligomerization through three distinct structural interfaces. Molecular dynamics simulations reveal dynamic lipid recruitment and specificity: Anionic TMCL2 is selectively recruited by basic residues to facilitate shallow membrane penetration, while zwitterionic DPhPC solvates polar protein regions. Within the assembled 25-mer pore, specific lipids act as structural stabilizers to reinforce the intermolecular hydrogen bond network. Our findings support a stepwise, time-dependent mechanism underlying GSDME pore assembly. This study provides critical mechanistic insights into GSDME function and may guide the development of targeted therapeutics for cancers and neurodegenerative diseases.",
+    "keywords": [
+      "GSDME",
+      "cancer associated",
+      "cryo-electron microscopy",
+      "gasdermins",
+      "molecular dynamics simulation",
+      "mutation",
+      "pore forming",
+      "pyroptosis"
+    ],
+    "mesh_terms": [
+      "Molecular Dynamics Simulation",
+      "Humans",
+      "Gasdermins",
+      "*Receptors, Estrogen/chemistry/metabolism/genetics",
+      "Cryoelectron Microscopy",
+      "*Neoplasm Proteins/chemistry/metabolism/genetics",
+      "Liposomes/metabolism/chemistry",
+      "Protein Conformation",
+      "Mutation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Mo, Fei",
+        "Chen, Xiaoling",
+        "Zhang, Jiyun",
+        "Li, Danyang",
+        "Xing, Feiyue",
+        "Guo, Feng-Biao",
+        "Zhang, Zhengyu",
+        "Dong, Changjiang"
+      ],
+      "short_names": [
+        "Mo F",
+        "Chen X",
+        "Zhang J",
+        "Li D",
+        "Xing F",
+        "Guo FB",
+        "Zhang Z",
+        "Dong C"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-7020-5648"
+      ],
+      "affiliations": [
+        "Department of Thyroid and Breast Surgery, Zhongnan Hospital of Wuhan University, School of Pharmaceutical Sciences, Wuhan University, Wuhan, China.",
+        "Key Laboratory of Combinatorial Biosynthesis and Drug Discovery, Ministry of Education, School of Pharmaceutical Sciences, Wuhan University, Wuhan, China.",
+        "Department of Thyroid and Breast Surgery, Zhongnan Hospital of Wuhan University, School of Pharmaceutical Sciences, Wuhan University, Wuhan, China.",
+        "Key Laboratory of Combinatorial Biosynthesis and Drug Discovery, Ministry of Education, School of Pharmaceutical Sciences, Wuhan University, Wuhan, China.",
+        "Department of Thyroid and Breast Surgery, Zhongnan Hospital of Wuhan University, School of Pharmaceutical Sciences, Wuhan University, Wuhan, China.",
+        "Key Laboratory of Combinatorial Biosynthesis and Drug Discovery, Ministry of Education, School of Pharmaceutical Sciences, Wuhan University, Wuhan, China.",
+        "The Cryo-EM Center, Core Facility of Wuhan University, Wuhan University, Wuhan, China.",
+        "Department of Immunobiology, MOE Key Laboratory of Tumor Molecular Biology, Jinan University, Guangzhou, China.",
+        "Key Laboratory of Combinatorial Biosynthesis and Drug Discovery, Ministry of Education, School of Pharmaceutical Sciences, Wuhan University, Wuhan, China.",
+        "Department of Thyroid and Breast Surgery, Zhongnan Hospital of Wuhan University, School of Pharmaceutical Sciences, Wuhan University, Wuhan, China.",
+        "Key Laboratory of Combinatorial Biosynthesis and Drug Discovery, Ministry of Education, School of Pharmaceutical Sciences, Wuhan University, Wuhan, China.",
+        "Department of Thyroid and Breast Surgery, Zhongnan Hospital of Wuhan University, School of Pharmaceutical Sciences, Wuhan University, Wuhan, China.",
+        "Key Laboratory of Combinatorial Biosynthesis and Drug Discovery, Ministry of Education, School of Pharmaceutical Sciences, Wuhan University, Wuhan, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Mo, Fei",
+        "short_name": "Mo F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thyroid and Breast Surgery, Zhongnan Hospital of Wuhan University, School of Pharmaceutical Sciences, Wuhan University, Wuhan, China.",
+          "Key Laboratory of Combinatorial Biosynthesis and Drug Discovery, Ministry of Education, School of Pharmaceutical Sciences, Wuhan University, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Xiaoling",
+        "short_name": "Chen X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thyroid and Breast Surgery, Zhongnan Hospital of Wuhan University, School of Pharmaceutical Sciences, Wuhan University, Wuhan, China.",
+          "Key Laboratory of Combinatorial Biosynthesis and Drug Discovery, Ministry of Education, School of Pharmaceutical Sciences, Wuhan University, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Jiyun",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thyroid and Breast Surgery, Zhongnan Hospital of Wuhan University, School of Pharmaceutical Sciences, Wuhan University, Wuhan, China.",
+          "Key Laboratory of Combinatorial Biosynthesis and Drug Discovery, Ministry of Education, School of Pharmaceutical Sciences, Wuhan University, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Li, Danyang",
+        "short_name": "Li D",
+        "identifiers": [],
+        "affiliations": [
+          "The Cryo-EM Center, Core Facility of Wuhan University, Wuhan University, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Xing, Feiyue",
+        "short_name": "Xing F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Immunobiology, MOE Key Laboratory of Tumor Molecular Biology, Jinan University, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Feng-Biao",
+        "short_name": "Guo FB",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Combinatorial Biosynthesis and Drug Discovery, Ministry of Education, School of Pharmaceutical Sciences, Wuhan University, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Zhengyu",
+        "short_name": "Zhang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Thyroid and Breast Surgery, Zhongnan Hospital of Wuhan University, School of Pharmaceutical Sciences, Wuhan University, Wuhan, China.",
+          "Key Laboratory of Combinatorial Biosynthesis and Drug Discovery, Ministry of Education, School of Pharmaceutical Sciences, Wuhan University, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Dong, Changjiang",
+        "short_name": "Dong C",
+        "identifiers": [
+          "0000-0002-7020-5648"
+        ],
+        "affiliations": [
+          "Department of Thyroid and Breast Surgery, Zhongnan Hospital of Wuhan University, School of Pharmaceutical Sciences, Wuhan University, Wuhan, China.",
+          "Key Laboratory of Combinatorial Biosynthesis and Drug Discovery, Ministry of Education, School of Pharmaceutical Sciences, Wuhan University, Wuhan, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "FASEB journal : official publication of the Federation of American Societies for Experimental Biology"
+    ],
+    "journal_abbrev": [
+      "FASEB J"
+    ],
+    "pub_date": "2026 Oct 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/08 17:35",
+    "fetched_at": "2026-10-11 08:17:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42848328",
+      "42636365",
+      "41826357",
+      "38509367",
+      "41699675",
+      "42163353",
+      "36991125",
+      "28459430",
+      "42214820",
+      "41550939",
+      "38489483",
+      "29695864",
+      "36632024",
+      "27281216",
+      "34476497",
+      "38852642",
+      "37131678",
+      "31455540",
+      "37258998",
+      "42377759",
+      "39503596",
+      "42821042",
+      "29898893",
+      "34091823",
+      "31209022",
+      "36245269",
+      "41413917",
+      "32188940",
+      "27383986",
+      "34812891",
+      "37352727",
+      "38662913",
+      "27418190",
+      "42392288",
+      "38497302",
+      "33291882",
+      "37578722",
+      "35679425",
+      "38980908",
+      "30976076",
+      "41641992",
+      "30129169",
+      "33852854",
+      "31048915",
+      "42552735",
+      "38289118",
+      "32294153",
+      "42475469",
+      "25847242",
+      "42430474",
+      "31097341",
+      "37019111",
+      "32093389",
+      "37163338",
+      "39608440",
+      "40155553",
+      "40366863",
+      "35908609",
+      "42134760",
+      "27699868",
+      "39207099",
+      "41972293",
+      "40946739",
+      "40210150",
+      "34233045",
+      "42339914",
+      "42226696",
+      "33089544",
+      "39445538",
+      "39066985",
+      "31628657",
+      "41998358",
+      "40640160",
+      "30804337",
+      "40991702",
+      "10547292",
+      "39103324",
+      "38012131",
+      "42744390",
+      "37074648",
+      "37771587",
+      "38997456",
+      "42400808",
+      "41654150",
+      "37474992",
+      "37931057",
+      "40300704",
+      "30954575",
+      "36917977",
+      "26112409",
+      "31903844",
+      "31690840",
+      "40140423",
+      "36604548",
+      "31230091",
+      "33118046",
+      "30061362",
+      "39378585",
+      "38770426",
+      "37196719"
+    ],
+    "review": [
+      "42848328",
+      "41550939",
+      "36632024",
+      "38852642",
+      "37258998",
+      "42377759",
+      "34812891",
+      "37352727",
+      "38497302",
+      "30129169",
+      "32294153",
+      "32093389",
+      "40155553",
+      "40946739",
+      "42339914",
+      "31628657",
+      "37771587",
+      "40300704",
+      "31690840",
+      "31230091"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1096/fj.202601616RRR",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3409",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

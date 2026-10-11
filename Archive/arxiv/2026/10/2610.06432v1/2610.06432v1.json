@@ -1,0 +1,38 @@
+{
+  "source": "arxiv",
+  "source_id": "2610.06432v1",
+  "title": "Valid Stopping in Adaptive Generator-Verifier Loops",
+  "doi": "",
+  "abstract": "Numerous agentic workflows are based on a generator-verifier loop: a generator proposes candidates, a cheap verifier scores them, and the workflow terminates when a proposal is verified as good enough. The verifier typically proxies a more costly ground-truth oracle, and as the generator searches adaptively against it, false acceptances may accumulate. Proposals can pass the proxy but fail under the costlier ground-truth check. We study when to stop these loops while controlling the false discovery rate of the accepted proposals. Our construction introduces tools of independent interest in distribution-free statistical testing and conformal risk control, including analysis of $e$-values constructed through index betting and a novel conformal risk control procedure for non-monotone losses. We validate the approach in synthetic settings and on a protein-design benchmark.",
+  "authors": [
+    "Mahmoud Hegazy",
+    "Michael I. Jordan",
+    "Aymeric Dieuleveut"
+  ],
+  "published_date": "2026-10-05T14:42:26Z",
+  "updated_date": "2026-10-05T14:42:26Z",
+  "journal": "",
+  "category": "stat.ML, cs.AI, cs.LG, stat.ME",
+  "landing_url": "https://arxiv.org/abs/2610.06432v1",
+  "pdf_url": "https://arxiv.org/pdf/2610.06432v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "stat.ML",
+    "cs.AI",
+    "cs.LG",
+    "stat.ME"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2610.06432v1",
+    "raw_categories": [
+      "stat.ML",
+      "cs.AI",
+      "cs.LG",
+      "stat.ME"
+    ],
+    "journal_ref": ""
+  }
+}

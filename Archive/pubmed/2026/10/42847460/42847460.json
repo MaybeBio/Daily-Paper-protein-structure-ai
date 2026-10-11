@@ -1,0 +1,235 @@
+{
+  "identity": {
+    "pmid": "42847460",
+    "doi": "10.1002/prot.70190",
+    "title": "PNBind: Prediction of Nucleic Acid-Binding Sites Using Protein Structure and Protein Language Models."
+  },
+  "content": {
+    "abstract": "Accurate prediction of nucleic acid-binding sites is essential for understanding protein function and facilitating drug discovery. However, current computational methods are limited by single-layer language model representations, Calpha point clouds that discard local-frame geometry, and feature fusion in which high-dimensional sequence embeddings overshadow weaker evolutionary and structural signals. Here, we present PNBind, a multimodal deep learning framework that leverages protein language models, evolutionary information, and three-dimensional structural features via a geometric vector perceptron (GVP) backbone with an invariant point attention (IPA) layer for nucleic acid-binding site prediction. By integrating sequence representations from the ESM-series language models with alignment-derived evolutionary features, secondary-structure data, and geometric features extracted from five-atom local frames, PNBind enables effective late-stage multimodal signal fusion. Comprehensive benchmarking on the DNA-129, DNA-181, RNA-117, and RNA-285 datasets reveals that PNBind achieves strong performance, with F1 scores of 0.611, 0.443, 0.370, and 0.472 and MCC values of 0.586, 0.425, 0.351, and 0.416, respectively. Ablation studies confirm the dominant contribution of the protein language model backbone, while systematic evaluation of ESM-family protein language models demonstrates that proper PLM selection significantly boosts prediction accuracy. This study demonstrates that the effective integration of protein language models and geometric deep learning offers a practical approach for accurate nucleic acid-binding site prediction.",
+    "keywords": [
+      "geometric vector perceptron",
+      "multimodal feature integration",
+      "nucleic acid-binding site recognition",
+      "protein language model",
+      "protein structural representation"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Yunhai",
+        "Dang, Guanghong",
+        "Shao, Bowen",
+        "Li, Pengpai",
+        "Liu, Zhi-Ping"
+      ],
+      "short_names": [
+        "Li Y",
+        "Dang G",
+        "Shao B",
+        "Li P",
+        "Liu ZP"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-7742-9161"
+      ],
+      "affiliations": [
+        "Department of Biomedical Engineering, School of Control Science and Engineering, Shandong University, Jinan, Shandong, China.",
+        "Department of Biomedical Engineering, School of Control Science and Engineering, Shandong University, Jinan, Shandong, China.",
+        "Department of Biomedical Engineering, School of Control Science and Engineering, Shandong University, Jinan, Shandong, China.",
+        "Department of Biomedical Engineering, School of Control Science and Engineering, Shandong University, Jinan, Shandong, China.",
+        "Department of Biomedical Engineering, School of Control Science and Engineering, Shandong University, Jinan, Shandong, China.",
+        "National Center for Applied Mathematics, Shandong University, Jinan, Shandong, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Yunhai",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Engineering, School of Control Science and Engineering, Shandong University, Jinan, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Dang, Guanghong",
+        "short_name": "Dang G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Engineering, School of Control Science and Engineering, Shandong University, Jinan, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Shao, Bowen",
+        "short_name": "Shao B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Engineering, School of Control Science and Engineering, Shandong University, Jinan, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Li, Pengpai",
+        "short_name": "Li P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Engineering, School of Control Science and Engineering, Shandong University, Jinan, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Zhi-Ping",
+        "short_name": "Liu ZP",
+        "identifiers": [
+          "0000-0001-7742-9161"
+        ],
+        "affiliations": [
+          "Department of Biomedical Engineering, School of Control Science and Engineering, Shandong University, Jinan, Shandong, China.",
+          "National Center for Applied Mathematics, Shandong University, Jinan, Shandong, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Proteins"
+    ],
+    "journal_abbrev": [
+      "Proteins"
+    ],
+    "pub_date": "2026 Oct 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/08 17:35",
+    "fetched_at": "2026-10-11 08:17:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42847460",
+      "41977286",
+      "37824738",
+      "39576667",
+      "42814775",
+      "40919912",
+      "42636031",
+      "41045511",
+      "42752891",
+      "42227990",
+      "42475469",
+      "38830995",
+      "42335477",
+      "41168713",
+      "40439671",
+      "42119874",
+      "40601256",
+      "38349057",
+      "38281252",
+      "41677811",
+      "39202449",
+      "37745556",
+      "41947423",
+      "41257586",
+      "39276905",
+      "42013856",
+      "42450193",
+      "35443054",
+      "42465297",
+      "41172803",
+      "41385420",
+      "42001823",
+      "40853810",
+      "39961524",
+      "42599984",
+      "40628826",
+      "40601249",
+      "42752417",
+      "41902287",
+      "41419957",
+      "42123473",
+      "41608988",
+      "40728618",
+      "41749211",
+      "42154341",
+      "40027759",
+      "40814232",
+      "42173334",
+      "42190366",
+      "41542461",
+      "36192636",
+      "40119464",
+      "42693585",
+      "42669106",
+      "40742755",
+      "40961942",
+      "42579672",
+      "42750043",
+      "41810026",
+      "39795988",
+      "41495146",
+      "40960030",
+      "38983679",
+      "41791267",
+      "41257600",
+      "42625104",
+      "41731742",
+      "41292907",
+      "41413187",
+      "40462515",
+      "42229773",
+      "41612159",
+      "39121938",
+      "41284811",
+      "42849164",
+      "42656645",
+      "42100742",
+      "42541540",
+      "39345796",
+      "41392472",
+      "41399733",
+      "42286075",
+      "40483648",
+      "42323855",
+      "40067411",
+      "42602309",
+      "31847804",
+      "40784875",
+      "38812466",
+      "42826899",
+      "42633564",
+      "41206932",
+      "41608984",
+      "40279085",
+      "42400037",
+      "37866116",
+      "41864877",
+      "38303473",
+      "38003686",
+      "41921197"
+    ],
+    "review": [
+      "42847460",
+      "39202449",
+      "42123473"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1002/prot.70190",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

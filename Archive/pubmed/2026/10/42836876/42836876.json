@@ -1,0 +1,282 @@
+{
+  "identity": {
+    "pmid": "42836876",
+    "doi": "10.1007/s00894-026-06981-4",
+    "title": "Deep learning-guided high-throughput screening and molecular dynamics simulations facilitate the discovery of potential FXIIa inhibitors."
+  },
+  "content": {
+    "abstract": "CONTEXT: Pathological thrombosis is a major cause of cardiovascular and cerebrovascular diseases. Current anticoagulants increase bleeding risk by impairing physiological hemostasis. Because coagulation factor XIIa (FXIIa) drives pathological thrombosis but is dispensable for normal hemostasis, inhibiting FXIIa may offer antithrombotic efficacy with reduced bleeding risk. However, the marked flexibility of its active site hampers the discovery of small-molecule inhibitors. Here, we developed an integrated computational workflow to address this challenge and screened a library of approximately 21 million compounds. Four structurally distinct hits (DR1-DR4) were identified. Microsecond-scale molecular dynamics simulations suggested stable binding of all four compounds to FXIIa, and binding free energy calculations suggested that DR1 and DR3 exhibited more favorable binding free energies than the reference inhibitor 1303. These compounds also showed favorable predicted pharmacokinetic properties, providing structurally distinct hits for FXIIa-targeted anticoagulant discovery. METHODS: The crystal structure of the FXIIa catalytic domain (PDB ID: 6B74) was prepared in PyMOL 3.1, and missing regions were modeled with MODELLER. To capture active-site flexibility, apo-FXIIa was subjected to three independent 1-micros molecular dynamics simulations, and a representative conformation selected by clustering was used for virtual screening. A hierarchical screening workflow was carried out in DrugFlow using KarmaDock for primary screening, CarsiDock for redocking, and RTMScore for rescoring. Drug-likeness and pharmacokinetic properties were predicted with SwissADME. Selected complexes were simulated in Amber18 using ff19SB for the protein, GAFF2 for ligands, OPC water, and AM1-BCC ligand charges, and trajectories were analyzed with CPPTRAJ in AmberTools. Binding free energies were estimated with MMPBSA.py using the MM/GBSA method, with entropy contributions evaluated by normal mode analysis. Structural visualization was performed with PyMOL and Discovery Studio Visualizer 2016.",
+    "keywords": [
+      "Computer-aided drug discovery",
+      "FXIIa",
+      "Inhibitor",
+      "Molecular dynamics simulation",
+      "Virtual screening"
+    ],
+    "mesh_terms": [
+      "*Molecular Dynamics Simulation",
+      "*Factor XIIa/antagonists & inhibitors/chemistry",
+      "*Drug Discovery/methods",
+      "*High-Throughput Screening Assays/methods",
+      "Catalytic Domain",
+      "Humans",
+      "*Anticoagulants/chemistry/pharmacology",
+      "Protein Binding",
+      "Ligands",
+      "Thermodynamics",
+      "Molecular Docking Simulation",
+      "Blood Proteins"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Cai, Fengze",
+        "Chen, Wanjun",
+        "Xie, Song",
+        "Wu, Juhong",
+        "Zhang, Yongqi",
+        "Gao, Ping",
+        "Zhang, Han",
+        "Li, Jinyu"
+      ],
+      "short_names": [
+        "Cai F",
+        "Chen W",
+        "Xie S",
+        "Wu J",
+        "Zhang Y",
+        "Gao P",
+        "Zhang H",
+        "Li J"
+      ],
+      "auids": [],
+      "affiliations": [
+        "College of Chemistry, Fuzhou University, Fuzhou, 350116, China.",
+        "College of Chemistry, Fuzhou University, Fuzhou, 350116, China.",
+        "College of Chemistry, Fuzhou University, Fuzhou, 350116, China.",
+        "College of Chemistry, Fuzhou University, Fuzhou, 350116, China.",
+        "College of Chemistry, Fuzhou University, Fuzhou, 350116, China.",
+        "College of Chemistry, Fuzhou University, Fuzhou, 350116, China.",
+        "College of Chemistry, Fuzhou University, Fuzhou, 350116, China. hzhang9710@163.com.",
+        "College of Chemistry, Fuzhou University, Fuzhou, 350116, China. j.li@fzu.edu.cn.",
+        "College of Biological and Pharmaceutical Engineering, Jilin Agricultural Science and Technology University, Jilin, 132101, China. j.li@fzu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Cai, Fengze",
+        "short_name": "Cai F",
+        "identifiers": [],
+        "affiliations": [
+          "College of Chemistry, Fuzhou University, Fuzhou, 350116, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Wanjun",
+        "short_name": "Chen W",
+        "identifiers": [],
+        "affiliations": [
+          "College of Chemistry, Fuzhou University, Fuzhou, 350116, China."
+        ]
+      },
+      {
+        "full_name": "Xie, Song",
+        "short_name": "Xie S",
+        "identifiers": [],
+        "affiliations": [
+          "College of Chemistry, Fuzhou University, Fuzhou, 350116, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Juhong",
+        "short_name": "Wu J",
+        "identifiers": [],
+        "affiliations": [
+          "College of Chemistry, Fuzhou University, Fuzhou, 350116, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yongqi",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Chemistry, Fuzhou University, Fuzhou, 350116, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Ping",
+        "short_name": "Gao P",
+        "identifiers": [],
+        "affiliations": [
+          "College of Chemistry, Fuzhou University, Fuzhou, 350116, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Han",
+        "short_name": "Zhang H",
+        "identifiers": [],
+        "affiliations": [
+          "College of Chemistry, Fuzhou University, Fuzhou, 350116, China. hzhang9710@163.com."
+        ]
+      },
+      {
+        "full_name": "Li, Jinyu",
+        "short_name": "Li J",
+        "identifiers": [],
+        "affiliations": [
+          "College of Chemistry, Fuzhou University, Fuzhou, 350116, China. j.li@fzu.edu.cn.",
+          "College of Biological and Pharmaceutical Engineering, Jilin Agricultural Science and Technology University, Jilin, 132101, China. j.li@fzu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of molecular modeling"
+    ],
+    "journal_abbrev": [
+      "J Mol Model"
+    ],
+    "pub_date": "2026 Oct 6",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/06 17:31",
+    "fetched_at": "2026-10-11 08:17:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42836876",
+      "32549905",
+      "42043606",
+      "42804025",
+      "42106528",
+      "30921556",
+      "42714666",
+      "37120484",
+      "41780347",
+      "39487279",
+      "42485955",
+      "31148409",
+      "42747587",
+      "40126695",
+      "41465468",
+      "41045314",
+      "42388139",
+      "42118388",
+      "41887806",
+      "42371179",
+      "41447508",
+      "42816987",
+      "41483315",
+      "32120300",
+      "30557817",
+      "42024204",
+      "42413396",
+      "28572720",
+      "37022608",
+      "24032517",
+      "30366191",
+      "29468945",
+      "38613643",
+      "32471245",
+      "42599595",
+      "28393677",
+      "28499269",
+      "24358939",
+      "35807344",
+      "23340525",
+      "36995499",
+      "37814544",
+      "33164832",
+      "42418033",
+      "29936228",
+      "40616908",
+      "28116998",
+      "23015102",
+      "38084877",
+      "33068184",
+      "41880802",
+      "27373313",
+      "27315035",
+      "32321343",
+      "42198380",
+      "29475408",
+      "28605994",
+      "29182053",
+      "42448416",
+      "42511781",
+      "42185552",
+      "25541527",
+      "32920239",
+      "39652601",
+      "40924381",
+      "42561603",
+      "39403785",
+      "38095558",
+      "42308822",
+      "42794510",
+      "39703994",
+      "35208955",
+      "35032738",
+      "41456261",
+      "32691963",
+      "39707767",
+      "31554227",
+      "22397751",
+      "38274328",
+      "30928871",
+      "42011130",
+      "38269624",
+      "30781686",
+      "26724452",
+      "39427335",
+      "39616546",
+      "32472293",
+      "41084624",
+      "40649923",
+      "40996455",
+      "42493523",
+      "41544341",
+      "37029759",
+      "42019241",
+      "29156382",
+      "41125627",
+      "29334340",
+      "39480515",
+      "40914945",
+      "42794684"
+    ],
+    "review": [
+      "42836876"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/bloodthinners.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Blood Thinners"
+      },
+      {
+        "url": "https://dx.doi.org/10.1007/s00894-026-06981-4",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

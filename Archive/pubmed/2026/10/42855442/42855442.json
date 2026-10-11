@@ -1,0 +1,267 @@
+{
+  "identity": {
+    "pmid": "42855442",
+    "doi": "10.1093/bib/bbag400",
+    "title": "InstructPLM-mu: protein fitness prediction from structure instructions."
+  },
+  "content": {
+    "abstract": "Multimodal protein language models (PLMs) deliver strong performance on mutation-effect prediction, but training such models from scratch demands substantial computational resources. In this paper, we propose a fine-tuning framework called InstructPLM-mu and investigate the question: Can a pretrained sequence-only PLM, augmented with structural information during fine-tuning, match the performance of end-to-end trained multimodal models? Surprisingly, our experiments show that fine-tuning ESM2 with structural inputs can reach performance comparable to ESM3. To understand how this is achieved, we systematically compare three different feature-fusion designs and fine-tuning recipes. Our results reveal that both the fusion method and the tuning strategy strongly affect final accuracy, indicating that the fine-tuning process is not trivial. We hope this work offers practical guidance for injecting structure into pretrained PLMs and motivates further research on better fusion mechanisms and fine-tuning protocols.",
+    "keywords": [
+      "fine-tuning",
+      "multimodal fusion",
+      "mutation prediction",
+      "protein language models"
+    ],
+    "mesh_terms": [
+      "*Proteins/chemistry/genetics",
+      "Mutation",
+      "*Computational Biology/methods",
+      "Algorithms",
+      "Prediction Algorithms",
+      "Protein Conformation",
+      "*Software"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Xu, Junde",
+        "Shi, Yapin",
+        "Lang, Lijun",
+        "Cui, Taoyong",
+        "Zhang, Zhiming",
+        "Chen, Guangyong",
+        "Qiu, Jiezhong",
+        "Heng, Pheng-Ann"
+      ],
+      "short_names": [
+        "Xu J",
+        "Shi Y",
+        "Lang L",
+        "Cui T",
+        "Zhang Z",
+        "Chen G",
+        "Qiu J",
+        "Heng PA"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Computer Science and Engineering, The Chinese University of Hong Kong, Shatin, New Territory, Hong Kong SAR, 999077, China.",
+        "Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences, No. 1, Xiangshan Zhinong, Xihu District, Hangzhou, Zhejiang, 310024, China.",
+        "Department of Computer Science and Engineering, The Chinese University of Hong Kong, Shatin, New Territory, Hong Kong SAR, 999077, China.",
+        "Department of Computer Science and Engineering, The Chinese University of Hong Kong, Shatin, New Territory, Hong Kong SAR, 999077, China.",
+        "Hangzhou Institute of Medicine, Chinese Academy of Sciences, 150 Dongfang Street Xiasha, Qiantang District, Hangzhou, Zhejiang, 310000, China.",
+        "College of Intelligence and Computing, Tianjin University, No. 135 Yaguan Road, Haihe Education Park, Tianjin, 300350, China.",
+        "Hangzhou Institute of Medicine, Chinese Academy of Sciences, 150 Dongfang Street Xiasha, Qiantang District, Hangzhou, Zhejiang, 310000, China.",
+        "Hangzhou Institute of Medicine, Chinese Academy of Sciences, 150 Dongfang Street Xiasha, Qiantang District, Hangzhou, Zhejiang, 310000, China.",
+        "Department of Computer Science and Engineering, The Chinese University of Hong Kong, Shatin, New Territory, Hong Kong SAR, 999077, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Xu, Junde",
+        "short_name": "Xu J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Computer Science and Engineering, The Chinese University of Hong Kong, Shatin, New Territory, Hong Kong SAR, 999077, China."
+        ]
+      },
+      {
+        "full_name": "Shi, Yapin",
+        "short_name": "Shi Y",
+        "identifiers": [],
+        "affiliations": [
+          "Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences, No. 1, Xiangshan Zhinong, Xihu District, Hangzhou, Zhejiang, 310024, China."
+        ]
+      },
+      {
+        "full_name": "Lang, Lijun",
+        "short_name": "Lang L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Computer Science and Engineering, The Chinese University of Hong Kong, Shatin, New Territory, Hong Kong SAR, 999077, China."
+        ]
+      },
+      {
+        "full_name": "Cui, Taoyong",
+        "short_name": "Cui T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Computer Science and Engineering, The Chinese University of Hong Kong, Shatin, New Territory, Hong Kong SAR, 999077, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Zhiming",
+        "short_name": "Zhang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Hangzhou Institute of Medicine, Chinese Academy of Sciences, 150 Dongfang Street Xiasha, Qiantang District, Hangzhou, Zhejiang, 310000, China.",
+          "College of Intelligence and Computing, Tianjin University, No. 135 Yaguan Road, Haihe Education Park, Tianjin, 300350, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Guangyong",
+        "short_name": "Chen G",
+        "identifiers": [],
+        "affiliations": [
+          "Hangzhou Institute of Medicine, Chinese Academy of Sciences, 150 Dongfang Street Xiasha, Qiantang District, Hangzhou, Zhejiang, 310000, China."
+        ]
+      },
+      {
+        "full_name": "Qiu, Jiezhong",
+        "short_name": "Qiu J",
+        "identifiers": [],
+        "affiliations": [
+          "Hangzhou Institute of Medicine, Chinese Academy of Sciences, 150 Dongfang Street Xiasha, Qiantang District, Hangzhou, Zhejiang, 310000, China."
+        ]
+      },
+      {
+        "full_name": "Heng, Pheng-Ann",
+        "short_name": "Heng PA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Computer Science and Engineering, The Chinese University of Hong Kong, Shatin, New Territory, Hong Kong SAR, 999077, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Briefings in bioinformatics"
+    ],
+    "journal_abbrev": [
+      "Brief Bioinform"
+    ],
+    "pub_date": "2026 Sep 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/09 23:31",
+    "fetched_at": "2026-10-11 08:17:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42855442",
+      "40601249",
+      "40592174",
+      "41662462",
+      "39198457",
+      "39665266",
+      "41159381",
+      "41145424",
+      "40736745",
+      "40622483",
+      "39060029",
+      "42437533",
+      "40806259",
+      "40343467",
+      "38900798",
+      "39191788",
+      "42104958",
+      "40601248",
+      "41018952",
+      "42814775",
+      "39985945",
+      "41614412",
+      "40170306",
+      "40439671",
+      "39795988",
+      "40181110",
+      "42443524",
+      "41104652",
+      "40563483",
+      "42367058",
+      "40421660",
+      "41742038",
+      "41587256",
+      "42411822",
+      "40814232",
+      "40609014",
+      "41608984",
+      "39043654",
+      "40728618",
+      "42662288",
+      "38842509",
+      "41838876",
+      "40601266",
+      "39237735",
+      "37609352",
+      "39457474",
+      "39384986",
+      "42148683",
+      "40874821",
+      "39858443",
+      "42475522",
+      "42752891",
+      "41045511",
+      "35055158",
+      "42288985",
+      "39750023",
+      "41919475",
+      "41269097",
+      "42155622",
+      "40985030",
+      "42734555",
+      "34180966",
+      "39110130",
+      "38507445",
+      "40945830",
+      "41947423",
+      "27787824",
+      "39361250",
+      "42316773",
+      "42452955",
+      "40254833",
+      "36495196",
+      "40849052",
+      "42753254",
+      "41278538",
+      "38398585",
+      "31107659",
+      "42636030",
+      "37986761",
+      "41222559",
+      "41259416",
+      "42154341",
+      "40140535",
+      "40720216",
+      "40989496",
+      "37211194",
+      "42239143",
+      "41014267",
+      "38759908",
+      "40742755",
+      "41905520",
+      "37722445",
+      "42560030",
+      "34058752",
+      "42573520",
+      "42119874",
+      "38501649",
+      "42248581",
+      "41422228",
+      "27787823"
+    ],
+    "review": [
+      "42855442",
+      "39985945",
+      "40170306",
+      "40601266",
+      "42753254"
+    ],
+    "pmc": [
+      "13652651"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

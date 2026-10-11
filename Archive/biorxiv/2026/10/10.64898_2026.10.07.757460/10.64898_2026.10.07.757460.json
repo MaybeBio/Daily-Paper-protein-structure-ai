@@ -1,0 +1,587 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.07.757460",
+  "title": "Programming N-linked glycan composition through de novo protein design",
+  "doi": "10.64898/2026.10.07.757460",
+  "abstract": "N-linked glycans are ubiquitous post-translational modifications that mediate diverse biological processes, including cell signaling and adhesion, molecular recognition, and host-pathogen interactions. Despite their importance, N-linked glycans have largely remained beyond the reach of biomolecular design due to a lack of methods capable of jointly modeling glycans and protein structure. Here, we develop a general all-atom computational pipeline for creating de novo glycoproteins in which the amino acid sequence encodes both the location and composition of N-linked glycans. The method uses three-dimensional protein structure to tune glycan accessibility to processing enzymes in the eukaryotic secretory pathway. Systematic increases in steric restriction progressively reduced processing, shifting glycans from heterogeneous complex-type structures toward increasingly underprocessed oligomannose-type species resembling those found on many viral glycoproteins. Despite this programmed restriction, the resulting oligomannose glycans remained accessible for biological recognition, inhibiting uropathogenic Escherichia coli adhesion to human bladder cells and binding mannose-binding lectin. These results establish steric control of N-glycan processing as a genetically encodable design principle and extend computational protein design to functional glycoproteins with programmed composition.",
+  "authors": [
+    "Margaret C Lunn-Halbert",
+    "Joel D Allen",
+    "Rohith Krishna",
+    "Anna Manchenko",
+    "Xinting Li",
+    "Edward D Lopatto",
+    "Jerome Pinkner",
+    "Carolina Moller",
+    "Woody Ahern",
+    "Johnny Mendoza",
+    "Alex Kang",
+    "Hannah Nguyen",
+    "Emily Joyce",
+    "Asim Bera",
+    "Scott J Hultgren",
+    "Evgeni Sokurenko",
+    "Max Crispin",
+    "David Baker",
+    "Neil P King"
+  ],
+  "published_date": "2026-10-08",
+  "updated_date": "2026-10-08T19:30:22Z",
+  "journal": "bioRxiv",
+  "category": "Biochemistry",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.07.757460",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.07.757460.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [
+    "Biochemistry"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Biochemistry",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            8
+          ]
+        ],
+        "date-time": "2026-10-08T19:56:36Z",
+        "timestamp": 1791489396571,
+        "version": "4.3.4"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            8
+          ]
+        ]
+      },
+      "group-title": "Biochemistry",
+      "reference-count": 0,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                8
+              ]
+            ],
+            "date-time": "2026-10-08T00:00:00Z",
+            "timestamp": 1791417600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "name": "Gates Foundation",
+          "award": [
+            "INV-069938"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "INV-069938"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/0456r8d26",
+              "id-type": "ROR",
+              "asserted-by": "crossref"
+            }
+          ]
+        },
+        {
+          "name": "National Institute of Allergy and Infectious Diseases",
+          "award": [
+            "U19AI181881"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "U19AI181881"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/043z4tv69",
+              "id-type": "ROR",
+              "asserted-by": "crossref"
+            }
+          ]
+        },
+        {
+          "name": "National Institute of Allergy and Infectious Diseases",
+          "award": [
+            "U19AI157797"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "U19AI157797"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/043z4tv69",
+              "id-type": "ROR",
+              "asserted-by": "crossref"
+            }
+          ]
+        },
+        {
+          "name": "Advanced Research Projects Agency for Health",
+          "award": [
+            "1AY1AX000036-01"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "1AY1AX000036-01"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/01r532x50",
+              "id-type": "ROR",
+              "asserted-by": "crossref"
+            }
+          ]
+        },
+        {
+          "name": "National Science Foundation Graduate Research Fellowships Program",
+          "award": [
+            "DGE-2140004"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "DGE-2140004"
+              ]
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            8
+          ]
+        ]
+      },
+      "abstract": "<jats:p>N-linked glycans are ubiquitous post-translational modifications that mediate diverse biological processes, including cell signaling and adhesion, molecular recognition, and host-pathogen interactions. Despite their importance, N-linked glycans have largely remained beyond the reach of biomolecular design due to a lack of methods capable of jointly modeling glycans and protein structure. Here, we develop a general all-atom computational pipeline for creating de novo glycoproteins in which the amino acid sequence encodes both the location and composition of N-linked glycans. The method uses three-dimensional protein structure to tune glycan accessibility to processing enzymes in the eukaryotic secretory pathway. Systematic increases in steric restriction progressively reduced processing, shifting glycans from heterogeneous complex-type structures toward increasingly underprocessed oligomannose-type species resembling those found on many viral glycoproteins. Despite this programmed restriction, the resulting oligomannose glycans remained accessible for biological recognition, inhibiting uropathogenic Escherichia coli adhesion to human bladder cells and binding mannose-binding lectin. These results establish steric control of N-glycan processing as a genetically encodable design principle and extend computational protein design to functional glycoproteins with programmed composition.</jats:p>",
+      "DOI": "10.64898/2026.10.07.757460",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            8
+          ]
+        ],
+        "date-time": "2026-10-08T19:30:22Z",
+        "timestamp": 1791487822000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Programming N-linked glycan composition through de novo protein design"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-0527-5575",
+          "authenticated-orcid": false,
+          "given": "Margaret C",
+          "family": "Lunn-Halbert",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "University of Washington;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-2547-968X",
+          "authenticated-orcid": false,
+          "given": "Joel D",
+          "family": "Allen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University Of Southampton;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Rohith",
+          "family": "Krishna",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of Washington;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Anna",
+          "family": "Manchenko",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of Washington;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xinting",
+          "family": "Li",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of Washington;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-6625-6143",
+          "authenticated-orcid": false,
+          "given": "Edward D",
+          "family": "Lopatto",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Washington University in Saint Louis;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jerome",
+          "family": "Pinkner",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Washington University in Saint Louis;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Carolina",
+          "family": "Moller",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of Washington;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Woody",
+          "family": "Ahern",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of Washington;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1573-4202",
+          "authenticated-orcid": false,
+          "given": "Johnny",
+          "family": "Mendoza",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of Washington;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Alex",
+          "family": "Kang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of Washington;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Hannah",
+          "family": "Nguyen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of Washington;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Emily",
+          "family": "Joyce",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of Washington;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Asim",
+          "family": "Bera",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of Washington;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Scott J",
+          "family": "Hultgren",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Washington University in Saint Louis;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Evgeni",
+          "family": "Sokurenko",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of Washington;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-1072-2694",
+          "authenticated-orcid": false,
+          "given": "Max",
+          "family": "Crispin",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of Southampton"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "David",
+          "family": "Baker",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of Washington;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Neil P",
+          "family": "King",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of Washington;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.10.07.757460",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            8
+          ]
+        ],
+        "date-time": "2026-10-08T19:30:22Z",
+        "timestamp": 1791487822000
+      },
+      "score": 32.100864,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.10.07.757460"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            8
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.64898/2026.10.07.757460",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            8
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

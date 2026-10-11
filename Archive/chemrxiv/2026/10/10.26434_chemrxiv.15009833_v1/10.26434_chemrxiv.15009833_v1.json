@@ -1,0 +1,150 @@
+{
+  "source": "chemrxiv",
+  "source_id": "10.26434/chemrxiv.15009833/v1",
+  "title": "Machine Learning-Accelerated Inverse Design of Sequence-Controlled Terpolymers",
+  "doi": "10.26434/chemrxiv.15009833/v1",
+  "abstract": "Sequence-controlled polymers hold immense potential for advanced materials design, yet discovering their experimental recipes is bottlenecked by the high-dimension kinetic parameter space of multicomponent copolymerization. Traditional ordinary differential equation (ODE) solvers provide rapid macrokinetic predictions but are fundamentally blind to explicit backbone microstructures. To bridge this gap, we use a stochastic simulation algorithm (SSA) engine to generate high-throughput terpolymer sequence data from a physically constrained parametric sweep across a 9-dimensional kinetic space, charting how feed stoichiometry and kinetic propensities dictate macromolecular structure. Information-theoretic analysis and t-SNE dimensionality reduction of the resulting 27-component triad frequency matrices for each simulation reveal profound microstructural degeneracies, demonstrating that traditional ensemble descriptors, such as the Harwood run number, are fundamentally incapable of describing sequence specifics. To accelerate optimization, we establish a digital twin strategy utilizing an XGBoost regressor to instantaneously predict localized chain-end propagation probabilities based on target sequence motifs. Finally, we demonstrate a closed-loop inverse design strategy that passes the 2 machine learning predictions to a deterministic root-finding optimizer, isolating exact initial monomer feeds and reactivity ratios needed to create them. By training an ML surrogate using explicit chain sequences from SSA, this framework provides a powerful alternative to classical macrokinetic equations, establishing an immediate, predictive tool to accelerate the discovery and reliable synthesis of sequence-controlled functional macromolecules.",
+  "authors": [
+    "Jeffrey C. Foster"
+  ],
+  "published_date": "2026-10-04",
+  "updated_date": "2026-10-05T06:30:56Z",
+  "journal": "ChemRxiv",
+  "category": "",
+  "landing_url": "https://doi.org/10.26434/chemrxiv.15009833/v1",
+  "pdf_url": "https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15009833/v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "1",
+  "keywords": [],
+  "extra": {
+    "publisher": "American Chemical Society (ACS)",
+    "prefix": "10.26434",
+    "type": "posted-content",
+    "group_title": "",
+    "raw_record": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            5
+          ]
+        ],
+        "date-time": "2026-10-05T06:52:41Z",
+        "timestamp": 1791183161410,
+        "version": "4.1.0"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            4
+          ]
+        ]
+      },
+      "reference-count": 0,
+      "publisher": "American Chemical Society (ACS)",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "abstract": "<jats:p>Sequence-controlled polymers hold immense potential for advanced materials design, yet discovering their experimental recipes is bottlenecked by the high-dimension kinetic parameter space of multicomponent copolymerization. Traditional ordinary differential equation (ODE) solvers provide rapid macrokinetic predictions but are fundamentally blind to explicit backbone microstructures. To bridge this gap, we use a stochastic simulation algorithm (SSA) engine to generate high-throughput terpolymer sequence data from a physically constrained parametric sweep across a 9-dimensional kinetic space, charting how feed stoichiometry and kinetic propensities dictate macromolecular structure. Information-theoretic analysis and t-SNE dimensionality reduction of the resulting 27-component triad frequency matrices for each simulation reveal profound microstructural degeneracies, demonstrating that traditional ensemble descriptors, such as the Harwood run number, are fundamentally incapable of describing sequence specifics. To accelerate optimization, we establish a digital twin strategy utilizing an XGBoost regressor to instantaneously predict localized chain-end propagation probabilities based on target sequence motifs. Finally, we demonstrate a closed-loop inverse design strategy that passes the 2 machine learning predictions to a deterministic root-finding optimizer, isolating exact initial monomer feeds and reactivity ratios needed to create them. By training an ML surrogate using explicit chain sequences from SSA, this framework provides a powerful alternative to classical macrokinetic equations, establishing an immediate, predictive tool to accelerate the discovery and reliable synthesis of sequence-controlled functional macromolecules.</jats:p>",
+      "DOI": "10.26434/chemrxiv.15009833/v1",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            5
+          ]
+        ],
+        "date-time": "2026-10-05T06:30:56Z",
+        "timestamp": 1791181856000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Machine Learning-Accelerated Inverse Design of Sequence-Controlled Terpolymers"
+      ],
+      "prefix": "10.26434",
+      "author": [
+        {
+          "given": "Jeffrey C.",
+          "family": "Foster",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Chemical Sciences Division",
+              "place": [
+                "Oak Ridge"
+              ]
+            },
+            {
+              "name": "Oak Ridge National Laboratory",
+              "place": [
+                "Oak Ridge"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "316",
+      "link": [
+        {
+          "URL": "https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15009833/v1",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            5
+          ]
+        ],
+        "date-time": "2026-10-05T06:30:56Z",
+        "timestamp": 1791181856000
+      },
+      "score": 59.08316,
+      "resource": {
+        "primary": {
+          "URL": "https://chemrxiv.org/doi/full/10.26434/chemrxiv.15009833/v1"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            4
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.26434/chemrxiv.15009833/v1",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            4
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

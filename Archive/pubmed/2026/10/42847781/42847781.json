@@ -1,0 +1,251 @@
+{
+  "identity": {
+    "pmid": "42847781",
+    "doi": "10.1093/bib/bbag558",
+    "title": "VeloHARMO: a deep learning framework for mRNA coding sequence generation and design via translation velocity harmonization."
+  },
+  "content": {
+    "abstract": "Heterologous gene expression often results in suboptimal protein yield or activity, potentially influenced by differences in translation dynamics between native and host organisms. Conventional mRNA design approaches based on codon usage frequency can improve expression efficiency. However, codon usage frequency alone does not necessarily reflect codon-level translation velocity. Here, we present VeloHARMO, a computational framework for mRNA coding sequence design based on translation velocity harmonization. VeloHARMO combines organism-specific deep learning models trained on Ribo-seq data with a genetic algorithm to generate synonymous coding sequences that preserve native translation velocity patterns across organisms. Computational evaluations show that VeloHARMO achieves higher prediction accuracy and more effective translation velocity harmonization than existing approaches. Furthermore, analyses of previously reported synonymous mRNA variants suggest that translation velocity harmonization may help explain differences observed among alternative coding sequences. Collectively, VeloHARMO introduces translation velocity harmonization as a data-driven principle for computational mRNA design and provides a framework for incorporating organism-specific translation dynamics into coding sequence engineering.",
+    "keywords": [
+      "deep learning",
+      "genetic algorithm",
+      "mRNA design",
+      "translation velocity harmonization"
+    ],
+    "mesh_terms": [
+      "*RNA, Messenger/genetics",
+      "*Deep Learning",
+      "*Protein Biosynthesis",
+      "Codon",
+      "Genetic Algorithms",
+      "Algorithms",
+      "*Computational Biology/methods",
+      "*Open Reading Frames",
+      "*Software"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Bian, Bian",
+        "Zhang, Jichen",
+        "Zhang, Yiming",
+        "Saito, Yutaka"
+      ],
+      "short_names": [
+        "Bian B",
+        "Zhang J",
+        "Zhang Y",
+        "Saito Y"
+      ],
+      "auids": [
+        "ORCID: 0009-0009-9534-0959",
+        "ORCID: 0000-0002-4853-0153"
+      ],
+      "affiliations": [
+        "Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo, Kashiwa, Chiba 277-8561, Japan.",
+        "Department of Data Science, School of Frontier Engineering, Kitasato University, Sagamihara, Kanagawa 252-0373, Japan.",
+        "Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo, Kashiwa, Chiba 277-8561, Japan.",
+        "Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo, Kashiwa, Chiba 277-8561, Japan.",
+        "Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo, Kashiwa, Chiba 277-8561, Japan.",
+        "Department of Data Science, School of Frontier Engineering, Kitasato University, Sagamihara, Kanagawa 252-0373, Japan.",
+        "Artificial Intelligence Research Center, National Institute of Advanced Industrial Science and Technology (AIST), Koto-ku, Tokyo 135-0064, Japan."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Bian, Bian",
+        "short_name": "Bian B",
+        "identifiers": [
+          "0009-0009-9534-0959"
+        ],
+        "affiliations": [
+          "Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo, Kashiwa, Chiba 277-8561, Japan.",
+          "Department of Data Science, School of Frontier Engineering, Kitasato University, Sagamihara, Kanagawa 252-0373, Japan."
+        ]
+      },
+      {
+        "full_name": "Zhang, Jichen",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo, Kashiwa, Chiba 277-8561, Japan."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yiming",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo, Kashiwa, Chiba 277-8561, Japan."
+        ]
+      },
+      {
+        "full_name": "Saito, Yutaka",
+        "short_name": "Saito Y",
+        "identifiers": [
+          "0000-0002-4853-0153"
+        ],
+        "affiliations": [
+          "Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo, Kashiwa, Chiba 277-8561, Japan.",
+          "Department of Data Science, School of Frontier Engineering, Kitasato University, Sagamihara, Kanagawa 252-0373, Japan.",
+          "Artificial Intelligence Research Center, National Institute of Advanced Industrial Science and Technology (AIST), Koto-ku, Tokyo 135-0064, Japan."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Briefings in bioinformatics"
+    ],
+    "journal_abbrev": [
+      "Brief Bioinform"
+    ],
+    "pub_date": "2026 Sep 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/08 17:35",
+    "fetched_at": "2026-10-11 08:17:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42847781",
+      "34738275",
+      "42475469",
+      "29624661",
+      "28475588",
+      "42720943",
+      "33770074",
+      "42594282",
+      "42412804",
+      "32427338",
+      "29361467",
+      "40219965",
+      "18478103",
+      "11410670",
+      "40830753",
+      "32689943",
+      "26176266",
+      "28881981",
+      "36718935",
+      "29090506",
+      "24160180",
+      "17875472",
+      "18801175",
+      "42130380",
+      "38788220",
+      "20504310",
+      "28957655",
+      "25826667",
+      "25512115",
+      "29739305",
+      "30690030",
+      "41951904",
+      "38719586",
+      "42278656",
+      "40223268",
+      "32352987",
+      "39164757",
+      "29499707",
+      "19383142",
+      "33765283",
+      "27671647",
+      "27964762",
+      "42190068",
+      "16483358",
+      "32694138",
+      "21125377",
+      "27354349",
+      "25409941",
+      "37992267",
+      "36829202",
+      "41224770",
+      "34905691",
+      "24484385",
+      "40442647",
+      "23790548",
+      "27188984",
+      "28778539",
+      "42765489",
+      "8668201",
+      "36440758",
+      "23580730",
+      "28139975",
+      "22300321",
+      "40014843",
+      "27019501",
+      "18536038",
+      "17760957",
+      "31672910",
+      "31527111",
+      "23044541",
+      "23164579",
+      "25433697",
+      "18061669",
+      "24954581",
+      "35355461",
+      "25747594",
+      "34563548",
+      "24739143",
+      "41349764",
+      "29735666",
+      "11388898",
+      "24576337",
+      "38842510",
+      "21949676",
+      "33441035",
+      "29907571",
+      "30049792",
+      "26760206",
+      "28961875",
+      "40180930",
+      "26614672",
+      "33765280",
+      "33765270",
+      "39190361",
+      "22161280",
+      "41991479",
+      "40384581",
+      "12935336",
+      "27122318",
+      "39522049"
+    ],
+    "review": [
+      "42847781",
+      "17875472",
+      "42190068",
+      "21125377",
+      "27354349",
+      "34905691",
+      "18536038",
+      "24954581",
+      "35355461",
+      "25747594",
+      "41349764",
+      "33441035"
+    ],
+    "pmc": [
+      "13647270"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://academic.oup.com/bib/article-lookup/doi/10.1093/bib/bbag558",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "identity": {
+    "pmid": "42852653",
+    "doi": "10.7554/eLife.109450",
+    "title": "The structural context of mutations in proteins predicts their effect on antibiotic resistance."
+  },
+  "content": {
+    "abstract": "In Mycobacterium tuberculosis, a prevalent and deadly pathogen, resistance to antibiotics evolves primarily through non-synonymous mutations in proteins. Sequence-based analyses can uncover the genetic basis of antibiotic resistance, but these methods focus on primary sequence and often neglect other biological signals, such as protein structural information. We hypothesize that integrating the structural context of mutations improves the prediction of effects on function and phenotype. We curate high-confidence structural annotations for the M. tuberculosis proteome from 1350 crystallography and 2337 AlphaFold predictions, and mutations from over 31,000 M. tuberculosis isolates. We demonstrate that mutations in proteins known to cause resistance are clustered in 3D space, even in proteins where inactivating mutations at any position are thought to cause resistance. We find over 450 proteins in the M. tuberculosis proteome that display signals of clustered mutations, many of which have a known relationship with antibiotic resistance. We show that a supervised classifier trained on 3D distance to known resistance sites alone has an F1 score of 96.5% at classifying mutations as resistance-conferring on a held-out test set. This work demonstrates that protein structure provides useful information for categorizing which variants may cause antibiotic resistance, even when the majority of structures are AI-predicted.",
+    "keywords": [
+      "M. tuberculosis",
+      "antibiotic resistance",
+      "evolutionary genomics",
+      "infectious disease",
+      "microbiology",
+      "mycobacterium tuberculosis",
+      "protein structure"
+    ],
+    "mesh_terms": [
+      "*Mycobacterium tuberculosis/genetics/drug effects",
+      "*Mutation",
+      "*Bacterial Proteins/genetics/chemistry/metabolism",
+      "*Drug Resistance, Bacterial/genetics",
+      "Protein Conformation",
+      "Proteome/genetics",
+      "Anti-Bacterial Agents/pharmacology"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Green, Anna G",
+        "Tasmin, Mahbuba",
+        "Vargas, Roger Jr",
+        "Farhat, Maha Reda"
+      ],
+      "short_names": [
+        "Green AG",
+        "Tasmin M",
+        "Vargas R Jr",
+        "Farhat MR"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-7548-3682",
+        "ORCID: 0000-0003-1884-8838",
+        "ORCID: 0000-0002-3871-5760"
+      ],
+      "affiliations": [
+        "Department of Biomedical Informatics, Harvard Medical School, Boston, United States.",
+        "Manning College of Information and Computer Sciences, University of Massachusetts, Amherst, United States.",
+        "Manning College of Information and Computer Sciences, University of Massachusetts, Amherst, United States.",
+        "Department of Biomedical Informatics, Harvard Medical School, Boston, United States.",
+        "Department of Biomedical Informatics, Harvard Medical School, Boston, United States.",
+        "Division of Pulmonary & Critical Care, Massachusetts General Hospital, Boston, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Green, Anna G",
+        "short_name": "Green AG",
+        "identifiers": [
+          "0000-0001-7548-3682"
+        ],
+        "affiliations": [
+          "Department of Biomedical Informatics, Harvard Medical School, Boston, United States.",
+          "Manning College of Information and Computer Sciences, University of Massachusetts, Amherst, United States."
+        ]
+      },
+      {
+        "full_name": "Tasmin, Mahbuba",
+        "short_name": "Tasmin M",
+        "identifiers": [
+          "0000-0003-1884-8838"
+        ],
+        "affiliations": [
+          "Manning College of Information and Computer Sciences, University of Massachusetts, Amherst, United States."
+        ]
+      },
+      {
+        "full_name": "Vargas, Roger",
+        "short_name": "Vargas R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Informatics, Harvard Medical School, Boston, United States."
+        ]
+      },
+      {
+        "full_name": "Farhat, Maha Reda",
+        "short_name": "Farhat MR",
+        "identifiers": [
+          "0000-0002-3871-5760"
+        ],
+        "affiliations": [
+          "Department of Biomedical Informatics, Harvard Medical School, Boston, United States.",
+          "Division of Pulmonary & Critical Care, Massachusetts General Hospital, Boston, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "eLife"
+    ],
+    "journal_abbrev": [
+      "Elife"
+    ],
+    "pub_date": "2026 Oct 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/09 11:40",
+    "fetched_at": "2026-10-11 08:17:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42852653",
+      "41040149",
+      "39445816",
+      "27005572",
+      "29523317",
+      "23208709",
+      "26784657",
+      "33055263",
+      "40879807",
+      "41427728",
+      "24731071",
+      "26927983",
+      "33253310",
+      "31311987",
+      "38215766",
+      "42154617",
+      "19099550",
+      "33507146",
+      "26251830",
+      "29018250",
+      "30583053",
+      "30711156",
+      "37090677",
+      "39902977",
+      "30415003",
+      "29459669",
+      "27261264",
+      "38483037",
+      "41776391",
+      "40449326",
+      "42430436",
+      "27082669",
+      "29050763",
+      "42198582",
+      "34287057",
+      "16099622",
+      "37436169",
+      "32032366",
+      "42554209",
+      "29563202",
+      "39472000",
+      "31083647",
+      "18591265",
+      "42599987",
+      "39433543",
+      "29188195",
+      "23770140",
+      "41833077",
+      "40016696",
+      "29847567",
+      "15923050",
+      "24937123",
+      "41197090",
+      "41599000",
+      "38851206",
+      "28993337",
+      "33775224",
+      "30029920",
+      "22479378",
+      "33750515",
+      "40663566",
+      "35960778",
+      "41360595",
+      "15120726",
+      "31476406",
+      "26105824",
+      "27374154",
+      "31746727",
+      "34726489",
+      "35442078",
+      "33444527",
+      "27242230",
+      "31015328",
+      "18023388",
+      "41343595",
+      "28904673",
+      "40261029",
+      "19146699",
+      "31141524",
+      "28623123",
+      "38745294",
+      "25074855",
+      "27519406",
+      "30731190",
+      "26418737",
+      "31405862",
+      "29084750",
+      "25467293",
+      "26148717",
+      "24046537",
+      "28456705",
+      "41553381",
+      "22858446",
+      "28404672",
+      "19710078",
+      "19138546",
+      "42251800",
+      "40488462",
+      "39317997",
+      "26930559"
+    ],
+    "review": [
+      "42852653",
+      "38215766",
+      "41833077",
+      "41599000",
+      "22479378",
+      "26105824"
+    ],
+    "pmc": [
+      "13652538"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

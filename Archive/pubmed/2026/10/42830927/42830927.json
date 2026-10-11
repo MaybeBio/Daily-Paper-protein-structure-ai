@@ -1,0 +1,284 @@
+{
+  "identity": {
+    "pmid": "42830927",
+    "doi": "10.1016/j.engmic.2026.100305",
+    "title": "Systematic optimization of Komagataella phaffii (Pichia pastoris) for high-efficiency recombinant protein production: Advancements in strain engineering, fermentation optimization, and AI-driven technologies."
+  },
+  "content": {
+    "abstract": "Komagataella phaffii (formerly Pichia pastoris) has emerged as an indispensable eukaryotic expression host for the production of industrial enzymes, food proteins, and therapeutic proteins owing to its Generally Recognized as Safe (GRAS) status, efficient protein secretion capacity, eukaryotic post-translational modification system, and high cell-density fermentation capabilities. In recent years, advances in genetic engineering tools, improved understanding of protein synthesis and secretion pathways in K. phaffii, and the development of systematic strategies for enhancing recombinant protein expression have further established this yeast as an effective eukaryotic expression system. This review summarizes the advances in the design and screening of expression cassette components, including promoters, signal peptides, and terminators, in recombinant strain engineering of K. phaffii. It also provides a comprehensive overview of the key molecular processes affecting protein synthesis and secretion, including transcription, translation, translocation, folding, post-translational modification, endoplasmic reticulum homeostasis, and vesicular transport, together with the corresponding engineering strategies to enhance expression performance. Based on this, strategies for optimizing high-cell-density fermentation are discussed. This review highlights the recent progress in emerging artificial intelligence (AI)-driven technologies applied to the optimization of K. phaffii expression systems, including AI-based protein sequence design and expression prediction, intelligent control of fermentation processes, and genome-scale metabolic modeling-guided strain engineering. Finally, current challenges and future perspectives of the K. phaffii expression system are discussed. Overall, this review systematically summarizes the optimization strategies and underlying mechanisms for recombinant protein expression in K. phaffii, aiming to provide a comprehensive reference for researchers and accelerate the deployment of efficient yeast cell factories across sustainable manufacturing and advanced bioprocess industries.",
+    "keywords": [
+      "Artificial intelligence",
+      "Komagataella phaffii",
+      "Optimization strategy",
+      "Recombinant protein"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Huang, Yue",
+        "Wang, Jialiang",
+        "Wang, Aoxue",
+        "Zheng, Liqi",
+        "Lin, Ying",
+        "Liang, Shuli"
+      ],
+      "short_names": [
+        "Huang Y",
+        "Wang J",
+        "Wang A",
+        "Zheng L",
+        "Lin Y",
+        "Liang S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Guangdong Key Laboratory of Fermentation and Enzyme Engineering, School of Biology and Biological Engineering, South China University of Technology, Guangzhou, 510006, China.",
+        "Guangdong Research Center of Industrial Enzyme and Green Manufacturing Technology, School of Biology and Biological Engineering, South China University of Technology, Guangzhou, 510006, China.",
+        "Guangdong Key Laboratory of Fermentation and Enzyme Engineering, School of Biology and Biological Engineering, South China University of Technology, Guangzhou, 510006, China.",
+        "Guangdong Research Center of Industrial Enzyme and Green Manufacturing Technology, School of Biology and Biological Engineering, South China University of Technology, Guangzhou, 510006, China.",
+        "Guangdong Key Laboratory of Fermentation and Enzyme Engineering, School of Biology and Biological Engineering, South China University of Technology, Guangzhou, 510006, China.",
+        "Guangdong Research Center of Industrial Enzyme and Green Manufacturing Technology, School of Biology and Biological Engineering, South China University of Technology, Guangzhou, 510006, China.",
+        "Guangdong Key Laboratory of Fermentation and Enzyme Engineering, School of Biology and Biological Engineering, South China University of Technology, Guangzhou, 510006, China.",
+        "Guangdong Research Center of Industrial Enzyme and Green Manufacturing Technology, School of Biology and Biological Engineering, South China University of Technology, Guangzhou, 510006, China.",
+        "Guangdong Key Laboratory of Fermentation and Enzyme Engineering, School of Biology and Biological Engineering, South China University of Technology, Guangzhou, 510006, China.",
+        "Guangdong Research Center of Industrial Enzyme and Green Manufacturing Technology, School of Biology and Biological Engineering, South China University of Technology, Guangzhou, 510006, China.",
+        "Guangdong Key Laboratory of Fermentation and Enzyme Engineering, School of Biology and Biological Engineering, South China University of Technology, Guangzhou, 510006, China.",
+        "Guangdong Engineering Research Center of Low-Carbon Synthetic Biotechnology, School of Biology and Biological Engineering, South China University of Technology, Guangzhou, 510006, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Huang, Yue",
+        "short_name": "Huang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Guangdong Key Laboratory of Fermentation and Enzyme Engineering, School of Biology and Biological Engineering, South China University of Technology, Guangzhou, 510006, China.",
+          "Guangdong Research Center of Industrial Enzyme and Green Manufacturing Technology, School of Biology and Biological Engineering, South China University of Technology, Guangzhou, 510006, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Jialiang",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "Guangdong Key Laboratory of Fermentation and Enzyme Engineering, School of Biology and Biological Engineering, South China University of Technology, Guangzhou, 510006, China.",
+          "Guangdong Research Center of Industrial Enzyme and Green Manufacturing Technology, School of Biology and Biological Engineering, South China University of Technology, Guangzhou, 510006, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Aoxue",
+        "short_name": "Wang A",
+        "identifiers": [],
+        "affiliations": [
+          "Guangdong Key Laboratory of Fermentation and Enzyme Engineering, School of Biology and Biological Engineering, South China University of Technology, Guangzhou, 510006, China.",
+          "Guangdong Research Center of Industrial Enzyme and Green Manufacturing Technology, School of Biology and Biological Engineering, South China University of Technology, Guangzhou, 510006, China."
+        ]
+      },
+      {
+        "full_name": "Zheng, Liqi",
+        "short_name": "Zheng L",
+        "identifiers": [],
+        "affiliations": [
+          "Guangdong Key Laboratory of Fermentation and Enzyme Engineering, School of Biology and Biological Engineering, South China University of Technology, Guangzhou, 510006, China.",
+          "Guangdong Research Center of Industrial Enzyme and Green Manufacturing Technology, School of Biology and Biological Engineering, South China University of Technology, Guangzhou, 510006, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Ying",
+        "short_name": "Lin Y",
+        "identifiers": [],
+        "affiliations": [
+          "Guangdong Key Laboratory of Fermentation and Enzyme Engineering, School of Biology and Biological Engineering, South China University of Technology, Guangzhou, 510006, China.",
+          "Guangdong Research Center of Industrial Enzyme and Green Manufacturing Technology, School of Biology and Biological Engineering, South China University of Technology, Guangzhou, 510006, China."
+        ]
+      },
+      {
+        "full_name": "Liang, Shuli",
+        "short_name": "Liang S",
+        "identifiers": [],
+        "affiliations": [
+          "Guangdong Key Laboratory of Fermentation and Enzyme Engineering, School of Biology and Biological Engineering, South China University of Technology, Guangzhou, 510006, China.",
+          "Guangdong Engineering Research Center of Low-Carbon Synthetic Biotechnology, School of Biology and Biological Engineering, South China University of Technology, Guangzhou, 510006, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Engineering microbiology"
+    ],
+    "journal_abbrev": [
+      "Eng Microbiol"
+    ],
+    "pub_date": "2026 Dec",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/05 05:31",
+    "fetched_at": "2026-10-11 08:17:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42830927",
+      "42646139",
+      "38939917",
+      "40074550",
+      "42178028",
+      "42461011",
+      "42343789",
+      "42091718",
+      "31195158",
+      "35448535",
+      "39577844",
+      "41038517",
+      "27495311",
+      "42035968",
+      "42448124",
+      "34755853",
+      "37400712",
+      "41280279",
+      "33494776",
+      "27905091",
+      "31757828",
+      "37881961",
+      "38643119",
+      "29129652",
+      "42116141",
+      "40339766",
+      "38711081",
+      "40651625",
+      "40101541",
+      "38062216",
+      "39384085",
+      "41108403",
+      "39363343",
+      "40490976",
+      "42191018",
+      "38399750",
+      "38104077",
+      "42432675",
+      "37110303",
+      "32671036",
+      "29595107",
+      "38636846",
+      "42819341",
+      "40411288",
+      "42427095",
+      "42595042",
+      "38175240",
+      "36527112",
+      "36581872",
+      "40319267",
+      "40898605",
+      "37034257",
+      "33108045",
+      "42609441",
+      "41436677",
+      "39971732",
+      "36040488",
+      "42029766",
+      "33276774",
+      "39628915",
+      "42537911",
+      "40616507",
+      "40804719",
+      "42207417",
+      "41347629",
+      "38402195",
+      "34951975",
+      "38890717",
+      "28252957",
+      "40173411",
+      "30005638",
+      "29330186",
+      "42586255",
+      "42605173",
+      "15565717",
+      "42113077",
+      "42436509",
+      "42668082",
+      "28760369",
+      "41999774",
+      "39350198",
+      "41168757",
+      "33505376",
+      "41750921",
+      "36307629",
+      "30936941",
+      "35094517",
+      "38730212",
+      "30660186",
+      "41028452",
+      "39979934",
+      "39788928",
+      "33902608",
+      "35729733",
+      "36504810",
+      "37764140",
+      "22043784",
+      "33997361",
+      "33465474",
+      "28934418"
+    ],
+    "review": [
+      "42830927",
+      "42646139",
+      "38939917",
+      "40074550",
+      "42178028",
+      "42461011",
+      "42343789",
+      "42091718",
+      "31195158",
+      "35448535",
+      "41038517",
+      "42035968",
+      "42448124",
+      "34755853",
+      "37400712",
+      "41280279",
+      "27905091",
+      "29129652",
+      "40339766",
+      "38062216",
+      "42191018",
+      "38399750",
+      "32671036",
+      "29595107",
+      "36581872",
+      "42609441",
+      "36040488",
+      "42029766",
+      "39628915",
+      "42207417",
+      "15565717",
+      "42113077",
+      "42668082",
+      "28760369",
+      "33505376",
+      "38730212",
+      "36504810",
+      "22043784",
+      "33997361",
+      "33465474"
+    ],
+    "pmc": [
+      "13634273"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "source": "arxiv",
+  "source_id": "2610.04938v1",
+  "title": "D-DOIT: Training-free Adaptation of Discrete Diffusion via Doob's h-Transform",
+  "doi": "",
+  "abstract": "We propose D-DOIT (Discrete Doob-Oriented Inference-time Transformation), a training-free and efficient adaptation method for discrete diffusion models with generic rewards. D-DOIT formulates adaptation as sampling from a reward-tilted target distribution and realizes this transport through Doob's h-transform of the discrete diffusion reverse kernel, using only reward values rather than reward gradients. Unlike continuous diffusion, masked discrete diffusion samples categorical token-reveal transitions rather than continuous state updates. D-DOIT derives the corresponding discrete Doob's h-transform, which guides sampling by reweighting reverse transition probabilities instead of adding a drift correction. To make this transformation practical, D-DOIT avoids expensive future rollouts. At each guided step, D-DOIT samples candidate next states, uses the model prediction head to complete each candidate into a clean sequence, evaluates each completion with the reward oracle, and resamples the next state with probabilities proportional to the rewards. An optional late-stage best-of-K refinement further improves sample quality by branching trajectories only near the end of denoising, avoiding the $K$-fold cost over the full trajectory. Empirically, across regulatory DNA design and protein inverse folding benchmarks, D-DOIT outperforms training-free guidance baselines. It improves enhancer activity and cell-type specificity while preserving sequence naturalness, and achieves the highest success rate in protein inverse folding.",
+  "authors": [
+    "Jieke Wu",
+    "Qijie Zhu",
+    "Weimin Wu",
+    "Zeqi Ye",
+    "Minshuo Chen",
+    "Han Liu"
+  ],
+  "published_date": "2026-10-04T04:34:02Z",
+  "updated_date": "2026-10-04T04:34:02Z",
+  "journal": "",
+  "category": "cs.LG, cs.AI",
+  "landing_url": "https://arxiv.org/abs/2610.04938v1",
+  "pdf_url": "https://arxiv.org/pdf/2610.04938v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cs.LG",
+    "cs.AI"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2610.04938v1",
+    "raw_categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "journal_ref": ""
+  }
+}

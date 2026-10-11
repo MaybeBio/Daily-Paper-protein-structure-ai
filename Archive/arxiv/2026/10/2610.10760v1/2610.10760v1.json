@@ -1,0 +1,37 @@
+{
+  "source": "arxiv",
+  "source_id": "2610.10760v1",
+  "title": "DOGS: Design-Space Sampling for Prompt-Driven Logo Generation",
+  "doi": "",
+  "abstract": "Prompt optimization for text-to-image (T2I) generation has been pursued almost entirely as text rewriting, in which a short user brief is expanded into a longer, model-preferred token sequence. We argue that such a language-space formulation is ill-suited to structured visual design tasks such as logo creation, where a one-line brief leaves most design decisions unspecified. These decisions depend on relational priors that a linear sequence cannot encode, and they leave an uncontrolled channel through which protected marks may be reproduced. We therefore recast logo prompting as sampling within a structured design space, and instantiate this idea as DOGS (Design-space prompting with an Originality-aware GFlowNet Sampler). From a large corpus of real-world logos, we mine a typed, graph-structured design grammar whose edges record empirical co-occurrence. A GFlowNet sampler then generates design graphs with probability proportional to a terminal reward that combines recognizability, aesthetics, and corpus-relative originality. Every slot draws only from a closed design-level vocabulary, and any infringement-inducing or harmful token is removed during parsing. The originality reward further penalizes proximity to existing logos, thereby incorporating infringement avoidance into the method by construction. On two open-source renderers and against nine baselines, DOGS produces logos that are more recognizable and aesthetic, substantially more diverse, and far less prone to trademark infringement.",
+  "authors": [
+    "Ganyu Zou",
+    "Chen Dai",
+    "Nathan Self",
+    "Kevin Piper",
+    "Ramachandra Rao Seethiraju",
+    "Karthik Shyamsunder",
+    "Chang-Tien Lu",
+    "Naren Ramakrishnan"
+  ],
+  "published_date": "2026-10-07T18:24:11Z",
+  "updated_date": "2026-10-07T18:24:11Z",
+  "journal": "",
+  "category": "cs.CV",
+  "landing_url": "https://arxiv.org/abs/2610.10760v1",
+  "pdf_url": "https://arxiv.org/pdf/2610.10760v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cs.CV"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2610.10760v1",
+    "raw_categories": [
+      "cs.CV"
+    ],
+    "journal_ref": ""
+  }
+}

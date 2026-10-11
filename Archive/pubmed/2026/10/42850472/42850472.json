@@ -1,0 +1,275 @@
+{
+  "identity": {
+    "pmid": "42850472",
+    "doi": "10.1007/s10142-026-02069-7",
+    "title": "Biodegradation Characteristics of Piperacillin by Marine Bacillus cereus PP1 and Genome-Guided Mining of Candidate beta-Lactamases."
+  },
+  "content": {
+    "abstract": "Antibiotic residues in aquatic environments are an increasing concern because they may retain antibacterial activity, promote antibiotic resistance and generate transformation products with uncertain ecological risks. In this study, marine-derived bacteria were screened for their ability to degrade representative beta-lactam antibiotics. Strain PP1, identified as Bacillus cereus, was selected for detailed characterization because of its outstanding degradation capacity toward piperacillin, ceftiofur and cephalexin, especially its efficient removal of piperacillin at a high initial concentration of 100 mg/L. During a 48-h incubation, B. cereus PP1 completely degraded piperacillin and reduced the antibacterial activity of the treated solution against representative Gram-negative and Gram-positive bacteria. UHPLC-MS/MS analysis indicated that piperacillin was transformed mainly through beta-lactam ring opening, together with side-chain cleavage and downstream fragmentation reactions. The degradation products showed no obvious hemolytic activity under the tested conditions, whereas live PP1 exhibited hemolysis, highlighting the need for biosafety evaluation before live-cell application. Whole-genome sequencing revealed that PP1 contains a single circular chromosome of 5,285,738 bp and has broad metabolic potential. CARD, CAZy and VFDB annotations indicated antibiotic tolerance, hydrolytic enzyme resources and virulence-associated features. Targeted mining using a local beta-lactamase database identified two candidate beta-lactamase genes, PP1_BLA_A and PP1_BLA_B, assigned to class A and class B beta-lactamases, respectively. Structure prediction and molecular docking further suggested that both enzymes can accommodate piperacillin, but with distinct binding modes. These findings indicate that B. cereus PP1 is a valuable source for beta-lactamase discovery and enzyme-based beta-lactam bioremediation.",
+    "keywords": [
+      "Bacillus cereus PP1",
+      "Molecular docking",
+      "Piperacillin biodegradation",
+      "Whole-genome sequencing",
+      "beta-lactamase"
+    ],
+    "mesh_terms": [
+      "*Bacillus cereus/genetics/metabolism/enzymology",
+      "*beta-Lactamases/genetics/metabolism/chemistry",
+      "Biodegradation, Environmental",
+      "*Piperacillin/metabolism/pharmacology/chemistry",
+      "*Anti-Bacterial Agents/metabolism/pharmacology",
+      "*Bacterial Proteins/genetics/metabolism/chemistry",
+      "Genome, Bacterial"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wu, Shiyun",
+        "Zhang, Letong",
+        "Yang, Jinjin",
+        "Lin, Qianqian",
+        "Zhen, Yijun",
+        "Tuo, Jiangyu",
+        "Peng, Jinju",
+        "Guo, Fucheng",
+        "Ma, Yi"
+      ],
+      "short_names": [
+        "Wu S",
+        "Zhang L",
+        "Yang J",
+        "Lin Q",
+        "Zhen Y",
+        "Tuo J",
+        "Peng J",
+        "Guo F",
+        "Ma Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "College of Coastal Agricultural Sciences, Guangdong Ocean University, Zhanjiang, 524088, China.",
+        "College of Coastal Agricultural Sciences, Guangdong Ocean University, Zhanjiang, 524088, China.",
+        "Technology Center of Zhanjiang Customs District, Zhanjiang, Guangdong, 524000, China.",
+        "College of Coastal Agricultural Sciences, Guangdong Ocean University, Zhanjiang, 524088, China.",
+        "College of Coastal Agricultural Sciences, Guangdong Ocean University, Zhanjiang, 524088, China.",
+        "College of Coastal Agricultural Sciences, Guangdong Ocean University, Zhanjiang, 524088, China.",
+        "College of Coastal Agricultural Sciences, Guangdong Ocean University, Zhanjiang, 524088, China.",
+        "College of Coastal Agricultural Sciences, Guangdong Ocean University, Zhanjiang, 524088, China. guofucheng@gdou.edu.cn.",
+        "College of Coastal Agricultural Sciences, Guangdong Ocean University, Zhanjiang, 524088, China. mayi761@163.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wu, Shiyun",
+        "short_name": "Wu S",
+        "identifiers": [],
+        "affiliations": [
+          "College of Coastal Agricultural Sciences, Guangdong Ocean University, Zhanjiang, 524088, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Letong",
+        "short_name": "Zhang L",
+        "identifiers": [],
+        "affiliations": [
+          "College of Coastal Agricultural Sciences, Guangdong Ocean University, Zhanjiang, 524088, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Jinjin",
+        "short_name": "Yang J",
+        "identifiers": [],
+        "affiliations": [
+          "Technology Center of Zhanjiang Customs District, Zhanjiang, Guangdong, 524000, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Qianqian",
+        "short_name": "Lin Q",
+        "identifiers": [],
+        "affiliations": [
+          "College of Coastal Agricultural Sciences, Guangdong Ocean University, Zhanjiang, 524088, China."
+        ]
+      },
+      {
+        "full_name": "Zhen, Yijun",
+        "short_name": "Zhen Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Coastal Agricultural Sciences, Guangdong Ocean University, Zhanjiang, 524088, China."
+        ]
+      },
+      {
+        "full_name": "Tuo, Jiangyu",
+        "short_name": "Tuo J",
+        "identifiers": [],
+        "affiliations": [
+          "College of Coastal Agricultural Sciences, Guangdong Ocean University, Zhanjiang, 524088, China."
+        ]
+      },
+      {
+        "full_name": "Peng, Jinju",
+        "short_name": "Peng J",
+        "identifiers": [],
+        "affiliations": [
+          "College of Coastal Agricultural Sciences, Guangdong Ocean University, Zhanjiang, 524088, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Fucheng",
+        "short_name": "Guo F",
+        "identifiers": [],
+        "affiliations": [
+          "College of Coastal Agricultural Sciences, Guangdong Ocean University, Zhanjiang, 524088, China. guofucheng@gdou.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Ma, Yi",
+        "short_name": "Ma Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Coastal Agricultural Sciences, Guangdong Ocean University, Zhanjiang, 524088, China. mayi761@163.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Functional & integrative genomics"
+    ],
+    "journal_abbrev": [
+      "Funct Integr Genomics"
+    ],
+    "pub_date": "2026 Oct 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/09 05:30",
+    "fetched_at": "2026-10-11 08:17:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42850472",
+      "41660856",
+      "30844497",
+      "19717606",
+      "38778284",
+      "24972871",
+      "39248479",
+      "12533457",
+      "23861873",
+      "41491332",
+      "40388325",
+      "16097768",
+      "41803721",
+      "42358132",
+      "40594904",
+      "40651383",
+      "31009467",
+      "15779910",
+      "24059435",
+      "40293226",
+      "35462123",
+      "23838816",
+      "19665032",
+      "36069578",
+      "29327895",
+      "39869905",
+      "40050842",
+      "3930467",
+      "24836845",
+      "1930129",
+      "29030198",
+      "21876048",
+      "29089425",
+      "40920301",
+      "36209456",
+      "30783798",
+      "29551437",
+      "3155326",
+      "30006399",
+      "40576718",
+      "40503828",
+      "41143423",
+      "34494877",
+      "42053451",
+      "40503840",
+      "14970246",
+      "41592683",
+      "31550535",
+      "1821784",
+      "14656057",
+      "42409557",
+      "19751419",
+      "23439634",
+      "28115348",
+      "28185399",
+      "15349504",
+      "28175318",
+      "32512156",
+      "31391284",
+      "15053574",
+      "42307222",
+      "28664525",
+      "41260543",
+      "35311582",
+      "16961465",
+      "17715135",
+      "30348667",
+      "38366372",
+      "12019104",
+      "28320724",
+      "41546830",
+      "30538183",
+      "39440926",
+      "26311835",
+      "30477345",
+      "23437273",
+      "23973842",
+      "18644957",
+      "40434623",
+      "2110145",
+      "18559643",
+      "36180000",
+      "32379042",
+      "18652482",
+      "32638150",
+      "10639363",
+      "42177872",
+      "26248364",
+      "40379166",
+      "36304438",
+      "19506058",
+      "42219003",
+      "7695305",
+      "21338058",
+      "16870770",
+      "28745223",
+      "11001328",
+      "39702793",
+      "9338484",
+      "32062000"
+    ],
+    "review": [
+      "42850472",
+      "3155326",
+      "30006399",
+      "41260543",
+      "28745223"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

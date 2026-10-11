@@ -1,0 +1,160 @@
+{
+  "source": "chemrxiv",
+  "source_id": "10.26434/chemrxiv.15010044/v1",
+  "title": "Surface-Aware Generative Design of Selective Inhibitors for Protein–Membrane Adsorption",
+  "doi": "10.26434/chemrxiv.15010044/v1",
+  "abstract": "Peripheral membrane proteins (PMPs) bind membrane surfaces through interfacial binding sites (IBSs) that are critical for stable membrane association and proper orientation of catalytic active sites. Dysregulated PMP–membrane interactions can enhance catalytic activity and contribute to diseases including cancer, but many PMPs remain difficult therapeutic targets because their active sites lack well-defined pockets or become accessible only upon membrane binding. In this work, we developed a multistage computational framework that integrates MaSIF-PMP, a surface-centered geometric deep learning model for IBS prediction, with a generative diffusion model to design protein binders that target PMP IBSs and inhibit membrane adsorption. Candidate binders were ranked using MaSIF-PMP prediction scores and geometric descriptors, then validated by molecular dynamics and enhanced sampling simulations. Applied to three disease-relevant PMPs, the framework identified selective binders that disrupted membrane association while minimizing off-target membrane interactions, providing a potential strategy for designing PMP membrane-adsorption inhibitors.",
+  "authors": [
+    "ByungUk Park",
+    "Reid C. Van Lehn"
+  ],
+  "published_date": "2026-10-07",
+  "updated_date": "2026-10-07T13:20:26Z",
+  "journal": "ChemRxiv",
+  "category": "",
+  "landing_url": "https://doi.org/10.26434/chemrxiv.15010044/v1",
+  "pdf_url": "https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15010044/v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "1",
+  "keywords": [],
+  "extra": {
+    "publisher": "American Chemical Society (ACS)",
+    "prefix": "10.26434",
+    "type": "posted-content",
+    "group_title": "",
+    "raw_record": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            7
+          ]
+        ],
+        "date-time": "2026-10-07T13:55:27Z",
+        "timestamp": 1791381327614,
+        "version": "4.3.3"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            7
+          ]
+        ]
+      },
+      "reference-count": 0,
+      "publisher": "American Chemical Society (ACS)",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "abstract": "<jats:p>Peripheral membrane proteins (PMPs) bind membrane surfaces through interfacial binding sites (IBSs) that are critical for stable membrane association and proper orientation of catalytic active sites. Dysregulated PMP–membrane interactions can enhance catalytic activity and contribute to diseases including cancer, but many PMPs remain difficult therapeutic targets because their active sites lack well-defined pockets or become accessible only upon membrane binding. In this work, we developed a multistage computational framework that integrates MaSIF-PMP, a surface-centered geometric deep learning model for IBS prediction, with a generative diffusion model to design protein binders that target PMP IBSs and inhibit membrane adsorption. Candidate binders were ranked using MaSIF-PMP prediction scores and geometric descriptors, then validated by molecular dynamics and enhanced sampling simulations. Applied to three disease-relevant PMPs, the framework identified selective binders that disrupted membrane association while minimizing off-target membrane interactions, providing a potential strategy for designing PMP membrane-adsorption inhibitors.</jats:p>",
+      "DOI": "10.26434/chemrxiv.15010044/v1",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            7
+          ]
+        ],
+        "date-time": "2026-10-07T13:20:26Z",
+        "timestamp": 1791379226000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Surface-Aware Generative Design of Selective Inhibitors for Protein–Membrane Adsorption"
+      ],
+      "prefix": "10.26434",
+      "author": [
+        {
+          "given": "ByungUk",
+          "family": "Park",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Chemical and Biological Engineering, University of Wisconsin-Madison, 1415 Engineering Dr, Madison, Wisconsin, United States, 53706-1607"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-4885-6599",
+          "authenticated-orcid": true,
+          "given": "Reid C.",
+          "family": "Van Lehn",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Chemical and Biological Engineering, University of Wisconsin-Madison, 1415 Engineering Dr, Madison, Wisconsin, United States, 53706-1607"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "316",
+      "link": [
+        {
+          "URL": "https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15010044/v1",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            7
+          ]
+        ],
+        "date-time": "2026-10-07T13:20:26Z",
+        "timestamp": 1791379226000
+      },
+      "score": 59.68506,
+      "resource": {
+        "primary": {
+          "URL": "https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010044/v1"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            7
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.26434/chemrxiv.15010044/v1",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            7
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

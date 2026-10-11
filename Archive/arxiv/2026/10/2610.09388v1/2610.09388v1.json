@@ -1,0 +1,39 @@
+{
+  "source": "arxiv",
+  "source_id": "2610.09388v1",
+  "title": "Bottom-Up Prediction of Amorphous Poly(1,3-dioxolane) using Ab Initio Reactive Machine-Learning Force Fields",
+  "doi": "",
+  "abstract": "Poly(1,3-dioxolane) (pDXL) is a chemically recyclable polyether that can be synthesized by living cationic ring-opening polymerization with precise control of chain length into the ultra-high-molecular-weight (UHMW) regime, where it acquires enhanced mechanical properties. Like most polymers, however, it has amorphous condensed-phase structure, and diffraction measurements alone cannot resolve the atomistic microstructure that underlies them. In this work, we predict the ensemble of the pDXL microstructures by applying a recently developed AI-accelerated ab initio bottom-up polymer structure prediction (AI$^{2}$-BPSP) framework that simulates the living polymerization of pDXL under experimental synthetic conditions with machine-learning force fields trained within van der Waals-corrected hybrid density functional theory. Partitioning the predicted X-ray and neutron diffraction signal between the growing chain and the surrounding monomer resolves its dominant feature into two counteracting modes: a monomer contribution near $q \\approx 1.5$ Å$^{-1}$ that decays as monomer is consumed, and a polymer contribution near $q \\approx 1.6$ Å$^{-1}$ that is absent in oligomers and grows with chain length. This work paves the way to direct accuracy validation of these statistically significant, first-principles, and chain-length resolved diffraction predictions against experiments.",
+  "authors": [
+    "Yizhi Song",
+    "Bharatha K. Gunawardana",
+    "Kriti Alam",
+    "Teresa Shah",
+    "Deepa Ranabhat",
+    "Hsin-Yu Ko"
+  ],
+  "published_date": "2026-10-07T03:45:35Z",
+  "updated_date": "2026-10-07T03:45:35Z",
+  "journal": "",
+  "category": "cond-mat.mtrl-sci, cond-mat.dis-nn, physics.chem-ph",
+  "landing_url": "https://arxiv.org/abs/2610.09388v1",
+  "pdf_url": "https://arxiv.org/pdf/2610.09388v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cond-mat.mtrl-sci",
+    "cond-mat.dis-nn",
+    "physics.chem-ph"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2610.09388v1",
+    "raw_categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.dis-nn",
+      "physics.chem-ph"
+    ],
+    "journal_ref": ""
+  }
+}

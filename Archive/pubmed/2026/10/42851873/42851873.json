@@ -1,0 +1,209 @@
+{
+  "identity": {
+    "pmid": "42851873",
+    "doi": "10.1021/acsomega.6c05138",
+    "title": "Examining Protein Residue-Level Stability Using Theory and Experiment."
+  },
+  "content": {
+    "abstract": "Protein behavior, whether evolved in nature or intentionally designed, is governed by the energetics of amino acid interactions that bridge sequence to function. As an extension of the theory of protein folding funnels, local frustration quantifies the optimality of these residue-level interactions relative to alternatives. Although this framework has existed for decades, experimental validation has remained elusive. Past deep mutational scanning datasets enable experimental assessment across nearly 8,000 positions from 178 proteins. Results provide experimental evidence for theoretical predictions regarding the relationship between local frustration and protein sequence, structure, and evolution. An evaluation of three in silico methods shows modest agreement with benchmarks (r = 0.03 to 0.26), with the predominant local frustration predictor (Protein Frustratometer) capturing under 3% of the experimental variance. A recent deep learning model, Pythia, outperformed other tools across all evaluated metrics (r = 0.42). Finally, this scale of empirical data enables an evaluation of the strengths and limitations of energetic measures themselves, inspiring a complementary Sequence Probability INverse (SPIN) framework, which characterizes optimality through a Boltzmann-weighted selection probability within an ensemble of sequences. These findings help provide experimental grounding for the theoretical principles that govern protein sequence energetics.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Sanders, Andrew D",
+        "Yada, Rickey Y",
+        "Dee, Derek R"
+      ],
+      "short_names": [
+        "Sanders AD",
+        "Yada RY",
+        "Dee DR"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-7160-0535",
+        "ORCID: 0000-0002-4133-1020"
+      ],
+      "affiliations": [
+        "Food, Nutrition and Health, Faculty of Land and Food Systems, The University of British Columbia, Vancouver, British Columbia V6T 1Z4, Canada.",
+        "Faculty of Agricultural, Life and Environmental Sciences, University of Alberta, Edmonton, Alberta T6G 2R3, Canada. RINGGOLD: 3158",
+        "Food, Nutrition and Health, Faculty of Land and Food Systems, The University of British Columbia, Vancouver, British Columbia V6T 1Z4, Canada."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Sanders, Andrew D",
+        "short_name": "Sanders AD",
+        "identifiers": [
+          "0000-0002-7160-0535"
+        ],
+        "affiliations": [
+          "Food, Nutrition and Health, Faculty of Land and Food Systems, The University of British Columbia, Vancouver, British Columbia V6T 1Z4, Canada."
+        ]
+      },
+      {
+        "full_name": "Yada, Rickey Y",
+        "short_name": "Yada RY",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Agricultural, Life and Environmental Sciences, University of Alberta, Edmonton, Alberta T6G 2R3, Canada."
+        ]
+      },
+      {
+        "full_name": "Dee, Derek R",
+        "short_name": "Dee DR",
+        "identifiers": [
+          "0000-0002-4133-1020"
+        ],
+        "affiliations": [
+          "Food, Nutrition and Health, Faculty of Land and Food Systems, The University of British Columbia, Vancouver, British Columbia V6T 1Z4, Canada."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS omega"
+    ],
+    "journal_abbrev": [
+      "ACS Omega"
+    ],
+    "pub_date": "2026 Oct 6",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/09 11:40",
+    "fetched_at": "2026-10-11 08:17:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42851873",
+      "42475469",
+      "23912807",
+      "42567392",
+      "41310253",
+      "40314227",
+      "41542461",
+      "36321557",
+      "28844906",
+      "42192491",
+      "42427317",
+      "42573394",
+      "27964946",
+      "29262162",
+      "22574904",
+      "40027759",
+      "42818576",
+      "41977286",
+      "42336024",
+      "26800099",
+      "42691505",
+      "27131359",
+      "24267585",
+      "33550810",
+      "23609962",
+      "26157620",
+      "24089720",
+      "16252973",
+      "42089695",
+      "16807295",
+      "16438609",
+      "8229093",
+      "42391398",
+      "38106144",
+      "42079733",
+      "33212013",
+      "42567082",
+      "36282961",
+      "15268157",
+      "9710570",
+      "19003998",
+      "38157313",
+      "22645321",
+      "33720293",
+      "31063375",
+      "41570070",
+      "32211456",
+      "18831774",
+      "40054795",
+      "41031876",
+      "42123672",
+      "18803867",
+      "37468638",
+      "20952437",
+      "24498176",
+      "41318563",
+      "28057858",
+      "16292745",
+      "38501649",
+      "21776506",
+      "42789432",
+      "42439171",
+      "42634172",
+      "40662823",
+      "34815338",
+      "17932940",
+      "41292907",
+      "11119639",
+      "15326600",
+      "35377633",
+      "42380654",
+      "16737532",
+      "28196883",
+      "35944167",
+      "10656826",
+      "18029422",
+      "33067388",
+      "9080196",
+      "26571290",
+      "41795207",
+      "40465588",
+      "41312536",
+      "39565080",
+      "38873396",
+      "22815859",
+      "42185831",
+      "34904892",
+      "24187909",
+      "40613943",
+      "24362542",
+      "42015301",
+      "42720370",
+      "40463051",
+      "9692331",
+      "38830995",
+      "27606391",
+      "34527196",
+      "1528885",
+      "33687216",
+      "31892272"
+    ],
+    "review": [
+      "42851873",
+      "42567392",
+      "36321557",
+      "33550810",
+      "8229093",
+      "42123672",
+      "41318563",
+      "42439171",
+      "38873396",
+      "24187909"
+    ],
+    "pmc": [
+      "13647393"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

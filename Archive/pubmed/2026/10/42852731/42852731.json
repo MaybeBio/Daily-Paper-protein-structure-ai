@@ -1,0 +1,209 @@
+{
+  "identity": {
+    "pmid": "42852731",
+    "doi": "10.1063/5.0354758",
+    "title": "Thermodynamic landscapes of conformational regulation during intrinsically disordered protein fibrillation."
+  },
+  "content": {
+    "abstract": "Amyloid fibrillation of intrinsically disordered proteins (IDPs) involves a disorder-to-order transition driven by complex sequence-dependent interactions. However, how amino acid sequences and conformational ordering reshape the multi-chain free-energy landscape during fibril formation remains poorly understood. Here, we combine the hybrid-resolution coarse-grained HyRes model with umbrella sampling to reconstruct the potentials of mean force governing successive stages of IDP fibrillation, including free-chain association, fibril-surface recruitment, and multilayer fibril growth. Using alpha-synuclein, transactive response DNA-binding protein of 43 kDa (TDP-43), and a fibrillar-core construct of fused in sarcoma (FUS-FC) as representative amyloid-forming IDPs, we demonstrate that sequence-encoded electrostatic interactions are a major determinant of association free energies. alpha-Synuclein exhibits the strongest attraction and salt sensitivity, whereas TDP-43 shows weaker electrostatically regulated interactions. Association of the isolated FUS fibrillar core remains thermodynamically unfavorable, whereas inclusion of nonfibrillar regions makes association favorable. Charge-neutralization simulations further reveal the critical role of electrostatics and charge patterning in controlling association. Conformational restraints and fibrillar surface organization further modulate the free-energy landscape in a protein-specific manner, with recruitment governed by the accessibility and arrangement of surface interaction sites rather than fibril thickness alone. These results provide a thermodynamic framework connecting sequence, conformation, and surface organization to the molecular mechanisms of amyloid assembly.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Thermodynamics",
+      "*Intrinsically Disordered Proteins/chemistry",
+      "*alpha-Synuclein/chemistry",
+      "Protein Conformation",
+      "Static Electricity",
+      "*Amyloid/chemistry",
+      "*DNA-Binding Proteins/chemistry",
+      "Humans",
+      "Molecular Dynamics Simulation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Gao, Ruijun",
+        "Li, Minglun"
+      ],
+      "short_names": [
+        "Gao R",
+        "Li M"
+      ],
+      "auids": [
+        "ORCID: 0009-0007-6053-6156",
+        "ORCID: 0000-0002-1286-6915"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Polymer Science and Technology, Changchun Institute of Applied Chemistry, Chinese Academy of Sciences, Changchun 130022, People's Republic of China.",
+        "School of Applied Chemistry and Engineering, University of Science and Technology of China, Hefei 230026, People's Republic of China.",
+        "State Key Laboratory of Polymer Science and Technology, Changchun Institute of Applied Chemistry, Chinese Academy of Sciences, Changchun 130022, People's Republic of China.",
+        "School of Applied Chemistry and Engineering, University of Science and Technology of China, Hefei 230026, People's Republic of China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Gao, Ruijun",
+        "short_name": "Gao R",
+        "identifiers": [
+          "0009-0007-6053-6156"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Polymer Science and Technology, Changchun Institute of Applied Chemistry, Chinese Academy of Sciences, Changchun 130022, People's Republic of China.",
+          "School of Applied Chemistry and Engineering, University of Science and Technology of China, Hefei 230026, People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Li, Minglun",
+        "short_name": "Li M",
+        "identifiers": [
+          "0000-0002-1286-6915"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Polymer Science and Technology, Changchun Institute of Applied Chemistry, Chinese Academy of Sciences, Changchun 130022, People's Republic of China.",
+          "School of Applied Chemistry and Engineering, University of Science and Technology of China, Hefei 230026, People's Republic of China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The Journal of chemical physics"
+    ],
+    "journal_abbrev": [
+      "J Chem Phys"
+    ],
+    "pub_date": "2026 Oct 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/09 11:40",
+    "fetched_at": "2026-10-11 08:17:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42852731",
+      "28970487",
+      "29715424",
+      "28914483",
+      "29364151",
+      "24278008",
+      "29548979",
+      "29186229",
+      "40853068",
+      "41129692",
+      "33903234",
+      "29621630",
+      "36379279",
+      "34358545",
+      "30933517",
+      "28330339",
+      "38458997",
+      "39225535",
+      "23214618",
+      "31362509",
+      "33581430",
+      "25207671",
+      "23607785",
+      "36674958",
+      "27588692",
+      "30071273",
+      "30520297",
+      "32623047",
+      "41137856",
+      "39046235",
+      "30091924",
+      "30184304",
+      "33355572",
+      "40569578",
+      "42742050",
+      "25375525",
+      "35029261",
+      "32654182",
+      "41298246",
+      "31181290",
+      "30793144",
+      "30909517",
+      "40693919",
+      "39561991",
+      "35912724",
+      "30193467",
+      "38928405",
+      "31809054",
+      "38481374",
+      "40818051",
+      "30142698",
+      "42361232",
+      "39248414",
+      "29704492",
+      "41253764",
+      "40101966",
+      "37399327",
+      "23811057",
+      "34845619",
+      "41969219",
+      "39499823",
+      "33500517",
+      "35543707",
+      "35944496",
+      "34680048",
+      "41301496",
+      "40532196",
+      "40172236",
+      "36774964",
+      "24317797",
+      "18261982",
+      "28111343",
+      "33806726",
+      "34504009",
+      "29990433",
+      "34986640",
+      "25919886",
+      "42578546",
+      "31699336",
+      "33333378",
+      "37407505",
+      "38018910",
+      "19813700",
+      "27936491",
+      "30813315",
+      "41851975",
+      "40308178",
+      "42093278",
+      "24086122",
+      "31709918",
+      "31441158",
+      "38112495",
+      "31903719",
+      "21761818",
+      "30730736",
+      "23531173",
+      "39807013",
+      "22506277",
+      "34259536",
+      "35034725"
+    ],
+    "review": [
+      "42852731",
+      "29364151",
+      "34358545",
+      "33355572",
+      "30909517",
+      "30142698",
+      "37399327",
+      "34680048",
+      "31709918"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

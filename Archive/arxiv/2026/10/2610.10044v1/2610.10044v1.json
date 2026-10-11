@@ -1,0 +1,33 @@
+{
+  "source": "arxiv",
+  "source_id": "2610.10044v1",
+  "title": "CANDO: Cooperative Agentic Network for Layout Design Optimization",
+  "doi": "",
+  "abstract": "Layout generation for real-world facilities is a challenging problem, requiring reasoning over irregular site boundaries, heterogeneous orientations, access-aware placements, and motion-planning feasibility. Yet, most existing layout benchmarks in the generative AI space target simpler placements over rectangular domains and rely on distributional metrics such as FID and IoU that reward conformity to dataset priors, thus discounting design innovation. Motivated by these gaps, we introduce ALPS-Bench, a benchmark of $1,000$ professionally annotated real-world facility layouts paired with an instance-specific scoring protocol grounded in a structured design manual. As a strong baseline for ALPS-Bench, we propose CANDO, a training-free multi-agent framework in which specialized agents iteratively refine layouts through a verification-grounded loop, concentrating reasoning on strategic spatial decisions. We demonstrate that CANDO surpasses state-of-the-art trained and LLM-based baselines on the widely adopted PubLayNet, RICO, and PKU-PosterLayout benchmarks, establishing cooperative agentic design as a broadly effective recipe for constraint-aware layout synthesis.",
+  "authors": [
+    "Athanasios Masouris",
+    "Zheng Jing",
+    "Benjamin Sam Chandler",
+    "Hadi Jamali-Rad"
+  ],
+  "published_date": "2026-10-07T13:20:52Z",
+  "updated_date": "2026-10-07T13:20:52Z",
+  "journal": "",
+  "category": "cs.MA",
+  "landing_url": "https://arxiv.org/abs/2610.10044v1",
+  "pdf_url": "https://arxiv.org/pdf/2610.10044v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cs.MA"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2610.10044v1",
+    "raw_categories": [
+      "cs.MA"
+    ],
+    "journal_ref": ""
+  }
+}

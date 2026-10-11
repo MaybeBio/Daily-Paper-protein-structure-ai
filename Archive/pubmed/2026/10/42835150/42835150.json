@@ -1,0 +1,350 @@
+{
+  "identity": {
+    "pmid": "42835150",
+    "doi": "10.3389/fimmu.2026.1918926",
+    "title": "Mitochondria affect antibacterial immunity in cross talk with innate immune response molecules coded by genes of nuclear origin."
+  },
+  "content": {
+    "abstract": "INTRODUCTION: Mitochondria are dynamic, semi-autonomous organelles that, in addition to their central role in ATP production, regulate calcium homeostasis, iron metabolism, apoptosis, and innate immune signalling. Although the mitochondrial genome encodes only 37 genes, mitochondrial architecture, bioenergetic function, and dynamics are governed predominantly by nuclear-encoded proteins, necessitating highly coordinated communication between mitochondrial DNA (mtDNA) and the nuclear genome. Disruption of this bidirectional mitochondrial-nuclear crosstalk has been increasingly implicated in the pathogenesis of numerous diseases across species; however, the molecular mechanisms underlying this communication remain incompletely understood. MATERIALS AND METHOD: In the present study, we used Anas platyrhynchos as a model of duck pasteurellosis to investigate mitochondrial-nuclear interactions in the regulation of innate immune responses during Pasteurella multocida infection. We characterized the mitochondrial (cytochrome b and cytochrome c) and nuclear genes (NLRP3, IL-18, and STING) of duck, in silico molecular docking, PHYRE 2 for PDB structure prediction, pymol visualization, and experimental validation with differential mRNA expression profiling. RESULT AND DISCUSSION: Our findings demonstrate that the mitochondrially encoded proteins cytochrome b and cytochrome c functionally interact with the nuclear-encoded immune regulators NLRP3, IL-18, and STING through the NOD-like receptor signalling pathway, phagocytic pathways, and the cytosolic DNA-sensing pathway. Furthermore, molecular docking analyses identified putative interaction sites between IL-18 and P. multocida, providing additional support for the functional relevance of these immune pathways during bacterial infection. To our knowledge, this study provides the first evidence in an animal model that mitochondrial retrograde signalling influences the regulation of nuclear immune genes during bacterial infection. These findings reveal a previously unrecognized mechanism through which mitochondrial gene products modulate host innate immune responses, thereby advancing our understanding of mitochondrial-nuclear communication in host-pathogen interactions.",
+    "keywords": [
+      "Anas platyrhnchos",
+      "antibacterial immunity",
+      "duck pasteurellosis",
+      "mitochondrial genome",
+      "nuclear gene"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Immunity, Innate/genetics",
+      "*Ducks/immunology/microbiology/genetics",
+      "*Mitochondria/immunology/genetics/metabolism",
+      "*Pasteurella multocida/immunology",
+      "*Cell Nucleus/genetics/immunology",
+      "Host-Pathogen Interactions/immunology/genetics",
+      "Molecular Docking Simulation",
+      "DNA, Mitochondrial/genetics",
+      "Interleukin-18/genetics/metabolism",
+      "Signal Transduction"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chakraborty, Argha",
+        "Pal, Aruna",
+        "Debnath, Manti",
+        "Sahu, Jyoti",
+        "Pal, Abantika",
+        "Mukherjee, Joydeep",
+        "Samanta, Rajarshi",
+        "Chatterjee, Paresh Nath"
+      ],
+      "short_names": [
+        "Chakraborty A",
+        "Pal A",
+        "Debnath M",
+        "Sahu J",
+        "Pal A",
+        "Mukherjee J",
+        "Samanta R",
+        "Chatterjee PN"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Animal Genetics and Breeding, Kolkata, West Bengal, India.",
+        "West Bengal University of Animal and Fishery Sciences, Kolkata, India.",
+        "West Bengal University of Animal and Fishery Sciences, Kolkata, India.",
+        "Department of Livestock Farm Complex, Kolkata, West Bengal, India.",
+        "Department of Animal Genetics and Breeding, Kolkata, West Bengal, India.",
+        "West Bengal University of Animal and Fishery Sciences, Kolkata, India.",
+        "West Bengal University of Animal and Fishery Sciences, Kolkata, India.",
+        "Department of Livestock Production and Management, Kolkata, West Bengal, India.",
+        "University of California, San Francisco, San Francisco, CA, United States.",
+        "West Bengal University of Animal and Fishery Sciences, Kolkata, India.",
+        "Department of Veterinary Physiology, Kolkata, West Bengal, India.",
+        "West Bengal University of Animal and Fishery Sciences, Kolkata, India.",
+        "Department of Livestock Production and Management, Kolkata, West Bengal, India.",
+        "West Bengal University of Animal and Fishery Sciences, Kolkata, India.",
+        "Department of Fish Nutritionl, Kolkata, West Bengal, India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chakraborty, Argha",
+        "short_name": "Chakraborty A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Animal Genetics and Breeding, Kolkata, West Bengal, India.",
+          "West Bengal University of Animal and Fishery Sciences, Kolkata, India."
+        ]
+      },
+      {
+        "full_name": "Pal, Aruna",
+        "short_name": "Pal A",
+        "identifiers": [],
+        "affiliations": [
+          "West Bengal University of Animal and Fishery Sciences, Kolkata, India.",
+          "Department of Livestock Farm Complex, Kolkata, West Bengal, India."
+        ]
+      },
+      {
+        "full_name": "Debnath, Manti",
+        "short_name": "Debnath M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Animal Genetics and Breeding, Kolkata, West Bengal, India.",
+          "West Bengal University of Animal and Fishery Sciences, Kolkata, India."
+        ]
+      },
+      {
+        "full_name": "Sahu, Jyoti",
+        "short_name": "Sahu J",
+        "identifiers": [],
+        "affiliations": [
+          "West Bengal University of Animal and Fishery Sciences, Kolkata, India.",
+          "Department of Livestock Production and Management, Kolkata, West Bengal, India."
+        ]
+      },
+      {
+        "full_name": "Pal, Abantika",
+        "short_name": "Pal A",
+        "identifiers": [],
+        "affiliations": [
+          "University of California, San Francisco, San Francisco, CA, United States."
+        ]
+      },
+      {
+        "full_name": "Mukherjee, Joydeep",
+        "short_name": "Mukherjee J",
+        "identifiers": [],
+        "affiliations": [
+          "West Bengal University of Animal and Fishery Sciences, Kolkata, India.",
+          "Department of Veterinary Physiology, Kolkata, West Bengal, India."
+        ]
+      },
+      {
+        "full_name": "Samanta, Rajarshi",
+        "short_name": "Samanta R",
+        "identifiers": [],
+        "affiliations": [
+          "West Bengal University of Animal and Fishery Sciences, Kolkata, India.",
+          "Department of Livestock Production and Management, Kolkata, West Bengal, India."
+        ]
+      },
+      {
+        "full_name": "Chatterjee, Paresh Nath",
+        "short_name": "Chatterjee PN",
+        "identifiers": [],
+        "affiliations": [
+          "West Bengal University of Animal and Fishery Sciences, Kolkata, India.",
+          "Department of Fish Nutritionl, Kolkata, West Bengal, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in immunology"
+    ],
+    "journal_abbrev": [
+      "Front Immunol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/06 11:31",
+    "fetched_at": "2026-10-11 08:17:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42835150",
+      "30165038",
+      "36448809",
+      "41937181",
+      "35175686",
+      "36745138",
+      "32269576",
+      "41404367",
+      "41724837",
+      "28969942",
+      "42761405",
+      "30349536",
+      "26498951",
+      "38779772",
+      "26663182",
+      "39581075",
+      "37001140",
+      "32075926",
+      "40418056",
+      "35604097",
+      "42206267",
+      "40158432",
+      "42324527",
+      "33412226",
+      "42251192",
+      "30955811",
+      "21110886",
+      "31940818",
+      "21799518",
+      "41231107",
+      "12495447",
+      "33558322",
+      "28815531",
+      "39655955",
+      "24200652",
+      "30951392",
+      "38335010",
+      "39998221",
+      "34809467",
+      "34857014",
+      "34018355",
+      "39508267",
+      "41646965",
+      "29078758",
+      "8811190",
+      "42638898",
+      "41611232",
+      "42828162",
+      "25505063",
+      "33031404",
+      "34322125",
+      "38086488",
+      "41890719",
+      "33679710",
+      "42798827",
+      "28710430",
+      "33802550",
+      "32273022",
+      "24606795",
+      "29407578",
+      "33193341",
+      "33675177",
+      "42831288",
+      "32295905",
+      "26038395",
+      "30952515",
+      "9752724",
+      "34386501",
+      "40622847",
+      "37742962",
+      "42828712",
+      "33369015",
+      "32075929",
+      "27129311",
+      "40019559",
+      "35836133",
+      "41257828",
+      "41017084",
+      "11223238",
+      "28899359",
+      "25640729",
+      "41985800",
+      "42174715",
+      "29246869",
+      "34566699",
+      "42475469",
+      "21249202",
+      "29198775",
+      "37325622",
+      "16245793",
+      "40983142",
+      "29983246",
+      "23460746",
+      "19491041",
+      "25180170",
+      "39213393",
+      "41775094",
+      "21597473",
+      "32395698",
+      "28835257"
+    ],
+    "review": [
+      "42835150",
+      "30165038",
+      "41937181",
+      "36745138",
+      "32269576",
+      "41404367",
+      "41724837",
+      "42761405",
+      "26498951",
+      "38779772",
+      "37001140",
+      "40418056",
+      "40158432",
+      "42324527",
+      "33412226",
+      "31940818",
+      "21799518",
+      "33558322",
+      "28815531",
+      "38335010",
+      "34018355",
+      "8811190",
+      "42638898",
+      "41611232",
+      "42828162",
+      "38086488",
+      "41890719",
+      "33679710",
+      "42798827",
+      "33802550",
+      "42831288",
+      "26038395",
+      "9752724",
+      "34386501",
+      "40622847",
+      "42828712",
+      "33369015",
+      "41257828",
+      "41017084",
+      "11223238",
+      "25640729",
+      "29246869",
+      "34566699",
+      "37325622",
+      "19491041",
+      "25180170",
+      "39213393",
+      "21597473",
+      "28835257"
+    ],
+    "pmc": [
+      "13634939"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-STING1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-705",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fimmu.2026.1918926",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

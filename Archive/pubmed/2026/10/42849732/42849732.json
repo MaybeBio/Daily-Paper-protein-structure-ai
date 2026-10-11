@@ -1,0 +1,214 @@
+{
+  "identity": {
+    "pmid": "42849732",
+    "doi": "10.1016/j.jbc.2026.113626",
+    "title": "Structural and biochemical basis for the formation of alpha-(1-->3)-linked mannose residue in O-glycans of Saccharomyces cerevisiae."
+  },
+  "content": {
+    "abstract": "The biosynthesis of O-mannose-type glycans in the budding yeast Saccharomyces cerevisiae requires the sequential action of multiple mannosyltransferases. However, the molecular mechanism governing alpha-(1-->3)-linkage formation remains poorly understood. Mnt2p, a member of glycosyltransferase family 71 (GT71), catalyzes the transfer of the fourth and fifth mannose residues of O-glycans via alpha-(1-->3)-linkages. Here, we report the crystal structure of Mnt2p at 2.40 A resolution, representing the first experimentally determined structure of a GT71 family enzyme. The structure revealed an N-terminal domain adopting a canonical GT-A fold harboring a DXD motif that coordinates a Mn(2+) ion and a novel C-terminal domain unique to the GT71 family. The active site is formed at the interface between these two domains, and GDP-mannose binds to a cleft adjacent to the catalytic metal ion. Using recombinant Mnt2p expressed in Escherichia coli, we biochemically demonstrated its alpha-(1-->3)-mannosyltransferase activity and determined its substrate specificity toward alpha-mannobiose acceptors. Docking and molecular dynamics simulations revealed that the C-terminal domain forms the acceptor substrate-binding site, providing the structural basis for alpha-(1-->3)-linkage selectivity, distinct from the linkage specificity of alpha-(1-->2)-mannosyltransferases. These findings establish the structural foundation for understanding the differentiation of alpha-(1-->2) and alpha-(1-->3) mannosyl linkages in yeast O-glycan biosynthesis.",
+    "keywords": [
+      "Saccharomyces cerevisiae",
+      "glycosyltransferase",
+      "mannosyltransferase",
+      "molecular dynamics",
+      "protein structure"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Hira, Daisuke",
+        "Kadooka, Chihiro",
+        "Oka, Takuji"
+      ],
+      "short_names": [
+        "Hira D",
+        "Kadooka C",
+        "Oka T"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Biotechnology and Life Sciences, Faculty of Biotechnology and Life Sciences, Sojo University, 4-22-1 Ikeda, Kumamoto 860-0082, Japan. Electronic address: hira@bio.sojo-u.ac.jp.",
+        "Department of Biotechnology and Life Sciences, Faculty of Biotechnology and Life Sciences, Sojo University, 4-22-1 Ikeda, Kumamoto 860-0082, Japan.",
+        "Department of Biotechnology and Life Sciences, Faculty of Biotechnology and Life Sciences, Sojo University, 4-22-1 Ikeda, Kumamoto 860-0082, Japan. Electronic address: oka@bio.sojo-u.ac.jp."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Hira, Daisuke",
+        "short_name": "Hira D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology and Life Sciences, Faculty of Biotechnology and Life Sciences, Sojo University, 4-22-1 Ikeda, Kumamoto 860-0082, Japan. Electronic address: hira@bio.sojo-u.ac.jp."
+        ]
+      },
+      {
+        "full_name": "Kadooka, Chihiro",
+        "short_name": "Kadooka C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology and Life Sciences, Faculty of Biotechnology and Life Sciences, Sojo University, 4-22-1 Ikeda, Kumamoto 860-0082, Japan."
+        ]
+      },
+      {
+        "full_name": "Oka, Takuji",
+        "short_name": "Oka T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology and Life Sciences, Faculty of Biotechnology and Life Sciences, Sojo University, 4-22-1 Ikeda, Kumamoto 860-0082, Japan. Electronic address: oka@bio.sojo-u.ac.jp."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The Journal of biological chemistry"
+    ],
+    "journal_abbrev": [
+      "J Biol Chem"
+    ],
+    "pub_date": "2026 Oct 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/08 23:31",
+    "fetched_at": "2026-10-11 08:17:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42849732",
+      "25477510",
+      "14752117",
+      "25422321",
+      "26296208",
+      "9276464",
+      "32873705",
+      "10521541",
+      "33893702",
+      "36445154",
+      "37071393",
+      "19929855",
+      "19249370",
+      "9020857",
+      "10673432",
+      "2022642",
+      "17042779",
+      "35871410",
+      "2644248",
+      "6052",
+      "16407250",
+      "24026536",
+      "22989876",
+      "22875852",
+      "8166646",
+      "22326920",
+      "30446686",
+      "10485283",
+      "16829524",
+      "41684683",
+      "23434682",
+      "16509041",
+      "7649981",
+      "24155237",
+      "9376678",
+      "9817848",
+      "10766761",
+      "16549409",
+      "7864633",
+      "29449376",
+      "12235155",
+      "10464224",
+      "903361",
+      "11545590",
+      "8439868",
+      "1429724",
+      "11181560",
+      "2001697",
+      "21104698",
+      "791775",
+      "33144549",
+      "36924942",
+      "11926828",
+      "40743235",
+      "33004438",
+      "31285605",
+      "22243403",
+      "1105568",
+      "21067515",
+      "30395931",
+      "15486088",
+      "33229435",
+      "31974821",
+      "38651868",
+      "28616799",
+      "8367478",
+      "1550992",
+      "39660564",
+      "1495972",
+      "21622726",
+      "36602978",
+      "41655915",
+      "32103179",
+      "22745268",
+      "42058885",
+      "14617637",
+      "1521536",
+      "12139940",
+      "7812714",
+      "7309740",
+      "35713525",
+      "21956107",
+      "20356840",
+      "10891068",
+      "27710940",
+      "9218445",
+      "235543",
+      "12196023",
+      "30322079",
+      "8608269",
+      "31351924",
+      "16650853",
+      "7512562",
+      "31152065",
+      "31945375",
+      "28163025",
+      "27493216",
+      "20140249",
+      "41513091",
+      "28711406"
+    ],
+    "review": [
+      "42849732",
+      "23434682",
+      "28616799"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0021-9258(26)02498-1",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-290",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

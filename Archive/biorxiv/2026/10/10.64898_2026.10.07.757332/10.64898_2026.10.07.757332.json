@@ -1,0 +1,105 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.07.757332",
+  "title": "RNA3D-Decoy: A Large-Scale Benchmark Dataset of AI-Generated RNA Structure Models for Quality Assessment",
+  "doi": "10.64898/2026.10.07.757332",
+  "abstract": "Recent advances in AI- RNA structure prediction have increased the availability of candidate models, but their accuracy remains variable. Developing reliable quality assessment (QA) methods requires datasets that represent contemporary prediction errors across diverse targets and molecular contexts. Here, we present RNA3D-Decoy, a large-scale benchmark dataset comprising 103,549 decoys for 677 experimentally determined targets, including 416 RNA-only structures,117 RNA structures with metal ions, and 144 RNA-protein complexes. Decoys were generated using five biomolecular predictors: AlphaFold 3, ESMFold2, Protenix, Chai-1, and Boltz-2.Each decoy is evaluated against its experimental reference us-ing TM-score, lDDT, and RMSD, with global and local quality annotations where applicable. DockQ scores additionally characterize RNA-protein interface quality. Target grouping incorporates both RNA and protein sequence relationships to support dataset partitioning. Analyses reveal distinct quality distributions across dataset levels and target-dependent differences among predictors, with each predictor contributing the highest-TM-score model for a subset of targets. Broad pooled score distributions also coexist with limited within-target score variation, particularly for RNA-protein complexes, emphasizing the importance of target-level characterization. By combining AI-generated decoys, standardized quality labels, and structured metadata, RNA3D-Decoy provides a resource for developing and evaluating methods for global quality estimation, local error prediction, and candidate-model ranking. The data set and accompanying code are available at: https://github.com/HamiltonChenLab/RNA3D-Decoy.",
+  "authors": [
+    "Chen X",
+    "Yadi H",
+    "Cao R",
+    "Liu H"
+  ],
+  "published_date": "2026-10-08",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.07.757332",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.07.757332.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1338270",
+    "raw_record": {
+      "id": "PPR1338270",
+      "source": "PPR",
+      "doi": "10.64898/2026.10.07.757332",
+      "title": "RNA3D-Decoy: A Large-Scale Benchmark Dataset of AI-Generated RNA Structure Models for Quality Assessment",
+      "authorString": "Chen X, Yadi H, Cao R, Liu H.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Chen X",
+            "lastName": "Chen",
+            "firstName": "Xiao",
+            "initials": "X"
+          },
+          {
+            "fullName": "Yadi H",
+            "lastName": "Yadi",
+            "firstName": "Hpoo",
+            "initials": "H"
+          },
+          {
+            "fullName": "Cao R",
+            "lastName": "Cao",
+            "firstName": "Renzhi",
+            "initials": "R"
+          },
+          {
+            "fullName": "Liu H",
+            "lastName": "Liu",
+            "firstName": "Hanyu",
+            "initials": "H"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Recent advances in AI- RNA structure prediction have increased the availability of candidate models, but their accuracy remains variable. Developing reliable quality assessment (QA) methods requires datasets that represent contemporary prediction errors across diverse targets and molecular contexts. Here, we present RNA3D-Decoy, a large-scale benchmark dataset comprising 103,549 decoys for 677 experimentally determined targets, including 416 RNA-only structures,117 RNA structures with metal ions, and 144 RNA-protein complexes. Decoys were generated using five biomolecular predictors: AlphaFold 3, ESMFold2, Protenix, Chai-1, and Boltz-2.Each decoy is evaluated against its experimental reference us-ing TM-score, lDDT, and RMSD, with global and local quality annotations where applicable. DockQ scores additionally characterize RNA-protein interface quality. Target grouping incorporates both RNA and protein sequence relationships to support dataset partitioning. Analyses reveal distinct quality distributions across dataset levels and target-dependent differences among predictors, with each predictor contributing the highest-TM-score model for a subset of targets. Broad pooled score distributions also coexist with limited within-target score variation, particularly for RNA-protein complexes, emphasizing the importance of target-level characterization. By combining AI-generated decoys, standardized quality labels, and structured metadata, RNA3D-Decoy provides a resource for developing and evaluating methods for global quality estimation, local error prediction, and candidate-model ranking. The data set and accompanying code are available at: https://github.com/HamiltonChenLab/RNA3D-Decoy.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.10.07.757332"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-10-10",
+      "firstPublicationDate": "2026-10-08",
+      "firstIndexDate": "2026-10-10",
+      "hasEvaluations": "N"
+    }
+  }
+}

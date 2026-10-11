@@ -1,0 +1,334 @@
+{
+  "identity": {
+    "pmid": "42837444",
+    "doi": "10.1073/pnas.2620484123",
+    "title": "Conformational switch of NPC1 epitomizes a lumen-to-membrane alternating access model for nonpolar substrates."
+  },
+  "content": {
+    "abstract": "Niemann-Pick disease type C (NPC) arises from failure of the NPC1 and/or NPC2 proteins to mobilize lysosomal cholesterol, yet the mechanism by which the complex drives sterol translocation lacks a thorough understanding. Here, we capture an NPC1-NPC2 complex conformation at lysosomal pH using a bis-sterol ligand (JM046), fortifying NPC2 engagement with NPC1 and enabling structural characterization of an alternative transport state. In this complex, the sterol moiety is absent from the NPC1 central tunnel, and the neck site adopts an expanded architecture that resembles a previously observed NPC1 conformation at neutral pH, indicating that the tunnel geometry may not be influenced by the pH alone. Instead, we provide evidence that cholesterol occupancy in the neck site is a key determinant of tunnel contraction. Supporting this notion, NPC1 purified from cholesterol-auxotrophic insect cells exhibits a similarly expanded neck conformation. Integrating these structures and molecular dynamics (MD) simulations exploring the directional cholesterol handoff from NPC2 to the NPC1 tunnel, we propose a substrate-induced gating cycle where luminal and membrane-facing openings of NPC1 switch states in a coordinated manner to transfer cholesterol across the hydrophilic glycocalyx, reminiscent of the alternating access mechanism of membrane transporters. This framework synthesizes NPC1 conformational states into a mechanistic basis that may be used to map pathogenic NPC variants to their relevant transport steps.",
+    "keywords": [
+      "NPC1 and NPC2",
+      "Niemann-Pick disease type C",
+      "alternating access",
+      "cryo-EM",
+      "sterol transporter"
+    ],
+    "mesh_terms": [
+      "*Niemann-Pick C1 Protein/metabolism/chemistry",
+      "Cholesterol/metabolism",
+      "*Intracellular Signaling Peptides and Proteins/metabolism/chemistry",
+      "Animals",
+      "Protein Conformation",
+      "Molecular Dynamics Simulation",
+      "Humans",
+      "Vesicular Transport Proteins/metabolism/chemistry",
+      "Lysosomes/metabolism",
+      "Niemann-Pick Disease, Type C/metabolism/genetics",
+      "Hydrogen-Ion Concentration"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wu, Xuelan",
+        "Dehghani-Ghahnaviyeh, Sepehr",
+        "Rasouli, Ali",
+        "Malona, John A",
+        "Antalek, Mitchell",
+        "Jones, Lyn H",
+        "Fan, Xiao",
+        "Peng, Adele",
+        "Tajkhorshid, Emad",
+        "Qian, Hongwu",
+        "Yan, Nieng"
+      ],
+      "short_names": [
+        "Wu X",
+        "Dehghani-Ghahnaviyeh S",
+        "Rasouli A",
+        "Malona JA",
+        "Antalek M",
+        "Jones LH",
+        "Fan X",
+        "Peng A",
+        "Tajkhorshid E",
+        "Qian H",
+        "Yan N"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-9308-8237",
+        "ORCID: 0000-0001-8434-1010",
+        "ORCID: 0000-0001-9940-8003",
+        "ORCID: 0000-0003-4829-7416"
+      ],
+      "affiliations": [
+        "Department of Chemistry, Princeton University, Princeton, NJ 08544. ROR: https://ror.org/00hx57361",
+        "Theoretical and Computational Biophysics Group, NIH Center for Macromolecular Modeling and Visualization, Beckman Institute for Advanced Science and Technology, Department of Biochemistry, and Center for Biophysics and Quantitative Biology, University of Illinois Urbana-Champaign, Urbana, IL 61801. ROR: https://ror.org/047426m28",
+        "Theoretical and Computational Biophysics Group, NIH Center for Macromolecular Modeling and Visualization, Beckman Institute for Advanced Science and Technology, Department of Biochemistry, and Center for Biophysics and Quantitative Biology, University of Illinois Urbana-Champaign, Urbana, IL 61801. ROR: https://ror.org/047426m28",
+        "Jnana Therapeutics Inc., Boston, MA 02210.",
+        "Jnana Therapeutics Inc., Boston, MA 02210.",
+        "Jnana Therapeutics Inc., Boston, MA 02210.",
+        "Department of Molecular Biology, Princeton University, Princeton, NJ 08544. ROR: https://ror.org/00hx57361",
+        "Department of Molecular Biology, Princeton University, Princeton, NJ 08544. ROR: https://ror.org/00hx57361",
+        "Theoretical and Computational Biophysics Group, NIH Center for Macromolecular Modeling and Visualization, Beckman Institute for Advanced Science and Technology, Department of Biochemistry, and Center for Biophysics and Quantitative Biology, University of Illinois Urbana-Champaign, Urbana, IL 61801. ROR: https://ror.org/047426m28",
+        "Ministry of Education Key Laboratory for Membraneless Organelles and Cellular Dynamics, Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei 230027, China. ROR: https://ror.org/04c4dkn09",
+        "Department of Molecular Biology, Princeton University, Princeton, NJ 08544. ROR: https://ror.org/00hx57361"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wu, Xuelan",
+        "short_name": "Wu X",
+        "identifiers": [
+          "0000-0002-9308-8237"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Princeton University, Princeton, NJ 08544."
+        ]
+      },
+      {
+        "full_name": "Dehghani-Ghahnaviyeh, Sepehr",
+        "short_name": "Dehghani-Ghahnaviyeh S",
+        "identifiers": [],
+        "affiliations": [
+          "Theoretical and Computational Biophysics Group, NIH Center for Macromolecular Modeling and Visualization, Beckman Institute for Advanced Science and Technology, Department of Biochemistry, and Center for Biophysics and Quantitative Biology, University of Illinois Urbana-Champaign, Urbana, IL 61801."
+        ]
+      },
+      {
+        "full_name": "Rasouli, Ali",
+        "short_name": "Rasouli A",
+        "identifiers": [],
+        "affiliations": [
+          "Theoretical and Computational Biophysics Group, NIH Center for Macromolecular Modeling and Visualization, Beckman Institute for Advanced Science and Technology, Department of Biochemistry, and Center for Biophysics and Quantitative Biology, University of Illinois Urbana-Champaign, Urbana, IL 61801."
+        ]
+      },
+      {
+        "full_name": "Malona, John A",
+        "short_name": "Malona JA",
+        "identifiers": [],
+        "affiliations": [
+          "Jnana Therapeutics Inc., Boston, MA 02210."
+        ]
+      },
+      {
+        "full_name": "Antalek, Mitchell",
+        "short_name": "Antalek M",
+        "identifiers": [],
+        "affiliations": [
+          "Jnana Therapeutics Inc., Boston, MA 02210."
+        ]
+      },
+      {
+        "full_name": "Jones, Lyn H",
+        "short_name": "Jones LH",
+        "identifiers": [],
+        "affiliations": [
+          "Jnana Therapeutics Inc., Boston, MA 02210."
+        ]
+      },
+      {
+        "full_name": "Fan, Xiao",
+        "short_name": "Fan X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Biology, Princeton University, Princeton, NJ 08544."
+        ]
+      },
+      {
+        "full_name": "Peng, Adele",
+        "short_name": "Peng A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Biology, Princeton University, Princeton, NJ 08544."
+        ]
+      },
+      {
+        "full_name": "Tajkhorshid, Emad",
+        "short_name": "Tajkhorshid E",
+        "identifiers": [
+          "0000-0001-8434-1010"
+        ],
+        "affiliations": [
+          "Theoretical and Computational Biophysics Group, NIH Center for Macromolecular Modeling and Visualization, Beckman Institute for Advanced Science and Technology, Department of Biochemistry, and Center for Biophysics and Quantitative Biology, University of Illinois Urbana-Champaign, Urbana, IL 61801."
+        ]
+      },
+      {
+        "full_name": "Qian, Hongwu",
+        "short_name": "Qian H",
+        "identifiers": [
+          "0000-0001-9940-8003"
+        ],
+        "affiliations": [
+          "Ministry of Education Key Laboratory for Membraneless Organelles and Cellular Dynamics, Division of Life Sciences and Medicine, University of Science and Technology of China, Hefei 230027, China."
+        ]
+      },
+      {
+        "full_name": "Yan, Nieng",
+        "short_name": "Yan N",
+        "identifiers": [
+          "0000-0003-4829-7416"
+        ],
+        "affiliations": [
+          "Department of Molecular Biology, Princeton University, Princeton, NJ 08544."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Proceedings of the National Academy of Sciences of the United States of America"
+    ],
+    "journal_abbrev": [
+      "Proc Natl Acad Sci U S A"
+    ],
+    "pub_date": "2026 Oct 13",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/06 17:31",
+    "fetched_at": "2026-10-11 08:17:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42837444",
+      "32880929",
+      "32544384",
+      "35850050",
+      "20007703",
+      "32385114",
+      "25251378",
+      "41452985",
+      "33021976",
+      "23843985",
+      "30942586",
+      "27378690",
+      "24664998",
+      "27888692",
+      "22179027",
+      "34948052",
+      "20674861",
+      "21708114",
+      "21550990",
+      "39395801",
+      "34023384",
+      "17573352",
+      "15314240",
+      "30710017",
+      "33503462",
+      "19252935",
+      "22065762",
+      "18823126",
+      "41934663",
+      "21289032",
+      "28082351",
+      "32331453",
+      "41776152",
+      "38686625",
+      "30790261",
+      "19884502",
+      "32387451",
+      "30181526",
+      "39596250",
+      "27551080",
+      "26296895",
+      "40565243",
+      "9927649",
+      "31543266",
+      "32709131",
+      "30183109",
+      "42262129",
+      "27238017",
+      "33308480",
+      "40516874",
+      "18772377",
+      "32457374",
+      "17989072",
+      "32410728",
+      "33924575",
+      "18953351",
+      "32522631",
+      "36748341",
+      "41982147",
+      "17880278",
+      "24790103",
+      "12719428",
+      "37440478",
+      "41898822",
+      "10092649",
+      "39443481",
+      "38568972",
+      "37507375",
+      "38715125",
+      "34544283",
+      "31548609",
+      "31537798",
+      "19563754",
+      "20807315",
+      "24076310",
+      "28053186",
+      "21887293",
+      "34019311",
+      "23350547",
+      "37423302",
+      "39518914",
+      "37245481",
+      "32204338",
+      "22277650",
+      "31197681",
+      "39173891",
+      "32144825",
+      "11571306",
+      "39207850",
+      "30923329",
+      "33722902",
+      "38368932",
+      "23443094",
+      "33422548",
+      "23382922",
+      "34897668",
+      "28784760",
+      "32114296",
+      "38673803",
+      "32371106"
+    ],
+    "review": [
+      "42837444",
+      "24664998",
+      "30710017",
+      "32387451",
+      "32709131",
+      "32522631",
+      "38715125",
+      "20807315",
+      "31197681",
+      "38368932"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.pnas.org/doi/10.1073/pnas.2620484123?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-317",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

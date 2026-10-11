@@ -1,0 +1,250 @@
+{
+  "identity": {
+    "pmid": "42845545",
+    "doi": "10.64898/2026.08.12.744498",
+    "title": "Pi-Ensemble: Sequence-guided generation of interpolated protein conformational ensembles."
+  },
+  "content": {
+    "abstract": "Proteins are critical biomolecular machines that populate ensembles of interconverting conformations. Many biological processes depend on transitions between metastable states. Although molecular dynamics (MD) simulations provide a physically grounded route to characterize these motions, routine sampling of large-scale conformational transitions remains computationally demanding. Recent advances in protein structure prediction have created new opportunities for ensemble generation, but many existing approaches require noising inputs, task-specific training, supervised fitting on extensive MD data, or experimentally-informed restraints. Here, we introduce Pi-Ensemble (Predicting Interpolated Ensemble), a sequence-guided framework for generating protein conformational ensembles interpolating between two structural anchor states. Unlike previous methods, Pi-Ensemble alternately leverages inverse-folding and structure-prediction models to propose intermediate conformations between known protein states, generating diverse ensembles without additional training. We evaluate Pi-Ensemble across diverse protein systems, including enzymes, transporters, receptors, and benchmark cases with reference MD simulations or experimental Double Electron-Electron Resonance (DEER) data. Pi-Ensemble recovers physically plausible intermediate conformations, captures transition pathways observed in large-scale MD simulations, and generates structures consistent with experimental distance distributions. Furthermore, Pi-Ensemble-generated conformations provide effective starting seeds for parallel MD simulations, improving conformational exploration and accelerating convergence relative to simulations initiated only from endpoint structures. These results establish sequence-guided structural interpolation as a practical strategy for probing protein conformational landscapes. By generating diverse and physically reasonable conformational proposals without long-timescale MD or model retraining, Pi-Ensemble provides an extensible framework for studying protein flexibility, guiding adaptive sampling, and accelerating mechanistic investigations of protein function.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Nadeem, Hassan",
+        "Kleiman, Diego E",
+        "Zhou, Yuming",
+        "Leakey, Andrew D B",
+        "Shukla, Diwakar"
+      ],
+      "short_names": [
+        "Nadeem H",
+        "Kleiman DE",
+        "Zhou Y",
+        "Leakey ADB",
+        "Shukla D"
+      ],
+      "auids": [
+        "ORCID: 0009-0006-8718-8940",
+        "ORCID: 0000-0002-3833-5872",
+        "ORCID: 0009-0005-4224-5246",
+        "ORCID: 0000-0001-6251-024X",
+        "ORCID: 0000-0003-4079-5381"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Nadeem, Hassan",
+        "short_name": "Nadeem H",
+        "identifiers": [
+          "0009-0006-8718-8940"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Kleiman, Diego E",
+        "short_name": "Kleiman DE",
+        "identifiers": [
+          "0000-0002-3833-5872"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Zhou, Yuming",
+        "short_name": "Zhou Y",
+        "identifiers": [
+          "0009-0005-4224-5246"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Leakey, Andrew D B",
+        "short_name": "Leakey ADB",
+        "identifiers": [
+          "0000-0001-6251-024X"
+        ],
+        "affiliations": []
+      },
+      {
+        "full_name": "Shukla, Diwakar",
+        "short_name": "Shukla D",
+        "identifiers": [
+          "0000-0003-4079-5381"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Aug 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/08 11:39",
+    "fetched_at": "2026-10-11 08:17:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42845545",
+      "42475469",
+      "42268730",
+      "42147780",
+      "30840442",
+      "40161645",
+      "40661650",
+      "37418278",
+      "41254233",
+      "41851975",
+      "41472324",
+      "37285481",
+      "42178622",
+      "10593256",
+      "42225696",
+      "40615361",
+      "40264953",
+      "42340349",
+      "42302060",
+      "40060558",
+      "24089737",
+      "39684679",
+      "31793290",
+      "29864281",
+      "37241789",
+      "37163076",
+      "41856427",
+      "10373009",
+      "26632648",
+      "38869513",
+      "25659594",
+      "35923464",
+      "42129207",
+      "23912807",
+      "42140027",
+      "42717085",
+      "39577782",
+      "16917941",
+      "21569575",
+      "33629765",
+      "42599200",
+      "35705565",
+      "36757376",
+      "20965786",
+      "21958108",
+      "39332396",
+      "39574675",
+      "40463224",
+      "29925019",
+      "37801003",
+      "40042172",
+      "42412831",
+      "40345379",
+      "39588651",
+      "24452989",
+      "28388074",
+      "23663843",
+      "41082321",
+      "40894558",
+      "40753333",
+      "41894491",
+      "36934808",
+      "41427731",
+      "37920394",
+      "36472885",
+      "37027313",
+      "24995857",
+      "40999494",
+      "33884260",
+      "19224393",
+      "11455544",
+      "41898756",
+      "41930291",
+      "39781370",
+      "28616990",
+      "31445064",
+      "40621440",
+      "18662925",
+      "29775635",
+      "38018910",
+      "25574774",
+      "42756412",
+      "26637035",
+      "35238773",
+      "21341875",
+      "30969408",
+      "41310253",
+      "39190324",
+      "18831040",
+      "41659490",
+      "26263302",
+      "19754142",
+      "33291927",
+      "41755733",
+      "32534517",
+      "38979147",
+      "26575568",
+      "38617283",
+      "33180485",
+      "28759210"
+    ],
+    "review": [
+      "42845545",
+      "30840442",
+      "10593256",
+      "40615361",
+      "40264953",
+      "31793290",
+      "37241789",
+      "42140027",
+      "39577782",
+      "20965786",
+      "37801003",
+      "37920394"
+    ],
+    "pmc": [
+      "13640742"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-SERPINA1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-651",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.64898/2026.08.12.744498",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

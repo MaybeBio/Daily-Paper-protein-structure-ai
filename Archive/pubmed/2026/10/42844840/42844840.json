@@ -1,0 +1,243 @@
+{
+  "identity": {
+    "pmid": "42844840",
+    "doi": "10.1016/j.bpj.2026.10.005",
+    "title": "Thermodynamic Drivers of LINC Complex Clustering in the Nuclear Envelope."
+  },
+  "content": {
+    "abstract": "The Linker of Nucleus to Cytoskeleton (LINC) complex is a central mechanical element of the nuclear envelope, transmitting cytoskeletal forces to the nucleus and coordinating nuclear mechanics. While individual LINC complex units (LCUs) are well characterized structurally, growing experimental evidence suggests that LCUs assemble into higher-order clusters whose organization may critically influence force transmission. However, the molecular drivers of LINC complex clustering and their stability in the absence of externally applied forces remain poorly understood. Here, we use all-atom molecular dynamics simulations to investigate the thermodynamic and structural determinants of LINC complex clustering within the nuclear envelope. Using SUN2-KASH2 assemblies as building blocks, we generated and analyzed ten distinct higher-order cluster configurations derived from protein-protein docking, AI-based structure prediction, and biologically motivated geometric placement. Across these models, we quantified cluster stability, relative motion, interaction energetics, interacting surface area, hydrogen bond density, and per-residue effective free energy contributions. Our results reveal that LINC clustering can be stabilized through distinct interaction modes, including electrostatic, hydrogen-bond-rich, and hydrophobic interfaces, depending on cluster geometry. Stable clusters exhibit correlated motion between LCUs, minimal translational separation, and interaction energies dominated by either van der Waals or Coulombic contributions. Importantly, clustering emerges as a thermodynamically favorable property of specific LINC architectures even in the absence of applied force. Together, these findings provide a mechanistic framework for understanding LINC complex superstructure formation and suggest that LINC clustering may serve as a tunable architectural feature for regulating nuclear mechanotransduction under physiological and pathological conditions.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Domkam, Nya",
+        "Adenugba, Joshua",
+        "Barasso, Anahi",
+        "Mofrad, Mohammad R K"
+      ],
+      "short_names": [
+        "Domkam N",
+        "Adenugba J",
+        "Barasso A",
+        "Mofrad MRK"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Molecular Cell Biomechanics Laboratory, Departments of Bioengineering and Mechanical Engineering, University of California, Berkeley, CA, 94720, USA.",
+        "Molecular Cell Biomechanics Laboratory, Departments of Bioengineering and Mechanical Engineering, University of California, Berkeley, CA, 94720, USA.",
+        "Molecular Cell Biomechanics Laboratory, Departments of Bioengineering and Mechanical Engineering, University of California, Berkeley, CA, 94720, USA.",
+        "Molecular Cell Biomechanics Laboratory, Departments of Bioengineering and Mechanical Engineering, University of California, Berkeley, CA, 94720, USA; Molecular Biophysics and Integrative Bioimaging Division, Lawrence Berkeley National Lab, Berkeley, CA, 94720, USA. Electronic address: mofrad@berkeley.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Domkam, Nya",
+        "short_name": "Domkam N",
+        "identifiers": [],
+        "affiliations": [
+          "Molecular Cell Biomechanics Laboratory, Departments of Bioengineering and Mechanical Engineering, University of California, Berkeley, CA, 94720, USA."
+        ]
+      },
+      {
+        "full_name": "Adenugba, Joshua",
+        "short_name": "Adenugba J",
+        "identifiers": [],
+        "affiliations": [
+          "Molecular Cell Biomechanics Laboratory, Departments of Bioengineering and Mechanical Engineering, University of California, Berkeley, CA, 94720, USA."
+        ]
+      },
+      {
+        "full_name": "Barasso, Anahi",
+        "short_name": "Barasso A",
+        "identifiers": [],
+        "affiliations": [
+          "Molecular Cell Biomechanics Laboratory, Departments of Bioengineering and Mechanical Engineering, University of California, Berkeley, CA, 94720, USA."
+        ]
+      },
+      {
+        "full_name": "Mofrad, Mohammad R K",
+        "short_name": "Mofrad MRK",
+        "identifiers": [],
+        "affiliations": [
+          "Molecular Cell Biomechanics Laboratory, Departments of Bioengineering and Mechanical Engineering, University of California, Berkeley, CA, 94720, USA; Molecular Biophysics and Integrative Bioimaging Division, Lawrence Berkeley National Lab, Berkeley, CA, 94720, USA. Electronic address: mofrad@berkeley.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biophysical journal"
+    ],
+    "journal_abbrev": [
+      "Biophys J"
+    ],
+    "pub_date": "2026 Oct 7",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/08 05:31",
+    "fetched_at": "2026-10-11 08:17:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42844840",
+      "42475469",
+      "37188462",
+      "26745407",
+      "21652697",
+      "37924205",
+      "37846646",
+      "34152389",
+      "30245107",
+      "36348113",
+      "33229589",
+      "33393904",
+      "39243052",
+      "30720758",
+      "22103516",
+      "24801343",
+      "28724767",
+      "41977436",
+      "41953265",
+      "26244732",
+      "23912807",
+      "38831796",
+      "29976642",
+      "30262467",
+      "29691054",
+      "37857179",
+      "23324460",
+      "22632968",
+      "35439057",
+      "33058875",
+      "27499815",
+      "26621829",
+      "28134781",
+      "30659121",
+      "27530973",
+      "26175118",
+      "30888237",
+      "37790521",
+      "37416798",
+      "38664831",
+      "29869195",
+      "39565744",
+      "26115785",
+      "31221013",
+      "42218788",
+      "38798157",
+      "34779871",
+      "42690472",
+      "41140684",
+      "23977161",
+      "24947240",
+      "40089904",
+      "38014288",
+      "20711465",
+      "36321557",
+      "38602438",
+      "38559165",
+      "39818253",
+      "24847341",
+      "37662368",
+      "33716002",
+      "31719915",
+      "29813079",
+      "25759303",
+      "30141052",
+      "28035049",
+      "40042312",
+      "34191529",
+      "39827403",
+      "29191370",
+      "31406505",
+      "24355792",
+      "38891038",
+      "30141043",
+      "42239109",
+      "31822208",
+      "35679397",
+      "36619427",
+      "32446207",
+      "42316962",
+      "38948795",
+      "30141050",
+      "31402305",
+      "30141039",
+      "19843581",
+      "28716842",
+      "22170055",
+      "21327104",
+      "30916994",
+      "23071752",
+      "35178558",
+      "36552829",
+      "32156700",
+      "30774932",
+      "30141038",
+      "31294022",
+      "40740704",
+      "21627841",
+      "35681483",
+      "29465769"
+    ],
+    "review": [
+      "42844840",
+      "37846646",
+      "34152389",
+      "30720758",
+      "22103516",
+      "24801343",
+      "41977436",
+      "41953265",
+      "38831796",
+      "37857179",
+      "28134781",
+      "27530973",
+      "30888237",
+      "29869195",
+      "26115785",
+      "42218788",
+      "38798157",
+      "34779871",
+      "41140684",
+      "24947240",
+      "36321557",
+      "39818253",
+      "24847341",
+      "33716002",
+      "39827403",
+      "29191370",
+      "31406505",
+      "24355792",
+      "32446207",
+      "42316962",
+      "21327104",
+      "30916994",
+      "36552829",
+      "30774932"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0006-3495(26)00697-1",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

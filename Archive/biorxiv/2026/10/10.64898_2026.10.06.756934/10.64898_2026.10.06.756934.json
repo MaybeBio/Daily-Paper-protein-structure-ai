@@ -1,0 +1,98 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.06.756934",
+  "title": "Generalizing Protein Fitness Prediction Across Distribution Shifts via Structural and Co-evolutionary Priors",
+  "doi": "10.64898/2026.10.06.756934",
+  "abstract": "Protein fitness prediction is essential for protein engineering. Recent fitness-landscape benchmarks such as FLIP2 have shown that methods performing well under conventional train-test splits can fail when the test set is shifted out of distribution (OOD), including mutations at unseen positions and variants from unseen protein backbones. In particular, current protein language models (pLMs) often suffer substantial performance degradation under such distribution shifts, limiting their practical use in protein engineering. We therefore develop a framework that augments sequence representations with structural and co-evolutionary information for fitness prediction. Specifically, we pair structure-aware pLMs with features pooled from an AlphaFold-style trunk applied to each sequence and its multiple sequence alignment (MSA), and use a lightweight prediction probe to map these frozen representations to fitness scores. Our framework consistently outperforms the best previously reported FLIP2 scores across several types of distribution shift. We then systematically study the contribution of each component in our framework to generalization. Structural priors yield the largest performance gains on held-out protein backbones, whereas trunk features improve generalization to held-out mutation positions. Rather than proposing a single best method, we characterize which modalities are effective for different protein families and distribution shifts, providing practical guidance for choosing representations according to the generalization regime. These findings support the development of more generalizable fitness predictors that can serve as effective reward functions or oracles for protein design toward desired functions.",
+  "authors": [
+    "Vithayapalert N",
+    "Piriyajitakonkij M",
+    "Grisoni F"
+  ],
+  "published_date": "2026-10-07",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.06.756934",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.06.756934.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1336118",
+    "raw_record": {
+      "id": "PPR1336118",
+      "source": "PPR",
+      "doi": "10.64898/2026.10.06.756934",
+      "title": "Generalizing Protein Fitness Prediction Across Distribution Shifts via Structural and Co-evolutionary Priors",
+      "authorString": "Vithayapalert N, Piriyajitakonkij M, Grisoni F.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Vithayapalert N",
+            "lastName": "Vithayapalert",
+            "firstName": "Nopsinth",
+            "initials": "N"
+          },
+          {
+            "fullName": "Piriyajitakonkij M",
+            "lastName": "Piriyajitakonkij",
+            "firstName": "Maytus",
+            "initials": "M"
+          },
+          {
+            "fullName": "Grisoni F",
+            "lastName": "Grisoni",
+            "firstName": "Francesca",
+            "initials": "F"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Protein fitness prediction is essential for protein engineering. Recent fitness-landscape benchmarks such as FLIP2 have shown that methods performing well under conventional train-test splits can fail when the test set is shifted out of distribution (OOD), including mutations at unseen positions and variants from unseen protein backbones. In particular, current protein language models (pLMs) often suffer substantial performance degradation under such distribution shifts, limiting their practical use in protein engineering. We therefore develop a framework that augments sequence representations with structural and co-evolutionary information for fitness prediction. Specifically, we pair structure-aware pLMs with features pooled from an AlphaFold-style trunk applied to each sequence and its multiple sequence alignment (MSA), and use a lightweight prediction probe to map these frozen representations to fitness scores. Our framework consistently outperforms the best previously reported FLIP2 scores across several types of distribution shift. We then systematically study the contribution of each component in our framework to generalization. Structural priors yield the largest performance gains on held-out protein backbones, whereas trunk features improve generalization to held-out mutation positions. Rather than proposing a single best method, we characterize which modalities are effective for different protein families and distribution shifts, providing practical guidance for choosing representations according to the generalization regime. These findings support the development of more generalizable fitness predictors that can serve as effective reward functions or oracles for protein design toward desired functions.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.10.06.756934"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-10-08",
+      "firstPublicationDate": "2026-10-07",
+      "firstIndexDate": "2026-10-08",
+      "hasEvaluations": "N"
+    }
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "identity": {
+    "pmid": "42834907",
+    "doi": "10.3389/fphar.2026.1918219",
+    "title": "Experimental screening and structure-informed engineering of peptide-fused bacteriophage lysins with enhanced activity against Gram-negative bacteria."
+  },
+  "content": {
+    "abstract": "The increasing prevalence of antibiotic-resistant bacteria necessitates the development of novel antimicrobial strategies. Bacteriophage-derived lysins are promising options, but lysins against Gram-negative bacteria lose their activity under physiological conditions. Peptide fusion strategies have been used to address this problem with limited success. In this study, structure prediction and charge analysis were used to guide the selection of suitable peptides for engineering lysins against Gram-negative bacteria. Seven variants of LysPd138 were constructed by fusing it with different peptides. Their activities were tested in 150 mM NaCl and human and mouse serum. The variants (Syn138, Pad138, and CecA138) showing enhanced activity in 150 mM NaCl solution and in sera were found to be fused with peptides, with most of their residues forming alpha-helical structures, as suggested by computational structure analysis using AlphaFold and PSIPRED. In contrast, the inactive variants were fused to peptides predicted to adopt non-helical structures and possess a relatively small number of positively charged residues. This observation suggested that the presence of more alpha-helical structures within a positively charged fused peptide may be an important feature for designing effective lysin fusions under physiological conditions. This was further examined by fusing two selected peptides with another lysin, LysPd149. These findings suggest that protein structure prediction and charge analysis could provide a more efficient way to rationally select or design peptides to be fused with lysins against Gram-negative bacteria before protein expression, saving time and costs associated with the current trial-and-error fusion strategies.",
+    "keywords": [
+      "Acinetobacter baumannii",
+      "AlphaFold-based structure prediction",
+      "lysin",
+      "positive charge residues",
+      "alpha-helical antimicrobial peptides"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Murtaza, Ali",
+        "Yao, Fangfang",
+        "Saeed, Aqib",
+        "Li, Xiaohong",
+        "Odiwuor, Nelson",
+        "Du, Xinjing",
+        "Li, Changchang",
+        "Li, Junhua",
+        "Wei, Hongping"
+      ],
+      "short_names": [
+        "Murtaza A",
+        "Yao F",
+        "Saeed A",
+        "Li X",
+        "Odiwuor N",
+        "Du X",
+        "Li C",
+        "Li J",
+        "Wei H"
+      ],
+      "auids": [],
+      "affiliations": [
+        "WHP Innovation Lab, State Key Laboratory of Virology and Biosafety, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, China.",
+        "University of Chinese Academy of Sciences, Beijing, China.",
+        "Stomatological Hospital of Xiamen Medical College, Xiamen Key Laboratory of Stomatological Disease Diagnosis and Treatment, Xiamen, China.",
+        "WHP Innovation Lab, State Key Laboratory of Virology and Biosafety, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, China.",
+        "University of Chinese Academy of Sciences, Beijing, China.",
+        "WHP Innovation Lab, State Key Laboratory of Virology and Biosafety, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, China.",
+        "WHP Innovation Lab, State Key Laboratory of Virology and Biosafety, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, China.",
+        "WHP Innovation Lab, State Key Laboratory of Virology and Biosafety, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, China.",
+        "WHP Innovation Lab, State Key Laboratory of Virology and Biosafety, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, China.",
+        "WHP Innovation Lab, State Key Laboratory of Virology and Biosafety, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, China.",
+        "WHP Innovation Lab, State Key Laboratory of Virology and Biosafety, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, China.",
+        "University of Chinese Academy of Sciences, Beijing, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Murtaza, Ali",
+        "short_name": "Murtaza A",
+        "identifiers": [],
+        "affiliations": [
+          "WHP Innovation Lab, State Key Laboratory of Virology and Biosafety, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, China.",
+          "University of Chinese Academy of Sciences, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Yao, Fangfang",
+        "short_name": "Yao F",
+        "identifiers": [],
+        "affiliations": [
+          "Stomatological Hospital of Xiamen Medical College, Xiamen Key Laboratory of Stomatological Disease Diagnosis and Treatment, Xiamen, China."
+        ]
+      },
+      {
+        "full_name": "Saeed, Aqib",
+        "short_name": "Saeed A",
+        "identifiers": [],
+        "affiliations": [
+          "WHP Innovation Lab, State Key Laboratory of Virology and Biosafety, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, China.",
+          "University of Chinese Academy of Sciences, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Li, Xiaohong",
+        "short_name": "Li X",
+        "identifiers": [],
+        "affiliations": [
+          "WHP Innovation Lab, State Key Laboratory of Virology and Biosafety, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Odiwuor, Nelson",
+        "short_name": "Odiwuor N",
+        "identifiers": [],
+        "affiliations": [
+          "WHP Innovation Lab, State Key Laboratory of Virology and Biosafety, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Du, Xinjing",
+        "short_name": "Du X",
+        "identifiers": [],
+        "affiliations": [
+          "WHP Innovation Lab, State Key Laboratory of Virology and Biosafety, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Li, Changchang",
+        "short_name": "Li C",
+        "identifiers": [],
+        "affiliations": [
+          "WHP Innovation Lab, State Key Laboratory of Virology and Biosafety, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Li, Junhua",
+        "short_name": "Li J",
+        "identifiers": [],
+        "affiliations": [
+          "WHP Innovation Lab, State Key Laboratory of Virology and Biosafety, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Wei, Hongping",
+        "short_name": "Wei H",
+        "identifiers": [],
+        "affiliations": [
+          "WHP Innovation Lab, State Key Laboratory of Virology and Biosafety, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, China.",
+          "University of Chinese Academy of Sciences, Beijing, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in pharmacology"
+    ],
+    "journal_abbrev": [
+      "Front Pharmacol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/06 05:29",
+    "fetched_at": "2026-10-11 08:17:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42834907",
+      "34669452",
+      "39589395",
+      "27943012",
+      "29625984",
+      "28636788",
+      "33883227",
+      "26733995",
+      "37338346",
+      "29871599",
+      "33347948",
+      "36869962",
+      "17389605",
+      "34788533",
+      "34867843",
+      "32877733",
+      "36749047",
+      "34377965",
+      "39293303",
+      "35369520",
+      "28730370",
+      "39377976",
+      "34113327",
+      "38312500",
+      "33285267",
+      "37486982",
+      "39998408",
+      "35203772",
+      "30279591",
+      "40540884",
+      "28124780",
+      "30901901",
+      "29408864",
+      "31216348",
+      "26856847",
+      "10768969",
+      "42499550",
+      "34232613",
+      "40048797",
+      "42183878",
+      "40529583",
+      "27726008",
+      "30962344",
+      "29859288",
+      "34966367",
+      "23246973",
+      "40652394",
+      "36077542",
+      "36475632",
+      "40312318",
+      "21219588",
+      "26238108",
+      "41609919",
+      "34506975",
+      "9914515",
+      "28457962",
+      "21664394",
+      "12712499",
+      "36225352",
+      "37098944",
+      "29728914",
+      "34164880",
+      "32537492",
+      "18098173",
+      "26450121",
+      "12392424",
+      "36094301",
+      "30004427",
+      "37789862",
+      "10821683",
+      "25360133",
+      "33053478",
+      "42475469",
+      "24706963",
+      "10387056",
+      "34073939",
+      "30848594",
+      "37734650",
+      "29625989",
+      "17929330",
+      "23624072",
+      "40593394",
+      "35792128",
+      "10430870",
+      "21302955",
+      "35861280",
+      "24172540",
+      "41505789",
+      "24021230",
+      "34478359",
+      "29355714",
+      "22392897",
+      "26824944",
+      "36926259",
+      "37942076",
+      "38075915",
+      "35289673",
+      "36190276",
+      "25730460",
+      "10390200"
+    ],
+    "review": [
+      "42834907",
+      "32877733",
+      "42183878",
+      "40529583",
+      "37789862",
+      "25360133",
+      "33053478",
+      "34478359"
+    ],
+    "pmc": [
+      "13634823"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.3389/fphar.2026.1918219",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

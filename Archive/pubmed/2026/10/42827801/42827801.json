@@ -1,0 +1,307 @@
+{
+  "identity": {
+    "pmid": "42827801",
+    "doi": "10.1039/d6sc04370d",
+    "title": "Site-specific phosphorylation of Ser352 drives aggregation of Tau R4 under acidosis conditions."
+  },
+  "content": {
+    "abstract": "In Alzheimer's disease, neurons undergo acidosis as their pH drops from  approximately 7.1 to  approximately 6.5. Here we elucidate the molecular mechanism of specific Tau aggregation only at this lower pH. We show that a specific phosphorylation event in the Tau R4 domain is coupled to this pH drop to drive a defined phase transition from condensates to fibrils. Using a combination of experimental and computational studies, our results demonstrate that site-specific phosphorylation of Ser352 is the molecular switch that induces aggregation of Tau only at the more acidic, disease-related pH. We designed and synthesized a phosphopeptide library covering all phosphorylation patterns of the Tau-R4 domain and tested its response to controlled acidification using an array of complementary biophysical methods. This revealed that only a single phosphorylation of Ser352 led to acid-driven aggregation of Tau-R4. At neutral pH, Tau-R4 with a phosphorylation on Ser352 formed liquid condensates. These condensates converted irreversibly into amyloid filaments as the pH gradually decreased towards the level associated with pathological acidosis. Using a combination of (31)P- and (1)H-NMR, MD simulations and microscopy studies, we show that the mechanism by which the phosphorylation of Ser352 Tau R4 exerts its effects is based on the unique position of this residue within the protein structure. pSer352 is located at the inside of the tip of a beta-hairpin, pointing into the hydrophobic core of the amyloid fold. This buried position increases its effective pK (a), resulting in compacting of the hairpin following pSer352 protonation upon acidification. This shortens the inter-sheet distance at this position and tightens the filament. We conclude that this single protonation event of the pSer352 phosphate is responsible for the macroscopic phase transition from condensates to aggregates. Our results provide the molecular explanation for the specific aggregation of Tau under the pathologically relevant acidic pH, which is substantially different from its behavior at neutral pH.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Bressler, Shachar Guy",
+        "Blacher, Carmia",
+        "Harpaz, Karina Abramov",
+        "Grunhaus, Dana",
+        "Rudiger, Stefan G D",
+        "Hurevich, Mattan",
+        "Shalev, Deborah E",
+        "Miller, Yifat",
+        "Friedler, Assaf"
+      ],
+      "short_names": [
+        "Bressler SG",
+        "Blacher C",
+        "Harpaz KA",
+        "Grunhaus D",
+        "Rudiger SGD",
+        "Hurevich M",
+        "Shalev DE",
+        "Miller Y",
+        "Friedler A"
+      ],
+      "auids": [
+        "ORCID: 0009-0005-6169-9059",
+        "ORCID: 0000-0003-0272-0047",
+        "ORCID: 0000-0002-1807-2972",
+        "ORCID: 0000-0002-1038-8104",
+        "ORCID: 0000-0002-1163-9745",
+        "ORCID: 0000-0003-1592-1278"
+      ],
+      "affiliations": [
+        "The Institute of Chemistry, The Hebrew University of Jerusalem, Edmond J. Safra Campus Givat Ram Jerusalem 91904 Israel mattan.hurevich@mail.huji.ac.il assaf.friedler@mail.huji.ac.il.",
+        "Department of Chemistry, Ben-Gurion University of the Negev P.O. Box 653 Be'er Sheva 8410501 Israel.",
+        "Ilse Katz Institute for Nanoscale Science and Technology, Ben-Gurion University of the Negev Beer-Sheva 8410501 Israel.",
+        "The School of Brain Sciences and Cognition, Ben-Gurion University of the Negev Beer-Sheva 8410501 Israel.",
+        "Department of Chemistry, Ben-Gurion University of the Negev P.O. Box 653 Be'er Sheva 8410501 Israel.",
+        "Ilse Katz Institute for Nanoscale Science and Technology, Ben-Gurion University of the Negev Beer-Sheva 8410501 Israel.",
+        "The School of Brain Sciences and Cognition, Ben-Gurion University of the Negev Beer-Sheva 8410501 Israel.",
+        "The Institute of Chemistry, The Hebrew University of Jerusalem, Edmond J. Safra Campus Givat Ram Jerusalem 91904 Israel mattan.hurevich@mail.huji.ac.il assaf.friedler@mail.huji.ac.il.",
+        "Protein Chemistry of Disease, Department of Chemistry, Utrecht University Padualaan 8 3584CH Utrecht The Netherlands.",
+        "Cellular Protein Chemistry, Bijvoet Center for Biomolecular Research, Utrecht University Padualaan, 8 3584CH Utrecht The Netherlands.",
+        "Science for Life, Utrecht University Padualaan 8 3584CH Utrecht The Netherlands.",
+        "The Institute of Chemistry, The Hebrew University of Jerusalem, Edmond J. Safra Campus Givat Ram Jerusalem 91904 Israel mattan.hurevich@mail.huji.ac.il assaf.friedler@mail.huji.ac.il.",
+        "Department of Pharmaceutical Engineering, Azrieli College of Engineering Jerusalem Jerusalem 91035 Israel.",
+        "Department of Chemistry, Ben-Gurion University of the Negev P.O. Box 653 Be'er Sheva 8410501 Israel.",
+        "Ilse Katz Institute for Nanoscale Science and Technology, Ben-Gurion University of the Negev Beer-Sheva 8410501 Israel.",
+        "The School of Brain Sciences and Cognition, Ben-Gurion University of the Negev Beer-Sheva 8410501 Israel.",
+        "The Institute of Chemistry, The Hebrew University of Jerusalem, Edmond J. Safra Campus Givat Ram Jerusalem 91904 Israel mattan.hurevich@mail.huji.ac.il assaf.friedler@mail.huji.ac.il."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Bressler, Shachar Guy",
+        "short_name": "Bressler SG",
+        "identifiers": [
+          "0009-0005-6169-9059"
+        ],
+        "affiliations": [
+          "The Institute of Chemistry, The Hebrew University of Jerusalem, Edmond J. Safra Campus Givat Ram Jerusalem 91904 Israel mattan.hurevich@mail.huji.ac.il assaf.friedler@mail.huji.ac.il."
+        ]
+      },
+      {
+        "full_name": "Blacher, Carmia",
+        "short_name": "Blacher C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Ben-Gurion University of the Negev P.O. Box 653 Be'er Sheva 8410501 Israel.",
+          "Ilse Katz Institute for Nanoscale Science and Technology, Ben-Gurion University of the Negev Beér-Sheva 8410501 Israel.",
+          "The School of Brain Sciences and Cognition, Ben-Gurion University of the Negev Beér-Sheva 8410501 Israel."
+        ]
+      },
+      {
+        "full_name": "Harpaz, Karina Abramov",
+        "short_name": "Harpaz KA",
+        "identifiers": [
+          "0000-0003-0272-0047"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Ben-Gurion University of the Negev P.O. Box 653 Be'er Sheva 8410501 Israel.",
+          "Ilse Katz Institute for Nanoscale Science and Technology, Ben-Gurion University of the Negev Beér-Sheva 8410501 Israel.",
+          "The School of Brain Sciences and Cognition, Ben-Gurion University of the Negev Beér-Sheva 8410501 Israel."
+        ]
+      },
+      {
+        "full_name": "Grunhaus, Dana",
+        "short_name": "Grunhaus D",
+        "identifiers": [],
+        "affiliations": [
+          "The Institute of Chemistry, The Hebrew University of Jerusalem, Edmond J. Safra Campus Givat Ram Jerusalem 91904 Israel mattan.hurevich@mail.huji.ac.il assaf.friedler@mail.huji.ac.il."
+        ]
+      },
+      {
+        "full_name": "Rüdiger, Stefan G D",
+        "short_name": "Rüdiger SGD",
+        "identifiers": [
+          "0000-0002-1807-2972"
+        ],
+        "affiliations": [
+          "Protein Chemistry of Disease, Department of Chemistry, Utrecht University Padualaan 8 3584CH Utrecht The Netherlands.",
+          "Cellular Protein Chemistry, Bijvoet Center for Biomolecular Research, Utrecht University Padualaan, 8 3584CH Utrecht The Netherlands.",
+          "Science for Life, Utrecht University Padualaan 8 3584CH Utrecht The Netherlands."
+        ]
+      },
+      {
+        "full_name": "Hurevich, Mattan",
+        "short_name": "Hurevich M",
+        "identifiers": [
+          "0000-0002-1038-8104"
+        ],
+        "affiliations": [
+          "The Institute of Chemistry, The Hebrew University of Jerusalem, Edmond J. Safra Campus Givat Ram Jerusalem 91904 Israel mattan.hurevich@mail.huji.ac.il assaf.friedler@mail.huji.ac.il."
+        ]
+      },
+      {
+        "full_name": "Shalev, Deborah E",
+        "short_name": "Shalev DE",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmaceutical Engineering, Azrieli College of Engineering Jerusalem Jerusalem 91035 Israel."
+        ]
+      },
+      {
+        "full_name": "Miller, Yifat",
+        "short_name": "Miller Y",
+        "identifiers": [
+          "0000-0002-1163-9745"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Ben-Gurion University of the Negev P.O. Box 653 Be'er Sheva 8410501 Israel.",
+          "Ilse Katz Institute for Nanoscale Science and Technology, Ben-Gurion University of the Negev Beér-Sheva 8410501 Israel.",
+          "The School of Brain Sciences and Cognition, Ben-Gurion University of the Negev Beér-Sheva 8410501 Israel."
+        ]
+      },
+      {
+        "full_name": "Friedler, Assaf",
+        "short_name": "Friedler A",
+        "identifiers": [
+          "0000-0003-1592-1278"
+        ],
+        "affiliations": [
+          "The Institute of Chemistry, The Hebrew University of Jerusalem, Edmond J. Safra Campus Givat Ram Jerusalem 91904 Israel mattan.hurevich@mail.huji.ac.il assaf.friedler@mail.huji.ac.il."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Chemical science"
+    ],
+    "journal_abbrev": [
+      "Chem Sci"
+    ],
+    "pub_date": "2026 Sep 24",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/04 00:33",
+    "fetched_at": "2026-10-11 08:17:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42827801",
+      "40567043",
+      "18312411",
+      "42322588",
+      "26854860",
+      "39871444",
+      "37213134",
+      "41410687",
+      "39693350",
+      "32453948",
+      "34032430",
+      "27989667",
+      "41337804",
+      "42283695",
+      "38408247",
+      "18783251",
+      "33826208",
+      "32341125",
+      "31358628",
+      "16272135",
+      "40021051",
+      "28819146",
+      "32029593",
+      "40599054",
+      "35476504",
+      "42103118",
+      "10075702",
+      "36595668",
+      "41824494",
+      "36688583",
+      "40053114",
+      "36984665",
+      "36594671",
+      "31156372",
+      "22304362",
+      "34369377",
+      "41785961",
+      "37075845",
+      "36453827",
+      "19251756",
+      "36271678",
+      "40884466",
+      "41465553",
+      "23912807",
+      "39370876",
+      "35002518",
+      "42312952",
+      "29472250",
+      "38888453",
+      "36653015",
+      "40598757",
+      "42002168",
+      "38197437",
+      "34966788",
+      "34164834",
+      "40525347",
+      "30886056",
+      "42575917",
+      "42471758",
+      "32096024",
+      "38568974",
+      "39749010",
+      "33983722",
+      "36321557",
+      "41001641",
+      "42475469",
+      "37693456",
+      "40074668",
+      "35016968",
+      "35759677",
+      "15869817",
+      "24825901",
+      "32966331",
+      "38732197",
+      "34293440",
+      "33663205",
+      "10841784",
+      "25625571",
+      "41659508",
+      "9485325",
+      "38679331",
+      "36749931",
+      "28760828",
+      "16185940",
+      "32997736",
+      "25307057",
+      "11838236",
+      "30909223",
+      "41555553",
+      "41304756",
+      "34056268",
+      "31097543",
+      "37924907",
+      "33017094",
+      "40363838",
+      "25440728",
+      "32216358",
+      "31805282",
+      "29044752",
+      "24577753"
+    ],
+    "review": [
+      "42827801",
+      "36984665",
+      "38888453",
+      "32096024",
+      "36321557",
+      "38732197"
+    ],
+    "pmc": [
+      "13631865"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1039/d6sc04370d",
+        "provider": "Royal Society of Chemistry",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

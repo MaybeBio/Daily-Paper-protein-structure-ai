@@ -1,0 +1,203 @@
+{
+  "identity": {
+    "pmid": "42852722",
+    "doi": "10.1063/5.0343808",
+    "title": "Pressure-temperature phase diagram from global structure prediction and self-consistent phonon calculations based on polynomial machine learning potentials: Application to elemental silicon."
+  },
+  "content": {
+    "abstract": "Polynomial machine learning potentials (MLPs) based on polynomial rotational invariants have been systematically developed for various systems and applied to efficiently predict crystal structures. In this study, we propose a methodology founded on polynomial MLPs to enumerate crystal structures under high-pressure conditions and evaluate their phase stability at finite temperatures. The proposed approach involves constructing polynomial MLPs with high predictive accuracy across a broad range of pressures, conducting reliable global structure searches for structures containing up to the specified number of atoms, and performing exhaustive self-consistent phonon calculations with reduced errors. We demonstrate the effectiveness of this approach by examining elemental silicon at pressures up to 100 GPa and temperatures up to 1000 K, revealing stable phases across these conditions. The framework established in this study offers a powerful strategy for predicting crystal structures and phase stability under high-pressure and finite-temperature conditions.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wakai, Hayato",
+        "Seko, Atsuto",
+        "Tanaka, Isao"
+      ],
+      "short_names": [
+        "Wakai H",
+        "Seko A",
+        "Tanaka I"
+      ],
+      "auids": [
+        "ORCID: 0009-0007-6981-2049",
+        "ORCID: 0000-0002-2473-3837",
+        "ORCID: 0000-0002-4616-118X"
+      ],
+      "affiliations": [
+        "Department of Materials Science and Engineering, Kyoto University, Kyoto 606-8501, Japan.",
+        "Department of Materials Science and Engineering, Kyoto University, Kyoto 606-8501, Japan.",
+        "Department of Materials Science and Engineering, Kyoto University, Kyoto 606-8501, Japan."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wakai, Hayato",
+        "short_name": "Wakai H",
+        "identifiers": [
+          "0009-0007-6981-2049"
+        ],
+        "affiliations": [
+          "Department of Materials Science and Engineering, Kyoto University, Kyoto 606-8501, Japan."
+        ]
+      },
+      {
+        "full_name": "Seko, Atsuto",
+        "short_name": "Seko A",
+        "identifiers": [
+          "0000-0002-2473-3837"
+        ],
+        "affiliations": [
+          "Department of Materials Science and Engineering, Kyoto University, Kyoto 606-8501, Japan."
+        ]
+      },
+      {
+        "full_name": "Tanaka, Isao",
+        "short_name": "Tanaka I",
+        "identifiers": [
+          "0000-0002-4616-118X"
+        ],
+        "affiliations": [
+          "Department of Materials Science and Engineering, Kyoto University, Kyoto 606-8501, Japan."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The Journal of chemical physics"
+    ],
+    "journal_abbrev": [
+      "J Chem Phys"
+    ],
+    "pub_date": "2026 Oct 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/09 11:40",
+    "fetched_at": "2026-10-11 08:17:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42852722",
+      "42475469",
+      "41031765",
+      "20080576",
+      "41925160",
+      "32223161",
+      "35649880",
+      "42429636",
+      "41427731",
+      "42647050",
+      "35529358",
+      "37217498",
+      "25673010",
+      "32459228",
+      "32891084",
+      "28598603",
+      "30456400",
+      "42216907",
+      "40788766",
+      "27704842",
+      "33429377",
+      "41839770",
+      "36949007",
+      "39734554",
+      "42534164",
+      "42380020",
+      "35057239",
+      "35530008",
+      "33209317",
+      "39470353",
+      "23102356",
+      "38204403",
+      "41310253",
+      "40062758",
+      "34151321",
+      "42690472",
+      "38832732",
+      "40356357",
+      "38039479",
+      "20839813",
+      "41567369",
+      "38984960",
+      "32407097",
+      "41837451",
+      "22897288",
+      "22920129",
+      "31019081",
+      "41406597",
+      "40146078",
+      "40665877",
+      "38315663",
+      "40374919",
+      "35758065",
+      "36111317",
+      "28937755",
+      "25242541",
+      "39171744",
+      "33498030",
+      "41504398",
+      "36697602",
+      "40310298",
+      "42573034",
+      "32372007",
+      "25731906",
+      "37641862",
+      "21405634",
+      "39611023",
+      "28598334",
+      "19624212",
+      "35183078",
+      "41211596",
+      "40779748",
+      "34806862",
+      "25345910",
+      "16821993",
+      "20484803",
+      "34241079",
+      "35395646",
+      "34998332",
+      "38976617",
+      "29405127",
+      "32977319",
+      "37332628",
+      "42707881",
+      "41969262",
+      "19708749",
+      "33707654",
+      "31117654",
+      "34904892",
+      "32775570",
+      "20479266",
+      "34524313",
+      "40571286",
+      "42348557",
+      "42048579",
+      "39776663",
+      "36321557",
+      "37489863",
+      "39699256",
+      "30413685"
+    ],
+    "review": [
+      "42852722",
+      "39611023",
+      "37332628"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

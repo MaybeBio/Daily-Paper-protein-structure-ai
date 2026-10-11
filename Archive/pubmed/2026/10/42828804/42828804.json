@@ -1,0 +1,195 @@
+{
+  "identity": {
+    "pmid": "42828804",
+    "doi": "10.1016/j.jmgm.2026.109590",
+    "title": "Quantum-compatible AutoDock grid scoring for multi-receptor, multi-ligand, and multi-pose protein-ligand evaluation."
+  },
+  "content": {
+    "abstract": "Structure-based virtual screening requires repeated evaluation of protein-ligand interaction energies across receptor conformations, ligand identities, translations, and rotations. Here, AutoDock receptor energy maps and ligand charge or atom-type occupancy grids were reformulated as an indexed quantum-compatible inner-product representation for grid-based protein-ligand scoring. Receptor maps and ligand grids were represented on a shared 32 x 32 x 32 Cartesian grid, allowing direct classical dot-product evaluation and quantum-compatible readout to be compared under the same energy model. A 32-qubit organization encoded spatial grid indices, energy channels, ligand translations, ligand rotations, and readout based on the Hadamard test. A 37-qubit organization added receptor and ligand selection registers, allowing two receptor conformations and 16 ligand entries to be indexed without changing the readout principle. Reduced Qiskit simulations and PyTorch calculations validated the rotation, translation, and probability-readout operations, and the probability-derived energies matched direct classical grid-based inner products. Finite-shot sampling and map truncation were examined as factors affecting energy recovery and ranking stability. Increasing the number of shots reduced the normalized root-mean-square error (nRMSE) and improved correlation-based and reference-configuration recovery. At the same time, the 37-qubit representation required a larger shot budget because probability mass was distributed over a larger indexed space. Among the three representative conditions examined in the main figures, U(max) = 1 gave the lowest nRMSE and the strongest Top 1% or Top 10% recovery, whereas no truncation and U(max) = 1000 better preserved correlation with the no-truncation reference at high shot numbers. These results establish a validated proof-of-concept molecular-modeling representation for quantum-compatible AutoDock grid scoring.",
+    "keywords": [
+      "AutoDock grid maps",
+      "Finite-shot sampling",
+      "Grid-based scoring",
+      "Ligand translation and rotation",
+      "Molecular modeling",
+      "Protein-ligand interaction",
+      "Quantum-compatible representation",
+      "Structure-based virtual screening"
+    ],
+    "mesh_terms": [
+      "Ligands",
+      "*Proteins/chemistry",
+      "*Quantum Theory",
+      "Protein Binding",
+      "*Molecular Docking Simulation",
+      "Protein Conformation",
+      "Models, Molecular",
+      "Quantum Mechanics",
+      "Thermodynamics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yang, Pei-Kun"
+      ],
+      "short_names": [
+        "Yang PK"
+      ],
+      "auids": [],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Yang, Pei-Kun",
+        "short_name": "Yang PK",
+        "identifiers": [],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of molecular graphics & modelling"
+    ],
+    "journal_abbrev": [
+      "J Mol Graph Model"
+    ],
+    "pub_date": "2026 Dec",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/04 00:33",
+    "fetched_at": "2026-10-11 08:17:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42828804",
+      "41814497",
+      "42209152",
+      "38165642",
+      "30173397",
+      "30182836",
+      "27886114",
+      "25266271",
+      "19085980",
+      "40202178",
+      "38624083",
+      "21554075",
+      "41637161",
+      "30084081",
+      "9141130",
+      "29457253",
+      "29495922",
+      "25724101",
+      "25229694",
+      "40650762",
+      "12925999",
+      "10921772",
+      "31397498",
+      "28129567",
+      "41429653",
+      "17346861",
+      "18318474",
+      "41921096",
+      "28220440",
+      "26629955",
+      "16852269",
+      "33058459",
+      "30265003",
+      "15001363",
+      "12773034",
+      "36282990",
+      "42032379",
+      "22014038",
+      "39930586",
+      "29710787",
+      "31117509",
+      "23758433",
+      "24315195",
+      "17876816",
+      "21975806",
+      "38875526",
+      "24032517",
+      "38647338",
+      "25123650",
+      "40682535",
+      "12926007",
+      "42589321",
+      "28805144",
+      "40549981",
+      "32485047",
+      "36502369",
+      "34704754",
+      "21932857",
+      "39753520",
+      "42670838",
+      "26643167",
+      "32737667",
+      "27108770",
+      "40268232",
+      "15801826",
+      "42118388",
+      "17876760",
+      "26252196",
+      "28685695",
+      "33759120",
+      "27565797",
+      "37493980",
+      "30387765",
+      "36573474",
+      "25148595",
+      "23844000",
+      "39823352",
+      "24108416",
+      "19358517",
+      "29241118",
+      "29482137",
+      "41999908",
+      "18302984",
+      "27412858",
+      "16988956",
+      "27562018",
+      "29190087",
+      "27996253",
+      "15456251",
+      "26082804",
+      "42424616",
+      "15999994",
+      "28368587",
+      "12385986",
+      "28318252",
+      "28887659",
+      "42670866",
+      "18816046",
+      "32227880",
+      "26453085"
+    ],
+    "review": [
+      "42828804",
+      "30182836",
+      "28685695",
+      "41999908"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1093-3263(26)00316-5",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "source": "arxiv",
+  "source_id": "2610.11170v1",
+  "title": "SACQ: Structured Decoding with Memory-Conditioned Refinement for Long-Horizon Forecasting",
+  "doi": "",
+  "abstract": "Long-term time series forecasting (LTSF) models predominantly employ patch-based encoders terminated by a flatten readout head that maps the entire encoded historical memory to all future steps through a single shared projection. This implicit coupling of future positions obscures position-specific historical-to-future alignment and amplifies sensitivity to corrupted inputs and extreme supervision noise. We present SACQ, a plug-in structured prediction head that replaces flatten readout while keeping the encoder unchanged. SACQ adopts a two-stage decoding pipeline: it first establishes a coarse patch-grid forecast scaffold, then refines each future position through cross-attention over historical memory and merges the attention-derived correction with the coarse scaffold via a learned per-patch gate. To stabilize optimization under long horizons and noisy labels, we further propose a batch-adaptive scaled log-cosh loss that automatically calibrates robustness to the current residual scale, suppressing outlier gradients while preserving MSE-like sensitivity for typical errors. SACQ attains top-tier test MSE/MAE across PatchTST, DLinear, and patch-Mamba backbones with only modest incremental overhead in parameters and latency. Under inference-time input corruption and training-set label-noise stress tests, SACQ substantially outperforms flatten readouts, with ablation studies validating each architectural component.",
+  "authors": [
+    "Guo Cheng",
+    "Zhengzhuo Xu",
+    "Chenchen Jing",
+    "Jingyi Hou"
+  ],
+  "published_date": "2026-10-08T03:25:22Z",
+  "updated_date": "2026-10-08T03:25:22Z",
+  "journal": "",
+  "category": "cs.LG",
+  "landing_url": "https://arxiv.org/abs/2610.11170v1",
+  "pdf_url": "https://arxiv.org/pdf/2610.11170v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cs.LG"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2610.11170v1",
+    "raw_categories": [
+      "cs.LG"
+    ],
+    "journal_ref": ""
+  }
+}

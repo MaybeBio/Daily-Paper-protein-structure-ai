@@ -1,0 +1,262 @@
+{
+  "identity": {
+    "pmid": "42828399",
+    "doi": "10.34133/csbj.0063",
+    "title": "Rational Immunogenicity Modulation of Virus-Like Particles by VLPIM."
+  },
+  "content": {
+    "abstract": "Virus-like particles (VLPs) are versatile platforms for drug delivery and vaccine development, but precisely customizing their immune profiles for specific clinical applications remains challenging. Here, we present a computational framework that integrates complementary artificial-intelligence-driven tools for protein design, structure prediction, and antigenicity assessment to enable rational immunogenicity modulation of VLPs while preserving their structural integrity. Leveraging the central role of CD4(+) T cells in adaptive immunity, this framework first combines class II major histocompatibility complex (MHC-II)-restricted epitope prediction with structure-guided sequence optimization to generate a focused mutation library. Subsequently, its virtual screening workflow combines immunogenicity predictions and structural modeling to pinpoint variants likely to attenuate or enhance CD4(+) T cell activation while preserving VLP integrity. This framework enables a broader and more efficient exploration of the mutation space to identify VLP structural variants with tailored immunogenicity profiles; hence, we term it the VLPIM (Virus-Like Particle Immunogenicity Modulation) platform. Using hepatitis B core VLPs as proof of concept, VLPIM generated a mutation library of 120 variants, computationally filtered down to 4 candidates, and ultimately identified 2 variants that retained native virus-like morphology, as confirmed by transmission electron microscopy. In vitro immunogenicity assays confirmed that epitope substitutions could either suppress or enhance CD4(+) T cell activation. This generalizable pipeline permits precise immunogenicity modulation of VLPs and other multimers, accelerating their development as targeted drug carriers and next-generation vaccine platforms. VLPIM is available as both a locally executable tool on GitHub (https://github.com/RuijinHospitalVNAR/VLPIM) and an online web server (https://ruijinhospitalvnar.github.io/Toolboxes/VLPIM_Web_services/).",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Chufan",
+        "Chen, Yeyun",
+        "Wang, Ming-Wei",
+        "Ren, Lei",
+        "Zhou, Qingtong"
+      ],
+      "short_names": [
+        "Wang C",
+        "Chen Y",
+        "Wang MW",
+        "Ren L",
+        "Zhou Q"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-8124-3079"
+      ],
+      "affiliations": [
+        "Research Center for Medicinal Structural Biology, National Research Center for Translational Medicine at Shanghai, State Key Laboratory of Medical Genomics, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China.",
+        "Institute of Artificial Intelligence, Xiamen University, Xiamen 361005, China.",
+        "Shanghai Innovation Institute, Shanghai 200234, China.",
+        "Research Center for Medicinal Structural Biology, National Research Center for Translational Medicine at Shanghai, State Key Laboratory of Medical Genomics, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China.",
+        "Research Center for Deepsea Bioresources, Sanya, Hainan 572025, China.",
+        "Department of Pharmacology, School of Basic Medical Sciences, Fudan University, Shanghai 200032, China.",
+        "Department of Chemistry, School of Science, The University of Tokyo, Tokyo 113-0033, Japan.",
+        "Engineering Research Center of Tropical Medicine Innovation and Transformation of Ministry of Education, School of Pharmacy, Hainan Medical University, Haikou 570228, China.",
+        "Key Laboratory of Biomedical Engineering of Fujian Province University/Research Center of Biomedical Engineering of Xiamen, Department of Biomaterials, College of Materials, Xiamen University, Xiamen 361005, China.",
+        "State Key Lab of Physical Chemistry of Solid Surfaces, Xiamen University, Xiamen 361005, China.",
+        "Research Center for Medicinal Structural Biology, National Research Center for Translational Medicine at Shanghai, State Key Laboratory of Medical Genomics, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China.",
+        "Research Center for Deepsea Bioresources, Sanya, Hainan 572025, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Chufan",
+        "short_name": "Wang C",
+        "identifiers": [],
+        "affiliations": [
+          "Research Center for Medicinal Structural Biology, National Research Center for Translational Medicine at Shanghai, State Key Laboratory of Medical Genomics, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Yeyun",
+        "short_name": "Chen Y",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Artificial Intelligence, Xiamen University, Xiamen 361005, China.",
+          "Shanghai Innovation Institute, Shanghai 200234, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Ming-Wei",
+        "short_name": "Wang MW",
+        "identifiers": [],
+        "affiliations": [
+          "Research Center for Medicinal Structural Biology, National Research Center for Translational Medicine at Shanghai, State Key Laboratory of Medical Genomics, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China.",
+          "Research Center for Deepsea Bioresources, Sanya, Hainan 572025, China.",
+          "Department of Pharmacology, School of Basic Medical Sciences, Fudan University, Shanghai 200032, China.",
+          "Department of Chemistry, School of Science, The University of Tokyo, Tokyo 113-0033, Japan.",
+          "Engineering Research Center of Tropical Medicine Innovation and Transformation of Ministry of Education, School of Pharmacy, Hainan Medical University, Haikou 570228, China."
+        ]
+      },
+      {
+        "full_name": "Ren, Lei",
+        "short_name": "Ren L",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Biomedical Engineering of Fujian Province University/Research Center of Biomedical Engineering of Xiamen, Department of Biomaterials, College of Materials, Xiamen University, Xiamen 361005, China.",
+          "State Key Lab of Physical Chemistry of Solid Surfaces, Xiamen University, Xiamen 361005, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Qingtong",
+        "short_name": "Zhou Q",
+        "identifiers": [
+          "0000-0001-8124-3079"
+        ],
+        "affiliations": [
+          "Research Center for Medicinal Structural Biology, National Research Center for Translational Medicine at Shanghai, State Key Laboratory of Medical Genomics, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China.",
+          "Research Center for Deepsea Bioresources, Sanya, Hainan 572025, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Computational and structural biotechnology journal"
+    ],
+    "journal_abbrev": [
+      "Comput Struct Biotechnol J"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/04 00:33",
+    "fetched_at": "2026-10-11 08:17:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42828399",
+      "42058258",
+      "28794025",
+      "22138713",
+      "36776898",
+      "42638047",
+      "42475469",
+      "26339047",
+      "32284273",
+      "32203551",
+      "22493667",
+      "36655751",
+      "42054358",
+      "42476038",
+      "41785011",
+      "35763693",
+      "26446016",
+      "41755591",
+      "36841778",
+      "29653575",
+      "32748602",
+      "36851527",
+      "41746052",
+      "34168657",
+      "41888844",
+      "39721354",
+      "26392546",
+      "34145995",
+      "37350788",
+      "35467839",
+      "42696893",
+      "41469706",
+      "37834067",
+      "33632278",
+      "24672031",
+      "8957676",
+      "40922007",
+      "42346010",
+      "38782665",
+      "27075377",
+      "27654298",
+      "30781504",
+      "38172991",
+      "30773400",
+      "39827115",
+      "34695827",
+      "29158984",
+      "33133076",
+      "17668556",
+      "41840818",
+      "29093091",
+      "41982460",
+      "38916311",
+      "42467983",
+      "33205941",
+      "28794019",
+      "22306796",
+      "38904765",
+      "37942329",
+      "37243195",
+      "27039982",
+      "23473776",
+      "39215890",
+      "41225487",
+      "37766145",
+      "41205435",
+      "33815393",
+      "31947873",
+      "27076312",
+      "38536724",
+      "21382480",
+      "35862952",
+      "26370129",
+      "40266067",
+      "22995837",
+      "29259601",
+      "38042697",
+      "19500826",
+      "30822338",
+      "29743369",
+      "36879481",
+      "25008922",
+      "25520499",
+      "23777748",
+      "42769934",
+      "41524401",
+      "26113394",
+      "40387310",
+      "24457072",
+      "28956764",
+      "28468322",
+      "32118075",
+      "41127787",
+      "42196480",
+      "32315864",
+      "37612423",
+      "26063431",
+      "28331098",
+      "37032851",
+      "39892108"
+    ],
+    "review": [
+      "42828399",
+      "42058258",
+      "42638047",
+      "32203551",
+      "41755591",
+      "33632278",
+      "42467983",
+      "38904765",
+      "37243195",
+      "27039982",
+      "22995837",
+      "29259601",
+      "42769934",
+      "40387310",
+      "42196480"
+    ],
+    "pmc": [
+      "13632935"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/0063",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD4-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

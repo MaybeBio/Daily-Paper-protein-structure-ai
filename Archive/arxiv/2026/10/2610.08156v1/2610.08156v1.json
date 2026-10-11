@@ -1,0 +1,35 @@
+{
+  "source": "arxiv",
+  "source_id": "2610.08156v1",
+  "title": "Vibe Building",
+  "doi": "",
+  "abstract": "Automated building design must comply with seismic and wind codes and satisfy structural mechanics constraints, yet most existing agents produce visually plausible models without verification grounded in mechanical analysis and code compliance. We introduce the Vibe Building task and propose PE-Loop (Physics-Engine-in-the-Loop), an agent in which a deterministic physics engine is the sole source of evaluation signals, mapping code constraints to a physics process reward, while the language model is confined to proposing discrete revisions (section menu, topology, and lateral system). Designs are verified by held-out seismic and wind time-history checks and a constructability gate. On VB-Bench, 3,577 physics-adjudicated building instances across six code families, PE-Loop achieves the highest verified success rate under three of four backbone LLMs, the highest held-out seismic pass rate under all four, and the highest held-out wind pass rate under three. Replacing the physics verdict with a language-model judge, all else fixed, leaves 58.43% of accepted designs noncompliant. These results suggest that reliable structural design rests less on a stronger LLM proposer than on an adjudicator the proposer cannot influence, a division of labor for agents whose outputs must hold up in the physical world.",
+  "authors": [
+    "Yongqing Jiang",
+    "Haoran Luo",
+    "Jianze Wang",
+    "Xin Zhou",
+    "Kaoshan Dai",
+    "Zhiqi Shen"
+  ],
+  "published_date": "2026-10-06T11:11:11Z",
+  "updated_date": "2026-10-06T11:11:11Z",
+  "journal": "",
+  "category": "cs.CE",
+  "landing_url": "https://arxiv.org/abs/2610.08156v1",
+  "pdf_url": "https://arxiv.org/pdf/2610.08156v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cs.CE"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2610.08156v1",
+    "raw_categories": [
+      "cs.CE"
+    ],
+    "journal_ref": ""
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.05.756723",
+  "title": "Anneal-MaxCal: kinetic ensembles from a Markov model learned along a solute-tempering ladder",
+  "doi": "10.64898/2026.10.05.756723",
+  "abstract": "A full characterisation of a molecular system requires its metastable states, their populations and their interconversion rates. Molecular Dynamics can in principle provide this characterisation but is limited by sampling and by force-field inaccuracies. Enhanced sampling addresses the first problem, but typically requires prior knowledge of reaction coordinates or metastable states and often sacrifices the kinetics, while maximum-caliber reweighting by Brotzakis, Vendruscolo and Bolhuis [Proc. Natl. Acad. Sci. U.S.A., 118(2):e2012423118, 2021] has been implemented to that matter on reweighting continuous pathways by imposing rate constants as kinetic constraints in two-state protein folding. Here, we introduce Anneal-MaxCal, which tackles both problems by imposing rate constants or time-resolved data on a Markov model learned along an annealed solute-tempering ladder spanning softer to physical interactions. MBAR assigns physical free energies to all 160 cells of a slow TICA subspace, against 79 visited at the physical coupling. The square-root approximation (SqRA), a discretised diffusion on this free-energy landscape, converts these populations into a detailed-balance rate matrix. Its prefactors, which act as a position-dependent diffusivity across each cell face, are learned from transitions at the softer couplings and extrapolated log-linearly to the physical coupling. This yields rates and a committor across the TICA space, although the physical rung contains a single barrier crossing. For alanine dipeptide, 665 ns of simulation give a relaxation time of 5430 ± 996 ps against 4413 ± 446 ps from 15.4 μs of unbiased dynamics, whereas a constant prefactor is 2.5 times too slow. Maximum caliber then minimally perturbs this prior, with the posterior populations following from a generalised Doob transform. A synthetic time-resolved density with a tenfold slower back-transition lowers ΔF from 5.191 to 2.885 kBT , raises the product-basin population from 0.0055 to 0.0529 and slows relaxation 9.47-fold, leaving the reactant basin unchanged. Forward and backward rates accelerated 3 and 20-fold raise ΔF by 1.892 kBT and shorten relaxation from 4818 to 289 ps.",
+  "authors": [
+    "Brotzakis ZF",
+    "Rekatsinas N"
+  ],
+  "published_date": "2026-10-09",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.05.756723",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.05.756723.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1338216",
+    "raw_record": {
+      "id": "PPR1338216",
+      "source": "PPR",
+      "doi": "10.64898/2026.10.05.756723",
+      "title": "Anneal-MaxCal: kinetic ensembles from a Markov model learned along a solute-tempering ladder",
+      "authorString": "Brotzakis ZF, Rekatsinas N.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Brotzakis ZF",
+            "lastName": "Brotzakis",
+            "firstName": "Zacharias Faidon",
+            "initials": "ZF"
+          },
+          {
+            "fullName": "Rekatsinas N",
+            "lastName": "Rekatsinas",
+            "firstName": "Nikolaos",
+            "initials": "N"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "A full characterisation of a molecular system requires its metastable states, their populations and their interconversion rates. Molecular Dynamics can in principle provide this characterisation but is limited by sampling and by force-field inaccuracies. Enhanced sampling addresses the first problem, but typically requires prior knowledge of reaction coordinates or metastable states and often sacrifices the kinetics, while maximum-caliber reweighting by Brotzakis, Vendruscolo and Bolhuis [Proc. Natl. Acad. Sci. U.S.A., 118(2):e2012423118, 2021] has been implemented to that matter on reweighting continuous pathways by imposing rate constants as kinetic constraints in two-state protein folding. Here, we introduce Anneal-MaxCal, which tackles both problems by imposing rate constants or time-resolved data on a Markov model learned along an annealed solute-tempering ladder spanning softer to physical interactions. MBAR assigns physical free energies to all 160 cells of a slow TICA subspace, against 79 visited at the physical coupling. The square-root approximation (SqRA), a discretised diffusion on this free-energy landscape, converts these populations into a detailed-balance rate matrix. Its prefactors, which act as a position-dependent diffusivity across each cell face, are learned from transitions at the softer couplings and extrapolated log-linearly to the physical coupling. This yields rates and a committor across the TICA space, although the physical rung contains a single barrier crossing. For alanine dipeptide, 665 ns of simulation give a relaxation time of 5430 ± 996 ps against 4413 ± 446 ps from 15.4 μs of unbiased dynamics, whereas a constant prefactor is 2.5 times too slow. Maximum caliber then minimally perturbs this prior, with the posterior populations following from a generalised Doob transform. A synthetic time-resolved density with a tenfold slower back-transition lowers ΔF from 5.191 to 2.885 kBT , raises the product-basin population from 0.0055 to 0.0529 and slows relaxation 9.47-fold, leaving the reactant basin unchanged. Forward and backward rates accelerated 3 and 20-fold raise ΔF by 1.892 kBT and shorten relaxation from 4818 to 289 ps.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.10.05.756723"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-10-10",
+      "firstPublicationDate": "2026-10-09",
+      "firstIndexDate": "2026-10-10",
+      "hasEvaluations": "N"
+    }
+  }
+}

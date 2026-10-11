@@ -1,0 +1,291 @@
+{
+  "identity": {
+    "pmid": "42830633",
+    "doi": "10.1002/cmdc.70523",
+    "title": "Capturing Hu Antigen R Domain Closure Through Supervised Molecular Dynamics Simulations."
+  },
+  "content": {
+    "abstract": "Hu antigen R (HuR), an RNA-binding protein implicated in cancer, inflammation, and neurodegenerative disorders, represents a challenging target for drug discovery due to its large solvent-exposed RNA-binding interface and pronounced conformational flexibility. HuR contains tandem RNA recognition motifs (RRM1 and RRM2) that undergo substantial rearrangements between an apo open state and an RNA-bound closed conformation. Here, we investigated both states using molecular dynamics (MD) simulations. While the RNA-bound complex maintained a stable closed architecture, the apo form displayed extensive interdomain motions, highlighting the intrinsic flexibility of HuR. Because conventional MD simulations failed to capture the open-to-closed transition, we developed a novel application of Supervised MD (SuMD), previously employed for intermolecular recognition processes, to characterize HuR intramolecular domain closure. Using a multistep supervision protocol based on selected interdomain residue pairs, SuMD reproduced a closed conformation resembling the experimental RNA-bound structure and identified a plausible reclosure pathway. Per-residue interaction analyses revealed key contributions from the RRM1-RRM2 linker region, particularly Arg97, together with Arg136 and Arg147 of RRM2, consistent with mutagenesis data. These findings extend the applicability of SuMD to intramolecular conformational transitions, provide mechanistic insight into HuR domain closure, and offer a structural framework for identifying druggable conformational states for future HuR-targeted drug discovery.",
+    "keywords": [
+      "HuR (ELAVL1)",
+      "conformational dynamics",
+      "domain closure",
+      "structure-based drug design",
+      "supervised molecular dynamics"
+    ],
+    "mesh_terms": [
+      "*Molecular Dynamics Simulation",
+      "Humans",
+      "*ELAV-Like Protein 1/chemistry/metabolism",
+      "Protein Domains",
+      "RNA/chemistry/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Cavastracci Strascia, Chiara",
+        "Dodaro, Andrea",
+        "Novello, Gianluca",
+        "Menin, Silvia",
+        "Sturlese, Mattia",
+        "Salmaso, Veronica",
+        "Moro, Stefano"
+      ],
+      "short_names": [
+        "Cavastracci Strascia C",
+        "Dodaro A",
+        "Novello G",
+        "Menin S",
+        "Sturlese M",
+        "Salmaso V",
+        "Moro S"
+      ],
+      "auids": [
+        "ORCID: 0009-0007-1605-2904",
+        "ORCID: 0009-0009-9515-5227",
+        "ORCID: 0009-0008-5005-4329",
+        "ORCID: 0000-0001-9217-1461",
+        "ORCID: 0000-0003-3944-0313",
+        "ORCID: 0000-0001-5305-8351",
+        "ORCID: 0000-0002-7514-3802"
+      ],
+      "affiliations": [
+        "Molecular Modeling Section (MMS), Department of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy.",
+        "Molecular Modeling Section (MMS), Department of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy.",
+        "Molecular Modeling Section (MMS), Department of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy.",
+        "Molecular Modeling Section (MMS), Department of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy.",
+        "Molecular Modeling Section (MMS), Department of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy.",
+        "Molecular Modeling Section (MMS), Department of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy.",
+        "Molecular Modeling Section (MMS), Department of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Cavastracci Strascia, Chiara",
+        "short_name": "Cavastracci Strascia C",
+        "identifiers": [
+          "0009-0007-1605-2904"
+        ],
+        "affiliations": [
+          "Molecular Modeling Section (MMS), Department of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy."
+        ]
+      },
+      {
+        "full_name": "Dodaro, Andrea",
+        "short_name": "Dodaro A",
+        "identifiers": [
+          "0009-0009-9515-5227"
+        ],
+        "affiliations": [
+          "Molecular Modeling Section (MMS), Department of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy."
+        ]
+      },
+      {
+        "full_name": "Novello, Gianluca",
+        "short_name": "Novello G",
+        "identifiers": [
+          "0009-0008-5005-4329"
+        ],
+        "affiliations": [
+          "Molecular Modeling Section (MMS), Department of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy."
+        ]
+      },
+      {
+        "full_name": "Menin, Silvia",
+        "short_name": "Menin S",
+        "identifiers": [
+          "0000-0001-9217-1461"
+        ],
+        "affiliations": [
+          "Molecular Modeling Section (MMS), Department of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy."
+        ]
+      },
+      {
+        "full_name": "Sturlese, Mattia",
+        "short_name": "Sturlese M",
+        "identifiers": [
+          "0000-0003-3944-0313"
+        ],
+        "affiliations": [
+          "Molecular Modeling Section (MMS), Department of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy."
+        ]
+      },
+      {
+        "full_name": "Salmaso, Veronica",
+        "short_name": "Salmaso V",
+        "identifiers": [
+          "0000-0001-5305-8351"
+        ],
+        "affiliations": [
+          "Molecular Modeling Section (MMS), Department of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy."
+        ]
+      },
+      {
+        "full_name": "Moro, Stefano",
+        "short_name": "Moro S",
+        "identifiers": [
+          "0000-0002-7514-3802"
+        ],
+        "affiliations": [
+          "Molecular Modeling Section (MMS), Department of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ChemMedChem"
+    ],
+    "journal_abbrev": [
+      "ChemMedChem"
+    ],
+    "pub_date": "2026 Oct 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/05 05:31",
+    "fetched_at": "2026-10-11 08:17:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42830633",
+      "25584704",
+      "30535889",
+      "41032726",
+      "23519412",
+      "28934484",
+      "30418581",
+      "35538713",
+      "29279008",
+      "20219472",
+      "29313684",
+      "35269739",
+      "41712319",
+      "40673918",
+      "27936513",
+      "30718402",
+      "27699868",
+      "39917925",
+      "42495344",
+      "33383937",
+      "17517897",
+      "42475469",
+      "42095372",
+      "25841336",
+      "34942276",
+      "19754142",
+      "42543056",
+      "25487676",
+      "41061712",
+      "38507413",
+      "23912807",
+      "42740374",
+      "30381077",
+      "34242590",
+      "25268560",
+      "12242302",
+      "39354713",
+      "27061672",
+      "32175307",
+      "23966221",
+      "33682750",
+      "34310942",
+      "42604571",
+      "42376479",
+      "42370851",
+      "36454011",
+      "42594575",
+      "30957116",
+      "26390015",
+      "29378407",
+      "33924837",
+      "42533714",
+      "25574774",
+      "37454201",
+      "29253008",
+      "20701388",
+      "36918912",
+      "42176847",
+      "30530494",
+      "32879054",
+      "28790173",
+      "34843451",
+      "19350618",
+      "23864387",
+      "25531267",
+      "22706953",
+      "23936827",
+      "42084449",
+      "39424621",
+      "34281237",
+      "40240338",
+      "21261310",
+      "20682346",
+      "37894619",
+      "20471396",
+      "40345379",
+      "42136125",
+      "27437398",
+      "32828084",
+      "12011088",
+      "38377794",
+      "38507812",
+      "35248670",
+      "24048570",
+      "31090107",
+      "27053682",
+      "33728914",
+      "26650754",
+      "29433424",
+      "42748146",
+      "41594575",
+      "39795935",
+      "21858778",
+      "39684679",
+      "30747434",
+      "36454680",
+      "41532544",
+      "28186717",
+      "28315749",
+      "42370432"
+    ],
+    "review": [
+      "42830633",
+      "34942276",
+      "30381077",
+      "25574774",
+      "35248670",
+      "28186717"
+    ],
+    "pmc": [
+      "13635762"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1002/cmdc.70523",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-725",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

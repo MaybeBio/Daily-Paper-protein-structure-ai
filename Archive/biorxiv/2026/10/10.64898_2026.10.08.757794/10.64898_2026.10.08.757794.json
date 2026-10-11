@@ -1,0 +1,357 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.08.757794",
+  "title": "De novo protein design in an expanded chemical space",
+  "doi": "10.64898/2026.10.08.757794",
+  "abstract": "Generative protein design has made sequence and structure programmable, yet its chemical alphabet remains largely confined to the canonical twenty. Here, we establish CheMoDesign, an experimentally validated generative framework for designing proteins de novo around user-specified chemistry. CheMoDesign weakens pair-representation conditioning in a pretrained all-atom structure-prediction model while preserving chemical anchors, then refines generated backbones through sequence-conditioned denoising. By treating post-translational modifications, synthetic residues, and chemical modifications as user-defined building blocks, the framework generated proteins with chemistry-dependent recognition and reactivity in single-round experimental campaigns. Sulfotyrosine and nitrotyrosine enabled modification-dependent recognition of thrombin and HER2, respectively. Genetically encoded noncanonical residues enabled bioorthogonal affinity switching and light- or proximity-triggered covalent target capture. Post-expression chemical modifications yielded a light-activated covalent PD-L1 binder and an isoform-selective CA IX inhibitor (KD = 45 nM) designed to engage catalytic Zn2+;. CheMoDesign makes chemical mechanism a programmable dimension of de novo protein design.",
+  "authors": [
+    "Yuxuan Li",
+    "Yanbo Jing",
+    "Yeyu Su",
+    "Wei Ren",
+    "Jiayi Zhang",
+    "Tao Liu"
+  ],
+  "published_date": "2026-10-09",
+  "updated_date": "2026-10-09T16:25:16Z",
+  "journal": "bioRxiv",
+  "category": "Biochemistry",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.08.757794",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.08.757794.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [
+    "Biochemistry"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Biochemistry",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            9
+          ]
+        ],
+        "date-time": "2026-10-09T16:56:15Z",
+        "timestamp": 1791564975337,
+        "version": "4.3.4"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            9
+          ]
+        ]
+      },
+      "group-title": "Biochemistry",
+      "reference-count": 0,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                9
+              ]
+            ],
+            "date-time": "2026-10-09T00:00:00Z",
+            "timestamp": 1791504000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "name": "National Natural Science Foundation of China",
+          "award": [
+            "22325701"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "22325701"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/01h0zpd94",
+              "id-type": "ROR",
+              "asserted-by": "crossref"
+            }
+          ]
+        },
+        {
+          "name": "National Natural Science Foundation of China",
+          "award": [
+            "22637002"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "22637002"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/01h0zpd94",
+              "id-type": "ROR",
+              "asserted-by": "crossref"
+            }
+          ]
+        },
+        {
+          "name": "National Natural Science Foundation of China",
+          "award": [
+            "224B2702"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "224B2702"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/01h0zpd94",
+              "id-type": "ROR",
+              "asserted-by": "crossref"
+            }
+          ]
+        },
+        {
+          "name": "Beijing Natural Science Foundation",
+          "award": [
+            "Z250009"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "Z250009"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Lingang Laboratory",
+          "award": [
+            "LGL-2615-01"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "LGL-2615-01"
+              ]
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            9
+          ]
+        ]
+      },
+      "abstract": "<jats:p>Generative protein design has made sequence and structure programmable, yet its chemical alphabet remains largely confined to the canonical twenty. Here, we establish CheMoDesign, an experimentally validated generative framework for designing proteins de novo around user-specified chemistry. CheMoDesign weakens pair-representation conditioning in a pretrained all-atom structure-prediction model while preserving chemical anchors, then refines generated backbones through sequence-conditioned denoising. By treating post-translational modifications, synthetic residues, and chemical modifications as user-defined building blocks, the framework generated proteins with chemistry-dependent recognition and reactivity in single-round experimental campaigns. Sulfotyrosine and nitrotyrosine enabled modification-dependent recognition of thrombin and HER2, respectively. Genetically encoded noncanonical residues enabled bioorthogonal affinity switching and light- or proximity-triggered covalent target capture. Post-expression chemical modifications yielded a light-activated covalent PD-L1 binder and an isoform-selective CA IX inhibitor (KD = 45 nM) designed to engage catalytic Zn2+;. CheMoDesign makes chemical mechanism a programmable dimension of de novo protein design.</jats:p>",
+      "DOI": "10.64898/2026.10.08.757794",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            9
+          ]
+        ],
+        "date-time": "2026-10-09T16:25:16Z",
+        "timestamp": 1791563116000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "De novo protein design in an expanded chemical space"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0008-5717-3865",
+          "authenticated-orcid": false,
+          "given": "Yuxuan",
+          "family": "Li",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Peking University"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0006-0270-8469",
+          "authenticated-orcid": false,
+          "given": "Yanbo",
+          "family": "Jing",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Peking University"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0007-3552-8162",
+          "authenticated-orcid": false,
+          "given": "Yeyu",
+          "family": "Su",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Peking University"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Wei",
+          "family": "Ren",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Peking University"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jiayi",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Peking University"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-5347-5892",
+          "authenticated-orcid": false,
+          "given": "Tao",
+          "family": "Liu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Peking University"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.10.08.757794",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            9
+          ]
+        ],
+        "date-time": "2026-10-09T16:25:16Z",
+        "timestamp": 1791563116000
+      },
+      "score": 46.855278,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.10.08.757794"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            9
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.64898/2026.10.08.757794",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            9
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

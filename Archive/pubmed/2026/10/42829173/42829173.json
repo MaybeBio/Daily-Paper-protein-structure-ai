@@ -1,0 +1,280 @@
+{
+  "identity": {
+    "pmid": "42829173",
+    "doi": "10.1016/j.biochi.2026.09.018",
+    "title": "Characterization of MdDOX-Co homologs revealed a novel gibberellin metabolic clade and a single-residue switch dictating the catalytic site."
+  },
+  "content": {
+    "abstract": "The metabolism of gibberellin (GA) is generally mediated by GA 2-oxidase (GA2ox) through 2beta-hydroxylation. These enzymes belong to the 2-oxoglutarate-dependent dioxygenase (2ODD, DOX) superfamily. However, MdDOX-Co, another 2ODD, was recently found to catalyze atypical GA 12alpha-hydroxylation. MdDOX-Co belongs to the DOXC41 clade, which is phylogenetically distant from the canonical GA2ox. The evolutionary and structural bases of this unique catalytic site remain unclear. In this study, we investigated the functional divergence of the DOXC41 clade. Through phylogenetic analyses, biochemical experiments with recombinant enzymes, and GC-MS detection, we discovered that MdDOX-Co homologs exhibit striking diversity in their GA hydroxylation sites, branching into two functional types: those possessing 12alpha-hydroxylation activity and those possessing 2-hydroxylation activity. We performed enzyme structure predictions, molecular docking, and molecular dynamics (MD) simulations to elucidate the mechanisms that dictate this functional diversity. These in silico approaches identified a key residue that distinguishes the two activities. Subsequent biochemical characterization using a synthesized variant demonstrated that a single-residue switch (T214P) shifted the catalytic activity of MdDOX-Co from 12alpha-hydroxylation to 2beta-hydroxylation. Our findings provide new insights into the structural rationale of how a single amino acid dictates the hydroxylation sites of GA in this novel metabolic clade.",
+    "keywords": [
+      "2ODD",
+      "Columnar",
+      "DOX",
+      "Gibberellin",
+      "MdDOX-Co",
+      "Molecular dynamics simulation"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Inoue, Taiki",
+        "Karasuno, Yusaku",
+        "Wakabayashi, Takatoshi",
+        "Okada, Kazuma",
+        "Miyazaki, Sho",
+        "Takahashi, Ikuo",
+        "Okada, Kazunori",
+        "Kuzuyama, Tomohisa",
+        "Nakajima, Masatoshi"
+      ],
+      "short_names": [
+        "Inoue T",
+        "Karasuno Y",
+        "Wakabayashi T",
+        "Okada K",
+        "Miyazaki S",
+        "Takahashi I",
+        "Okada K",
+        "Kuzuyama T",
+        "Nakajima M"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Applied Biological Chemistry, Graduate School of Agricultural and Life Science, The University of Tokyo, Bunkyo, Tokyo 113-8657, Japan.",
+        "Department of Biotechnology, Graduate School of Agricultural and Life Science, The University of Tokyo, Bunkyo, Tokyo 113-8657, Japan.",
+        "Department of Applied Biological Chemistry, Graduate School of Agricultural and Life Science, The University of Tokyo, Bunkyo, Tokyo 113-8657, Japan.",
+        "Institute of Fruit Tree and Tea Science, National Agriculture and Food Research Organization, Tsukuba, Ibaraki 305-8605, Japan.",
+        "Tokyo Denki University, Hatoyama, Saitama 350-0394, Japan.",
+        "Department of Applied Biological Chemistry, Graduate School of Agricultural and Life Science, The University of Tokyo, Bunkyo, Tokyo 113-8657, Japan.",
+        "Department of Life Science, Graduate School of Life Science, Toyo University, Asaka, Saitama 351-8510, Japan.",
+        "Department of Biotechnology, Graduate School of Agricultural and Life Science, The University of Tokyo, Bunkyo, Tokyo 113-8657, Japan; Collaborative Research Institute for Innovative Microbiology (CRIIM), The University of Tokyo, Bunkyo, Tokyo 113-8657, Japan.",
+        "Department of Applied Biological Chemistry, Graduate School of Agricultural and Life Science, The University of Tokyo, Bunkyo, Tokyo 113-8657, Japan. Electronic address: anakajm@g.ecc.u-tokyo.ac.jp."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Inoue, Taiki",
+        "short_name": "Inoue T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Applied Biological Chemistry, Graduate School of Agricultural and Life Science, The University of Tokyo, Bunkyo, Tokyo 113-8657, Japan."
+        ]
+      },
+      {
+        "full_name": "Karasuno, Yusaku",
+        "short_name": "Karasuno Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology, Graduate School of Agricultural and Life Science, The University of Tokyo, Bunkyo, Tokyo 113-8657, Japan."
+        ]
+      },
+      {
+        "full_name": "Wakabayashi, Takatoshi",
+        "short_name": "Wakabayashi T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Applied Biological Chemistry, Graduate School of Agricultural and Life Science, The University of Tokyo, Bunkyo, Tokyo 113-8657, Japan."
+        ]
+      },
+      {
+        "full_name": "Okada, Kazuma",
+        "short_name": "Okada K",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Fruit Tree and Tea Science, National Agriculture and Food Research Organization, Tsukuba, Ibaraki 305-8605, Japan."
+        ]
+      },
+      {
+        "full_name": "Miyazaki, Sho",
+        "short_name": "Miyazaki S",
+        "identifiers": [],
+        "affiliations": [
+          "Tokyo Denki University, Hatoyama, Saitama 350-0394, Japan."
+        ]
+      },
+      {
+        "full_name": "Takahashi, Ikuo",
+        "short_name": "Takahashi I",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Applied Biological Chemistry, Graduate School of Agricultural and Life Science, The University of Tokyo, Bunkyo, Tokyo 113-8657, Japan."
+        ]
+      },
+      {
+        "full_name": "Okada, Kazunori",
+        "short_name": "Okada K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Life Science, Graduate School of Life Science, Toyo University, Asaka, Saitama 351-8510, Japan."
+        ]
+      },
+      {
+        "full_name": "Kuzuyama, Tomohisa",
+        "short_name": "Kuzuyama T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology, Graduate School of Agricultural and Life Science, The University of Tokyo, Bunkyo, Tokyo 113-8657, Japan; Collaborative Research Institute for Innovative Microbiology (CRIIM), The University of Tokyo, Bunkyo, Tokyo 113-8657, Japan."
+        ]
+      },
+      {
+        "full_name": "Nakajima, Masatoshi",
+        "short_name": "Nakajima M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Applied Biological Chemistry, Graduate School of Agricultural and Life Science, The University of Tokyo, Bunkyo, Tokyo 113-8657, Japan. Electronic address: anakajm@g.ecc.u-tokyo.ac.jp."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biochimie"
+    ],
+    "journal_abbrev": [
+      "Biochimie"
+    ],
+    "pub_date": "2026 Oct 3",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/04 00:33",
+    "fetched_at": "2026-10-11 08:17:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42829173",
+      "37791963",
+      "33211343",
+      "40674072",
+      "32333787",
+      "24006417",
+      "42780226",
+      "35873989",
+      "39252390",
+      "41122782",
+      "39214664",
+      "24178490",
+      "36869319",
+      "10200325",
+      "34322729",
+      "21056641",
+      "42475469",
+      "42280095",
+      "39540746",
+      "19411852",
+      "41685764",
+      "23770703",
+      "33602133",
+      "31388830",
+      "9177256",
+      "34006624",
+      "41806892",
+      "41615176",
+      "24628256",
+      "42136426",
+      "27613682",
+      "19014591",
+      "37061992",
+      "25400275",
+      "20498719",
+      "21877691",
+      "41612368",
+      "29956113",
+      "9730826",
+      "7604047",
+      "41308777",
+      "24184278",
+      "22247270",
+      "22911627",
+      "39932478",
+      "20171575",
+      "29549099",
+      "36257366",
+      "42813584",
+      "26216966",
+      "26757175",
+      "41116311",
+      "15134335",
+      "31053072",
+      "29608922",
+      "39490858",
+      "26361765",
+      "37175159",
+      "41536795",
+      "39743109",
+      "40943500",
+      "30888147",
+      "19037316",
+      "31010098",
+      "41317564",
+      "20698828",
+      "22674578",
+      "23731237",
+      "36838840",
+      "24547750",
+      "23319637",
+      "32345611",
+      "31395025",
+      "40178877",
+      "40733589",
+      "41047031",
+      "11368545",
+      "16112640",
+      "22945942",
+      "26538500",
+      "34214939",
+      "26249842",
+      "36633228",
+      "41467810",
+      "35887253",
+      "33049049",
+      "28780854",
+      "39308748",
+      "40829512",
+      "41573220",
+      "24339041",
+      "23552177",
+      "29081786",
+      "36114781",
+      "41590488",
+      "15196988",
+      "42153268",
+      "38072259",
+      "28600532",
+      "34771153"
+    ],
+    "review": [
+      "42829173",
+      "15134335"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0300-9084(26)00237-3",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3321",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

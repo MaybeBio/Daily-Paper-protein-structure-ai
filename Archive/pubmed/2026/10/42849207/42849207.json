@@ -1,0 +1,242 @@
+{
+  "identity": {
+    "pmid": "42849207",
+    "doi": "10.1016/j.jmgm.2026.109596",
+    "title": "Gaussian accelerated molecular dynamics simulations reveal inhibitor-dependent loop dynamics in aminopeptidase N."
+  },
+  "content": {
+    "abstract": "Aminopeptidase N (APN) is a critical exopeptidase that plays key roles in physiological processes such as tumor metastasis, immune regulation, and viral infections. However, the conformational dynamics associated with different APN inhibitors remain insufficiently understood, particularly whether inhibitors with varying potency induce similar or distinct dynamic behaviors. Here, we applied Gaussian accelerated molecular dynamics (GaMD) simulations to investigate the conformational effects of three representative APN inhibitors, Bestatin, CHR-79888, and Kelatorphan, revealing inhibitor-dependent differences in APN conformational dynamics. The results showed that, in the CHR-79888- and Kelatorphan-bound systems, the flexible loop (891)YGGGSFSF(898) preferentially sampled distinct conformations and formed more frequent direct contacts with the ligands. These systems also exhibited tighter interdomain coupling around the active site and shorter, more distributed residue communication pathways, consistent with a more restricted and coordinated conformational ensemble. In contrast, the Bestatin-bound system exhibited fewer direct contacts between the ligand and the flexible loop, together with larger conformational fluctuations and less coordinated interdomain communication. Overall, our study reveals the inhibitor-dependent unique loop dynamics of APN, providing new theoretical insights for the design of efficient APN inhibitors.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yu, Shuang",
+        "Wang, Jinhong",
+        "Zhao, Yi",
+        "Zhuo, Xinlan",
+        "Li, Xiang",
+        "Liang, Guizhao"
+      ],
+      "short_names": [
+        "Yu S",
+        "Wang J",
+        "Zhao Y",
+        "Zhuo X",
+        "Li X",
+        "Liang G"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Key Laboratory of Biorheological Science and Technology, Ministry of Education, Bioengineering College, Chongqing University, Chongqing, 400044, China.",
+        "Key Laboratory of Biorheological Science and Technology, Ministry of Education, Bioengineering College, Chongqing University, Chongqing, 400044, China.",
+        "Key Laboratory of Biorheological Science and Technology, Ministry of Education, Bioengineering College, Chongqing University, Chongqing, 400044, China.",
+        "Key Laboratory of Biorheological Science and Technology, Ministry of Education, Bioengineering College, Chongqing University, Chongqing, 400044, China.",
+        "Key Laboratory of Biorheological Science and Technology, Ministry of Education, Bioengineering College, Chongqing University, Chongqing, 400044, China.",
+        "Key Laboratory of Biorheological Science and Technology, Ministry of Education, Bioengineering College, Chongqing University, Chongqing, 400044, China. Electronic address: gzliang@cqu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yu, Shuang",
+        "short_name": "Yu S",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Biorheological Science and Technology, Ministry of Education, Bioengineering College, Chongqing University, Chongqing, 400044, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Jinhong",
+        "short_name": "Wang J",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Biorheological Science and Technology, Ministry of Education, Bioengineering College, Chongqing University, Chongqing, 400044, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Yi",
+        "short_name": "Zhao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Biorheological Science and Technology, Ministry of Education, Bioengineering College, Chongqing University, Chongqing, 400044, China."
+        ]
+      },
+      {
+        "full_name": "Zhuo, Xinlan",
+        "short_name": "Zhuo X",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Biorheological Science and Technology, Ministry of Education, Bioengineering College, Chongqing University, Chongqing, 400044, China."
+        ]
+      },
+      {
+        "full_name": "Li, Xiang",
+        "short_name": "Li X",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Biorheological Science and Technology, Ministry of Education, Bioengineering College, Chongqing University, Chongqing, 400044, China."
+        ]
+      },
+      {
+        "full_name": "Liang, Guizhao",
+        "short_name": "Liang G",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Biorheological Science and Technology, Ministry of Education, Bioengineering College, Chongqing University, Chongqing, 400044, China. Electronic address: gzliang@cqu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of molecular graphics & modelling"
+    ],
+    "journal_abbrev": [
+      "J Mol Graph Model"
+    ],
+    "pub_date": "2026 Oct 6",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/08 23:31",
+    "fetched_at": "2026-10-11 08:17:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42849207",
+      "27624165",
+      "42475469",
+      "38324213",
+      "40072875",
+      "37090603",
+      "23912807",
+      "40110797",
+      "42340349",
+      "38893554",
+      "31686597",
+      "34310942",
+      "37937774",
+      "34377364",
+      "41830171",
+      "32619177",
+      "41980694",
+      "42604571",
+      "42170713",
+      "42148913",
+      "33723285",
+      "31968162",
+      "42742803",
+      "19327105",
+      "34453922",
+      "41217569",
+      "35159478",
+      "25574774",
+      "35677165",
+      "40632195",
+      "34185514",
+      "27861609",
+      "33755013",
+      "40439100",
+      "42495344",
+      "33778075",
+      "38732174",
+      "33718330",
+      "40280449",
+      "15731379",
+      "33030907",
+      "37806554",
+      "35620482",
+      "42130234",
+      "38202747",
+      "28144904",
+      "41970871",
+      "42193957",
+      "21639142",
+      "31445064",
+      "41489074",
+      "39064955",
+      "40224459",
+      "30693152",
+      "33876094",
+      "42376479",
+      "38255913",
+      "41446076",
+      "25794108",
+      "38973915",
+      "41556500",
+      "41922635",
+      "38000246",
+      "14757368",
+      "11745433",
+      "30703686",
+      "39125865",
+      "34899998",
+      "42653665",
+      "37049650",
+      "20726603",
+      "36080363",
+      "32932742",
+      "42217703",
+      "9197331",
+      "30238851",
+      "28034310",
+      "33164832",
+      "42510714",
+      "25314362",
+      "30318749",
+      "41096952",
+      "24244137",
+      "39710177",
+      "39337569",
+      "42693643",
+      "22050749",
+      "34527658",
+      "42322048",
+      "35950997",
+      "32881481",
+      "23205665",
+      "17850816",
+      "31793290",
+      "42823625",
+      "35838167",
+      "23776432",
+      "42182407",
+      "41789351",
+      "42589282"
+    ],
+    "review": [
+      "42849207",
+      "19327105",
+      "25574774",
+      "22050749"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1093-3263(26)00322-0",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-460",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,335 @@
+{
+  "identity": {
+    "pmid": "42850288",
+    "doi": "10.1038/s44320-026-00246-1",
+    "title": "Validation and analysis of 12,000 AI-driven CAR-T designs in the Bits to Binders competition."
+  },
+  "content": {
+    "abstract": "Artificial intelligence (AI) methods for proteins have advanced rapidly, improving structure prediction and design, particularly for de novo binders. However, most evaluations emphasize binding affinity rather than higher-order biological function. We present Bits to Binders, a global competition evaluating de novo binder design in the context of chimeric antigen receptor (CAR) T cells. Teams from 42 countries submitted 12,000 designs of 80-amino acid de novo minibinders targeting human CD20 as CAR binding domains. Designs were screened by pooled CAR-T proliferation, identifying 707 designs exhibiting significant CD20-specific enrichment, with team hit rates from 0.6% to 38.4%. Top-performing candidates were validated as individual constructs, measuring CD20-specific proliferation, expansion, cytokine production, and targeted cell lysis. We identified common design methodologies and factors correlated with DNA synthesis, expression, and target-specific T cell activation which nearly double the success rates when applied as a retrospective filter. We release this dataset as an open resource, with practical recommendations to support more effective AI-driven binder design.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kosonocky, Clayton W",
+        "Abel, Alex M",
+        "Feller, Aaron L",
+        "Cifuentes Rieffer, Amanda E",
+        "Woolley, Phillip R",
+        "Lala, Jakub",
+        "Barth, Daryl R",
+        "Gardner, Tynan",
+        "Ekker, Stephen C",
+        "Ellington, Andrew D",
+        "Wierson, Wesley A",
+        "Marcotte, Edward M"
+      ],
+      "short_names": [
+        "Kosonocky CW",
+        "Abel AM",
+        "Feller AL",
+        "Cifuentes Rieffer AE",
+        "Woolley PR",
+        "Lala J",
+        "Barth DR",
+        "Gardner T",
+        "Ekker SC",
+        "Ellington AD",
+        "Wierson WA",
+        "Marcotte EM"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6420-8615",
+        "ORCID: 0000-0003-4022-2495",
+        "ORCID: 0000-0003-3690-3909",
+        "ORCID: 0000-0001-8808-180X"
+      ],
+      "affiliations": [
+        "Department of Molecular Biosciences, University of Texas at Austin, Austin, TX, USA.",
+        "The BioML Society, Austin, TX, USA.",
+        "LifEngine Animal Health (LEAH) Laboratories Incorporated, Minneapolis, MN, USA.",
+        "Department of Molecular Biosciences, University of Texas at Austin, Austin, TX, USA.",
+        "The BioML Society, Austin, TX, USA.",
+        "LifEngine Animal Health (LEAH) Laboratories Incorporated, Minneapolis, MN, USA.",
+        "Department of Molecular Biosciences, University of Texas at Austin, Austin, TX, USA.",
+        "The BioML Society, Austin, TX, USA.",
+        "Department of Materials, Imperial College London, London, United Kingdom.",
+        "Department of Molecular Biosciences, University of Texas at Austin, Austin, TX, USA.",
+        "The BioML Society, Austin, TX, USA.",
+        "Department of Molecular Biosciences, University of Texas at Austin, Austin, TX, USA.",
+        "The BioML Society, Austin, TX, USA.",
+        "Department of Pediatrics, Dell Medical School, University of Texas at Austin, Austin, TX, USA.",
+        "Department of Molecular Biosciences, University of Texas at Austin, Austin, TX, USA.",
+        "LifEngine Animal Health (LEAH) Laboratories Incorporated, Minneapolis, MN, USA.",
+        "Department of Molecular Biosciences, University of Texas at Austin, Austin, TX, USA. marcotte@utexas.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kosonocky, Clayton W",
+        "short_name": "Kosonocky CW",
+        "identifiers": [
+          "0000-0002-6420-8615"
+        ],
+        "affiliations": [
+          "Department of Molecular Biosciences, University of Texas at Austin, Austin, TX, USA.",
+          "The BioML Society, Austin, TX, USA."
+        ]
+      },
+      {
+        "full_name": "Abel, Alex M",
+        "short_name": "Abel AM",
+        "identifiers": [
+          "0000-0003-4022-2495"
+        ],
+        "affiliations": [
+          "LifEngine Animal Health (LEAH) Laboratories Incorporated, Minneapolis, MN, USA."
+        ]
+      },
+      {
+        "full_name": "Feller, Aaron L",
+        "short_name": "Feller AL",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Biosciences, University of Texas at Austin, Austin, TX, USA.",
+          "The BioML Society, Austin, TX, USA."
+        ]
+      },
+      {
+        "full_name": "Cifuentes Rieffer, Amanda E",
+        "short_name": "Cifuentes Rieffer AE",
+        "identifiers": [],
+        "affiliations": [
+          "LifEngine Animal Health (LEAH) Laboratories Incorporated, Minneapolis, MN, USA."
+        ]
+      },
+      {
+        "full_name": "Woolley, Phillip R",
+        "short_name": "Woolley PR",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Biosciences, University of Texas at Austin, Austin, TX, USA.",
+          "The BioML Society, Austin, TX, USA."
+        ]
+      },
+      {
+        "full_name": "Lála, Jakub",
+        "short_name": "Lála J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Materials, Imperial College London, London, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Barth, Daryl R",
+        "short_name": "Barth DR",
+        "identifiers": [
+          "0000-0003-3690-3909"
+        ],
+        "affiliations": [
+          "Department of Molecular Biosciences, University of Texas at Austin, Austin, TX, USA.",
+          "The BioML Society, Austin, TX, USA."
+        ]
+      },
+      {
+        "full_name": "Gardner, Tynan",
+        "short_name": "Gardner T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Biosciences, University of Texas at Austin, Austin, TX, USA.",
+          "The BioML Society, Austin, TX, USA."
+        ]
+      },
+      {
+        "full_name": "",
+        "short_name": "",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Ekker, Stephen C",
+        "short_name": "Ekker SC",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pediatrics, Dell Medical School, University of Texas at Austin, Austin, TX, USA."
+        ]
+      },
+      {
+        "full_name": "Ellington, Andrew D",
+        "short_name": "Ellington AD",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Biosciences, University of Texas at Austin, Austin, TX, USA."
+        ]
+      },
+      {
+        "full_name": "Wierson, Wesley A",
+        "short_name": "Wierson WA",
+        "identifiers": [],
+        "affiliations": [
+          "LifEngine Animal Health (LEAH) Laboratories Incorporated, Minneapolis, MN, USA."
+        ]
+      },
+      {
+        "full_name": "Marcotte, Edward M",
+        "short_name": "Marcotte EM",
+        "identifiers": [
+          "0000-0001-8808-180X"
+        ],
+        "affiliations": [
+          "Department of Molecular Biosciences, University of Texas at Austin, Austin, TX, USA. marcotte@utexas.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular systems biology"
+    ],
+    "journal_abbrev": [
+      "Mol Syst Biol"
+    ],
+    "pub_date": "2026 Oct 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/09 05:30",
+    "fetched_at": "2026-10-11 08:17:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42850288",
+      "41867703",
+      "37304295",
+      "38466264",
+      "25520398",
+      "39868233",
+      "28515942",
+      "42475469",
+      "39420062",
+      "42365891",
+      "38677881",
+      "40298385",
+      "41383027",
+      "40897171",
+      "42349054",
+      "41550919",
+      "41319471",
+      "41415384",
+      "41547950",
+      "30871576",
+      "42310743",
+      "41758307",
+      "40873579",
+      "31548346",
+      "40811854",
+      "42311665",
+      "30979735",
+      "41709747",
+      "42759984",
+      "34706886",
+      "31892219",
+      "29920129",
+      "42367785",
+      "41539232",
+      "42716964",
+      "40370902",
+      "38964917",
+      "39872520",
+      "40449956",
+      "41963322",
+      "37527004",
+      "39366753",
+      "29176334",
+      "42137597",
+      "31852337",
+      "32775492",
+      "39386211",
+      "28784559",
+      "27197068",
+      "29422056",
+      "42458494",
+      "35597752",
+      "36890859",
+      "36867678",
+      "42280270",
+      "42529217",
+      "41835393",
+      "40341217",
+      "34939758",
+      "27163336",
+      "40463123",
+      "35795096",
+      "38293112",
+      "38325903",
+      "42387611",
+      "33287637",
+      "35506657",
+      "39655494",
+      "38720898",
+      "32849600",
+      "36352168",
+      "31466926",
+      "36968221",
+      "41469141",
+      "41993194",
+      "35401506",
+      "42259008",
+      "34840026",
+      "27009942",
+      "39900318",
+      "29296519",
+      "34475869",
+      "21406718",
+      "34531250",
+      "26515978",
+      "33762438",
+      "42488656",
+      "32329214",
+      "40821776",
+      "41940160",
+      "42489162",
+      "42624861",
+      "39622582",
+      "40326068",
+      "42109662",
+      "38475814",
+      "37610259",
+      "41591545",
+      "30410362",
+      "42446920"
+    ],
+    "review": [
+      "42850288",
+      "38466264",
+      "42365891",
+      "40897171",
+      "42349054",
+      "41758307",
+      "40873579",
+      "41709747",
+      "31892219",
+      "27163336",
+      "41993194",
+      "34840026",
+      "27009942",
+      "39900318",
+      "42488656",
+      "41940160",
+      "42109662"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

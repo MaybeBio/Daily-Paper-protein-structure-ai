@@ -1,0 +1,34 @@
+{
+  "source": "arxiv",
+  "source_id": "2610.07151v1",
+  "title": "Constitutive-Set Mechanics: variational mechanics on an admissible set of constitutive laws",
+  "doi": "",
+  "abstract": "A structural simulation needs a constitutive law, and experiments rarely determine one uniquely: several laws may fit the same data and satisfy the same physical constraints, yet differ where the structure is loaded in ways the tests never were. Constitutive-Set Mechanics (CSM) keeps all of those laws. It replaces the single law in the variational formulation by the admissible set, and lets the mechanics itself decide which members of the set affect the structural prediction. The framework rests on one observation: a finite element assembly consults the law only at the strains the structure reaches, so the incremental energy depends on the law through a weighted record of those strains, the occupation measure of the state. The energy of a state under the set is a support function on that measure, and the equilibrium solve one performs anyway supplies the information needed to bound the worst case. Equilibrium states become certificates on the robust response, rigorous on the upper side for any mechanics solver and two-sided under global minimisation; the certificate has at most one more state than the number of constitutive directions the structure interrogates; a coherence theorem identifies when the pointwise-worst material is one no single material can be; and constitutive inference acts on the same support function. The method is demonstrated on linear elasticity, a data-constrained constitutive function, phase-field fracture, an assembled finite-strain composite shell, and a membrane characterised by one-mode tests alone. On the shell the structure interrogates four of 226 constitutive directions; on the membrane the certified worst-case energy exceeds the reference more than fourfold, and the experiment that most contracts the certified prediction is not the one where the constitutive uncertainty is largest.",
+  "authors": [
+    "Altaf Ahmad Lone",
+    "R. T. Durai Prabhakaran",
+    "Tawqeer Nasir Tak",
+    "Timon Rabczuk",
+    "Xiaoying Zhuang"
+  ],
+  "published_date": "2026-10-05T18:00:02Z",
+  "updated_date": "2026-10-05T18:00:02Z",
+  "journal": "",
+  "category": "physics.comp-ph",
+  "landing_url": "https://arxiv.org/abs/2610.07151v1",
+  "pdf_url": "https://arxiv.org/pdf/2610.07151v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "physics.comp-ph"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2610.07151v1",
+    "raw_categories": [
+      "physics.comp-ph"
+    ],
+    "journal_ref": ""
+  }
+}

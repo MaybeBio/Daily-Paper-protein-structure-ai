@@ -1,0 +1,198 @@
+{
+  "identity": {
+    "pmid": "42849167",
+    "doi": "10.1016/j.compbiolchem.2026.109463",
+    "title": "Beyond stacking: Recognition, egress, and dynamical relay of phen-DC3 at a quadruplex-duplex junction."
+  },
+  "content": {
+    "abstract": "G-quadruplex-duplex (Q-D) junctions are structurally complex nucleic-acid architectures with emerging relevance as selective ligand-binding targets, yet the dynamic basis of ligand recognition and dissociation at these hybrid interfaces remains insufficiently characterized. Here we have conducted microsecond level equilibrium molecular dynamics replicas per state, together with multiple well-tempered metadynamics simulations, to characterize the structural and energetic features of Phen-DC3 recognition at a Q-D junction. Ligand binding was observed to be associated with a reorganized bound-state architecture that showed reduced global structural displacement despite adopting a more expanded conformation, with the junction region contributing most strongly to this domain-specific rearrangement. Binding promotes junctional opening, with increased geometric separations and angle. Flexibility is redistributed rather than globally reduced: DG9, DG35, DG36, DT10 and DA11 become more mobile, whereas DG14 remains largely unchanged despite high contact occupancy. PCA shows a more distinct and less fragmented bound-state ensemble, with local minima decreasing from 31 to 14, while correlated-motion analysis reveals strengthened DG17-DG35/DG36 coupling and weakened DG7-DG9-associated correlations. Unbinding free-energy profiles along the ligand-active site distance are non-monotonic and contain a second minimum at larger ligand-site separation, corresponding to a partially bound, surface-associated state. Contact analysis along this coordinate indicates progressive loss of peripheral contacts while hydrophobic and van-der-Waals contacts at DG9 and DG14 persist to larger separations. These observations support a working model in which junctional opening, ensemble narrowing, correlated-motion reorganization, and multistep dissociation are coupled features of Q-D junction recognition. Moreover, these findings suggest that future Q-D junction ligands should be designed not only for strong stacking, but also to exploit junctional geometry and secondary interaction sites. Such features may help improve selectivity and overall ligand engagement at Q-D interfaces.",
+    "keywords": [
+      "Conformational ensemble",
+      "Dynamic cross-correlation",
+      "Free-energy landscape",
+      "G-quadruplex-duplex junction",
+      "Molecular dynamics",
+      "Nucleic-acid ligand recognition",
+      "Phen-DC3",
+      "Well-tempered metadynamics"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Sinha, Suman",
+        "Shainda, Km"
+      ],
+      "short_names": [
+        "Sinha S",
+        "Shainda K"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Institute of Pharmaceutical Research, GLA University, Mathura, Uttar Pradesh, India. Electronic address: suman.sinha@gla.ac.in.",
+        "Institute of Pharmaceutical Research, GLA University, Mathura, Uttar Pradesh, India. Electronic address: shainda.gla_phd23@gla.ac.in."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Sinha, Suman",
+        "short_name": "Sinha S",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Pharmaceutical Research, GLA University, Mathura, Uttar Pradesh, India. Electronic address: suman.sinha@gla.ac.in."
+        ]
+      },
+      {
+        "full_name": "Shainda, Km",
+        "short_name": "Shainda K",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Pharmaceutical Research, GLA University, Mathura, Uttar Pradesh, India. Electronic address: shainda.gla_phd23@gla.ac.in."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Computational biology and chemistry"
+    ],
+    "journal_abbrev": [
+      "Comput Biol Chem"
+    ],
+    "pub_date": "2026 Oct 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/08 23:31",
+    "fetched_at": "2026-10-11 08:17:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42849167",
+      "41205240",
+      "42475469",
+      "36416262",
+      "32975874",
+      "38477454",
+      "42676336",
+      "40966494",
+      "23912807",
+      "34905232",
+      "36321557",
+      "33000836",
+      "31010072",
+      "42533714",
+      "30168177",
+      "42801497",
+      "42684262",
+      "33450114",
+      "42376479",
+      "19665031",
+      "33368678",
+      "30555989",
+      "9819202",
+      "26546516",
+      "30871220",
+      "40780343",
+      "28696445",
+      "12234180",
+      "28785893",
+      "40523618",
+      "21553929",
+      "32471245",
+      "24356977",
+      "42800887",
+      "11131562",
+      "27632666",
+      "42814674",
+      "42427754",
+      "20345178",
+      "42503831",
+      "33070437",
+      "40356230",
+      "42437278",
+      "22816788",
+      "26730610",
+      "41789351",
+      "41422825",
+      "7818504",
+      "15313608",
+      "34967618",
+      "19625387",
+      "42495344",
+      "29380465",
+      "39076021",
+      "41867755",
+      "28931822",
+      "27456117",
+      "33607110",
+      "42406628",
+      "42170713",
+      "25908641",
+      "33285115",
+      "42508340",
+      "17059826",
+      "33723285",
+      "30423927",
+      "19485380",
+      "34609872",
+      "21390201",
+      "19515936",
+      "40056131",
+      "21642970",
+      "38732174",
+      "21761917",
+      "42727449",
+      "34904892",
+      "42714057",
+      "39190764",
+      "28232513",
+      "42011500",
+      "41853685",
+      "28524432",
+      "35993443",
+      "23471669",
+      "9268656",
+      "15165850",
+      "9376359",
+      "35981056",
+      "33924837",
+      "38059911",
+      "21322031",
+      "30703686",
+      "9391066",
+      "42216919",
+      "31697501",
+      "38324213",
+      "42130234",
+      "26772481",
+      "42845341",
+      "10451382"
+    ],
+    "review": [
+      "42849167",
+      "36321557"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1476-9271(26)00590-6",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

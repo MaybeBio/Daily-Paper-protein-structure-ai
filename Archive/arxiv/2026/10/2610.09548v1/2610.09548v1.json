@@ -1,0 +1,30 @@
+{
+  "source": "arxiv",
+  "source_id": "2610.09548v1",
+  "title": "De novo design of monoclonal and bispecific antibodies with OFAntibody",
+  "doi": "",
+  "abstract": "Recent advances in generative protein design have enabled de novo antibody generation with explicit target and epitope conditioning. However, most existing approaches remain formulated around a single antigen-antibody interface, whereas bispecific antibody design requires modeling multi-component complexes in which multiple target-recognition interfaces must coexist and interact within a shared antibody structure. Here we present OFAntibody, an all-atom generative framework for de novo design of monoclonal and bispecific antibodies. OFAntibody expands CDR-epitope interaction learning with large-scale distilled antigen-antibody complexes, and introduces multi-component structural supervision and arm-aware multi-hotspot routing to learn compatible multi-interface geometries and couple each antibody paratope to its designated epitope. OFAntibody supports epitope-conditioned generation across monoclonal antibodies and diverse bispecific formats, including tandem VHH, diabody and CODV. In nanobody design benchmarks, OFAntibody achieves a Top-5 enrichment rate of 41.5%, representing a 5.39-fold improvement over RFantibody in competitive candidate ranking. In bispecific antibody design tasks, OFAntibody achieves hotspot pass rates of 94-100% across the three evaluated tasks and achieves energy pass rates of 60%, 13% and 8% for diabody, tandem VHH and CODV formats, respectively. OFAntibody further enables the same target combination to be explored across different antibody formats, while joint multi-interface generation reduces geometric incompatibilities arising from independent design and post hoc assembly. Together, these results extend de novo antibody design from binary antigen-antibody complexes to programmable multi-component complexes, providing a foundation for designing single molecules that combine recognition of distinct targets and their associated biological functions.",
+  "authors": [
+    "Valhalla Team"
+  ],
+  "published_date": "2026-10-07T06:48:06Z",
+  "updated_date": "2026-10-07T06:48:06Z",
+  "journal": "",
+  "category": "q-bio.BM",
+  "landing_url": "https://arxiv.org/abs/2610.09548v1",
+  "pdf_url": "https://arxiv.org/pdf/2610.09548v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "q-bio.BM"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2610.09548v1",
+    "raw_categories": [
+      "q-bio.BM"
+    ],
+    "journal_ref": ""
+  }
+}

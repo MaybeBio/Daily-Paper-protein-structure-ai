@@ -1,0 +1,234 @@
+{
+  "identity": {
+    "pmid": "42843975",
+    "doi": "10.26508/lsa.202603885",
+    "title": "The ROCK1 PHC1 domain mediates recruitment to Rho activity zones and contractility signaling."
+  },
+  "content": {
+    "abstract": "The spatiotemporal regulation of cell contraction is crucial for numerous biological processes. In particular, local, subcellular contraction pulses in the cell cortex contribute to mechanotransduction and tissue rearrangements during embryonic development. We previously identified a signaling network that generates mechanosensitive contraction pulses in adherent mammalian cells through positive and negative feedback regulation of the small GTPase RhoA. Here, we show that ROCK1 is rapidly recruited to cortical pulsatile Rho activity zones and that efficient recruitment is synergistically mediated by the canonical Rho-binding domain and the C-terminal PHC1 domain. Surprisingly, the isolated ROCK1 PHC1 domain by itself is already sufficient for dynamic recruitment to active Rho signaling zones in cells, and AlphaFold-guided mutagenesis identifies conserved PHC1 residues that are required for this recruitment. Functional investigations show that the PHC1 domain plays an important role in transduction of Rho activity to myosin activation. Together, our data revise models of ROCK1 regulation by identifying a C-terminal PHC1 domain-dependent mechanism that contributes to ROCK1 recruitment and signal transduction during cell contraction pulses.",
+    "keywords": [],
+    "mesh_terms": [
+      "*rho-Associated Kinases/metabolism/genetics/chemistry",
+      "Signal Transduction",
+      "Animals",
+      "Humans",
+      "Protein Domains",
+      "*rhoA GTP-Binding Protein/metabolism",
+      "Mechanotransduction, Cellular",
+      "Protein Binding",
+      "*rho GTP-Binding Proteins/metabolism",
+      "Mice",
+      "Myosins/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Gierse, Carolin",
+        "Vetter, Ingrid R",
+        "Schweizer, Donna",
+        "Dehmelt, Leif"
+      ],
+      "short_names": [
+        "Gierse C",
+        "Vetter IR",
+        "Schweizer D",
+        "Dehmelt L"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6559-6496"
+      ],
+      "affiliations": [
+        "Faculty of Chemistry and Chemical Biology, TU Dortmund University, Dortmund, Germany. ROR: https://ror.org/01k97gp34",
+        "IMPRS for Living Matter, Max-Planck-Institute of Molecular Physiology, Dortmund, Germany.",
+        "Department of Mechanistic Cell Biology, Max-Planck-Institute of Molecular Physiology, Dortmund, Germany.",
+        "Cell Biology, Neurobiology and Biophysics, Department of Biology, Faculty of Science, Utrecht University, Utrecht, The Netherlands.",
+        "Faculty of Chemistry and Chemical Biology, TU Dortmund University, Dortmund, Germany leif.dehmelt@tu-dortmund.de. ROR: https://ror.org/01k97gp34",
+        "Dortmund Life Science Center (DOLCE), TU Dortmund University, Dortmund, Germany."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Gierse, Carolin",
+        "short_name": "Gierse C",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Chemistry and Chemical Biology, TU Dortmund University, Dortmund, Germany.",
+          "IMPRS for Living Matter, Max-Planck-Institute of Molecular Physiology, Dortmund, Germany."
+        ]
+      },
+      {
+        "full_name": "Vetter, Ingrid R",
+        "short_name": "Vetter IR",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Mechanistic Cell Biology, Max-Planck-Institute of Molecular Physiology, Dortmund, Germany."
+        ]
+      },
+      {
+        "full_name": "Schweizer, Donna",
+        "short_name": "Schweizer D",
+        "identifiers": [],
+        "affiliations": [
+          "Cell Biology, Neurobiology and Biophysics, Department of Biology, Faculty of Science, Utrecht University, Utrecht, The Netherlands."
+        ]
+      },
+      {
+        "full_name": "Dehmelt, Leif",
+        "short_name": "Dehmelt L",
+        "identifiers": [
+          "0000-0002-6559-6496"
+        ],
+        "affiliations": [
+          "Faculty of Chemistry and Chemical Biology, TU Dortmund University, Dortmund, Germany leif.dehmelt@tu-dortmund.de.",
+          "Dortmund Life Science Center (DOLCE), TU Dortmund University, Dortmund, Germany."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Life science alliance"
+    ],
+    "journal_abbrev": [
+      "Life Sci Alliance"
+    ],
+    "pub_date": "2026 Dec",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/07 23:30",
+    "fetched_at": "2026-10-11 08:17:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42843975",
+      "42384728",
+      "28035042",
+      "22430126",
+      "10445846",
+      "26368311",
+      "23066013",
+      "30444969",
+      "24244596",
+      "24434521",
+      "29055010",
+      "20511342",
+      "24240172",
+      "20004716",
+      "28188861",
+      "15705584",
+      "42392722",
+      "27803162",
+      "27551058",
+      "18694941",
+      "25400825",
+      "16809619",
+      "17301291",
+      "29024000",
+      "26169563",
+      "15071095",
+      "23307872",
+      "25010901",
+      "24324133",
+      "26838319",
+      "36500403",
+      "20605790",
+      "26647014",
+      "31778241",
+      "41231913",
+      "38403351",
+      "21265091",
+      "15252113",
+      "18559669",
+      "24349032",
+      "22883572",
+      "24902944",
+      "24457551",
+      "22275376",
+      "26875770",
+      "20400538",
+      "22456196",
+      "20843787",
+      "24646736",
+      "41317932",
+      "29844397",
+      "29319354",
+      "26487003",
+      "8824197",
+      "21678418",
+      "25733666",
+      "9348541",
+      "32417359",
+      "39004327",
+      "12939257",
+      "42312361",
+      "40446736",
+      "25712270",
+      "16368433",
+      "23566117",
+      "11992112",
+      "41416946",
+      "42092245",
+      "30387365",
+      "22231116",
+      "40518994",
+      "11956230",
+      "16448650",
+      "19605563",
+      "31431478",
+      "11919159",
+      "16442263",
+      "31599230",
+      "11134331",
+      "25446262",
+      "29700112",
+      "33453281",
+      "18776185",
+      "22298643",
+      "10490598",
+      "19940064",
+      "28971603",
+      "21558549",
+      "26258642",
+      "28300846",
+      "25941073",
+      "25031021",
+      "40545790",
+      "23319595",
+      "29849894",
+      "11583986",
+      "22420753",
+      "39297944",
+      "27606625",
+      "12637530"
+    ],
+    "review": [
+      "42843975",
+      "28188861",
+      "25010901"
+    ],
+    "pmc": [
+      "13646499"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.26508/lsa.202603885",
+        "provider": "HighWire",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

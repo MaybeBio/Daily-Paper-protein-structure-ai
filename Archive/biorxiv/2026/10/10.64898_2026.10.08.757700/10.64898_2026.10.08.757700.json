@@ -1,0 +1,254 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.08.757700",
+  "title": "Predicted structure of the 89-kDa invasion-tip protein of Holospora obtusa, an endonuclear symbiont of Paramecium caudatum, suggests a pH-dependent conformational change",
+  "doi": "10.64898/2026.10.08.757700",
+  "abstract": "The endonuclear symbiont Holospora obtusa invades the macronucleus of Paramecium caudatum using an infectious-form invasion-tip containing a major 89-kDa periplasmic protein implicated in escape from the host digestive vacuole and macronuclear invasion. Sequence-based analyses placed this protein within a Holospora-specific family and predicted an N-terminal membrane-anchoring module and a long alpha-helical C-terminal region. AlphaFold2 modeling followed by molecular dynamics indicated that the C-terminal region forms an antiparallel, spectrin-repeat-like helical solenoid containing a localized three-helix coiled-coil. The protein exhibits a large pH-dependent charge difference, becoming 55 units more positive at pH 4 than at pH 7. Independent simulations at these pH values differed mainly in the relative orientation of the N-terminal core and C-terminal rod, described by DynDom as an approximately 35 degrees rigid-body rotation about a hinge centered on Gly291. However, none of the nearby glutamates (Glu273, Glu275, and Glu302) formed a pH-dependent salt bridge, and no specific protonation-dependent interaction responsible for the conformational difference was identified. We nonetheless propose, as a testable hypothesis, that acidification of the digestive vacuole may promote this reorientation, thereby repositioning the N-terminal membrane-anchoring module at the bacterial surface as an early step toward escape from the vacuole.",
+  "authors": [
+    "Yasuhiro Takenaka",
+    "Toshiyuki Murai",
+    "Toru Nakatsu",
+    "Yasushi Shigeri",
+    "Masahiro Fujishima"
+  ],
+  "published_date": "2026-10-10",
+  "updated_date": "2026-10-10T09:40:16Z",
+  "journal": "bioRxiv",
+  "category": "Microbiology",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.08.757700",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.08.757700.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [
+    "Microbiology"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Microbiology",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            10
+          ]
+        ],
+        "date-time": "2026-10-10T09:51:29Z",
+        "timestamp": 1791625889142,
+        "version": "4.3.4"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            10
+          ]
+        ]
+      },
+      "group-title": "Microbiology",
+      "reference-count": 0,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                10
+              ]
+            ],
+            "date-time": "2026-10-10T00:00:00Z",
+            "timestamp": 1791590400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            9
+          ]
+        ]
+      },
+      "abstract": "<jats:p>The endonuclear symbiont Holospora obtusa invades the macronucleus of Paramecium caudatum using an infectious-form invasion-tip containing a major 89-kDa periplasmic protein implicated in escape from the host digestive vacuole and macronuclear invasion. Sequence-based analyses placed this protein within a Holospora-specific family and predicted an N-terminal membrane-anchoring module and a long alpha-helical C-terminal region. AlphaFold2 modeling followed by molecular dynamics indicated that the C-terminal region forms an antiparallel, spectrin-repeat-like helical solenoid containing a localized three-helix coiled-coil. The protein exhibits a large pH-dependent charge difference, becoming 55 units more positive at pH 4 than at pH 7. Independent simulations at these pH values differed mainly in the relative orientation of the N-terminal core and C-terminal rod, described by DynDom as an approximately 35 degrees rigid-body rotation about a hinge centered on Gly291. However, none of the nearby glutamates (Glu273, Glu275, and Glu302) formed a pH-dependent salt bridge, and no specific protonation-dependent interaction responsible for the conformational difference was identified. We nonetheless propose, as a testable hypothesis, that acidification of the digestive vacuole may promote this reorientation, thereby repositioning the N-terminal membrane-anchoring module at the bacterial surface as an early step toward escape from the vacuole.</jats:p>",
+      "DOI": "10.64898/2026.10.08.757700",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            10
+          ]
+        ],
+        "date-time": "2026-10-10T09:40:16Z",
+        "timestamp": 1791625216000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Predicted structure of the 89-kDa invasion-tip protein of Holospora obtusa, an endonuclear symbiont of Paramecium caudatum, suggests a pH-dependent conformational change"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-3874-1803",
+          "authenticated-orcid": false,
+          "given": "Yasuhiro",
+          "family": "Takenaka",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Nippon Medical School;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8552-9450",
+          "authenticated-orcid": false,
+          "given": "Toshiyuki",
+          "family": "Murai",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "The University of Osaka;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-9582-4023",
+          "authenticated-orcid": false,
+          "given": "Toru",
+          "family": "Nakatsu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Wakayama Medical University;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-1342-2347",
+          "authenticated-orcid": false,
+          "given": "Yasushi",
+          "family": "Shigeri",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Wakayama Medical University;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-2845-9158",
+          "authenticated-orcid": false,
+          "given": "Masahiro",
+          "family": "Fujishima",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Yamaguchi University"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.10.08.757700",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            10
+          ]
+        ],
+        "date-time": "2026-10-10T09:40:16Z",
+        "timestamp": 1791625216000
+      },
+      "score": 43.866684,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.10.08.757700"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            10
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.64898/2026.10.08.757700",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            10
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

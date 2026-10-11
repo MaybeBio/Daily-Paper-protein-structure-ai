@@ -1,0 +1,590 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.09.28.754066",
+  "title": "Mitigating Class Imbalance in Graph-Structured Data via Hierarchical Learning: Insights from Protein Binding Site Prediction",
+  "doi": "10.64898/2026.09.28.754066",
+  "abstract": "Learning from imbalanced data remains a major challenge for graph neural networks (GNNs), as minority nodes are not only rare but also structurally marginalized within the graph. We address this issue with CLARA, a hierarchical learning framework that decomposes node classification into two stages: a coarse subgraph-level classifier that selects regions likely to contain minority instances, followed by a fine-grained node-level predictor within these regions. This design improves sensitivity while maintaining scalability, filtering out irrelevant areas and focusing learning on topologically meaningful neighborhoods. Experiments on benchmark graph datasets demonstrate substantial gains over established imbalance-handling methods, with CLARA reaching an F1-score of 88.3%. The same strategy achieves significant improvements in protein–ligand binding site prediction, underscoring its broad and consistent effectiveness across both biological and general graph learning tasks.",
+  "authors": [
+    "Vinícius Paiva",
+    "Leandro Marcolino",
+    "Sandro Izidoro",
+    "Sabrina Silveira"
+  ],
+  "published_date": "2026-10-04",
+  "updated_date": "2026-10-05T03:40:11Z",
+  "journal": "bioRxiv",
+  "category": "Bioinformatics",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.09.28.754066",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.09.28.754066.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [
+    "Bioinformatics"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Bioinformatics",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            8
+          ]
+        ],
+        "date-time": "2026-10-08T11:51:04Z",
+        "timestamp": 1791460264201,
+        "version": "4.3.4"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            4
+          ]
+        ]
+      },
+      "group-title": "Bioinformatics",
+      "reference-count": 48,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                4
+              ]
+            ],
+            "date-time": "2026-10-04T00:00:00Z",
+            "timestamp": 1791072000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            4
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>Learning from imbalanced data remains a major challenge for graph neural networks (GNNs), as minority nodes are not only rare but also structurally marginalized within the graph. We address this issue with CLARA, a hierarchical learning framework that decomposes node classification into two stages: a coarse subgraph-level classifier that selects regions likely to contain minority instances, followed by a fine-grained node-level predictor within these regions. This design improves sensitivity while maintaining scalability, filtering out irrelevant areas and focusing learning on topologically meaningful neighborhoods. Experiments on benchmark graph datasets demonstrate substantial gains over established imbalance-handling methods, with CLARA reaching an F1-score of 88.3%. The same strategy achieves significant improvements in protein–ligand binding site prediction, underscoring its broad and consistent effectiveness across both biological and general graph learning tasks.</jats:p>",
+      "DOI": "10.64898/2026.09.28.754066",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            5
+          ]
+        ],
+        "date-time": "2026-10-05T03:40:11Z",
+        "timestamp": 1791171611000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Mitigating Class Imbalance in Graph-Structured Data via Hierarchical Learning: Insights from Protein Binding Site Prediction"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-4411-1875",
+          "authenticated-orcid": false,
+          "given": "Vinícius",
+          "family": "Paiva",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Universidade Federal de Vicosa"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Leandro",
+          "family": "Marcolino",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "VinUniversity"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Sandro",
+          "family": "Izidoro",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Universidade Federal de Itajub"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-4723-2349",
+          "authenticated-orcid": false,
+          "given": "Sabrina",
+          "family": "Silveira",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Universidade Federal de Vicosa"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "reference": [
+        {
+          "key": "2026100804001239000_2026.09.28.754066v1.1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "N. U. Niaz , K. N. Shahariar , and M. J. Patwary , “Class imbalance problems in machine learning: A review of methods and future challenges,” in Proceedings of the 2nd International Conference on Computing Advance- ments, 2022, pp. 485–490.",
+          "DOI": "10.1145/3542954.3543024"
+        },
+        {
+          "key": "2026100804001239000_2026.09.28.754066v1.2",
+          "article-title": "A survey of methods for addressing class imbalance in deep-learning based natural language processing",
+          "year": "2022",
+          "journal-title": "arXiv preprint"
+        },
+        {
+          "issue": "1",
+          "key": "2026100804001239000_2026.09.28.754066v1.3",
+          "doi-asserted-by": "crossref",
+          "first-page": "e70013",
+          "DOI": "10.1049/cvi2.70013",
+          "article-title": "Recent advances of continual learning in computer vision: An overview",
+          "volume": "19",
+          "year": "2025",
+          "journal-title": "IET Computer Vision"
+        },
+        {
+          "issue": "8",
+          "key": "2026100804001239000_2026.09.28.754066v1.4",
+          "first-page": "1",
+          "article-title": "Class- imbalanced learning on graphs: A survey",
+          "volume": "57",
+          "year": "2025",
+          "journal-title": "ACM Com- puting Surveys"
+        },
+        {
+          "key": "2026100804001239000_2026.09.28.754066v1.5",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Z. Liu , Y. Li , N. Chen , Q. Wang , B. Hooi , and B. He , “A survey of imbalanced learning on graphs: Problems, techniques, and future directions,” IEEE Transactions on Knowledge and Data Engineering, 2025.",
+          "DOI": "10.1109/TKDE.2025.3549299"
+        },
+        {
+          "key": "2026100804001239000_2026.09.28.754066v1.6",
+          "doi-asserted-by": "crossref",
+          "unstructured": "W. Xu , P. Wang , Z. Zhao , B. Wang , X. Wang , and Y. Wang , “When imbalance meets imbalance: Structure- driven learning for imbalanced graph classification,” in Proceedings of the ACM Web Conference 2024, 2024, pp. 905–913.",
+          "DOI": "10.1145/3589334.3645629"
+        },
+        {
+          "key": "2026100804001239000_2026.09.28.754066v1.7",
+          "article-title": "A survey of graph neural networks in real world: Imbalance, noise, privacy and ood challenges",
+          "year": "2024",
+          "journal-title": "arXiv preprint"
+        },
+        {
+          "issue": "1",
+          "key": "2026100804001239000_2026.09.28.754066v1.8",
+          "doi-asserted-by": "crossref",
+          "first-page": "8614",
+          "DOI": "10.1038/s41598-022-12574-x",
+          "article-title": "A novel early diagnostic framework for chronic diseases with class imbalance",
+          "volume": "12",
+          "year": "2022",
+          "journal-title": "Scientific reports"
+        },
+        {
+          "key": "2026100804001239000_2026.09.28.754066v1.9",
+          "doi-asserted-by": "crossref",
+          "unstructured": "A. Pandey , B. A. Shivaji , M. Acharya , and K. K. Mohbey , “Mitigating class imbalance in heart disease detection with machine learning,” Multimedia Tools and Applica- tions, pp. 1–26, 2024.",
+          "DOI": "10.1007/s11042-024-19705-8"
+        },
+        {
+          "key": "2026100804001239000_2026.09.28.754066v1.10",
+          "first-page": "baad045",
+          "article-title": "The importance of graph databases and graph learning for clinical appli- cations",
+          "volume": "2024",
+          "year": "2024",
+          "journal-title": "Database"
+        },
+        {
+          "key": "2026100804001239000_2026.09.28.754066v1.11",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.sbi.2024.102793"
+        },
+        {
+          "key": "2026100804001239000_2026.09.28.754066v1.12",
+          "doi-asserted-by": "crossref",
+          "unstructured": "T. Zhao , X. Zhang , and S. Wang , “Graphsmote: Imbal- anced node classification on graphs with graph neural networks,” in Proceedings of the 14th ACM international conference on web search and data mining, 2021, pp. 833–841.",
+          "DOI": "10.1145/3437963.3441720"
+        },
+        {
+          "key": "2026100804001239000_2026.09.28.754066v1.13",
+          "doi-asserted-by": "crossref",
+          "unstructured": "W.-Z. Li , C.-D. Wang , H. Xiong , and J.-H. Lai , “Graphsha: Synthesizing harder samples for class- imbalanced node classification,” in Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2023, pp. 1328–1340.",
+          "DOI": "10.1145/3580305.3599374"
+        },
+        {
+          "key": "2026100804001239000_2026.09.28.754066v1.14",
+          "unstructured": "J. Song , J. Park , and E. Yang , “Tam: topology-aware margin loss for class-imbalanced node classification,” in International Conference on Machine Learning. PMLR, 2022, pp. 20 369–20 383."
+        },
+        {
+          "key": "2026100804001239000_2026.09.28.754066v1.15",
+          "first-page": "94",
+          "article-title": "Nodeimport: Imbalanced node classification with node importance assessment",
+          "volume": "1",
+          "year": "2025",
+          "journal-title": "Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining"
+        },
+        {
+          "key": "2026100804001239000_2026.09.28.754066v1.16",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Z. Liu , T.-K. Nguyen , and Y. Fang , “Tail-gnn: Tail-node graph neural networks,” in Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining, 2021, pp. 1109–1119.",
+          "DOI": "10.1145/3447548.3467276"
+        },
+        {
+          "key": "2026100804001239000_2026.09.28.754066v1.17",
+          "unstructured": "T. Zhao , D. Luo , X. Zhang , and S. Wang , “Topoimb: To- ward topology-level imbalance in learning from graphs,” in Learning on Graphs Conference. PMLR, 2022, pp. 37–1."
+        },
+        {
+          "key": "2026100804001239000_2026.09.28.754066v1.18",
+          "article-title": "Class-imbalanced graph learning without class rebalancing",
+          "year": "2023",
+          "journal-title": "arXiv preprint"
+        },
+        {
+          "key": "2026100804001239000_2026.09.28.754066v1.19",
+          "doi-asserted-by": "crossref",
+          "first-page": "34",
+          "DOI": "10.1016/j.sbi.2013.11.012",
+          "article-title": "Binding site comparison for function prediction and pharmaceutical discovery",
+          "volume": "25",
+          "year": "2014",
+          "journal-title": "Cur- rent opinion in structural biology"
+        },
+        {
+          "issue": "12",
+          "key": "2026100804001239000_2026.09.28.754066v1.20",
+          "doi-asserted-by": "crossref",
+          "first-page": "881",
+          "DOI": "10.1038/s41573-022-00542-z",
+          "article-title": "Advances in covalent drug discovery",
+          "volume": "21",
+          "year": "2022",
+          "journal-title": "Nature Reviews Drug Dis- covery"
+        },
+        {
+          "key": "2026100804001239000_2026.09.28.754066v1.21",
+          "doi-asserted-by": "crossref",
+          "first-page": "108626",
+          "DOI": "10.1016/j.compchemeng.2024.108626",
+          "article-title": "A virtual screening framework based on the binding site selectivity for small molecule drug discovery",
+          "volume": "184",
+          "year": "2024",
+          "journal-title": "Computers & Chem- ical Engineering"
+        },
+        {
+          "key": "2026100804001239000_2026.09.28.754066v1.22",
+          "doi-asserted-by": "crossref",
+          "first-page": "438",
+          "DOI": "10.1016/j.ijbiomac.2016.10.045",
+          "article-title": "Important amino acid residues involved in folding and binding of protein– protein complexes",
+          "volume": "94",
+          "year": "2017",
+          "journal-title": "International journal of biological macromolecules"
+        },
+        {
+          "key": "2026100804001239000_2026.09.28.754066v1.23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.sbi.2021.01.008"
+        },
+        {
+          "issue": "7",
+          "key": "2026100804001239000_2026.09.28.754066v1.24",
+          "doi-asserted-by": "crossref",
+          "first-page": "1634",
+          "DOI": "10.51594/csitrj.v5i7.1349",
+          "article-title": "Machine learning software for optimizing sme social media marketing campaigns",
+          "volume": "5",
+          "year": "2024",
+          "journal-title": "Computer Science & IT Research Journal"
+        },
+        {
+          "issue": "10",
+          "key": "2026100804001239000_2026.09.28.754066v1.25",
+          "doi-asserted-by": "crossref",
+          "first-page": "487",
+          "DOI": "10.1038/s10038-024-01231-y",
+          "article-title": "Advances in ai and machine learning for predictive medicine",
+          "volume": "69",
+          "year": "2024",
+          "journal-title": "Journal of Human Genetics"
+        },
+        {
+          "issue": "9",
+          "key": "2026100804001239000_2026.09.28.754066v1.26",
+          "first-page": "1",
+          "article-title": "Computing graph neural networks: A sur- vey from algorithms to accelerators",
+          "volume": "54",
+          "year": "2021",
+          "journal-title": "ACM Computing Surveys (CSUR)"
+        },
+        {
+          "key": "2026100804001239000_2026.09.28.754066v1.27",
+          "doi-asserted-by": "crossref",
+          "first-page": "220",
+          "DOI": "10.1016/j.eswa.2016.12.035",
+          "article-title": "Learning from class- imbalanced data: Review of methods and applications",
+          "volume": "73",
+          "year": "2017",
+          "journal-title": "Expert systems with applications"
+        },
+        {
+          "key": "2026100804001239000_2026.09.28.754066v1.28",
+          "article-title": "Large language model-based augmentation for imbalanced node classification on text-attributed graphs",
+          "year": "2024",
+          "journal-title": "arXiv preprint"
+        },
+        {
+          "key": "2026100804001239000_2026.09.28.754066v1.29",
+          "doi-asserted-by": "crossref",
+          "first-page": "417",
+          "DOI": "10.1016/j.csbj.2020.02.008",
+          "article-title": "Exploring the com- putational methods for protein-ligand binding site pre- diction",
+          "volume": "18",
+          "year": "2020",
+          "journal-title": "Computational and structural biotechnology journal"
+        },
+        {
+          "key": "2026100804001239000_2026.09.28.754066v1.30",
+          "doi-asserted-by": "crossref",
+          "unstructured": "A. Rohulia , Y. Wang , and J. Cheng , “A survey of deep learning methods and tools for protein binding site prediction,” Protein Function Prediction: Methods and Protocols, pp. 89–108, 2025.",
+          "DOI": "10.1007/978-1-0716-4662-5_5"
+        },
+        {
+          "key": "2026100804001239000_2026.09.28.754066v1.31",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/bib/bbab476"
+        },
+        {
+          "key": "2026100804001239000_2026.09.28.754066v1.32",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/bioinformatics/btt447"
+        },
+        {
+          "key": "2026100804001239000_2026.09.28.754066v1.33",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1471-2105-10-1"
+        },
+        {
+          "key": "2026100804001239000_2026.09.28.754066v1.34",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/gkac323"
+        },
+        {
+          "key": "2026100804001239000_2026.09.28.754066v1.35",
+          "doi-asserted-by": "crossref",
+          "unstructured": "L. Polák , P. Škoda , K. Riedlová , R. Krivák , M. Novotný , and D. Hoksza , “Prankweb 4: a modular web server for protein–ligand binding site prediction and downstream analysis,” Nucleic Acids Research, p. gkaf421, 2025.",
+          "DOI": "10.1093/nar/gkaf421"
+        },
+        {
+          "issue": "1",
+          "key": "2026100804001239000_2026.09.28.754066v1.36",
+          "doi-asserted-by": "crossref",
+          "first-page": "66",
+          "DOI": "10.1186/s13321-024-00865-6",
+          "article-title": "Puresnetv2. 0: a deep learning model leveraging sparse representation for improved ligand binding site predic- tion",
+          "volume": "16",
+          "year": "2024",
+          "journal-title": "Journal of Cheminformatics"
+        },
+        {
+          "issue": "13",
+          "key": "2026100804001239000_2026.09.28.754066v1.37",
+          "doi-asserted-by": "crossref",
+          "first-page": "168091",
+          "DOI": "10.1016/j.jmb.2023.168091",
+          "article-title": "Ligbind: identifying binding residues for over 1000 ligands with relation- aware graph neural networks",
+          "volume": "435",
+          "year": "2023",
+          "journal-title": "Journal of Molecular Biology"
+        },
+        {
+          "key": "2026100804001239000_2026.09.28.754066v1.38",
+          "doi-asserted-by": "crossref",
+          "first-page": "1929",
+          "DOI": "10.1016/j.csbj.2024.04.012",
+          "article-title": "Language models can iden- tify enzymatic binding sites in protein sequences",
+          "volume": "23",
+          "year": "2024",
+          "journal-title": "Com- putational and structural biotechnology journal"
+        },
+        {
+          "key": "2026100804001239000_2026.09.28.754066v1.39",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.ade2574"
+        },
+        {
+          "key": "2026100804001239000_2026.09.28.754066v1.40",
+          "doi-asserted-by": "crossref",
+          "unstructured": "C. Wheelus , E. Bou-Harb , and X. Zhu , “Tackling class imbalance in cyber security datasets,” in 2018 IEEE International Conference on Information Reuse and In- tegration (IRI). IEEE, 2018, pp. 229–232.",
+          "DOI": "10.1109/IRI.2018.00041"
+        },
+        {
+          "key": "2026100804001239000_2026.09.28.754066v1.41",
+          "doi-asserted-by": "crossref",
+          "first-page": "64 606",
+          "DOI": "10.1109/ACCESS.2021.3074243",
+          "article-title": "Review of classification methods on unbalanced data sets",
+          "volume": "9",
+          "year": "2021",
+          "journal-title": "Ieee Access"
+        },
+        {
+          "key": "2026100804001239000_2026.09.28.754066v1.42",
+          "doi-asserted-by": "crossref",
+          "unstructured": "N. Japkowicz , “Assessment metrics for imbalanced learn- ing,” Imbalanced learning: Foundations, algorithms, and applications, pp. 187–206, 2013.",
+          "DOI": "10.1002/9781118646106.ch8"
+        },
+        {
+          "key": "2026100804001239000_2026.09.28.754066v1.43",
+          "doi-asserted-by": "crossref",
+          "first-page": "108538",
+          "DOI": "10.1016/j.knosys.2022.108538",
+          "article-title": "A graph neu- ral network-based node classification model on class- imbalanced graph data",
+          "volume": "244",
+          "year": "2022",
+          "journal-title": "Knowledge-Based Systems"
+        },
+        {
+          "key": "2026100804001239000_2026.09.28.754066v1.44",
+          "unstructured": "S. J. Hubbard and J. M. Thornton , “NACCESS: computer program,” Department of Biochemistry and Molecular Biology, University College London, Technical Report, 1993."
+        },
+        {
+          "issue": "Suppl 1",
+          "key": "2026100804001239000_2026.09.28.754066v1.45",
+          "first-page": "S4",
+          "article-title": "Atpsite: sequence-based prediction of atp-binding residues",
+          "volume": "9",
+          "year": "2011",
+          "journal-title": "Pro- teome Science"
+        },
+        {
+          "key": "2026100804001239000_2026.09.28.754066v1.46",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/bioinformatics/btp163"
+        },
+        {
+          "issue": "D1",
+          "key": "2026100804001239000_2026.09.28.754066v1.47",
+          "doi-asserted-by": "crossref",
+          "first-page": "D404",
+          "DOI": "10.1093/nar/gkad630",
+          "article-title": "Biolip2: an updated structure database for biologically relevant ligand–protein interactions",
+          "volume": "52",
+          "year": "2024",
+          "journal-title": "Nucleic acids re- search"
+        },
+        {
+          "key": "2026100804001239000_2026.09.28.754066v1.48",
+          "unstructured": "Z. Yang , W. Cohen , and R. Salakhudinov , “Revisiting semi-supervised learning with graph embeddings,” in International conference on machine learning. PMLR, 2016, pp. 40–48."
+        }
+      ],
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.09.28.754066",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            8
+          ]
+        ],
+        "date-time": "2026-10-08T11:00:26Z",
+        "timestamp": 1791457226000
+      },
+      "score": 48.59572,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.09.28.754066"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            4
+          ]
+        ]
+      },
+      "references-count": 48,
+      "URL": "https://doi.org/10.64898/2026.09.28.754066",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            4
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

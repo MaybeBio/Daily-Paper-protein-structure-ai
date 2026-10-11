@@ -1,0 +1,205 @@
+{
+  "identity": {
+    "pmid": "42839461",
+    "doi": "10.1364/OE.610465",
+    "title": "Kriging-assisted multi-objective optimization in integrated simulation-based space camera support structure design."
+  },
+  "content": {
+    "abstract": "Aiming at the lightweight design problem of a space camera support structure, this paper proposes a Kriging surrogate model-assisted success history-based adaptive multi-objective differential evolution with whale optimization (KA-SHAMODE-WO), with the minimization of structural mass and the relative displacement of the secondary mirror as optimization objectives, and surface figure accuracy and fundamental frequency as constraints. The surrogate model is used to screen the trial vectors generated in each iteration, and only the predicted non-dominated solutions are subsequently evaluated using the integrated simulation model, thereby avoiding expensive finite element evaluations of the remaining solutions. Comparative experiments with five representative optimization algorithms show that the proposed method reduces the computational time by 50.0% while maintaining competitive optimization performance. Compared with the initial design scheme, the final optimized design reduces the relative displacement of the secondary mirror by 11.8% and achieves a lightweight ratio of 10.3% while satisfying all prescribed constraints, which verifies the effectiveness of the proposed algorithm for the multi-objective parametric optimization design of space camera support structures.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Tan, Jiaheng",
+        "Xu, Wei",
+        "Li, Zongxuan",
+        "Ren, Shuhui",
+        "Yong, Qiang"
+      ],
+      "short_names": [
+        "Tan J",
+        "Xu W",
+        "Li Z",
+        "Ren S",
+        "Yong Q"
+      ],
+      "auids": [],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Tan, Jiaheng",
+        "short_name": "Tan J",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Xu, Wei",
+        "short_name": "Xu W",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Li, Zongxuan",
+        "short_name": "Li Z",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Ren, Shuhui",
+        "short_name": "Ren S",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Yong, Qiang",
+        "short_name": "Yong Q",
+        "identifiers": [],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Optics express"
+    ],
+    "journal_abbrev": [
+      "Opt Express"
+    ],
+    "pub_date": "2026 Oct 5",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/07 05:31",
+    "fetched_at": "2026-10-11 08:17:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42839461",
+      "37631772",
+      "37420608",
+      "41991661",
+      "28086895",
+      "28155700",
+      "40805466",
+      "35414048",
+      "41842345",
+      "33983197",
+      "28363342",
+      "42782668",
+      "42505492",
+      "25608076",
+      "37837126",
+      "41471611",
+      "38856618",
+      "37753633",
+      "42289575",
+      "32479190",
+      "42740271",
+      "28158118",
+      "40649533",
+      "33690426",
+      "34832753",
+      "40981918",
+      "42451430",
+      "40731662",
+      "41842030",
+      "42475469",
+      "32751863",
+      "42373905",
+      "41597909",
+      "35088275",
+      "35687633",
+      "39934416",
+      "40389505",
+      "26264008",
+      "41735405",
+      "40942586",
+      "42195430",
+      "39573504",
+      "37980793",
+      "33751821",
+      "41715695",
+      "39354028",
+      "39203621",
+      "38398940",
+      "38542545",
+      "34770547",
+      "37746153",
+      "41201165",
+      "40090931",
+      "39274090",
+      "42225788",
+      "41259400",
+      "40700430",
+      "29047887",
+      "40030415",
+      "38553506",
+      "41565755",
+      "30400468",
+      "40271644",
+      "41589977",
+      "36273025",
+      "29240127",
+      "39194473",
+      "42700613",
+      "40923973",
+      "34205951",
+      "40849576",
+      "35782507",
+      "33448967",
+      "38200367",
+      "31324011",
+      "36364622",
+      "41778815",
+      "42000725",
+      "32609583",
+      "42505519",
+      "42739986",
+      "42645247",
+      "40715511",
+      "41866774",
+      "37985873",
+      "35890936",
+      "31274151",
+      "33206619",
+      "36400811",
+      "40277609",
+      "42478589",
+      "26042856",
+      "42374066",
+      "42832250",
+      "40422129",
+      "41829577",
+      "32893740",
+      "36796183",
+      "34739055",
+      "36471882"
+    ],
+    "review": [
+      "42839461"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://opg.optica.org/abstract.cfm?URI=oe-34-20-37782",
+        "provider": "Optica Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

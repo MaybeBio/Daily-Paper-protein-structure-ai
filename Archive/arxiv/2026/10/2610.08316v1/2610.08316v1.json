@@ -1,0 +1,41 @@
+{
+  "source": "arxiv",
+  "source_id": "2610.08316v1",
+  "title": "MARCO: The Radioactive Watermark for Protein Generative Models",
+  "doi": "",
+  "abstract": "Protein Generative Models (PGMs) have revolutionized structural biology by enabling the design of complex 3D protein structures from sequence data. However, this breakthrough introduces a dual-use challenge, exposing high-value PGMs to economic risks like unauthorized model extraction and biosecurity threats such as biohazard synthesis. To mitigate these threats, we propose \\textbf{MARCO} (\\textsc{COnformation waterMARk}), the first radioactive watermarking framework specifically tailored for PGMs. MARCO establishes a Dual-Layer defense that simultaneously protects intellectual property and ensures the forensic traceability of potential biosecurity misuses. (i) To preserve efficiency, MARCO iteratively embeds watermarks during diffusion reverse denoising via an auxiliary encoder-decoder, allowing the original PGM parameters to remain frozen for broad compatibility. (ii) To preserve biophysical fidelity and maximize robustness, we employ specialized loss functions targeting $C_α$-atom pairwise distances and torsion angles ($ψ, φ$) within an adversarial training framework integrated with stochastic attack simulations. (iii) Crucially, MARCO exhibits ``radioactivity'' where the watermark automatically transfers to the outputs of any pirate models trained on the watermarked data, effectively countering model extraction attacks. Comprehensive experiments demonstrate that MARCO achieves superior fidelity and robustness while successfully validating watermark transferability.",
+  "authors": [
+    "Huajie Chen",
+    "Xin Guo",
+    "Yuchen Shi",
+    "Yuchen Zhong",
+    "Minhui Xue",
+    "Chi Liu",
+    "Congcong Zhu",
+    "Kun Gao",
+    "Minfeng Qi",
+    "Tianqing Zhu"
+  ],
+  "published_date": "2026-10-06T13:18:22Z",
+  "updated_date": "2026-10-06T13:18:22Z",
+  "journal": "",
+  "category": "cs.CR, cs.AI",
+  "landing_url": "https://arxiv.org/abs/2610.08316v1",
+  "pdf_url": "https://arxiv.org/pdf/2610.08316v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cs.CR",
+    "cs.AI"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2610.08316v1",
+    "raw_categories": [
+      "cs.CR",
+      "cs.AI"
+    ],
+    "journal_ref": ""
+  }
+}

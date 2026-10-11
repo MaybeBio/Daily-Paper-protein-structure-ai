@@ -1,0 +1,241 @@
+{
+  "identity": {
+    "pmid": "42849731",
+    "doi": "10.1016/j.jbc.2026.113627",
+    "title": "Systematic mapping of chimera-permissive sites by CRISPR-guided PAM scanning."
+  },
+  "content": {
+    "abstract": "Protein chimeras enable new biological functions by combining otherwise independent protein elements, but identifying insertion sites that preserve host protein function remains largely empirical. Here, we introduce CRISPR-guided protospacer adjacent motif (PAM) scanning, a scalable strategy for mapping chimera-permissive sites directly in living cells. PAM scanning uses CRISPR-addressable positions across coding sequences to systematically install functional payloads and measure insertion tolerance. In yeast, PAM accessibility provided near-comprehensive coverage across proteins of diverse size and function. We first applied this approach across an entire G protein-coupled receptor (GPCR) signaling pathway, generating 91 chimeras containing inserted protease recognition sequences to map insertion tolerance and site-specific biophysical protection from a protease probe by surrounding protein structure and binding partners. Cognate protease cleavage revealed how this protection varied with protease inhibition and size. We then used PAM scanning to identify bi-functional GPCR chimeras that retained receptor signaling while supporting fluorescent or luminescent reporters. Screening human adenosine A2A and melatonin MTNR1A receptors in yeast identified functional mNeonGreen and NanoLuc insertion sites that retained ligand-dependent signaling following translation to human cells. Together, these studies establish PAM scanning as a general framework for mapping insertional tolerance and biophysical protection in living cells, accelerating functional chimera engineering, and experimentally validating generative chimera design.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Pujols, Jacinda",
+        "Lee, Kyutae D",
+        "Kapolka, Nick J",
+        "Taylor, Sam",
+        "Colon, Bruno",
+        "Isom, Daniel G"
+      ],
+      "short_names": [
+        "Pujols J",
+        "Lee KD",
+        "Kapolka NJ",
+        "Taylor S",
+        "Colon B",
+        "Isom DG"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Molecular and Cellular Pharmacology, University of Miami Miller School of Medicine, Miami, FL, 33136, USA; Molecular and Cellular Pharmacology Graduate Program.",
+        "Department of Molecular and Cellular Pharmacology, University of Miami Miller School of Medicine, Miami, FL, 33136, USA; University of Miami Medical Scientist Training Program, University of Miami Miller School of Medicine, Miami, FL 33136, USA; Molecular and Cellular Pharmacology Graduate Program.",
+        "EvE Bio, LLC, Durham, NC.",
+        "Department of Molecular and Cellular Pharmacology, University of Miami Miller School of Medicine, Miami, FL, 33136, USA; The Sheila and David Fuente Graduate Program in Cancer Biology.",
+        "Department of Molecular and Cellular Pharmacology, University of Miami Miller School of Medicine, Miami, FL, 33136, USA; Molecular and Cellular Pharmacology Graduate Program.",
+        "Department of Molecular and Cellular Pharmacology, University of Miami Miller School of Medicine, Miami, FL, 33136, USA; Sylvester Comprehensive Cancer Center, University of Miami Miller School of Medicine, Miami, FL, 33136, USA; Frost Institute for Data Science and Computing, Coral Gables, FL, USA. Electronic address: disom@miami.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Pujols, Jacinda",
+        "short_name": "Pujols J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular and Cellular Pharmacology, University of Miami Miller School of Medicine, Miami, FL, 33136, USA; Molecular and Cellular Pharmacology Graduate Program."
+        ]
+      },
+      {
+        "full_name": "Lee, Kyutae D",
+        "short_name": "Lee KD",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular and Cellular Pharmacology, University of Miami Miller School of Medicine, Miami, FL, 33136, USA; University of Miami Medical Scientist Training Program, University of Miami Miller School of Medicine, Miami, FL 33136, USA; Molecular and Cellular Pharmacology Graduate Program."
+        ]
+      },
+      {
+        "full_name": "Kapolka, Nick J",
+        "short_name": "Kapolka NJ",
+        "identifiers": [],
+        "affiliations": [
+          "EvE Bio, LLC, Durham, NC."
+        ]
+      },
+      {
+        "full_name": "Taylor, Sam",
+        "short_name": "Taylor S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular and Cellular Pharmacology, University of Miami Miller School of Medicine, Miami, FL, 33136, USA; The Sheila and David Fuente Graduate Program in Cancer Biology."
+        ]
+      },
+      {
+        "full_name": "Colon, Bruno",
+        "short_name": "Colon B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular and Cellular Pharmacology, University of Miami Miller School of Medicine, Miami, FL, 33136, USA; Molecular and Cellular Pharmacology Graduate Program."
+        ]
+      },
+      {
+        "full_name": "Isom, Daniel G",
+        "short_name": "Isom DG",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular and Cellular Pharmacology, University of Miami Miller School of Medicine, Miami, FL, 33136, USA; Sylvester Comprehensive Cancer Center, University of Miami Miller School of Medicine, Miami, FL, 33136, USA; Frost Institute for Data Science and Computing, Coral Gables, FL, USA. Electronic address: disom@miami.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The Journal of biological chemistry"
+    ],
+    "journal_abbrev": [
+      "J Biol Chem"
+    ],
+    "pub_date": "2026 Oct 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/08 23:31",
+    "fetched_at": "2026-10-11 08:17:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42849731",
+      "42146543",
+      "42475469",
+      "39829748",
+      "41288355",
+      "32358068",
+      "40004545",
+      "32241913",
+      "31709036",
+      "41629462",
+      "38867016",
+      "40585259",
+      "28781234",
+      "34011687",
+      "39171866",
+      "39929897",
+      "40804123",
+      "40222509",
+      "41495894",
+      "41656299",
+      "32970423",
+      "32539804",
+      "42048304",
+      "29247600",
+      "30109815",
+      "23077276",
+      "25274302",
+      "24748111",
+      "31855381",
+      "39522681",
+      "24476820",
+      "34999179",
+      "29486239",
+      "28448066",
+      "32434907",
+      "27041224",
+      "35258601",
+      "31748409",
+      "37287312",
+      "26098369",
+      "33208517",
+      "33095446",
+      "30076736",
+      "28764328",
+      "37607619",
+      "41217936",
+      "28529507",
+      "40268234",
+      "42342973",
+      "37078688",
+      "33483498",
+      "31648792",
+      "29456189",
+      "40262634",
+      "34588691",
+      "29678950",
+      "37643152",
+      "30397647",
+      "41702403",
+      "30559100",
+      "40146191",
+      "21661720",
+      "42090299",
+      "27916599",
+      "9096223",
+      "23912807",
+      "31797930",
+      "42282737",
+      "27272384",
+      "32027059",
+      "30742841",
+      "26478180",
+      "32400863",
+      "41080446",
+      "27852822",
+      "30718489",
+      "28834159",
+      "25707807",
+      "33684444",
+      "38600752",
+      "37226062",
+      "40663383",
+      "35557039",
+      "34425703",
+      "37058530",
+      "42610742",
+      "26990991",
+      "19641164",
+      "30936372",
+      "35666156",
+      "36076084",
+      "37371538",
+      "39111827",
+      "34406043",
+      "39497074",
+      "42749924",
+      "28666121",
+      "26524662",
+      "25484047",
+      "33014011"
+    ],
+    "review": [
+      "42849731",
+      "33483498",
+      "27916599"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0021-9258(26)02499-3",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3445",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

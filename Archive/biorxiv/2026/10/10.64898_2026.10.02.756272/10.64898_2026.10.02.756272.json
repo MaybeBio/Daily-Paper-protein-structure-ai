@@ -1,0 +1,140 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.02.756272",
+  "title": "β-Hairpin Fold Peptide Brush Polymers",
+  "doi": "10.64898/2026.10.02.756272",
+  "abstract": "<h4>ABSTRACT</h4> Peptide-brush polymers prepared via graft-through polymerization of peptide-based olefinic monomers form Protein-Like Polymers (PLPs) with demonstrated utility as chemical biology tools for modulating intracellular protein–protein interactions and are in development as a emerging class of therapeutic. This favorable bioactivity has been achieved in part by mimicking some of the structural and functional features of proteins, such as their dynamic, globular solution-phase structures, ability to insert into lipid membranes and enter cells, and tendency to enforce α-helicity in peptide side chains. However, because structure leads to function, insight into the structure of these proteomimetic polymers, particularly their overall tertiary structure and the extent to which this influences the brush peptide structure, is incomplete. To further this understanding, we prepared a set of brush polymers incorporating the trpzip2 peptide sequence, commonly used as a model system for protein folding. We examine these polymers via circular dichroism spectroscopy, infrared spectroscopy, and small-angle X-ray scattering, coupled with insights from molecular dynamics simulations. Here, a loss of the β-hairpin structure of the monomer is observed regardless of polymer composition, and simulations corroborate that the polymer backbone destabilizes local secondary structure, restricting peptide motion and altering the accessible free-energy landscape. This study provides insight into design rules governing these synthetic polymer-based proteomimetics.",
+  "authors": [
+    "Oktawiec J",
+    "Nadeem H",
+    "Ebrahim OM",
+    "Chen Y",
+    "Barbut C",
+    "Byrnes J",
+    "Thompson MP",
+    "Shukla D",
+    "Gianneschi NC"
+  ],
+  "published_date": "2026-10-06",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.02.756272",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.02.756272.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1335379",
+    "raw_record": {
+      "id": "PPR1335379",
+      "source": "PPR",
+      "doi": "10.64898/2026.10.02.756272",
+      "title": "β-Hairpin Fold Peptide Brush Polymers",
+      "authorString": "Oktawiec J, Nadeem H, Ebrahim OM, Chen Y, Barbut C, Byrnes J, Thompson MP, Shukla D, Gianneschi NC.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Oktawiec J",
+            "lastName": "Oktawiec",
+            "firstName": "Julia",
+            "initials": "J"
+          },
+          {
+            "fullName": "Nadeem H",
+            "lastName": "Nadeem",
+            "firstName": "Hassan",
+            "initials": "H"
+          },
+          {
+            "fullName": "Ebrahim OM",
+            "lastName": "Ebrahim",
+            "firstName": "Omar",
+            "initials": "OM"
+          },
+          {
+            "fullName": "Chen Y",
+            "lastName": "Chen",
+            "firstName": "Yu",
+            "initials": "Y"
+          },
+          {
+            "fullName": "Barbut C",
+            "lastName": "Barbut",
+            "firstName": "Clara",
+            "initials": "C"
+          },
+          {
+            "fullName": "Byrnes J",
+            "lastName": "Byrnes",
+            "firstName": "James",
+            "initials": "J"
+          },
+          {
+            "fullName": "Thompson MP",
+            "lastName": "Thompson",
+            "firstName": "Matthew",
+            "initials": "MP"
+          },
+          {
+            "fullName": "Shukla D",
+            "lastName": "Shukla",
+            "firstName": "Diwakar",
+            "initials": "D"
+          },
+          {
+            "fullName": "Gianneschi NC",
+            "lastName": "Gianneschi",
+            "firstName": "Nathan",
+            "initials": "NC"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "<h4>ABSTRACT</h4>  Peptide-brush polymers prepared via graft-through polymerization of peptide-based olefinic monomers form Protein-Like Polymers (PLPs) with demonstrated utility as chemical biology tools for modulating intracellular protein–protein interactions and are in development as a emerging class of therapeutic. This favorable bioactivity has been achieved in part by mimicking some of the structural and functional features of proteins, such as their dynamic, globular solution-phase structures, ability to insert into lipid membranes and enter cells, and tendency to enforce α-helicity in peptide side chains. However, because structure leads to function, insight into the structure of these proteomimetic polymers, particularly their overall tertiary structure and the extent to which this influences the brush peptide structure, is incomplete. To further this understanding, we prepared a set of brush polymers incorporating the trpzip2 peptide sequence, commonly used as a model system for protein folding. We examine these polymers via circular dichroism spectroscopy, infrared spectroscopy, and small-angle X-ray scattering, coupled with insights from molecular dynamics simulations. Here, a loss of the β-hairpin structure of the monomer is observed regardless of polymer composition, and simulations corroborate that the polymer backbone destabilizes local secondary structure, restricting peptide motion and altering the accessible free-energy landscape. This study provides insight into design rules governing these synthetic polymer-based proteomimetics.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.10.02.756272"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-10-07",
+      "firstPublicationDate": "2026-10-06",
+      "firstIndexDate": "2026-10-07",
+      "hasEvaluations": "N"
+    }
+  }
+}
