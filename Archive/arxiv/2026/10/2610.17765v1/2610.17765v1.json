@@ -1,0 +1,43 @@
+{
+  "source": "arxiv",
+  "source_id": "2610.17765v1",
+  "title": "PROTEAN: Beyond De Novo Generation - Can LLM Agents Perform Text-Guided Protein Structure Editing?",
+  "doi": "",
+  "abstract": "Generative AI has achieved remarkable success in de novo protein design, yet protein engineering typically begins with existing, characterized proteins. The primary demand is targeted local editing, e.g., engineering a specific region to optimize affinity, alter immunogenicity, or improve stability, while strictly preserving core catalytic motifs and overall scaffold integrity. However, no standardized framework currently exists for carrying out and evaluating such edits. In current generative-design workflows, researchers often need to manually specify complex low-level parameters and rely on repetitive, trial-and-error sampling and evaluation across generative backends to search for viable conformations. While large language models (LLMs) offer an intuitive interface to express these goals using natural language, prevailing structure-generation models cannot directly interpret high-level human instructions. To bridge this gap, we introduce PROTEAN, a standardized benchmark for text-guided protein structural editing. PROTEAN comprises 380 sub-tasks spanning six intervention families and evaluates a two-stage pipeline in which an LLM translates natural-language goals into backend-specific geometric constraints and a generative model remodels the protein backbone. A two-tier evaluation separates geometric compliance, including target attainment and off-target scope fidelity, from biophysical realizability assessed by inverse folding and refolding consistency. Across five frontier LLMs paired with three backends, strict end-to-end biophysical success starts at just 7.0%. Ablation studies show that LLM constraint compilation is already highly accurate, whereas the main bottlenecks are backend-specific scope leakage and refolding failure. PROTEAN provides an open testbed for developing autonomous, multi-backend macromolecular design agents.",
+  "authors": [
+    "Encheng Su",
+    "Xinping Liu",
+    "Yizhou Wang",
+    "Bozitao Zhong",
+    "Pengze Li",
+    "Jianyu Wu",
+    "Mingxiao Li",
+    "Xinzhu Ma",
+    "Aoran Wang",
+    "Liang Hong",
+    "Wanli Ouyang",
+    "Chen Tang",
+    "Houqiang Li",
+    "Shixiang Tang"
+  ],
+  "published_date": "2026-10-13T05:48:39Z",
+  "updated_date": "2026-10-13T05:48:39Z",
+  "journal": "",
+  "category": "cs.CE",
+  "landing_url": "https://arxiv.org/abs/2610.17765v1",
+  "pdf_url": "https://arxiv.org/pdf/2610.17765v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cs.CE"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2610.17765v1",
+    "raw_categories": [
+      "cs.CE"
+    ],
+    "journal_ref": ""
+  }
+}

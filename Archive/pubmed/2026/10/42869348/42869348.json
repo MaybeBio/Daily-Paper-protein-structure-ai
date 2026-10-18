@@ -1,0 +1,161 @@
+{
+  "identity": {
+    "pmid": "42869348",
+    "doi": "10.1016/j.ijbiomac.2026.154833",
+    "title": "Complexation of soybean beta-conglycinin and glycinin with phytic acid: Molecular insights and effects on structural and digestive properties."
+  },
+  "content": {
+    "abstract": "This study investigated the complexation of phytic acid (PA) with soybean beta-conglycinin (7S) and glycinin (11S) and its effects on protein structure and digestibility. Complex formation was most pronounced near pH 3.0, accompanied by decreased solubility and enhanced aggregation. PA binding reduced beta-sheet content from 36.0% to 31.4% in 7S and from 37.3% to 35.1% in 11S, indicating conformational rearrangement. During simulated gastric digestion, hydrolysis decreased from 10.59% to 7.42% for 7S and from 9.93% to 6.92% for 11S, whereas hydrolysis increased during subsequent intestinal digestion. Molecular docking and molecular dynamics simulations provided theoretical support for interpreting the experimental observations, suggesting contributions from electrostatic interactions and hydrogen bonding, with more extensive contacts predicted for PA-11S. Isothermal titration calorimetry confirmed a higher affinity of PA for 11S, with dissociation constants of 12.3 muM for 11S and 32.5 muM for 7S. At pH 3.0 and 37  degrees C, binding was enthalpically and entropically favorable for 7S but enthalpy-driven for 11S. These findings provide molecular insights into PA-soy protein interactions and their implications for protein hydrolysis during simulated gastrointestinal digestion.",
+    "keywords": [
+      "Complexation",
+      "Glycinin",
+      "Interaction",
+      "Phytic acid",
+      "beta-Conglycinin"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Yujiao",
+        "Fei, Chengxin",
+        "Zhao, Ruojie",
+        "Dai, Oujun",
+        "Deng, Zhixiong",
+        "Fan, Bei",
+        "Wang, Fengzhong",
+        "Huang, Yatao"
+      ],
+      "short_names": [
+        "Zhang Y",
+        "Fei C",
+        "Zhao R",
+        "Dai O",
+        "Deng Z",
+        "Fan B",
+        "Wang F",
+        "Huang Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Institute of Food Science and Technology, Chinese Academy of Agricultural Sciences/Key Laboratory of Agro-Products Processing, Ministry of Agriculture, Beijing, 100193, China.",
+        "Institute of Food Science and Technology, Chinese Academy of Agricultural Sciences/Key Laboratory of Agro-Products Processing, Ministry of Agriculture, Beijing, 100193, China.",
+        "Institute of Food Science and Technology, Chinese Academy of Agricultural Sciences/Key Laboratory of Agro-Products Processing, Ministry of Agriculture, Beijing, 100193, China.",
+        "Institute of Food Science and Technology, Chinese Academy of Agricultural Sciences/Key Laboratory of Agro-Products Processing, Ministry of Agriculture, Beijing, 100193, China.",
+        "Institute of Food Science and Technology, Chinese Academy of Agricultural Sciences/Key Laboratory of Agro-Products Processing, Ministry of Agriculture, Beijing, 100193, China.",
+        "Institute of Food Science and Technology, Chinese Academy of Agricultural Sciences/Key Laboratory of Agro-Products Processing, Ministry of Agriculture, Beijing, 100193, China.",
+        "Institute of Food Science and Technology, Chinese Academy of Agricultural Sciences/Key Laboratory of Agro-Products Processing, Ministry of Agriculture, Beijing, 100193, China; Institute of Western Agriculture, the Chinese Academy of Agricultural Sciences/Xinjiang Engineering Technology Research Center for Exploration and Quality Evaluation of Characteristic Agricultural and Livestock Product Resources, Changji, 831100, China. Electronic address: wangfengzhong@sina.com.",
+        "Institute of Food Science and Technology, Chinese Academy of Agricultural Sciences/Key Laboratory of Agro-Products Processing, Ministry of Agriculture, Beijing, 100193, China; Institute of Western Agriculture, the Chinese Academy of Agricultural Sciences/Xinjiang Engineering Technology Research Center for Exploration and Quality Evaluation of Characteristic Agricultural and Livestock Product Resources, Changji, 831100, China. Electronic address: huangyatao@caas.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Yujiao",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Food Science and Technology, Chinese Academy of Agricultural Sciences/Key Laboratory of Agro-Products Processing, Ministry of Agriculture, Beijing, 100193, China."
+        ]
+      },
+      {
+        "full_name": "Fei, Chengxin",
+        "short_name": "Fei C",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Food Science and Technology, Chinese Academy of Agricultural Sciences/Key Laboratory of Agro-Products Processing, Ministry of Agriculture, Beijing, 100193, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Ruojie",
+        "short_name": "Zhao R",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Food Science and Technology, Chinese Academy of Agricultural Sciences/Key Laboratory of Agro-Products Processing, Ministry of Agriculture, Beijing, 100193, China."
+        ]
+      },
+      {
+        "full_name": "Dai, Oujun",
+        "short_name": "Dai O",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Food Science and Technology, Chinese Academy of Agricultural Sciences/Key Laboratory of Agro-Products Processing, Ministry of Agriculture, Beijing, 100193, China."
+        ]
+      },
+      {
+        "full_name": "Deng, Zhixiong",
+        "short_name": "Deng Z",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Food Science and Technology, Chinese Academy of Agricultural Sciences/Key Laboratory of Agro-Products Processing, Ministry of Agriculture, Beijing, 100193, China."
+        ]
+      },
+      {
+        "full_name": "Fan, Bei",
+        "short_name": "Fan B",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Food Science and Technology, Chinese Academy of Agricultural Sciences/Key Laboratory of Agro-Products Processing, Ministry of Agriculture, Beijing, 100193, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Fengzhong",
+        "short_name": "Wang F",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Food Science and Technology, Chinese Academy of Agricultural Sciences/Key Laboratory of Agro-Products Processing, Ministry of Agriculture, Beijing, 100193, China; Institute of Western Agriculture, the Chinese Academy of Agricultural Sciences/Xinjiang Engineering Technology Research Center for Exploration and Quality Evaluation of Characteristic Agricultural and Livestock Product Resources, Changji, 831100, China. Electronic address: wangfengzhong@sina.com."
+        ]
+      },
+      {
+        "full_name": "Huang, Yatao",
+        "short_name": "Huang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Food Science and Technology, Chinese Academy of Agricultural Sciences/Key Laboratory of Agro-Products Processing, Ministry of Agriculture, Beijing, 100193, China; Institute of Western Agriculture, the Chinese Academy of Agricultural Sciences/Xinjiang Engineering Technology Research Center for Exploration and Quality Evaluation of Characteristic Agricultural and Livestock Product Resources, Changji, 831100, China. Electronic address: huangyatao@caas.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of biological macromolecules"
+    ],
+    "journal_abbrev": [
+      "Int J Biol Macromol"
+    ],
+    "pub_date": "2026 Oct 13",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/13 23:36",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42869348"
+    ],
+    "review": [
+      "42869348"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0141-8130(26)04783-5",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

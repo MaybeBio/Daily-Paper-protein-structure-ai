@@ -1,0 +1,319 @@
+{
+  "identity": {
+    "pmid": "42860403",
+    "doi": "10.1038/s41467-026-77559-0",
+    "title": "Stress-induced membrane insertion at the beta-barrel assembly machinery complex regulates BepA metalloprotease activity."
+  },
+  "content": {
+    "abstract": "Proteases must be tightly regulated to prevent uncontrolled degradation, yet the mechanisms ensuring such control remain poorly understood. Members of the widespread M48 metalloprotease family are kept inactive by an autoinhibitory plug that blocks catalytic water activation, but how this plug is released remained elusive. Here, using genetic, biochemical and cryo-EM approaches, we discover the activation mechanism of BepA, a quality-control protease that preserves outer membrane integrity by surveilling the beta-barrel assembly machinery (BAM) in Gram-negative bacteria. Our cryo-EM analysis of BepA engaged with a stalled BAM-substrate assembly complex revealed that a flexible, unstructured alpha6-lid covering the active site in the latent protein functions as a molecular harpoon, inserting into the outer membrane when a substrate stalls at BAM and thereby docking BepA at the complex. This membrane anchoring promotes displacement of the autoinhibitory plug and unlocks protease activity precisely where and when it is needed. Thus, a dual enzyme activation mechanism is coupled to membrane association under stress, ensuring that BepA remains inactive until properly localized. Our findings reveal how membranes themselves can license protease activation, a principle that may extend beyond M48 metalloproteases.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Metalloproteases/metabolism/genetics/chemistry",
+      "*Bacterial Outer Membrane Proteins/metabolism/genetics/chemistry",
+      "Cryoelectron Microscopy",
+      "*Escherichia coli Proteins/metabolism/genetics/chemistry",
+      "*Escherichia coli/metabolism/genetics",
+      "Catalytic Domain",
+      "Models, Molecular",
+      "Stress, Physiological",
+      "Cell Membrane/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Voedts, Henri",
+        "Nguyen, Phuong Chi",
+        "Nguyen, Van Son",
+        "Leverrier, Pauline",
+        "Iorga, Bogdan I",
+        "Cho, Seung Hyun",
+        "Remaut, Han",
+        "Collet, Jean-Francois"
+      ],
+      "short_names": [
+        "Voedts H",
+        "Nguyen PC",
+        "Nguyen VS",
+        "Leverrier P",
+        "Iorga BI",
+        "Cho SH",
+        "Remaut H",
+        "Collet JF"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-1243-1196",
+        "ORCID: 0000-0002-3079-2016",
+        "ORCID: 0000-0003-2465-8491",
+        "ORCID: 0000-0003-0392-1350",
+        "ORCID: 0000-0002-5548-4239",
+        "ORCID: 0000-0002-9775-4102",
+        "ORCID: 0000-0001-8069-7036"
+      ],
+      "affiliations": [
+        "WELBIO department, WEL Research Institute, avenue Pasteur 6, 1300, Wavre, Belgium.",
+        "de Duve Institute, Universite catholique de Louvain (UCLouvain), Avenue Hippocrate 75, 1200, Brussels, Belgium.",
+        "WELBIO department, WEL Research Institute, avenue Pasteur 6, 1300, Wavre, Belgium.",
+        "de Duve Institute, Universite catholique de Louvain (UCLouvain), Avenue Hippocrate 75, 1200, Brussels, Belgium.",
+        "Structural Biology Brussels, Vrije Universiteit Brussel, 1050, Brussels, Belgium.",
+        "Structural and Molecular Microbiology, Structural Biology Research Center, VIB, 1050, Brussels, Belgium.",
+        "WELBIO department, WEL Research Institute, avenue Pasteur 6, 1300, Wavre, Belgium.",
+        "de Duve Institute, Universite catholique de Louvain (UCLouvain), Avenue Hippocrate 75, 1200, Brussels, Belgium.",
+        "Universite Paris-Saclay, CNRS UPR 2301, Institut de Chimie des Substances Naturelles, 91198, Gif-sur-Yvette, France.",
+        "WELBIO department, WEL Research Institute, avenue Pasteur 6, 1300, Wavre, Belgium. seung.cho@uclouvain.be.",
+        "de Duve Institute, Universite catholique de Louvain (UCLouvain), Avenue Hippocrate 75, 1200, Brussels, Belgium. seung.cho@uclouvain.be.",
+        "Structural Biology Brussels, Vrije Universiteit Brussel, 1050, Brussels, Belgium. han.remaut@vub.be.",
+        "Structural and Molecular Microbiology, Structural Biology Research Center, VIB, 1050, Brussels, Belgium. han.remaut@vub.be.",
+        "WELBIO department, WEL Research Institute, avenue Pasteur 6, 1300, Wavre, Belgium. jfcollet@uclouvain.be.",
+        "de Duve Institute, Universite catholique de Louvain (UCLouvain), Avenue Hippocrate 75, 1200, Brussels, Belgium. jfcollet@uclouvain.be."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Voedts, Henri",
+        "short_name": "Voedts H",
+        "identifiers": [
+          "0000-0002-1243-1196"
+        ],
+        "affiliations": [
+          "WELBIO department, WEL Research Institute, avenue Pasteur 6, 1300, Wavre, Belgium.",
+          "de Duve Institute, Université catholique de Louvain (UCLouvain), Avenue Hippocrate 75, 1200, Brussels, Belgium."
+        ]
+      },
+      {
+        "full_name": "Nguyen, Phuong Chi",
+        "short_name": "Nguyen PC",
+        "identifiers": [],
+        "affiliations": [
+          "WELBIO department, WEL Research Institute, avenue Pasteur 6, 1300, Wavre, Belgium.",
+          "de Duve Institute, Université catholique de Louvain (UCLouvain), Avenue Hippocrate 75, 1200, Brussels, Belgium."
+        ]
+      },
+      {
+        "full_name": "Nguyen, Van Son",
+        "short_name": "Nguyen VS",
+        "identifiers": [
+          "0000-0002-3079-2016"
+        ],
+        "affiliations": [
+          "Structural Biology Brussels, Vrije Universiteit Brussel, 1050, Brussels, Belgium.",
+          "Structural and Molecular Microbiology, Structural Biology Research Center, VIB, 1050, Brussels, Belgium."
+        ]
+      },
+      {
+        "full_name": "Leverrier, Pauline",
+        "short_name": "Leverrier P",
+        "identifiers": [
+          "0000-0003-2465-8491"
+        ],
+        "affiliations": [
+          "WELBIO department, WEL Research Institute, avenue Pasteur 6, 1300, Wavre, Belgium.",
+          "de Duve Institute, Université catholique de Louvain (UCLouvain), Avenue Hippocrate 75, 1200, Brussels, Belgium."
+        ]
+      },
+      {
+        "full_name": "Iorga, Bogdan I",
+        "short_name": "Iorga BI",
+        "identifiers": [
+          "0000-0003-0392-1350"
+        ],
+        "affiliations": [
+          "Université Paris-Saclay, CNRS UPR 2301, Institut de Chimie des Substances Naturelles, 91198, Gif-sur-Yvette, France."
+        ]
+      },
+      {
+        "full_name": "Cho, Seung Hyun",
+        "short_name": "Cho SH",
+        "identifiers": [
+          "0000-0002-5548-4239"
+        ],
+        "affiliations": [
+          "WELBIO department, WEL Research Institute, avenue Pasteur 6, 1300, Wavre, Belgium. seung.cho@uclouvain.be.",
+          "de Duve Institute, Université catholique de Louvain (UCLouvain), Avenue Hippocrate 75, 1200, Brussels, Belgium. seung.cho@uclouvain.be."
+        ]
+      },
+      {
+        "full_name": "Remaut, Han",
+        "short_name": "Remaut H",
+        "identifiers": [
+          "0000-0002-9775-4102"
+        ],
+        "affiliations": [
+          "Structural Biology Brussels, Vrije Universiteit Brussel, 1050, Brussels, Belgium. han.remaut@vub.be.",
+          "Structural and Molecular Microbiology, Structural Biology Research Center, VIB, 1050, Brussels, Belgium. han.remaut@vub.be."
+        ]
+      },
+      {
+        "full_name": "Collet, Jean-François",
+        "short_name": "Collet JF",
+        "identifiers": [
+          "0000-0001-8069-7036"
+        ],
+        "affiliations": [
+          "WELBIO department, WEL Research Institute, avenue Pasteur 6, 1300, Wavre, Belgium. jfcollet@uclouvain.be.",
+          "de Duve Institute, Université catholique de Louvain (UCLouvain), Avenue Hippocrate 75, 1200, Brussels, Belgium. jfcollet@uclouvain.be."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Sep 9",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/12 05:32",
+    "fetched_at": "2026-10-18 06:57:52"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42860403",
+      "33106348",
+      "34463613",
+      "42426009",
+      "24003122",
+      "28960545",
+      "33093205",
+      "30521812",
+      "28784813",
+      "42697891",
+      "34880256",
+      "28760846",
+      "29311257",
+      "42160346",
+      "30322857",
+      "31724945",
+      "33947759",
+      "41926538",
+      "39218969",
+      "32817097",
+      "28974626",
+      "27161117",
+      "32572278",
+      "39976443",
+      "41044071",
+      "35294859",
+      "31350400",
+      "27439868",
+      "40823823",
+      "30107065",
+      "27298319",
+      "34969846",
+      "38226797",
+      "19815580",
+      "40674207",
+      "27332128",
+      "40184469",
+      "29847806",
+      "37196764",
+      "29084860",
+      "21236263",
+      "41247015",
+      "37100902",
+      "40009668",
+      "29861346",
+      "34829983",
+      "30858299",
+      "27450425",
+      "30297837",
+      "26427672",
+      "29463713",
+      "41034578",
+      "28919234",
+      "31113900",
+      "22753067",
+      "31113901",
+      "28569500",
+      "21257904",
+      "26394056",
+      "33673366",
+      "26901871",
+      "17186377",
+      "21823654",
+      "22846061",
+      "23995689",
+      "31138744",
+      "38478289",
+      "29101319",
+      "34399610",
+      "25943387",
+      "41439703",
+      "19182809",
+      "38728831",
+      "21168416",
+      "19383696",
+      "26744406",
+      "37175168",
+      "32602996",
+      "26427683",
+      "30903618",
+      "24792419",
+      "30869065",
+      "27862971",
+      "32675245",
+      "17071751",
+      "20598079",
+      "34349021",
+      "22683355",
+      "26427684",
+      "21370981",
+      "23479609",
+      "28216659",
+      "32380170",
+      "27903652",
+      "32165713",
+      "24980798",
+      "32528179",
+      "24619089",
+      "28223520",
+      "25976323"
+    ],
+    "review": [
+      "42860403",
+      "21236263",
+      "27450425",
+      "26427672",
+      "17186377",
+      "19182809",
+      "38728831",
+      "37175168",
+      "30869065",
+      "27862971",
+      "21370981"
+    ],
+    "pmc": [
+      "13655028"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-77559-0",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1006",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

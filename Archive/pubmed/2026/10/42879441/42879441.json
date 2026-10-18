@@ -1,0 +1,126 @@
+{
+  "identity": {
+    "pmid": "42879441",
+    "doi": "10.1371/journal.pone.0345201",
+    "title": "Structure-based computational prioritization of Emodin-8-glucoside as a candidate ligand for the VEGFR1 kinase domain in the context of placenta previa."
+  },
+  "content": {
+    "abstract": "Placenta previa is a serious obstetric condition associated with abnormal placental implantation and hemorrhagic complications, for which no targeted pharmacological therapy is established. This study applied an integrated structure-based computational workflow to explore the intracellular VEGFR1 kinase domain as a candidate molecular target. Twenty-one phytochemicals were screened using AutoDock Vina and MOE, with Emodin-8-glucoside consistently prioritized among the highest-ranked compounds. Redocking of the co-crystallized ligand 8ST reproduced its experimental pose with a heavy-atom RMSD of 1.465 A. Comparative 500 ns molecular dynamics simulations showed persistent binding-site association of Emodin-8-glucoside and the 8ST control. End-point energy estimates were method dependent, with MM-GBSA yielding a negative mean estimate while MM-PBSA yielded a near-zero estimate with substantial variability. DFT analysis produced a HOMO-LUMO gap of 0.13204 Hartree (approximately 3.59 eV). SwissADME and ProTox 3.0 identified low gastrointestinal absorption, P-glycoprotein substrate behavior, high polarity, and several predicted toxicity liabilities. Overall, Emodin-8-glucoside represents an in-silico-prioritized exploratory candidate requiring biochemical, selectivity, placental-cell, and pregnancy-safety validation.",
+    "keywords": [],
+    "mesh_terms": [
+      "Ligands",
+      "*Glucosides/chemistry/metabolism/pharmacology",
+      "*Emodin/chemistry/analogs & derivatives/pharmacology/metabolism",
+      "Molecular Dynamics Simulation",
+      "Female",
+      "Pregnancy",
+      "Humans",
+      "*Vascular Endothelial Growth Factor Receptor-1/chemistry/metabolism",
+      "Binding Sites",
+      "Molecular Docking Simulation",
+      "Protein Domains",
+      "Placenta"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Inan, Deniz",
+        "Karagecili, Sinan",
+        "Ali, Nouman"
+      ],
+      "short_names": [
+        "Inan D",
+        "Karagecili S",
+        "Ali N"
+      ],
+      "auids": [
+        "ORCID: 0009-0001-1979-7166"
+      ],
+      "affiliations": [
+        "Ozel Nev Hospital, Sanliurfa, Turkiye.",
+        "Ozel Nev Hospital, Sanliurfa, Turkiye.",
+        "Department of Molecular Biosciences, Faculty of Physical and Biological Sciences, Rashid Latif Khan University, Lahore, Punjab, Pakistan."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Inan, Deniz",
+        "short_name": "Inan D",
+        "identifiers": [],
+        "affiliations": [
+          "Özel Nev Hospital, Sanlıurfa, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Karageçili, Sinan",
+        "short_name": "Karageçili S",
+        "identifiers": [],
+        "affiliations": [
+          "Özel Nev Hospital, Sanlıurfa, Türkiye."
+        ]
+      },
+      {
+        "full_name": "Ali, Nouman",
+        "short_name": "Ali N",
+        "identifiers": [
+          "0009-0001-1979-7166"
+        ],
+        "affiliations": [
+          "Department of Molecular Biosciences, Faculty of Physical and Biological Sciences, Rashid Latif Khan University, Lahore, Punjab, Pakistan."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "PloS one"
+    ],
+    "journal_abbrev": [
+      "PLoS One"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/15 23:30",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42879441"
+    ],
+    "review": [
+      "42879441"
+    ],
+    "pmc": [
+      "13671540"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://dx.plos.org/10.1371/journal.pone.0345201",
+        "provider": "Public Library of Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-76",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

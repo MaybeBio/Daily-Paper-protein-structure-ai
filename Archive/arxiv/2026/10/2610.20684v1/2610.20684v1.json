@@ -1,0 +1,39 @@
+{
+  "source": "arxiv",
+  "source_id": "2610.20684v1",
+  "title": "Learning Topology-Aware Representations for Mechanics-Relevant TPMS Metamaterials",
+  "doi": "",
+  "abstract": "Learning informative representations of mechanical Triply Periodic Minimal Surface (TPMS) metamaterials is important for mechanics analysis and structural design, yet existing methods have rarely explicitly supervised learned representations with information about global structural connectivity that is relevant to mechanical response. We propose a topology-aware representation learning framework that integrates persistent homology into a DMAE backbone to explicitly encode global structural connectivity. A persistence-guided masking strategy prioritizes patches associated with persistent topological features, while an auxiliary persistent-homology decoder encourages the latent representation to retain information about topological feature counts across connected components, tunnels, and voids. We evaluate the learned representations on two complementary TPMS datasets using family classification, mechanical-property classification, unsupervised clustering, and regression. Across the two datasets, our method demonstrates strong performance in both structural family and mechanical-property classification, improving family classification by up to 3.9% while achieving the best linear-probe performance. More notably, unsupervised property-clustering performance improves by up to 26.7% and 51.5% across the two datasets, while strong regression performance is retained with $R^2=0.993$. These results establish persistent topology as an effective inductive bias for representation learning of complex three-dimensional mechanical metamaterials.",
+  "authors": [
+    "Songlin Duan",
+    "Shuo Yang",
+    "Yujia Zheng",
+    "Tobin Filleter"
+  ],
+  "published_date": "2026-10-14T16:38:20Z",
+  "updated_date": "2026-10-14T16:38:20Z",
+  "journal": "",
+  "category": "cs.LG, cs.CE, cs.CV, stat.ML",
+  "landing_url": "https://arxiv.org/abs/2610.20684v1",
+  "pdf_url": "https://arxiv.org/pdf/2610.20684v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cs.LG",
+    "cs.CE",
+    "cs.CV",
+    "stat.ML"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2610.20684v1",
+    "raw_categories": [
+      "cs.LG",
+      "cs.CE",
+      "cs.CV",
+      "stat.ML"
+    ],
+    "journal_ref": ""
+  }
+}

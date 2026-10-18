@@ -1,0 +1,135 @@
+{
+  "identity": {
+    "pmid": "42875434",
+    "doi": "10.1038/s41467-026-77612-y",
+    "title": "Predicting phase transitions across temperature, pressure, and chemical potential using exponentially tilted thermodynamic maps."
+  },
+  "content": {
+    "abstract": "Predicting and characterizing phase transitions is crucial for understanding generic physical phenomena such as crystallization, protein folding, and others. However, directly observing phase transitions is not always easy, and we often have limited observations far from the phase boundary, measured under specific thermodynamic conditions. In this study, we propose a statistical-physics- and generative-AI-driven framework that uses such limited information to generate samples of different phases under arbitrary thermodynamic conditions, which we call Exponentially Tilted Thermodynamic Maps (expTM). The central idea is to map collected data into a simple, tractable prior expressed as an exponentially tilted Gaussian. We demonstrate how the variance and mean of the prior can be correlated with pairs of thermodynamic control variables, including temperature, pressure, and chemical potential. This gives us the ability to generate thermodynamically correct samples under any values of the control variables. To demonstrate the practical applicability of this approach, we use expTM to sample a lattice gas model with the grand canonical ensemble, capturing phase transitions under varying chemical potentials and temperatures. We further demonstrate how expTM can model the isothermal-isobaric ensemble, with which we predict different phases of CO(2) under varying pressure conditions. Both examples are trained on very limited data far from the phase boundary. These results establish expTM as a robust tool for understanding phase transitions across diverse thermodynamic conditions requiring only a small number of observations.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Lee, Suemin",
+        "Wang, Ruiyu",
+        "Herron, Lukas",
+        "Tiwary, Pratyush"
+      ],
+      "short_names": [
+        "Lee S",
+        "Wang R",
+        "Herron L",
+        "Tiwary P"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-1608-140X",
+        "ORCID: 0000-0002-2412-6922"
+      ],
+      "affiliations": [
+        "Biophysics Program, Institute for Physical Science and Technology, University of Maryland, College Park, MD, USA.",
+        "University of Maryland Institute for Health Computing, Bethesda, MD, USA.",
+        "Institute for Physical Science and Technology, University of Maryland, College Park, MD, USA.",
+        "Biophysics Program, Institute for Physical Science and Technology, University of Maryland, College Park, MD, USA.",
+        "University of Maryland Institute for Health Computing, Bethesda, MD, USA.",
+        "Biophysics Program, Institute for Physical Science and Technology, University of Maryland, College Park, MD, USA. ptiwary@umd.edu.",
+        "University of Maryland Institute for Health Computing, Bethesda, MD, USA. ptiwary@umd.edu.",
+        "Department of Chemistry and Biochemistry, University of Maryland, College Park, MD, USA. ptiwary@umd.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Lee, Suemin",
+        "short_name": "Lee S",
+        "identifiers": [],
+        "affiliations": [
+          "Biophysics Program, Institute for Physical Science and Technology, University of Maryland, College Park, MD, USA.",
+          "University of Maryland Institute for Health Computing, Bethesda, MD, USA."
+        ]
+      },
+      {
+        "full_name": "Wang, Ruiyu",
+        "short_name": "Wang R",
+        "identifiers": [
+          "0000-0003-1608-140X"
+        ],
+        "affiliations": [
+          "Institute for Physical Science and Technology, University of Maryland, College Park, MD, USA."
+        ]
+      },
+      {
+        "full_name": "Herron, Lukas",
+        "short_name": "Herron L",
+        "identifiers": [],
+        "affiliations": [
+          "Biophysics Program, Institute for Physical Science and Technology, University of Maryland, College Park, MD, USA.",
+          "University of Maryland Institute for Health Computing, Bethesda, MD, USA."
+        ]
+      },
+      {
+        "full_name": "Tiwary, Pratyush",
+        "short_name": "Tiwary P",
+        "identifiers": [
+          "0000-0002-2412-6922"
+        ],
+        "affiliations": [
+          "Biophysics Program, Institute for Physical Science and Technology, University of Maryland, College Park, MD, USA. ptiwary@umd.edu.",
+          "University of Maryland Institute for Health Computing, Bethesda, MD, USA. ptiwary@umd.edu.",
+          "Department of Chemistry and Biochemistry, University of Maryland, College Park, MD, USA. ptiwary@umd.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Sep 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/15 07:18",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42875434"
+    ],
+    "review": [
+      "42875434"
+    ],
+    "pmc": [
+      "13669307"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-77612-y",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3993",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

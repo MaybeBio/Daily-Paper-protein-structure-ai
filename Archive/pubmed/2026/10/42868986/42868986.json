@@ -1,0 +1,107 @@
+{
+  "identity": {
+    "pmid": "42868986",
+    "doi": "10.1016/j.jmgm.2026.109614",
+    "title": "Protein interactions with small molecules, peptides and proteins share residue cluster classes."
+  },
+  "content": {
+    "abstract": "Macromolecular interactions with small molecules, peptides, and proteins are fundamental to cellular function. Despite intensive efforts to identify small-molecule modulators of protein-protein interactions (PPIs), successfully targeted interfaces remain rare, reinforcing the premise that binding sites across these molecular scale regimes possess distinct structural architectures. We previously demonstrated that the densest topological regions of protein structures, categorized as a collection of Residue Cluster Classes (cRCC), can effectively classify global protein folds and PPI. Here, we leverage the cRCC framework to train machine learning models to classify peptide-protein interactions. The top-performing algorithms achieved near 100% classification accuracy, with minimal overfitting (<2%). To ensure model generalizability, these optimized algorithms were cross-tested on independent datasets to identify both protein-protein and protein-small-molecule interfaces, maintaining a 95% average success rate and validating the robust predictive reliability of our approach. Collectively, these findings show that cRCC constitute intensive structural properties of protein interfaces, remaining invariant to the molecular weight of the interacting partner. Consequently, this framework provides a novel computational strategy to prioritize druggable PPI targets for small-molecule discovery and guide the rational design of synthetic protein interfaces.",
+    "keywords": [
+      "Machine learning",
+      "Maximal cliques",
+      "Protein structure",
+      "Protein-peptide interaction",
+      "Protein-small-molecule interaction",
+      "Protein‒protein interaction"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Hernandez Castillo, Juan Martin",
+        "Vilchis Macias, Erik Hazel",
+        "Del Rio, Gabriel"
+      ],
+      "short_names": [
+        "Hernandez Castillo JM",
+        "Vilchis Macias EH",
+        "Del Rio G"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Biochemistry and Structural Biology, Instituto de Fisiologia Celular, UNAM, Mexico City, 04510, Mexico.",
+        "Department of Biochemistry and Structural Biology, Instituto de Fisiologia Celular, UNAM, Mexico City, 04510, Mexico.",
+        "Department of Biochemistry and Structural Biology, Instituto de Fisiologia Celular, UNAM, Mexico City, 04510, Mexico. Electronic address: gdelrio@ifc.unam.mx."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Hernández Castillo, Juan Martín",
+        "short_name": "Hernández Castillo JM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Structural Biology, Instituto de Fisiologia Celular, UNAM, Mexico City, 04510, Mexico."
+        ]
+      },
+      {
+        "full_name": "Vilchis Macias, Erik Hazel",
+        "short_name": "Vilchis Macias EH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Structural Biology, Instituto de Fisiologia Celular, UNAM, Mexico City, 04510, Mexico."
+        ]
+      },
+      {
+        "full_name": "Del Rio, Gabriel",
+        "short_name": "Del Rio G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Structural Biology, Instituto de Fisiologia Celular, UNAM, Mexico City, 04510, Mexico. Electronic address: gdelrio@ifc.unam.mx."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of molecular graphics & modelling"
+    ],
+    "journal_abbrev": [
+      "J Mol Graph Model"
+    ],
+    "pub_date": "2026 Oct 10",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/13 23:36",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42868986"
+    ],
+    "review": [
+      "42868986"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S1093-3263(26)00340-2",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

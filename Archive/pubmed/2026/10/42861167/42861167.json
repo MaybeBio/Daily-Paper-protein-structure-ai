@@ -1,0 +1,354 @@
+{
+  "identity": {
+    "pmid": "42861167",
+    "doi": "10.1002/exp2.70236",
+    "title": "Transforming the Landscape of Drug Innovation in AI Era: AlphaFold 3 and Beyond."
+  },
+  "content": {
+    "abstract": "The traditional drug discovery and development (DDD) pipeline has long been characterized by inefficiency and high costs. The rapid evolution of artificial intelligence (AI), especially AI-based toolkits for protein structure and interaction prediction, exemplified by AlphaFold 3 (AF3), promises to reshape the landscape of drug innovation. AF3 advances structural biology by predicting protein structures and their interactions with a range of biomolecules, including nucleic acids, small-molecule ligands, and ions, potentially changing the conventional DDD paradigm, although prediction accuracy varies substantially across these categories. This perspective examines the impact of AF3 on drug target identification and validation, hit identification, lead optimization, and personalized clinical decision-making, while addressing the technical challenges, ethical considerations, and governance implications. Solutions to overcome current limitations are proposed to advance the development of novel therapeutics.",
+    "keywords": [
+      "AlphaFold 3",
+      "artificial intelligence",
+      "drug discovery and development",
+      "personalized medicine",
+      "protein structure prediction"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "He, Songlin",
+        "Zhou, Liangbin",
+        "Wang, Xiaoshuai",
+        "Li, Chenzhong",
+        "Jiang, Cheng",
+        "Tuan, Rocky S",
+        "Li, Zhong Alan"
+      ],
+      "short_names": [
+        "He S",
+        "Zhou L",
+        "Wang X",
+        "Li C",
+        "Jiang C",
+        "Tuan RS",
+        "Li ZA"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Biomedical Engineering, Faculty of Engineering The Chinese University of Hong Kong Hong Kong SAR China.",
+        "InnoHK Center for Neuromusculoskeletal Restorative Medicine Hong Kong Science and Technology Park Hong Kong SAR China.",
+        "Department of Biomedical Engineering, Faculty of Engineering The Chinese University of Hong Kong Hong Kong SAR China.",
+        "InnoHK Center for Neuromusculoskeletal Restorative Medicine Hong Kong Science and Technology Park Hong Kong SAR China.",
+        "Department of Biomedical Engineering, Faculty of Engineering The Chinese University of Hong Kong Hong Kong SAR China.",
+        "Department of Rehabilitation Medicine The Third Affiliated Hospital Southern Medical University Guangzhou Guangdong China.",
+        "School of Medicine The Chinese University of Hong Kong Shenzhen China.",
+        "School of Medicine The Chinese University of Hong Kong Shenzhen China.",
+        "Department of Biomedical Engineering, Faculty of Engineering The Chinese University of Hong Kong Hong Kong SAR China.",
+        "InnoHK Center for Neuromusculoskeletal Restorative Medicine Hong Kong Science and Technology Park Hong Kong SAR China.",
+        "Institute For Tissue Engineering and Regenerative Medicine, School of Biomedical Sciences The Chinese University of Hong Kong Hong Kong SAR China.",
+        "Department of Biomedical Engineering, Faculty of Engineering The Chinese University of Hong Kong Hong Kong SAR China.",
+        "InnoHK Center for Neuromusculoskeletal Restorative Medicine Hong Kong Science and Technology Park Hong Kong SAR China.",
+        "Institute For Tissue Engineering and Regenerative Medicine, School of Biomedical Sciences The Chinese University of Hong Kong Hong Kong SAR China.",
+        "Peter Hung Pain Research Institute, Faculty of Medicine The Chinese University of Hong Kong Hong Kong SAR China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "He, Songlin",
+        "short_name": "He S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Engineering, Faculty of Engineering The Chinese University of Hong Kong Hong Kong SAR China.",
+          "InnoHK Center for Neuromusculoskeletal Restorative Medicine Hong Kong Science and Technology Park Hong Kong SAR China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Liangbin",
+        "short_name": "Zhou L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Engineering, Faculty of Engineering The Chinese University of Hong Kong Hong Kong SAR China.",
+          "InnoHK Center for Neuromusculoskeletal Restorative Medicine Hong Kong Science and Technology Park Hong Kong SAR China."
+        ]
+      },
+      {
+        "full_name": "Wang, Xiaoshuai",
+        "short_name": "Wang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Engineering, Faculty of Engineering The Chinese University of Hong Kong Hong Kong SAR China.",
+          "Department of Rehabilitation Medicine The Third Affiliated Hospital Southern Medical University Guangzhou Guangdong China."
+        ]
+      },
+      {
+        "full_name": "Li, Chenzhong",
+        "short_name": "Li C",
+        "identifiers": [],
+        "affiliations": [
+          "School of Medicine The Chinese University of Hong Kong Shenzhen China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Cheng",
+        "short_name": "Jiang C",
+        "identifiers": [],
+        "affiliations": [
+          "School of Medicine The Chinese University of Hong Kong Shenzhen China."
+        ]
+      },
+      {
+        "full_name": "Tuan, Rocky S",
+        "short_name": "Tuan RS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Engineering, Faculty of Engineering The Chinese University of Hong Kong Hong Kong SAR China.",
+          "InnoHK Center for Neuromusculoskeletal Restorative Medicine Hong Kong Science and Technology Park Hong Kong SAR China.",
+          "Institute For Tissue Engineering and Regenerative Medicine, School of Biomedical Sciences The Chinese University of Hong Kong Hong Kong SAR China."
+        ]
+      },
+      {
+        "full_name": "Li, Zhong Alan",
+        "short_name": "Li ZA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Engineering, Faculty of Engineering The Chinese University of Hong Kong Hong Kong SAR China.",
+          "InnoHK Center for Neuromusculoskeletal Restorative Medicine Hong Kong Science and Technology Park Hong Kong SAR China.",
+          "Institute For Tissue Engineering and Regenerative Medicine, School of Biomedical Sciences The Chinese University of Hong Kong Hong Kong SAR China.",
+          "Peter Hung Pain Research Institute, Faculty of Medicine The Chinese University of Hong Kong Hong Kong SAR China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Exploration (Beijing, China)"
+    ],
+    "journal_abbrev": [
+      "Exploration (Beijing)"
+    ],
+    "pub_date": "2026 Oct 11",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/12 05:32",
+    "fetched_at": "2026-10-18 06:57:52"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42861167",
+      "42364829",
+      "42475469",
+      "40451590",
+      "41064793",
+      "42027778",
+      "41630488",
+      "40740484",
+      "40531093",
+      "41910880",
+      "42003205",
+      "41130640",
+      "41766174",
+      "38163336",
+      "42817087",
+      "40087789",
+      "40809637",
+      "42763122",
+      "41758998",
+      "36794205",
+      "42058982",
+      "41185503",
+      "42031452",
+      "39458657",
+      "39721292",
+      "39970826",
+      "42344774",
+      "39819404",
+      "41011141",
+      "42102764",
+      "42173625",
+      "40626099",
+      "42638493",
+      "38930784",
+      "39165254",
+      "39996136",
+      "42044246",
+      "40387957",
+      "39312699",
+      "41332459",
+      "40547666",
+      "42482806",
+      "39843168",
+      "39837431",
+      "39480992",
+      "40252991",
+      "42453397",
+      "40549427",
+      "40524056",
+      "41002784",
+      "42446537",
+      "40799364",
+      "41996874",
+      "42715621",
+      "38321848",
+      "41832735",
+      "38680429",
+      "40402396",
+      "37779744",
+      "40099205",
+      "41426328",
+      "38256856",
+      "41356761",
+      "41348251",
+      "42445758",
+      "42425235",
+      "40846079",
+      "35976160",
+      "41676817",
+      "40988772",
+      "42572360",
+      "41260786",
+      "42356532",
+      "42428571",
+      "41632854",
+      "41155330",
+      "40725054",
+      "42569261",
+      "42356429",
+      "40973394",
+      "40661027",
+      "41287637",
+      "41025068",
+      "42292041",
+      "42700916",
+      "41049735",
+      "40414522",
+      "40606791",
+      "41012456",
+      "38540759",
+      "42734525",
+      "40398752",
+      "42771546",
+      "42425941",
+      "41754942",
+      "40610378",
+      "41065671",
+      "40528034",
+      "39428082",
+      "40008227"
+    ],
+    "review": [
+      "42861167",
+      "42364829",
+      "40451590",
+      "41064793",
+      "42027778",
+      "41630488",
+      "40740484",
+      "41910880",
+      "42003205",
+      "41130640",
+      "41766174",
+      "38163336",
+      "40087789",
+      "40809637",
+      "42763122",
+      "42058982",
+      "42031452",
+      "39458657",
+      "39721292",
+      "39970826",
+      "42344774",
+      "39819404",
+      "41011141",
+      "42102764",
+      "42173625",
+      "40626099",
+      "42638493",
+      "38930784",
+      "39165254",
+      "39996136",
+      "40387957",
+      "39312699",
+      "41332459",
+      "40547666",
+      "42482806",
+      "39843168",
+      "39837431",
+      "40252991",
+      "42453397",
+      "40549427",
+      "40524056",
+      "41002784",
+      "42446537",
+      "40799364",
+      "41996874",
+      "42715621",
+      "38321848",
+      "41832735",
+      "40402396",
+      "37779744",
+      "40099205",
+      "41426328",
+      "38256856",
+      "41356761",
+      "41348251",
+      "42445758",
+      "42425235",
+      "40846079",
+      "35976160",
+      "41676817",
+      "40988772",
+      "42572360",
+      "41260786",
+      "42356532",
+      "42428571",
+      "41632854",
+      "41155330",
+      "40725054",
+      "42569261",
+      "42356429",
+      "40973394",
+      "41025068",
+      "42292041",
+      "42700916",
+      "41049735",
+      "40414522",
+      "40606791",
+      "41012456",
+      "38540759",
+      "42734525",
+      "40398752",
+      "42771546",
+      "42425941",
+      "41754942",
+      "41065671",
+      "40528034",
+      "39428082",
+      "40008227"
+    ],
+    "pmc": [
+      "13654186"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-KRT5-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

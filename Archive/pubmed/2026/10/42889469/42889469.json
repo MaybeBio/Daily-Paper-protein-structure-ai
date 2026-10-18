@@ -1,0 +1,94 @@
+{
+  "identity": {
+    "pmid": "42889469",
+    "doi": "10.3389/fmolb.2026.1856649",
+    "title": "Artificially intelligent modeling of macromolecular assemblies."
+  },
+  "content": {
+    "abstract": "The study of macromolecular assembly formation is one of the most challenging tasks in computational modeling as it requires extensive exploration of conformational and configurational space, especially when driven by conformational transitions or folding instabilities, which are typically associated with high energy barriers. Although this type of study has traditionally been addressed in silico by using techniques that reduce the computational cost of simulations, such as coarse-grained models, artificial intelligence (AI) has recently entered the field at multiple levels, aiding in parameter optimization or trajectory analysis and even replacing potentials or force calculations. Recently developed algorithms such as AlphaFold (AF) and RoseTTAFold enable the direct prediction of final structures with high efficiency and confidence, an achievement that earned them the 2024 Nobel Prize in Chemistry. In this study, we review and analyze the different AI-based strategies used to model protein structure and dynamics and simulate macromolecular assemblies, comparing them with traditional methods, to highlight their respective advantages and limitations. By placing these approaches along an ideal continuum in which accuracy increases as interpretability decreases, we show that hybrid solutions and combinations of methods can be devised to maximize their strengths. Finally, we perspectively outline practical strategies for implementing such integrated approaches in a coherent manner, preserving accuracy and feasibility while maintaining insight into aggregation pathways, intermediate structures, and the molecular mechanisms underlying the phenomenon.",
+    "keywords": [
+      "AI-based modeling",
+      "FF parameterization",
+      "amyloid aggregation",
+      "coarse-grained models for proteins",
+      "intrinsically disordered proteins",
+      "protein interactions"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Bini, Margherita",
+        "Tozzini, Valentina"
+      ],
+      "short_names": [
+        "Bini M",
+        "Tozzini V"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Scuola Normale Superiore, Pisa, Italy.",
+        "Istituto Nanoscienze, National Research Council (CNR-NANO), NEST-SNS, Pisa, Italy.",
+        "Istituto Nanoscienze, National Research Council (CNR-NANO), NEST-SNS, Pisa, Italy.",
+        "INFN Sez Pisa, Largo Bruno Pontecorvo Pisa, Pisa, Italy."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Bini, Margherita",
+        "short_name": "Bini M",
+        "identifiers": [],
+        "affiliations": [
+          "Scuola Normale Superiore, Pisa, Italy.",
+          "Istituto Nanoscienze, National Research Council (CNR-NANO), NEST-SNS, Pisa, Italy."
+        ]
+      },
+      {
+        "full_name": "Tozzini, Valentina",
+        "short_name": "Tozzini V",
+        "identifiers": [],
+        "affiliations": [
+          "Istituto Nanoscienze, National Research Council (CNR-NANO), NEST-SNS, Pisa, Italy.",
+          "INFN Sez Pisa, Largo Bruno Pontecorvo Pisa, Pisa, Italy."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in molecular biosciences"
+    ],
+    "journal_abbrev": [
+      "Front Mol Biosci"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/17 23:12",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42889469"
+    ],
+    "review": [
+      "42889469"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

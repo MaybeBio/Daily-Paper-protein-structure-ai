@@ -1,0 +1,279 @@
+{
+  "identity": {
+    "pmid": "42863324",
+    "doi": "10.1016/j.diagmicrobio.2026.117683",
+    "title": "Molecular mechanisms underlying streptomycin resistance driven by gidB R96C and A133P in M. tuberculosis."
+  },
+  "content": {
+    "abstract": "OBJECTIVE: To characterize the functional roles of gidB mutations R96C and A133P in streptomycin (SM) resistance of Mycobacterium tuberculosis (Mtb), elucidate their molecular mechanisms, and provide experimental basis for clinical molecular diagnosis of SM-resistant tuberculosis. METHODS: SM-resistant Mtb isolates (n = 75) were collected between June 2020-August 2021 from Shijiazhuang Fifth Hospital. gidB mutations were identified via whole-genome sequencing (WGS). Recombinant Mycobacterium smegmatis strains expressing wild-type, R96C, or A133P Mtb-gidB were constructed. MIC assay, growth curve analysis, qRT-PCR, Western blot, cellular thermal shift assay (CETSA), molecular docking, and molecular dynamics (MD) simulation were used to assess phenotypic changes, gene/protein expression, SM binding, and SAM binding affinity. RESULTS: A133P significantly reduced SM susceptibility (elevated MIC), slowed growth, and upregulated GidB expression, whereas R96C had no phenotypic effects. CETSA showed neither mutation affected GidB-SM binding. Both mutations impaired GidB-SAM binding affinity and complex stability; A133P additionally altered protein conformation, reduced active site residue interactions, and more potently inhibited SAM binding. CONCLUSION: The gidB A133P mutation is a novel low-level SM resistance determinant in Mtb, mediating resistance by impairing GidB-SAM binding and subsequent methyltransferase function.",
+    "keywords": [
+      "Gene mutation",
+      "Molecular characteristics",
+      "Mycobacterium tuberculosis",
+      "Streptomycin resistance"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Song, Tiantian",
+        "Li, Xinxin",
+        "Yao, Jiachen",
+        "Wang, Qirong",
+        "Chong, Yingzhi",
+        "Han, Tiesheng",
+        "Ren, Qi",
+        "An, Ziyue",
+        "Feng, Fumin"
+      ],
+      "short_names": [
+        "Song T",
+        "Li X",
+        "Yao J",
+        "Wang Q",
+        "Chong Y",
+        "Han T",
+        "Ren Q",
+        "An Z",
+        "Feng F"
+      ],
+      "auids": [],
+      "affiliations": [
+        "School of Public Health, North China University of Science and Technology, Tangshan, 063210, China. Electronic address: stt1687@163.com.",
+        "School of Public Health, North China University of Science and Technology, Tangshan, 063210, China. Electronic address: lixinxin0526@126.com.",
+        "School of Public Health, North China University of Science and Technology, Tangshan, 063210, China. Electronic address: yao113708339@163.com.",
+        "School of Public Health, North China University of Science and Technology, Tangshan, 063210, China. Electronic address: 18330576818@163.com.",
+        "School of Public Health, Shandong Second Medical University, Weifang, Shandong Province, China. Electronic address: yingzhichong@sdsmu.edu.cn.",
+        "School of Public Health, North China University of Science and Technology, Tangshan, 063210, China. Electronic address: ts_han@163.com.",
+        "School of Public Health, North China University of Science and Technology, Tangshan, 063210, China. Electronic address: renqi@ncst.edu.cn.",
+        "School of Public Health, North China University of Science and Technology, Tangshan, 063210, China. Electronic address: 1549301314@qq.com.",
+        "School of Public Health, North China University of Science and Technology, Tangshan, 063210, China; Hebei Key Laboratory of Occupational Health and Safety for Coal Industry, China; Hebei Coordinated Innovation Center of Occupational Health and Safety, China. Electronic address: fm_feng@sina.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Song, Tiantian",
+        "short_name": "Song T",
+        "identifiers": [],
+        "affiliations": [
+          "School of Public Health, North China University of Science and Technology, Tangshan, 063210, China. Electronic address: stt1687@163.com."
+        ]
+      },
+      {
+        "full_name": "Li, Xinxin",
+        "short_name": "Li X",
+        "identifiers": [],
+        "affiliations": [
+          "School of Public Health, North China University of Science and Technology, Tangshan, 063210, China. Electronic address: lixinxin0526@126.com."
+        ]
+      },
+      {
+        "full_name": "Yao, Jiachen",
+        "short_name": "Yao J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Public Health, North China University of Science and Technology, Tangshan, 063210, China. Electronic address: yao113708339@163.com."
+        ]
+      },
+      {
+        "full_name": "Wang, Qirong",
+        "short_name": "Wang Q",
+        "identifiers": [],
+        "affiliations": [
+          "School of Public Health, North China University of Science and Technology, Tangshan, 063210, China. Electronic address: 18330576818@163.com."
+        ]
+      },
+      {
+        "full_name": "Chong, Yingzhi",
+        "short_name": "Chong Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Public Health, Shandong Second Medical University, Weifang, Shandong Province, China. Electronic address: yingzhichong@sdsmu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Han, Tiesheng",
+        "short_name": "Han T",
+        "identifiers": [],
+        "affiliations": [
+          "School of Public Health, North China University of Science and Technology, Tangshan, 063210, China. Electronic address: ts_han@163.com."
+        ]
+      },
+      {
+        "full_name": "Ren, Qi",
+        "short_name": "Ren Q",
+        "identifiers": [],
+        "affiliations": [
+          "School of Public Health, North China University of Science and Technology, Tangshan, 063210, China. Electronic address: renqi@ncst.edu.cn."
+        ]
+      },
+      {
+        "full_name": "An, Ziyue",
+        "short_name": "An Z",
+        "identifiers": [],
+        "affiliations": [
+          "School of Public Health, North China University of Science and Technology, Tangshan, 063210, China. Electronic address: 1549301314@qq.com."
+        ]
+      },
+      {
+        "full_name": "Feng, Fumin",
+        "short_name": "Feng F",
+        "identifiers": [],
+        "affiliations": [
+          "School of Public Health, North China University of Science and Technology, Tangshan, 063210, China; Hebei Key Laboratory of Occupational Health and Safety for Coal Industry, China; Hebei Coordinated Innovation Center of Occupational Health and Safety, China. Electronic address: fm_feng@sina.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Diagnostic microbiology and infectious disease"
+    ],
+    "journal_abbrev": [
+      "Diagn Microbiol Infect Dis"
+    ],
+    "pub_date": "2026 Oct 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/13 00:16",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42863324",
+      "21444711",
+      "29241413",
+      "24102832",
+      "28416956",
+      "38560979",
+      "25074855",
+      "17238915",
+      "24937123",
+      "32540971",
+      "27436385",
+      "42251800",
+      "31934102",
+      "40449326",
+      "36915381",
+      "21593257",
+      "26786661",
+      "29336677",
+      "38738892",
+      "28404234",
+      "32829153",
+      "31806020",
+      "36209173",
+      "30029920",
+      "31976809",
+      "24884632",
+      "22640514",
+      "26418737",
+      "19334387",
+      "39955440",
+      "39611616",
+      "28043640",
+      "38904370",
+      "19759491",
+      "31939732",
+      "23329063",
+      "25719196",
+      "41168684",
+      "38179948",
+      "36877052",
+      "35624432",
+      "16245793",
+      "38466098",
+      "35658579",
+      "22646308",
+      "30268120",
+      "11601331",
+      "32167422",
+      "40401978",
+      "18541729",
+      "42558575",
+      "41445950",
+      "16875324",
+      "29779775",
+      "27082669",
+      "41692831",
+      "40750855",
+      "42405793",
+      "31521502",
+      "37770850",
+      "22479378",
+      "32200129",
+      "28904673",
+      "37692467",
+      "39229883",
+      "32603684",
+      "42494902",
+      "40491140",
+      "17360809",
+      "34356728",
+      "25362573",
+      "38007912",
+      "35107324",
+      "35444430",
+      "41076483",
+      "32164095",
+      "24969458",
+      "42294717",
+      "25557624",
+      "42218473",
+      "37067206",
+      "24100503",
+      "38597637",
+      "8723463",
+      "27695670",
+      "40722062",
+      "26039194",
+      "40706998",
+      "18565777",
+      "41360595",
+      "27155814",
+      "29761826",
+      "31100498",
+      "40663566",
+      "37424666",
+      "30418577",
+      "9866928",
+      "37338481",
+      "32299480",
+      "35397466"
+    ],
+    "review": [
+      "42863324",
+      "42405793",
+      "22479378"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0732-8893(26)00434-7",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://www.clinicalkey.com/content/playBy/pii?v=S0732-8893(26)00434-7",
+        "provider": "ClinicalKey",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

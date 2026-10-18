@@ -1,0 +1,131 @@
+{
+  "identity": {
+    "pmid": "42878341",
+    "doi": "10.1063/5.0356601",
+    "title": "Relating gammaD-crystallin conformations to local aggregate topology."
+  },
+  "content": {
+    "abstract": "The structural crystallins of the eye lens must persist at high concentrations (up to 600 mg/ml in some species), while remaining solvated within a hydrogel that must endure for the life of the organism. Transient networks of interactions among these proteins may create contacts that facilitate the development of irreversible aggregation, while also contributing to the physical properties of the lens hydrogel. Although arising from complex multibody interactions, these interaction networks also depend upon the conformational states of individual protein monomers; in particular, some states may not be conducive to interaction, while others facilitate the coordination of multiple bound interactions. Here, we use multi-scale simulation to examine networks of interaction for the human lens protein gammaD-crystallin, relating monomeric conformational states to position within the aggregation graph. We identify a three-role system of conformational states, with the formation of large aggregates associated with a highly \"promiscuous\" set of states whose members readily interact with themselves and others. We discuss the relationship between conformational states and aggregation, considering the two-way influence between intermolecular interactions and the monomeric conformational states. Differences in role occupancies are seen between wild-type gammaD-crystallin and the cataract-associated W42R variant, consistent with the hypothesis that W42R monomers more readily occupy distributions of conformational states that are conducive to the formation of larger aggregates.",
+    "keywords": [],
+    "mesh_terms": [
+      "*gamma-Crystallins/chemistry/genetics",
+      "Humans",
+      "Protein Conformation",
+      "Protein Aggregates",
+      "Molecular Dynamics Simulation",
+      "Models, Molecular"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Diessner, Elizabeth M",
+        "Freites, J Alfredo",
+        "Tobias, Douglas J",
+        "Butts, Carter T"
+      ],
+      "short_names": [
+        "Diessner EM",
+        "Freites JA",
+        "Tobias DJ",
+        "Butts CT"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-8884-4157",
+        "ORCID: 0000-0001-5842-7443",
+        "ORCID: 0000-0002-6971-9828",
+        "ORCID: 0000-0002-7911-9834"
+      ],
+      "affiliations": [
+        "Department of Chemistry, University of California, Irvine, California 92697, USA.",
+        "Department of Chemistry, University of California, Irvine, California 92697, USA.",
+        "Department of Chemistry, University of California, Irvine, California 92697, USA.",
+        "Departments of Sociology, Statistics, Computer Science, and EECS, University of California, Irvine, California 92697, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Diessner, Elizabeth M",
+        "short_name": "Diessner EM",
+        "identifiers": [
+          "0000-0002-8884-4157"
+        ],
+        "affiliations": [
+          "Department of Chemistry, University of California, Irvine, California 92697, USA."
+        ]
+      },
+      {
+        "full_name": "Freites, J Alfredo",
+        "short_name": "Freites JA",
+        "identifiers": [
+          "0000-0001-5842-7443"
+        ],
+        "affiliations": [
+          "Department of Chemistry, University of California, Irvine, California 92697, USA."
+        ]
+      },
+      {
+        "full_name": "Tobias, Douglas J",
+        "short_name": "Tobias DJ",
+        "identifiers": [
+          "0000-0002-6971-9828"
+        ],
+        "affiliations": [
+          "Department of Chemistry, University of California, Irvine, California 92697, USA."
+        ]
+      },
+      {
+        "full_name": "Butts, Carter T",
+        "short_name": "Butts CT",
+        "identifiers": [
+          "0000-0002-7911-9834"
+        ],
+        "affiliations": [
+          "Departments of Sociology, Statistics, Computer Science, and EECS, University of California, Irvine, California 92697, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The Journal of chemical physics"
+    ],
+    "journal_abbrev": [
+      "J Chem Phys"
+    ],
+    "pub_date": "2026 Oct 21",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/15 23:30",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42878341"
+    ],
+    "review": [
+      "42878341"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.aip.org/aip/jcp/article-lookup/doi/10.1063/5.0356601",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "identity": {
+    "pmid": "42876045",
+    "doi": "10.1002/jsfa.71131",
+    "title": "Characterization of epigallocatechin gallate (EGCG)-phosphorylated hemoglobin for changing pork meat quality: from simulations to applications."
+  },
+  "content": {
+    "abstract": "BACKGROUND: The valorization of hemoglobin (Hb) from meat processing by-products is essential for sustainable recycling. However, this process is severely constrained by the inherent limitations of Hb, such as poor stability and low solubility. To overcome these challenges, this study proposes a computationally guided dual-modification strategy. This approach integrates covalent phosphorylation with epigallocatechin gallate (EGCG)-mediated non-covalent interactions to enhance the applicability of modified Hb. RESULTS: Artificial neural network prediction and molecular dynamics (MD) simulations were employed to rationalize the modification process. MD simulations and binding energy calculations revealed that the stability of the complex is driven by specific amino acid residues, with ALA142, ASN139 and THR38 making the most significant contributions through robust hydrogen bonding networks. Spectroscopic analysis confirmed that this interaction with EGCG drastically reduced the alpha-helix content (from 74% to 30%), inducing a conformational opening that exposed cryptic hydrophobic pockets. The modified Hb exhibited superior surface hydrophobicity, antioxidant activity and foaming capacity. Crucially, application in a pork meat sausage model demonstrated that the EGCG-phosphorylated porcine hemoglobin (EGCG-PHb) complex effectively acted, overcoming the severe gel brittleness caused by phosphorylation and significantly enhancing the springiness and chewiness of the meat matrix. CONCLUSION: The protein structure of the EGCG-PHb complex was significantly altered compared to Hb, and EGCG-PHb complex also significantly improved the springiness and chewiness of pork sausages. This dual-modification strategy provides new insights into the development and utilization of Hb. (c) 2026 Society of Chemical Industry.",
+    "keywords": [
+      "functional characterization",
+      "molecular dynamics",
+      "phosphorylation modeling",
+      "protein-polyphenol interactions",
+      "spectroscopy"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Yanli",
+        "Liu, Lili",
+        "Cheng, Weiwei",
+        "Zhang, Xinshuai",
+        "Ding, Yue"
+      ],
+      "short_names": [
+        "Wang Y",
+        "Liu L",
+        "Cheng W",
+        "Zhang X",
+        "Ding Y"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-0176-2678"
+      ],
+      "affiliations": [
+        "College of Food and Bioengineering, International Joint Laboratory of Food Processing and Quality Safety Control of Henan Province, Henan Provincial Engineering Research Center for Agricultural Product Processing Equipment, National Experimental Teaching Demonstration Center for Food Processing and Security, Henan University of Science and Technology, Luoyang, China.",
+        "College of Food and Bioengineering, International Joint Laboratory of Food Processing and Quality Safety Control of Henan Province, Henan Provincial Engineering Research Center for Agricultural Product Processing Equipment, National Experimental Teaching Demonstration Center for Food Processing and Security, Henan University of Science and Technology, Luoyang, China.",
+        "College of Food and Bioengineering, International Joint Laboratory of Food Processing and Quality Safety Control of Henan Province, Henan Provincial Engineering Research Center for Agricultural Product Processing Equipment, National Experimental Teaching Demonstration Center for Food Processing and Security, Henan University of Science and Technology, Luoyang, China.",
+        "College of Food and Bioengineering, International Joint Laboratory of Food Processing and Quality Safety Control of Henan Province, Henan Provincial Engineering Research Center for Agricultural Product Processing Equipment, National Experimental Teaching Demonstration Center for Food Processing and Security, Henan University of Science and Technology, Luoyang, China.",
+        "College of Food and Bioengineering, International Joint Laboratory of Food Processing and Quality Safety Control of Henan Province, Henan Provincial Engineering Research Center for Agricultural Product Processing Equipment, National Experimental Teaching Demonstration Center for Food Processing and Security, Henan University of Science and Technology, Luoyang, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Yanli",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food and Bioengineering, International Joint Laboratory of Food Processing and Quality Safety Control of Henan Province, Henan Provincial Engineering Research Center for Agricultural Product Processing Equipment, National Experimental Teaching Demonstration Center for Food Processing and Security, Henan University of Science and Technology, Luoyang, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Lili",
+        "short_name": "Liu L",
+        "identifiers": [
+          "0000-0002-0176-2678"
+        ],
+        "affiliations": [
+          "College of Food and Bioengineering, International Joint Laboratory of Food Processing and Quality Safety Control of Henan Province, Henan Provincial Engineering Research Center for Agricultural Product Processing Equipment, National Experimental Teaching Demonstration Center for Food Processing and Security, Henan University of Science and Technology, Luoyang, China."
+        ]
+      },
+      {
+        "full_name": "Cheng, Weiwei",
+        "short_name": "Cheng W",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food and Bioengineering, International Joint Laboratory of Food Processing and Quality Safety Control of Henan Province, Henan Provincial Engineering Research Center for Agricultural Product Processing Equipment, National Experimental Teaching Demonstration Center for Food Processing and Security, Henan University of Science and Technology, Luoyang, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xinshuai",
+        "short_name": "Zhang X",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food and Bioengineering, International Joint Laboratory of Food Processing and Quality Safety Control of Henan Province, Henan Provincial Engineering Research Center for Agricultural Product Processing Equipment, National Experimental Teaching Demonstration Center for Food Processing and Security, Henan University of Science and Technology, Luoyang, China."
+        ]
+      },
+      {
+        "full_name": "Ding, Yue",
+        "short_name": "Ding Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food and Bioengineering, International Joint Laboratory of Food Processing and Quality Safety Control of Henan Province, Henan Provincial Engineering Research Center for Agricultural Product Processing Equipment, National Experimental Teaching Demonstration Center for Food Processing and Security, Henan University of Science and Technology, Luoyang, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of the science of food and agriculture"
+    ],
+    "journal_abbrev": [
+      "J Sci Food Agric"
+    ],
+    "pub_date": "2026 Oct 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/15 07:18",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42876045"
+    ],
+    "review": [
+      "42876045"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1002/jsfa.71131",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

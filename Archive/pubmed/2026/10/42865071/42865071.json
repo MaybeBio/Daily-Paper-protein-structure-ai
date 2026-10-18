@@ -1,0 +1,349 @@
+{
+  "identity": {
+    "pmid": "42865071",
+    "doi": "10.1002/anie.6947632",
+    "title": "Discovery of a Potent and Selective First-In-Class Antagonist of GPR15 With In Vivo Anti-Obesity Activity."
+  },
+  "content": {
+    "abstract": "GPR15 (G Protein-coupled Receptor 15), an atypical chemokine receptor, is implicated in the pathogenesis of multiple diseases, yet small-molecule GPR15 antagonists remain undeveloped. Herein, we identify and characterize YL410, the first-in-class potent and selective GPR15 antagonist. In the cAMP-GloSensor assay, YL410 inhibits GPR15 with an IC(50) of 0.027 +/- 0.005 microM, and displays high selectivity against a panel of related GPCRs and kinases. It suppresses GPR15L-induced Jurkat T-cell migration, and exhibits favorable pharmacokinetics and acceptable safety. Molecular docking, replicated molecular dynamics simulations, quantitative contact analyses, and mutagenesis experiments support a plausible orthosteric binding model for YL410, maintained by a reproducible network of polar and hydrophobic contacts, which rationalizes its potent antagonism and observed structure-activity relationships (SAR). Complementary AI-based structure predictions (AlphaFold3, Chai-1, and Boltz) recapitulated the energetically accessible orthosteric poses but not the dynamically stable pose selected by the MD simulations, underscoring the importance of kinetic-stability validation in antagonist pose selection. Notably, in a diet-induced obesity (DIO) mouse model, YL410 administration induced significant weight loss and exerted blood glucose-lowering effects. Collectively, this study presents the first potent, selective, and in vivo efficacious GPR15 antagonist, providing new insights into the development of therapeutics for the treatment of obesity.",
+    "keywords": [
+      "GPR15",
+      "chemokine receptor",
+      "lead compound",
+      "obesity",
+      "structural optimization"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Huang, Chong",
+        "Qiao, Jingxin",
+        "Zhou, Mengqiu",
+        "Yang, Xin",
+        "Zhu, Lengjing",
+        "Ru, Jinxiao",
+        "Du, Le",
+        "Liu, Wuxin",
+        "Chen, Yan",
+        "Xia, Anjie",
+        "Li, Linli",
+        "Yang, Shengyong"
+      ],
+      "short_names": [
+        "Huang C",
+        "Qiao J",
+        "Zhou M",
+        "Yang X",
+        "Zhu L",
+        "Ru J",
+        "Du L",
+        "Liu W",
+        "Chen Y",
+        "Xia A",
+        "Li L",
+        "Yang S"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-0951-3411",
+        "ORCID: 0000-0002-2695-3024",
+        "ORCID: 0000-0001-7743-434X",
+        "ORCID: 0000-0001-5147-3746"
+      ],
+      "affiliations": [
+        "Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, West China Hospital, Sichuan University, Chengdu, Sichuan, China.",
+        "New Cornerstone Science Laboratory, West China Hospital, Sichuan University, Chengdu, Sichuan, China.",
+        "Department of Pharmacy, The First Affiliated Hospital, Jiangxi Medical College, Nanchang University, Nanchang, China.",
+        "Key Laboratory of New Drug Transformation and Evaluation of Jiangxi Province, Nanchang, China.",
+        "Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, West China Hospital, Sichuan University, Chengdu, Sichuan, China.",
+        "New Cornerstone Science Laboratory, West China Hospital, Sichuan University, Chengdu, Sichuan, China.",
+        "Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, West China Hospital, Sichuan University, Chengdu, Sichuan, China.",
+        "New Cornerstone Science Laboratory, West China Hospital, Sichuan University, Chengdu, Sichuan, China.",
+        "Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, West China Hospital, Sichuan University, Chengdu, Sichuan, China.",
+        "New Cornerstone Science Laboratory, West China Hospital, Sichuan University, Chengdu, Sichuan, China.",
+        "Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, West China Hospital, Sichuan University, Chengdu, Sichuan, China.",
+        "New Cornerstone Science Laboratory, West China Hospital, Sichuan University, Chengdu, Sichuan, China.",
+        "Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, West China Hospital, Sichuan University, Chengdu, Sichuan, China.",
+        "New Cornerstone Science Laboratory, West China Hospital, Sichuan University, Chengdu, Sichuan, China.",
+        "Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, West China Hospital, Sichuan University, Chengdu, Sichuan, China.",
+        "New Cornerstone Science Laboratory, West China Hospital, Sichuan University, Chengdu, Sichuan, China.",
+        "Key Laboratory of Drug-Targeting and Drug Delivery System of the Education Ministry, West China School of Pharmacy, Sichuan University, Chengdu, China.",
+        "Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, West China Hospital, Sichuan University, Chengdu, Sichuan, China.",
+        "New Cornerstone Science Laboratory, West China Hospital, Sichuan University, Chengdu, Sichuan, China.",
+        "Department of Ophthalmology and Laboratory of Macular Disease, West China Hospital, Sichuan University, Chengdu, Sichuan, China.",
+        "Key Laboratory of Drug-Targeting and Drug Delivery System of the Education Ministry, West China School of Pharmacy, Sichuan University, Chengdu, China.",
+        "Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, West China Hospital, Sichuan University, Chengdu, Sichuan, China.",
+        "New Cornerstone Science Laboratory, West China Hospital, Sichuan University, Chengdu, Sichuan, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Huang, Chong",
+        "short_name": "Huang C",
+        "identifiers": [
+          "0000-0003-0951-3411"
+        ],
+        "affiliations": [
+          "Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, West China Hospital, Sichuan University, Chengdu, Sichuan, China.",
+          "New Cornerstone Science Laboratory, West China Hospital, Sichuan University, Chengdu, Sichuan, China.",
+          "Department of Pharmacy, The First Affiliated Hospital, Jiangxi Medical College, Nanchang University, Nanchang, China.",
+          "Key Laboratory of New Drug Transformation and Evaluation of Jiangxi Province, Nanchang, China."
+        ]
+      },
+      {
+        "full_name": "Qiao, Jingxin",
+        "short_name": "Qiao J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, West China Hospital, Sichuan University, Chengdu, Sichuan, China.",
+          "New Cornerstone Science Laboratory, West China Hospital, Sichuan University, Chengdu, Sichuan, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Mengqiu",
+        "short_name": "Zhou M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, West China Hospital, Sichuan University, Chengdu, Sichuan, China.",
+          "New Cornerstone Science Laboratory, West China Hospital, Sichuan University, Chengdu, Sichuan, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Xin",
+        "short_name": "Yang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, West China Hospital, Sichuan University, Chengdu, Sichuan, China.",
+          "New Cornerstone Science Laboratory, West China Hospital, Sichuan University, Chengdu, Sichuan, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Lengjing",
+        "short_name": "Zhu L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, West China Hospital, Sichuan University, Chengdu, Sichuan, China.",
+          "New Cornerstone Science Laboratory, West China Hospital, Sichuan University, Chengdu, Sichuan, China."
+        ]
+      },
+      {
+        "full_name": "Ru, Jinxiao",
+        "short_name": "Ru J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, West China Hospital, Sichuan University, Chengdu, Sichuan, China.",
+          "New Cornerstone Science Laboratory, West China Hospital, Sichuan University, Chengdu, Sichuan, China."
+        ]
+      },
+      {
+        "full_name": "Du, Le",
+        "short_name": "Du L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, West China Hospital, Sichuan University, Chengdu, Sichuan, China.",
+          "New Cornerstone Science Laboratory, West China Hospital, Sichuan University, Chengdu, Sichuan, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Wuxin",
+        "short_name": "Liu W",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Drug-Targeting and Drug Delivery System of the Education Ministry, West China School of Pharmacy, Sichuan University, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Yan",
+        "short_name": "Chen Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, West China Hospital, Sichuan University, Chengdu, Sichuan, China.",
+          "New Cornerstone Science Laboratory, West China Hospital, Sichuan University, Chengdu, Sichuan, China."
+        ]
+      },
+      {
+        "full_name": "Xia, Anjie",
+        "short_name": "Xia A",
+        "identifiers": [
+          "0000-0002-2695-3024"
+        ],
+        "affiliations": [
+          "Department of Ophthalmology and Laboratory of Macular Disease, West China Hospital, Sichuan University, Chengdu, Sichuan, China."
+        ]
+      },
+      {
+        "full_name": "Li, Linli",
+        "short_name": "Li L",
+        "identifiers": [
+          "0000-0001-7743-434X"
+        ],
+        "affiliations": [
+          "Key Laboratory of Drug-Targeting and Drug Delivery System of the Education Ministry, West China School of Pharmacy, Sichuan University, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Shengyong",
+        "short_name": "Yang S",
+        "identifiers": [
+          "0000-0001-5147-3746"
+        ],
+        "affiliations": [
+          "Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, West China Hospital, Sichuan University, Chengdu, Sichuan, China.",
+          "New Cornerstone Science Laboratory, West China Hospital, Sichuan University, Chengdu, Sichuan, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Angewandte Chemie (International ed. in English)"
+    ],
+    "journal_abbrev": [
+      "Angew Chem Int Ed Engl"
+    ],
+    "pub_date": "2026 Oct 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/13 05:31",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42865071",
+      "41321630",
+      "30578168",
+      "36930875",
+      "33758080",
+      "42475469",
+      "28936214",
+      "32669442",
+      "31835584",
+      "42607455",
+      "35948061",
+      "36164808",
+      "32673730",
+      "42136682",
+      "29051736",
+      "40222165",
+      "42349656",
+      "38074634",
+      "28415011",
+      "42398391",
+      "40850683",
+      "37949379",
+      "41506199",
+      "40079180",
+      "32898693",
+      "42308788",
+      "27600555",
+      "41380825",
+      "36924670",
+      "33431697",
+      "35510660",
+      "37457732",
+      "36321557",
+      "18573246",
+      "22448975",
+      "40969903",
+      "30935778",
+      "31443129",
+      "38260445",
+      "32922401",
+      "21841814",
+      "12930145",
+      "42648058",
+      "19807662",
+      "40816454",
+      "36400403",
+      "39812521",
+      "22909007",
+      "26656714",
+      "41293665",
+      "39150724",
+      "42413396",
+      "38315459",
+      "40907441",
+      "32636746",
+      "29110282",
+      "39881398",
+      "35745598",
+      "40460721",
+      "23153179",
+      "30245027",
+      "38014122",
+      "29857275",
+      "36613626",
+      "27986627",
+      "40367676",
+      "19193052",
+      "36988587",
+      "40726092",
+      "40706542",
+      "42455917",
+      "37142443",
+      "17897075",
+      "15044616",
+      "10969084",
+      "11985472",
+      "26978009",
+      "40330488",
+      "31812541",
+      "25141027",
+      "21189250",
+      "27043173",
+      "29453275",
+      "23912807",
+      "42190536",
+      "41567076",
+      "32019074",
+      "40037063",
+      "38243565",
+      "36551327",
+      "31850745",
+      "31855793",
+      "39612770",
+      "33708462",
+      "38346795",
+      "26748052",
+      "37315474",
+      "31725294",
+      "40073729",
+      "39270528"
+    ],
+    "review": [
+      "42865071",
+      "37457732",
+      "36321557",
+      "19807662"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1002/anie.6947632",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3877",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

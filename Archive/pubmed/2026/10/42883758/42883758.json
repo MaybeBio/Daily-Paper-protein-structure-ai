@@ -1,0 +1,168 @@
+{
+  "identity": {
+    "pmid": "42883758",
+    "doi": "10.3390/ijms27198509",
+    "title": "Residue-Level Energetic Analysis of Transient Misfolding in the Whirlin PDZ Tandem Reveals a Possible Connection to an AlphaFold-Predicted Alternative Topology."
+  },
+  "content": {
+    "abstract": "Multidomain proteins may populate transient misfolded states that compete with productive folding, but the molecular determinants of these intermediates remain poorly understood. Using the tandem PDZ domains of the scaffolding protein whirlin, in which a misfolded intermediate accumulates only when both domains are denatured, we combined systematic mutagenesis with a thermodynamic framework analogous to double-mutant cycle analysis. Analysis of ~70 mutations identified residues displaying significant non-additive energetic effects, defining an interaction network concentrated within the connecting hairpins, PDZ2, and a few positions at the PDZ1 interface. Interestingly, AlphaFold predicted an alternative domain-swapped topology differing from the experimentally determined structure primarily within these same regions. Although the experimental data do not establish the structure of the misfolded intermediate, this correspondence suggests that the predicted alternative topology may provide a possible structural interpretation of the experimentally identified energetic determinants. Our findings provide a residue-level characterization of the energetic determinants of transient misfolding in a multidomain protein and suggest a possible connection between these determinants and alternative structural arrangements.",
+    "keywords": [
+      "kinetics",
+      "misfolding",
+      "mutagenesis",
+      "tandem domains"
+    ],
+    "mesh_terms": [
+      "*PDZ Domains",
+      "*Protein Folding",
+      "Thermodynamics",
+      "Models, Molecular",
+      "Mutation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Pennacchietti, Valeria",
+        "Di Felice, Mariana",
+        "Toso, Julian",
+        "Ventura, Eduarda Santos",
+        "Caldarelli, Laura",
+        "Toto, Angelo",
+        "Malagrino, Francesca",
+        "Gianni, Stefano"
+      ],
+      "short_names": [
+        "Pennacchietti V",
+        "Di Felice M",
+        "Toso J",
+        "Ventura ES",
+        "Caldarelli L",
+        "Toto A",
+        "Malagrino F",
+        "Gianni S"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6860-4244",
+        "ORCID: 0000-0002-4620-3677",
+        "ORCID: 0000-0002-7876-2422"
+      ],
+      "affiliations": [
+        "Laboratory Affiliated to Istituto Pasteur Italia, Fondazione Cenci Bolognetti, Dipartimento di Scienze Biochimiche \"A. Rossi Fanelli\", Sapienza Universita di Roma, P.le Aldo Moro 5, 00185 Rome, Italy.",
+        "Laboratory Affiliated to Istituto Pasteur Italia, Fondazione Cenci Bolognetti, Dipartimento di Scienze Biochimiche \"A. Rossi Fanelli\", Sapienza Universita di Roma, P.le Aldo Moro 5, 00185 Rome, Italy.",
+        "Laboratory Affiliated to Istituto Pasteur Italia, Fondazione Cenci Bolognetti, Dipartimento di Scienze Biochimiche \"A. Rossi Fanelli\", Sapienza Universita di Roma, P.le Aldo Moro 5, 00185 Rome, Italy.",
+        "Laboratory Affiliated to Istituto Pasteur Italia, Fondazione Cenci Bolognetti, Dipartimento di Scienze Biochimiche \"A. Rossi Fanelli\", Sapienza Universita di Roma, P.le Aldo Moro 5, 00185 Rome, Italy.",
+        "Laboratory Affiliated to Istituto Pasteur Italia, Fondazione Cenci Bolognetti, Dipartimento di Scienze Biochimiche \"A. Rossi Fanelli\", Sapienza Universita di Roma, P.le Aldo Moro 5, 00185 Rome, Italy.",
+        "Laboratory Affiliated to Istituto Pasteur Italia, Fondazione Cenci Bolognetti, Dipartimento di Scienze Biochimiche \"A. Rossi Fanelli\", Sapienza Universita di Roma, P.le Aldo Moro 5, 00185 Rome, Italy.",
+        "Dipartimento di Medicina Clinica, Sanita Pubblica, Scienze Della Vita e Dell'ambiente, Universita dell'Aquila, Piazzale Salvatore Tommasi 1, Coppito, 67010 L'Aquila, Italy.",
+        "Laboratory Affiliated to Istituto Pasteur Italia, Fondazione Cenci Bolognetti, Dipartimento di Scienze Biochimiche \"A. Rossi Fanelli\", Sapienza Universita di Roma, P.le Aldo Moro 5, 00185 Rome, Italy."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Pennacchietti, Valeria",
+        "short_name": "Pennacchietti V",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory Affiliated to Istituto Pasteur Italia, Fondazione Cenci Bolognetti, Dipartimento di Scienze Biochimiche \"A. Rossi Fanelli\", Sapienza Università di Roma, P.le Aldo Moro 5, 00185 Rome, Italy."
+        ]
+      },
+      {
+        "full_name": "Di Felice, Mariana",
+        "short_name": "Di Felice M",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory Affiliated to Istituto Pasteur Italia, Fondazione Cenci Bolognetti, Dipartimento di Scienze Biochimiche \"A. Rossi Fanelli\", Sapienza Università di Roma, P.le Aldo Moro 5, 00185 Rome, Italy."
+        ]
+      },
+      {
+        "full_name": "Toso, Julian",
+        "short_name": "Toso J",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory Affiliated to Istituto Pasteur Italia, Fondazione Cenci Bolognetti, Dipartimento di Scienze Biochimiche \"A. Rossi Fanelli\", Sapienza Università di Roma, P.le Aldo Moro 5, 00185 Rome, Italy."
+        ]
+      },
+      {
+        "full_name": "Ventura, Eduarda Santos",
+        "short_name": "Ventura ES",
+        "identifiers": [
+          "0000-0002-6860-4244"
+        ],
+        "affiliations": [
+          "Laboratory Affiliated to Istituto Pasteur Italia, Fondazione Cenci Bolognetti, Dipartimento di Scienze Biochimiche \"A. Rossi Fanelli\", Sapienza Università di Roma, P.le Aldo Moro 5, 00185 Rome, Italy."
+        ]
+      },
+      {
+        "full_name": "Caldarelli, Laura",
+        "short_name": "Caldarelli L",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory Affiliated to Istituto Pasteur Italia, Fondazione Cenci Bolognetti, Dipartimento di Scienze Biochimiche \"A. Rossi Fanelli\", Sapienza Università di Roma, P.le Aldo Moro 5, 00185 Rome, Italy."
+        ]
+      },
+      {
+        "full_name": "Toto, Angelo",
+        "short_name": "Toto A",
+        "identifiers": [
+          "0000-0002-4620-3677"
+        ],
+        "affiliations": [
+          "Laboratory Affiliated to Istituto Pasteur Italia, Fondazione Cenci Bolognetti, Dipartimento di Scienze Biochimiche \"A. Rossi Fanelli\", Sapienza Università di Roma, P.le Aldo Moro 5, 00185 Rome, Italy."
+        ]
+      },
+      {
+        "full_name": "Malagrinò, Francesca",
+        "short_name": "Malagrinò F",
+        "identifiers": [
+          "0000-0002-7876-2422"
+        ],
+        "affiliations": [
+          "Dipartimento di Medicina Clinica, Sanità Pubblica, Scienze Della Vita e Dell'ambiente, Università dell'Aquila, Piazzale Salvatore Tommasi 1, Coppito, 67010 L'Aquila, Italy."
+        ]
+      },
+      {
+        "full_name": "Gianni, Stefano",
+        "short_name": "Gianni S",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory Affiliated to Istituto Pasteur Italia, Fondazione Cenci Bolognetti, Dipartimento di Scienze Biochimiche \"A. Rossi Fanelli\", Sapienza Università di Roma, P.le Aldo Moro 5, 00185 Rome, Italy."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of molecular sciences"
+    ],
+    "journal_abbrev": [
+      "Int J Mol Sci"
+    ],
+    "pub_date": "2026 Sep 24",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/16 05:33",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42883758"
+    ],
+    "review": [
+      "42883758"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

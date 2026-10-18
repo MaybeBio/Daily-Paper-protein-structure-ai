@@ -1,0 +1,231 @@
+{
+  "identity": {
+    "pmid": "42856293",
+    "doi": "10.64898/2026.09.24.754173",
+    "title": "RNASeek: A Cross-Phyla Generative Foundation Model for Multipurpose RNA Modeling and Reinforcement Learning-Based Design."
+  },
+  "content": {
+    "abstract": "RNA plays central roles in regulating information flow and provides a versatile substrate for engineering biological functions. While large language models (LLMs) have transformed natural language processing and protein design, a general framework connecting RNA foundation models to functional sequence design remains limited. Here, we present RNASeek, a 1.6-billion-parameter generative foundation model built on a DeepSeek architecture and trained on a cross-phyla transcriptomic corpus for RNA sequence representation and generation. Natural-language tokens enable flexible conditional prediction and sequence design using a unified backbone. RNASeek captures species-specific transcript features and intron-exon boundaries in a zero-shot setting. We then fine-tune RNASeek to predict ribozyme self-cleavage activity and viral mRNA stability, revealing interpretable sequence features associated with function, including ribozyme loop flexibility and stem stability, as well as AU-rich motifs associated with mRNA stability. We use these functional predictors as reward models and apply Group Relative Policy Optimization (GRPO) to update RNASeek's generation policy toward sequences with desired properties. GRPO-guided generation produces faster-cleaving ribozymes and stability-enhancing 3' UTRs while satisfying user-specified IUPAC constraints. Experimentally validated RNASeek-generated ribozymes achieve wild-type levels of activity, while RNASeek-generated 3' UTR sequences exceed the performance of the training data and benchmarked AI-generated 3' UTRs. Together, RNASeek establishes a unified pretrain-predict-optimize framework that connects learned RNA function to controllable de novo sequence design and provides a general strategy for engineering regulatory RNAs with desired properties.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Shiyuan",
+        "Fernandes, Neil R",
+        "Li, Wei Vivian",
+        "Wang, Lili",
+        "Jia, Zhenyu",
+        "Xiang, Joy S"
+      ],
+      "short_names": [
+        "Chen S",
+        "Fernandes NR",
+        "Li WV",
+        "Wang L",
+        "Jia Z",
+        "Xiang JS"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6400-1876"
+      ],
+      "affiliations": []
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Shiyuan",
+        "short_name": "Chen S",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Fernandes, Neil R",
+        "short_name": "Fernandes NR",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Li, Wei Vivian",
+        "short_name": "Li WV",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Wang, Lili",
+        "short_name": "Wang L",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Jia, Zhenyu",
+        "short_name": "Jia Z",
+        "identifiers": [],
+        "affiliations": []
+      },
+      {
+        "full_name": "Xiang, Joy S",
+        "short_name": "Xiang JS",
+        "identifiers": [
+          "0000-0002-6400-1876"
+        ],
+        "affiliations": []
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Sep 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/11 05:07",
+    "fetched_at": "2026-10-18 06:57:52"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42856293",
+      "42475469",
+      "36046603",
+      "42716354",
+      "41673205",
+      "23912807",
+      "42264145",
+      "41082689",
+      "42786822",
+      "42492189",
+      "39651880",
+      "40875331",
+      "41824966",
+      "42841737",
+      "37450999",
+      "42701117",
+      "42627943",
+      "39272021",
+      "41839238",
+      "41214747",
+      "40678489",
+      "41905520",
+      "41279114",
+      "38319152",
+      "42187939",
+      "38778425",
+      "41261132",
+      "42482120",
+      "41416521",
+      "39352899",
+      "41795657",
+      "36734516",
+      "41236386",
+      "40027759",
+      "41675592",
+      "41056561",
+      "42705098",
+      "41854075",
+      "41042819",
+      "42169056",
+      "42376687",
+      "42806511",
+      "42785733",
+      "38646516",
+      "38647700",
+      "40171241",
+      "39829868",
+      "41801982",
+      "41426306",
+      "42776794",
+      "42703973",
+      "38146121",
+      "42160034",
+      "42608825",
+      "42527525",
+      "9722591",
+      "42721858",
+      "40737604",
+      "9288893",
+      "42136025",
+      "40936797",
+      "33860764",
+      "34849835",
+      "38907298",
+      "37749655",
+      "39416135",
+      "42753254",
+      "42478703",
+      "41539675",
+      "39971994",
+      "41972477",
+      "40181110",
+      "42015301",
+      "41584810",
+      "42531048",
+      "41422228",
+      "8785476",
+      "40950025",
+      "41052325",
+      "8371986",
+      "42766421",
+      "40499132",
+      "39910649",
+      "41998407",
+      "39131267",
+      "41750280",
+      "41864092",
+      "41980520",
+      "35398809",
+      "40309133",
+      "42719545",
+      "38587879",
+      "37695922",
+      "42601461",
+      "42466941",
+      "36219571",
+      "16279954",
+      "42734505",
+      "40894773",
+      "41992779"
+    ],
+    "review": [
+      "42856293",
+      "42716354",
+      "42264145",
+      "42492189",
+      "41839238",
+      "40171241",
+      "42776794",
+      "9288893",
+      "42753254",
+      "41972477",
+      "41584810"
+    ],
+    "pmc": [
+      "13648417"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.64898/2026.09.24.754173",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

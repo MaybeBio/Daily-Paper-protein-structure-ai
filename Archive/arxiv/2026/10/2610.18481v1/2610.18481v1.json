@@ -1,0 +1,32 @@
+{
+  "source": "arxiv",
+  "source_id": "2610.18481v1",
+  "title": "ProTok: Unified Protein Tokenization via Modular Multi-Codebook Quantization",
+  "doi": "",
+  "abstract": "Protein sequence, structure, and functional annotations each capture complementary aspects of protein biology, yet existing tokenizers encode each modality independently, limiting the expressiveness of discrete protein representations. We present ProTok, a unified protein tokenizer that maps all three modalities into a modular discrete vocabulary via product quantization with per-modality codebook groups and modality dropout. A single ProTok checkpoint supports flexible inference from any modality subset without retraining. On seven StructTokenBench benchmarks spanning 14 tasks and 28 test splits, ProTok achieves an average rank of 1.4 across all structure-only tokenizers, placing first on 21 splits and among the top two on 27 of the 28. These gains come without sacrificing reconstruction: ProTok's tokens reach 0.939 lDDT on CATH 4.2, showing that multi-codebook quantization and multi-modal training yield tokens that are both reconstructable and informative. ProTok's structure tokens further lead all baseline structure tokenizers on zero-shot functional retrieval across CATH, Enzyme Commission, and Gene Ontology label hierarchies. The vocabulary also supports generation: a compact language model trained from scratch over ProTok tokens jointly generates backbone and sequence, with 52% of sampled backbones designable versus 21% for a parameter-matched GeoBPE baseline. ProTok shows that structure, sequence, and function can share one discrete vocabulary, motivating protein language models that reason over a unified token stream.",
+  "authors": [
+    "Romain Hardy",
+    "Xiaoman Zhang",
+    "Pranav Rajpurkar"
+  ],
+  "published_date": "2026-10-13T14:43:03Z",
+  "updated_date": "2026-10-13T14:43:03Z",
+  "journal": "",
+  "category": "cs.LG",
+  "landing_url": "https://arxiv.org/abs/2610.18481v1",
+  "pdf_url": "https://arxiv.org/pdf/2610.18481v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cs.LG"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2610.18481v1",
+    "raw_categories": [
+      "cs.LG"
+    ],
+    "journal_ref": ""
+  }
+}

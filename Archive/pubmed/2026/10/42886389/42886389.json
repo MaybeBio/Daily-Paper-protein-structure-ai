@@ -1,0 +1,220 @@
+{
+  "identity": {
+    "pmid": "42886389",
+    "doi": "10.1007/s10822-026-00962-8",
+    "title": "Computer-aided development of novel thiazolidinone-thiazole derivatives: multidimensional structure-activity relationships revealed by quantum chemical analysis, molecular docking and biological investigation."
+  },
+  "content": {
+    "abstract": "Diabetes mellitus is a major global health challenge, highlighting the need for new inhibitors of the carbohydrate-hydrolyzing enzymes alpha-amylase and alpha-glucosidase. In this study, a series of thiazole-based thiazolidinone derivatives (1-10) was designed, synthesized, and structurally characterized using spectroscopic techniques. Among the synthesized compounds, 8 showed the strongest inhibitory activity against alpha-amylase and alpha-glucosidase, with IC(50) values of 5.50 +/- 0.40 and 5.90 +/- 0.10 microM, respectively, and compared with 10.80 +/- 0.50 and 11.10 +/- 0.30 microM for acarbose. Molecular docking suggested that compound 8 can adopt a favorable binding orientation within the active sites of both enzymes through hydrogen-bonding and hydrophobic contacts. Enzyme kinetic studies further characterized its mode of inhibition. DFT calculations were performed to examine the electronic properties, frontier molecular orbitals, and molecular electrostatic potential of selected derivatives. ADMET analysis was also conducted to provide preliminary insight into their predicted pharmacokinetic and toxicity-related properties. Overall, the experimental and computational findings identify compound 8 as a promising lead structure for further investigation as an alpha-amylase and alpha-glucosidase inhibitor.",
+    "keywords": [
+      "ADMET prediction",
+      "Computer-aided drug design",
+      "Density functional theory (DFT)",
+      "Diabetes mellitus",
+      "Enzyme kinetics",
+      "Molecular docking",
+      "Thiazole",
+      "Thiazolidinone"
+    ],
+    "mesh_terms": [
+      "Molecular Docking Simulation",
+      "Structure-Activity Relationship",
+      "*Thiazoles/chemistry/pharmacology",
+      "*Glycoside Hydrolase Inhibitors/chemistry/pharmacology",
+      "alpha-Glucosidases/chemistry/metabolism",
+      "*Thiazolidines/chemistry/pharmacology",
+      "*alpha-Amylases/antagonists & inhibitors/chemistry",
+      "Computer-Aided Design",
+      "Drug Design",
+      "Hydrogen Bonding",
+      "Humans",
+      "Kinetics",
+      "Catalytic Domain",
+      "Hypoglycemic Agents/chemistry/pharmacology",
+      "Density Functional Theory"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Iqbal, Tayyiaba",
+        "Khan, Shoaib",
+        "Khan, Asrar",
+        "Sajjad, Hassnain",
+        "Almalki, Masi A",
+        "Abid, Souhir",
+        "Abid, Majdi",
+        "Ali, Syed Kashif",
+        "Bakridin, Zaripov",
+        "Baltabay, Eshmuratov",
+        "Gomha, Sobhi M",
+        "Zaki, Magdi E A"
+      ],
+      "short_names": [
+        "Iqbal T",
+        "Khan S",
+        "Khan A",
+        "Sajjad H",
+        "Almalki MA",
+        "Abid S",
+        "Abid M",
+        "Ali SK",
+        "Bakridin Z",
+        "Baltabay E",
+        "Gomha SM",
+        "Zaki MEA"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-5404-0954"
+      ],
+      "affiliations": [
+        "Department of Chemistry, Abbottabad University of Science and Technology, Abbottabad, 22500, Pakistan.",
+        "Department of Chemistry, Abbottabad University of Science and Technology, Abbottabad, 22500, Pakistan. shoaibkhanswati@gmail.com.",
+        "Department of Chemistry, Abbottabad University of Science and Technology, Abbottabad, 22500, Pakistan.",
+        "Department of Chemistry, Abbottabad University of Science and Technology, Abbottabad, 22500, Pakistan.",
+        "Department of Pharmacology and Toxicology, College of Pharmacy, Taif University, Taif, Saudi Arabia.",
+        "Department of Chemistry, College of Science, Jouf University, P.O. Box 2014, Sakaka, Aljouf, Kingdom of Saudi Arabia.",
+        "Department of Chemistry, College of Science, Jouf University, P.O. Box 2014, Sakaka, Aljouf, Kingdom of Saudi Arabia.",
+        "Department of Physical Sciences, Chemistry Division, College of Science, Jazan University, P.O. Box. 114, Jazan, 45142, Kingdom of Saudi Arabia.",
+        "Department of Human and animal physiology, National University of Uzbekistan named after Mirzo Ulugbek, Tashkent, Uzbekistan.",
+        "Department of Forensic Medicine and Medical Law (first), Tashkent Medical Academy, Tashkent, Uzbekistan.",
+        "Department of Chemistry, Faculty of Science, Islamic University of Madinah, Madinah, 42351, Saudi Arabia.",
+        "Department of Chemistry, Faculty of Science, Imam Mohammad Ibn Saud Islamic University (IMSIU), Riyadh, 11623, Saudi Arabia."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Iqbal, Tayyiaba",
+        "short_name": "Iqbal T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Abbottabad University of Science and Technology, Abbottabad, 22500, Pakistan."
+        ]
+      },
+      {
+        "full_name": "Khan, Shoaib",
+        "short_name": "Khan S",
+        "identifiers": [
+          "0000-0001-5404-0954"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Abbottabad University of Science and Technology, Abbottabad, 22500, Pakistan. shoaibkhanswati@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Khan, Asrar",
+        "short_name": "Khan A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Abbottabad University of Science and Technology, Abbottabad, 22500, Pakistan."
+        ]
+      },
+      {
+        "full_name": "Sajjad, Hassnain",
+        "short_name": "Sajjad H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Abbottabad University of Science and Technology, Abbottabad, 22500, Pakistan."
+        ]
+      },
+      {
+        "full_name": "Almalki, Masi A",
+        "short_name": "Almalki MA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology and Toxicology, College of Pharmacy, Taif University, Taif, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Abid, Souhir",
+        "short_name": "Abid S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, College of Science, Jouf University, P.O. Box 2014, Sakaka, Aljouf, Kingdom of Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Abid, Majdi",
+        "short_name": "Abid M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, College of Science, Jouf University, P.O. Box 2014, Sakaka, Aljouf, Kingdom of Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Ali, Syed Kashif",
+        "short_name": "Ali SK",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physical Sciences, Chemistry Division, College of Science, Jazan University, P.O. Box. 114, Jazan, 45142, Kingdom of Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Bakridin, Zaripov",
+        "short_name": "Bakridin Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Human and animal physiology, National University of Uzbekistan named after Mirzo Ulugbek, Tashkent, Uzbekistan."
+        ]
+      },
+      {
+        "full_name": "Baltabay, Eshmuratov",
+        "short_name": "Baltabay E",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Forensic Medicine and Medical Law (first), Tashkent Medical Academy, Tashkent, Uzbekistan."
+        ]
+      },
+      {
+        "full_name": "Gomha, Sobhi M",
+        "short_name": "Gomha SM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Faculty of Science, Islamic University of Madinah, Madinah, 42351, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Zaki, Magdi E A",
+        "short_name": "Zaki MEA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Faculty of Science, Imam Mohammad Ibn Saud Islamic University (IMSIU), Riyadh, 11623, Saudi Arabia."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of computer-aided molecular design"
+    ],
+    "journal_abbrev": [
+      "J Comput Aided Mol Des"
+    ],
+    "pub_date": "2026 Oct 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/16 19:04",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42886389"
+    ],
+    "review": [
+      "42886389"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

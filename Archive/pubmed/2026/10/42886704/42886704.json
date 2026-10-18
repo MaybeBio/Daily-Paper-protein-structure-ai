@@ -1,0 +1,207 @@
+{
+  "identity": {
+    "pmid": "42886704",
+    "doi": "10.1073/pnas.2626241123",
+    "title": "A \"knob-in-hole\" gate in the antibody C(H)1 domain underlies subclass-independent IgA hinge cleavage by the commensal metallopeptidase IgAse."
+  },
+  "content": {
+    "abstract": "Human immunoglobulin (Ig) A (IgA) protects  approximately 400 m(2) of mucosae from microbes. Bacterial IgA-peptidases subvert this defense by cleaving the F(ab)-F(c) hinge of subclass IgA1 while sparing the hinge-divergent, colon-dominant IgA2 subclass. The exception is IgAse, a  approximately 140-kDa, seven-domain, membrane-bound metallopeptidase from the colonic commensal Thomasclavelia ramosa that targets both subclasses but no other protein. We previously narrowed the minimal functional assembly down to the IgAse catalytic and wrapping domains (CD and WD) plus the IgA1/2 F(ab)', i.e., the hinge and a F(ab) of light and heavy chains (LC, HC), each with a variable and a constant Ig domain (V(L) + C(L), V(H) + C(H)1). The transient interaction culminates in cleavage of a proline-valine bond within the first two hinge residues, downstream of a conserved C-terminal C(H)1 disulfide (SS2). Here, single-particle cryoelectron microscopy of a disulfide-stabilized minimal IgAse:IgA2 F(ab)' complex yielded high-quality density strongly supporting two states along the cleavage reaction coordinate, a \"recognition complex\" and a subsequent \"precatalytic complex,\" in which F(ab)' binds frontally to the IgAse CD via a C(H)1 beta-sheet and overhang loop LbetaEbetaF. This loop binds like a knob to a preformed hole in the active-site cleft. Binding rearranges the knob and rotates SS2  approximately  180 degrees , enabling access of the hinge into the cleft of the otherwise unaffected precatalytic complex. Together, this work defines a unique, C(H)1-mediated hinge-delivering \"gate\" mechanism, validated by a crystal structure of unbound IgA2 F(ab), point mutations disrupting the C(H)1:CD interface, and molecular dynamics calculations, which provide the structural framework for subclass-independent IgA cleavage.",
+    "keywords": [
+      "IgA nephropathy",
+      "bacterial virulence factor",
+      "cryoelectron microscopy",
+      "immunoglobulin A peptidase",
+      "peptidase: immunoglobulin complex"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Immunoglobulin A/chemistry/metabolism",
+      "Models, Molecular",
+      "Eubacteriales/enzymology",
+      "*Metalloproteases/metabolism/chemistry",
+      "Catalytic Domain",
+      "*Bacterial Proteins/metabolism/chemistry",
+      "Protein Domains",
+      "Serine Endopeptidases"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Sebastian Ramirez-Larrota, Juan",
+        "Estivill, Guillem Arasa",
+        "Lopez-Martin, Mario",
+        "Effantin, Gregory",
+        "Gragera, Marcos",
+        "Sorzano, Carlos Oscar Sanchez",
+        "Marcos, Enrique",
+        "Eckhard, Ulrich",
+        "Gomis-Ruth, Francesc Xavier"
+      ],
+      "short_names": [
+        "Sebastian Ramirez-Larrota J",
+        "Estivill GA",
+        "Lopez-Martin M",
+        "Effantin G",
+        "Gragera M",
+        "Sorzano COS",
+        "Marcos E",
+        "Eckhard U",
+        "Gomis-Ruth FX"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-2887-209X",
+        "ORCID: 0009-0004-9190-0211",
+        "ORCID: 0000-0001-5496-9827",
+        "ORCID: 0000-0002-6957-0875",
+        "ORCID: 0000-0002-3097-1743",
+        "ORCID: 0000-0001-8736-4082",
+        "ORCID: 0000-0001-5863-4514",
+        "ORCID: 0000-0002-6848-6874"
+      ],
+      "affiliations": [
+        "Proteolysis Laboratory, Department of Structural Biology, Molecular Biology Institute of Barcelona (Consejo Superior de Investigaciones Cientificas), Barcelona 08028, Catalonia, Spain. ROR: https://ror.org/02gfc7t72",
+        "Synthetic Structural Biology Group, Department of Structural Biology, Molecular Biology Institute of Barcelona (Consejo Superior de Investigaciones Cientificas), Barcelona 08028, Catalonia, Spain. ROR: https://ror.org/02gfc7t72",
+        "Graduate Program in Biotechnology, Faculty of Pharmacy and Food Sciences, University of Barcelona, Barcelona 08028, Catalonia, Spain. ROR: https://ror.org/021018s57",
+        "Synthetic Structural Biology Group, Department of Structural Biology, Molecular Biology Institute of Barcelona (Consejo Superior de Investigaciones Cientificas), Barcelona 08028, Catalonia, Spain. ROR: https://ror.org/02gfc7t72",
+        "Graduate Program in Biotechnology, Faculty of Pharmacy and Food Sciences, University of Barcelona, Barcelona 08028, Catalonia, Spain. ROR: https://ror.org/021018s57",
+        "Synthetic Structural Biology Group, Department of Structural Biology, Molecular Biology Institute of Barcelona (Consejo Superior de Investigaciones Cientificas), Barcelona 08028, Catalonia, Spain. ROR: https://ror.org/02gfc7t72",
+        "Protein Design and Modelling, Department of Structural Biology, Molecular Biology Institute of Barcelona (Consejo Superior de Investigaciones Cientificas), Barcelona 08028, Catalonia, Spain. ROR: https://ror.org/02gfc7t72",
+        "Methods and Electron Microscopy Group, University Grenoble-Alpes, Centre National de la Recherche Scientifique, Commissariat a l'Energie Atomique, European Molecular Biology Laboratory, Integrated Structural Biology Grenoble, Grenoble 38044, France. ROR: https://ror.org/03949e763",
+        "Biocomputing Unit, Centro Nacional de Biotecnologia (Consejo Superior de Investigaciones Cientificas), Campus Universidad Autonoma, Cantoblanco 28049, Spain. ROR: https://ror.org/02gfc7t72",
+        "Biocomputing Unit, Centro Nacional de Biotecnologia (Consejo Superior de Investigaciones Cientificas), Campus Universidad Autonoma, Cantoblanco 28049, Spain. ROR: https://ror.org/02gfc7t72",
+        "Protein Design and Modelling, Department of Structural Biology, Molecular Biology Institute of Barcelona (Consejo Superior de Investigaciones Cientificas), Barcelona 08028, Catalonia, Spain. ROR: https://ror.org/02gfc7t72",
+        "Synthetic Structural Biology Group, Department of Structural Biology, Molecular Biology Institute of Barcelona (Consejo Superior de Investigaciones Cientificas), Barcelona 08028, Catalonia, Spain. ROR: https://ror.org/02gfc7t72",
+        "Proteolysis Laboratory, Department of Structural Biology, Molecular Biology Institute of Barcelona (Consejo Superior de Investigaciones Cientificas), Barcelona 08028, Catalonia, Spain. ROR: https://ror.org/02gfc7t72"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Sebastián Ramírez-Larrota, Juan",
+        "short_name": "Sebastián Ramírez-Larrota J",
+        "identifiers": [
+          "0000-0003-2887-209X"
+        ],
+        "affiliations": [
+          "Proteolysis Laboratory, Department of Structural Biology, Molecular Biology Institute of Barcelona (Consejo Superior de Investigaciones Científicas), Barcelona 08028, Catalonia, Spain.",
+          "Synthetic Structural Biology Group, Department of Structural Biology, Molecular Biology Institute of Barcelona (Consejo Superior de Investigaciones Científicas), Barcelona 08028, Catalonia, Spain.",
+          "Graduate Program in Biotechnology, Faculty of Pharmacy and Food Sciences, University of Barcelona, Barcelona 08028, Catalonia, Spain."
+        ]
+      },
+      {
+        "full_name": "Estivill, Guillem Arasa",
+        "short_name": "Estivill GA",
+        "identifiers": [
+          "0009-0004-9190-0211"
+        ],
+        "affiliations": [
+          "Synthetic Structural Biology Group, Department of Structural Biology, Molecular Biology Institute of Barcelona (Consejo Superior de Investigaciones Científicas), Barcelona 08028, Catalonia, Spain.",
+          "Graduate Program in Biotechnology, Faculty of Pharmacy and Food Sciences, University of Barcelona, Barcelona 08028, Catalonia, Spain."
+        ]
+      },
+      {
+        "full_name": "López-Martín, Mario",
+        "short_name": "López-Martín M",
+        "identifiers": [
+          "0000-0001-5496-9827"
+        ],
+        "affiliations": [
+          "Synthetic Structural Biology Group, Department of Structural Biology, Molecular Biology Institute of Barcelona (Consejo Superior de Investigaciones Científicas), Barcelona 08028, Catalonia, Spain.",
+          "Protein Design and Modelling, Department of Structural Biology, Molecular Biology Institute of Barcelona (Consejo Superior de Investigaciones Cientificas), Barcelona 08028, Catalonia, Spain."
+        ]
+      },
+      {
+        "full_name": "Effantin, Gregory",
+        "short_name": "Effantin G",
+        "identifiers": [
+          "0000-0002-6957-0875"
+        ],
+        "affiliations": [
+          "Methods and Electron Microscopy Group, University Grenoble-Alpes, Centre National de la Recherche Scientifique, Commissariat à l'Énergie Atomique, European Molecular Biology Laboratory, Integrated Structural Biology Grenoble, Grenoble 38044, France."
+        ]
+      },
+      {
+        "full_name": "Gragera, Marcos",
+        "short_name": "Gragera M",
+        "identifiers": [
+          "0000-0002-3097-1743"
+        ],
+        "affiliations": [
+          "Biocomputing Unit, Centro Nacional de Biotecnología (Consejo Superior de Investigaciones Cientificas), Campus Universidad Autónoma, Cantoblanco 28049, Spain."
+        ]
+      },
+      {
+        "full_name": "Sorzano, Carlos Óscar Sánchez",
+        "short_name": "Sorzano CÓS",
+        "identifiers": [],
+        "affiliations": [
+          "Biocomputing Unit, Centro Nacional de Biotecnología (Consejo Superior de Investigaciones Cientificas), Campus Universidad Autónoma, Cantoblanco 28049, Spain."
+        ]
+      },
+      {
+        "full_name": "Marcos, Enrique",
+        "short_name": "Marcos E",
+        "identifiers": [
+          "0000-0001-8736-4082"
+        ],
+        "affiliations": [
+          "Protein Design and Modelling, Department of Structural Biology, Molecular Biology Institute of Barcelona (Consejo Superior de Investigaciones Cientificas), Barcelona 08028, Catalonia, Spain."
+        ]
+      },
+      {
+        "full_name": "Eckhard, Ulrich",
+        "short_name": "Eckhard U",
+        "identifiers": [
+          "0000-0001-5863-4514"
+        ],
+        "affiliations": [
+          "Synthetic Structural Biology Group, Department of Structural Biology, Molecular Biology Institute of Barcelona (Consejo Superior de Investigaciones Científicas), Barcelona 08028, Catalonia, Spain."
+        ]
+      },
+      {
+        "full_name": "Gomis-Rüth, Francesc Xavier",
+        "short_name": "Gomis-Rüth FX",
+        "identifiers": [
+          "0000-0002-6848-6874"
+        ],
+        "affiliations": [
+          "Proteolysis Laboratory, Department of Structural Biology, Molecular Biology Institute of Barcelona (Consejo Superior de Investigaciones Científicas), Barcelona 08028, Catalonia, Spain."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Proceedings of the National Academy of Sciences of the United States of America"
+    ],
+    "journal_abbrev": [
+      "Proc Natl Acad Sci U S A"
+    ],
+    "pub_date": "2026 Oct 20",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/16 19:05",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42886704"
+    ],
+    "review": [
+      "42886704"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "identity": {
+    "pmid": "42890196",
+    "doi": "10.1016/j.fochx.2026.104580",
+    "title": "Screening and identification of a novel umami peptide with in vitro anti-inflammatory potential from sea cucumber protein: Integration of flavoromics, bioinformatic prediction, molecular simulation and experimental validation."
+  },
+  "content": {
+    "abstract": "Sea cucumber protein was sequentially hydrolyzed with pepsin, trypsin, and enterokinase to obtain peptides with desirable taste characteristics and immunomodulatory potential. Multi-scale characterization, flavoromics, peptidomics, bioinformatic screening, molecular simulations, and cellular assays were employed to investigate the structural changes, flavor remodeling, and bioactivity of the resulting hydrolysates. Results showed that hydrolysis disrupted the compact protein structure, induced conformational unfolding, and yielded short peptides (0.5-1.5 kDa) with enhanced hydrophilicity and processing adaptability. The volatile profile was significantly reshaped, with marked enrichment of aldehydes and heterocyclic compounds. Through multi-dimensional screening, the pentapeptide FDRGF (TH) was identified with outstanding umami taste and low bitterness. Molecular docking and dynamics simulations confirmed stable binding of TH to immunomodulatory targets, and cellular assays verified that TH improved macrophage metabolic status and regulated the expression of inflammatory mediators under LPS-induced inflammatory conditions. This study elucidates the structure-flavor-activity relationships of sea cucumber protein hydrolysates and identifies a dual-function umami peptide with immunomodulatory activity, providing theoretical support for the value-added utilization of sea cucumber resources.",
+    "keywords": [
+      "Anti-inflammatory potential",
+      "Flavoromics",
+      "Molecular simulation",
+      "Sea cucumber peptide",
+      "Umami peptide"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chu, Zhongxing",
+        "Long, Can",
+        "Xu, Kangjie",
+        "Zhang, Xingjing",
+        "Qin, Dandan",
+        "Hu, Zuomin",
+        "Zhou, Yaping",
+        "Luo, Feijun",
+        "Lin, Qinlu"
+      ],
+      "short_names": [
+        "Chu Z",
+        "Long C",
+        "Xu K",
+        "Zhang X",
+        "Qin D",
+        "Hu Z",
+        "Zhou Y",
+        "Luo F",
+        "Lin Q"
+      ],
+      "auids": [],
+      "affiliations": [
+        "State Key Laboratory of Woody Oil Resources Utilization, School of Food Science and Engineering, Central South University of Forestry and Technology, Changsha 410004, Hunan, China.",
+        "State Key Laboratory of Woody Oil Resources Utilization, School of Food Science and Engineering, Central South University of Forestry and Technology, Changsha 410004, Hunan, China.",
+        "State Key Laboratory of Woody Oil Resources Utilization, School of Food Science and Engineering, Central South University of Forestry and Technology, Changsha 410004, Hunan, China.",
+        "State Key Laboratory of Woody Oil Resources Utilization, School of Food Science and Engineering, Central South University of Forestry and Technology, Changsha 410004, Hunan, China.",
+        "DongTing Laboratory, Hunan Institute of Agricultural Product Processing and Quality Safety, Hunan Academy of Agricultural Sciences, Changsha, Hunan 410125, China.",
+        "State Key Laboratory of Woody Oil Resources Utilization, School of Food Science and Engineering, Central South University of Forestry and Technology, Changsha 410004, Hunan, China.",
+        "State Key Laboratory of Woody Oil Resources Utilization, School of Food Science and Engineering, Central South University of Forestry and Technology, Changsha 410004, Hunan, China.",
+        "State Key Laboratory of Woody Oil Resources Utilization, School of Food Science and Engineering, Central South University of Forestry and Technology, Changsha 410004, Hunan, China.",
+        "State Key Laboratory of Woody Oil Resources Utilization, School of Food Science and Engineering, Central South University of Forestry and Technology, Changsha 410004, Hunan, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chu, Zhongxing",
+        "short_name": "Chu Z",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Woody Oil Resources Utilization, School of Food Science and Engineering, Central South University of Forestry and Technology, Changsha 410004, Hunan, China."
+        ]
+      },
+      {
+        "full_name": "Long, Can",
+        "short_name": "Long C",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Woody Oil Resources Utilization, School of Food Science and Engineering, Central South University of Forestry and Technology, Changsha 410004, Hunan, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Kangjie",
+        "short_name": "Xu K",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Woody Oil Resources Utilization, School of Food Science and Engineering, Central South University of Forestry and Technology, Changsha 410004, Hunan, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xingjing",
+        "short_name": "Zhang X",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Woody Oil Resources Utilization, School of Food Science and Engineering, Central South University of Forestry and Technology, Changsha 410004, Hunan, China."
+        ]
+      },
+      {
+        "full_name": "Qin, Dandan",
+        "short_name": "Qin D",
+        "identifiers": [],
+        "affiliations": [
+          "DongTing Laboratory, Hunan Institute of Agricultural Product Processing and Quality Safety, Hunan Academy of Agricultural Sciences, Changsha, Hunan 410125, China."
+        ]
+      },
+      {
+        "full_name": "Hu, Zuomin",
+        "short_name": "Hu Z",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Woody Oil Resources Utilization, School of Food Science and Engineering, Central South University of Forestry and Technology, Changsha 410004, Hunan, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Yaping",
+        "short_name": "Zhou Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Woody Oil Resources Utilization, School of Food Science and Engineering, Central South University of Forestry and Technology, Changsha 410004, Hunan, China."
+        ]
+      },
+      {
+        "full_name": "Luo, Feijun",
+        "short_name": "Luo F",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Woody Oil Resources Utilization, School of Food Science and Engineering, Central South University of Forestry and Technology, Changsha 410004, Hunan, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Qinlu",
+        "short_name": "Lin Q",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Woody Oil Resources Utilization, School of Food Science and Engineering, Central South University of Forestry and Technology, Changsha 410004, Hunan, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Food chemistry: X"
+    ],
+    "journal_abbrev": [
+      "Food Chem X"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/17 23:12",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42890196"
+    ],
+    "review": [
+      "42890196"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "identity": {
+    "pmid": "42865680",
+    "doi": "10.18502/ijrm.v24i8.21663",
+    "title": "Rare missense variants identified by whole-genome sequencing in men with oligoasthenoteratozoospermia: An experimental study."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Oligoasthenoteratozoospermia (OAT) is a major cause of male infertility, characterized by low sperm count, poor motility, and abnormal morphology. While genetic factors contribute to a substantial proportion of cases, the specific variants underlying OAT remain largely unknown, especially in populations with high rates of consanguinity. OBJECTIVE: To identify rare candidate variants potentially associated with OAT using whole-genome sequencing (WGS) in 7 men from consanguineous families. MATERIALS AND METHODS: 7 men with OAT from consanguineous families, with normal karyotypes and no Y-chromosome microdeletions, were selected. WGS was performed, and variants were called using DeepVariant. These variants were then annotated using the Ensembl variant effect predictor. Rare variants were prioritized based on their predicted pathogenicity and relevance to reproduction, and candidate variants were validated. Protein structure modeling and analysis of mutation-induced effects on molecular interactions were carried out using Swiss model and AlphaFold. RESULTS: We identified 2 rare homozygous missense variants in DNAH9 (p.Pro355Leu) and CFAP45 (p.Arg493Trp) in the index case with OAT. Both genes have been implicated in sperm flagellar structure and motility. Additional variants in genes associated with spermiogenesis, acrosomal integrity, and testicular function were also identified. CONCLUSION: Our findings demonstrate the potential utility of WGS in identifying rare candidate variants potentially associated with OAT. The identified DNAH9 and CFAP45 variants, together with additional candidate variants, may contribute to the impaired sperm function observed in this man. This study also highlights the value of genome-wide analyses in improving our understanding of male infertility, particularly in consanguineous populations, and provides a foundation for future functional studies and personalized diagnostic approaches.",
+    "keywords": [
+      "CFAP45.",
+      "DNAH9",
+      "Oligoasthenoteratozoospermia",
+      "Whole-genome sequencing",
+      "Male infertility"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Sadeghzadeh, Sara",
+        "Malcher, Agnieszka",
+        "Ebrahimi Askari, Razieh",
+        "Sefid, Fatemeh",
+        "Ibrahim, Rim",
+        "Pastuszak, Krzysztof",
+        "Srivastava, Aashish",
+        "Dehghani, Mohammadreza",
+        "Vahidi, Serajoddin",
+        "Lotfi, Marzieh",
+        "Ghasemi, Nasrin",
+        "Kurpisz, Maciej"
+      ],
+      "short_names": [
+        "Sadeghzadeh S",
+        "Malcher A",
+        "Ebrahimi Askari R",
+        "Sefid F",
+        "Ibrahim R",
+        "Pastuszak K",
+        "Srivastava A",
+        "Dehghani M",
+        "Vahidi S",
+        "Lotfi M",
+        "Ghasemi N",
+        "Kurpisz M"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Molecular Medicine, Faculty of Advanced Technologies in Medicine, Shahid Sadoughi University of Medical Sciences, Yazd, Iran.",
+        "Institute of Human Genetics, Polish Academy of Sciences, Poznan, Poland.",
+        "Department of Medical Genetics, Faculty of Medicine, Shahid Sadoughi University of Medical Sciences, Yazd, Iran.",
+        "Department of Molecular Medicine, Faculty of Advanced Technologies in Medicine, Shahid Sadoughi University of Medical Sciences, Yazd, Iran.",
+        "Institute of Human Genetics, Polish Academy of Sciences, Poznan, Poland.",
+        "Department of Algorithms and System Modelling, Gdansk University of Technology, Gdansk, Poland.",
+        "Department of Translational Oncology, Medical University of Gdansk, Gdansk, Poland.",
+        "Centre of Biostatistics and Bioinformatics, Medical University of Gdansk, Gdansk, Poland.",
+        "Genome Core Facility, Clinical Laboratory, Haukeland University Hospital, Bergen, Norway.",
+        "Department of Medical Genetics, Faculty of Medicine, Shahid Sadoughi University of Medical Sciences, Yazd, Iran.",
+        "Abortion Research Center, Yazd Reproductive Sciences Institute, Shahid Sadoughi University of Medical Sciences, Yazd, Iran.",
+        "Andrology Research Center, Yazd Reproductive Sciences Institute, Shahid Sadoughi University of Medical Sciences, Yazd, Iran.",
+        "Department of Molecular Medicine, Faculty of Advanced Technologies in Medicine, Shahid Sadoughi University of Medical Sciences, Yazd, Iran.",
+        "Abortion Research Center, Yazd Reproductive Sciences Institute, Shahid Sadoughi University of Medical Sciences, Yazd, Iran.",
+        "Department of Medical Genetics, Faculty of Medicine, Shahid Sadoughi University of Medical Sciences, Yazd, Iran.",
+        "Abortion Research Center, Yazd Reproductive Sciences Institute, Shahid Sadoughi University of Medical Sciences, Yazd, Iran.",
+        "Institute of Human Genetics, Polish Academy of Sciences, Poznan, Poland."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Sadeghzadeh, Sara",
+        "short_name": "Sadeghzadeh S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Medicine, Faculty of Advanced Technologies in Medicine, Shahid Sadoughi University of Medical Sciences, Yazd, Iran."
+        ]
+      },
+      {
+        "full_name": "Malcher, Agnieszka",
+        "short_name": "Malcher A",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Human Genetics, Polish Academy of Sciences, Poznan, Poland."
+        ]
+      },
+      {
+        "full_name": "Ebrahimi Askari, Razieh",
+        "short_name": "Ebrahimi Askari R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Genetics, Faculty of Medicine, Shahid Sadoughi University of Medical Sciences, Yazd, Iran."
+        ]
+      },
+      {
+        "full_name": "Sefid, Fatemeh",
+        "short_name": "Sefid F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Medicine, Faculty of Advanced Technologies in Medicine, Shahid Sadoughi University of Medical Sciences, Yazd, Iran."
+        ]
+      },
+      {
+        "full_name": "Ibrahim, Rim",
+        "short_name": "Ibrahim R",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Human Genetics, Polish Academy of Sciences, Poznan, Poland."
+        ]
+      },
+      {
+        "full_name": "Pastuszak, Krzysztof",
+        "short_name": "Pastuszak K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Algorithms and System Modelling, Gdansk University of Technology, Gdansk, Poland.",
+          "Department of Translational Oncology, Medical University of Gdansk, Gdansk, Poland.",
+          "Centre of Biostatistics and Bioinformatics, Medical University of Gdansk, Gdansk, Poland."
+        ]
+      },
+      {
+        "full_name": "Srivastava, Aashish",
+        "short_name": "Srivastava A",
+        "identifiers": [],
+        "affiliations": [
+          "Genome Core Facility, Clinical Laboratory, Haukeland University Hospital, Bergen, Norway."
+        ]
+      },
+      {
+        "full_name": "Dehghani, Mohammadreza",
+        "short_name": "Dehghani M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Genetics, Faculty of Medicine, Shahid Sadoughi University of Medical Sciences, Yazd, Iran.",
+          "Abortion Research Center, Yazd Reproductive Sciences Institute, Shahid Sadoughi University of Medical Sciences, Yazd, Iran."
+        ]
+      },
+      {
+        "full_name": "Vahidi, Serajoddin",
+        "short_name": "Vahidi S",
+        "identifiers": [],
+        "affiliations": [
+          "Andrology Research Center, Yazd Reproductive Sciences Institute, Shahid Sadoughi University of Medical Sciences, Yazd, Iran."
+        ]
+      },
+      {
+        "full_name": "Lotfi, Marzieh",
+        "short_name": "Lotfi M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Medicine, Faculty of Advanced Technologies in Medicine, Shahid Sadoughi University of Medical Sciences, Yazd, Iran.",
+          "Abortion Research Center, Yazd Reproductive Sciences Institute, Shahid Sadoughi University of Medical Sciences, Yazd, Iran."
+        ]
+      },
+      {
+        "full_name": "Ghasemi, Nasrin",
+        "short_name": "Ghasemi N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medical Genetics, Faculty of Medicine, Shahid Sadoughi University of Medical Sciences, Yazd, Iran.",
+          "Abortion Research Center, Yazd Reproductive Sciences Institute, Shahid Sadoughi University of Medical Sciences, Yazd, Iran."
+        ]
+      },
+      {
+        "full_name": "Kurpisz, Maciej",
+        "short_name": "Kurpisz M",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Human Genetics, Polish Academy of Sciences, Poznan, Poland."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of reproductive biomedicine"
+    ],
+    "journal_abbrev": [
+      "Int J Reprod Biomed"
+    ],
+    "pub_date": "2026 Aug",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/13 11:41",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42865680"
+    ],
+    "review": [
+      "42865680"
+    ],
+    "pmc": [
+      "13655627"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

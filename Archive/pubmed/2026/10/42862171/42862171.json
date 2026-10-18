@@ -1,0 +1,464 @@
+{
+  "identity": {
+    "pmid": "42862171",
+    "doi": "10.7554/eLife.110475",
+    "title": "Large-scale prospective evaluation of co-folding across hundreds of Mac1-ligand complexes and three virtual screens."
+  },
+  "content": {
+    "abstract": "Accurate prediction of ligand-bound protein complexes and ranking them by affinity are central problems in drug discovery. While deep-learning co-folding methods can help address these challenges, their evaluation has been hampered by the difficulties in assessing independence from training data and insufficiently large test sets. Here, we test the ability of co-folding methods to predict the structures of 551 ligands, 489 of which are of sufficient quality for evaluation, bound to the SARS-CoV-2 NSP3 macrodomain (Mac1) that were determined after the training cutoff dates. AlphaFold3 (AF3), Boltz-2, and Chai-1 each reproduced >50% of the Mac1 ligand poses to better than 2 A root-mean-square deviation of experiment. Despite the potential for co-folding to describe protein conformational changes that stabilize ligand binding, we did not find that common conformational rearrangements, including peptide flip and a large loop opening, were recapitulated by the co-folding prediction. For AF3 and Chai-1, ligand pose prediction confidence weakly, but significantly, tracked experimental potency, while DOCK3.7 energies were only weakly correlated. Boltz-2 affinity predictions showed the strongest correlation with measured potency and, after calibration, achieved lower mean absolute error than a baseline predictor. We next assessed whether co-folding scores could rescore docking hit lists to distinguish true ligands from non-binders among hundreds of molecules prospectively experimentally tested against AmpC beta-lactamase, the dopamine D4, and the sigma(2) receptors. AF3 ligand pose confidence values did not separate true ligands from high-scoring false positives as effectively as docking scores or Boltz-2 affinity predictions did. Taken together, the modest, but independent correlations of docking score and co-folding confidence or affinity suggest that integrating physics-based and deep-learning approaches may help with hit prioritization and subsequent optimization in structure-based ligand discovery.",
+    "keywords": [
+      "E. coli",
+      "X-ray crystallography",
+      "co-folding",
+      "docking",
+      "drug design",
+      "machine learning",
+      "molecular biophysics",
+      "structural biology",
+      "structure prediction"
+    ],
+    "mesh_terms": [
+      "Ligands",
+      "*Protein Folding",
+      "Protein Binding",
+      "SARS-CoV-2",
+      "*Viral Nonstructural Proteins/chemistry/metabolism",
+      "Protein Conformation",
+      "Humans",
+      "Drug Discovery/methods"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kim, Jongbin",
+        "Correy, Galen J",
+        "Hall, Brendan W",
+        "Rachman, Moira M",
+        "Mailhot, Olivier",
+        "Togo, Takaya",
+        "Gonciarz, Ryan L",
+        "Jaishankar, Priyadarshini",
+        "Neitz, R Jeffrey",
+        "Hantz, Eric R",
+        "Doruk, Yagmur U",
+        "Stevens, Maisie G V",
+        "Diolaiti, Morgan E",
+        "Reid, Rashad",
+        "Gopalkrishnan, Saumya",
+        "Krogan, Nevan J",
+        "Renslo, Adam R",
+        "Ashworth, Alan",
+        "Shoichet, Brian K",
+        "Fraser, James S"
+      ],
+      "short_names": [
+        "Kim J",
+        "Correy GJ",
+        "Hall BW",
+        "Rachman MM",
+        "Mailhot O",
+        "Togo T",
+        "Gonciarz RL",
+        "Jaishankar P",
+        "Neitz RJ",
+        "Hantz ER",
+        "Doruk YU",
+        "Stevens MGV",
+        "Diolaiti ME",
+        "Reid R",
+        "Gopalkrishnan S",
+        "Krogan NJ",
+        "Renslo AR",
+        "Ashworth A",
+        "Shoichet BK",
+        "Fraser JS"
+      ],
+      "auids": [
+        "ORCID: 0009-0007-3405-7880",
+        "ORCID: 0000-0001-5155-7325",
+        "ORCID: 0000-0002-7533-4561",
+        "ORCID: 0000-0003-0243-0760",
+        "ORCID: 0000-0002-6600-7032",
+        "ORCID: 0009-0005-2013-8941",
+        "ORCID: 0000-0002-2247-9345",
+        "ORCID: 0000-0002-2588-7619",
+        "ORCID: 0009-0004-9732-0349",
+        "ORCID: 0000-0001-5900-3060",
+        "ORCID: 0009-0001-1513-8614",
+        "ORCID: 0009-0003-6713-4492",
+        "ORCID: 0000-0002-6098-7367",
+        "ORCID: 0000-0002-5080-2859"
+      ],
+      "affiliations": [
+        "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, United States.",
+        "Department of Bioengineering and Therapeutic Sciences, University of California, San Francisco, San Francisco, United States.",
+        "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, United States.",
+        "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, United States.",
+        "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, United States.",
+        "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, United States.",
+        "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, United States.",
+        "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, United States.",
+        "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, United States.",
+        "Small Molecule Discovery Center, Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, United States.",
+        "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, United States.",
+        "Helen Diller Family Comprehensive Cancer Center, University of California, San Francisco, San Francisco, United States.",
+        "Helen Diller Family Comprehensive Cancer Center, University of California, San Francisco, San Francisco, United States.",
+        "Helen Diller Family Comprehensive Cancer Center, University of California, San Francisco, San Francisco, United States.",
+        "Department of Biological and Medical Informatics, University of California, San Francisco, San Francisco, United States.",
+        "Quantitative Biosciences Institute (QBI), University of California, San Francisco, San Francisco, United States.",
+        "Department of Bioengineering and Therapeutic Sciences, University of California, San Francisco, San Francisco, United States.",
+        "Quantitative Biosciences Institute (QBI), University of California, San Francisco, San Francisco, United States.",
+        "Data Science and Biotechnology Institute, Gladstone Institutes, San Francisco, United States.",
+        "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, United States.",
+        "Helen Diller Family Comprehensive Cancer Center, University of California, San Francisco, San Francisco, United States.",
+        "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, United States.",
+        "Department of Bioengineering and Therapeutic Sciences, University of California, San Francisco, San Francisco, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kim, Jongbin",
+        "short_name": "Kim J",
+        "identifiers": [
+          "0009-0007-3405-7880"
+        ],
+        "affiliations": [
+          "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, United States."
+        ]
+      },
+      {
+        "full_name": "Correy, Galen J",
+        "short_name": "Correy GJ",
+        "identifiers": [
+          "0000-0001-5155-7325"
+        ],
+        "affiliations": [
+          "Department of Bioengineering and Therapeutic Sciences, University of California, San Francisco, San Francisco, United States."
+        ]
+      },
+      {
+        "full_name": "Hall, Brendan W",
+        "short_name": "Hall BW",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, United States."
+        ]
+      },
+      {
+        "full_name": "Rachman, Moira M",
+        "short_name": "Rachman MM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, United States."
+        ]
+      },
+      {
+        "full_name": "Mailhot, Olivier",
+        "short_name": "Mailhot O",
+        "identifiers": [
+          "0000-0002-7533-4561"
+        ],
+        "affiliations": [
+          "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, United States."
+        ]
+      },
+      {
+        "full_name": "Togo, Takaya",
+        "short_name": "Togo T",
+        "identifiers": [
+          "0000-0003-0243-0760"
+        ],
+        "affiliations": [
+          "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, United States."
+        ]
+      },
+      {
+        "full_name": "Gonciarz, Ryan L",
+        "short_name": "Gonciarz RL",
+        "identifiers": [
+          "0000-0002-6600-7032"
+        ],
+        "affiliations": [
+          "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, United States."
+        ]
+      },
+      {
+        "full_name": "Jaishankar, Priyadarshini",
+        "short_name": "Jaishankar P",
+        "identifiers": [
+          "0009-0005-2013-8941"
+        ],
+        "affiliations": [
+          "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, United States."
+        ]
+      },
+      {
+        "full_name": "Neitz, R Jeffrey",
+        "short_name": "Neitz RJ",
+        "identifiers": [
+          "0000-0002-2247-9345"
+        ],
+        "affiliations": [
+          "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, United States.",
+          "Small Molecule Discovery Center, Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, United States."
+        ]
+      },
+      {
+        "full_name": "Hantz, Eric R",
+        "short_name": "Hantz ER",
+        "identifiers": [
+          "0000-0002-2588-7619"
+        ],
+        "affiliations": [
+          "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, United States."
+        ]
+      },
+      {
+        "full_name": "Doruk, Yagmur U",
+        "short_name": "Doruk YU",
+        "identifiers": [],
+        "affiliations": [
+          "Helen Diller Family Comprehensive Cancer Center, University of California, San Francisco, San Francisco, United States."
+        ]
+      },
+      {
+        "full_name": "Stevens, Maisie G V",
+        "short_name": "Stevens MGV",
+        "identifiers": [
+          "0009-0004-9732-0349"
+        ],
+        "affiliations": [
+          "Helen Diller Family Comprehensive Cancer Center, University of California, San Francisco, San Francisco, United States."
+        ]
+      },
+      {
+        "full_name": "Diolaiti, Morgan E",
+        "short_name": "Diolaiti ME",
+        "identifiers": [
+          "0000-0001-5900-3060"
+        ],
+        "affiliations": [
+          "Helen Diller Family Comprehensive Cancer Center, University of California, San Francisco, San Francisco, United States."
+        ]
+      },
+      {
+        "full_name": "Reid, Rashad",
+        "short_name": "Reid R",
+        "identifiers": [
+          "0009-0001-1513-8614"
+        ],
+        "affiliations": [
+          "Department of Biological and Medical Informatics, University of California, San Francisco, San Francisco, United States."
+        ]
+      },
+      {
+        "full_name": "Gopalkrishnan, Saumya",
+        "short_name": "Gopalkrishnan S",
+        "identifiers": [
+          "0009-0003-6713-4492"
+        ],
+        "affiliations": [
+          "Quantitative Biosciences Institute (QBI), University of California, San Francisco, San Francisco, United States."
+        ]
+      },
+      {
+        "full_name": "Krogan, Nevan J",
+        "short_name": "Krogan NJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bioengineering and Therapeutic Sciences, University of California, San Francisco, San Francisco, United States.",
+          "Quantitative Biosciences Institute (QBI), University of California, San Francisco, San Francisco, United States.",
+          "Data Science and Biotechnology Institute, Gladstone Institutes, San Francisco, United States."
+        ]
+      },
+      {
+        "full_name": "Renslo, Adam R",
+        "short_name": "Renslo AR",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, United States."
+        ]
+      },
+      {
+        "full_name": "Ashworth, Alan",
+        "short_name": "Ashworth A",
+        "identifiers": [],
+        "affiliations": [
+          "Helen Diller Family Comprehensive Cancer Center, University of California, San Francisco, San Francisco, United States."
+        ]
+      },
+      {
+        "full_name": "Shoichet, Brian K",
+        "short_name": "Shoichet BK",
+        "identifiers": [
+          "0000-0002-6098-7367"
+        ],
+        "affiliations": [
+          "Department of Pharmaceutical Chemistry, University of California, San Francisco, San Francisco, United States."
+        ]
+      },
+      {
+        "full_name": "Fraser, James S",
+        "short_name": "Fraser JS",
+        "identifiers": [
+          "0000-0002-5080-2859"
+        ],
+        "affiliations": [
+          "Department of Bioengineering and Therapeutic Sciences, University of California, San Francisco, San Francisco, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "eLife"
+    ],
+    "journal_abbrev": [
+      "Elife"
+    ],
+    "pub_date": "2026 Oct 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/12 11:41",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42862171",
+      "41509292",
+      "41526649",
+      "41429653",
+      "41636346",
+      "42769622",
+      "27562018",
+      "29495922",
+      "33034007",
+      "39337622",
+      "24171431",
+      "39497201",
+      "42713223",
+      "28185549",
+      "40285358",
+      "36598939",
+      "40750568",
+      "29190087",
+      "18280498",
+      "42471645",
+      "42732698",
+      "39558632",
+      "25724101",
+      "28361672",
+      "41040057",
+      "42546051",
+      "33758923",
+      "42113584",
+      "41053181",
+      "41045049",
+      "40166350",
+      "41921096",
+      "34109796",
+      "27573981",
+      "38732174",
+      "29127581",
+      "38753765",
+      "40195868",
+      "22411892",
+      "27714493",
+      "25207678",
+      "35794891",
+      "29119352",
+      "27484214",
+      "25916860",
+      "40401777",
+      "37005531",
+      "40662794",
+      "25848966",
+      "42579383",
+      "31833767",
+      "41565251",
+      "42414572",
+      "28884249",
+      "42415674",
+      "31257108",
+      "37159314",
+      "35901959",
+      "42565482",
+      "28766097",
+      "40964377",
+      "15001363",
+      "41592323",
+      "41317487",
+      "28831657",
+      "28668990",
+      "17599350",
+      "41596516",
+      "22569591",
+      "37606194",
+      "34921117",
+      "38927052",
+      "38706316",
+      "37319418",
+      "16708364",
+      "42734548",
+      "33158944",
+      "22017385",
+      "38140532",
+      "38131311",
+      "42095677",
+      "41279452",
+      "27870243",
+      "39830331",
+      "42439527",
+      "42667474",
+      "38102069",
+      "41086296",
+      "40671257",
+      "42334929",
+      "41534323",
+      "33724022",
+      "42039579",
+      "41642195",
+      "41548135",
+      "22014038",
+      "32981460",
+      "33979150",
+      "39066235",
+      "23912807"
+    ],
+    "review": [
+      "42862171",
+      "42546051"
+    ],
+    "pmc": [
+      "13657626"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/CPTAC-438",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.7554/eLife.110475",
+        "provider": "eLife Sciences Publications, Ltd",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

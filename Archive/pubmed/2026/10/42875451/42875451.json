@@ -1,0 +1,219 @@
+{
+  "identity": {
+    "pmid": "42875451",
+    "doi": "10.1038/s41467-026-78136-1",
+    "title": "Small viruses reveal bidirectional evolution between HK97-fold viruses and encapsulins via procapsids."
+  },
+  "content": {
+    "abstract": "The HK97-fold is an ancient, conserved protein structure that assembles protein shells, forming the capsids of Duplodnaviria viruses and prokaryotic biochemical compartments called encapsulsins. It has been proposed that encapsulins evolved from HK97-fold viruses. But the higher complexity of viral capsids represents a biophysical paradox in the evolution of HK97-fold protein shells. To resolve this problem, we hypothesize the existence of simpler HK97-fold viral capsids associated with smaller genomes than those of known HK97-fold viruses. Such small viral genomes are searched in environmental metagenomes across public databases, including IMG/M and MGnify. Using hidden Markov models and protein language models, we identify and characterize small viral genomes encoding HK97-fold proteins that exhibit molecular similarities to encapsulins yet lack portal and tail genes. The phylogenetic analyses of HK97-fold proteins reveal independent mixed groups of viruses and encapsulins, and structural analyses identify similarities between encapsulins and procapsids, the immature state of viral capsids. The observations support a bidirectional evolution between encapsulins and HK97-fold viruses enabled by the viral procapsid state. Using biophysical and genomic arguments, we introduce an evolutionary model of HK97-fold protein shells, predicting that they emerged as lower-symmetry biochemical compartments and that HK97-fold viral capsids may retain biochemical functions.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Capsid/metabolism/chemistry",
+      "*Evolution, Molecular",
+      "Genome, Viral",
+      "Phylogeny",
+      "Models, Molecular",
+      "*DNA Viruses/genetics",
+      "*Capsid Proteins/genetics/chemistry/metabolism",
+      "Protein Folding"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Aguilar, Abelardo",
+        "Miranda Perez, Ingrid",
+        "Nadel, Omer",
+        "Nayfach, Stephen",
+        "Ruiz Pestana, Luis",
+        "Segall, Anca M",
+        "Rohwer, Forest L",
+        "Roux, Simon",
+        "White, Simon",
+        "Luque, Antoni"
+      ],
+      "short_names": [
+        "Aguilar A",
+        "Miranda Perez I",
+        "Nadel O",
+        "Nayfach S",
+        "Ruiz Pestana L",
+        "Segall AM",
+        "Rohwer FL",
+        "Roux S",
+        "White S",
+        "Luque A"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-4625-4164",
+        "ORCID: 0000-0001-8028-5242",
+        "ORCID: 0000-0002-8454-5248",
+        "ORCID: 0000-0002-5831-5895",
+        "ORCID: 0000-0002-9227-9461",
+        "ORCID: 0000-0002-5817-4914"
+      ],
+      "affiliations": [
+        "Department of Biology, University of Miami, Coral Gables, FL, USA.",
+        "Department of Biology, University of Miami, Coral Gables, FL, USA.",
+        "Department of Evolutionary Biology, Universidad Nacional Autonoma de Mexico, Ciudad Universitaria, Mexico City, Mexico.",
+        "Department of Biology, University of Miami, Coral Gables, FL, USA.",
+        "Profluent Bio, Emeryville, CA, USA.",
+        "Department of Civil and Architectural Engineering, University of Miami, Coral Gables, FL, USA.",
+        "Department of Chemical, Environmental, and Materials Engineering, University of Miami, Coral Gables, FL, USA.",
+        "Department of Biology, San Diego State University, San Diego, CA, USA.",
+        "Viral Information Institute, San Diego State University, San Diego, CA, USA.",
+        "Department of Biology, San Diego State University, San Diego, CA, USA.",
+        "Viral Information Institute, San Diego State University, San Diego, CA, USA.",
+        "Department of Energy Joint Genome Institute, Lawrence Berkeley National Laboratory, Berkeley, CA, USA.",
+        "Department of Molecular and Cell Biology, University of Connecticut, Storrs, CT, USA.",
+        "Department of Biology, University of Miami, Coral Gables, FL, USA. antoni.luque@miami.edu.",
+        "Department of Chemical, Environmental, and Materials Engineering, University of Miami, Coral Gables, FL, USA. antoni.luque@miami.edu.",
+        "Department of Physics, University of Miami, Coral Gables, FL, USA. antoni.luque@miami.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Aguilar, Abelardo",
+        "short_name": "Aguilar A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, University of Miami, Coral Gables, FL, USA."
+        ]
+      },
+      {
+        "full_name": "Miranda Perez, Ingrid",
+        "short_name": "Miranda Perez I",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, University of Miami, Coral Gables, FL, USA.",
+          "Department of Evolutionary Biology, Universidad Nacional Autónoma de México, Ciudad Universitaria, Mexico City, México."
+        ]
+      },
+      {
+        "full_name": "Nadel, Omer",
+        "short_name": "Nadel O",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, University of Miami, Coral Gables, FL, USA."
+        ]
+      },
+      {
+        "full_name": "Nayfach, Stephen",
+        "short_name": "Nayfach S",
+        "identifiers": [
+          "0000-0003-4625-4164"
+        ],
+        "affiliations": [
+          "Profluent Bio, Emeryville, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Ruiz Pestana, Luis",
+        "short_name": "Ruiz Pestana L",
+        "identifiers": [
+          "0000-0001-8028-5242"
+        ],
+        "affiliations": [
+          "Department of Civil and Architectural Engineering, University of Miami, Coral Gables, FL, USA.",
+          "Department of Chemical, Environmental, and Materials Engineering, University of Miami, Coral Gables, FL, USA."
+        ]
+      },
+      {
+        "full_name": "Segall, Anca M",
+        "short_name": "Segall AM",
+        "identifiers": [
+          "0000-0002-8454-5248"
+        ],
+        "affiliations": [
+          "Department of Biology, San Diego State University, San Diego, CA, USA.",
+          "Viral Information Institute, San Diego State University, San Diego, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Rohwer, Forest L",
+        "short_name": "Rohwer FL",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biology, San Diego State University, San Diego, CA, USA.",
+          "Viral Information Institute, San Diego State University, San Diego, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Roux, Simon",
+        "short_name": "Roux S",
+        "identifiers": [
+          "0000-0002-5831-5895"
+        ],
+        "affiliations": [
+          "Department of Energy Joint Genome Institute, Lawrence Berkeley National Laboratory, Berkeley, CA, USA."
+        ]
+      },
+      {
+        "full_name": "White, Simon",
+        "short_name": "White S",
+        "identifiers": [
+          "0000-0002-9227-9461"
+        ],
+        "affiliations": [
+          "Department of Molecular and Cell Biology, University of Connecticut, Storrs, CT, USA."
+        ]
+      },
+      {
+        "full_name": "Luque, Antoni",
+        "short_name": "Luque A",
+        "identifiers": [
+          "0000-0002-5817-4914"
+        ],
+        "affiliations": [
+          "Department of Biology, University of Miami, Coral Gables, FL, USA. antoni.luque@miami.edu.",
+          "Department of Chemical, Environmental, and Materials Engineering, University of Miami, Coral Gables, FL, USA. antoni.luque@miami.edu.",
+          "Department of Physics, University of Miami, Coral Gables, FL, USA. antoni.luque@miami.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Oct 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/15 07:18",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42875451"
+    ],
+    "review": [
+      "42875451"
+    ],
+    "pmc": [
+      "13669383"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-78136-1",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

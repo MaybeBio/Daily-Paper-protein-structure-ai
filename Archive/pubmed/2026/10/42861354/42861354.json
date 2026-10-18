@@ -1,0 +1,286 @@
+{
+  "identity": {
+    "pmid": "42861354",
+    "doi": "10.1016/j.crfs.2026.101584",
+    "title": "Integrated computation-guided thermostabilization of the fungal sweet protein Honey Truffle Sweetener."
+  },
+  "content": {
+    "abstract": "Thermostability limits the use of sweet proteins as sugar substitutes in thermally processed foods. Here, we report an integrated computation-guided workflow for thermostabilizing Honey Truffle Sweetener (HTS), a recently identified fungal sweet protein with low intrinsic stability. We determined the HTS crystal structure and used it to guide subsequent computational analyses. Rosetta and ThermoMPNN evaluated candidate substitutions from complementary physics-based and deep-learning-based perspectives, and the selected single-mutant library was experimentally characterized. The resulting melting-temperature data were then used to develop SMRC-Net, which combines mutation-centered features from the ESM2 protein language model with molecular dynamics-derived structural descriptors to support mutation prioritization. Repeated nested cross-validation supported quantitative T(m) prediction within the HTS scaffold, while prospective testing showed 9/10 directional agreement in a small, computationally selected variant set. Validated substitutions were then assembled stepwise in small modules, followed by the introduction of an engineered disulfide bond. The final variant, FM, had a melting temperature of 82.1  degrees C, 27.5  degrees C higher than that of wild-type HTS. Untreated FM retained sweetness, while separate heat- and pH-treatment assays showed retained solubility and largely preserved secondary-structure profiles. Sweetness after these treatments was not evaluated. Molecular dynamics analyses indicated that FM was not uniformly rigidified but instead exhibited localized flexibility redistribution and a more consolidated conformational ensemble. This work provides a practical computation-guided framework for protein thermostabilization, with potential applicability to other compact proteins.",
+    "keywords": [
+      "Computational protein design",
+      "Honey truffle sweetener",
+      "Molecular dynamics",
+      "Protein engineering",
+      "Sweet protein",
+      "Thermostability"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Zhikuan",
+        "Wang, Wen",
+        "Zhu, Feifei",
+        "Zhang, Yutian",
+        "Li, Yirui",
+        "Zhu, Zhiqi",
+        "Lu, Ziwan",
+        "Huang, Ang",
+        "Yu, Mingjia",
+        "Liu, Si"
+      ],
+      "short_names": [
+        "Wang Z",
+        "Wang W",
+        "Zhu F",
+        "Zhang Y",
+        "Li Y",
+        "Zhu Z",
+        "Lu Z",
+        "Huang A",
+        "Yu M",
+        "Liu S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "State Key Laboratory of Synthetic Biology, Haihe Laboratory of Sustainable Chemical Transformations, Tianjin Key Laboratory of Function and Application of Biological Macromolecular Structures, Faculty of Medicine, School of Life Sciences, Tianjin University, 92 Weijin Road, Nankai District, Tianjin, 300072, China.",
+        "Key Laboratory of Medicinal Molecule Science and Pharmaceutical Engineering, Ministry of Industry and Information Technology, School of Chemistry and Chemical Engineering, Beijing Institute of Technology, 5 Zhongguancun South Street, Haidian District, Beijing, 100081, China.",
+        "State Key Laboratory of Synthetic Biology, Haihe Laboratory of Sustainable Chemical Transformations, Tianjin Key Laboratory of Function and Application of Biological Macromolecular Structures, Faculty of Medicine, School of Life Sciences, Tianjin University, 92 Weijin Road, Nankai District, Tianjin, 300072, China.",
+        "State Key Laboratory of Synthetic Biology, Haihe Laboratory of Sustainable Chemical Transformations, Tianjin Key Laboratory of Function and Application of Biological Macromolecular Structures, Faculty of Medicine, School of Life Sciences, Tianjin University, 92 Weijin Road, Nankai District, Tianjin, 300072, China.",
+        "State Key Laboratory of Synthetic Biology, Haihe Laboratory of Sustainable Chemical Transformations, Tianjin Key Laboratory of Function and Application of Biological Macromolecular Structures, Faculty of Medicine, School of Life Sciences, Tianjin University, 92 Weijin Road, Nankai District, Tianjin, 300072, China.",
+        "State Key Laboratory of Synthetic Biology, Haihe Laboratory of Sustainable Chemical Transformations, Tianjin Key Laboratory of Function and Application of Biological Macromolecular Structures, Faculty of Medicine, School of Life Sciences, Tianjin University, 92 Weijin Road, Nankai District, Tianjin, 300072, China.",
+        "State Key Laboratory of Synthetic Biology, Haihe Laboratory of Sustainable Chemical Transformations, Tianjin Key Laboratory of Function and Application of Biological Macromolecular Structures, Faculty of Medicine, School of Life Sciences, Tianjin University, 92 Weijin Road, Nankai District, Tianjin, 300072, China.",
+        "Department of Gastroenterology and Hepatology, The First Medical Center of PLA General Hospital, 28 Fuxing Road, Haidian District, Beijing, 100853, China.",
+        "Key Laboratory of Medicinal Molecule Science and Pharmaceutical Engineering, Ministry of Industry and Information Technology, School of Chemistry and Chemical Engineering, Beijing Institute of Technology, 5 Zhongguancun South Street, Haidian District, Beijing, 100081, China.",
+        "State Key Laboratory of Synthetic Biology, Haihe Laboratory of Sustainable Chemical Transformations, Tianjin Key Laboratory of Function and Application of Biological Macromolecular Structures, Faculty of Medicine, School of Life Sciences, Tianjin University, 92 Weijin Road, Nankai District, Tianjin, 300072, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Zhikuan",
+        "short_name": "Wang Z",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Synthetic Biology, Haihe Laboratory of Sustainable Chemical Transformations, Tianjin Key Laboratory of Function and Application of Biological Macromolecular Structures, Faculty of Medicine, School of Life Sciences, Tianjin University, 92 Weijin Road, Nankai District, Tianjin, 300072, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Wen",
+        "short_name": "Wang W",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Medicinal Molecule Science and Pharmaceutical Engineering, Ministry of Industry and Information Technology, School of Chemistry and Chemical Engineering, Beijing Institute of Technology, 5 Zhongguancun South Street, Haidian District, Beijing, 100081, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Feifei",
+        "short_name": "Zhu F",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Synthetic Biology, Haihe Laboratory of Sustainable Chemical Transformations, Tianjin Key Laboratory of Function and Application of Biological Macromolecular Structures, Faculty of Medicine, School of Life Sciences, Tianjin University, 92 Weijin Road, Nankai District, Tianjin, 300072, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yutian",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Synthetic Biology, Haihe Laboratory of Sustainable Chemical Transformations, Tianjin Key Laboratory of Function and Application of Biological Macromolecular Structures, Faculty of Medicine, School of Life Sciences, Tianjin University, 92 Weijin Road, Nankai District, Tianjin, 300072, China."
+        ]
+      },
+      {
+        "full_name": "Li, Yirui",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Synthetic Biology, Haihe Laboratory of Sustainable Chemical Transformations, Tianjin Key Laboratory of Function and Application of Biological Macromolecular Structures, Faculty of Medicine, School of Life Sciences, Tianjin University, 92 Weijin Road, Nankai District, Tianjin, 300072, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Zhiqi",
+        "short_name": "Zhu Z",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Synthetic Biology, Haihe Laboratory of Sustainable Chemical Transformations, Tianjin Key Laboratory of Function and Application of Biological Macromolecular Structures, Faculty of Medicine, School of Life Sciences, Tianjin University, 92 Weijin Road, Nankai District, Tianjin, 300072, China."
+        ]
+      },
+      {
+        "full_name": "Lu, Ziwan",
+        "short_name": "Lu Z",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Synthetic Biology, Haihe Laboratory of Sustainable Chemical Transformations, Tianjin Key Laboratory of Function and Application of Biological Macromolecular Structures, Faculty of Medicine, School of Life Sciences, Tianjin University, 92 Weijin Road, Nankai District, Tianjin, 300072, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Ang",
+        "short_name": "Huang A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Gastroenterology and Hepatology, The First Medical Center of PLA General Hospital, 28 Fuxing Road, Haidian District, Beijing, 100853, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Mingjia",
+        "short_name": "Yu M",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Medicinal Molecule Science and Pharmaceutical Engineering, Ministry of Industry and Information Technology, School of Chemistry and Chemical Engineering, Beijing Institute of Technology, 5 Zhongguancun South Street, Haidian District, Beijing, 100081, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Si",
+        "short_name": "Liu S",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Synthetic Biology, Haihe Laboratory of Sustainable Chemical Transformations, Tianjin Key Laboratory of Function and Application of Biological Macromolecular Structures, Faculty of Medicine, School of Life Sciences, Tianjin University, 92 Weijin Road, Nankai District, Tianjin, 300072, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Current research in food science"
+    ],
+    "journal_abbrev": [
+      "Curr Res Food Sci"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/12 05:32",
+    "fetched_at": "2026-10-18 06:57:52"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42861354",
+      "42475469",
+      "42217501",
+      "39126644",
+      "42657169",
+      "40056390",
+      "29897777",
+      "40562246",
+      "42734555",
+      "42270249",
+      "38159314",
+      "41638466",
+      "29101200",
+      "42864927",
+      "24480573",
+      "42085918",
+      "32790123",
+      "30195051",
+      "30761295",
+      "18308584",
+      "41421526",
+      "42163425",
+      "29141528",
+      "32105736",
+      "36647575",
+      "25640404",
+      "41928412",
+      "41369170",
+      "41822751",
+      "42742198",
+      "42501842",
+      "41900870",
+      "39894113",
+      "26410456",
+      "31615894",
+      "23912807",
+      "27100881",
+      "42096268",
+      "10213609",
+      "30359017",
+      "27999093",
+      "35272012",
+      "11279156",
+      "20074594",
+      "30935060",
+      "30250976",
+      "39091151",
+      "26881217",
+      "18156340",
+      "41186834",
+      "41638280",
+      "15781410",
+      "29109284",
+      "24827611",
+      "34576170",
+      "40923685",
+      "15640151",
+      "38651303",
+      "27038509",
+      "36341695",
+      "39354113",
+      "26361227",
+      "41961390",
+      "36232620",
+      "38555610",
+      "39154093",
+      "32155058",
+      "40044005",
+      "42257754",
+      "30173762",
+      "41897700",
+      "27003415",
+      "30552196",
+      "39557250",
+      "42075253",
+      "32228861",
+      "36752811",
+      "39181358",
+      "42335477",
+      "26547284",
+      "41751790",
+      "42173379",
+      "33809397",
+      "31000163",
+      "40802916",
+      "42497700",
+      "41521602",
+      "37444301",
+      "20977676",
+      "39154817",
+      "40570416",
+      "42616434",
+      "20947674",
+      "41724985",
+      "41536224",
+      "26701738",
+      "37851522",
+      "41498113",
+      "35500407",
+      "29384047"
+    ],
+    "review": [
+      "42861354",
+      "38555610"
+    ],
+    "pmc": [
+      "13654475"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2665-9271(26)00284-4",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

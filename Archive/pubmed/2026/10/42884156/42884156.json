@@ -1,0 +1,185 @@
+{
+  "identity": {
+    "pmid": "42884156",
+    "doi": "10.3390/ijms27198914",
+    "title": "Protein Language Models Identify Early Folding Residues as Critical Hotspots for Pathogenic Variants and Cancer Prognosis."
+  },
+  "content": {
+    "abstract": "Identifying the specific residues that initiate protein folding is critical for understanding protein stability and the mechanisms of misfolding-related diseases. However, the systematic, proteome-wide identification of these early folding residues (EFRs) has been hampered by both experimental and computational limitations. Here, we present LMEFold, a deep learning framework using protein language models (PLMs) to accurately predict EFRs from amino acid sequence alone. LMEFold outperforms existing sequence-based predictors on the Start2Fold benchmark (ROC AUC = 0.831), and its predicted scores show consistent associations with independent HDX-NMR protection-factor measurements, providing complementary biophysical evidence. Applying LMEFold to annotate over 6.6 million variants across diverse genomic datasets, we find that pathogenic mutations curated in ClinVar are significantly enriched within EFRs (~17%) compared to millions of population variants from large-scale cohorts including the UKB and gnomAD databases (~10%, P < 0.001). Critically, in the MSK-MET pan-cancer clinical cohort, EFR mutations are associated with severe functional disruption and significantly reduced overall patient survival. Structural analysis of hotspot cancer mutations, such as TP53 p.Y163C, suggests a mechanism whereby these variants destabilize protein structure by disrupting the early folding core. Our work establishes EFRs as critical sites of pathogenic vulnerability and provides a powerful framework for the rapid identification of folding-centric prognostic markers using sequence only.",
+    "keywords": [
+      "cancer prognosis",
+      "early folding residues",
+      "pathogenic variation",
+      "protein language model",
+      "structural vulnerability"
+    ],
+    "mesh_terms": [
+      "Humans",
+      "*Protein Folding",
+      "*Neoplasms/genetics/pathology/metabolism",
+      "Prognosis",
+      "Mutation",
+      "Models, Molecular",
+      "Amino Acid Sequence"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Guo, Lisha",
+        "Yuan, Fuchong",
+        "Zhou, Na",
+        "Zhao, Minghui",
+        "Liu, Ruotong",
+        "Jing, Ming",
+        "Feenstra, K Anton",
+        "Hou, Qingzhen"
+      ],
+      "short_names": [
+        "Guo L",
+        "Yuan F",
+        "Zhou N",
+        "Zhao M",
+        "Liu R",
+        "Jing M",
+        "Feenstra KA",
+        "Hou Q"
+      ],
+      "auids": [
+        "ORCID: 0009-0008-1879-1433",
+        "ORCID: 0000-0001-5425-1188",
+        "ORCID: 0000-0002-7655-0899"
+      ],
+      "affiliations": [
+        "Department of Biostatistics, School of Public Health, Cheeloo College of Medicine, Shandong University, Jinan 250100, China.",
+        "National Institute of Health Data Science of China, Shandong University, Jinan 250100, China.",
+        "Key Laboratory of Computing Power Network and Information Security, Ministry of Education, Shandong Computer Science Center (National Supercomputer Center in Jinan), Qilu University of Technology (Shandong Academy of Sciences), Jinan 250300, China.",
+        "Department of Biostatistics, School of Public Health, Cheeloo College of Medicine, Shandong University, Jinan 250100, China.",
+        "National Institute of Health Data Science of China, Shandong University, Jinan 250100, China.",
+        "Department of Biostatistics, School of Public Health, Cheeloo College of Medicine, Shandong University, Jinan 250100, China.",
+        "National Institute of Health Data Science of China, Shandong University, Jinan 250100, China.",
+        "Department of Biostatistics, School of Public Health, Cheeloo College of Medicine, Shandong University, Jinan 250100, China.",
+        "National Institute of Health Data Science of China, Shandong University, Jinan 250100, China.",
+        "Department of Biostatistics, School of Public Health, Cheeloo College of Medicine, Shandong University, Jinan 250100, China.",
+        "National Institute of Health Data Science of China, Shandong University, Jinan 250100, China.",
+        "School of Data and Computer Science, Shandong Women's University, Jinan 250300, China.",
+        "IBIVU-Center for Integrative Bioinformatics, Department of Computer Science, Vrije Universiteit Amsterdam, 1081HV Amsterdam, The Netherlands.",
+        "Department of Biostatistics, School of Public Health, Cheeloo College of Medicine, Shandong University, Jinan 250100, China.",
+        "National Institute of Health Data Science of China, Shandong University, Jinan 250100, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Guo, Lisha",
+        "short_name": "Guo L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biostatistics, School of Public Health, Cheeloo College of Medicine, Shandong University, Jinan 250100, China.",
+          "National Institute of Health Data Science of China, Shandong University, Jinan 250100, China.",
+          "Key Laboratory of Computing Power Network and Information Security, Ministry of Education, Shandong Computer Science Center (National Supercomputer Center in Jinan), Qilu University of Technology (Shandong Academy of Sciences), Jinan 250300, China."
+        ]
+      },
+      {
+        "full_name": "Yuan, Fuchong",
+        "short_name": "Yuan F",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biostatistics, School of Public Health, Cheeloo College of Medicine, Shandong University, Jinan 250100, China.",
+          "National Institute of Health Data Science of China, Shandong University, Jinan 250100, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Na",
+        "short_name": "Zhou N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biostatistics, School of Public Health, Cheeloo College of Medicine, Shandong University, Jinan 250100, China.",
+          "National Institute of Health Data Science of China, Shandong University, Jinan 250100, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Minghui",
+        "short_name": "Zhao M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biostatistics, School of Public Health, Cheeloo College of Medicine, Shandong University, Jinan 250100, China.",
+          "National Institute of Health Data Science of China, Shandong University, Jinan 250100, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Ruotong",
+        "short_name": "Liu R",
+        "identifiers": [
+          "0009-0008-1879-1433"
+        ],
+        "affiliations": [
+          "Department of Biostatistics, School of Public Health, Cheeloo College of Medicine, Shandong University, Jinan 250100, China.",
+          "National Institute of Health Data Science of China, Shandong University, Jinan 250100, China."
+        ]
+      },
+      {
+        "full_name": "Jing, Ming",
+        "short_name": "Jing M",
+        "identifiers": [
+          "0000-0001-5425-1188"
+        ],
+        "affiliations": [
+          "School of Data and Computer Science, Shandong Women's University, Jinan 250300, China."
+        ]
+      },
+      {
+        "full_name": "Feenstra, K Anton",
+        "short_name": "Feenstra KA",
+        "identifiers": [],
+        "affiliations": [
+          "IBIVU-Center for Integrative Bioinformatics, Department of Computer Science, Vrije Universiteit Amsterdam, 1081HV Amsterdam, The Netherlands."
+        ]
+      },
+      {
+        "full_name": "Hou, Qingzhen",
+        "short_name": "Hou Q",
+        "identifiers": [
+          "0000-0002-7655-0899"
+        ],
+        "affiliations": [
+          "Department of Biostatistics, School of Public Health, Cheeloo College of Medicine, Shandong University, Jinan 250100, China.",
+          "National Institute of Health Data Science of China, Shandong University, Jinan 250100, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of molecular sciences"
+    ],
+    "journal_abbrev": [
+      "Int J Mol Sci"
+    ],
+    "pub_date": "2026 Oct 7",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/16 05:33",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42884156"
+    ],
+    "review": [
+      "42884156"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

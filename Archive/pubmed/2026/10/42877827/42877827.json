@@ -1,0 +1,95 @@
+{
+  "identity": {
+    "pmid": "42877827",
+    "doi": "10.1039/d6ra02723g",
+    "title": "Engineering catalytic promiscuity in serum albumin: synergistic roles of microenvironment, structural dynamics, and nano conjugation."
+  },
+  "content": {
+    "abstract": "This study investigates the catalytic hydrolysis of p-nitrophenyl acetate (PNPA) in the presence of bovine serum albumin (BSA) as a biocatalyst, with an emphasis on the role of protein conformation, substrate concentration, and environmental factors. Further experiments with varying BSA and PNPA concentrations demonstrated Michaelis-Menten-type kinetics and a positive correlation between BSA concentration and the rate of hydrolysis. This effect was attributed to increased availability of catalytically active histidine residues and potential conformational changes that expose active sites. Comparisons with alpha-lactalbumin and free histidine under similar conditions indicated the superior catalytic efficiency of BSA, due to both crowding effects and its structural microenvironment. The effects of pH, ionic strength, and substrate alkyl chain length were also examined, revealing optimal catalytic activity at pH 7.4 and a significant rate enhancement for substrates with extended hydrophobic regions, likely due to stronger BSA-substrate interactions. Additionally, BSA structural alterations through denaturation, PEGylation, and gold nanoparticle (Au-NPs) conjugation were evaluated, showing varied catalytic performance due to differences in rigidity and nature of microenvironment etc. The molecular docking studies indicated the involvement of not only histidine but also serine and arginine residues in the catalytic activity.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Patra, Swapan",
+        "Dey, Nilanjan"
+      ],
+      "short_names": [
+        "Patra S",
+        "Dey N"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-3988-1509"
+      ],
+      "affiliations": [
+        "Department of Chemistry, Birla Institute of Technology and Science Pilani Hyderabad India nilanjandey.iisc@gmail.com nilanjan@hyderabad.bits-pilani.ac.in.",
+        "Department of Chemistry, Birla Institute of Technology and Science Pilani Hyderabad India nilanjandey.iisc@gmail.com nilanjan@hyderabad.bits-pilani.ac.in."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Patra, Swapan",
+        "short_name": "Patra S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Birla Institute of Technology and Science Pilani Hyderabad India nilanjandey.iisc@gmail.com nilanjan@hyderabad.bits-pilani.ac.in."
+        ]
+      },
+      {
+        "full_name": "Dey, Nilanjan",
+        "short_name": "Dey N",
+        "identifiers": [
+          "0000-0002-3988-1509"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Birla Institute of Technology and Science Pilani Hyderabad India nilanjandey.iisc@gmail.com nilanjan@hyderabad.bits-pilani.ac.in."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "RSC advances"
+    ],
+    "journal_abbrev": [
+      "RSC Adv"
+    ],
+    "pub_date": "2026 Oct 7",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/15 17:38",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42877827"
+    ],
+    "review": [
+      "42877827"
+    ],
+    "pmc": [
+      "13665677"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1039/d6ra02723g",
+        "provider": "Royal Society of Chemistry",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

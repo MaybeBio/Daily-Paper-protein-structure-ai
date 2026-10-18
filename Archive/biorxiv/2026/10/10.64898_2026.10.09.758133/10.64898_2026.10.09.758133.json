@@ -1,0 +1,370 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.09.758133",
+  "title": "Chain of Structures: Connecting Reasoning and Generation for Protein Design",
+  "doi": "10.64898/2026.10.09.758133",
+  "abstract": "Scientific design requires reasoning in scientific spaces that represent the objects being designed. Building on Scinetics’ Chain of Science Tokens , we present chain-of-structures (COS) as a concrete protein-design case study that connects reasoning and generation through explicit structural states. In this technical report, we apply COS to enzyme design, where catalytic function requires precise local geometry within a compatible global fold, making it a demanding test of reasoning from chemical requirements to protein structure. Starting from a reaction specification and target length, COS couples a language reasoning expert with an all-atom generation expert across four rounds: catalytic core, active site, global backbone, and complete sequence and structure . Each reasoning state directly conditions generation, and the resulting structure becomes context for the next decision. Discrete residue constraints and continuous latents connect the two experts, enabling structural supervision of the reasoning interface. On the evaluated benchmark, COS leads the compared baselines on five of six metrics, achieving 57.0% EC3 agreement and a TM-score of 0.729.",
+  "authors": [
+    "Qingran Cai",
+    "Mingyang Xu",
+    "Jiaxian Yan",
+    "Zhicai Wang",
+    "Yufeng Liu",
+    "Qizhi Pei",
+    "Zaixi Zhang"
+  ],
+  "published_date": "2026-10-11",
+  "updated_date": "2026-10-12T03:00:12Z",
+  "journal": "bioRxiv",
+  "category": "Bioinformatics",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.09.758133",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.09.758133.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [
+    "Bioinformatics"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Bioinformatics",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            14
+          ]
+        ],
+        "date-time": "2026-10-14T16:50:59Z",
+        "timestamp": 1791996659083,
+        "version": "4.4.0"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            11
+          ]
+        ]
+      },
+      "group-title": "Bioinformatics",
+      "reference-count": 18,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                11
+              ]
+            ],
+            "date-time": "2026-10-11T00:00:00Z",
+            "timestamp": 1791676800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            11
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  Scientific design requires reasoning in scientific spaces that represent the objects being designed. Building on Scinetics’\n                  <jats:italic>Chain of Science Tokens</jats:italic>\n                  , we present\n                  <jats:italic>chain-of-structures</jats:italic>\n                  (COS) as a concrete protein-design case study that connects reasoning and generation through explicit structural states. In this technical report, we apply COS to enzyme design, where catalytic function requires precise local geometry within a compatible global fold, making it a demanding test of reasoning from chemical requirements to protein structure. Starting from a reaction specification and target length, COS couples a language reasoning expert with an all-atom generation expert across\n                  <jats:bold>four rounds: catalytic core, active site, global backbone, and complete sequence and structure</jats:bold>\n                  . Each reasoning state directly conditions generation, and the resulting structure becomes context for the next decision. Discrete residue constraints and continuous latents connect the two experts, enabling structural supervision of the reasoning interface. On the evaluated benchmark, COS leads the compared baselines on five of six metrics, achieving 57.0% EC3 agreement and a TM-score of 0.729.\n                </jats:p>",
+      "DOI": "10.64898/2026.10.09.758133",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            12
+          ]
+        ],
+        "date-time": "2026-10-12T03:00:12Z",
+        "timestamp": 1791774012000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Chain of Structures: Connecting Reasoning and Generation for Protein Design"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "given": "Qingran",
+          "family": "Cai",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Scinetics Company"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Mingyang",
+          "family": "Xu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Scinetics Company"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jiaxian",
+          "family": "Yan",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Scinetics Company"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Zhicai",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Scinetics Company"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yufeng",
+          "family": "Liu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Scinetics Company"
+            },
+            {
+              "name": "University of Cambridge"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Qizhi",
+          "family": "Pei",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Scinetics Company"
+            },
+            {
+              "name": "Renmin University of China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Zaixi",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Scinetics Company"
+            },
+            {
+              "name": "Hong Kong University of Science and Technology"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "reference": [
+        {
+          "key": "2026101409350880000_2026.10.09.758133v1.1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nature06879"
+        },
+        {
+          "key": "2026101409350880000_2026.10.09.758133v1.2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.adu2454"
+        },
+        {
+          "key": "2026101409350880000_2026.10.09.758133v1.3",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Woody Ahern , Jason Yim , Doug Tischer , Saman Salike , Seth M Woodbury , Donghyo Kim , Indrek Kalvet , Yakov Kipnis , Brian Coventry , Han Altae-Tran , Magnus S Bauer , Regina Barzilay , Tommi S Jaakkola , Rohith Krishna , and David Baker . Atom-level enzyme active site scaffolding using RFdiffusion2. Nature Methods, 2025.",
+          "DOI": "10.1101/2025.04.09.648075"
+        },
+        {
+          "key": "2026101409350880000_2026.10.09.758133v1.4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41586-023-06415-8"
+        },
+        {
+          "key": "2026101409350880000_2026.10.09.758133v1.5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1101/2025.09.18.676967"
+        },
+        {
+          "key": "2026101409350880000_2026.10.09.758133v1.6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41592-025-02626-1"
+        },
+        {
+          "key": "2026101409350880000_2026.10.09.758133v1.7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.ads0018"
+        },
+        {
+          "key": "2026101409350880000_2026.10.09.758133v1.8",
+          "unstructured": "Chenqing Hua , Jiarui Lu , Yong Liu , Odin Zhang , Jian Tang , Rex Ying , Wengong Jin , Guy Wolf , Doina Precup , and Shuangjia Zheng . Reaction-conditioned de novo enzyme design with GENzyme, 2024. Table 2. https://arxiv.org/abs/2411.16694."
+        },
+        {
+          "key": "2026101409350880000_2026.10.09.758133v1.9",
+          "unstructured": "Fang Wu , Weihao Xuan , Heli Qi , Hanqun Cao , Heng-Jui Chang , Zeqi Zhou , Haokai Zhao , Jian Ma , Carl Ma , Yu-Chi Cheng , Xiangru Tang , Hanchen Wang , Pan Lu , Jure Leskovec , and Yejin Choi . Proteo-R1: Reasoning foundation models for de novo protein design, 2026."
+        },
+        {
+          "key": "2026101409350880000_2026.10.09.758133v1.10",
+          "unstructured": "Chaozhong Liu et al. ProteinReasoner: A multi-modal protein language model with chain-of-thought reasoning for efficient protein design. bioRxiv, 2025. https://www.biorxiv.org/content/10.1101/2025.07.21.665832v2."
+        },
+        {
+          "key": "2026101409350880000_2026.10.09.758133v1.11",
+          "unstructured": "Chen Tang , Yizhou Wang , Jianyu Wu , Lintao Wang , Shixiang Tang , Pengze Li , Encheng Su , Jun Yao , Jiabei Xiao , Yuqi Shi , et al. Accurate, interdisciplinary and transparent structure-property understanding with deep native structural reasoning, 2026. https://arxiv.org/abs/2607.07708."
+        },
+        {
+          "key": "2026101409350880000_2026.10.09.758133v1.12",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3390/ijms21103738"
+        },
+        {
+          "key": "2026101409350880000_2026.10.09.758133v1.13",
+          "unstructured": "An Yang , Baosong Yang , Beichen Zhang , Binyuan Hui , Bo Zheng , Bowen Yu , Chang Gao , Dayiheng Liu , Fei Huang , Jianhong Tu , Jingren Zhou , Junyang Lin , et al. Qwen3 technical report, 2025."
+        },
+        {
+          "key": "2026101409350880000_2026.10.09.758133v1.14",
+          "unstructured": "Xinyou Wang , Zaixiang Zheng , Fei Ye , Dongyu Xue , Shujian Huang , and Quanquan Gu . Diffusion language models are versatile protein learners. In International Conference on Machine Learning, 2024."
+        },
+        {
+          "key": "2026101409350880000_2026.10.09.758133v1.15",
+          "unstructured": "Xinyou Wang , Zaixiang Zheng , Fei Ye , Dongyu Xue , Shujian Huang , and Quanquan Gu . DPLM-2: A multimodal diffusion protein language model. In International Conference on Learning Representations, 2025."
+        },
+        {
+          "key": "2026101409350880000_2026.10.09.758133v1.16",
+          "unstructured": "Junbo Yin , Chao Zha , Wenjia He , Chencheng Xu , and Xin Gao . CFP-Gen: Combinatorial functional protein generation via diffusion language models. In International Conference on Machine Learning, 2025."
+        },
+        {
+          "key": "2026101409350880000_2026.10.09.758133v1.17",
+          "unstructured": "Zeyu An , Wanyu Lin , Feng Tan , and Shujun Wang . MMCP-GEN: A modality-extensible diffusion language model for conditional protein sequence generation. In IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2026."
+        },
+        {
+          "key": "2026101409350880000_2026.10.09.758133v1.18",
+          "unstructured": "Xinrui Chen , Yizhen Luo , Siqi Fan , and Zaiqing Nie . Co-generative de novo functional protein design. In International Conference on Machine Learning, volume 306 of Proceedings of Machine Learning Research, pages 15945–15965, 2026. Implementation from https://github.com/PharMolix/OpenBioMed,commit5ddc32d."
+        }
+      ],
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.10.09.758133",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            14
+          ]
+        ],
+        "date-time": "2026-10-14T16:36:19Z",
+        "timestamp": 1791995779000
+      },
+      "score": 45.123238,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.10.09.758133"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            11
+          ]
+        ]
+      },
+      "references-count": 18,
+      "URL": "https://doi.org/10.64898/2026.10.09.758133",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            11
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "identity": {
+    "pmid": "42885559",
+    "doi": "10.1039/d6cc05548f",
+    "title": "3D electron diffraction reveals piracetam Form VI two decades after its computational prediction."
+  },
+  "content": {
+    "abstract": "Crystal structure prediction often yields low-energy structures that lack experimental structural confirmation. Using 3D electron diffraction, we resolve predicted piracetam Form VI from a nanocrystalline powder mixture. Free-energy calculations place Form VI among ambient-accessible polymorphs and highlight machine-learning interatomic potentials as scalable tools for finite-temperature polymorph ranking.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Nowak, Maurycy E",
+        "Modrzejewski, Marcin",
+        "Lanza, Arianna",
+        "Svard, Michael",
+        "Malinska, Maura",
+        "Madsen, Anders O",
+        "Krzeszczakowska, Joanna",
+        "Syty, Krystyna",
+        "Pham, Khanh Ngoc",
+        "Hoser, Anna A"
+      ],
+      "short_names": [
+        "Nowak ME",
+        "Modrzejewski M",
+        "Lanza A",
+        "Svard M",
+        "Malinska M",
+        "Madsen AO",
+        "Krzeszczakowska J",
+        "Syty K",
+        "Pham KN",
+        "Hoser AA"
+      ],
+      "auids": [
+        "ORCID: 0009-0000-2558-6114",
+        "ORCID: 0000-0001-9979-8355",
+        "ORCID: 0000-0002-7820-907X",
+        "ORCID: 0000-0002-6647-3308",
+        "ORCID: 0000-0002-7138-7041",
+        "ORCID: 0000-0001-5422-8076",
+        "ORCID: 0000-0003-4624-0213",
+        "ORCID: 0009-0006-3417-1205",
+        "ORCID: 0000-0003-1249-8259",
+        "ORCID: 0000-0002-6799-3073"
+      ],
+      "affiliations": [
+        "Faculty of Chemistry, University of Warsaw, Pasteura 1, 02-093, Warsaw, Poland. a.hoser@uw.edu.pl.",
+        "Faculty of Chemistry, University of Warsaw, Pasteura 1, 02-093, Warsaw, Poland. a.hoser@uw.edu.pl.",
+        "Department of Chemistry, University of Copenhagen, Universitetsparken 5, 2100, Copenhagen O, Denmark.",
+        "Department of Chemical Engineering, KTH Royal Institute of Technology, Teknikringen 42, SE-10044, Stockholm, Sweden.",
+        "Synthesis and Solid State Pharmaceutical Centre, Department of Chemical and Environmental Science, Bernal Institute, University of Limerick, Castletroy, Ireland.",
+        "Faculty of Chemistry, University of Warsaw, Pasteura 1, 02-093, Warsaw, Poland. a.hoser@uw.edu.pl.",
+        "Department of Pharmacy, University of Copenhagen, Universitetsparken 2, 2100, Copenhagen O, Denmark.",
+        "Faculty of Chemistry, University of Warsaw, Pasteura 1, 02-093, Warsaw, Poland. a.hoser@uw.edu.pl.",
+        "Faculty of Chemistry, University of Warsaw, Pasteura 1, 02-093, Warsaw, Poland. a.hoser@uw.edu.pl.",
+        "Department of Chemical Physics and Optics, Faculty of Mathematics and Physics, Charles University, Ke Karlovu 3, CZ-12116, Prague 2, Czech Republic.",
+        "Faculty of Chemistry, University of Warsaw, Pasteura 1, 02-093, Warsaw, Poland. a.hoser@uw.edu.pl."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Nowak, Maurycy E",
+        "short_name": "Nowak ME",
+        "identifiers": [
+          "0009-0000-2558-6114"
+        ],
+        "affiliations": [
+          "Faculty of Chemistry, University of Warsaw, Pasteura 1, 02-093, Warsaw, Poland. a.hoser@uw.edu.pl."
+        ]
+      },
+      {
+        "full_name": "Modrzejewski, Marcin",
+        "short_name": "Modrzejewski M",
+        "identifiers": [
+          "0000-0001-9979-8355"
+        ],
+        "affiliations": [
+          "Faculty of Chemistry, University of Warsaw, Pasteura 1, 02-093, Warsaw, Poland. a.hoser@uw.edu.pl."
+        ]
+      },
+      {
+        "full_name": "Lanza, Arianna",
+        "short_name": "Lanza A",
+        "identifiers": [
+          "0000-0002-7820-907X"
+        ],
+        "affiliations": [
+          "Department of Chemistry, University of Copenhagen, Universitetsparken 5, 2100, Copenhagen Ø, Denmark."
+        ]
+      },
+      {
+        "full_name": "Svärd, Michael",
+        "short_name": "Svärd M",
+        "identifiers": [
+          "0000-0002-6647-3308"
+        ],
+        "affiliations": [
+          "Department of Chemical Engineering, KTH Royal Institute of Technology, Teknikringen 42, SE-10044, Stockholm, Sweden.",
+          "Synthesis and Solid State Pharmaceutical Centre, Department of Chemical and Environmental Science, Bernal Institute, University of Limerick, Castletroy, Ireland."
+        ]
+      },
+      {
+        "full_name": "Malinska, Maura",
+        "short_name": "Malinska M",
+        "identifiers": [
+          "0000-0002-7138-7041"
+        ],
+        "affiliations": [
+          "Faculty of Chemistry, University of Warsaw, Pasteura 1, 02-093, Warsaw, Poland. a.hoser@uw.edu.pl."
+        ]
+      },
+      {
+        "full_name": "Madsen, Anders Ø",
+        "short_name": "Madsen AØ",
+        "identifiers": [
+          "0000-0001-5422-8076"
+        ],
+        "affiliations": [
+          "Department of Pharmacy, University of Copenhagen, Universitetsparken 2, 2100, Copenhagen Ø, Denmark."
+        ]
+      },
+      {
+        "full_name": "Krzeszczakowska, Joanna",
+        "short_name": "Krzeszczakowska J",
+        "identifiers": [
+          "0000-0003-4624-0213"
+        ],
+        "affiliations": [
+          "Faculty of Chemistry, University of Warsaw, Pasteura 1, 02-093, Warsaw, Poland. a.hoser@uw.edu.pl."
+        ]
+      },
+      {
+        "full_name": "Syty, Krystyna",
+        "short_name": "Syty K",
+        "identifiers": [
+          "0009-0006-3417-1205"
+        ],
+        "affiliations": [
+          "Faculty of Chemistry, University of Warsaw, Pasteura 1, 02-093, Warsaw, Poland. a.hoser@uw.edu.pl."
+        ]
+      },
+      {
+        "full_name": "Pham, Khanh Ngoc",
+        "short_name": "Pham KN",
+        "identifiers": [
+          "0000-0003-1249-8259"
+        ],
+        "affiliations": [
+          "Department of Chemical Physics and Optics, Faculty of Mathematics and Physics, Charles University, Ke Karlovu 3, CZ-12116, Prague 2, Czech Republic."
+        ]
+      },
+      {
+        "full_name": "Hoser, Anna A",
+        "short_name": "Hoser AA",
+        "identifiers": [
+          "0000-0002-6799-3073"
+        ],
+        "affiliations": [
+          "Faculty of Chemistry, University of Warsaw, Pasteura 1, 02-093, Warsaw, Poland. a.hoser@uw.edu.pl."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Chemical communications (Cambridge, England)"
+    ],
+    "journal_abbrev": [
+      "Chem Commun (Camb)"
+    ],
+    "pub_date": "2026 Oct 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/16 11:38",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42885559"
+    ],
+    "review": [
+      "42885559"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

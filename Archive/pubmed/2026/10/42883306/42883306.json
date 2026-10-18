@@ -1,0 +1,150 @@
+{
+  "identity": {
+    "pmid": "42883306",
+    "doi": "10.3390/molecules31193543",
+    "title": "DFT, Molecular Docking, and Molecular Dynamics Analysis of Electronic Structure, Reactivity, and PTP1B Binding of Phenylacetic and Benzylmalonic Acid-Functionalized C(60) Derivatives."
+  },
+  "content": {
+    "abstract": "Water-soluble C(60) derivatives functionalized with phenylacetic acid (PhAA) and benzylmalonic acid (BnMA), together with their di- and tetrahydroxylated derivatives, were investigated using density functional theory, molecular docking, and molecular dynamics simulations to evaluate their electronic structure, local and global reactivity, and interactions with protein tyrosine phosphatase 1B (PTP1B). Successive hydroxylation steps were thermodynamically favorable, while electronic structure and reactivity analyses indicated that the fullerene cage retains features compatible with further ROS-related reactivity after hydroxylation. Electrostatic potential analysis revealed differentiated polarity between the fullerene and functionalization regions. Docking showed functionalization-dependent binding modes: PhAA-derived systems sampled both peripheral regions near the WPD and R loops and the catalytic pocket, whereas BnMA-derived systems consistently occupied the catalytic site and interacted with key residues, including Cys215 and Arg221. Molecular dynamics showed reduced flexibility in functionally relevant regions, reorganization of correlated motions, and average catalytic-pocket conformations that were more open than in apo-PTP1B. Overall, these results support the potential of these derivatives for ROS-related reactivity and modulation of PTP1B, although experimental validation is required to establish their biological activity.",
+    "keywords": [
+      "DFT calculations",
+      "molecular docking",
+      "molecular dynamics",
+      "protein tyrosine phosphatase 1B (PTP1B)",
+      "water-soluble fullerenes"
+    ],
+    "mesh_terms": [
+      "*Protein Tyrosine Phosphatase, Non-Receptor Type 1/chemistry/metabolism",
+      "*Molecular Dynamics Simulation",
+      "*Molecular Docking Simulation",
+      "*Fullerenes/chemistry",
+      "*Phenylacetates/chemistry",
+      "Protein Binding",
+      "*Malonates/chemistry",
+      "Catalytic Domain",
+      "Density Functional Theory",
+      "Binding Sites",
+      "Thermodynamics",
+      "Humans",
+      "Molecular Structure"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Rodriguez-Celestino, Veronica",
+        "Cisneros-Garcia, Zuriel Natanael",
+        "Rodriguez-Zavala, Jaime Gustavo",
+        "Mendez-Barrientos, Carlos Ivan",
+        "Facio-Munoz, Jose Guadalupe"
+      ],
+      "short_names": [
+        "Rodriguez-Celestino V",
+        "Cisneros-Garcia ZN",
+        "Rodriguez-Zavala JG",
+        "Mendez-Barrientos CI",
+        "Facio-Munoz JG"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-7541-537X",
+        "ORCID: 0000-0001-9150-1190",
+        "ORCID: 0000-0002-6828-0307",
+        "ORCID: 0009-0002-1688-101X",
+        "ORCID: 0009-0001-7754-1599"
+      ],
+      "affiliations": [
+        "Universidad de Guadalajara, Centro Universitario de los Lagos, Departamento de Ciencias Exactas y Tecnologia, Av. Enrique Diaz de Leon 1144, Lagos de Moreno 47460, Jalisco, Mexico.",
+        "Universidad de Guadalajara, Centro Universitario de los Lagos, Departamento de Ciencias Exactas y Tecnologia, Av. Enrique Diaz de Leon 1144, Lagos de Moreno 47460, Jalisco, Mexico.",
+        "Universidad de Guadalajara, Centro Universitario de los Lagos, Departamento de Ciencias Exactas y Tecnologia, Av. Enrique Diaz de Leon 1144, Lagos de Moreno 47460, Jalisco, Mexico.",
+        "Universidad de Guadalajara, Centro Universitario de los Lagos, Departamento de Ciencias Exactas y Tecnologia, Av. Enrique Diaz de Leon 1144, Lagos de Moreno 47460, Jalisco, Mexico.",
+        "Universidad de Guadalajara, Centro Universitario de los Lagos, Departamento de Ciencias Exactas y Tecnologia, Av. Enrique Diaz de Leon 1144, Lagos de Moreno 47460, Jalisco, Mexico."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Rodríguez-Celestino, Verónica",
+        "short_name": "Rodríguez-Celestino V",
+        "identifiers": [
+          "0000-0002-7541-537X"
+        ],
+        "affiliations": [
+          "Universidad de Guadalajara, Centro Universitario de los Lagos, Departamento de Ciencias Exactas y Tecnología, Av. Enrique Díaz de León 1144, Lagos de Moreno 47460, Jalisco, Mexico."
+        ]
+      },
+      {
+        "full_name": "Cisneros-García, Zuriel Natanael",
+        "short_name": "Cisneros-García ZN",
+        "identifiers": [
+          "0000-0001-9150-1190"
+        ],
+        "affiliations": [
+          "Universidad de Guadalajara, Centro Universitario de los Lagos, Departamento de Ciencias Exactas y Tecnología, Av. Enrique Díaz de León 1144, Lagos de Moreno 47460, Jalisco, Mexico."
+        ]
+      },
+      {
+        "full_name": "Rodríguez-Zavala, Jaime Gustavo",
+        "short_name": "Rodríguez-Zavala JG",
+        "identifiers": [
+          "0000-0002-6828-0307"
+        ],
+        "affiliations": [
+          "Universidad de Guadalajara, Centro Universitario de los Lagos, Departamento de Ciencias Exactas y Tecnología, Av. Enrique Díaz de León 1144, Lagos de Moreno 47460, Jalisco, Mexico."
+        ]
+      },
+      {
+        "full_name": "Méndez-Barrientos, Carlos Iván",
+        "short_name": "Méndez-Barrientos CI",
+        "identifiers": [
+          "0009-0002-1688-101X"
+        ],
+        "affiliations": [
+          "Universidad de Guadalajara, Centro Universitario de los Lagos, Departamento de Ciencias Exactas y Tecnología, Av. Enrique Díaz de León 1144, Lagos de Moreno 47460, Jalisco, Mexico."
+        ]
+      },
+      {
+        "full_name": "Facio-Muñoz, José Guadalupe",
+        "short_name": "Facio-Muñoz JG",
+        "identifiers": [
+          "0009-0001-7754-1599"
+        ],
+        "affiliations": [
+          "Universidad de Guadalajara, Centro Universitario de los Lagos, Departamento de Ciencias Exactas y Tecnología, Av. Enrique Díaz de León 1144, Lagos de Moreno 47460, Jalisco, Mexico."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecules (Basel, Switzerland)"
+    ],
+    "journal_abbrev": [
+      "Molecules"
+    ],
+    "pub_date": "2026 Oct 4",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/16 05:33",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42883306"
+    ],
+    "review": [
+      "42883306"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "identity": {
+    "pmid": "42864907",
+    "doi": "10.1111/bph.70712",
+    "title": "Artificial intelligence (AI)-enabled RNA therapeutic design: from molecular optimization to system-level evaluation."
+  },
+  "content": {
+    "abstract": "RNA therapeutics are increasingly moving from empirical screening towards rational, computation-guided design. Recent advances in RNA language models, generative models and structure-aware learning have improved sequence representation, candidate generation and structure-constrained optimization. However, favourable molecular properties do not necessarily translate into desirable biological performance, because therapeutic outcomes also depend on modality-specific mechanisms, delivery and exposure, molecular interactions, cellular state, immune responses and network-level adaptation. Here, we review AI-enabled RNA therapeutic design through the specific lens of the interface between molecular optimization and system-level evaluation. We compare the design constraints of siRNAs, antisense oligonucleotides, aptamers, mRNAs and translation-oriented circRNAs, and examine the capabilities and current limitations of sequence-, generative- and structure-based computational models. We further discuss the data resources and perturbation representations required to connect molecular candidates with broader cellular-response models. In this context, virtual cells are considered as approximate computational frameworks for candidate prioritization and risk-oriented system-level assessment rather than complete digital replicas of living cells. Finally, we outline a conceptual generation-simulation-feedback-optimization framework for integrating molecular design with progressively higher-level evaluation. This perspective emphasizes the need for better interfaces among RNA design, pharmacological context and cellular-response modelling, rather than relying on molecular optimization alone.",
+    "keywords": [
+      "RNA sequence design",
+      "RNA structure modelling",
+      "RNA therapeutics",
+      "artificial intelligence",
+      "virtual cells"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Yongtian",
+        "Wu, Jiaqi"
+      ],
+      "short_names": [
+        "Wang Y",
+        "Wu J"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-2766-3106",
+        "ORCID: 0009-0006-8796-6263"
+      ],
+      "affiliations": [
+        "School of Computer Science, Northwestern Polytechnical University, Xi'an, China.",
+        "Shenzhen Research Institute of Northwestern Polytechnical University, Sanhang Science & Technology Building, Shenzhen City, China.",
+        "School of Computer Science, Northwestern Polytechnical University, Xi'an, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Yongtian",
+        "short_name": "Wang Y",
+        "identifiers": [
+          "0000-0003-2766-3106"
+        ],
+        "affiliations": [
+          "School of Computer Science, Northwestern Polytechnical University, Xi'an, China.",
+          "Shenzhen Research Institute of Northwestern Polytechnical University, Sanhang Science & Technology Building, Shenzhen City, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Jiaqi",
+        "short_name": "Wu J",
+        "identifiers": [
+          "0009-0006-8796-6263"
+        ],
+        "affiliations": [
+          "School of Computer Science, Northwestern Polytechnical University, Xi'an, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "British journal of pharmacology"
+    ],
+    "journal_abbrev": [
+      "Br J Pharmacol"
+    ],
+    "pub_date": "2026 Oct 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/13 05:31",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42864907",
+      "42475469",
+      "42716354",
+      "42776794",
+      "42679971",
+      "42105954",
+      "42446537",
+      "42786822",
+      "42851930",
+      "41755349",
+      "42211230",
+      "42357379",
+      "42475901",
+      "42429061",
+      "42817087",
+      "40887563",
+      "41758998",
+      "42364829",
+      "42349054",
+      "42419186",
+      "41253282",
+      "41778634",
+      "42652104",
+      "41750280",
+      "42491104",
+      "42546051",
+      "42357559",
+      "23912807",
+      "41889171",
+      "41951835",
+      "42605681",
+      "42700158",
+      "42782912",
+      "26447007",
+      "41763370",
+      "41356761",
+      "42758091",
+      "42011244",
+      "42535626",
+      "42590339",
+      "22574904",
+      "42153319",
+      "42052042",
+      "42836037",
+      "42741683",
+      "42292410",
+      "42259712",
+      "42565648",
+      "42264145",
+      "42180464",
+      "42377676",
+      "42366415",
+      "41962624",
+      "42617743",
+      "42463579",
+      "42719355",
+      "40531093",
+      "42854694",
+      "41709935",
+      "40913779",
+      "42729488",
+      "42510820",
+      "42344774",
+      "42410671",
+      "41075300",
+      "41373598",
+      "40844273",
+      "42252543",
+      "42637199",
+      "42190068",
+      "34833853",
+      "42637483",
+      "40483546",
+      "41051358",
+      "41753681",
+      "41429359",
+      "40985364",
+      "41853314",
+      "39303095",
+      "42493009",
+      "42794659",
+      "42736693",
+      "42075869",
+      "41077123",
+      "42453397",
+      "42651807",
+      "41857437",
+      "42687624",
+      "42198231",
+      "42343649",
+      "42330160",
+      "40747838",
+      "41665230",
+      "36320935",
+      "42196328",
+      "41086133",
+      "41376388",
+      "41202205",
+      "41729820",
+      "42752628"
+    ],
+    "review": [
+      "42864907",
+      "42716354",
+      "42776794",
+      "42679971",
+      "42105954",
+      "42446537",
+      "42851930",
+      "41755349",
+      "42211230",
+      "42357379",
+      "42475901",
+      "42429061",
+      "40887563",
+      "42364829",
+      "42349054",
+      "42419186",
+      "41253282",
+      "41778634",
+      "42652104",
+      "42491104",
+      "42546051",
+      "42357559",
+      "41889171",
+      "41951835",
+      "42605681",
+      "42700158",
+      "42782912",
+      "41763370",
+      "41356761",
+      "42758091",
+      "42011244",
+      "42535626",
+      "42590339",
+      "42153319",
+      "42052042",
+      "42836037",
+      "42741683",
+      "42292410",
+      "42259712",
+      "42565648",
+      "42264145",
+      "42377676",
+      "42366415",
+      "41962624",
+      "42463579",
+      "42719355",
+      "42854694",
+      "41709935",
+      "42729488",
+      "42510820",
+      "42344774",
+      "41373598",
+      "42637199",
+      "42190068",
+      "34833853",
+      "42637483",
+      "41753681",
+      "41429359",
+      "41853314",
+      "42493009",
+      "42794659",
+      "42075869",
+      "41077123",
+      "42453397",
+      "42651807",
+      "41857437",
+      "42687624",
+      "42198231",
+      "42343649",
+      "42330160",
+      "41665230",
+      "42196328",
+      "41376388",
+      "41729820",
+      "42752628"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1111/bph.70712",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

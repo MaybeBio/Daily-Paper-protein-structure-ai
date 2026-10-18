@@ -1,0 +1,217 @@
+{
+  "identity": {
+    "pmid": "42862223",
+    "doi": "10.1007/978-1-0716-5571-9_2",
+    "title": "Predicting RNA and Protein:RNA Complexes with AlphaFold: Possibilities, Limitations, and Practical Guidelines."
+  },
+  "content": {
+    "abstract": "AlphaFold 3 (AF3) extends deep learning-based structural prediction beyond proteins to other biomolecules, but its reliability for RNA and protein:RNA complexes remains uncertain. This chapter examines AF3's applicability to these targets from both theoretical and practical perspectives. RNA differs fundamentally from proteins in ways that challenge AF3's framework: RNA structures are more conformationally heterogeneous and more condition-dependent. Furthermore, RNA-related training data in the Protein Data Bank are scarce and lack the diversity of protein data, limiting both structural prediction itself and the reliability of AF3's self-assessment confidence metrics. Benchmarking studies and individual case analyses suggest that, in the RNA realm, AF3 may function primarily through memorization of known structural motifs and homology-based modeling rather than genuine global de novo prediction; nevertheless, it performs competitively with established RNA prediction tools and can serve as an attractive hypothesis generator. Practical guidelines are offered for using AF3 with RNA-containing systems, emphasizing the importance of careful interpretation of confidence metrics, visual inspection, and experimental validation. Future improvements will likely require expanded RNA structural data, better exploitation of evolutionary information, and potentially alternative representations of RNA structure beyond rigid 3D models.",
+    "keywords": [
+      "AlphaFold",
+      "AlphaFold3",
+      "Protein-RNA interactions",
+      "Protein-RNA structure prediction",
+      "RNA",
+      "RNA structure prediction",
+      "RNA-binding proteins"
+    ],
+    "mesh_terms": [
+      "*RNA/chemistry/metabolism",
+      "Nucleic Acid Conformation",
+      "*Computational Biology/methods",
+      "Models, Molecular",
+      "Prediction Algorithms",
+      "*RNA-Binding Proteins/chemistry/metabolism",
+      "*Proteins/chemistry/metabolism",
+      "Software"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Suskiewicz, Marcin J"
+      ],
+      "short_names": [
+        "Suskiewicz MJ"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-3279-6571"
+      ],
+      "affiliations": [
+        "Centre de Biophysique Moleculaire, CNRS, Orleans, France. marcin.suskiewicz@cnrs-orleans.fr."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Suskiewicz, Marcin J",
+        "short_name": "Suskiewicz MJ",
+        "identifiers": [
+          "0000-0002-3279-6571"
+        ],
+        "affiliations": [
+          "Centre de Biophysique Moléculaire, CNRS, Orléans, France. marcin.suskiewicz@cnrs-orleans.fr."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Methods in molecular biology (Clifton, N.J.)"
+    ],
+    "journal_abbrev": [
+      "Methods Mol Biol"
+    ],
+    "pub_date": "2027",
+    "pub_year": "2027",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/12 17:30",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42862223",
+      "42475469",
+      "39936575",
+      "41313605",
+      "41478913",
+      "41088961",
+      "40961942",
+      "39116039",
+      "38883239",
+      "40402396",
+      "40778521",
+      "34929730",
+      "22086767",
+      "42763122",
+      "42691505",
+      "38552946",
+      "41014267",
+      "41174317",
+      "39576589",
+      "39868559",
+      "23912807",
+      "42048142",
+      "42001425",
+      "42681357",
+      "41885376",
+      "40476317",
+      "40449614",
+      "39456178",
+      "16790841",
+      "41147497",
+      "40950156",
+      "41170922",
+      "40610378",
+      "42509551",
+      "42045661",
+      "42300078",
+      "40851426",
+      "39625988",
+      "40987097",
+      "41882507",
+      "40819486",
+      "28349426",
+      "39312142",
+      "41045511",
+      "40601256",
+      "26776208",
+      "40905273",
+      "41755596",
+      "41178755",
+      "39702717",
+      "40792461",
+      "26540053",
+      "24854765",
+      "42119874",
+      "29186336",
+      "27665602",
+      "41863177",
+      "40424178",
+      "42635124",
+      "27787829",
+      "19835626",
+      "39956358",
+      "42693924",
+      "39748638",
+      "41165252",
+      "41701781",
+      "11469858",
+      "39970826",
+      "30536635",
+      "26254826",
+      "39833102",
+      "40762404",
+      "40332289",
+      "40233800",
+      "20300450",
+      "40062613",
+      "42468752",
+      "22019768",
+      "41739924",
+      "37702120",
+      "41084281",
+      "31395671",
+      "22998498",
+      "40505261",
+      "23712416",
+      "22574904",
+      "22488990",
+      "24217996",
+      "40882035",
+      "38917327",
+      "30933978",
+      "27266516",
+      "42615564",
+      "22230937",
+      "40973394",
+      "26068748",
+      "20718048",
+      "27863061",
+      "19908381",
+      "39695955"
+    ],
+    "review": [
+      "42862223",
+      "39936575",
+      "41088961",
+      "40402396",
+      "42763122",
+      "39456178",
+      "40987097",
+      "40819486",
+      "41755596",
+      "26540053",
+      "41863177",
+      "39970826",
+      "39833102",
+      "40332289",
+      "40233800",
+      "42468752",
+      "22019768",
+      "40505261",
+      "24217996",
+      "40973394"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1007/978-1-0716-5571-9_2",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

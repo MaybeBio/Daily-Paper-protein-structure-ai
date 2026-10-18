@@ -1,0 +1,253 @@
+{
+  "identity": {
+    "pmid": "42863716",
+    "doi": "10.1016/j.biortech.2026.136049",
+    "title": "Bioinformatics-driven discovery of bioactive natural peptides from cyanobacterial genomes."
+  },
+  "content": {
+    "abstract": "Cyanobacteria, as photosynthetic microorganisms, are emerging as a significant source of bioactive peptides with tremendous therapeutic potential against cancer, infections, and inflammatory diseases. Recent studies have highlighted that cyanobacteria produce a wide variety of non-ribosomal peptides (NRPs), polyketides (PKs), hybrids of NRPs and PKs, as well as ribosomally synthesized and post-translationally modified peptides (RiPPs). They are produced through modular biosynthetic pathways that involve NRPS, PKS, and hybrid systems, along with extensive enzymatic modifications, resulting in large families of related compounds. The current review highlights advanced bioinformatics techniques that improve our capacity to discover and characterize natural biomaterials from cyanobacterial genomes, focusing on both ribosomally and non-ribosomally synthesized peptides. Advanced genome mining tools, such as antiSMASH and PRISM, alongside specialized databases like the Cyanobacterial Metabolomics Database (CyanoMetDB), are revolutionizing our understanding of biosynthetic gene clusters and biochemical scaffold prediction. Furthermore, integrating genomics with transcriptomics, proteomics, and metabolomics is crucial for linking orphan gene clusters to their corresponding products and prioritizing underexplored pathways for validation. While significant advancements have been made, challenges remain in accurate structure prediction and functional annotation. Nevertheless, the application of bioinformatics and artificial intelligence is transforming cyanobacterial natural product discovery, unveiling a largely untapped reservoir of peptide diversity with strong implications for drug discovery and biotechnology. Realizing this potential could result in innovative solutions to critical medical and environmental challenges.",
+    "keywords": [
+      "Bioactive peptides",
+      "Bioinformatics",
+      "Cyanobacteria",
+      "Genome mining",
+      "Natural product discovery"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Tabarzad, Maryam",
+        "Heidari, Mohadeseh",
+        "Norouzi, Bita"
+      ],
+      "short_names": [
+        "Tabarzad M",
+        "Heidari M",
+        "Norouzi B"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Protein Technology Research Center, Shahid Beheshti University of Medical Sciences, Tehran, Iran. Electronic address: m_tabarzad@sbmu.ac.ir.",
+        "Protein Technology Research Center, Shahid Beheshti University of Medical Sciences, Tehran, Iran.",
+        "Protein Technology Research Center, Shahid Beheshti University of Medical Sciences, Tehran, Iran."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Tabarzad, Maryam",
+        "short_name": "Tabarzad M",
+        "identifiers": [],
+        "affiliations": [
+          "Protein Technology Research Center, Shahid Beheshti University of Medical Sciences, Tehran, Iran. Electronic address: m_tabarzad@sbmu.ac.ir."
+        ]
+      },
+      {
+        "full_name": "Heidari, Mohadeseh",
+        "short_name": "Heidari M",
+        "identifiers": [],
+        "affiliations": [
+          "Protein Technology Research Center, Shahid Beheshti University of Medical Sciences, Tehran, Iran."
+        ]
+      },
+      {
+        "full_name": "Norouzi, Bita",
+        "short_name": "Norouzi B",
+        "identifiers": [],
+        "affiliations": [
+          "Protein Technology Research Center, Shahid Beheshti University of Medical Sciences, Tehran, Iran."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Bioresource technology"
+    ],
+    "journal_abbrev": [
+      "Bioresour Technol"
+    ],
+    "pub_date": "2026 Oct 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/13 00:16",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42863716",
+      "42783917",
+      "25482899",
+      "32637669",
+      "26335778",
+      "24069909",
+      "26462797",
+      "42442297",
+      "38543599",
+      "34669429",
+      "25404466",
+      "39227914",
+      "32456220",
+      "42018076",
+      "19307147",
+      "39499622",
+      "40665846",
+      "24927540",
+      "41396836",
+      "32728407",
+      "20442916",
+      "38857812",
+      "27650042",
+      "28650175",
+      "36135733",
+      "31518630",
+      "34548019",
+      "37370187",
+      "40396729",
+      "40407329",
+      "34864585",
+      "28891639",
+      "33351797",
+      "26697425",
+      "22481301",
+      "41313478",
+      "27698135",
+      "28460067",
+      "26758451",
+      "38333193",
+      "31481022",
+      "33010151",
+      "39260778",
+      "31147756",
+      "42646484",
+      "24174214",
+      "38886660",
+      "28260651",
+      "28632895",
+      "25407095",
+      "37391295",
+      "42119713",
+      "28547376",
+      "27869143",
+      "24802639",
+      "40246690",
+      "31871149",
+      "35166616",
+      "31629686",
+      "33418911",
+      "38088806",
+      "37452020",
+      "19554239",
+      "34677408",
+      "27092515",
+      "39140768",
+      "33001599",
+      "35224231",
+      "34175462",
+      "34050176",
+      "26452464",
+      "42820688",
+      "33383692",
+      "22238540",
+      "40537580",
+      "39445804",
+      "16269782",
+      "42325453",
+      "40651835",
+      "42611116",
+      "33977452",
+      "40702371",
+      "37998794",
+      "42282625",
+      "34803938",
+      "26442528",
+      "39330290",
+      "41683797",
+      "41842959",
+      "37101606",
+      "30413766",
+      "32493223",
+      "38953393",
+      "29167789",
+      "28402441",
+      "37191511",
+      "30674766",
+      "26079760",
+      "42254674",
+      "39868251"
+    ],
+    "review": [
+      "42863716",
+      "42783917",
+      "25482899",
+      "32637669",
+      "42442297",
+      "42018076",
+      "19307147",
+      "39499622",
+      "40665846",
+      "41396836",
+      "32728407",
+      "20442916",
+      "36135733",
+      "31518630",
+      "26697425",
+      "22481301",
+      "41313478",
+      "26758451",
+      "38333193",
+      "39260778",
+      "31147756",
+      "42646484",
+      "24174214",
+      "28260651",
+      "37391295",
+      "42119713",
+      "28547376",
+      "35166616",
+      "38088806",
+      "19554239",
+      "27092515",
+      "33001599",
+      "40537580",
+      "41683797",
+      "41842959",
+      "37101606",
+      "38953393",
+      "29167789",
+      "28402441",
+      "30674766"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0960-8524(26)02131-0",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1339",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "identity": {
+    "pmid": "42866365",
+    "doi": "10.1039/d6md00676k",
+    "title": "Benchmarking AI-driven protocols for cyclic peptide conformer prediction and ranking."
+  },
+  "content": {
+    "abstract": "Generative AI is being used in peptide design to optimize binders from early research stages. One notable application is with respect to cyclic peptides, wherein AI assists in modelling conformers in bound or solution states. This work benchmarks state-of-the-art protocols' ability to predict and rank conformers of cyclic peptide binders alone and in complex with their targets, using sequence or all-atom representations. The datasets consist of cyclic peptides with experimental structures available in public repositories. Various tools were included in the benchmark: HighFold, cyclic-aware AlphaFold2 as implemented in EvoBind2, CycPepDock, Boltz-1/1x, Boltz-2, and Chai-1. We found that more recent tools provide a structure prediction advantage over their AlphaFold2-based counterparts, although accurate results with both sets of tools are largely limited to protein-peptide complexes, rather than the free solution structure. In addition, using a cyclic relative positional encoding offset proved key for accurate prediction, and the natural amino acid representation was found to outperform the more general SMILES string input. We mirror prior literature findings on linear peptides by showing that even for accurate predictions, model confidence metrics poorly correlate with experimentally observed binding affinity. Lastly, we compare the performance of AI-based tools to that of physics-based simulations, showing that the latter remain the only way to account for intrinsic conformational flexibility of cyclic peptides, but that the former have a significant price/performance advantage in complex structure prediction. This study provides insights applicable to the design and optimization of cyclic peptides, contributing to advancements in peptide-based therapeutics.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Damjanovic, Jovan",
+        "Ochoa, Rodrigo"
+      ],
+      "short_names": [
+        "Damjanovic J",
+        "Ochoa R"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-6019-4738",
+        "ORCID: 0000-0003-0734-2196"
+      ],
+      "affiliations": [
+        "Novo Nordisk US R&D 33 Hayden Avenue Lexington MA 02421 USA jvdj@novonordisk.com.",
+        "Novo Nordisk A/S Novo Nordisk Park, Malov DK-2760 Denmark raoc@novonordisk.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Damjanovic, Jovan",
+        "short_name": "Damjanovic J",
+        "identifiers": [
+          "0000-0002-6019-4738"
+        ],
+        "affiliations": [
+          "Novo Nordisk US R&D 33 Hayden Avenue Lexington MA 02421 USA jvdj@novonordisk.com."
+        ]
+      },
+      {
+        "full_name": "Ochoa, Rodrigo",
+        "short_name": "Ochoa R",
+        "identifiers": [
+          "0000-0003-0734-2196"
+        ],
+        "affiliations": [
+          "Novo Nordisk A/S Novo Nordisk Park, Måløv DK-2760 Denmark raoc@novonordisk.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "RSC medicinal chemistry"
+    ],
+    "journal_abbrev": [
+      "RSC Med Chem"
+    ],
+    "pub_date": "2026 Oct 7",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/13 17:37",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42866365"
+    ],
+    "review": [
+      "42866365"
+    ],
+    "pmc": [
+      "13656215"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1039/d6md00676k",
+        "provider": "Royal Society of Chemistry",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

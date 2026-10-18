@@ -1,0 +1,299 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.09.758136",
+  "title": "Protein Deimmunization with a Generative Diffusion Model",
+  "doi": "10.64898/2026.10.09.758136",
+  "abstract": "Protein immunogenicity is a major cause of biologic drug failure, leading to the production of anti-drug antibodies (ADA) that accelerate drug clearance, rejection of repeated doses, abolished efficacy, and sometimes life threatening anaphylaxis in patients. These responses constrain the clinical use of synthetic protein therapeutics from non-human origin. To efficiently deimmunize protein therapeutics, we developed a generative discrete diffusion model (MESSI), which takes protein structures as input and outputs sequences that preserve structure without containing peptides predicted to bind major histocompatibility complex class II molecules. MESSI designs sequences with high structural recovery and down to 0 predicted epitopes for specified MHC molecules at higher efficiency than post-hoc filtering approaches. Experimentally, we first applied MESSI to deimmunize a luciferase and a de novo designed mini-binder against PD-1, resulting in variants with no predicted epitopes and higher activity than their parents. Lastly, we coupled MESSI with evolution guidance to deimmunize uricase, a clinically approved enzyme with severe immunogenicity, and found deimmunized variants with higher catalytic activity than their natural orthologs. MESSI enables generative design of functional proteins with minimized immunogenicity, potentially making protein therapeutics safer and more effective.",
+  "authors": [
+    "Zijie Chen",
+    "Chih-chieh Yu",
+    "Cai Zhou",
+    "Xinyun Jiang",
+    "Long Nguyen",
+    "Cameron Myhrvold",
+    "Tommi S Jaakkola",
+    "Kaiyi Jiang"
+  ],
+  "published_date": "2026-10-16",
+  "updated_date": "2026-10-16T16:25:19Z",
+  "journal": "bioRxiv",
+  "category": "Bioengineering",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.09.758136",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.09.758136.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [
+    "Bioengineering"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Bioengineering",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            16
+          ]
+        ],
+        "date-time": "2026-10-16T16:53:40Z",
+        "timestamp": 1792169620908,
+        "version": "4.4.0"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            16
+          ]
+        ]
+      },
+      "group-title": "Bioengineering",
+      "reference-count": 0,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                16
+              ]
+            ],
+            "date-time": "2026-10-16T00:00:00Z",
+            "timestamp": 1792108800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by-nc/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            16
+          ]
+        ]
+      },
+      "abstract": "<jats:p>Protein immunogenicity is a major cause of biologic drug failure, leading to the production of anti-drug antibodies (ADA) that accelerate drug clearance, rejection of repeated doses, abolished efficacy, and sometimes life threatening anaphylaxis in patients. These responses constrain the clinical use of synthetic protein therapeutics from non-human origin. To efficiently deimmunize protein therapeutics, we developed a generative discrete diffusion model (MESSI), which takes protein structures as input and outputs sequences that preserve structure without containing peptides predicted to bind major histocompatibility complex class II molecules. MESSI designs sequences with high structural recovery and down to 0 predicted epitopes for specified MHC molecules at higher efficiency than post-hoc filtering approaches. Experimentally, we first applied MESSI to deimmunize a luciferase and a de novo designed mini-binder against PD-1, resulting in variants with no predicted epitopes and higher activity than their parents. Lastly, we coupled MESSI with evolution guidance to deimmunize uricase, a clinically approved enzyme with severe immunogenicity, and found deimmunized variants with higher catalytic activity than their natural orthologs. MESSI enables generative design of functional proteins with minimized immunogenicity, potentially making protein therapeutics safer and more effective.</jats:p>",
+      "DOI": "10.64898/2026.10.09.758136",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            16
+          ]
+        ],
+        "date-time": "2026-10-16T16:25:19Z",
+        "timestamp": 1792167919000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Protein Deimmunization with a Generative Diffusion Model"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "given": "Zijie",
+          "family": "Chen",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Princeton University;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Chih-chieh",
+          "family": "Yu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Princeton University;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Cai",
+          "family": "Zhou",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "MIT"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xinyun",
+          "family": "Jiang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Princeton University;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Long",
+          "family": "Nguyen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Princeton University;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8971-184X",
+          "authenticated-orcid": false,
+          "given": "Cameron",
+          "family": "Myhrvold",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Princeton University;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Tommi S",
+          "family": "Jaakkola",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "MIT"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-9569-5225",
+          "authenticated-orcid": false,
+          "given": "Kaiyi",
+          "family": "Jiang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Princeton University;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.10.09.758136",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            16
+          ]
+        ],
+        "date-time": "2026-10-16T16:25:19Z",
+        "timestamp": 1792167919000
+      },
+      "score": 53.8038,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.10.09.758136"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            16
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.64898/2026.10.09.758136",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            16
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

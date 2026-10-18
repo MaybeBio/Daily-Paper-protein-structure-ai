@@ -1,0 +1,104 @@
+{
+  "identity": {
+    "pmid": "42873607",
+    "doi": "10.1021/acs.jcim.6c02247",
+    "title": "RNADaemon: Reinforcement Learning-Guided Molecular Dynamics for RNA Tertiary Structure Prediction."
+  },
+  "content": {
+    "abstract": "Accurate prediction of RNA tertiary structure remains a central challenge in structural biology, yet existing computational approaches face fundamental limitations arising from the ruggedness of the RNA free-energy landscape and the scarcity of experimentally resolved structures. Here we present RNADaemon, a framework that formulates RNA tertiary structure prediction as a Markov Decision Process and trains a Soft Actor-Critic agent to apply adaptive external force-field biases that steer all-atom molecular dynamics toward native-like conformations to minimize the eRMSD metric. Trained on 479 monomeric RNA structures and evaluated on 14 test cases from CASP16, RNA-Puzzles, and the PDB, the agent trains stably, approaches SimRNA and FARFAR2 in median RMSD, and recovers the global fold of most reference structures. However, performance remains markedly inferior to that of AlphaFold 3 and trRosettaRNA. We identify the scalar Bellman error as a fundamental information bottleneck that currently limits the performance of the agent. To our knowledge, this is the first application of continuous-action deep reinforcement learning (RL) with all-atom force fields to RNA tertiary structure prediction. This study establishes a benchmark for future comparisons and provides diagnostic insights for RL-guided RNA structure modeling.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Xu, Wentao",
+        "Wu, You",
+        "Yu, Xiang"
+      ],
+      "short_names": [
+        "Xu W",
+        "Wu Y",
+        "Yu X"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-5730-8802"
+      ],
+      "affiliations": [
+        "School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai200240, China.",
+        "School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai200240, China.",
+        "School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai200240, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Xu, Wentao",
+        "short_name": "Xu W",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai200240, China."
+        ]
+      },
+      {
+        "full_name": "Wu, You",
+        "short_name": "Wu Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai200240, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Xiang",
+        "short_name": "Yu X",
+        "identifiers": [
+          "0000-0002-5730-8802"
+        ],
+        "affiliations": [
+          "School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai200240, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of chemical information and modeling"
+    ],
+    "journal_abbrev": [
+      "J Chem Inf Model"
+    ],
+    "pub_date": "2026 Oct 13",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/14 18:14",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42873607"
+    ],
+    "review": [
+      "42873607"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/jcisd8/article-lookup/doi/10.1021/acs.jcim.6c02247",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.10.758204",
+  "title": "Representing biological concepts as directions in foundation model embeddings",
+  "doi": "10.64898/2026.10.10.758204",
+  "abstract": "<h4>ABSTRACT</h4> Biological foundation models encode rich information about protein structure, function, and cellular state in high-dimensional embeddings, but accessing specific biological properties typically relies on additional, task-specific prediction models. Here, we show that diverse biological properties can be mapped to interpretable, reusable directions in embedding space. In the Concept Activation Vector (CAV) approach, examples representing a concept are distinguished from a background set using a linear model, and the resulting weight vector defines the CAV for that concept. In protein embeddings, CAVs recover Gene Ontology and Enzyme Commission annotations, localize Pfam domains, reveal novel structural relationships, and capture DNA-binding and protein-interaction interface specificity. In single-cell embeddings, CAVs isolate cancer-associated expression transitions, and gene variation along these axes substantially agrees with conventional differential-expression analysis despite being a distinct computational approach. Together, these results establish concept directions as a common representation, enabling diverse biological features to be compared, localized, and manipulated.",
+  "authors": [
+    "Shamail A",
+    "McWhite CD"
+  ],
+  "published_date": "2026-10-12",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.10.758204",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.10.758204.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1342862",
+    "raw_record": {
+      "id": "PPR1342862",
+      "source": "PPR",
+      "doi": "10.64898/2026.10.10.758204",
+      "title": "Representing biological concepts as directions in foundation model embeddings",
+      "authorString": "Shamail A, McWhite CD.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Shamail A",
+            "lastName": "Shamail",
+            "firstName": "Ahmad",
+            "initials": "A"
+          },
+          {
+            "fullName": "McWhite CD",
+            "lastName": "McWhite",
+            "firstName": "Claire",
+            "initials": "CD"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "<h4>ABSTRACT</h4>  Biological foundation models encode rich information about protein structure, function, and cellular state in high-dimensional embeddings, but accessing specific biological properties typically relies on additional, task-specific prediction models. Here, we show that diverse biological properties can be mapped to interpretable, reusable directions in embedding space. In the Concept Activation Vector (CAV) approach, examples representing a concept are distinguished from a background set using a linear model, and the resulting weight vector defines the CAV for that concept. In protein embeddings, CAVs recover Gene Ontology and Enzyme Commission annotations, localize Pfam domains, reveal novel structural relationships, and capture DNA-binding and protein-interaction interface specificity. In single-cell embeddings, CAVs isolate cancer-associated expression transitions, and gene variation along these axes substantially agrees with conventional differential-expression analysis despite being a distinct computational approach. Together, these results establish concept directions as a common representation, enabling diverse biological features to be compared, localized, and manipulated.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.10.10.758204"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-10-15",
+      "firstPublicationDate": "2026-10-12",
+      "firstIndexDate": "2026-10-16",
+      "hasEvaluations": "N"
+    }
+  }
+}

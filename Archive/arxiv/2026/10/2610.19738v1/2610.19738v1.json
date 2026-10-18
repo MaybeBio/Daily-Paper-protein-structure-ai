@@ -1,0 +1,37 @@
+{
+  "source": "arxiv",
+  "source_id": "2610.19738v1",
+  "title": "ProtModernBERT: Compute-Efficient Protein Language Modeling",
+  "doi": "",
+  "abstract": "Large protein language models provide a powerful framework for learning sequence-function relationships and guiding experimental design. However, architectural improvements are underexplored, especially in low-compute regimes of relevance for resource-constrained research laboratories. We show that the training cost for encoder-only transformer architectures can be reduced by leveraging modern architectural refinements, offering an encouraging performance / compute-efficiency trade-off. We introduce ProtModernBERT, a modernized BERT-style model pre-trained on amino acid sequences, and compare it with ProtBert, Amplify, and ESM2 across a set of supervised structural tasks -encompassing secondary structure prediction, disorder prediction, and subcellular localization- and ProteinGym's zero-shot functional benchmark. We find that ProtModernBERT matches or closely tracks the performance of Amplify-120M and ProtBert with up to 80-90\\% reduction in pre-training FLOPs, and narrows the gap to ESM2 when controlling for pre-training. Our analysis using a cluster-based validation protocol for hyperparameter selection and randomly initialized models disentangles the contributions of architecture and data, showing that modern components provide stronger inductive biases that are more consequential than parameter count in low-compute regimes.",
+  "authors": [
+    "Alberto Martínez",
+    "Natalia Flechas Manrique",
+    "Llorenç Espinosa-Portalés",
+    "Luc Andrea"
+  ],
+  "published_date": "2026-10-14T07:59:49Z",
+  "updated_date": "2026-10-14T07:59:49Z",
+  "journal": "",
+  "category": "cs.LG, cs.AI, q-bio.QM",
+  "landing_url": "https://arxiv.org/abs/2610.19738v1",
+  "pdf_url": "https://arxiv.org/pdf/2610.19738v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cs.LG",
+    "cs.AI",
+    "q-bio.QM"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2610.19738v1",
+    "raw_categories": [
+      "cs.LG",
+      "cs.AI",
+      "q-bio.QM"
+    ],
+    "journal_ref": ""
+  }
+}

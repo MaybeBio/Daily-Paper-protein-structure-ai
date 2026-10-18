@@ -1,0 +1,232 @@
+{
+  "identity": {
+    "pmid": "42857753",
+    "doi": "10.1093/bioadv/vbag275",
+    "title": "Employing AlphaFold and TED to explore the structural impacts of stress-associated mutations in rice."
+  },
+  "content": {
+    "abstract": "MOTIVATION: Plants have evolved adaptive mechanisms to handle environmental stress. However, genome-wide association studies (GWASs) have identified genetic variations associated with stress resistance, yet their structural and functional impacts remain poorly understood. This limits our ability to develop more resilient crops. RESULTS: Using predicted three-dimensional protein structures from the AlphaFold Database, chopped into domains by The Encyclopedia of Domains, we analysed how mutations identified in rice GWASs affect protein structure and function. The analysis revealed 102 mutations in 76 high-quality protein domains likely to impact structure and function. Thirty-nine mutations were positioned within 5 A of predicted functional sites, including those near post-translational modification sites (3), allosteric sites (5), protein-protein interaction sites (25), ligand-binding sites (15), and conserved regions (9). We identified potential interaction partners for 18 proteins with mutations at predicted interfaces and modelled their complex structures. Six mutations were predicted to enhance binding affinity with their protein partners. AVAILABILITY AND IMPLEMENTATION: This study utilized only open-access tools and and provides a framework that could strengthen plant defence mechanisms. However, experimental validation is essential to confirm the applicability of these findings for plant breeding programs.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Shahid, Fatima",
+        "Sen, Neeladri",
+        "Orengo, Christine",
+        "Lam, Su Datt"
+      ],
+      "short_names": [
+        "Shahid F",
+        "Sen N",
+        "Orengo C",
+        "Lam SD"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-0244-0136",
+        "ORCID: 0000-0003-4772-7656"
+      ],
+      "affiliations": [
+        "Department of Applied Physics, Faculty of Science and Technology, Universiti Kebangsaan Malaysia, 43600 UKM Bangi, Selangor, Malaysia.",
+        "Department of Structural and Molecular Biology, University College London, London WC1E 7JE, United Kingdom.",
+        "Department of Structural and Molecular Biology, University College London, London WC1E 7JE, United Kingdom.",
+        "Department of Applied Physics, Faculty of Science and Technology, Universiti Kebangsaan Malaysia, 43600 UKM Bangi, Selangor, Malaysia.",
+        "Center for Global Health Research (CGHR), Saveetha Medical College, Saveetha Institute of Medical and Technical Sciences (SIMATS), Saveetha University, Chennai, 602105, India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Shahid, Fatima",
+        "short_name": "Shahid F",
+        "identifiers": [
+          "0000-0002-0244-0136"
+        ],
+        "affiliations": [
+          "Department of Applied Physics, Faculty of Science and Technology, Universiti Kebangsaan Malaysia, 43600 UKM Bangi, Selangor, Malaysia."
+        ]
+      },
+      {
+        "full_name": "Sen, Neeladri",
+        "short_name": "Sen N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Structural and Molecular Biology, University College London, London WC1E 7JE, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Orengo, Christine",
+        "short_name": "Orengo C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Structural and Molecular Biology, University College London, London WC1E 7JE, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Lam, Su Datt",
+        "short_name": "Lam SD",
+        "identifiers": [
+          "0000-0003-4772-7656"
+        ],
+        "affiliations": [
+          "Department of Applied Physics, Faculty of Science and Technology, Universiti Kebangsaan Malaysia, 43600 UKM Bangi, Selangor, Malaysia.",
+          "Center for Global Health Research (CGHR), Saveetha Medical College, Saveetha Institute of Medical and Technical Sciences (SIMATS), Saveetha University, Chennai, 602105, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Bioinformatics advances"
+    ],
+    "journal_abbrev": [
+      "Bioinform Adv"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/11 05:07",
+    "fetched_at": "2026-10-18 06:57:52"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42857753",
+      "42475469",
+      "41055214",
+      "35641150",
+      "29322920",
+      "31161204",
+      "37294468",
+      "42464962",
+      "23912807",
+      "27005572",
+      "37366497",
+      "26027735",
+      "42037558",
+      "40727428",
+      "36269348",
+      "40102727",
+      "39565206",
+      "32721629",
+      "42123833",
+      "41756011",
+      "39700856",
+      "29028926",
+      "38873396",
+      "35883523",
+      "35386188",
+      "34065373",
+      "42467519",
+      "34914734",
+      "39150724",
+      "35655760",
+      "34033342",
+      "29633905",
+      "39796186",
+      "19758469",
+      "35627176",
+      "42196261",
+      "25416131",
+      "15842167",
+      "41689234",
+      "41419818",
+      "21878368",
+      "35092861",
+      "28882676",
+      "42028635",
+      "42653807",
+      "39413799",
+      "41657470",
+      "41054392",
+      "39723881",
+      "42737634",
+      "38941236",
+      "31199866",
+      "41252491",
+      "38902252",
+      "40375073",
+      "36384958",
+      "39600896",
+      "41009698",
+      "31935082",
+      "33001599",
+      "40496892",
+      "42723829",
+      "27921396",
+      "27499678",
+      "42322085",
+      "41299245",
+      "41361798",
+      "42625132",
+      "36726089",
+      "39610905",
+      "26836501",
+      "41832403",
+      "30097007",
+      "38656135",
+      "41142756",
+      "40070068",
+      "39021990",
+      "40465032",
+      "34132193",
+      "41093202",
+      "36243970",
+      "41154762",
+      "40021992",
+      "26556362",
+      "23982071",
+      "41714147",
+      "41642195",
+      "33904398",
+      "42792618",
+      "42166461",
+      "27845739",
+      "39197652",
+      "36569594",
+      "42478686",
+      "39966525",
+      "41354934",
+      "38672513",
+      "42310671",
+      "39091881",
+      "19823588"
+    ],
+    "review": [
+      "42857753",
+      "37294468",
+      "42464962",
+      "40727428",
+      "38873396",
+      "39150724",
+      "35655760",
+      "21878368",
+      "42653807",
+      "33001599",
+      "42625132",
+      "42792618"
+    ],
+    "pmc": [
+      "13652148"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://academic.oup.com/bioinformaticsadvances/article-lookup/doi/10.1093/bioadv/vbag275",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

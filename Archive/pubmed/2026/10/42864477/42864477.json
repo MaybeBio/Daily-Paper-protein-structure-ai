@@ -1,0 +1,224 @@
+{
+  "identity": {
+    "pmid": "42864477",
+    "doi": "10.1007/s11095-026-04222-0",
+    "title": "Molecular Recognition and Immunopharmacological Implications of Serratiopeptidase Targeting Snake Venom Bradykinin-Potentiating Peptides."
+  },
+  "content": {
+    "abstract": "PURPOSE: Bradykinin-potentiating peptides (BPPs), found in snake venom, are known to modulate cardiovascular functions, but their susceptibility to enzymatic degradation remains poorly understood. METHODS: Models were generated using AlphaFold-Colab for five small BPPs (< 9 amino acids) that did not have experimentally solved structures, and those BPPs which had reliable predictions of structure (pLDDT > 80) were used for docking studies. Protein-peptide docking experiments were done using HADDOCK for studying the interaction between wild-type (WT) and mutant serratiopeptidase with BPPs. After selecting the best complex, simulation of the complex was done using molecular dynamics (MD) simulations for 100 ns and binding energy determination using MM/PBSA analysis. For checking the mechanical stability of the protein-peptide complexes, Steered MD was performed. RESULTS: HADDOCK docking identified BPP-4 as a favorable binder of WT and mutant serratiopeptidase supported by a HADDOCK score of -109.1 +/- 5.2 and minimal restraint violations. MD simulations revealed greater stability in the mutant complex supported by persistent hydrogen bonds, reduced RMSD/RMSF fluctuations, restricted conformational sampling in PCA, favorable MM/PBSA energy contributions, and a more stable conformational ensemble in cluster analysis. The Steered MD simulation showed a higher rupture force in the mutant BPP-4-serratiopeptidase complex compared to the WT. CONCLUSIONS: Computational analysis identified BPP-4 as a promising serratiopeptidase-binding peptide, with differences in binding affinity and mechanical stability between WT and mutant complexes. The results offer insight into BPP-serratiopeptidase recognition at the molecular level and set the basis for future experiments on peptide binding.",
+    "keywords": [
+      "BPP-4",
+      "angiotensin-converting enzymes (ACE)",
+      "hypotension",
+      "serratiopeptidase",
+      "snake envenomation"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Dhiman, Ankita",
+        "Singh, Rahul",
+        "Purohit, Rituraj"
+      ],
+      "short_names": [
+        "Dhiman A",
+        "Singh R",
+        "Purohit R"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-2101-9398"
+      ],
+      "affiliations": [
+        "Structural Bioinformatics Lab, Biotechnology Division, CSIR-Institute of Himalayan Bioresource Technology, Palampur, 176061, Himachal Pradesh, India.",
+        "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, 201002, India.",
+        "Structural Bioinformatics Lab, Biotechnology Division, CSIR-Institute of Himalayan Bioresource Technology, Palampur, 176061, Himachal Pradesh, India.",
+        "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, 201002, India.",
+        "Structural Bioinformatics Lab, Biotechnology Division, CSIR-Institute of Himalayan Bioresource Technology, Palampur, 176061, Himachal Pradesh, India. rituraj.purohit@csir.res.in.",
+        "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, 201002, India. rituraj.purohit@csir.res.in."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Dhiman, Ankita",
+        "short_name": "Dhiman A",
+        "identifiers": [],
+        "affiliations": [
+          "Structural Bioinformatics Lab, Biotechnology Division, CSIR-Institute of Himalayan Bioresource Technology, Palampur, 176061, Himachal Pradesh, India.",
+          "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, 201002, India."
+        ]
+      },
+      {
+        "full_name": "Singh, Rahul",
+        "short_name": "Singh R",
+        "identifiers": [],
+        "affiliations": [
+          "Structural Bioinformatics Lab, Biotechnology Division, CSIR-Institute of Himalayan Bioresource Technology, Palampur, 176061, Himachal Pradesh, India.",
+          "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, 201002, India."
+        ]
+      },
+      {
+        "full_name": "Purohit, Rituraj",
+        "short_name": "Purohit R",
+        "identifiers": [
+          "0000-0002-2101-9398"
+        ],
+        "affiliations": [
+          "Structural Bioinformatics Lab, Biotechnology Division, CSIR-Institute of Himalayan Bioresource Technology, Palampur, 176061, Himachal Pradesh, India. rituraj.purohit@csir.res.in.",
+          "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, 201002, India. rituraj.purohit@csir.res.in."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Pharmaceutical research"
+    ],
+    "journal_abbrev": [
+      "Pharm Res"
+    ],
+    "pub_date": "2026 Oct 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/13 05:31",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42864477",
+      "26047849",
+      "37086660",
+      "38449376",
+      "41192394",
+      "29090005",
+      "34124147",
+      "35125079",
+      "18652839",
+      "23082758",
+      "17315274",
+      "41938340",
+      "25091347",
+      "41575723",
+      "41493642",
+      "21959992",
+      "10604536",
+      "42694262",
+      "41713229",
+      "41730794",
+      "36924088",
+      "42376479",
+      "29433424",
+      "39275052",
+      "42856909",
+      "17475904",
+      "29410030",
+      "41757133",
+      "42708261",
+      "42786864",
+      "35729860",
+      "34662260",
+      "42011130",
+      "37676253",
+      "31062799",
+      "26770072",
+      "18400032",
+      "27082784",
+      "15876444",
+      "28670326",
+      "29633905",
+      "26244047",
+      "41045314",
+      "41569518",
+      "42412272",
+      "40710492",
+      "40489515",
+      "16979945",
+      "39864224",
+      "15922781",
+      "36811105",
+      "42756694",
+      "29605732",
+      "41200929",
+      "16740133",
+      "42785137",
+      "39859178",
+      "3008123",
+      "18598727",
+      "40114577",
+      "35728285",
+      "42747587",
+      "25582663",
+      "24028418",
+      "37716293",
+      "41298715",
+      "42436307",
+      "35769869",
+      "40388017",
+      "40992974",
+      "42144504",
+      "41370270",
+      "39775383",
+      "27630991",
+      "28260518",
+      "39818002",
+      "42118388",
+      "18471845",
+      "36153001",
+      "40706551",
+      "17714693",
+      "39705084",
+      "42804025",
+      "42043606",
+      "15688321",
+      "18479705",
+      "12716428",
+      "41826613",
+      "42475469",
+      "34500740",
+      "41533047",
+      "41594429",
+      "37511322",
+      "39437699",
+      "41471343",
+      "40688509",
+      "15012910",
+      "31838071",
+      "30324898",
+      "39227512"
+    ],
+    "review": [
+      "42864477",
+      "29090005",
+      "15922781"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1007/s11095-026-04222-0",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-76",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

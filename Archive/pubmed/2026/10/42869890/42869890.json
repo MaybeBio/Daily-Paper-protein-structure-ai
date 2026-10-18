@@ -1,0 +1,218 @@
+{
+  "identity": {
+    "pmid": "42869890",
+    "doi": "10.1038/s41467-026-76193-0",
+    "title": "Structural basis of the gating mechanism of the large-conductance mechanosensitive channel from Escherichia coli."
+  },
+  "content": {
+    "abstract": "The mechanosensitive channel of large conductance (MscL) is a tension-gated, pore-forming protein that acts as a safety valve to protect bacteria from osmotic lysis. Escherichia coli MscL (EcMscL) was the first mechanosensitive channel discovered and subsequently served as a model system for understanding mechanical sensing, becoming one of the most decorated and well-studied systems. Despite extensive biophysical and functional characterisation spanning several decades, the precise mechanism of EcMscL gating has been poorly understood due to the lack of high-resolution structural information. Herein, we solve two EcMscL structures by cryoEM in the closed conformation in DMPC and DOPC lipid nanodiscs. Using PELDOR/DEER spectroscopy, we screen conditions and identify that in DSPC lipids, the EcMscL conformational ensemble shifts away from the closed state and that open-like states are present. We solve the structure in an expanded state by cryoEM, revealing an architecture with pore properties consistent with previous electrophysiology reports. By combining hydrogen-deuterium exchange mass spectrometry and molecular dynamics simulations, we investigate the dynamics of EcMscL gating in lipid bilayers, identifying sites involved in the closed-to-expanded transition. Combined, this enables us to inform on the elusive structural mechanism of EcMscL mechanosensitive channel function.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Escherichia coli Proteins/chemistry/metabolism/genetics/ultrastructure",
+      "*Ion Channels/chemistry/metabolism/genetics/ultrastructure",
+      "*Escherichia coli/metabolism",
+      "*Ion Channel Gating",
+      "Cryoelectron Microscopy",
+      "*Mechanotransduction, Cellular",
+      "Protein Conformation",
+      "Phosphatidylcholines/chemistry/metabolism",
+      "Models, Molecular",
+      "Dimyristoylphosphatidylcholine/chemistry",
+      "Lipid Bilayers/chemistry/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Hardman, Katie",
+        "Wort, Joshua L",
+        "Waheed, Qaiser",
+        "Liu, Xinyu",
+        "Arul, Diya",
+        "Porav, Sebastian A",
+        "Calabrese, Antonio N",
+        "Muench, Stephen P",
+        "Pliotas, Christos"
+      ],
+      "short_names": [
+        "Hardman K",
+        "Wort JL",
+        "Waheed Q",
+        "Liu X",
+        "Arul D",
+        "Porav SA",
+        "Calabrese AN",
+        "Muench SP",
+        "Pliotas C"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-7566-2506",
+        "ORCID: 0000-0003-4238-0083",
+        "ORCID: 0000-0003-2437-7761",
+        "ORCID: 0000-0001-6869-4414",
+        "ORCID: 0000-0002-4309-4858"
+      ],
+      "affiliations": [
+        "Astbury Centre for Structural Molecular Biology, University of Leeds, Leeds, UK.",
+        "School of Biomedical Sciences, Faculty of Biological Sciences, University of Leeds, Leeds, UK.",
+        "BioEmPiRe Centre for Structural Biological EPR Spectroscopy, School of Biological Sciences, Faculty of Biology, Medicine and Health, The University of Manchester, Manchester, UK.",
+        "Manchester Institute of Biotechnology, The University of Manchester, Manchester, UK.",
+        "BioEmPiRe Centre for Structural Biological EPR Spectroscopy, School of Biological Sciences, Faculty of Biology, Medicine and Health, The University of Manchester, Manchester, UK.",
+        "Manchester Institute of Biotechnology, The University of Manchester, Manchester, UK.",
+        "BioEmPiRe Centre for Structural Biological EPR Spectroscopy, School of Biological Sciences, Faculty of Biology, Medicine and Health, The University of Manchester, Manchester, UK.",
+        "Manchester Institute of Biotechnology, The University of Manchester, Manchester, UK.",
+        "BioEmPiRe Centre for Structural Biological EPR Spectroscopy, School of Biological Sciences, Faculty of Biology, Medicine and Health, The University of Manchester, Manchester, UK.",
+        "Manchester Institute of Biotechnology, The University of Manchester, Manchester, UK.",
+        "Astbury Centre for Structural Molecular Biology, University of Leeds, Leeds, UK.",
+        "Leeds Institute of Cardiovascular and Metabolic Medicine, LIGHT Laboratories, University of Leeds, Leeds, UK.",
+        "Astbury Centre for Structural Molecular Biology, University of Leeds, Leeds, UK.",
+        "School of Molecular and Cellular Biology, Faculty of Biological Sciences, University of Leeds, Leeds, UK.",
+        "Astbury Centre for Structural Molecular Biology, University of Leeds, Leeds, UK.",
+        "School of Biomedical Sciences, Faculty of Biological Sciences, University of Leeds, Leeds, UK.",
+        "Astbury Centre for Structural Molecular Biology, University of Leeds, Leeds, UK. christos.pliotas@manchester.ac.uk.",
+        "School of Biomedical Sciences, Faculty of Biological Sciences, University of Leeds, Leeds, UK. christos.pliotas@manchester.ac.uk.",
+        "BioEmPiRe Centre for Structural Biological EPR Spectroscopy, School of Biological Sciences, Faculty of Biology, Medicine and Health, The University of Manchester, Manchester, UK. christos.pliotas@manchester.ac.uk.",
+        "Manchester Institute of Biotechnology, The University of Manchester, Manchester, UK. christos.pliotas@manchester.ac.uk."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Hardman, Katie",
+        "short_name": "Hardman K",
+        "identifiers": [],
+        "affiliations": [
+          "Astbury Centre for Structural Molecular Biology, University of Leeds, Leeds, UK.",
+          "School of Biomedical Sciences, Faculty of Biological Sciences, University of Leeds, Leeds, UK."
+        ]
+      },
+      {
+        "full_name": "Wort, Joshua L",
+        "short_name": "Wort JL",
+        "identifiers": [],
+        "affiliations": [
+          "BioEmPiRe Centre for Structural Biological EPR Spectroscopy, School of Biological Sciences, Faculty of Biology, Medicine and Health, The University of Manchester, Manchester, UK.",
+          "Manchester Institute of Biotechnology, The University of Manchester, Manchester, UK."
+        ]
+      },
+      {
+        "full_name": "Waheed, Qaiser",
+        "short_name": "Waheed Q",
+        "identifiers": [
+          "0000-0002-7566-2506"
+        ],
+        "affiliations": [
+          "BioEmPiRe Centre for Structural Biological EPR Spectroscopy, School of Biological Sciences, Faculty of Biology, Medicine and Health, The University of Manchester, Manchester, UK.",
+          "Manchester Institute of Biotechnology, The University of Manchester, Manchester, UK."
+        ]
+      },
+      {
+        "full_name": "Liu, Xinyu",
+        "short_name": "Liu X",
+        "identifiers": [],
+        "affiliations": [
+          "BioEmPiRe Centre for Structural Biological EPR Spectroscopy, School of Biological Sciences, Faculty of Biology, Medicine and Health, The University of Manchester, Manchester, UK.",
+          "Manchester Institute of Biotechnology, The University of Manchester, Manchester, UK."
+        ]
+      },
+      {
+        "full_name": "Arul, Diya",
+        "short_name": "Arul D",
+        "identifiers": [],
+        "affiliations": [
+          "BioEmPiRe Centre for Structural Biological EPR Spectroscopy, School of Biological Sciences, Faculty of Biology, Medicine and Health, The University of Manchester, Manchester, UK.",
+          "Manchester Institute of Biotechnology, The University of Manchester, Manchester, UK."
+        ]
+      },
+      {
+        "full_name": "Porav, Sebastian A",
+        "short_name": "Porav SA",
+        "identifiers": [
+          "0000-0003-4238-0083"
+        ],
+        "affiliations": [
+          "Astbury Centre for Structural Molecular Biology, University of Leeds, Leeds, UK.",
+          "Leeds Institute of Cardiovascular and Metabolic Medicine, LIGHT Laboratories, University of Leeds, Leeds, UK."
+        ]
+      },
+      {
+        "full_name": "Calabrese, Antonio N",
+        "short_name": "Calabrese AN",
+        "identifiers": [
+          "0000-0003-2437-7761"
+        ],
+        "affiliations": [
+          "Astbury Centre for Structural Molecular Biology, University of Leeds, Leeds, UK.",
+          "School of Molecular and Cellular Biology, Faculty of Biological Sciences, University of Leeds, Leeds, UK."
+        ]
+      },
+      {
+        "full_name": "Muench, Stephen P",
+        "short_name": "Muench SP",
+        "identifiers": [
+          "0000-0001-6869-4414"
+        ],
+        "affiliations": [
+          "Astbury Centre for Structural Molecular Biology, University of Leeds, Leeds, UK.",
+          "School of Biomedical Sciences, Faculty of Biological Sciences, University of Leeds, Leeds, UK."
+        ]
+      },
+      {
+        "full_name": "Pliotas, Christos",
+        "short_name": "Pliotas C",
+        "identifiers": [
+          "0000-0002-4309-4858"
+        ],
+        "affiliations": [
+          "Astbury Centre for Structural Molecular Biology, University of Leeds, Leeds, UK. christos.pliotas@manchester.ac.uk.",
+          "School of Biomedical Sciences, Faculty of Biological Sciences, University of Leeds, Leeds, UK. christos.pliotas@manchester.ac.uk.",
+          "BioEmPiRe Centre for Structural Biological EPR Spectroscopy, School of Biological Sciences, Faculty of Biology, Medicine and Health, The University of Manchester, Manchester, UK. christos.pliotas@manchester.ac.uk.",
+          "Manchester Institute of Biotechnology, The University of Manchester, Manchester, UK. christos.pliotas@manchester.ac.uk."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Aug 22",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/14 05:34",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42869890"
+    ],
+    "review": [
+      "42869890"
+    ],
+    "pmc": [
+      "13661626"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-76193-0",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

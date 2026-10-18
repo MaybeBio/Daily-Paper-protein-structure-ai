@@ -1,0 +1,167 @@
+{
+  "identity": {
+    "pmid": "42869909",
+    "doi": "10.1038/s41467-026-77557-2",
+    "title": "Functional alignment of protein language models via reinforcement learning."
+  },
+  "content": {
+    "abstract": "Protein language models (pLMs) enable generative design of novel protein sequences but remain fundamentally misaligned with protein engineering goals, as they lack explicit understanding of function and often fail to improve properties beyond those found in nature. We introduce Reinforcement Learning from eXperimental Feedback (RLXF), a general framework that aligns protein language models with experimentally measured functional objectives, drawing inspiration from the methods used to align large language models like ChatGPT. Applied across five diverse protein families, RLXF improves generation of high-functioning variants beyond pre-trained baselines. We demonstrate this with CreiLOV, an oxygen-independent fluorescent protein, where RLXF-aligned models generate sequences with significantly enhanced fluorescence, including the most fluorescent CreiLOV variants reported to date. Our results indicate that RLXF-aligned models effectively integrate the evolutionary knowledge encoded in pre-trained pLMs with experimental observations, improving the success rate of generated sequences and enabling the discovery of synergistic mutation combinations that are difficult to identify through zero-shot or evolutionary approaches. RLXF provides a scalable and accessible approach to steer generative models toward desired biochemical properties, enabling function-driven protein design beyond the limits of natural evolution.",
+    "keywords": [],
+    "mesh_terms": [
+      "Reinforcement Machine Learning",
+      "Large Language Models",
+      "*Protein Engineering/methods",
+      "Generative Artificial Intelligence",
+      "*Proteins/chemistry/genetics"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Blalock, Nathaniel",
+        "Seshadri, Srinath",
+        "Nakamura, Kensuke",
+        "Babbar, Agrim",
+        "Fahlberg, Sarah A",
+        "Kulkarni, Ameya",
+        "Romero, Philip A"
+      ],
+      "short_names": [
+        "Blalock N",
+        "Seshadri S",
+        "Nakamura K",
+        "Babbar A",
+        "Fahlberg SA",
+        "Kulkarni A",
+        "Romero PA"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-7993-7936",
+        "ORCID: 0000-0002-2586-7263"
+      ],
+      "affiliations": [
+        "Department of Chemical and Biological Engineering, University of Wisconsin-Madison, Madison, WI, USA.",
+        "Department of Biomedical Engineering, Duke University, Durham, NC, USA.",
+        "Department of Biomedical Engineering, Duke University, Durham, NC, USA.",
+        "Department of Biomedical Engineering, Duke University, Durham, NC, USA.",
+        "Modality Research Laboratories II, Daiichi Sankyo Co., Ltd., Tokyo, Japan.",
+        "Department of Biochemistry, University of Wisconsin-Madison, Madison, WI, USA.",
+        "Department of Biochemistry, University of Wisconsin-Madison, Madison, WI, USA.",
+        "Department of Biomedical Engineering, Duke University, Durham, NC, USA.",
+        "Department of Biomedical Engineering, Duke University, Durham, NC, USA. philip.romero@duke.edu.",
+        "Department of Biochemistry, University of Wisconsin-Madison, Madison, WI, USA. philip.romero@duke.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Blalock, Nathaniel",
+        "short_name": "Blalock N",
+        "identifiers": [
+          "0000-0001-7993-7936"
+        ],
+        "affiliations": [
+          "Department of Chemical and Biological Engineering, University of Wisconsin-Madison, Madison, WI, USA.",
+          "Department of Biomedical Engineering, Duke University, Durham, NC, USA."
+        ]
+      },
+      {
+        "full_name": "Seshadri, Srinath",
+        "short_name": "Seshadri S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Engineering, Duke University, Durham, NC, USA."
+        ]
+      },
+      {
+        "full_name": "Nakamura, Kensuke",
+        "short_name": "Nakamura K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Engineering, Duke University, Durham, NC, USA.",
+          "Modality Research Laboratories II, Daiichi Sankyo Co., Ltd., Tokyo, Japan."
+        ]
+      },
+      {
+        "full_name": "Babbar, Agrim",
+        "short_name": "Babbar A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, University of Wisconsin-Madison, Madison, WI, USA."
+        ]
+      },
+      {
+        "full_name": "Fahlberg, Sarah A",
+        "short_name": "Fahlberg SA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, University of Wisconsin-Madison, Madison, WI, USA."
+        ]
+      },
+      {
+        "full_name": "Kulkarni, Ameya",
+        "short_name": "Kulkarni A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Engineering, Duke University, Durham, NC, USA."
+        ]
+      },
+      {
+        "full_name": "Romero, Philip A",
+        "short_name": "Romero PA",
+        "identifiers": [
+          "0000-0002-2586-7263"
+        ],
+        "affiliations": [
+          "Department of Biomedical Engineering, Duke University, Durham, NC, USA. philip.romero@duke.edu.",
+          "Department of Biochemistry, University of Wisconsin-Madison, Madison, WI, USA. philip.romero@duke.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Sep 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/14 05:33",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42869909"
+    ],
+    "review": [
+      "42869909"
+    ],
+    "pmc": [
+      "13662182"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-77557-2",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "source": "arxiv",
+  "source_id": "2610.19592v1",
+  "title": "InstructPro2: Natural Language and Biological Grounding Guided De Novo Protein Design",
+  "doi": "",
+  "abstract": "The ability to generate proteins with desired functions is a central goal of computational biology. Although natural language can express diverse design objectives, existing protein generation methods often support only narrow tasks or make limited use of biological constraints. We develop InstructPro2 to translate natural-language design objectives into protein sequences while incorporating task-specific biological context. A text encoder captures the design instructions, while dedicated ligand and antigen encoders provide biological context to the sequence-generating decoder. For pretraining, we assemble InstructPro2Bench, comprising 205.7 million <function description, protein> pairs from UniProtKB. We subsequently adapt the model to ligand-binding protein and antibody design. On functional protein generation benchmarks, InstructPro2 outperforms Pinal, the strongest baseline, achieving a functional recovery F1 of 74.8 versus 62.2 and lowering global RMSD from 5.33A to 3.04A. For antibody design, the model obtains a DockQ score of 0.39, while ligand-binding protein design reaches a docking success rate of 72.6%. These findings highlight how integrating language-based instructions with biological conditioning can extend protein generation to distinct design settings.",
+  "authors": [
+    "Charles Novak",
+    "Zhenqiao Song",
+    "Chuan Li",
+    "Jianwen Xie",
+    "Lei Li"
+  ],
+  "published_date": "2026-10-14T05:09:19Z",
+  "updated_date": "2026-10-14T05:09:19Z",
+  "journal": "",
+  "category": "cs.LG",
+  "landing_url": "https://arxiv.org/abs/2610.19592v1",
+  "pdf_url": "https://arxiv.org/pdf/2610.19592v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cs.LG"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2610.19592v1",
+    "raw_categories": [
+      "cs.LG"
+    ],
+    "journal_ref": ""
+  }
+}

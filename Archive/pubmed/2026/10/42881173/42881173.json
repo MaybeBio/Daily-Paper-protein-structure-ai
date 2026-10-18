@@ -1,0 +1,235 @@
+{
+  "identity": {
+    "pmid": "42881173",
+    "doi": "10.1038/s41467-026-77815-3",
+    "title": "Structural transition of the immature poxvirus scaffold from preassembly to the scaffold lattice."
+  },
+  "content": {
+    "abstract": "During poxvirus morphogenesis, the external scaffold defines the shape and size of immature virions. However, its structural characterization has been hindered by the pleomorphic nature of authentic virus particles. Here, we present single-particle cryo-electron microscopy and cryo-electron tomography structures of two distinct in vitro assemblies of the vaccinia virus scaffold protein D13 that recapitulate oligomeric states previously observed in situ. These structures reveal a dramatic transition from rod-like oligomers, representing a pre-assembly state, to a fully formed scaffold, triggered by the docking of the N-terminal peptide of the viral membrane protein A17 into the base cavity of D13. We propose that this interaction destabilizes the pre-assembly conformation and initiates scaffold formation upon viral membrane recruitment, ultimately leading to the formation of immature virions. Our findings provide structural insights into the early stages of poxvirus morphogenesis and establish a mechanistic link between conformational changes in D13 and scaffold assembly.",
+    "keywords": [],
+    "mesh_terms": [
+      "Cryoelectron Microscopy",
+      "*Vaccinia virus/ultrastructure/physiology",
+      "*Virus Assembly",
+      "*Virion/ultrastructure/metabolism",
+      "*Poxviridae",
+      "Electron Microscope Tomography",
+      "Viral Proteins/metabolism/chemistry",
+      "Models, Molecular",
+      "*Viral Structural Proteins/metabolism/chemistry/ultrastructure",
+      "Protein Conformation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Jang, Yeontae",
+        "Kim, Seungmi",
+        "Lee, Seu-Na",
+        "Ryu, Bumhan",
+        "Jeong, Hyeongseop",
+        "Kang, Eun Sung",
+        "Sul, Jae Hoon",
+        "Bae, Hayeon",
+        "Kim, Yong Ho",
+        "Jo, Dong-Gyu",
+        "Hyun, Jaekyung"
+      ],
+      "short_names": [
+        "Jang Y",
+        "Kim S",
+        "Lee SN",
+        "Ryu B",
+        "Jeong H",
+        "Kang ES",
+        "Sul JH",
+        "Bae H",
+        "Kim YH",
+        "Jo DG",
+        "Hyun J"
+      ],
+      "auids": [
+        "ORCID: 0009-0002-4847-1015",
+        "ORCID: 0000-0001-7370-7056",
+        "ORCID: 0000-0003-1220-3908",
+        "ORCID: 0000-0003-0095-3402",
+        "ORCID: 0000-0002-0862-7057",
+        "ORCID: 0009-0001-1138-4615",
+        "ORCID: 0000-0002-9106-3298",
+        "ORCID: 0000-0003-2271-1076",
+        "ORCID: 0000-0003-2914-537X"
+      ],
+      "affiliations": [
+        "School of Pharmacy, Sungkyunkwan University, Suwon, Republic of Korea.",
+        "School of Pharmacy, Sungkyunkwan University, Suwon, Republic of Korea.",
+        "Biomolecular Sociology Group, Institute for Basic Science, Daejeon, Republic of Korea.",
+        "Research Solution Center, Institute for Basic Science, Daejeon, Republic of Korea.",
+        "Center for Protein Structure and Drug Mechanism Research, Korea Basic Science Institute, Cheongju, Republic of Korea.",
+        "Department of Nano Science and Technology, SKKU Advanced Institute of Nanotechnology (SAINT), Sungkyunkwan University, Suwon, Republic of Korea.",
+        "Department of Biochemistry and Biophysics, University of California San Francisco, San Francisco, CA, USA.",
+        "Buck Institute for Research on Aging, Novato, CA, USA.",
+        "School of Pharmacy, Sungkyunkwan University, Suwon, Republic of Korea.",
+        "Helen and Robert Appel Alzheimer's Disease Institute, Feil Family Brain and Mind Research Institute, Weill Cornell Medicine, New York, NY, USA.",
+        "Department of Nano Science and Technology, SKKU Advanced Institute of Nanotechnology (SAINT), Sungkyunkwan University, Suwon, Republic of Korea.",
+        "Department of Nano Science and Technology, SKKU Advanced Institute of Nanotechnology (SAINT), Sungkyunkwan University, Suwon, Republic of Korea.",
+        "Department of Nano Engineering, Sungkyunkwan University, Suwon, Republic of Korea.",
+        "School of Pharmacy, Sungkyunkwan University, Suwon, Republic of Korea.",
+        "Biomedical Institute for Convergence, Sungkyunkwan University, Suwon, Republic of Korea.",
+        "Institute of Quantum Biophysics, Sungkyunkwan University, Suwon, Republic of Korea.",
+        "Department of MetaBioHealth, Sungkyunkwan University, Suwon, Republic of Korea.",
+        "School of Pharmacy, Sungkyunkwan University, Suwon, Republic of Korea. jhyu002@skku.edu.",
+        "Department of MetaBioHealth, Sungkyunkwan University, Suwon, Republic of Korea. jhyu002@skku.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Jang, Yeontae",
+        "short_name": "Jang Y",
+        "identifiers": [
+          "0009-0002-4847-1015"
+        ],
+        "affiliations": [
+          "School of Pharmacy, Sungkyunkwan University, Suwon, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Kim, Seungmi",
+        "short_name": "Kim S",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Sungkyunkwan University, Suwon, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Lee, Seu-Na",
+        "short_name": "Lee SN",
+        "identifiers": [
+          "0000-0001-7370-7056"
+        ],
+        "affiliations": [
+          "Biomolecular Sociology Group, Institute for Basic Science, Daejeon, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Ryu, Bumhan",
+        "short_name": "Ryu B",
+        "identifiers": [
+          "0000-0003-1220-3908"
+        ],
+        "affiliations": [
+          "Research Solution Center, Institute for Basic Science, Daejeon, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Jeong, Hyeongseop",
+        "short_name": "Jeong H",
+        "identifiers": [
+          "0000-0003-0095-3402"
+        ],
+        "affiliations": [
+          "Center for Protein Structure and Drug Mechanism Research, Korea Basic Science Institute, Cheongju, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Kang, Eun Sung",
+        "short_name": "Kang ES",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Nano Science and Technology, SKKU Advanced Institute of Nanotechnology (SAINT), Sungkyunkwan University, Suwon, Republic of Korea.",
+          "Department of Biochemistry and Biophysics, University of California San Francisco, San Francisco, CA, USA.",
+          "Buck Institute for Research on Aging, Novato, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Sul, Jae Hoon",
+        "short_name": "Sul JH",
+        "identifiers": [
+          "0000-0002-0862-7057"
+        ],
+        "affiliations": [
+          "School of Pharmacy, Sungkyunkwan University, Suwon, Republic of Korea.",
+          "Helen and Robert Appel Alzheimer's Disease Institute, Feil Family Brain and Mind Research Institute, Weill Cornell Medicine, New York, NY, USA."
+        ]
+      },
+      {
+        "full_name": "Bae, Hayeon",
+        "short_name": "Bae H",
+        "identifiers": [
+          "0009-0001-1138-4615"
+        ],
+        "affiliations": [
+          "Department of Nano Science and Technology, SKKU Advanced Institute of Nanotechnology (SAINT), Sungkyunkwan University, Suwon, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Kim, Yong Ho",
+        "short_name": "Kim YH",
+        "identifiers": [
+          "0000-0002-9106-3298"
+        ],
+        "affiliations": [
+          "Department of Nano Science and Technology, SKKU Advanced Institute of Nanotechnology (SAINT), Sungkyunkwan University, Suwon, Republic of Korea.",
+          "Department of Nano Engineering, Sungkyunkwan University, Suwon, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Jo, Dong-Gyu",
+        "short_name": "Jo DG",
+        "identifiers": [
+          "0000-0003-2271-1076"
+        ],
+        "affiliations": [
+          "School of Pharmacy, Sungkyunkwan University, Suwon, Republic of Korea.",
+          "Biomedical Institute for Convergence, Sungkyunkwan University, Suwon, Republic of Korea.",
+          "Institute of Quantum Biophysics, Sungkyunkwan University, Suwon, Republic of Korea.",
+          "Department of MetaBioHealth, Sungkyunkwan University, Suwon, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Hyun, Jaekyung",
+        "short_name": "Hyun J",
+        "identifiers": [
+          "0000-0003-2914-537X"
+        ],
+        "affiliations": [
+          "School of Pharmacy, Sungkyunkwan University, Suwon, Republic of Korea. jhyu002@skku.edu.",
+          "Department of MetaBioHealth, Sungkyunkwan University, Suwon, Republic of Korea. jhyu002@skku.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Sep 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/16 05:32",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42881173"
+    ],
+    "review": [
+      "42881173"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

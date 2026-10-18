@@ -1,0 +1,123 @@
+{
+  "identity": {
+    "pmid": "42878004",
+    "doi": "10.1093/nar/gkag999",
+    "title": "The MODNAP benchmark set for modeling ribose-based modified nucleic acid and nucleic acid-protein complexes: a case study with AlphaFold 3."
+  },
+  "content": {
+    "abstract": "Modified nucleic acids play important roles in biology and biotechnology. However, their chemical and structural diversity as well as effects on nucleic acid structure and intermolecular interactions remain incompletely characterized. The performance of structure prediction and co-folding algorithms for modeling modified nucleic acids and nucleic acid-protein complexes has also not been evaluated. Here, we systematically analyze ribose-based modified nucleotides present in structures deposited in the Protein Data Bank. Modified nucleotides are primarily localized to the nucleobase, where they exhibit chemical and structural diversity shaped by molecular size, topological shape descriptors, and polarity-related properties. We develop MODNAP, the first curated dataset of experimentally determined structures containing modified nucleotides. Using MODNAP, we benchmark AlphaFold 3 on 1039 nucleic acid and nucleic acid-protein complex structures spanning a range of nucleotide modifications, tertiary folds, and biological functions. AlphaFold 3 achieves success rates exceeding 80% at an RMSD threshold of 2.5 A. However, its accuracy in positioning modified nucleotides is variable and decreases for structures not explicitly represented in training. PoseBusters analysis reveals frequent intramolecular validity failures, primarily due to non-ideal ribose ring geometries. Together, these results establish MODNAP as a resource for evaluating and improving structure prediction methods for modified nucleic acids.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Ribose/chemistry",
+      "*Models, Molecular",
+      "Nucleic Acid Conformation",
+      "*Proteins/chemistry",
+      "Algorithms",
+      "Nucleotides/chemistry",
+      "*Software",
+      "*Nucleic Acids/chemistry",
+      "Protein Conformation",
+      "Benchmarking"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Fu, Jiemin",
+        "Milam, Valeria Tohver",
+        "McShan, Andrew C"
+      ],
+      "short_names": [
+        "Fu J",
+        "Milam VT",
+        "McShan AC"
+      ],
+      "auids": [
+        "ORCID: 0009-0008-1587-2908",
+        "ORCID: 0000-0002-5303-7777",
+        "ORCID: 0000-0002-3212-9867"
+      ],
+      "affiliations": [
+        "School of Chemistry and Biochemistry, Georgia Institute of Technology, Atlanta, GA 30332, United States.",
+        "School of Materials Science and Engineering, Georgia Institute of Technology, Atlanta, GA 30332, United States.",
+        "School of Chemistry and Biochemistry, Georgia Institute of Technology, Atlanta, GA 30332, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Fu, Jiemin",
+        "short_name": "Fu J",
+        "identifiers": [
+          "0009-0008-1587-2908"
+        ],
+        "affiliations": [
+          "School of Chemistry and Biochemistry, Georgia Institute of Technology, Atlanta, GA 30332, United States."
+        ]
+      },
+      {
+        "full_name": "Milam, Valeria Tohver",
+        "short_name": "Milam VT",
+        "identifiers": [
+          "0000-0002-5303-7777"
+        ],
+        "affiliations": [
+          "School of Materials Science and Engineering, Georgia Institute of Technology, Atlanta, GA 30332, United States."
+        ]
+      },
+      {
+        "full_name": "McShan, Andrew C",
+        "short_name": "McShan AC",
+        "identifiers": [
+          "0000-0002-3212-9867"
+        ],
+        "affiliations": [
+          "School of Chemistry and Biochemistry, Georgia Institute of Technology, Atlanta, GA 30332, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nucleic acids research"
+    ],
+    "journal_abbrev": [
+      "Nucleic Acids Res"
+    ],
+    "pub_date": "2026 Oct 13",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/15 17:38",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42878004"
+    ],
+    "review": [
+      "42878004"
+    ],
+    "pmc": [
+      "13669634"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkag999",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

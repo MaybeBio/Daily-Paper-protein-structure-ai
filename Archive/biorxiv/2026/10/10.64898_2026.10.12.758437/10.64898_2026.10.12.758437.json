@@ -1,0 +1,140 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.12.758437",
+  "title": "Conserved molecular compatibility for MIZ1 function in cytokinin signaling in land plants",
+  "doi": "10.64898/2026.10.12.758437",
+  "abstract": "Plant roots adjust their growth direction toward water through hydrotropism, a process that in Arabidopsis thaliana requires the endoplasmic reticulum (ER)-associated protein MIZU-KUSSEI1 (MIZ1). Nonetheless, MIZ1 orthologues occur throughout land plants, including lineages lacking true roots, raising questions about the ancestral function of this protein family. Here, we investigated the evolutionary conservation and functional diversification of MIZ1-like proteins across land plants. MIZ1 orthologues from evolutionarily distant land plants failed to restore hydrotropism or cytokinin sensitivity in the Arabidopsis miz1 mutant, despite conserved protein structure and ER localization. In the liverwort Marchantia polymorpha , loss of MpMIZ1a led to altered cytokinin sensitivity and cytokinin-mediated development in both the sporophyte and gametophyte. These phenotypes and gene expression analyses imply a conserved role of MIZ1 in cytokinin-related processes. Despite this functional similarity, protein– protein docking and bimolecular fluorescence complementation revealed species-specific interactions between MIZ1 proteins and their cognate cytokinin histidine kinase receptors in Arabidopsis and Marchantia. Together, our findings indicate that MIZ1 proteins represent ancient land plant regulators of cytokinin-dependent development whose molecular compatibility and developmental outputs have diverged during evolution. We propose that the role of MIZ1 in root hydrotropism represents a derived recruitment of this ancestral module into root-specific environmental response pathways.",
+  "authors": [
+    "Smoljan A",
+    "Das S",
+    "Vladimirstev D",
+    "Teplova A",
+    "Tkachenka M",
+    "Yang W",
+    "Lu M",
+    "Benková E",
+    "Friml J"
+  ],
+  "published_date": "2026-10-13",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.12.758437",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.12.758437.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1342566",
+    "raw_record": {
+      "id": "PPR1342566",
+      "source": "PPR",
+      "doi": "10.64898/2026.10.12.758437",
+      "title": "Conserved molecular compatibility for MIZ1 function in cytokinin signaling in land plants",
+      "authorString": "Smoljan A, Das S, Vladimirstev D, Teplova A, Tkachenka M, Yang W, Lu M, Benková E, Friml J.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Smoljan A",
+            "lastName": "Smoljan",
+            "firstName": "Adrijana",
+            "initials": "A"
+          },
+          {
+            "fullName": "Das S",
+            "lastName": "Das",
+            "firstName": "Shubhajit",
+            "initials": "S"
+          },
+          {
+            "fullName": "Vladimirstev D",
+            "lastName": "Vladimirstev",
+            "firstName": "Dmitrii",
+            "initials": "D"
+          },
+          {
+            "fullName": "Teplova A",
+            "lastName": "Teplova",
+            "firstName": "Anastasia",
+            "initials": "A"
+          },
+          {
+            "fullName": "Tkachenka M",
+            "lastName": "Tkachenka",
+            "firstName": "Marharyta",
+            "initials": "M"
+          },
+          {
+            "fullName": "Yang W",
+            "lastName": "Yang",
+            "firstName": "Wentao",
+            "initials": "W"
+          },
+          {
+            "fullName": "Lu M",
+            "lastName": "Lu",
+            "firstName": "Mengting",
+            "initials": "M"
+          },
+          {
+            "fullName": "Benková E",
+            "lastName": "Benková",
+            "firstName": "Eva",
+            "initials": "E"
+          },
+          {
+            "fullName": "Friml J",
+            "lastName": "Friml",
+            "firstName": "Jiří",
+            "initials": "J"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Plant roots adjust their growth direction toward water through hydrotropism, a process that in  Arabidopsis thaliana requires the endoplasmic reticulum (ER)-associated protein MIZU-KUSSEI1 (MIZ1). Nonetheless, MIZ1 orthologues occur throughout land plants, including lineages lacking true roots, raising questions about the ancestral function of this protein family. Here, we investigated the evolutionary conservation and functional diversification of MIZ1-like proteins across land plants. MIZ1 orthologues from evolutionarily distant land plants failed to restore hydrotropism or cytokinin sensitivity in the Arabidopsis  miz1 mutant, despite conserved protein structure and ER localization. In the liverwort  Marchantia polymorpha , loss of  MpMIZ1a led to altered cytokinin sensitivity and cytokinin-mediated development in both the sporophyte and gametophyte. These phenotypes and gene expression analyses imply a conserved role of MIZ1 in cytokinin-related processes. Despite this functional similarity, protein– protein docking and bimolecular fluorescence complementation revealed species-specific interactions between MIZ1 proteins and their cognate cytokinin histidine kinase receptors in Arabidopsis and Marchantia. Together, our findings indicate that MIZ1 proteins represent ancient land plant regulators of cytokinin-dependent development whose molecular compatibility and developmental outputs have diverged during evolution. We propose that the role of MIZ1 in root hydrotropism represents a derived recruitment of this ancestral module into root-specific environmental response pathways.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.10.12.758437"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-10-15",
+      "firstPublicationDate": "2026-10-13",
+      "firstIndexDate": "2026-10-16",
+      "hasEvaluations": "N"
+    }
+  }
+}

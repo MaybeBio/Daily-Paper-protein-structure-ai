@@ -1,0 +1,170 @@
+{
+  "identity": {
+    "pmid": "42884031",
+    "doi": "10.3390/ijms27198788",
+    "title": "Thermostable Carbohydrate-Active Enzymes for High-Temperature Biomass Conversion: From Molecular Design to Process Integration."
+  },
+  "content": {
+    "abstract": "High-temperature processing of carbohydrate-rich biomass, including starch liquefaction and lignocellulose saccharification, can improve sugar yields, reduce contamination risks, and facilitate integration with thermochemical pretreatments. However, the operational stability of native carbohydrate-active enzymes (CAZymes) at 60-90  degrees C remains a major bottleneck for efficient and economically viable biorefineries, and existing reviews rarely integrate multiscale molecular mechanisms with process-relevant engineering strategies. This review systematically examines the multiscale basis of thermostability in CAZymes-covering core hydrophobic packing, electrostatic and metal-mediated networks, disulfide bonds, conformational dynamics, and modular architectures involving catalytic domains, linkers, and carbohydrate-binding modules-and directly links these features to enzyme longevity under high-solids, inhibitor-rich conditions. We then critically compare key engineering strategies, including structure-guided rational design, semi-rational directed evolution, consensus design, ancestral sequence reconstruction, and machine learning-assisted workflows embedded in design-build-test-learn (DBTL) cycles, highlighting their respective strengths, limitations, and complementarity. Representative case studies demonstrate that engineered thermophilic alpha-amylases and cellulases achieving DeltaT(m) improvements of approximately 10-20  degrees C can sustain >80-85% residual activity after prolonged exposure at process-relevant temperatures, translating into tangible benefits such as 15-30% reductions in enzyme dosing and measurable decreases in steam consumption, alongside higher sugar titers. By bridging molecular determinants, engineering paradigms, and quantitative process performance, this review provides a pragmatic roadmap for deploying thermostable CAZymes as robust biocatalysts in sustainable high-temperature biomass conversion.",
+    "keywords": [
+      "design-build-test-learn (DBTL)",
+      "high-temperature biomass conversion",
+      "lignocellulose saccharification",
+      "protein engineering",
+      "starch liquefaction",
+      "thermostable carbohydrate-active enzymes"
+    ],
+    "mesh_terms": [
+      "*Biomass",
+      "Hot Temperature",
+      "Enzyme Stability",
+      "Protein Engineering/methods",
+      "Lignin/chemistry/metabolism",
+      "Carbohydrate Binding Modules"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Hu, Yueli",
+        "Yang, Xi",
+        "Wang, Tianqi",
+        "Zheng, Mingshu",
+        "Jiang, Zhenghao",
+        "Dou, Xinyue",
+        "Ren, Xinkun",
+        "Wu, Jiaxin"
+      ],
+      "short_names": [
+        "Hu Y",
+        "Yang X",
+        "Wang T",
+        "Zheng M",
+        "Jiang Z",
+        "Dou X",
+        "Ren X",
+        "Wu J"
+      ],
+      "auids": [
+        "ORCID: 0009-0005-2700-6159",
+        "ORCID: 0009-0006-0924-6922"
+      ],
+      "affiliations": [
+        "College of Engineering and Applied Sciences, Nanjing University, Nanjing 210023, China.",
+        "School of Food and Pharmaceutical Engineering, Nanjing Normal University, Nanjing 210023, China.",
+        "College of Engineering and Applied Sciences, Nanjing University, Nanjing 210023, China.",
+        "School of Food and Pharmaceutical Engineering, Nanjing Normal University, Nanjing 210023, China.",
+        "College of Engineering and Applied Sciences, Nanjing University, Nanjing 210023, China.",
+        "College of Engineering and Applied Sciences, Nanjing University, Nanjing 210023, China.",
+        "College of Engineering and Applied Sciences, Nanjing University, Nanjing 210023, China.",
+        "College of Engineering and Applied Sciences, Nanjing University, Nanjing 210023, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Hu, Yueli",
+        "short_name": "Hu Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Engineering and Applied Sciences, Nanjing University, Nanjing 210023, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Xi",
+        "short_name": "Yang X",
+        "identifiers": [],
+        "affiliations": [
+          "School of Food and Pharmaceutical Engineering, Nanjing Normal University, Nanjing 210023, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Tianqi",
+        "short_name": "Wang T",
+        "identifiers": [],
+        "affiliations": [
+          "College of Engineering and Applied Sciences, Nanjing University, Nanjing 210023, China."
+        ]
+      },
+      {
+        "full_name": "Zheng, Mingshu",
+        "short_name": "Zheng M",
+        "identifiers": [],
+        "affiliations": [
+          "School of Food and Pharmaceutical Engineering, Nanjing Normal University, Nanjing 210023, China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Zhenghao",
+        "short_name": "Jiang Z",
+        "identifiers": [],
+        "affiliations": [
+          "College of Engineering and Applied Sciences, Nanjing University, Nanjing 210023, China."
+        ]
+      },
+      {
+        "full_name": "Dou, Xinyue",
+        "short_name": "Dou X",
+        "identifiers": [
+          "0009-0005-2700-6159"
+        ],
+        "affiliations": [
+          "College of Engineering and Applied Sciences, Nanjing University, Nanjing 210023, China."
+        ]
+      },
+      {
+        "full_name": "Ren, Xinkun",
+        "short_name": "Ren X",
+        "identifiers": [],
+        "affiliations": [
+          "College of Engineering and Applied Sciences, Nanjing University, Nanjing 210023, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Jiaxin",
+        "short_name": "Wu J",
+        "identifiers": [
+          "0009-0006-0924-6922"
+        ],
+        "affiliations": [
+          "College of Engineering and Applied Sciences, Nanjing University, Nanjing 210023, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of molecular sciences"
+    ],
+    "journal_abbrev": [
+      "Int J Mol Sci"
+    ],
+    "pub_date": "2026 Sep 30",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/16 05:33",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42884031"
+    ],
+    "review": [
+      "42884031"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

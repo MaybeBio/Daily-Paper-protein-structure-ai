@@ -1,0 +1,209 @@
+{
+  "identity": {
+    "pmid": "42886775",
+    "doi": "10.1126/sciadv.aef7768",
+    "title": "Substrate-bound structures of yeast ALA synthase reveal protein dynamics initiating heme biosynthesis."
+  },
+  "content": {
+    "abstract": "Heme is an essential prosthetic group involved in multiple biological processes in nearly all organisms. Heme biosynthesis is initiated by the pyridoxal 5'-phosphate-dependent enzyme aminolevulinic acid synthase (ALAS). Mutations in ALAS cause multiple hematological diseases. Despite sharing approximately 70% sequence similarity, ALAS homologs exhibit distinct expression and regulatory mechanisms. However, the molecular basis for their functional divergence remains poorly understood. Here, we used x-ray crystallography and molecular dynamics simulations to elucidate the structure and dynamics of Saccharomyces cerevisiae ALAS (scALAS) upon substrate binding. We identified critical conformational changes that occur during catalysis, regulating enzyme activity and protein-protein interactions specific to eukaryotic heme synthesis. Using evolution-guided engineering, we generated scALAS variants with altered catalytic activity and cellular metabolic profiles. Our findings reveal molecular and structural mechanisms underlying heme synthesis regulation and establish a framework for developing targeted therapeutics to treat heme-deficiency disorders and inform a rational design of next-generation therapeutic tools.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Heme/biosynthesis",
+      "*5-Aminolevulinate Synthetase/chemistry/metabolism/genetics",
+      "*Saccharomyces cerevisiae/enzymology/metabolism/genetics",
+      "Molecular Dynamics Simulation",
+      "Crystallography, X-Ray",
+      "Protein Binding",
+      "Protein Conformation",
+      "Substrate Specificity",
+      "*Saccharomyces cerevisiae Proteins/chemistry/metabolism/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Tran, Jenny U",
+        "Martinez, Thyandra A",
+        "Jurich, Christopher",
+        "Josling, Margaret R",
+        "Zhang, Julian M",
+        "Ayres-Galhardo, Pedro H",
+        "Meiler, Jens",
+        "Yang, Zhongyue J",
+        "MacGurn, Jason A",
+        "Brown, Breann L"
+      ],
+      "short_names": [
+        "Tran JU",
+        "Martinez TA",
+        "Jurich C",
+        "Josling MR",
+        "Zhang JM",
+        "Ayres-Galhardo PH",
+        "Meiler J",
+        "Yang ZJ",
+        "MacGurn JA",
+        "Brown BL"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-0041-5700",
+        "ORCID: 0000-0001-6592-7980",
+        "ORCID: 0009-0000-2380-5539",
+        "ORCID: 0000-0001-8945-193X",
+        "ORCID: 0000-0003-0395-6617",
+        "ORCID: 0000-0001-5063-259X",
+        "ORCID: 0000-0001-8109-4472"
+      ],
+      "affiliations": [
+        "Department of Biochemistry, Vanderbilt University School of Medicine, Nashville, TN, USA.",
+        "Department of Cell and Developmental Biology, Vanderbilt University School of Medicine, Nashville, TN, USA.",
+        "Department of Chemistry, Vanderbilt University, Nashville, TN, USA.",
+        "Department of Biochemistry, Vanderbilt University School of Medicine, Nashville, TN, USA.",
+        "Department of Biochemistry, Vanderbilt University School of Medicine, Nashville, TN, USA.",
+        "Department of Cell and Developmental Biology, Vanderbilt University School of Medicine, Nashville, TN, USA.",
+        "Department of Chemistry, Vanderbilt University, Nashville, TN, USA.",
+        "Center for Structural Biology, Vanderbilt University, Nashville, TN, USA.",
+        "Institute of Drug Discovery, Faculty of Medicine, University of Leipzig, 04103 Leipzig, Germany.",
+        "Department of Chemistry, Vanderbilt University, Nashville, TN, USA.",
+        "Center for Structural Biology, Vanderbilt University, Nashville, TN, USA.",
+        "Department of Cell and Developmental Biology, Vanderbilt University School of Medicine, Nashville, TN, USA.",
+        "Department of Biochemistry, Vanderbilt University School of Medicine, Nashville, TN, USA.",
+        "Center for Structural Biology, Vanderbilt University, Nashville, TN, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Tran, Jenny U",
+        "short_name": "Tran JU",
+        "identifiers": [
+          "0000-0003-0041-5700"
+        ],
+        "affiliations": [
+          "Department of Biochemistry, Vanderbilt University School of Medicine, Nashville, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Martinez, Thyandra A",
+        "short_name": "Martinez TA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Cell and Developmental Biology, Vanderbilt University School of Medicine, Nashville, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Jurich, Christopher",
+        "short_name": "Jurich C",
+        "identifiers": [
+          "0000-0001-6592-7980"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Vanderbilt University, Nashville, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Josling, Margaret R",
+        "short_name": "Josling MR",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, Vanderbilt University School of Medicine, Nashville, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Zhang, Julian M",
+        "short_name": "Zhang JM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, Vanderbilt University School of Medicine, Nashville, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Ayres-Galhardo, Pedro H",
+        "short_name": "Ayres-Galhardo PH",
+        "identifiers": [
+          "0009-0000-2380-5539"
+        ],
+        "affiliations": [
+          "Department of Cell and Developmental Biology, Vanderbilt University School of Medicine, Nashville, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Meiler, Jens",
+        "short_name": "Meiler J",
+        "identifiers": [
+          "0000-0001-8945-193X"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Vanderbilt University, Nashville, TN, USA.",
+          "Center for Structural Biology, Vanderbilt University, Nashville, TN, USA.",
+          "Institute of Drug Discovery, Faculty of Medicine, University of Leipzig, 04103 Leipzig, Germany."
+        ]
+      },
+      {
+        "full_name": "Yang, Zhongyue J",
+        "short_name": "Yang ZJ",
+        "identifiers": [
+          "0000-0003-0395-6617"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Vanderbilt University, Nashville, TN, USA.",
+          "Center for Structural Biology, Vanderbilt University, Nashville, TN, USA."
+        ]
+      },
+      {
+        "full_name": "MacGurn, Jason A",
+        "short_name": "MacGurn JA",
+        "identifiers": [
+          "0000-0001-5063-259X"
+        ],
+        "affiliations": [
+          "Department of Cell and Developmental Biology, Vanderbilt University School of Medicine, Nashville, TN, USA."
+        ]
+      },
+      {
+        "full_name": "Brown, Breann L",
+        "short_name": "Brown BL",
+        "identifiers": [
+          "0000-0001-8109-4472"
+        ],
+        "affiliations": [
+          "Department of Biochemistry, Vanderbilt University School of Medicine, Nashville, TN, USA.",
+          "Center for Structural Biology, Vanderbilt University, Nashville, TN, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Science advances"
+    ],
+    "journal_abbrev": [
+      "Sci Adv"
+    ],
+    "pub_date": "2026 Oct 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/16 19:05",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42886775"
+    ],
+    "review": [
+      "42886775"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

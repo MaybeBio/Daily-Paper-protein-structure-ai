@@ -1,0 +1,115 @@
+{
+  "identity": {
+    "pmid": "42872102",
+    "doi": "10.1016/j.mrl.2026.200309",
+    "title": "A pseudo-labeling approach for automated assignment of unlabeled proteins exceeding 100 amino acid residues."
+  },
+  "content": {
+    "abstract": "In the era of AI-driven protein structure prediction, there is an urgent demand for rapid, accessible experimental approaches to validate computationally predicted structural models or to improve the accuracy of AI-based structure determination. As a key experimental technique for determining protein structures in solution, conventional biomolecular NMR spectroscopy relies heavily on proteins labeled with (13)C and (15)N isotopes, a requirement that entails high experimental costs, lengthy sample preparation times, and steep technical barriers, thereby limiting its broader application. Building on our previous work, we have developed a pseudo-labeling strategy for the automated resonance assignment of unlabeled proteins. Using high-field NMR spectrometers equipped with cryoprobes, we acquired natural-abundance (1)H-(13)C and (1)H-(15)N heteronuclear correlation spectra directly from unlabeled samples. By integrating predicted chemical shifts of H(N), H(alpha), (13)C(alpha), and (15)N from three complementary AI tools into an iterative simulated annealing framework with an alternating scoring scheme, our method effectively resolves severe cross-peak overlap during the automated assignment process by introducing heteronuclear dimensional constraints. This approach enables reliable automated backbone resonance assignment for unlabeled proteins exceeding 100 amino acid residues. We anticipate that this labeling-free strategy will lower the technical barrier to biomolecular NMR, enabling researchers without specialized NMR expertise to employ NMR spectroscopy in fundamental life science research and drug development.",
+    "keywords": [
+      "Artificial intelligence",
+      "Automated assignment",
+      "Isotope labelling",
+      "Protein NMR"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Niu, Xiaogang",
+        "Hou, Xianhui",
+        "Jin, Changwen"
+      ],
+      "short_names": [
+        "Niu X",
+        "Hou X",
+        "Jin C"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Beijing National Laboratory for Molecular Sciences, College of Chemistry and Molecular Engineering, Peking University, Beijing, 100871, China.",
+        "Beijing NMR Center, Peking University, Beijing, 100871, China.",
+        "Analytical Instrumentation Center, Peking University, Beijing, 100871, China.",
+        "Beijing National Laboratory for Molecular Sciences, College of Chemistry and Molecular Engineering, Peking University, Beijing, 100871, China.",
+        "Beijing NMR Center, Peking University, Beijing, 100871, China.",
+        "Beijing National Laboratory for Molecular Sciences, College of Chemistry and Molecular Engineering, Peking University, Beijing, 100871, China.",
+        "Beijing NMR Center, Peking University, Beijing, 100871, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Niu, Xiaogang",
+        "short_name": "Niu X",
+        "identifiers": [],
+        "affiliations": [
+          "Beijing National Laboratory for Molecular Sciences, College of Chemistry and Molecular Engineering, Peking University, Beijing, 100871, China.",
+          "Beijing NMR Center, Peking University, Beijing, 100871, China.",
+          "Analytical Instrumentation Center, Peking University, Beijing, 100871, China."
+        ]
+      },
+      {
+        "full_name": "Hou, Xianhui",
+        "short_name": "Hou X",
+        "identifiers": [],
+        "affiliations": [
+          "Beijing National Laboratory for Molecular Sciences, College of Chemistry and Molecular Engineering, Peking University, Beijing, 100871, China.",
+          "Beijing NMR Center, Peking University, Beijing, 100871, China."
+        ]
+      },
+      {
+        "full_name": "Jin, Changwen",
+        "short_name": "Jin C",
+        "identifiers": [],
+        "affiliations": [
+          "Beijing National Laboratory for Molecular Sciences, College of Chemistry and Molecular Engineering, Peking University, Beijing, 100871, China.",
+          "Beijing NMR Center, Peking University, Beijing, 100871, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Magnetic resonance letters"
+    ],
+    "journal_abbrev": [
+      "Magn Reson Lett"
+    ],
+    "pub_date": "2027 May",
+    "pub_year": "2027",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/14 18:14",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42872102"
+    ],
+    "review": [
+      "42872102"
+    ],
+    "pmc": [
+      "13660641"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2772-5162(26)00053-7",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

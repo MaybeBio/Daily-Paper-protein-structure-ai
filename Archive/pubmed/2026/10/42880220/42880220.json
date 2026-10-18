@@ -1,0 +1,95 @@
+{
+  "identity": {
+    "pmid": "42880220",
+    "doi": "10.1016/j.molcel.2026.08.027",
+    "title": "Programming biological behavior with AI-guided de novo protein design."
+  },
+  "content": {
+    "abstract": "Driven by advances in artificial intelligence, de novo protein design can now generate diverse molecular functions from the ground up, achieving remarkable success in engineering binders against many macromolecular targets. Here, we provide a perspective on how de novo design can progress beyond bimolecular interactions toward the bottom-up construction of protein reaction networks. We highlight how programmable, modular, and controllable de novo components can drive complex, emergent biological behaviors. Overcoming current challenges-including designable protein dynamics, multi-step functionalities, and non-equilibrium systems-is essential for this transition. With continued foundational method improvements, the field is poised to pioneer precise protein perturbations for systems-level insight and to engineer emergent cellular behaviors like signal amplification, decision-making, and error correction de novo to fundamentally advance synthetic biology, biotechnology, and medicine.",
+    "keywords": [
+      "conformational landscapes",
+      "de novo protein design",
+      "design of interaction networks",
+      "emergent behaviors"
+    ],
+    "mesh_terms": [
+      "*Protein Engineering/methods",
+      "*Proteins/chemistry/genetics/metabolism",
+      "*Artificial Intelligence",
+      "Synthetic Biology/methods",
+      "Humans",
+      "Protein Conformation"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Huettemann, Philipp",
+        "Kortemme, Tanja"
+      ],
+      "short_names": [
+        "Huettemann P",
+        "Kortemme T"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Bioengineering and Therapeutic Sciences, University of California, San Francisco, San Francisco, CA 94143, USA; Tetrad Graduate Program, University of California, San Francisco, San Francisco, CA 94143, USA. Electronic address: philipphuttemann@gmail.com.",
+        "Department of Bioengineering and Therapeutic Sciences, University of California, San Francisco, San Francisco, CA 94143, USA; Tetrad Graduate Program, University of California, San Francisco, San Francisco, CA 94143, USA; Quantitative Biosciences Institute, University of California, San Francisco, San Francisco, CA 94143, USA. Electronic address: tanjakortemme@gmail.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Huettemann, Philipp",
+        "short_name": "Huettemann P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bioengineering and Therapeutic Sciences, University of California, San Francisco, San Francisco, CA 94143, USA; Tetrad Graduate Program, University of California, San Francisco, San Francisco, CA 94143, USA. Electronic address: philipphuttemann@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Kortemme, Tanja",
+        "short_name": "Kortemme T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bioengineering and Therapeutic Sciences, University of California, San Francisco, San Francisco, CA 94143, USA; Tetrad Graduate Program, University of California, San Francisco, San Francisco, CA 94143, USA; Quantitative Biosciences Institute, University of California, San Francisco, San Francisco, CA 94143, USA. Electronic address: tanjakortemme@gmail.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular cell"
+    ],
+    "journal_abbrev": [
+      "Mol Cell"
+    ],
+    "pub_date": "2026 Oct 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/15 23:30",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42880220"
+    ],
+    "review": [
+      "42880220"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

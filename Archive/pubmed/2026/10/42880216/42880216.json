@@ -1,0 +1,92 @@
+{
+  "identity": {
+    "pmid": "42880216",
+    "doi": "10.1016/j.molcel.2026.08.030",
+    "title": "Structural compatibility is not enough: Current challenges in protein-protein interaction prediction."
+  },
+  "content": {
+    "abstract": "Since the introduction of AlphaFold2, AI-driven methods have greatly advanced protein structure and complex prediction. However, the performance varies strongly across interaction classes. The performance drops when dynamics are important and when interactions lack a strong co-evolutionary history. We propose to organize these limitations into distinct regions: interactions that are largely tractable by current methods; interactions in which structural compatibility is ambiguous due to competition, paralogy, or stoichiometry; interactions that lack sufficient co-evolutionary signal; and interactions whose biological relevance depends on cellular context, dynamics, or disorder. These limitations define distinct categories of interaction prediction challenges, each requiring different computational and experimental approaches. Future progress will require methods that rely less on multiple sequence alignments, better distinguish interaction strength and specificity, and move beyond static structure prediction toward modeling interaction landscapes in their cellular contexts.",
+    "keywords": [
+      "AlphaFold",
+      "intrinsically disordered proteins",
+      "protein networks",
+      "protein structure prediction",
+      "protein-protein interactions",
+      "transient interactions"
+    ],
+    "mesh_terms": [
+      "*Protein Interaction Mapping/methods",
+      "Protein Binding",
+      "Protein Conformation",
+      "Models, Molecular",
+      "*Computational Biology/methods",
+      "Humans",
+      "*Proteins/chemistry/metabolism",
+      "Prediction Algorithms",
+      "Protein Folding",
+      "*Protein Interaction Maps",
+      "*Intrinsically Disordered Proteins/chemistry/metabolism/genetics",
+      "Animals"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Elofsson, Arne"
+      ],
+      "short_names": [
+        "Elofsson A"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Science for Life Laboratory and Department of Biochemistry and Biophysics, Box 1031, 171 21 Solna, Sweden. Electronic address: arne@bioinfo.se."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Elofsson, Arne",
+        "short_name": "Elofsson A",
+        "identifiers": [],
+        "affiliations": [
+          "Science for Life Laboratory and Department of Biochemistry and Biophysics, Box 1031, 171 21 Solna, Sweden. Electronic address: arne@bioinfo.se."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Molecular cell"
+    ],
+    "journal_abbrev": [
+      "Mol Cell"
+    ],
+    "pub_date": "2026 Oct 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/15 23:30",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42880216"
+    ],
+    "review": [
+      "42880216"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

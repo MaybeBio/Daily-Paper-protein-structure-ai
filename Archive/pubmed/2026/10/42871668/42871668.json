@@ -1,0 +1,100 @@
+{
+  "identity": {
+    "pmid": "42871668",
+    "doi": "10.3389/fbioe.2026.1921701",
+    "title": "Programmable synthetic engineering of adaptive microbial cell factories: from amide transforming enzymes to advanced biocatalytic systems."
+  },
+  "content": {
+    "abstract": "Microbial cell factories integrate metabolic engineering, synthetic regulation, protein engineering, and computational design to improve catalytic performance and process robustness. Within this landscape, amide transforming enzymes provide diverse functions ranging from nitrogen metabolism and hydrolysis to covalent protein remodeling. This review examines amidases, asparaginases, glutaminases, nitrilases, nitrile hydratases, acylases, and carbamylases, with particular emphasis on microbial transglutaminase (MTGase). MTGase is distinguished by its ability to catalyze covalent epsilon-(gamma-glutamyl) lysine crosslinking through acyl transfer reactions, enabling protein stabilization, molecular assembly, immobilization, and spatial organization of catalytic systems. This review critically examines the transition from classical amide transforming enzymes toward engineered biocatalytic systems and evaluates how MTGase could be leveraged as a protein level control component in microbial cell factories. Experimental developments in MTGase production, structural and protein engineering, synthetic genetic circuits, CRISPR based regulation, metabolic control, nanobiomaterials, and spatial biocatalysis are evaluated alongside computational approaches including AlphaFold assisted structure prediction, molecular docking, molecular dynamics, machine learning guided mutagenesis, and metabolic modeling. Emphasis is placed on experimentally validated outcomes and current limitations. Key unresolved barriers include intracellular off target crosslinking, proteostatic burden, variable crosslink stoichiometry, limited temporal control of MTGase activity, chassis dependence, and industrial scale up. Where direct evidence is lacking, prospective applications are distinguished from established capabilities and corresponding engineering strategies are proposed. Collectively, this review envisions MTGase as a controllable protein level platform for synthetic biology, while defining the evidence, limitations, and experimental requirements needed for its broader application in microbial biotechnology.",
+    "keywords": [
+      "adaptive biofactories",
+      "artificial intelligence, guided protein engineering",
+      "metabolic engineering",
+      "microbial cell factories",
+      "microbial enzymes",
+      "programmable biocatalysis"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Fatima, Syeda Warisul",
+        "Alam, Shahenvaz"
+      ],
+      "short_names": [
+        "Fatima SW",
+        "Alam S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Winship Cancer Institute, School of Medicine, Emory University, Atlanta, GA, United States.",
+        "Emory Musculoskeletal Institute, School of Medicine, Emory University, Atlanta, GA, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Fatima, Syeda Warisul",
+        "short_name": "Fatima SW",
+        "identifiers": [],
+        "affiliations": [
+          "Winship Cancer Institute, School of Medicine, Emory University, Atlanta, GA, United States."
+        ]
+      },
+      {
+        "full_name": "Alam, Shahenvaz",
+        "short_name": "Alam S",
+        "identifiers": [],
+        "affiliations": [
+          "Emory Musculoskeletal Institute, School of Medicine, Emory University, Atlanta, GA, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in bioengineering and biotechnology"
+    ],
+    "journal_abbrev": [
+      "Front Bioeng Biotechnol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/14 18:14",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42871668"
+    ],
+    "review": [
+      "42871668"
+    ],
+    "pmc": [
+      "13658986"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.3389/fbioe.2026.1921701",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

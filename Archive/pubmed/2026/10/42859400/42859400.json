@@ -1,0 +1,286 @@
+{
+  "identity": {
+    "pmid": "42859400",
+    "doi": "10.1080/19420862.2026.2743404",
+    "title": "Catching enhanced flexibility in antibody-antigen recognition: critical evaluation of physics-based and AI-driven methods."
+  },
+  "content": {
+    "abstract": "Protein conformational dynamics often govern protein-protein interaction mechanisms and function, as flexibility enables adaptation to different environments. Yet, the extent to which current physics‑based and emerging AI‑driven methods can predict flexibility‑dependent physicochemical properties remains to be determined. Here, we studied the HyHEL10 (Hy10) antibody lineage binding to lysozymes with different conformational flexibility. Contrary to traditional models, the affinity-matured Hy10(4X) antibody achieves high affinity by actively destabilizing its CDRH1 loop, enabling the capture of mobile antigen variants via entropy-buffered conformational selection. This structural plasticity presents a significant challenge to standard computational protocols. We found that the polarization effect is enhanced with increasing protein flexibility. Our benchmarking of MM/PBSA and AI-driven structure predictors reveals that both approaches initially fail to accurately rank affinities in more flexible systems, primarily due to sampling limitations and inaccurate structure prediction. However, the inclusion of structural templates in Chai-1 effectively mitigated these limitations, leading to enhanced correlation with experimental affinities. In the future, by coupling AI's quick screening with robust physics-based evaluations, we may have a potential pathway for in silico engineering of therapeutic antibodies against the most elusive, shapeshifting targets in the proteome.",
+    "keywords": [
+      "Binding free energy",
+      "FEP",
+      "MMGBSA",
+      "MMPBSA",
+      "structure prediction"
+    ],
+    "mesh_terms": [
+      "Protein Conformation",
+      "Humans",
+      "*Muramidase/chemistry/immunology",
+      "*Artificial Intelligence",
+      "*Antigens/chemistry/immunology",
+      "Animals",
+      "*Antigen-Antibody Reactions",
+      "Antibody Affinity"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Xu, Honglin",
+        "Mi, Ruyue",
+        "Bai, Ganggang",
+        "Kang, Yue",
+        "Sun, Chuance",
+        "Wang, Yanjing",
+        "Chen, Changjun",
+        "Ma, Buyong"
+      ],
+      "short_names": [
+        "Xu H",
+        "Mi R",
+        "Bai G",
+        "Kang Y",
+        "Sun C",
+        "Wang Y",
+        "Chen C",
+        "Ma B"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Engineering Research Center of Cell & Therapeutic Antibody (MOE), School of Pharmacy, Shanghai Jiao Tong University, Shanghai, China.",
+        "Engineering Research Center of Cell & Therapeutic Antibody (MOE), School of Pharmacy, Shanghai Jiao Tong University, Shanghai, China.",
+        "Shanghai Digiwiser Biotechnology, Shanghai, China.",
+        "Shanghai Digiwiser Biotechnology, Shanghai, China.",
+        "Engineering Research Center of Cell & Therapeutic Antibody (MOE), School of Pharmacy, Shanghai Jiao Tong University, Shanghai, China.",
+        "Engineering Research Center of Cell & Therapeutic Antibody (MOE), School of Pharmacy, Shanghai Jiao Tong University, Shanghai, China.",
+        "Biomolecular Physics and Modeling Group, School of Physics, Huazhong University of Science and Technology, Wuhan, Hubei, China.",
+        "Engineering Research Center of Cell & Therapeutic Antibody (MOE), School of Pharmacy, Shanghai Jiao Tong University, Shanghai, China.",
+        "Shanghai Digiwiser Biotechnology, Shanghai, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Xu, Honglin",
+        "short_name": "Xu H",
+        "identifiers": [],
+        "affiliations": [
+          "Engineering Research Center of Cell & Therapeutic Antibody (MOE), School of Pharmacy, Shanghai Jiao Tong University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Mi, Ruyue",
+        "short_name": "Mi R",
+        "identifiers": [],
+        "affiliations": [
+          "Engineering Research Center of Cell & Therapeutic Antibody (MOE), School of Pharmacy, Shanghai Jiao Tong University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Bai, Ganggang",
+        "short_name": "Bai G",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Digiwiser Biotechnology, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Kang, Yue",
+        "short_name": "Kang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Digiwiser Biotechnology, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Chuance",
+        "short_name": "Sun C",
+        "identifiers": [],
+        "affiliations": [
+          "Engineering Research Center of Cell & Therapeutic Antibody (MOE), School of Pharmacy, Shanghai Jiao Tong University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yanjing",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Engineering Research Center of Cell & Therapeutic Antibody (MOE), School of Pharmacy, Shanghai Jiao Tong University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Changjun",
+        "short_name": "Chen C",
+        "identifiers": [],
+        "affiliations": [
+          "Biomolecular Physics and Modeling Group, School of Physics, Huazhong University of Science and Technology, Wuhan, Hubei, China."
+        ]
+      },
+      {
+        "full_name": "Ma, Buyong",
+        "short_name": "Ma B",
+        "identifiers": [],
+        "affiliations": [
+          "Engineering Research Center of Cell & Therapeutic Antibody (MOE), School of Pharmacy, Shanghai Jiao Tong University, Shanghai, China.",
+          "Shanghai Digiwiser Biotechnology, Shanghai, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "mAbs"
+    ],
+    "journal_abbrev": [
+      "MAbs"
+    ],
+    "pub_date": "2026 Dec 31",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/11 05:38",
+    "fetched_at": "2026-10-18 06:57:52"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42859400",
+      "21526167",
+      "27367467",
+      "29545810",
+      "12515535",
+      "42734515",
+      "41082583",
+      "15383540",
+      "42575164",
+      "38899735",
+      "41138893",
+      "42475469",
+      "30526270",
+      "39363630",
+      "38960407",
+      "39942636",
+      "22342884",
+      "40973400",
+      "42587432",
+      "22769726",
+      "1058492",
+      "14581222",
+      "26177714",
+      "42564542",
+      "7961832",
+      "33539768",
+      "35707541",
+      "24436329",
+      "19377934",
+      "42419186",
+      "27022022",
+      "42442578",
+      "42731718",
+      "42776794",
+      "23912807",
+      "10543973",
+      "11114374",
+      "33455453",
+      "7629185",
+      "41613601",
+      "8955089",
+      "1704260",
+      "41319238",
+      "30666252",
+      "2439094",
+      "9463398",
+      "19194863",
+      "31544874",
+      "1988675",
+      "42230751",
+      "40465588",
+      "36669976",
+      "42201327",
+      "42301231",
+      "40693434",
+      "42490846",
+      "22390639",
+      "30563492",
+      "32526069",
+      "30872635",
+      "40563406",
+      "26410103",
+      "28855581",
+      "41781721",
+      "1716767",
+      "40750568",
+      "41671420",
+      "7986568",
+      "42129085",
+      "39831890",
+      "42223122",
+      "33347442",
+      "40354482",
+      "38768531",
+      "41667775",
+      "42337951",
+      "40287075",
+      "10777579",
+      "41583438",
+      "33303630",
+      "10556035",
+      "34838187",
+      "41841601",
+      "22968994",
+      "22208982",
+      "42778534",
+      "35328351",
+      "40874985",
+      "41808445",
+      "40553326",
+      "28024402",
+      "34415295",
+      "12742013",
+      "32719844",
+      "27216816",
+      "8302837",
+      "8356074",
+      "41208394",
+      "27003615",
+      "25153121"
+    ],
+    "review": [
+      "42859400",
+      "40973400",
+      "26177714",
+      "42419186",
+      "42776794",
+      "33455453",
+      "2439094",
+      "31544874",
+      "1988675",
+      "36669976",
+      "42301231",
+      "41781721",
+      "41841601",
+      "42778534",
+      "35328351",
+      "12742013"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.tandfonline.com/doi/10.1080/19420862.2026.2743404?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

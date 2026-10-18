@@ -1,0 +1,133 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.12.757977",
+  "title": "Generative design of functional disordered regions in a developmental transcription factor",
+  "doi": "10.64898/2026.10.12.757977",
+  "abstract": "Rapid advances in protein structure design have not translated to intrinsically disordered regions (IDRs). This is largely due to our incomplete understanding of how IDR sequence encodes function. Here, we use stem cell differentiation as a model to map functional sequence features in the IDR of transcription factor RUNX2. We show that RUNX2 requires its C-terminal IDR to bind chromatin and regulate gene expression during osteogenesis. Surprisingly, linear IDR sequence is dispensable, and instead features of the conformational ensemble predict function. We develop an algorithm for rational IDR design based on biophysical principles, and use it to generate functional IDRs de novo. Together, these results illustrate the central role for TF IDRs in chromatin binding and extend generative protein design beyond the folded proteome.",
+  "authors": [
+    "Denes LT",
+    "Emenecker R",
+    "Wang N",
+    "Chirumamilla D",
+    "Mohotti R",
+    "Holehouse AS",
+    "Holt LJ",
+    "Lionnet T"
+  ],
+  "published_date": "2026-10-14",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.12.757977",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.12.757977.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1342377",
+    "raw_record": {
+      "id": "PPR1342377",
+      "source": "PPR",
+      "doi": "10.64898/2026.10.12.757977",
+      "title": "Generative design of functional disordered regions in a developmental transcription factor",
+      "authorString": "Denes LT, Emenecker R, Wang N, Chirumamilla D, Mohotti R, Holehouse AS, Holt LJ, Lionnet T.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Denes LT",
+            "lastName": "Denes",
+            "firstName": "Lance Thomas",
+            "initials": "LT"
+          },
+          {
+            "fullName": "Emenecker R",
+            "lastName": "Emenecker",
+            "firstName": "Ryan",
+            "initials": "R"
+          },
+          {
+            "fullName": "Wang N",
+            "lastName": "Wang",
+            "firstName": "Nongyun",
+            "initials": "N"
+          },
+          {
+            "fullName": "Chirumamilla D",
+            "lastName": "Chirumamilla",
+            "firstName": "Devi",
+            "initials": "D"
+          },
+          {
+            "fullName": "Mohotti R",
+            "lastName": "Mohotti",
+            "firstName": "Rashmi",
+            "initials": "R"
+          },
+          {
+            "fullName": "Holehouse AS",
+            "lastName": "Holehouse",
+            "firstName": "Alex",
+            "initials": "AS"
+          },
+          {
+            "fullName": "Holt LJ",
+            "lastName": "Holt",
+            "firstName": "Liam",
+            "initials": "LJ"
+          },
+          {
+            "fullName": "Lionnet T",
+            "lastName": "Lionnet",
+            "firstName": "Timothee",
+            "initials": "T"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Rapid advances in protein structure design have not translated to intrinsically disordered regions (IDRs). This is largely due to our incomplete understanding of how IDR sequence encodes function. Here, we use stem cell differentiation as a model to map functional sequence features in the IDR of transcription factor RUNX2. We show that RUNX2 requires its C-terminal IDR to bind chromatin and regulate gene expression during osteogenesis. Surprisingly, linear IDR sequence is dispensable, and instead features of the conformational ensemble predict function. We develop an algorithm for rational IDR design based on biophysical principles, and use it to generate functional IDRs de novo. Together, these results illustrate the central role for TF IDRs in chromatin binding and extend generative protein design beyond the folded proteome.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.10.12.757977"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-10-15",
+      "firstPublicationDate": "2026-10-14",
+      "firstIndexDate": "2026-10-16",
+      "hasEvaluations": "N"
+    }
+  }
+}

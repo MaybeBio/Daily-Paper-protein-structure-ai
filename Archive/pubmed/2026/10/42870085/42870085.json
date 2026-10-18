@@ -1,0 +1,129 @@
+{
+  "identity": {
+    "pmid": "42870085",
+    "doi": "10.1007/978-1-0716-5555-9_5",
+    "title": "Single-Molecule Force Spectroscopy: Experiments, Analysis, and Simulations."
+  },
+  "content": {
+    "abstract": "The mechanical properties of cells and subcellular components are important for a mechanistic understanding of biological processes. The quantification of the mechanics of cells and biomolecules using biophysical methods has matured thanks to the development of nanotechnologies such as optical and magnetic tweezers, the biomembrane force probe and atomic force microscopy (AFM). Force spectroscopy allows the determination of the forces required to unfold protein domains and to disrupt individual receptor/ligand bonds. Analytical models allow a phenomenological characterization of the underlying energy landscape. Molecular dynamics simulations allow the study of similar biological processes in atomic detail. In this chapter, we first provide a roadmap of force spectroscopy measurement and analysis and its interpretation in terms of available theories. We then present the background for molecular dynamics simulations, focusing on steered molecular dynamics (SMD) and the importance of bridging computational tools and theoretical frameworks with experimental techniques. We finally provide a step-by-step protocol of AFM-based and SMD experiments.",
+    "keywords": [
+      "Atomic force microscopy",
+      "Dynamic force spectroscopy",
+      "Receptor-ligand interactions",
+      "Steered molecular dynamics simulations"
+    ],
+    "mesh_terms": [
+      "*Microscopy, Atomic Force/methods",
+      "*Molecular Dynamics Simulation",
+      "*Single Molecule Imaging/methods",
+      "Ligands",
+      "Spectrum Analysis/methods"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Mesbah, Ismahene",
+        "Sumbul, Fidan",
+        "Valotteau, Claire",
+        "Rico, Felix"
+      ],
+      "short_names": [
+        "Mesbah I",
+        "Sumbul F",
+        "Valotteau C",
+        "Rico F"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Aix-Marseille Univ, INSERM, DyNaMo, Turing Centre for Living Systems, 13009, Marseille, France.",
+        "Aix-Marseille Univ, INSERM, DyNaMo, Turing Centre for Living Systems, 13009, Marseille, France.",
+        "Aix-Marseille Univ, INSERM, DyNaMo, Turing Centre for Living Systems, 13009, Marseille, France.",
+        "Aix-Marseille Univ, INSERM, DyNaMo, Turing Centre for Living Systems, 13009, Marseille, France. felix.rico@inserm.fr."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Mesbah, Ismahene",
+        "short_name": "Mesbah I",
+        "identifiers": [],
+        "affiliations": [
+          "Aix-Marseille Univ, INSERM, DyNaMo, Turing Centre for Living Systems, 13009, Marseille, France."
+        ]
+      },
+      {
+        "full_name": "Sumbul, Fidan",
+        "short_name": "Sumbul F",
+        "identifiers": [],
+        "affiliations": [
+          "Aix-Marseille Univ, INSERM, DyNaMo, Turing Centre for Living Systems, 13009, Marseille, France."
+        ]
+      },
+      {
+        "full_name": "Valotteau, Claire",
+        "short_name": "Valotteau C",
+        "identifiers": [],
+        "affiliations": [
+          "Aix-Marseille Univ, INSERM, DyNaMo, Turing Centre for Living Systems, 13009, Marseille, France."
+        ]
+      },
+      {
+        "full_name": "Rico, Felix",
+        "short_name": "Rico F",
+        "identifiers": [],
+        "affiliations": [
+          "Aix-Marseille Univ, INSERM, DyNaMo, Turing Centre for Living Systems, 13009, Marseille, France. felix.rico@inserm.fr."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Methods in molecular biology (Clifton, N.J.)"
+    ],
+    "journal_abbrev": [
+      "Methods Mol Biol"
+    ],
+    "pub_date": "2027",
+    "pub_year": "2027",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/14 05:34",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42870085"
+    ],
+    "review": [
+      "42870085"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1007/978-1-0716-5555-9_5",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-649",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

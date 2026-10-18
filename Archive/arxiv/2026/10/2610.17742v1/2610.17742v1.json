@@ -1,0 +1,34 @@
+{
+  "source": "arxiv",
+  "source_id": "2610.17742v1",
+  "title": "Geometric Structure Predicts Per-Example Neighborhood Loss Under PCA Truncation",
+  "doi": "",
+  "abstract": "Dimensionality reduction can preserve the average performance of text embeddings even when a substantial fraction of their dimensions is removed. Aggregate metrics, however, do not reveal whether degradation is distributed uniformly across examples. We study per-example neighborhood stability under PCA truncation across static word embeddings and modern sentence encoders. Per-item neighbor retention varies widely and is predictable from geometric properties of the representation and its alignment with the retained PCA subspace. The fraction of centered-vector energy retained by the truncated subspace is strongest for CBOW and RI, with neighborhood contrast leading on SkipGram and the modern/Matryoshka settings (GTE approximately tied), while local density is associated with retention in marginal analysis but adds little unique information once energy and contrast are controlled (R-squared increments 0.001 to 0.010). Local intrinsic dimensionality accounts for more variation than density on modern sentence encoders in pairwise comparison. On SciFact, query density predicts retrieval degradation under aggressive compression; on NFCorpus the primary 32d association does not replicate, and a direct variance-restriction test leaves that null unresolved. Average compression performance conceals systematic per-example variation that geometry makes visible.",
+  "authors": [
+    "Sriram Loganathan",
+    "Gokul Anand",
+    "Ragavan Arivazhagan"
+  ],
+  "published_date": "2026-10-13T05:20:21Z",
+  "updated_date": "2026-10-13T05:20:21Z",
+  "journal": "",
+  "category": "cs.CL, cs.LG",
+  "landing_url": "https://arxiv.org/abs/2610.17742v1",
+  "pdf_url": "https://arxiv.org/pdf/2610.17742v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cs.CL",
+    "cs.LG"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2610.17742v1",
+    "raw_categories": [
+      "cs.CL",
+      "cs.LG"
+    ],
+    "journal_ref": ""
+  }
+}

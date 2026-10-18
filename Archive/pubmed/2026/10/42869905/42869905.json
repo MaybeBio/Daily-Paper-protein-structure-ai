@@ -1,0 +1,275 @@
+{
+  "identity": {
+    "pmid": "42869905",
+    "doi": "10.1038/s41467-026-77633-7",
+    "title": "Reprogramming the Rossmann fold signature motif creates orthogonal redox biocatalysts."
+  },
+  "content": {
+    "abstract": "Biological reducing power is carried by nicotinamide adenine dinucleotide (phosphate) (NAD(P)/H), which supports cellular functions and cannot be specifically directed to engineered metabolic pathways. Nicotinamide mononucleotide (NMN(H)) has emerged as an orthogonal redox cofactor to address this. Herein, to create NMN(H)-specific enzymes that no longer interact with cellular NAD(P)/H pools, we perturb the ancient, conserved GxGxxG motif in Rossmann fold enzymes that enables persistent NAD(P)/H recognition. We build variants NRC-01 and NRC-02 on phosphite dehydrogenase (PTDH), which eliminate electron leaking to NAD(P)H-dependent side reactions while driving NMNH-dependent biotransformation with ~240-fold higher productivity than existing catalysts. Testing the design principle on 12 other vastly diverse enzymes yields additional NMN(H)-orthogonal enzymes catalyzing valuable biomanufacturing reactions, and reveals a potential rule predicting the translatability of this method. Rosetta modeling, structural alignment, and experimental results reveal that Rossmann fold reprogramming, paired with engineered structural reinforcement, may offer a general route to orthogonal redox biocatalysts.",
+    "keywords": [],
+    "mesh_terms": [
+      "Oxidation-Reduction",
+      "Biocatalysis",
+      "Amino Acid Motifs",
+      "NADP/metabolism/chemistry",
+      "*NADH, NADPH Oxidoreductases/metabolism/chemistry/genetics",
+      "Models, Molecular",
+      "Protein Engineering",
+      "Protein Folding"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ping, Yu",
+        "Kim, Jin Young",
+        "Dinh, Minh-Anh L",
+        "Luu, Emma",
+        "Worakaensai, Suphanida",
+        "Zhang, Shiding",
+        "Black, William B",
+        "Monge, Emma",
+        "Ng, Hans Jefferson C",
+        "Perea, Sean",
+        "Zhang, Yulai",
+        "Cui, Youtian",
+        "King, Edward",
+        "Siegel, Justin B",
+        "Li, Han"
+      ],
+      "short_names": [
+        "Ping Y",
+        "Kim JY",
+        "Dinh ML",
+        "Luu E",
+        "Worakaensai S",
+        "Zhang S",
+        "Black WB",
+        "Monge E",
+        "Ng HJC",
+        "Perea S",
+        "Zhang Y",
+        "Cui Y",
+        "King E",
+        "Siegel JB",
+        "Li H"
+      ],
+      "auids": [
+        "ORCID: 0009-0003-3914-2882",
+        "ORCID: 0000-0002-0388-9330",
+        "ORCID: 0009-0003-3497-820X",
+        "ORCID: 0009-0007-2851-9997",
+        "ORCID: 0000-0002-6113-6433"
+      ],
+      "affiliations": [
+        "Department of Chemical and Biomolecular Engineering, University of California, Irvine, Irvine, CA, USA.",
+        "Department of Chemical and Biomolecular Engineering, University of California, Irvine, Irvine, CA, USA.",
+        "Department of Chemical and Biomolecular Engineering, University of California, Irvine, Irvine, CA, USA.",
+        "Genome Center, University of California, Davis, Davis, CA, USA.",
+        "Department of Chemical and Biomolecular Engineering, University of California, Irvine, Irvine, CA, USA.",
+        "Department of Chemical and Biomolecular Engineering, University of California, Irvine, Irvine, CA, USA.",
+        "Department of Chemical and Biomolecular Engineering, University of California, Irvine, Irvine, CA, USA.",
+        "Department of Biological Chemistry, University of California, Irvine, Irvine, CA, USA.",
+        "Department of Chemical and Biomolecular Engineering, University of California, Irvine, Irvine, CA, USA.",
+        "Department of Chemical and Biomolecular Engineering, University of California, Irvine, Irvine, CA, USA.",
+        "Department of Chemical and Biomolecular Engineering, University of California, Irvine, Irvine, CA, USA.",
+        "Genome Center, University of California, Davis, Davis, CA, USA.",
+        "Department of Molecular Biology and Biochemistry, University of California, Irvine, Irvine, CA, USA.",
+        "Genome Center, University of California, Davis, Davis, CA, USA.",
+        "Department of Chemistry, University of California, Davis, Davis, CA, USA.",
+        "Department of Biochemistry and Molecular Medicine, University of California, Davis, Davis, CA, USA.",
+        "Department of Chemical and Biomolecular Engineering, University of California, Irvine, Irvine, CA, USA. han.li@uci.edu.",
+        "Department of Biological Chemistry, University of California, Irvine, Irvine, CA, USA. han.li@uci.edu.",
+        "Department of Molecular Biology and Biochemistry, University of California, Irvine, Irvine, CA, USA. han.li@uci.edu.",
+        "UCI Center for Synthetic Biology (CSB), University of California, Irvine, Irvine, CA, USA. han.li@uci.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ping, Yu",
+        "short_name": "Ping Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical and Biomolecular Engineering, University of California, Irvine, Irvine, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Kim, Jin Young",
+        "short_name": "Kim JY",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical and Biomolecular Engineering, University of California, Irvine, Irvine, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Dinh, Minh-Anh L",
+        "short_name": "Dinh ML",
+        "identifiers": [
+          "0009-0003-3914-2882"
+        ],
+        "affiliations": [
+          "Department of Chemical and Biomolecular Engineering, University of California, Irvine, Irvine, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Luu, Emma",
+        "short_name": "Luu E",
+        "identifiers": [
+          "0000-0002-0388-9330"
+        ],
+        "affiliations": [
+          "Genome Center, University of California, Davis, Davis, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Worakaensai, Suphanida",
+        "short_name": "Worakaensai S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical and Biomolecular Engineering, University of California, Irvine, Irvine, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Zhang, Shiding",
+        "short_name": "Zhang S",
+        "identifiers": [
+          "0009-0003-3497-820X"
+        ],
+        "affiliations": [
+          "Department of Chemical and Biomolecular Engineering, University of California, Irvine, Irvine, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Black, William B",
+        "short_name": "Black WB",
+        "identifiers": [
+          "0009-0007-2851-9997"
+        ],
+        "affiliations": [
+          "Department of Chemical and Biomolecular Engineering, University of California, Irvine, Irvine, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Monge, Emma",
+        "short_name": "Monge E",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biological Chemistry, University of California, Irvine, Irvine, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Ng, Hans Jefferson C",
+        "short_name": "Ng HJC",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical and Biomolecular Engineering, University of California, Irvine, Irvine, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Perea, Sean",
+        "short_name": "Perea S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical and Biomolecular Engineering, University of California, Irvine, Irvine, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yulai",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical and Biomolecular Engineering, University of California, Irvine, Irvine, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Cui, Youtian",
+        "short_name": "Cui Y",
+        "identifiers": [],
+        "affiliations": [
+          "Genome Center, University of California, Davis, Davis, CA, USA."
+        ]
+      },
+      {
+        "full_name": "King, Edward",
+        "short_name": "King E",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Molecular Biology and Biochemistry, University of California, Irvine, Irvine, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Siegel, Justin B",
+        "short_name": "Siegel JB",
+        "identifiers": [],
+        "affiliations": [
+          "Genome Center, University of California, Davis, Davis, CA, USA.",
+          "Department of Chemistry, University of California, Davis, Davis, CA, USA.",
+          "Department of Biochemistry and Molecular Medicine, University of California, Davis, Davis, CA, USA."
+        ]
+      },
+      {
+        "full_name": "Li, Han",
+        "short_name": "Li H",
+        "identifiers": [
+          "0000-0002-6113-6433"
+        ],
+        "affiliations": [
+          "Department of Chemical and Biomolecular Engineering, University of California, Irvine, Irvine, CA, USA. han.li@uci.edu.",
+          "Department of Biological Chemistry, University of California, Irvine, Irvine, CA, USA. han.li@uci.edu.",
+          "Department of Molecular Biology and Biochemistry, University of California, Irvine, Irvine, CA, USA. han.li@uci.edu.",
+          "UCI Center for Synthetic Biology (CSB), University of California, Irvine, Irvine, CA, USA. han.li@uci.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Sep 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't",
+      "Research Support, U.S. Gov't, Non-P.H.S."
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/14 05:33",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42869905"
+    ],
+    "review": [
+      "42869905"
+    ],
+    "pmc": [
+      "13661529"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-77633-7",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

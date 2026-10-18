@@ -1,0 +1,227 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.11.758399",
+  "title": "PATHNet: A Thermodynamic Path-Integral-Inspired Neural Network for Protein-Ligand Interaction Prediction",
+  "doi": "10.64898/2026.10.11.758399",
+  "abstract": "Protein-ligand scoring functions must capture strongly nonlinear, target-dependent binding physics while remaining generalizable beyond their training data, a balance that purely analytic and purely data-driven models each struggle to achieve on their own. We present PATHNet, a physics-informed framework that learns this unknown functional relationship from molecular-mechanics descriptors using a non-monotonic piecewise-linear mapper with a bounded neural-network correction, trained through a variational, least-action-inspired objective and regulated by a renormalization-group-inspired spectral constraint, with model selection performed through multi-start basin optimization. Across seven DUD-E targets, PATHNet achieved the highest mean active inactive/decoy classification accuracy among the methods tested, outperforming three literature baselines representing distinct architectural families. These results support a physics-grounded, variationally constrained approach to neural-network scoring as a practical route toward more interpretable and transferable protein-ligand interaction models.",
+  "authors": [
+    "Ben Geoffrey A. S.",
+    "Abhishek Singh",
+    "Soumya Kanchan",
+    "Nagaraj M Kulkarni"
+  ],
+  "published_date": "2026-10-17",
+  "updated_date": "2026-10-18T03:45:12Z",
+  "journal": "bioRxiv",
+  "category": "Bioinformatics",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.11.758399",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.11.758399.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [
+    "Bioinformatics"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Bioinformatics",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            18
+          ]
+        ],
+        "date-time": "2026-10-18T04:39:52Z",
+        "timestamp": 1792298392061,
+        "version": "4.4.0"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            17
+          ]
+        ]
+      },
+      "group-title": "Bioinformatics",
+      "reference-count": 0,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                17
+              ]
+            ],
+            "date-time": "2026-10-17T00:00:00Z",
+            "timestamp": 1792195200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            17
+          ]
+        ]
+      },
+      "abstract": "<jats:p>Protein-ligand scoring functions must capture strongly nonlinear, target-dependent binding physics while remaining generalizable beyond their training data, a balance that purely analytic and purely data-driven models each struggle to achieve on their own. We present PATHNet, a physics-informed framework that learns this unknown functional relationship from molecular-mechanics descriptors using a non-monotonic piecewise-linear mapper with a bounded neural-network correction, trained through a variational, least-action-inspired objective and regulated by a renormalization-group-inspired spectral constraint, with model selection performed through multi-start basin optimization. Across seven DUD-E targets, PATHNet achieved the highest mean active inactive/decoy classification accuracy among the methods tested, outperforming three literature baselines representing distinct architectural families. These results support a physics-grounded, variationally constrained approach to neural-network scoring as a practical route toward more interpretable and transferable protein-ligand interaction models.</jats:p>",
+      "DOI": "10.64898/2026.10.11.758399",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            18
+          ]
+        ],
+        "date-time": "2026-10-18T03:45:12Z",
+        "timestamp": 1792295112000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "PATHNet: A Thermodynamic Path-Integral-Inspired Neural Network for Protein-Ligand Interaction Prediction"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "given": "Ben Geoffrey",
+          "family": "A. S.",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Sravathi AI Technology Pvt Ltd"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Abhishek",
+          "family": "Singh",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Sravathi AI Technology Pvt Ltd"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Soumya",
+          "family": "Kanchan",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Sravathi AI Technology Pvt Ltd"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Nagaraj M",
+          "family": "Kulkarni",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Sravathi AI Technology Pvt Ltd"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.10.11.758399",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            18
+          ]
+        ],
+        "date-time": "2026-10-18T03:45:12Z",
+        "timestamp": 1792295112000
+      },
+      "score": 54.669815,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.10.11.758399"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            17
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.64898/2026.10.11.758399",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            17
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

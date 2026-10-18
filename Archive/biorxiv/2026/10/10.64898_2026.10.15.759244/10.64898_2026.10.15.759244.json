@@ -1,0 +1,147 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.15.759244",
+  "title": "Two Pleckstrin homology domains scaffold SNAP-47-containing SNARE complexes",
+  "doi": "10.64898/2026.10.15.759244",
+  "abstract": "Long-term potentiation requires the regulated insertion of AMPA receptors into the postsynaptic membrane of neurons, a process mediated by a SNARE complex containing SNAP-47, syntaxin-3, and synaptobrevin-2. Compared to other SNAP proteins, SNAP-47 exhibits slower fusion kinetics and contains uncharacterized regions whose functions remain unclear. Here, we integrated biochemical approaches with artificial intelligence structure prediction tools and molecular dynamics to investigate the architecture of SNAP-47-containing SNARE complexes. AlphaFold3 predictions of the ternary SNAP-47-containing SNARE complex revealed one known Pleckstrin homology domain (PH1) and one previously unidentified PH domain (PH2), which we validated experimentally. BioEmu and molecular dynamics simulations indicated that PH1 and PH2 form a stable and energetically favorable interface. In this bound state, PH1 stably interacted with the SNARE coiled coil, and in silico acetylation at a lysine whose acetylation is known to impair SNAP-47 function disrupted this PH1-SNARE interface. AMPAR insertion via SNAP-47-containing SNARE complexes is triggered by the calcium sensor synaptotagmin, and we observed that PH1, PH2, and synaptotagmin-1 can simultaneously engage with the plasma membrane, consistent with a pro-fusion conformation. Together, we provide new mechanistic insight into how PH domains regulate SNAP-47-mediated membrane fusion during synaptic plasticity.",
+  "authors": [
+    "Alickovic I",
+    "Wise M",
+    "Tela R",
+    "Fausnaught C",
+    "Lee L",
+    "Beasley C",
+    "Carr C",
+    "Carr C",
+    "Schwindt L",
+    "Peters JJ"
+  ],
+  "published_date": "2026-10-16",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.15.759244",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.15.759244.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1343937",
+    "raw_record": {
+      "id": "PPR1343937",
+      "source": "PPR",
+      "doi": "10.64898/2026.10.15.759244",
+      "title": "Two Pleckstrin homology domains scaffold SNAP-47-containing SNARE complexes",
+      "authorString": "Alickovic I, Wise M, Tela R, Fausnaught C, Lee L, Beasley C, Carr C, Carr C, Schwindt L, Peters JJ.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Alickovic I",
+            "lastName": "Alickovic",
+            "firstName": "Ismar",
+            "initials": "I"
+          },
+          {
+            "fullName": "Wise M",
+            "lastName": "Wise",
+            "firstName": "Molly",
+            "initials": "M"
+          },
+          {
+            "fullName": "Tela R",
+            "lastName": "Tela",
+            "firstName": "Rain",
+            "initials": "R"
+          },
+          {
+            "fullName": "Fausnaught C",
+            "lastName": "Fausnaught",
+            "firstName": "Caleb",
+            "initials": "C"
+          },
+          {
+            "fullName": "Lee L",
+            "lastName": "Lee",
+            "firstName": "Lyndsey",
+            "initials": "L"
+          },
+          {
+            "fullName": "Beasley C",
+            "lastName": "Beasley",
+            "firstName": "Connor",
+            "initials": "C"
+          },
+          {
+            "fullName": "Carr C",
+            "lastName": "Carr",
+            "firstName": "Christopher",
+            "initials": "C"
+          },
+          {
+            "fullName": "Carr C",
+            "lastName": "Carr",
+            "firstName": "Camilla",
+            "initials": "C"
+          },
+          {
+            "fullName": "Schwindt L",
+            "lastName": "Schwindt",
+            "firstName": "Luke",
+            "initials": "L"
+          },
+          {
+            "fullName": "Peters JJ",
+            "lastName": "Peters",
+            "firstName": "John Jacob",
+            "initials": "JJ"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Long-term potentiation requires the regulated insertion of AMPA receptors into the postsynaptic membrane of neurons, a process mediated by a SNARE complex containing SNAP-47, syntaxin-3, and synaptobrevin-2. Compared to other SNAP proteins, SNAP-47 exhibits slower fusion kinetics and contains uncharacterized regions whose functions remain unclear. Here, we integrated biochemical approaches with artificial intelligence structure prediction tools and molecular dynamics to investigate the architecture of SNAP-47-containing SNARE complexes. AlphaFold3 predictions of the ternary SNAP-47-containing SNARE complex revealed one known Pleckstrin homology domain (PH1) and one previously unidentified PH domain (PH2), which we validated experimentally. BioEmu and molecular dynamics simulations indicated that PH1 and PH2 form a stable and energetically favorable interface. In this bound state, PH1 stably interacted with the SNARE coiled coil, and in silico acetylation at a lysine whose acetylation is known to impair SNAP-47 function disrupted this PH1-SNARE interface. AMPAR insertion via SNAP-47-containing SNARE complexes is triggered by the calcium sensor synaptotagmin, and we observed that PH1, PH2, and synaptotagmin-1 can simultaneously engage with the plasma membrane, consistent with a pro-fusion conformation. Together, we provide new mechanistic insight into how PH domains regulate SNAP-47-mediated membrane fusion during synaptic plasticity.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.10.15.759244"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-10-17",
+      "firstPublicationDate": "2026-10-16",
+      "firstIndexDate": "2026-10-17",
+      "hasEvaluations": "N"
+    }
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "identity": {
+    "pmid": "42879484",
+    "doi": "10.1073/pnas.2614335123",
+    "title": "Distinct functional open states of the polymodal nociceptor TRPV1."
+  },
+  "content": {
+    "abstract": "The polymodal nociceptor TRPV1 integrates diverse physical and chemical stimuli, yet whether these inputs drive a common activated state remains unresolved. Here, we show that TRPV1 activators stabilize functionally distinct open states that yield discrete single-channel conductance levels. These functional states appear to arise from distinct open-pore conformations, as evidenced by anomalous mole fraction effect measurements. Structurally, stimulus-specific changes in pore conformation were directly observed using site-directed fluorescence recordings, consistent with Rosetta-guided structural models. Notably, coactivation by two stimuli markedly slows channel opening rather than producing synergistic acceleration, suggesting potential conformational incompatibility across subunits. Together, these findings define TRPV1 gating as a stimulus-partitioned, multistate process and highlight opportunities for selective modulation of TRPV1 in pain management.",
+    "keywords": [
+      "analgesia",
+      "nociception",
+      "pain",
+      "polymodal activation",
+      "protein conformational diversity"
+    ],
+    "mesh_terms": [
+      "*TRPV Cation Channels/metabolism/chemistry/genetics",
+      "Animals",
+      "*Ion Channel Gating/physiology",
+      "Humans",
+      "*Nociceptors/metabolism",
+      "HEK293 Cells",
+      "Protein Conformation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Lee, Bo Hyun",
+        "Li, Shisheng",
+        "Vu, Simon",
+        "Yao, Zhihao",
+        "Tian, Yuhua",
+        "Yarov-Yarovoy, Vladimir",
+        "Zheng, Jie"
+      ],
+      "short_names": [
+        "Lee BH",
+        "Li S",
+        "Vu S",
+        "Yao Z",
+        "Tian Y",
+        "Yarov-Yarovoy V",
+        "Zheng J"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-2652-8797",
+        "ORCID: 0000-0002-8340-1373",
+        "ORCID: 0000-0002-1529-8220",
+        "ORCID: 0000-0002-2325-4834",
+        "ORCID: 0000-0002-4161-627X"
+      ],
+      "affiliations": [
+        "Department of Physiology and Membrane Biology, University of California Davis, School of Medicine, Davis, CA 95616.",
+        "Department of Physiology, College of Medicine, Gyeongsang National University, Jinju 52727, Republic of Korea. ROR: https://ror.org/00saywf64",
+        "Department of Physiology and Membrane Biology, University of California Davis, School of Medicine, Davis, CA 95616.",
+        "Department of Physiology and Membrane Biology, University of California Davis, School of Medicine, Davis, CA 95616.",
+        "Department of Physiology and Membrane Biology, University of California Davis, School of Medicine, Davis, CA 95616.",
+        "Department of Physiology and Membrane Biology, University of California Davis, School of Medicine, Davis, CA 95616.",
+        "Department of Pharmacology, School of Pharmacy, Qingdao University, Qingdao 266071, China. ROR: https://ror.org/021cj6z65",
+        "Department of Physiology and Membrane Biology, University of California Davis, School of Medicine, Davis, CA 95616.",
+        "Department of Physiology and Membrane Biology, University of California Davis, School of Medicine, Davis, CA 95616.",
+        "Department of Brain Sciences, Daegu Gyeongbuk Institute of Science and Technology, Daegu 42988, Republic of Korea. ROR: https://ror.org/03frjya69"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Lee, Bo Hyun",
+        "short_name": "Lee BH",
+        "identifiers": [
+          "0000-0003-2652-8797"
+        ],
+        "affiliations": [
+          "Department of Physiology and Membrane Biology, University of California Davis, School of Medicine, Davis, CA 95616.",
+          "Department of Physiology, College of Medicine, Gyeongsang National University, Jinju 52727, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Li, Shisheng",
+        "short_name": "Li S",
+        "identifiers": [
+          "0000-0002-8340-1373"
+        ],
+        "affiliations": [
+          "Department of Physiology and Membrane Biology, University of California Davis, School of Medicine, Davis, CA 95616."
+        ]
+      },
+      {
+        "full_name": "Vu, Simon",
+        "short_name": "Vu S",
+        "identifiers": [
+          "0000-0002-1529-8220"
+        ],
+        "affiliations": [
+          "Department of Physiology and Membrane Biology, University of California Davis, School of Medicine, Davis, CA 95616."
+        ]
+      },
+      {
+        "full_name": "Yao, Zhihao",
+        "short_name": "Yao Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology and Membrane Biology, University of California Davis, School of Medicine, Davis, CA 95616."
+        ]
+      },
+      {
+        "full_name": "Tian, Yuhua",
+        "short_name": "Tian Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology and Membrane Biology, University of California Davis, School of Medicine, Davis, CA 95616.",
+          "Department of Pharmacology, School of Pharmacy, Qingdao University, Qingdao 266071, China."
+        ]
+      },
+      {
+        "full_name": "Yarov-Yarovoy, Vladimir",
+        "short_name": "Yarov-Yarovoy V",
+        "identifiers": [
+          "0000-0002-2325-4834"
+        ],
+        "affiliations": [
+          "Department of Physiology and Membrane Biology, University of California Davis, School of Medicine, Davis, CA 95616."
+        ]
+      },
+      {
+        "full_name": "Zheng, Jie",
+        "short_name": "Zheng J",
+        "identifiers": [
+          "0000-0002-4161-627X"
+        ],
+        "affiliations": [
+          "Department of Physiology and Membrane Biology, University of California Davis, School of Medicine, Davis, CA 95616.",
+          "Department of Brain Sciences, Daegu Gyeongbuk Institute of Science and Technology, Daegu 42988, Republic of Korea."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Proceedings of the National Academy of Sciences of the United States of America"
+    ],
+    "journal_abbrev": [
+      "Proc Natl Acad Sci U S A"
+    ],
+    "pub_date": "2026 Oct 20",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/15 23:30",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42879484"
+    ],
+    "review": [
+      "42879484"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.pnas.org/doi/10.1073/pnas.2614335123?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

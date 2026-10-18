@@ -1,0 +1,153 @@
+{
+  "identity": {
+    "pmid": "42874941",
+    "doi": "10.1016/j.biotechadv.2026.109075",
+    "title": "Beyond SELEX: AI-driven aptamers from sequence to structure to function."
+  },
+  "content": {
+    "abstract": "Conventional aptamer discovery by systematic evolution of ligands by exponential enrichment (SELEX) is often constrained by limited library capacity, PCR bias, and multi-round screening. The recent convergence of artificial intelligence with aptamer development is driving a paradigm shift from empirical screening toward rational, data-driven design. This Review presents a timely and comprehensive overview of AI integration across the entire aptamer development pipeline, with a particular emphasis on advances reported in 2024-2026. We begin by discussing bioinformatics databases and computational tools for high-throughput SELEX data analysis. We then review state-of-the-art strategies for secondary and tertiary structure prediction, including recent breakthroughs such as AlphaFold 3, RoseTTAFoldNA, and diffusion-based approaches. We also cover machine learning methods for aptamer-target interaction prediction, molecular docking, dynamics simulations, and free energy calculations. A major focus is placed on very recent AI-driven generative design, including diffusion models (AptaDiff), language model-based frameworks (InstructNA, GRAPE-LM), and reinforcement learning approaches (AiDTA) for de novo aptamer generation and optimization. Emerging applications of AI-designed aptamers in precision diagnostics, targeted therapy, and biosensing are also surveyed. Finally, we discuss current challenges and outline future directions toward closed-loop, interpretable AI frameworks for translational aptamer development. By synthesizing the latest computational and experimental advances, this Review aims to serve as a timely resource for researchers seeking to leverage AI for next-generation aptamer discovery.",
+    "keywords": [
+      "Aptamer",
+      "Artificial intelligence",
+      "Deep learning",
+      "Generative design",
+      "Machine learning",
+      "SELEX"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Cui, Boming",
+        "Lian, Xintao",
+        "Song, Weiwei",
+        "Yang, Hua",
+        "Yang, Xiaojuan",
+        "Wang, Lan",
+        "Yang, Ge"
+      ],
+      "short_names": [
+        "Cui B",
+        "Lian X",
+        "Song W",
+        "Yang H",
+        "Yang X",
+        "Wang L",
+        "Yang G"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Pharmacy, Beijing Tsinghua Changgung Hospital, School of Clinical Medicine, Tsinghua Medicine, Tsinghua University, Beijing 102218, China.",
+        "CAMS Key Laboratory of Antiviral Drug Research, Beijing Key Laboratory of Antimicrobial Agents, NHC Key Laboratory of Biotechnology of Antibiotics, Institute of Medicinal Biotechnology, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing 100050, China.",
+        "Department of Pharmacy, Beijing Tsinghua Changgung Hospital, School of Clinical Medicine, Tsinghua Medicine, Tsinghua University, Beijing 102218, China.",
+        "Department of Pharmacy, Beijing Tsinghua Changgung Hospital, School of Clinical Medicine, Tsinghua Medicine, Tsinghua University, Beijing 102218, China.",
+        "Department of Pharmacy, Beijing Tsinghua Changgung Hospital, School of Clinical Medicine, Tsinghua Medicine, Tsinghua University, Beijing 102218, China.",
+        "Department of Pharmacy, Beijing Tsinghua Changgung Hospital, School of Clinical Medicine, Tsinghua Medicine, Tsinghua University, Beijing 102218, China. Electronic address: wla00316@btch.edu.",
+        "CAMS Key Laboratory of Antiviral Drug Research, Beijing Key Laboratory of Antimicrobial Agents, NHC Key Laboratory of Biotechnology of Antibiotics, Institute of Medicinal Biotechnology, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing 100050, China. Electronic address: yangge@imb.cams.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Cui, Boming",
+        "short_name": "Cui B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacy, Beijing Tsinghua Changgung Hospital, School of Clinical Medicine, Tsinghua Medicine, Tsinghua University, Beijing 102218, China."
+        ]
+      },
+      {
+        "full_name": "Lian, Xintao",
+        "short_name": "Lian X",
+        "identifiers": [],
+        "affiliations": [
+          "CAMS Key Laboratory of Antiviral Drug Research, Beijing Key Laboratory of Antimicrobial Agents, NHC Key Laboratory of Biotechnology of Antibiotics, Institute of Medicinal Biotechnology, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing 100050, China."
+        ]
+      },
+      {
+        "full_name": "Song, Weiwei",
+        "short_name": "Song W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacy, Beijing Tsinghua Changgung Hospital, School of Clinical Medicine, Tsinghua Medicine, Tsinghua University, Beijing 102218, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Hua",
+        "short_name": "Yang H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacy, Beijing Tsinghua Changgung Hospital, School of Clinical Medicine, Tsinghua Medicine, Tsinghua University, Beijing 102218, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Xiaojuan",
+        "short_name": "Yang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacy, Beijing Tsinghua Changgung Hospital, School of Clinical Medicine, Tsinghua Medicine, Tsinghua University, Beijing 102218, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Lan",
+        "short_name": "Wang L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacy, Beijing Tsinghua Changgung Hospital, School of Clinical Medicine, Tsinghua Medicine, Tsinghua University, Beijing 102218, China. Electronic address: wla00316@btch.edu."
+        ]
+      },
+      {
+        "full_name": "Yang, Ge",
+        "short_name": "Yang G",
+        "identifiers": [],
+        "affiliations": [
+          "CAMS Key Laboratory of Antiviral Drug Research, Beijing Key Laboratory of Antimicrobial Agents, NHC Key Laboratory of Biotechnology of Antibiotics, Institute of Medicinal Biotechnology, Chinese Academy of Medical Sciences & Peking Union Medical College, Beijing 100050, China. Electronic address: yangge@imb.cams.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biotechnology advances"
+    ],
+    "journal_abbrev": [
+      "Biotechnol Adv"
+    ],
+    "pub_date": "2026 Oct 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/14 23:32",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42874941"
+    ],
+    "review": [
+      "42874941"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0734-9750(26)00281-8",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

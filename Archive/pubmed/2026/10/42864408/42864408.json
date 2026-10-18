@@ -1,0 +1,187 @@
+{
+  "identity": {
+    "pmid": "42864408",
+    "doi": "10.1038/s44386-026-00086-x",
+    "title": "Benchmarking Boltz-2 for relative kinase-inhibitor interaction patterns across conformational states and resistance mutations."
+  },
+  "content": {
+    "abstract": "Generative structure-prediction models can directly predict protein-ligand complexes from sequence and ligand information, but their ability to capture pharmacologically relevant kinase-inhibitor interactions remains incompletely understood. We systematically evaluated Boltz-2 using curated biochemical IC(50) measurements across eight human kinases, nine clinically used inhibitors, and representative resistance mutations. Although predicted log(10)(IC(50)) values showed a compressed dynamic range relative to experimental measurements, mutation-dependent shifts in inhibitor sensitivity, inhibitor selectivity patterns, and overall potency rankings showed substantial agreement with the experimental patterns within the present benchmark. Predicted binding probability showed good discrimination between binder and non-binder pairs within the present benchmark and a consistent inverse relationship with experimental potency. Structural analyses showed that ligand-pose variability was associated with prediction behavior within the evaluated kinase-inhibitor systems, even when kinase-domain structures showed close agreement with the corresponding experimental structures. Larger ligand RMSD values were not associated with larger prediction errors in magnitude, but were linked to systematic shifts in prediction bias, indicating that ligand-pose accuracy and predictive utility are not equivalent measures of Boltz-2 performance. These findings suggest that, within the present benchmark, relative kinase-inhibitor interaction patterns were reproduced more consistently than absolute potency values. We provide a framework for interpreting Boltz-2 outputs within the kinase-inhibitor systems examined here.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Suenaga, Atsushi",
+        "Okimoto, Noriaki"
+      ],
+      "short_names": [
+        "Suenaga A",
+        "Okimoto N"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Informatics and Data Science, Sanyo-Onoda City University, Sanyo-Onoda, Yamaguchi, Japan. asuenaga@rs.socu.ac.jp.",
+        "Laboratory for Computational Molecular Design, RIKEN Center for Biosystems Dynamics Research (BDR), Kobe, Hyogo, Japan.",
+        "Drug Discovery Molecular Simulation Platform Unit, RIKEN Center for Biosystems Dynamics Research (BDR), Kobe, Hyogo, Japan."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Suenaga, Atsushi",
+        "short_name": "Suenaga A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Informatics and Data Science, Sanyo-Onoda City University, Sanyo-Onoda, Yamaguchi, Japan. asuenaga@rs.socu.ac.jp."
+        ]
+      },
+      {
+        "full_name": "Okimoto, Noriaki",
+        "short_name": "Okimoto N",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory for Computational Molecular Design, RIKEN Center for Biosystems Dynamics Research (BDR), Kobe, Hyogo, Japan.",
+          "Drug Discovery Molecular Simulation Platform Unit, RIKEN Center for Biosystems Dynamics Research (BDR), Kobe, Hyogo, Japan."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "npj drug discovery"
+    ],
+    "journal_abbrev": [
+      "NPJ Drug Discov"
+    ],
+    "pub_date": "2026 Oct 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/13 05:31",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42864408",
+      "42475469",
+      "42713223",
+      "42223122",
+      "42732698",
+      "41636346",
+      "42686818",
+      "41993401",
+      "33490784",
+      "40053698",
+      "40060600",
+      "24171431",
+      "42380593",
+      "36321557",
+      "41831109",
+      "42734520",
+      "21219630",
+      "41526649",
+      "42862171",
+      "41310253",
+      "41323712",
+      "41509292",
+      "41542461",
+      "20681595",
+      "40631076",
+      "33431025",
+      "42338217",
+      "42860052",
+      "41072002",
+      "39150724",
+      "42198383",
+      "41921096",
+      "39558632",
+      "42465357",
+      "41642195",
+      "30518564",
+      "39623285",
+      "42579383",
+      "42558420",
+      "37745489",
+      "23074402",
+      "26391018",
+      "15634006",
+      "28149052",
+      "39560439",
+      "41789351",
+      "41674157",
+      "42856246",
+      "38798650",
+      "16720585",
+      "42738610",
+      "17167796",
+      "41429653",
+      "33183223",
+      "42015301",
+      "39337567",
+      "29096379",
+      "42422967",
+      "38508313",
+      "37350814",
+      "16492148",
+      "27172383",
+      "30017898",
+      "27369736",
+      "22417279",
+      "35312477",
+      "26364215",
+      "40143108",
+      "26776172",
+      "42601453",
+      "42769622",
+      "36562610",
+      "22133092",
+      "12036347",
+      "22540736",
+      "10404594",
+      "39693053",
+      "21143503",
+      "33307679",
+      "34979368",
+      "19496616",
+      "17537753",
+      "42006249",
+      "42567082",
+      "34428735",
+      "32348940",
+      "42711860",
+      "42189893",
+      "31901678",
+      "37577663",
+      "40496892",
+      "42119874",
+      "40667369",
+      "23910962",
+      "41757035",
+      "34000187",
+      "18324799",
+      "28361672",
+      "42589282",
+      "25228699"
+    ],
+    "review": [
+      "42864408",
+      "36321557",
+      "39150724",
+      "42711860"
+    ],
+    "pmc": [
+      "13658129"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

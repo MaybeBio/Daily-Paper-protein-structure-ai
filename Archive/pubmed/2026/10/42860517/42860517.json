@@ -1,0 +1,219 @@
+{
+  "identity": {
+    "pmid": "42860517",
+    "doi": "10.1002/advs.78003",
+    "title": "PrOMet: Accurate and Robust Metal-Binding Site and Type Prediction."
+  },
+  "content": {
+    "abstract": "Metal binding to proteins is crucial for many biological functions, yet the prediction of metal-binding sites and metal types remains underexplored compared to other biomolecular interactions. Despite advances in deep learning, computational methods have achieved limited success in this area; even the best-reported approaches reach only moderate localization accuracy on high-resolution crystal structures, and even worse when applied to medium-resolution data. We hypothesize that the main challenge lies in the nature of metal binding. While the putative sites span the entire protein surface, actual binding requires the atomic-level coordination geometry. We present a structure-based metal binding site and type predictor, PrOMet, in this work, which leverages a Prune-and-Optimization strategy built upon two hierarchically connected machine learning architectures. This strategy allows the method to effectively narrow the search space while maintaining robustness to AlphaFold models and medium-resolution cryo-EM structures. PrOMet outperforms existing methods, including structure-based and language model-based predictors, achieving a PR-AUC of 0.739 for metal ion localization and an average F1-score of 0.743 for metal type classification-Zn, Ca, Mg, Mn, Fe, Cu, respectively. PrOMet can be an effective tool for allocating uncertain metal positions and types within protein structures, as well as for metalloenzyme design studies.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Park, Gangeun",
+        "Seok, Chaok",
+        "Park, Hahnbeom"
+      ],
+      "short_names": [
+        "Park G",
+        "Seok C",
+        "Park H"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-1419-9888",
+        "ORCID: 0000-0002-7129-1912"
+      ],
+      "affiliations": [
+        "Department of Chemistry, Seoul National University, Republic of Korea.",
+        "Department of Chemistry, Seoul National University, Republic of Korea.",
+        "Galux Inc, Seoul, Republic of Korea.",
+        "Biomedical Research Division, Korea Institute of Science and Technology, Seoul, Republic of Korea."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Park, Gangeun",
+        "short_name": "Park G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Seoul National University, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Seok, Chaok",
+        "short_name": "Seok C",
+        "identifiers": [
+          "0000-0002-1419-9888"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Seoul National University, Republic of Korea.",
+          "Galux Inc, Seoul, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Park, Hahnbeom",
+        "short_name": "Park H",
+        "identifiers": [
+          "0000-0002-7129-1912"
+        ],
+        "affiliations": [
+          "Biomedical Research Division, Korea Institute of Science and Technology, Seoul, Republic of Korea."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Advanced science (Weinheim, Baden-Wurttemberg, Germany)"
+    ],
+    "journal_abbrev": [
+      "Adv Sci (Weinh)"
+    ],
+    "pub_date": "2026 Oct 11",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/12 05:32",
+    "fetched_at": "2026-10-18 06:57:52"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42860517",
+      "42475469",
+      "30299652",
+      "37836636",
+      "22723976",
+      "39840139",
+      "40196543",
+      "42196370",
+      "23912807",
+      "40665445",
+      "27976886",
+      "42491247",
+      "32871082",
+      "36321557",
+      "30414728",
+      "39092854",
+      "39404766",
+      "39258438",
+      "21287609",
+      "27378301",
+      "42163392",
+      "41756897",
+      "42239143",
+      "41651016",
+      "41174029",
+      "40631196",
+      "41608988",
+      "29028926",
+      "23430773",
+      "40155596",
+      "24661439",
+      "18323620",
+      "39304807",
+      "41310253",
+      "26042327",
+      "40961942",
+      "28832106",
+      "36274238",
+      "35593869",
+      "30933479",
+      "39838957",
+      "28598584",
+      "39844277",
+      "30917528",
+      "40615379",
+      "42367058",
+      "25730499",
+      "26226489",
+      "38463967",
+      "15034770",
+      "35933804",
+      "28245811",
+      "40460619",
+      "41045511",
+      "35652477",
+      "35595534",
+      "25443958",
+      "36303800",
+      "35152277",
+      "31714956",
+      "34571539",
+      "38581802",
+      "40071518",
+      "40811181",
+      "42380105",
+      "41509633",
+      "20235593",
+      "40919912",
+      "25739467",
+      "30977960",
+      "31459585",
+      "17140190",
+      "28513090",
+      "34073705",
+      "42508035",
+      "35132244",
+      "40805356",
+      "41168713",
+      "41977286",
+      "22848404",
+      "30109435",
+      "26268369",
+      "25649619",
+      "40686975",
+      "39121938",
+      "28056090",
+      "39695955",
+      "11929238",
+      "3328221",
+      "18940825",
+      "29235146",
+      "36035120",
+      "35904542",
+      "36775934",
+      "32152330",
+      "37485023",
+      "35997560",
+      "42013856",
+      "18027003",
+      "39214282"
+    ],
+    "review": [
+      "42860517",
+      "30299652",
+      "42491247",
+      "36321557",
+      "23430773",
+      "26042327",
+      "35652477",
+      "25443958",
+      "31714956",
+      "40071518"
+    ],
+    "pmc": [
+      "13654862"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-PGR-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

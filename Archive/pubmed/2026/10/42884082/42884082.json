@@ -1,0 +1,152 @@
+{
+  "identity": {
+    "pmid": "42884082",
+    "doi": "10.3390/ijms27198840",
+    "title": "Conformational Sampling of CPT1A Enables Dynamic Structure-Based Ligand Screening."
+  },
+  "content": {
+    "abstract": "Carnitine palmitoyltransferase 1A (CPT1A) catalyzes a rate-limiting step in fatty acid beta-oxidation and is a target for studies of metabolic disease and cancer. However, the structural dynamics of CPT1A remain poorly understood due to the lack of full-length structure. In this study, we employed an integrated computational approach combining molecular dynamics (MD) simulations, Markov state models (MSMs), and binding free energy calculations to elucidate the conformational landscape of human CPT1A. We performed an all-atom MD simulation of CPT1A embedded in a realistic outer mitochondrial membrane, and root-mean-square fluctuation (RMSF)-guided local region analysis coupled with MSM transition-path analysis and GROMOS clustering convergently identified a representative conformation. The pathway probabilities reported here describe dominant local transitions within specific mobile segments rather than the global equilibrium population of the full-length protein. Using this representative conformation, we performed a virtual screening of over 1.23 million compounds from the ChemDiv library, followed by Lipinski filtering, yielding five candidates with docking scores below -10 kcal/mol. Subsequent MD simulations and binding free energy calculations confirmed stable binding, with Compound 2 exhibiting the most favorable free energy of -25.99 kcal/mol. Principal component analysis (PCA) and secondary-structure analyses revealed ligand-specific modulation of CPT1A dynamics. A preliminary in vitro CPT1 activity assay revealed candidate-specific responses, and the free-energy and activity data were partially consistent. These results provide a dynamically informed structural basis for CPT1A ligand recognition, identify candidates with distinct energetic and functional profiles, and establish an integrated strategy for ligand discovery in structurally uncharacterized proteins.",
+    "keywords": [
+      "CPT1A",
+      "Markov state model",
+      "conformational dynamics",
+      "ligand binding",
+      "lipid metabolism",
+      "molecular dynamics simulation"
+    ],
+    "mesh_terms": [
+      "*Carnitine O-Palmitoyltransferase/chemistry/metabolism",
+      "Molecular Dynamics Simulation",
+      "Ligands",
+      "Humans",
+      "Protein Binding",
+      "Molecular Docking Simulation",
+      "Protein Conformation",
+      "Thermodynamics",
+      "Principal Component Analysis"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Sijia",
+        "Zhang, Yingbo",
+        "Zhao, Jiasheng",
+        "Long, Jiangang",
+        "Zhang, Lei",
+        "Yang, Zhiwei"
+      ],
+      "short_names": [
+        "Zhang S",
+        "Zhang Y",
+        "Zhao J",
+        "Long J",
+        "Zhang L",
+        "Yang Z"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-8074-957X",
+        "ORCID: 0000-0002-4880-824X",
+        "ORCID: 0000-0001-6969-8177"
+      ],
+      "affiliations": [
+        "MOE Key Laboratory for Nonequilibrium Synthesis and Modulation of Condensed Matter, School of Physics, Xi'an Jiaotong University, Xi'an 710049, China.",
+        "School of Life Science and Technology, Xi'an Jiaotong University, Xi'an 710049, China.",
+        "MOE Key Laboratory for Nonequilibrium Synthesis and Modulation of Condensed Matter, School of Physics, Xi'an Jiaotong University, Xi'an 710049, China.",
+        "School of Life Science and Technology, Xi'an Jiaotong University, Xi'an 710049, China.",
+        "MOE Key Laboratory for Nonequilibrium Synthesis and Modulation of Condensed Matter, School of Physics, Xi'an Jiaotong University, Xi'an 710049, China.",
+        "MOE Key Laboratory for Nonequilibrium Synthesis and Modulation of Condensed Matter, School of Physics, Xi'an Jiaotong University, Xi'an 710049, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Sijia",
+        "short_name": "Zhang S",
+        "identifiers": [],
+        "affiliations": [
+          "MOE Key Laboratory for Nonequilibrium Synthesis and Modulation of Condensed Matter, School of Physics, Xi'an Jiaotong University, Xi'an 710049, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yingbo",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Science and Technology, Xi'an Jiaotong University, Xi'an 710049, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Jiasheng",
+        "short_name": "Zhao J",
+        "identifiers": [],
+        "affiliations": [
+          "MOE Key Laboratory for Nonequilibrium Synthesis and Modulation of Condensed Matter, School of Physics, Xi'an Jiaotong University, Xi'an 710049, China."
+        ]
+      },
+      {
+        "full_name": "Long, Jiangang",
+        "short_name": "Long J",
+        "identifiers": [
+          "0000-0001-8074-957X"
+        ],
+        "affiliations": [
+          "School of Life Science and Technology, Xi'an Jiaotong University, Xi'an 710049, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Lei",
+        "short_name": "Zhang L",
+        "identifiers": [
+          "0000-0002-4880-824X"
+        ],
+        "affiliations": [
+          "MOE Key Laboratory for Nonequilibrium Synthesis and Modulation of Condensed Matter, School of Physics, Xi'an Jiaotong University, Xi'an 710049, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Zhiwei",
+        "short_name": "Yang Z",
+        "identifiers": [
+          "0000-0001-6969-8177"
+        ],
+        "affiliations": [
+          "MOE Key Laboratory for Nonequilibrium Synthesis and Modulation of Condensed Matter, School of Physics, Xi'an Jiaotong University, Xi'an 710049, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "International journal of molecular sciences"
+    ],
+    "journal_abbrev": [
+      "Int J Mol Sci"
+    ],
+    "pub_date": "2026 Oct 3",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/16 05:33",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42884082"
+    ],
+    "review": [
+      "42884082"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

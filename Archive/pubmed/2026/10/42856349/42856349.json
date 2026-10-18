@@ -1,0 +1,435 @@
+{
+  "identity": {
+    "pmid": "42856349",
+    "doi": "10.64898/2026.10.01.754751",
+    "title": "Design-Evolution Synergy Enables New-to-Nature Enzyme Chemistry."
+  },
+  "content": {
+    "abstract": "Directed evolution and machine-learning-assisted evolution have transformed biocatalysis by enabling rapid optimisation of catalytic performance within compatible protein scaffolds. In parallel, advances in deep-learning-driven de novo protein design have expanded accessible protein architectural space, enabling the generation of functional catalysts for increasingly challenging transformations. We herein report a synergistic design-evolution strategy to encode new-to-nature regio- and enantioselective C-H amination reactions using engineered de novo haemproteins to synthesise chiral piperidines, a privileged pharmacophore in drug discovery. By integrating motif scaffolding, computational re-design, and directed evolution, we demonstrate de novo enzyme design can enable challenging, high-energy-barrier enzyme chemistry with programmable regio- and enantioselectivity, high catalytic efficiency, excellent enzyme stability, and scaffold diversity.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Zi-Qi",
+        "Zhang, Ruijie K",
+        "Xie, Pei-Pei",
+        "Kelly, Jacob",
+        "Zhang, Yu",
+        "Qin, Zi-Yang",
+        "Lambert, Theophile",
+        "Mukhopadhyay, Orna",
+        "Hanley, Deirdre",
+        "Danson, Amy E",
+        "Abramson, Josh",
+        "Singh, Sukhdeep",
+        "Wu, Zachary",
+        "Kohli, Pushmeet",
+        "Liu, Peng",
+        "Wang, Jue",
+        "Arnold, Frances H"
+      ],
+      "short_names": [
+        "Li ZQ",
+        "Zhang RK",
+        "Xie PP",
+        "Kelly J",
+        "Zhang Y",
+        "Qin ZY",
+        "Lambert T",
+        "Mukhopadhyay O",
+        "Hanley D",
+        "Danson AE",
+        "Abramson J",
+        "Singh S",
+        "Wu Z",
+        "Kohli P",
+        "Liu P",
+        "Wang J",
+        "Arnold FH"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-1353-3004",
+        "ORCID: 0000-0002-7801-5232",
+        "ORCID: 0000-0002-2175-5686",
+        "ORCID: 0000-0001-9412-0246",
+        "ORCID: 0000-0001-7356-6927",
+        "ORCID: 0009-0005-8485-8729",
+        "ORCID: 0009-0009-1253-7722",
+        "ORCID: 0009-0007-9797-466X",
+        "ORCID: 0000-0003-0869-0459",
+        "ORCID: 0009-0000-3496-6952",
+        "ORCID: 0000-0003-2429-9812",
+        "ORCID: 0000-0002-8188-632X",
+        "ORCID: 0000-0002-1139-6640",
+        "ORCID: 0000-0002-4027-364X"
+      ],
+      "affiliations": [
+        "Division of Chemistry and Chemical Engineering, California Institute of Technology, Pasadena, California 91125, United States.",
+        "Google DeepMind, London, United Kingdom.",
+        "Department of Chemistry, University of Pittsburgh, 219 Parkman Avenue, Pittsburgh, Pennsylvania 15260, United States.",
+        "Google DeepMind, London, United Kingdom.",
+        "Department of Chemistry, University of Pittsburgh, 219 Parkman Avenue, Pittsburgh, Pennsylvania 15260, United States.",
+        "Division of Chemistry and Chemical Engineering, California Institute of Technology, Pasadena, California 91125, United States.",
+        "Division of Chemistry and Chemical Engineering, California Institute of Technology, Pasadena, California 91125, United States.",
+        "Division of Chemistry and Chemical Engineering, California Institute of Technology, Pasadena, California 91125, United States.",
+        "Division of Chemistry and Chemical Engineering, California Institute of Technology, Pasadena, California 91125, United States.",
+        "Google DeepMind, London, United Kingdom.",
+        "Google DeepMind, London, United Kingdom.",
+        "Google DeepMind, London, United Kingdom.",
+        "Google DeepMind, London, United Kingdom.",
+        "Google DeepMind, London, United Kingdom.",
+        "Department of Chemistry, University of Pittsburgh, 219 Parkman Avenue, Pittsburgh, Pennsylvania 15260, United States.",
+        "Google DeepMind, London, United Kingdom.",
+        "Division of Chemistry and Chemical Engineering, California Institute of Technology, Pasadena, California 91125, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Zi-Qi",
+        "short_name": "Li ZQ",
+        "identifiers": [
+          "0000-0002-1353-3004"
+        ],
+        "affiliations": [
+          "Division of Chemistry and Chemical Engineering, California Institute of Technology, Pasadena, California 91125, United States."
+        ]
+      },
+      {
+        "full_name": "Zhang, Ruijie K",
+        "short_name": "Zhang RK",
+        "identifiers": [],
+        "affiliations": [
+          "Google DeepMind, London, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Xie, Pei-Pei",
+        "short_name": "Xie PP",
+        "identifiers": [
+          "0000-0002-7801-5232"
+        ],
+        "affiliations": [
+          "Department of Chemistry, University of Pittsburgh, 219 Parkman Avenue, Pittsburgh, Pennsylvania 15260, United States."
+        ]
+      },
+      {
+        "full_name": "Kelly, Jacob",
+        "short_name": "Kelly J",
+        "identifiers": [
+          "0000-0002-2175-5686"
+        ],
+        "affiliations": [
+          "Google DeepMind, London, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yu",
+        "short_name": "Zhang Y",
+        "identifiers": [
+          "0000-0001-9412-0246"
+        ],
+        "affiliations": [
+          "Department of Chemistry, University of Pittsburgh, 219 Parkman Avenue, Pittsburgh, Pennsylvania 15260, United States."
+        ]
+      },
+      {
+        "full_name": "Qin, Zi-Yang",
+        "short_name": "Qin ZY",
+        "identifiers": [
+          "0000-0001-7356-6927"
+        ],
+        "affiliations": [
+          "Division of Chemistry and Chemical Engineering, California Institute of Technology, Pasadena, California 91125, United States."
+        ]
+      },
+      {
+        "full_name": "Lambert, Theophile",
+        "short_name": "Lambert T",
+        "identifiers": [
+          "0009-0005-8485-8729"
+        ],
+        "affiliations": [
+          "Division of Chemistry and Chemical Engineering, California Institute of Technology, Pasadena, California 91125, United States."
+        ]
+      },
+      {
+        "full_name": "Mukhopadhyay, Orna",
+        "short_name": "Mukhopadhyay O",
+        "identifiers": [
+          "0009-0009-1253-7722"
+        ],
+        "affiliations": [
+          "Division of Chemistry and Chemical Engineering, California Institute of Technology, Pasadena, California 91125, United States."
+        ]
+      },
+      {
+        "full_name": "Hanley, Deirdre",
+        "short_name": "Hanley D",
+        "identifiers": [
+          "0009-0007-9797-466X"
+        ],
+        "affiliations": [
+          "Division of Chemistry and Chemical Engineering, California Institute of Technology, Pasadena, California 91125, United States."
+        ]
+      },
+      {
+        "full_name": "Danson, Amy E",
+        "short_name": "Danson AE",
+        "identifiers": [
+          "0000-0003-0869-0459"
+        ],
+        "affiliations": [
+          "Google DeepMind, London, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Abramson, Josh",
+        "short_name": "Abramson J",
+        "identifiers": [
+          "0009-0000-3496-6952"
+        ],
+        "affiliations": [
+          "Google DeepMind, London, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Singh, Sukhdeep",
+        "short_name": "Singh S",
+        "identifiers": [],
+        "affiliations": [
+          "Google DeepMind, London, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Wu, Zachary",
+        "short_name": "Wu Z",
+        "identifiers": [
+          "0000-0003-2429-9812"
+        ],
+        "affiliations": [
+          "Google DeepMind, London, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Kohli, Pushmeet",
+        "short_name": "Kohli P",
+        "identifiers": [],
+        "affiliations": [
+          "Google DeepMind, London, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Liu, Peng",
+        "short_name": "Liu P",
+        "identifiers": [
+          "0000-0002-8188-632X"
+        ],
+        "affiliations": [
+          "Department of Chemistry, University of Pittsburgh, 219 Parkman Avenue, Pittsburgh, Pennsylvania 15260, United States."
+        ]
+      },
+      {
+        "full_name": "Wang, Jue",
+        "short_name": "Wang J",
+        "identifiers": [
+          "0000-0002-1139-6640"
+        ],
+        "affiliations": [
+          "Google DeepMind, London, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Arnold, Frances H",
+        "short_name": "Arnold FH",
+        "identifiers": [
+          "0000-0002-4027-364X"
+        ],
+        "affiliations": [
+          "Division of Chemistry and Chemical Engineering, California Institute of Technology, Pasadena, California 91125, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "bioRxiv : the preprint server for biology"
+    ],
+    "journal_abbrev": [
+      "bioRxiv"
+    ],
+    "pub_date": "2026 Oct 2",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Preprint"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/11 05:07",
+    "fetched_at": "2026-10-18 06:57:52"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42856349",
+      "41123946",
+      "41443357",
+      "41256468",
+      "42439322",
+      "41629055",
+      "41339546",
+      "26507217",
+      "33491448",
+      "21920322",
+      "40368118",
+      "42616438",
+      "40170309",
+      "36130727",
+      "40117715",
+      "29808678",
+      "42490681",
+      "41515342",
+      "42134581",
+      "30830755",
+      "30277066",
+      "36813896",
+      "41428607",
+      "42108294",
+      "41849863",
+      "42244599",
+      "12038994",
+      "41215679",
+      "40650579",
+      "39394803",
+      "42011956",
+      "32407077",
+      "42160334",
+      "42569860",
+      "41883853",
+      "40464989",
+      "36305767",
+      "31611634",
+      "42081004",
+      "38783896",
+      "42189942",
+      "41152135",
+      "41027897",
+      "42660099",
+      "41967399",
+      "33443278",
+      "42419186",
+      "41960957",
+      "41428349",
+      "29172435",
+      "42818187",
+      "28644476",
+      "39080249",
+      "39841996",
+      "41282371",
+      "42815447",
+      "40454510",
+      "41839238",
+      "42673276",
+      "41169579",
+      "36012203",
+      "41385719",
+      "21800828",
+      "42062046",
+      "40089854",
+      "42022690",
+      "37071874",
+      "42340114",
+      "30973707",
+      "40865514",
+      "42850317",
+      "26556173",
+      "36652713",
+      "37977727",
+      "39260996",
+      "29102791",
+      "33526894",
+      "22711296",
+      "32667782",
+      "41665230",
+      "35107997",
+      "31070908",
+      "30735358",
+      "33982652",
+      "40591930",
+      "38783596",
+      "35353478",
+      "41116705",
+      "36970228",
+      "34916595",
+      "42144905",
+      "42372484",
+      "35128926",
+      "42776794",
+      "42487665",
+      "39389964",
+      "41047208",
+      "40334882",
+      "41851020",
+      "40746305"
+    ],
+    "review": [
+      "42856349",
+      "41443357",
+      "41629055",
+      "33491448",
+      "21920322",
+      "40368118",
+      "42616438",
+      "40170309",
+      "40117715",
+      "41515342",
+      "42134581",
+      "30277066",
+      "41849863",
+      "12038994",
+      "42011956",
+      "40464989",
+      "38783896",
+      "42189942",
+      "41152135",
+      "42660099",
+      "33443278",
+      "42419186",
+      "41428349",
+      "42815447",
+      "40454510",
+      "41839238",
+      "42673276",
+      "42062046",
+      "40865514",
+      "29102791",
+      "41665230",
+      "42372484",
+      "35128926",
+      "42776794",
+      "41851020",
+      "40746305"
+    ],
+    "pmc": [
+      "13648690"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.64898/2026.10.01.754751",
+        "provider": "Cold Spring Harbor Laboratory",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

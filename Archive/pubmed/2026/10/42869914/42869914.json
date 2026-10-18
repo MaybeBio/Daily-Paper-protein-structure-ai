@@ -1,0 +1,284 @@
+{
+  "identity": {
+    "pmid": "42869914",
+    "doi": "10.1038/s41467-026-77657-z",
+    "title": "Leveraging high-throughput proteomics and AI-based protein folding to accelerate VAV1 molecular glue discovery."
+  },
+  "content": {
+    "abstract": "This study reports a series of CRBN molecular glues that selectively induce proteasomal degradation of VAV1, a hematopoietic-specific signaling protein and key target in hematological malignancies and autoimmune diseases. Using unbiased global proteomics, we identify phenyl-glutarimide derivatives (e.g., NGT-201-12) as effective VAV1 degraders that engage its C-terminal SH3 domain (SH3-2). We elucidate a non-canonical RT-loop degron (RDxS motif, residues 796-799) in SH3-2, distinct from previously characterized G-loop degrons, supported by the physics- and AI-driven GluePlex workflow and site-directed mutagenesis. Applying Free Energy Perturbation (FEP) to predicted ternary structures yields cooperativity metrics that correlate with degradation potency, overcoming limitations of standard docking and enabling prospective ranking of analogs-even from weak initial binders. We further show that conformational restriction via halogen substitution (e.g., NGT-201-18) potentiates degradation, a principle rationalized by DFT calculations, while comprehensive SAR studies chart a roadmap for next-generation degraders. Dose-response proteomics confirms VAV1 as the primary target and reveals LIMD1, bearing a canonical G-loop, as an off-target, showing that one glue can engage disparate degrons. These findings expand the landscape of CRBN neosubstrate recognition and offer a therapeutic strategy for targeting VAV1.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Proto-Oncogene Proteins c-vav/metabolism/chemistry/genetics",
+      "*Proteomics/methods",
+      "Humans",
+      "*Protein Folding",
+      "Proteolysis/drug effects",
+      "src Homology Domains",
+      "Degrons",
+      "Mutagenesis, Site-Directed",
+      "Proteasome Endopeptidase Complex/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Lin, Hanfeng",
+        "Yu, Xin",
+        "Zheng, Haiyang",
+        "Cheng, Ran",
+        "Zhang, Min",
+        "Qi, Xiaoli",
+        "Yang, Yen-Yu",
+        "Zhou, Shengmin",
+        "Qi, Rui",
+        "Le, Ly",
+        "Bortolato, Andrea",
+        "Yesylevskyy, Semen",
+        "Nafiiev, Alan",
+        "Che, Xing",
+        "Wang, Jin"
+      ],
+      "short_names": [
+        "Lin H",
+        "Yu X",
+        "Zheng H",
+        "Cheng R",
+        "Zhang M",
+        "Qi X",
+        "Yang YY",
+        "Zhou S",
+        "Qi R",
+        "Le L",
+        "Bortolato A",
+        "Yesylevskyy S",
+        "Nafiiev A",
+        "Che X",
+        "Wang J"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-3172-5616",
+        "ORCID: 0000-0003-1986-9040",
+        "ORCID: 0000-0002-7427-9038",
+        "ORCID: 0000-0003-3625-7919"
+      ],
+      "affiliations": [
+        "The Verna and Marrs McLean Department of Biochemistry and Molecular Pharmacology, Baylor College of Medicine, Houston, Texas, USA. hanfeng.lin@bcm.edu.",
+        "Center for NextGen Therapeutics, Baylor College of Medicine, Houston, Texas, USA. hanfeng.lin@bcm.edu.",
+        "Graduate School of Biomedical Sciences, Baylor College of Medicine, Houston, Texas, USA. hanfeng.lin@bcm.edu.",
+        "The Verna and Marrs McLean Department of Biochemistry and Molecular Pharmacology, Baylor College of Medicine, Houston, Texas, USA.",
+        "Center for NextGen Therapeutics, Baylor College of Medicine, Houston, Texas, USA.",
+        "The Verna and Marrs McLean Department of Biochemistry and Molecular Pharmacology, Baylor College of Medicine, Houston, Texas, USA.",
+        "Center for NextGen Therapeutics, Baylor College of Medicine, Houston, Texas, USA.",
+        "Graduate School of Biomedical Sciences, Baylor College of Medicine, Houston, Texas, USA.",
+        "The Verna and Marrs McLean Department of Biochemistry and Molecular Pharmacology, Baylor College of Medicine, Houston, Texas, USA.",
+        "Center for NextGen Therapeutics, Baylor College of Medicine, Houston, Texas, USA.",
+        "The Verna and Marrs McLean Department of Biochemistry and Molecular Pharmacology, Baylor College of Medicine, Houston, Texas, USA.",
+        "Center for NextGen Therapeutics, Baylor College of Medicine, Houston, Texas, USA.",
+        "The Verna and Marrs McLean Department of Biochemistry and Molecular Pharmacology, Baylor College of Medicine, Houston, Texas, USA.",
+        "Center for NextGen Therapeutics, Baylor College of Medicine, Houston, Texas, USA.",
+        "Thermo Fisher Scientific, San Jose, California, USA.",
+        "YDS Pharmatech, Inc., Albany, New York, USA.",
+        "SandboxAQ, Palo Alto, California, USA.",
+        "SandboxAQ, Palo Alto, California, USA.",
+        "SandboxAQ, Palo Alto, California, USA.",
+        "Receptor.AI Inc., 223 Concord Turnpike, Cambridge, Massachusetts, USA.",
+        "Receptor.AI Inc., 223 Concord Turnpike, Cambridge, Massachusetts, USA.",
+        "YDS Pharmatech, Inc., Albany, New York, USA.",
+        "The Verna and Marrs McLean Department of Biochemistry and Molecular Pharmacology, Baylor College of Medicine, Houston, Texas, USA. wangj@bcm.edu.",
+        "Center for NextGen Therapeutics, Baylor College of Medicine, Houston, Texas, USA. wangj@bcm.edu.",
+        "Department of Molecular and Cellular Biology, Baylor College of Medicine, Houston, Texas, USA. wangj@bcm.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Lin, Hanfeng",
+        "short_name": "Lin H",
+        "identifiers": [
+          "0000-0002-3172-5616"
+        ],
+        "affiliations": [
+          "The Verna and Marrs McLean Department of Biochemistry and Molecular Pharmacology, Baylor College of Medicine, Houston, Texas, USA. hanfeng.lin@bcm.edu.",
+          "Center for NextGen Therapeutics, Baylor College of Medicine, Houston, Texas, USA. hanfeng.lin@bcm.edu.",
+          "Graduate School of Biomedical Sciences, Baylor College of Medicine, Houston, Texas, USA. hanfeng.lin@bcm.edu."
+        ]
+      },
+      {
+        "full_name": "Yu, Xin",
+        "short_name": "Yu X",
+        "identifiers": [
+          "0000-0003-1986-9040"
+        ],
+        "affiliations": [
+          "The Verna and Marrs McLean Department of Biochemistry and Molecular Pharmacology, Baylor College of Medicine, Houston, Texas, USA.",
+          "Center for NextGen Therapeutics, Baylor College of Medicine, Houston, Texas, USA."
+        ]
+      },
+      {
+        "full_name": "Zheng, Haiyang",
+        "short_name": "Zheng H",
+        "identifiers": [],
+        "affiliations": [
+          "The Verna and Marrs McLean Department of Biochemistry and Molecular Pharmacology, Baylor College of Medicine, Houston, Texas, USA.",
+          "Center for NextGen Therapeutics, Baylor College of Medicine, Houston, Texas, USA.",
+          "Graduate School of Biomedical Sciences, Baylor College of Medicine, Houston, Texas, USA."
+        ]
+      },
+      {
+        "full_name": "Cheng, Ran",
+        "short_name": "Cheng R",
+        "identifiers": [],
+        "affiliations": [
+          "The Verna and Marrs McLean Department of Biochemistry and Molecular Pharmacology, Baylor College of Medicine, Houston, Texas, USA.",
+          "Center for NextGen Therapeutics, Baylor College of Medicine, Houston, Texas, USA."
+        ]
+      },
+      {
+        "full_name": "Zhang, Min",
+        "short_name": "Zhang M",
+        "identifiers": [],
+        "affiliations": [
+          "The Verna and Marrs McLean Department of Biochemistry and Molecular Pharmacology, Baylor College of Medicine, Houston, Texas, USA.",
+          "Center for NextGen Therapeutics, Baylor College of Medicine, Houston, Texas, USA."
+        ]
+      },
+      {
+        "full_name": "Qi, Xiaoli",
+        "short_name": "Qi X",
+        "identifiers": [],
+        "affiliations": [
+          "The Verna and Marrs McLean Department of Biochemistry and Molecular Pharmacology, Baylor College of Medicine, Houston, Texas, USA.",
+          "Center for NextGen Therapeutics, Baylor College of Medicine, Houston, Texas, USA."
+        ]
+      },
+      {
+        "full_name": "Yang, Yen-Yu",
+        "short_name": "Yang YY",
+        "identifiers": [],
+        "affiliations": [
+          "Thermo Fisher Scientific, San Jose, California, USA."
+        ]
+      },
+      {
+        "full_name": "Zhou, Shengmin",
+        "short_name": "Zhou S",
+        "identifiers": [],
+        "affiliations": [
+          "YDS Pharmatech, Inc., Albany, New York, USA."
+        ]
+      },
+      {
+        "full_name": "Qi, Rui",
+        "short_name": "Qi R",
+        "identifiers": [],
+        "affiliations": [
+          "SandboxAQ, Palo Alto, California, USA."
+        ]
+      },
+      {
+        "full_name": "Le, Ly",
+        "short_name": "Le L",
+        "identifiers": [],
+        "affiliations": [
+          "SandboxAQ, Palo Alto, California, USA."
+        ]
+      },
+      {
+        "full_name": "Bortolato, Andrea",
+        "short_name": "Bortolato A",
+        "identifiers": [],
+        "affiliations": [
+          "SandboxAQ, Palo Alto, California, USA."
+        ]
+      },
+      {
+        "full_name": "Yesylevskyy, Semen",
+        "short_name": "Yesylevskyy S",
+        "identifiers": [],
+        "affiliations": [
+          "Receptor.AI Inc., 223 Concord Turnpike, Cambridge, Massachusetts, USA."
+        ]
+      },
+      {
+        "full_name": "Nafiiev, Alan",
+        "short_name": "Nafiiev A",
+        "identifiers": [],
+        "affiliations": [
+          "Receptor.AI Inc., 223 Concord Turnpike, Cambridge, Massachusetts, USA."
+        ]
+      },
+      {
+        "full_name": "Che, Xing",
+        "short_name": "Che X",
+        "identifiers": [
+          "0000-0002-7427-9038"
+        ],
+        "affiliations": [
+          "YDS Pharmatech, Inc., Albany, New York, USA."
+        ]
+      },
+      {
+        "full_name": "Wang, Jin",
+        "short_name": "Wang J",
+        "identifiers": [
+          "0000-0003-3625-7919"
+        ],
+        "affiliations": [
+          "The Verna and Marrs McLean Department of Biochemistry and Molecular Pharmacology, Baylor College of Medicine, Houston, Texas, USA. wangj@bcm.edu.",
+          "Center for NextGen Therapeutics, Baylor College of Medicine, Houston, Texas, USA. wangj@bcm.edu.",
+          "Department of Molecular and Cellular Biology, Baylor College of Medicine, Houston, Texas, USA. wangj@bcm.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Sep 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/14 05:33",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42869914"
+    ],
+    "review": [
+      "42869914"
+    ],
+    "pmc": [
+      "13661599"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-77657-z",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1226",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

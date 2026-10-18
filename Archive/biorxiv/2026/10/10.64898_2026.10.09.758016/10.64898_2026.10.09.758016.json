@@ -1,0 +1,95 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.09.758016",
+  "title": "Beyond Ramachandran distributions: quantifying secondary structure effects on amino acids and their pairs in the full torsional space",
+  "doi": "10.64898/2026.10.09.758016",
+  "abstract": "The Ramachandran diagram has long served for understanding protein secondary structure elements (SSEs), despite the multitude of factors contributing to their occurrence. Starting from recently introduced circula-based multivariate torsion-angle distribution (CBMD) mixture models – accommodating covariance structure in the full torsion-angle space of amino acids, we define continuous densities for the 20 amino acids and 400 amino-acid pairs in dimension up to 14, conditioned by SSE labels. Projecting these higher-dimensional distributions onto the classical Ramachandran diagram reveals how secondary structures in the protein universe emerge from amino-acid-dependent conformational preferences reflecting influences beyond backbone dihedrals alone. Our analysis links the traditional geometric description of local protein structure to modern statistical models of the full conformational space of amino acids and amino-acid pairs, while providing a framework for generating protein conformations consistent with any given secondary structure environment – a feature that remains difficult to enforce explicitly in current AI-based generative models.",
+  "authors": [
+    "Carrière G",
+    "Robert CH",
+    "Cazals F"
+  ],
+  "published_date": "2026-10-12",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.09.758016",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.09.758016.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1342905",
+    "raw_record": {
+      "id": "PPR1342905",
+      "source": "PPR",
+      "doi": "10.64898/2026.10.09.758016",
+      "title": "Beyond Ramachandran distributions: quantifying secondary structure effects on amino acids and their pairs in the full torsional space",
+      "authorString": "Carrière G, Robert CH, Cazals F.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Carrière G",
+            "lastName": "Carrière",
+            "initials": "G"
+          },
+          {
+            "fullName": "Robert CH",
+            "lastName": "Robert",
+            "initials": "CH"
+          },
+          {
+            "fullName": "Cazals F",
+            "lastName": "Cazals",
+            "initials": "F"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "The Ramachandran diagram has long served for understanding protein secondary structure elements (SSEs), despite the multitude of factors contributing to their occurrence. Starting from recently introduced circula-based multivariate torsion-angle distribution (CBMD) mixture models – accommodating covariance structure in the full torsion-angle space of amino acids, we define continuous densities for the 20 amino acids and 400 amino-acid pairs in dimension up to 14, conditioned by SSE labels. Projecting these higher-dimensional distributions onto the classical Ramachandran diagram reveals how secondary structures in the protein universe emerge from amino-acid-dependent conformational preferences reflecting influences beyond backbone dihedrals alone. Our analysis links the traditional geometric description of local protein structure to modern statistical models of the full conformational space of amino acids and amino-acid pairs, while providing a framework for generating protein conformations consistent with any given secondary structure environment – a feature that remains difficult to enforce explicitly in current AI-based generative models.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.10.09.758016"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-10-15",
+      "firstPublicationDate": "2026-10-12",
+      "firstIndexDate": "2026-10-16",
+      "hasEvaluations": "N"
+    }
+  }
+}

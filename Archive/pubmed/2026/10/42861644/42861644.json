@@ -1,0 +1,201 @@
+{
+  "identity": {
+    "pmid": "42861644",
+    "doi": "10.1080/07391102.2026.2743170",
+    "title": "Computational analysis of pathogenic nsSNPs in the human TNF gene and their role in neuroinflammation in Adrenoleukodystrophy."
+  },
+  "content": {
+    "abstract": "Adrenoleukodystrophy (ALD) is an X-linked neurodegenerative disorder caused by pathogenic variants in the ABCD1 gene and characterized by progressive demyelination and neuroinflammatory responses. Tumor necrosis factor-alpha (TNF-alpha) is an important mediator of inflammatory signaling and has been implicated in the neuroinflammatory environment associated with ALD. However, the structural and functional consequences of genetic variations within TNF remain insufficiently understood. The study focuses to find high-risk non-synonymous single nucleotide polymorphisms (nsSNPs) in the TNF gene and their impact on protein structure dynamics. A comprehensive computational methodology integrated with several pathogenicity prediction tools, such as SIFT, PolyPhen-2, MutPred2, MetaLR, CADD, REVEL, MutationAssessor, and PredictSNP along with I-Mutant 2.0 and DynaMut to re-examine protein stability, and ConSurf to assess evolutionary conservation have been employed. Selective variations on protein structure were subjected to 200 ns Molecular Dynamics (MD) simulations and analysed. The results identified I118F and I118N as variants with strong computational evidence of deleteriousness and predicted destabilizing effects at a conserved residue.MD simulations demonstrated that these mutations result in heightened structural fluctuations, as indicated by elevated RMSD and Radius of Gyration (Rg) values, signifying a reduction in structural compactness. The PCA and FEL analyses showed that the wild-type protein keeps a stable energy minimum, whereas DCCM analysis indicated that the I118F and I118N mutations exhibit weaker dynamic coupling with more than one metastable state, leading to lesser stable structure. These results suggest that the stability and coordinated dynamics of the TNF trimer are compromised by mutations at position 118. These findings suggest that the identified TNF variants may influence TNF protein stability and conformational dynamics; however, their relevance to ALD-associated neuroinflammation remains hypothetical and requires experimental and clinical validation.",
+    "keywords": [
+      "Adrenoleukodystrophy",
+      "DCCM",
+      "TNF",
+      "molecular dynamics",
+      "nsSNPs"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Maurya, Sarita",
+        "Jain, Chakresh Kumar"
+      ],
+      "short_names": [
+        "Maurya S",
+        "Jain CK"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Biotechnology, Jaypee Institute of Information Technology, Noida, India.",
+        "Department of Biotechnology, Jaypee Institute of Information Technology, Noida, India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Maurya, Sarita",
+        "short_name": "Maurya S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology, Jaypee Institute of Information Technology, Noida, India."
+        ]
+      },
+      {
+        "full_name": "Jain, Chakresh Kumar",
+        "short_name": "Jain CK",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology, Jaypee Institute of Information Technology, Noida, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of biomolecular structure & dynamics"
+    ],
+    "journal_abbrev": [
+      "J Biomol Struct Dyn"
+    ],
+    "pub_date": "2026 Oct 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/12 11:41",
+    "fetched_at": "2026-10-18 06:57:52"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42861644",
+      "42309611",
+      "40571049",
+      "40370698",
+      "38656135",
+      "40892789",
+      "40612044",
+      "41084424",
+      "42657169",
+      "39854591",
+      "40855915",
+      "38907316",
+      "40375073",
+      "42749446",
+      "30802828",
+      "42691045",
+      "38858637",
+      "41277739",
+      "42475469",
+      "39590603",
+      "40892044",
+      "39021990",
+      "36813059",
+      "41028104",
+      "42196261",
+      "37278385",
+      "41671225",
+      "38994097",
+      "41073804",
+      "37173831",
+      "40207085",
+      "25606441",
+      "41039863",
+      "41381739",
+      "41714375",
+      "41120341",
+      "36056132",
+      "39715225",
+      "42694451",
+      "41756011",
+      "40576883",
+      "38132435",
+      "30884445",
+      "39522170",
+      "36995110",
+      "35727487",
+      "42170779",
+      "40206634",
+      "40469839",
+      "31935276",
+      "42196567",
+      "41355503",
+      "37754311",
+      "36504721",
+      "30676783",
+      "40149454",
+      "40981192",
+      "40493574",
+      "42791474",
+      "41404416",
+      "35776277",
+      "40129965",
+      "40321699",
+      "41231851",
+      "41041882",
+      "23561625",
+      "40914318",
+      "42692860",
+      "42006151",
+      "34827731",
+      "24378235",
+      "37434323",
+      "40018382",
+      "42393402",
+      "35092861",
+      "41785731",
+      "33865170",
+      "24777812",
+      "41898807",
+      "26454440",
+      "42166461",
+      "32787631",
+      "37238269",
+      "37153521",
+      "42444804",
+      "34466701",
+      "41550510",
+      "39856236",
+      "39673052",
+      "31976320",
+      "39589570",
+      "41917079",
+      "38344317",
+      "37817532",
+      "35446184",
+      "28388287",
+      "41401744",
+      "37801178",
+      "37901856",
+      "42322085"
+    ],
+    "review": [
+      "42861644"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.tandfonline.com/doi/10.1080/07391102.2026.2743170?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-76",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

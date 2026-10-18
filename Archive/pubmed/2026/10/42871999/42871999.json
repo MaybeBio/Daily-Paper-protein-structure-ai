@@ -1,0 +1,156 @@
+{
+  "identity": {
+    "pmid": "42871999",
+    "doi": "10.3389/fcimb.2026.1894311",
+    "title": "Lab to codes: multimodel advanced AI-driven pipelines to drive antimicrobial peptide design for the post-antibiotic era."
+  },
+  "content": {
+    "abstract": "The rapid emergence of global antimicrobial resistance (AMR) has outpaced the development of new antimicrobial agents, necessitating transformative approaches such as AI-driven in-silico drug discovery. Antimicrobial peptides (AMPs) are promising alternatives due to their broad-spectrum bactericidal activity and limited susceptibility to resistance. However, the transition from bench to bedside remains constrained by certain challenges, such as instability, potency, and cytotoxicity. Here, well-integrated, multi-model AI-driven pipeline strategies for the mining and discovery of novel AMPs are designed to address these concerns through simultaneous multi-purpose optimization. The proposed architectural frameworks combine discriminative AMP classifiers, quantitative potency, and cytotoxicity screening filters to prioritize AMPs with good efficacy and safety profiles. To ensure novelty, the pipeline integrates multi-layer sequential and genomic screening by adopting alignment and profile-based approaches. Structural refinements are achieved through advanced molecular docking (MD) and protein folding approaches, providing mechanistic insights regarding peptide-target interactions. In parallel, enzymatic susceptibility and stability prediction models are incorporated to optimize AMP pharmacokinetic potentials. Notably, the multi-objective pipeline operates within iterative optimization loops; discriminative and generative AI models and sequential redesign strategies refine candidates based on multi-purpose closed feedback loops across stability, novelty, efficacy, and toxicity outcomes. These systematic and integrated approaches overcome key bottlenecks associated with traditional linear drug discovery, potentially reducing late-stage attrition and accelerating the transformation from in-silico predictions to wet-lab validation. Collectively, this review provides reproducible and generalizable blueprints for next-generation antimicrobial agents, demonstrating the computational potentials of AI-driven, multi-model architectural frameworks to tackle the global AMR crisis and favour precision design of AMPs with better therapeutic indices.",
+    "keywords": [
+      "antimicrobial peptides (AMPs)",
+      "artificial intelligence (AI)",
+      "deep learning (DL)",
+      "generative-AI",
+      "machine learning (ML)",
+      "molecular docking (MD)",
+      "multi-drug resistance (MDR)"
+    ],
+    "mesh_terms": [
+      "*Antimicrobial Peptides/pharmacology/chemistry",
+      "*Artificial Intelligence",
+      "*Drug Discovery/methods",
+      "Molecular Docking Simulation",
+      "*Drug Design",
+      "Humans",
+      "*Anti-Bacterial Agents/pharmacology"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Saleem, Naveed",
+        "El-Omar, Emad",
+        "Kumar, Naresh",
+        "Willcox, Mark",
+        "Jiang, Xiao-Tao"
+      ],
+      "short_names": [
+        "Saleem N",
+        "El-Omar E",
+        "Kumar N",
+        "Willcox M",
+        "Jiang XT"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Microbiome Research Centre, School of Clinical Medicine, Faculty of Medicine & Health, University of New South Wales (UNSW), Sydney, NSW, Australia.",
+        "Microbiome Research Centre, School of Clinical Medicine, Faculty of Medicine & Health, University of New South Wales (UNSW), Sydney, NSW, Australia.",
+        "School of Chemistry, University of New South Wales (UNSW), Sydney, NSW, Australia.",
+        "School of Optometry and Vision Science, University of New South Wales (UNSW), Sydney, NSW, Australia.",
+        "Microbiome Research Centre, School of Clinical Medicine, Faculty of Medicine & Health, University of New South Wales (UNSW), Sydney, NSW, Australia."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Saleem, Naveed",
+        "short_name": "Saleem N",
+        "identifiers": [],
+        "affiliations": [
+          "Microbiome Research Centre, School of Clinical Medicine, Faculty of Medicine & Health, University of New South Wales (UNSW), Sydney, NSW, Australia."
+        ]
+      },
+      {
+        "full_name": "El-Omar, Emad",
+        "short_name": "El-Omar E",
+        "identifiers": [],
+        "affiliations": [
+          "Microbiome Research Centre, School of Clinical Medicine, Faculty of Medicine & Health, University of New South Wales (UNSW), Sydney, NSW, Australia."
+        ]
+      },
+      {
+        "full_name": "Kumar, Naresh",
+        "short_name": "Kumar N",
+        "identifiers": [],
+        "affiliations": [
+          "School of Chemistry, University of New South Wales (UNSW), Sydney, NSW, Australia."
+        ]
+      },
+      {
+        "full_name": "Willcox, Mark",
+        "short_name": "Willcox M",
+        "identifiers": [],
+        "affiliations": [
+          "School of Optometry and Vision Science, University of New South Wales (UNSW), Sydney, NSW, Australia."
+        ]
+      },
+      {
+        "full_name": "Jiang, Xiao-Tao",
+        "short_name": "Jiang XT",
+        "identifiers": [],
+        "affiliations": [
+          "Microbiome Research Centre, School of Clinical Medicine, Faculty of Medicine & Health, University of New South Wales (UNSW), Sydney, NSW, Australia."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in cellular and infection microbiology"
+    ],
+    "journal_abbrev": [
+      "Front Cell Infect Microbiol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/14 18:14",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42871999"
+    ],
+    "review": [
+      "42871999"
+    ],
+    "pmc": [
+      "13659443"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/antibiotics.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Antibiotics"
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-972",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fcimb.2026.1894311",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

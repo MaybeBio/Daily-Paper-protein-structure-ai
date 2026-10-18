@@ -1,0 +1,298 @@
+{
+  "identity": {
+    "pmid": "42860894",
+    "doi": "10.1002/jsfa.71144",
+    "title": "Sequential high hydrostatic pressure and polyphenol oxidase treatments modulate the structure, digestion behavior, and antibody-binding immunoreactivity of amandin."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Amandin (Pru du 6), a major almond allergen, exhibits immunochemical recognition that is influenced by protein conformation and the accessibility of antibody-recognized regions. This study investigated whether processing sequence governs the effects of high hydrostatic pressure (HHP) and polyphenol oxidase (PPO) on the structural, digestive, and commercial antibody-based immunoreactivity of amandin. RESULTS: HHP and PPO conditions were optimized before individual and sequential treatments were compared. Among the tested pressures, 400 MPa produced the lowest commercial antibody-based relative immunoreactivity and was selected for the sequential experiments. HHP pretreatment followed by PPO treatment produced the greatest reduction in antibody-binding immunoreactivity and the most pronounced accumulation of high-molecular-weight material. Spectroscopic and physicochemical analyses showed altered secondary structure, fluorescence behavior, surface hydrophobicity, and sulfhydryl accessibility. Molecular docking supported a potential non-covalent PPO-amandin interaction but was not interpreted as evidence of aggregate formation. HHP-PPO treatment also generated a more interconnected aggregate morphology, increased radical-scavenging activity, and maintained comparatively low antibody-binding immunoreactivity during simulated gastrointestinal digestion despite a lower degree of hydrolysis. CONCLUSION: Processing sequence was a key determinant of amandin structural remodeling and antibody-binding immunoreactivity. The observed structural changes are consistent with HHP pretreatment influencing subsequent PPO-mediated association, although the exact intermolecular linkages and antibody-recognized regions were not determined. Because the enzyme-linked immunosorbent assay used commercial anti-almond-protein antibodies rather than patient immunoglobulin E, further validation with allergic sera and biological models is required before conclusions regarding allergenicity can be made. (c) 2026 Society of Chemical Industry.",
+    "keywords": [
+      "PPO-mediated modification",
+      "amandin",
+      "antibody-binding immunoreactivity",
+      "high hydrostatic pressure",
+      "polyphenol oxidase",
+      "processing sequence"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Gao, Weiman",
+        "Zhang, Jingyue",
+        "Ren, Lining",
+        "Jiang, Shijing",
+        "Ma, Xinyu",
+        "Ru, Guangjiao",
+        "Lin, Zihan",
+        "Zhang, Yuhang",
+        "Sun, Aidong"
+      ],
+      "short_names": [
+        "Gao W",
+        "Zhang J",
+        "Ren L",
+        "Jiang S",
+        "Ma X",
+        "Ru G",
+        "Lin Z",
+        "Zhang Y",
+        "Sun A"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-8854-8887"
+      ],
+      "affiliations": [
+        "Department of Food Science and Engineering, College of Biological Sciences and Biotechnology, Beijing Key Laboratory of Forest Food Processing and Safety, Beijing Forestry University, Beijing, China.",
+        "Hebei Province Key Laboratory of Sustainable Utilization and Development of Forest Food Resources, Beijing Forestry University, Beijing, China.",
+        "Department of Food Science and Engineering, College of Biological Sciences and Biotechnology, Beijing Key Laboratory of Forest Food Processing and Safety, Beijing Forestry University, Beijing, China.",
+        "Hebei Province Key Laboratory of Sustainable Utilization and Development of Forest Food Resources, Beijing Forestry University, Beijing, China.",
+        "Department of Food Science and Engineering, College of Biological Sciences and Biotechnology, Beijing Key Laboratory of Forest Food Processing and Safety, Beijing Forestry University, Beijing, China.",
+        "Hebei Province Key Laboratory of Sustainable Utilization and Development of Forest Food Resources, Beijing Forestry University, Beijing, China.",
+        "Department of Food Science and Engineering, College of Biological Sciences and Biotechnology, Beijing Key Laboratory of Forest Food Processing and Safety, Beijing Forestry University, Beijing, China.",
+        "Hebei Province Key Laboratory of Sustainable Utilization and Development of Forest Food Resources, Beijing Forestry University, Beijing, China.",
+        "Department of Food Science and Engineering, College of Biological Sciences and Biotechnology, Beijing Key Laboratory of Forest Food Processing and Safety, Beijing Forestry University, Beijing, China.",
+        "Hebei Province Key Laboratory of Sustainable Utilization and Development of Forest Food Resources, Beijing Forestry University, Beijing, China.",
+        "Department of Food Science and Engineering, College of Biological Sciences and Biotechnology, Beijing Key Laboratory of Forest Food Processing and Safety, Beijing Forestry University, Beijing, China.",
+        "Hebei Province Key Laboratory of Sustainable Utilization and Development of Forest Food Resources, Beijing Forestry University, Beijing, China.",
+        "Department of Food Science and Engineering, College of Biological Sciences and Biotechnology, Beijing Key Laboratory of Forest Food Processing and Safety, Beijing Forestry University, Beijing, China.",
+        "Hebei Province Key Laboratory of Sustainable Utilization and Development of Forest Food Resources, Beijing Forestry University, Beijing, China.",
+        "Department of Food Science and Engineering, College of Biological Sciences and Biotechnology, Beijing Key Laboratory of Forest Food Processing and Safety, Beijing Forestry University, Beijing, China.",
+        "Hebei Province Key Laboratory of Sustainable Utilization and Development of Forest Food Resources, Beijing Forestry University, Beijing, China.",
+        "Department of Food Science and Engineering, College of Biological Sciences and Biotechnology, Beijing Key Laboratory of Forest Food Processing and Safety, Beijing Forestry University, Beijing, China.",
+        "Hebei Province Key Laboratory of Sustainable Utilization and Development of Forest Food Resources, Beijing Forestry University, Beijing, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Gao, Weiman",
+        "short_name": "Gao W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Food Science and Engineering, College of Biological Sciences and Biotechnology, Beijing Key Laboratory of Forest Food Processing and Safety, Beijing Forestry University, Beijing, China.",
+          "Hebei Province Key Laboratory of Sustainable Utilization and Development of Forest Food Resources, Beijing Forestry University, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Jingyue",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Food Science and Engineering, College of Biological Sciences and Biotechnology, Beijing Key Laboratory of Forest Food Processing and Safety, Beijing Forestry University, Beijing, China.",
+          "Hebei Province Key Laboratory of Sustainable Utilization and Development of Forest Food Resources, Beijing Forestry University, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Ren, Lining",
+        "short_name": "Ren L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Food Science and Engineering, College of Biological Sciences and Biotechnology, Beijing Key Laboratory of Forest Food Processing and Safety, Beijing Forestry University, Beijing, China.",
+          "Hebei Province Key Laboratory of Sustainable Utilization and Development of Forest Food Resources, Beijing Forestry University, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Shijing",
+        "short_name": "Jiang S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Food Science and Engineering, College of Biological Sciences and Biotechnology, Beijing Key Laboratory of Forest Food Processing and Safety, Beijing Forestry University, Beijing, China.",
+          "Hebei Province Key Laboratory of Sustainable Utilization and Development of Forest Food Resources, Beijing Forestry University, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Ma, Xinyu",
+        "short_name": "Ma X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Food Science and Engineering, College of Biological Sciences and Biotechnology, Beijing Key Laboratory of Forest Food Processing and Safety, Beijing Forestry University, Beijing, China.",
+          "Hebei Province Key Laboratory of Sustainable Utilization and Development of Forest Food Resources, Beijing Forestry University, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Ru, Guangjiao",
+        "short_name": "Ru G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Food Science and Engineering, College of Biological Sciences and Biotechnology, Beijing Key Laboratory of Forest Food Processing and Safety, Beijing Forestry University, Beijing, China.",
+          "Hebei Province Key Laboratory of Sustainable Utilization and Development of Forest Food Resources, Beijing Forestry University, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Zihan",
+        "short_name": "Lin Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Food Science and Engineering, College of Biological Sciences and Biotechnology, Beijing Key Laboratory of Forest Food Processing and Safety, Beijing Forestry University, Beijing, China.",
+          "Hebei Province Key Laboratory of Sustainable Utilization and Development of Forest Food Resources, Beijing Forestry University, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yuhang",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Food Science and Engineering, College of Biological Sciences and Biotechnology, Beijing Key Laboratory of Forest Food Processing and Safety, Beijing Forestry University, Beijing, China.",
+          "Hebei Province Key Laboratory of Sustainable Utilization and Development of Forest Food Resources, Beijing Forestry University, Beijing, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Aidong",
+        "short_name": "Sun A",
+        "identifiers": [
+          "0000-0001-8854-8887"
+        ],
+        "affiliations": [
+          "Department of Food Science and Engineering, College of Biological Sciences and Biotechnology, Beijing Key Laboratory of Forest Food Processing and Safety, Beijing Forestry University, Beijing, China.",
+          "Hebei Province Key Laboratory of Sustainable Utilization and Development of Forest Food Resources, Beijing Forestry University, Beijing, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of the science of food and agriculture"
+    ],
+    "journal_abbrev": [
+      "J Sci Food Agric"
+    ],
+    "pub_date": "2026 Oct 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/12 05:32",
+    "fetched_at": "2026-10-18 06:57:52"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42860894",
+      "37423103",
+      "28833127",
+      "40570521",
+      "38905831",
+      "28873761",
+      "27765229",
+      "39874891",
+      "26443963",
+      "34997598",
+      "30400601",
+      "34904892",
+      "31875969",
+      "29905947",
+      "42475469",
+      "34655831",
+      "36304206",
+      "22936330",
+      "26199222",
+      "37088029",
+      "25307857",
+      "34627095",
+      "42083223",
+      "22136649",
+      "27885680",
+      "36257269",
+      "20944393",
+      "35208978",
+      "37924762",
+      "20722947",
+      "22512160",
+      "39674814",
+      "25530105",
+      "38945590",
+      "19374443",
+      "28287443",
+      "31368526",
+      "33223299",
+      "42029042",
+      "21138244",
+      "37803536",
+      "42389335",
+      "30018206",
+      "35491658",
+      "38225140",
+      "29433282",
+      "28112159",
+      "23545264",
+      "34519050",
+      "38540912",
+      "28590420",
+      "28164808",
+      "41371861",
+      "30100439",
+      "17995786",
+      "39150724",
+      "41592505",
+      "27342634",
+      "30353562",
+      "34404002",
+      "20338419",
+      "38201177",
+      "35010157",
+      "33494486",
+      "26597340",
+      "29355952",
+      "28125769",
+      "38723571",
+      "27981899",
+      "26041182",
+      "15317594",
+      "38387223",
+      "21384355",
+      "40751062",
+      "36435086",
+      "28394279",
+      "12105967",
+      "35063856",
+      "37174359",
+      "10554230",
+      "40785444",
+      "11368566",
+      "41178106",
+      "29922647",
+      "28234319",
+      "31272052",
+      "34839967",
+      "36124402",
+      "35551026",
+      "38551196",
+      "29391627",
+      "34681484",
+      "34056857",
+      "23893871",
+      "35131693",
+      "31525267",
+      "11374885",
+      "37327934",
+      "41270625",
+      "23751456"
+    ],
+    "review": [
+      "42860894",
+      "38540912",
+      "39150724",
+      "36124402",
+      "34056857"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1002/jsfa.71144",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

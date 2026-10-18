@@ -1,0 +1,34 @@
+{
+  "source": "arxiv",
+  "source_id": "2610.15280v1",
+  "title": "GeoBridge: Evolving Transferable Decoder Topologies for Geometric Vision",
+  "doi": "",
+  "abstract": "Depth estimation and Gaussian reconstruction share a need for multi-scale feature processing, yet use different prediction interfaces and training objectives. Whether a decoder's internal computation can be optimized once and reused across these systems remains a structural design question. Search over primitive configurations alone leaves the organization of transformations fixed. To address this gap, we propose GeoBridge, an evolutionary framework for transferable decoder topologies. First, GeoBridge makes stage-internal topology searchable through residual, sequential, and parallel composition of configurable primitives. Shape-preserving composition retains the stage interfaces of a fixed multi-scale scaffold. Second, a functional-tree encoding supports stage-aware crossover and hierarchical mutation, while a gradient sensitivity-alignment proxy evaluates candidates without training. Multi-objective evolution balances this proxy with computation and parameter cost. Third, selected topologies are instantiated and trained in target systems with task-specific prediction interfaces. A single source search takes approximately 12 GPU hours. GeoBridgeNet-A3 achieves the best depth accuracy among four adapted decoder baselines under a common encoder and training protocol on NYU Depth V2 and KITTI. The same topology reaches 27.11 dB PSNR in Gaussian novel-view synthesis on RealEstate10K, and its refined representations support open-vocabulary segmentation on LERF. These results support decoder topology as a reusable design object across the evaluated geometric vision systems. Code and pretrained weights are available at https://github.com/EMI-Group/GeoBridge-NAS.",
+  "authors": [
+    "Rui Wang",
+    "Haoyu Zhang",
+    "Ran Cheng"
+  ],
+  "published_date": "2026-10-11T02:23:20Z",
+  "updated_date": "2026-10-11T02:23:20Z",
+  "journal": "",
+  "category": "cs.CV, cs.AI",
+  "landing_url": "https://arxiv.org/abs/2610.15280v1",
+  "pdf_url": "https://arxiv.org/pdf/2610.15280v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cs.CV",
+    "cs.AI"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2610.15280v1",
+    "raw_categories": [
+      "cs.CV",
+      "cs.AI"
+    ],
+    "journal_ref": ""
+  }
+}

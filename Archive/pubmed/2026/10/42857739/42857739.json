@@ -1,0 +1,348 @@
+{
+  "identity": {
+    "pmid": "42857739",
+    "doi": "10.1093/bioadv/vbag289",
+    "title": "RCSB PDB AI Help Desk: retrieval-augmented generation for protein structure deposition support."
+  },
+  "content": {
+    "abstract": "MOTIVATION: Structural biologists have contributed more than 260 000 experimentally determined three-dimensional structures of biological macromolecules to the Protein Data Bank. Incoming depositions are validated and biocurated by approximately 20 expert biocurators at the collaborating data centers worldwide. Biocurators at the Research Collaboratory for Structural Bioinformatics Protein Data Bank, who process more than 40% of global depositions, face growing difficulty sustaining efficient Help Desk operations, having received roughly 19 000 depositor messages across some 8000 entries in 2025. RESULTS: We developed an artificial intelligence Help Desk assistant built on retrieval-augmented generation. Source documents are converted to Markdown with layout preserved, divided by a two-stage chunking procedure, embedded, and stored in a relational vector database. At query time, maximal marginal relevance retrieval selects diverse supporting passages, a topical guardrail filters out-of-scope questions, and a purpose-built system prompt prevents disclosure of internal curation terminology. Separate language model configurations handle question condensing and answer generation. The service runs in production on a container orchestration platform, providing around-the-clock depositor assistance with streaming, citation-backed responses. AVAILABILITY AND IMPLEMENTATION: Freely available at https://rcsb-deposit-help.rcsb.org. Source code: https://github.com/rcsb/rcsb-pdb-helpdesk (archived at Zenodo: https://doi.org/10.5281/zenodo.19560785).",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chithari, Vivek Reddy",
+        "Young, Jasmine Y",
+        "Persikova, Irina",
+        "Liang, Yuhe",
+        "Crichlow, Gregg V",
+        "Flatt, Justin W",
+        "Ghosh, Sutapa",
+        "Hudson, Brian P",
+        "Peisach, Ezra",
+        "Sekharan, Monica",
+        "Shao, Chenghua",
+        "Burley, Stephen K"
+      ],
+      "short_names": [
+        "Chithari VR",
+        "Young JY",
+        "Persikova I",
+        "Liang Y",
+        "Crichlow GV",
+        "Flatt JW",
+        "Ghosh S",
+        "Hudson BP",
+        "Peisach E",
+        "Sekharan M",
+        "Shao C",
+        "Burley SK"
+      ],
+      "auids": [
+        "ORCID: 0009-0008-1804-5035",
+        "ORCID: 0000-0001-8896-6878",
+        "ORCID: 0000-0001-9544-8390",
+        "ORCID: 0000-0002-0574-2041",
+        "ORCID: 0000-0003-0512-1031",
+        "ORCID: 0000-0001-5406-8156",
+        "ORCID: 0000-0001-8784-0894",
+        "ORCID: 0000-0001-6121-9442",
+        "ORCID: 0000-0002-7905-6327",
+        "ORCID: 0000-0002-2694-7003",
+        "ORCID: 0000-0001-6817-7476",
+        "ORCID: 0000-0002-2487-9713"
+      ],
+      "affiliations": [
+        "RCSB Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway, NJ, United States.",
+        "RCSB Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway, NJ, United States.",
+        "RCSB Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway, NJ, United States.",
+        "RCSB Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway, NJ, United States.",
+        "RCSB Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway, NJ, United States.",
+        "RCSB Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway, NJ, United States.",
+        "RCSB Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway, NJ, United States.",
+        "RCSB Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway, NJ, United States.",
+        "RCSB Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway, NJ, United States.",
+        "RCSB Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway, NJ, United States.",
+        "RCSB Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway, NJ, United States.",
+        "RCSB Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway, NJ, United States.",
+        "RCSB Protein Data Bank, San Diego Supercomputer Center, University of California San Diego, San Diego, CA, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chithari, Vivek Reddy",
+        "short_name": "Chithari VR",
+        "identifiers": [
+          "0009-0008-1804-5035"
+        ],
+        "affiliations": [
+          "RCSB Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway, NJ, United States."
+        ]
+      },
+      {
+        "full_name": "Young, Jasmine Y",
+        "short_name": "Young JY",
+        "identifiers": [
+          "0000-0001-8896-6878"
+        ],
+        "affiliations": [
+          "RCSB Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway, NJ, United States."
+        ]
+      },
+      {
+        "full_name": "Persikova, Irina",
+        "short_name": "Persikova I",
+        "identifiers": [
+          "0000-0001-9544-8390"
+        ],
+        "affiliations": [
+          "RCSB Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway, NJ, United States."
+        ]
+      },
+      {
+        "full_name": "Liang, Yuhe",
+        "short_name": "Liang Y",
+        "identifiers": [
+          "0000-0002-0574-2041"
+        ],
+        "affiliations": [
+          "RCSB Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway, NJ, United States."
+        ]
+      },
+      {
+        "full_name": "Crichlow, Gregg V",
+        "short_name": "Crichlow GV",
+        "identifiers": [
+          "0000-0003-0512-1031"
+        ],
+        "affiliations": [
+          "RCSB Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway, NJ, United States."
+        ]
+      },
+      {
+        "full_name": "Flatt, Justin W",
+        "short_name": "Flatt JW",
+        "identifiers": [
+          "0000-0001-5406-8156"
+        ],
+        "affiliations": [
+          "RCSB Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway, NJ, United States."
+        ]
+      },
+      {
+        "full_name": "Ghosh, Sutapa",
+        "short_name": "Ghosh S",
+        "identifiers": [
+          "0000-0001-8784-0894"
+        ],
+        "affiliations": [
+          "RCSB Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway, NJ, United States."
+        ]
+      },
+      {
+        "full_name": "Hudson, Brian P",
+        "short_name": "Hudson BP",
+        "identifiers": [
+          "0000-0001-6121-9442"
+        ],
+        "affiliations": [
+          "RCSB Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway, NJ, United States."
+        ]
+      },
+      {
+        "full_name": "Peisach, Ezra",
+        "short_name": "Peisach E",
+        "identifiers": [
+          "0000-0002-7905-6327"
+        ],
+        "affiliations": [
+          "RCSB Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway, NJ, United States."
+        ]
+      },
+      {
+        "full_name": "Sekharan, Monica",
+        "short_name": "Sekharan M",
+        "identifiers": [
+          "0000-0002-2694-7003"
+        ],
+        "affiliations": [
+          "RCSB Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway, NJ, United States."
+        ]
+      },
+      {
+        "full_name": "Shao, Chenghua",
+        "short_name": "Shao C",
+        "identifiers": [
+          "0000-0001-6817-7476"
+        ],
+        "affiliations": [
+          "RCSB Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway, NJ, United States."
+        ]
+      },
+      {
+        "full_name": "Burley, Stephen K",
+        "short_name": "Burley SK",
+        "identifiers": [
+          "0000-0002-2487-9713"
+        ],
+        "affiliations": [
+          "RCSB Protein Data Bank, Rutgers, The State University of New Jersey, Piscataway, NJ, United States.",
+          "RCSB Protein Data Bank, San Diego Supercomputer Center, University of California San Diego, San Diego, CA, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Bioinformatics advances"
+    ],
+    "journal_abbrev": [
+      "Bioinform Adv"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/11 05:07",
+    "fetched_at": "2026-10-18 06:57:52"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42857739",
+      "36420884",
+      "38597878",
+      "36281733",
+      "29067736",
+      "36738985",
+      "34676613",
+      "38870521",
+      "39607707",
+      "30357411",
+      "39894387",
+      "42475469",
+      "41206752",
+      "40099807",
+      "15608185",
+      "25183487",
+      "28573592",
+      "36291635",
+      "27551105",
+      "33186584",
+      "42517697",
+      "31531901",
+      "33211854",
+      "34864908",
+      "27794042",
+      "20937596",
+      "41632625",
+      "36321557",
+      "28334105",
+      "35801924",
+      "34601771",
+      "23193259",
+      "33950382",
+      "35507259",
+      "18428680",
+      "27603019",
+      "29864163",
+      "20877496",
+      "41965069",
+      "18428761",
+      "38111685",
+      "41912385",
+      "32939013",
+      "33313665",
+      "40133793",
+      "42421183",
+      "30595456",
+      "20888470",
+      "25942442",
+      "34865074",
+      "42845290",
+      "25505094",
+      "41182676",
+      "20935055",
+      "22685160",
+      "26493835",
+      "42327181",
+      "42787049",
+      "35543462",
+      "42348732",
+      "42471690",
+      "21036868",
+      "21382834",
+      "25428375",
+      "14681399",
+      "20429930",
+      "37561405",
+      "41647203",
+      "40985364",
+      "41071041",
+      "41747226",
+      "42599200",
+      "41765220",
+      "11752306",
+      "25940563",
+      "42024582",
+      "27275151",
+      "41490382",
+      "40913779",
+      "41159599",
+      "37052532",
+      "41950627",
+      "38163514",
+      "28190782",
+      "41408154",
+      "10592235",
+      "41004350",
+      "42096726",
+      "39969112",
+      "40747838",
+      "29487239",
+      "42282078",
+      "42853673",
+      "42324596",
+      "40100137",
+      "41911379",
+      "42412787",
+      "40888915",
+      "34260689",
+      "38940167"
+    ],
+    "review": [
+      "42857739",
+      "29067736",
+      "28573592",
+      "36291635",
+      "36321557",
+      "33950382",
+      "41912385",
+      "32939013",
+      "30595456",
+      "42282078"
+    ],
+    "pmc": [
+      "13652142"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://academic.oup.com/bioinformaticsadvances/article-lookup/doi/10.1093/bioadv/vbag289",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

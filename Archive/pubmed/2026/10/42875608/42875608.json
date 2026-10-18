@@ -1,0 +1,120 @@
+{
+  "identity": {
+    "pmid": "42875608",
+    "doi": "10.1038/s43588-026-01062-1",
+    "title": "HDOCK-Multimer: improved structure prediction of large protein complexes by integrating docking and combinatorial assembly."
+  },
+  "content": {
+    "abstract": "Accurate prediction of large protein assembly structures is crucial for understanding biological processes, yet remains a challenge for end-to-end approaches such as AlphaFold owing to their large size and intricate multi-chain interactions. Docking methods can handle large proteins, but suffer from the huge combinatorial binding space of multiple chains. Assembly methods offer an alternative way, but critically rely on the quality of predicted subcomponents. Here we present HDOCK-Multimer (HDM), a framework that integrates docking and combinatorial assembly for structure prediction of large protein complexes. HDM efficiently reduces reliance on subcomponent quality through docking, while leveraging the pairwise interactions of subcomponents through assembly. When evaluated on 3 benchmarks of 35 large heteromeric complexes, 172 large protein complexes and 7 CASP15 targets, HDM substantially outperforms state-of-the-art methods including CombFold, MoLPC, AlphaFold-Multimer and AlphaFold3. In addition, HDM also demonstrates the capacity to predict the stoichiometry and model the complex without stoichiometry input.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yao, Xuan",
+        "Ya, Yifan",
+        "Li, Hao",
+        "Huang, Sheng-You"
+      ],
+      "short_names": [
+        "Yao X",
+        "Ya Y",
+        "Li H",
+        "Huang SY"
+      ],
+      "auids": [
+        "ORCID: 0009-0001-3048-2149",
+        "ORCID: 0000-0002-4209-4565"
+      ],
+      "affiliations": [
+        "School of Physics and Key Laboratory of Molecular Biophysics of MOE, Huazhong University of Science and Technology, Wuhan, China.",
+        "School of Physics and Key Laboratory of Molecular Biophysics of MOE, Huazhong University of Science and Technology, Wuhan, China.",
+        "School of Physics and Key Laboratory of Molecular Biophysics of MOE, Huazhong University of Science and Technology, Wuhan, China.",
+        "School of Physics and Key Laboratory of Molecular Biophysics of MOE, Huazhong University of Science and Technology, Wuhan, China. huangsy@hust.edu.cn.",
+        "Hubei Fundamental Research Center for Physics, Wuhan, China. huangsy@hust.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yao, Xuan",
+        "short_name": "Yao X",
+        "identifiers": [
+          "0009-0001-3048-2149"
+        ],
+        "affiliations": [
+          "School of Physics and Key Laboratory of Molecular Biophysics of MOE, Huazhong University of Science and Technology, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Ya, Yifan",
+        "short_name": "Ya Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Physics and Key Laboratory of Molecular Biophysics of MOE, Huazhong University of Science and Technology, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Li, Hao",
+        "short_name": "Li H",
+        "identifiers": [],
+        "affiliations": [
+          "School of Physics and Key Laboratory of Molecular Biophysics of MOE, Huazhong University of Science and Technology, Wuhan, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Sheng-You",
+        "short_name": "Huang SY",
+        "identifiers": [
+          "0000-0002-4209-4565"
+        ],
+        "affiliations": [
+          "School of Physics and Key Laboratory of Molecular Biophysics of MOE, Huazhong University of Science and Technology, Wuhan, China. huangsy@hust.edu.cn.",
+          "Hubei Fundamental Research Center for Physics, Wuhan, China. huangsy@hust.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature computational science"
+    ],
+    "journal_abbrev": [
+      "Nat Comput Sci"
+    ],
+    "pub_date": "2026 Oct 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/15 07:18",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42875608"
+    ],
+    "review": [
+      "42875608"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s43588-026-01062-1",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "identity": {
+    "pmid": "42867132",
+    "doi": "10.1039/d6cp90190e",
+    "title": "Correction: Simulation of protein structure using a coarse-grained potential incorporating the backbone dihedral interactions."
+  },
+  "content": {
+    "abstract": "Correction for 'Simulation of protein structure using a coarse-grained potential incorporating the backbone dihedral interactions' by Kanika Kole et al., Phys. Chem. Chem. Phys., 2026, 28, 23541-23554, https://doi.org/10.1039/d6cp02188c.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Published Erratum"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kole, Kanika",
+        "Ghosh Moulick, Abhik",
+        "Chakrabarti, Jaydeb"
+      ],
+      "short_names": [
+        "Kole K",
+        "Ghosh Moulick A",
+        "Chakrabarti J"
+      ],
+      "auids": [],
+      "affiliations": [
+        "S.N. Bose National Centre for Basic Sciences, Block JD, Salt Lake, Kolkata-700098, India. jaydebchakrabarti@gmail.com.",
+        "S.N. Bose National Centre for Basic Sciences, Block JD, Salt Lake, Kolkata-700098, India. jaydebchakrabarti@gmail.com.",
+        "S.N. Bose National Centre for Basic Sciences, Block JD, Salt Lake, Kolkata-700098, India. jaydebchakrabarti@gmail.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kole, Kanika",
+        "short_name": "Kole K",
+        "identifiers": [],
+        "affiliations": [
+          "S.N. Bose National Centre for Basic Sciences, Block JD, Salt Lake, Kolkata-700098, India. jaydebchakrabarti@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Ghosh Moulick, Abhik",
+        "short_name": "Ghosh Moulick A",
+        "identifiers": [],
+        "affiliations": [
+          "S.N. Bose National Centre for Basic Sciences, Block JD, Salt Lake, Kolkata-700098, India. jaydebchakrabarti@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Chakrabarti, Jaydeb",
+        "short_name": "Chakrabarti J",
+        "identifiers": [],
+        "affiliations": [
+          "S.N. Bose National Centre for Basic Sciences, Block JD, Salt Lake, Kolkata-700098, India. jaydebchakrabarti@gmail.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Physical chemistry chemical physics : PCCP"
+    ],
+    "journal_abbrev": [
+      "Phys Chem Chem Phys"
+    ],
+    "pub_date": "2026 Oct 13",
+    "pub_year": "2026",
+    "pub_types": [
+      "Published Erratum"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/13 17:37",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42867132"
+    ],
+    "review": [
+      "42867132"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1039/d6cp90190e",
+        "provider": "Royal Society of Chemistry",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

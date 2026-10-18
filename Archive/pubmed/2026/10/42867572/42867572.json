@@ -1,0 +1,142 @@
+{
+  "identity": {
+    "pmid": "42867572",
+    "doi": "10.1007/s11103-026-01767-x",
+    "title": "Evolution, structural diversity and functional plasticity of plant derived multifunctional proteases and alpha-amylases inhibitors."
+  },
+  "content": {
+    "abstract": "Plant derived multifunctional inhibitors (MFIs) are an important class of plant defense proteins that disrupt insect digestion by simultaneously impairing protein and carbohydrate catabolism. With the increasing knowledge of inhibitors of plant enzymes, MFIs have become a separate functional group. In this review we propose an extended definition that encompasses the classical inhibitors acting on structurally unrelated enzymes and also inhibitors acting on enzymes of the same substrate pathway, e.g. alpha-amylase/alpha-glucosidase and trypsin/chymotrypsin systems. Most of the MFIs consist of single polypeptide chains with spatially separated inhibitory sites, which allow simultaneous inhibition of several enzyme targets. The structural organization, inhibitory mechanism and evolutionary diversification of these inhibitors are reviewed with emphasis on the major families including Bowman-Birk, Kunitz-type and cereal trypsin/alpha-amylase inhibitors. Their domain architecture, disulfide bond patterns and structure-function relationships are discussed in view of their remarkable stability and functional versatility. Recent advances in computational structural biology, including molecular docking, molecular dynamics simulations, and AlphaFold-based protein structure prediction, have promoted mechanistic insights and enabled structure-guided engineering of improved inhibitors. The review also discusses the evolutionary origin of MFIs through gene duplication, domain shuffling, sequence diversification and adaptive evolution, and emerging approaches such as protein engineering, recombinant expression, synthetic biology and genome editing. Finally, the applications in crop protection, development of biopesticides and food biotechnology, as well as the challenges regarding insect adaptation, evolution of resistance, biosafety and ecological impacts are critically discussed. Bridging current gaps in structural characterization and in vivo validation is necessary for the translation of MFIs into sustainable agricultural and biotechnological applications.",
+    "keywords": [
+      "Crop protection",
+      "Multifunctional inhibitors",
+      "Plant defense",
+      "Protease inhibitors",
+      "Sustainable agriculture",
+      "alpha-amylase inhibitors"
+    ],
+    "mesh_terms": [
+      "*alpha-Amylases/antagonists & inhibitors/metabolism",
+      "*Evolution, Molecular",
+      "*Plant Proteins/chemistry/metabolism/genetics",
+      "*Plants/metabolism/enzymology/genetics",
+      "*Protease Inhibitors/chemistry/metabolism/pharmacology",
+      "*Peptide Hydrolases/metabolism/chemistry/genetics"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Dongare, Pratiksha M",
+        "Madage, Varsha A",
+        "Deshpande, Neha V",
+        "Giri, Ashok P",
+        "Pawar, Pankaj K"
+      ],
+      "short_names": [
+        "Dongare PM",
+        "Madage VA",
+        "Deshpande NV",
+        "Giri AP",
+        "Pawar PK"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Biochemistry, Shivaji University, Kolhapur, Maharashtra, 416004, India.",
+        "Department of Biotechnology, Shivaji University, Kolhapur, Maharashtra, 416004, India.",
+        "CSIR-National Chemical Laboratory, Plant Molecular Biology Unit, Division of Biochemical Sciences, Pune, Maharashtra, 411008, India.",
+        "CSIR-National Chemical Laboratory, Plant Molecular Biology Unit, Division of Biochemical Sciences, Pune, Maharashtra, 411008, India. ap.giri.ncl@csir.res.in.",
+        "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, 201002, India. ap.giri.ncl@csir.res.in.",
+        "Department of Biochemistry, Shivaji University, Kolhapur, Maharashtra, 416004, India. pkp.biochem@unishivaji.ac.in.",
+        "Department of Microbiology, Shivaji University, Kolhapur, Maharashtra, 416004, India. pkp.biochem@unishivaji.ac.in."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Dongare, Pratiksha M",
+        "short_name": "Dongare PM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, Shivaji University, Kolhapur, Maharashtra, 416004, India."
+        ]
+      },
+      {
+        "full_name": "Madage, Varsha A",
+        "short_name": "Madage VA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology, Shivaji University, Kolhapur, Maharashtra, 416004, India."
+        ]
+      },
+      {
+        "full_name": "Deshpande, Neha V",
+        "short_name": "Deshpande NV",
+        "identifiers": [],
+        "affiliations": [
+          "CSIR-National Chemical Laboratory, Plant Molecular Biology Unit, Division of Biochemical Sciences, Pune, Maharashtra, 411008, India."
+        ]
+      },
+      {
+        "full_name": "Giri, Ashok P",
+        "short_name": "Giri AP",
+        "identifiers": [],
+        "affiliations": [
+          "CSIR-National Chemical Laboratory, Plant Molecular Biology Unit, Division of Biochemical Sciences, Pune, Maharashtra, 411008, India. ap.giri.ncl@csir.res.in.",
+          "Academy of Scientific and Innovative Research (AcSIR), Ghaziabad, 201002, India. ap.giri.ncl@csir.res.in."
+        ]
+      },
+      {
+        "full_name": "Pawar, Pankaj K",
+        "short_name": "Pawar PK",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, Shivaji University, Kolhapur, Maharashtra, 416004, India. pkp.biochem@unishivaji.ac.in.",
+          "Department of Microbiology, Shivaji University, Kolhapur, Maharashtra, 416004, India. pkp.biochem@unishivaji.ac.in."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Plant molecular biology"
+    ],
+    "journal_abbrev": [
+      "Plant Mol Biol"
+    ],
+    "pub_date": "2026 Oct 13",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/13 23:36",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42867572"
+    ],
+    "review": [
+      "42867572"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1007/s11103-026-01767-x",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

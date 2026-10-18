@@ -1,0 +1,106 @@
+{
+  "identity": {
+    "pmid": "42879443",
+    "doi": "10.1371/journal.pcbi.1014865",
+    "title": "From prompts to genomes: A constraint-first framework for AI-driven sequence design across life and viruses."
+  },
+  "content": {
+    "abstract": "A constraint-first framework for future 'prompt-to-genome' AI across Bacteria, Archaea, Eukaryota, and viruses is proposed. Genome-scale models can now generate long DNA sequences, and experimentally viable genome-scale designs have begun to appear, but sequence generation alone does not establish biological feasibility. Constraints should not require designs to remain within natural sequence space; rather, they should define testable boundaries for function, inheritance, lifecycle coherence and safe use, including new-to-nature designs. We propose a two-part system. First, a Constraint Compiler translates natural-language prompts into machine-checkable specifications defining scope, context, objectives, assumptions and governance requirements. Second, a modular Validator Stack (C1-C6) evaluates candidate designs for sequence integrity, gene and regulatory plausibility, genome completeness, comparative coherence, systems-level feasibility, and safety and governance. Extreme prompts serve as stress tests to expose hidden assumptions, conflicting objectives, and refusal points, complemented by adversarial testing and risk assessment. A phased roadmap and community benchmarks are proposed to measure specification accuracy, biological feasibility, robustness, and governance performance. The goal is to move prompt-to-genome systems from impressive generation toward reliable, auditable, and accountable biological design.",
+    "keywords": [],
+    "mesh_terms": [
+      "Viruses/genetics",
+      "*Artificial Intelligence",
+      "Computational Biology/methods",
+      "Genome, Viral",
+      "*Genomics/methods",
+      "*Genome/genetics",
+      "*Sequence Analysis, DNA/methods",
+      "Archaea/genetics",
+      "Models, Genetic",
+      "Eukaryota/genetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wicaksono, Adhityo",
+        "Parikesit, Arli Aditya"
+      ],
+      "short_names": [
+        "Wicaksono A",
+        "Parikesit AA"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-3298-3577"
+      ],
+      "affiliations": [
+        "Aether Biomics, Tanah Abang, Jakarta, Indonesia.",
+        "Department of Biotechnology, School of Health and Life Sciences, i3L University, Pulo Gadung, Jakarta, Indonesia."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wicaksono, Adhityo",
+        "short_name": "Wicaksono A",
+        "identifiers": [
+          "0000-0003-3298-3577"
+        ],
+        "affiliations": [
+          "Aether Biomics, Tanah Abang, Jakarta, Indonesia."
+        ]
+      },
+      {
+        "full_name": "Parikesit, Arli Aditya",
+        "short_name": "Parikesit AA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology, School of Health and Life Sciences, i3L University, Pulo Gadung, Jakarta, Indonesia."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "PLoS computational biology"
+    ],
+    "journal_abbrev": [
+      "PLoS Comput Biol"
+    ],
+    "pub_date": "2026 Oct",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/15 23:30",
+    "fetched_at": "2026-10-18 06:57:22"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42879443"
+    ],
+    "review": [
+      "42879443"
+    ],
+    "pmc": [
+      "13671503"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://dx.plos.org/10.1371/journal.pcbi.1014865",
+        "provider": "Public Library of Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}
