@@ -1,0 +1,39 @@
+{
+  "source": "arxiv",
+  "source_id": "2610.28266v1",
+  "title": "VGL-stGen: Learning a shared multimodal model for lung histology and spatial transcriptomics",
+  "doi": "",
+  "abstract": "VGL-stGen is a multimodal large language model adapted from a pretrained medical vision-language model using paired lung H&E and spatial transcriptomics with single-cell references. Training integrates image-expression and expression-cell-type pairs, and gene-conditioned pseudo-labels transfer transcriptomic cell-type supervision to histology images. One deployed checkpoint supports thirteen evaluated tasks spanning tissue and cell-type classification, gene prediction and conditional expression completion from combinations of histology, cell identity and observed gene expression. Task-specific decoding produces categorical labels, gene lists and structured expression levels. For conditional completion, fixing queried gene identities and predicting their levels autoregressively improves structured prediction. Controlled adaptation shows that restricting supervision to requested expression-level tokens can further improve image-conditioned completion. Image-permutation experiments indicate that correctly paired histology adds information beyond observed expression. External classification relies partly on computational references with shared annotation lineage, and some H&E sources were exposed during cancer training or model development. Within these conditions, VGL-stGen demonstrates how a medical vision-language backbone can learn from spatial transcriptomics and histology to connect tissue morphology and molecular states through shared generative modeling.",
+  "authors": [
+    "Haenara Shin",
+    "Dongjoo Lee",
+    "Sungwoo Bae",
+    "Kwon Joong Na",
+    "Daeseung Lee",
+    "Hongyoon Choi"
+  ],
+  "published_date": "2026-10-20T14:22:47Z",
+  "updated_date": "2026-10-20T14:22:47Z",
+  "journal": "",
+  "category": "cs.CV, cs.AI, q-bio.QM",
+  "landing_url": "https://arxiv.org/abs/2610.28266v1",
+  "pdf_url": "https://arxiv.org/pdf/2610.28266v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cs.CV",
+    "cs.AI",
+    "q-bio.QM"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2610.28266v1",
+    "raw_categories": [
+      "cs.CV",
+      "cs.AI",
+      "q-bio.QM"
+    ],
+    "journal_ref": ""
+  }
+}

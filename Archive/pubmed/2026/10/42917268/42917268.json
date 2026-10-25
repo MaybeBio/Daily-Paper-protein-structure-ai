@@ -1,0 +1,202 @@
+{
+  "identity": {
+    "pmid": "42917268",
+    "doi": "10.1021/acs.jctc.6c01306",
+    "title": "Modeling the Impact of Active Site Mutations on the Quenching Fate and Cyclization Depth of a Rare Oxidosqualene Cyclase."
+  },
+  "content": {
+    "abstract": "Oxidosqualene cyclases (OSCs) convert linear 2,3-oxidosqualene into diverse polycyclic triterpenoids. The precise control over highly reactive carbocation intermediates, particularly the ultimate quenching mechanism (deprotonation vs hydroxylation), remains a fundamental challenge in mechanism-driven enzyme reshaping. Here, we investigate AaOSC-20433, a rare OSC from Artemisia argyi exhibiting absolute specificity for pure deprotonation to produce dammara-20,24-dien-3beta-ol. This starkly contrasts with the homologous dammarenediol synthase from Panax ginseng (PgDDS), which favors hydroxylation to yield dammarenediol II. Integrating multiscale QM/MM simulations and site-directed mutagenesis, we modeled the impact of crucial active site mutations on the reaction cascade. Our simulations revealed that S411 acts as a general base governing the terminal deprotonation. More importantly, we demonstrate that mechanism-guided active site substitutions can dramatically alter the chemical trajectory. Relaxing steric constraints (F728A) induces catalytic promiscuity to yield tricyclic and tetracyclic products. Furthermore, the L259Y mutation significantly alters the quenching network. It unlocks the hydroxylation pathway to form dammarenediol II and acts as an engineered base extending cyclization depth to yield the pentacyclic lupeol. Notably, combining these functional loci (L259Y+F728S) reveals notable synergistic epistasis between the steric cavity and the proton-transfer network, driving competitive hydration events to diversify the hydroxylated product profile. This study provides a comprehensive mechanistic framework for understanding how OSC active site mutations govern product specificity, offering a robust theoretical basis for the tailored, mechanism-driven functional reprogramming of triterpene synthases in synthetic biology.",
+    "keywords": [],
+    "mesh_terms": [
+      "Catalytic Domain",
+      "Cyclization",
+      "*Intramolecular Transferases/genetics/metabolism/chemistry",
+      "Mutation",
+      "Mutagenesis, Site-Directed",
+      "Molecular Dynamics Simulation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liu, Chenxu",
+        "Liang, Shun",
+        "Zheng, Ying",
+        "Wang, Feng",
+        "Jiao, Jiaqi",
+        "Li, Bing",
+        "Liang, JinCai",
+        "Liu, Zhongqiu",
+        "Duan, Lixin",
+        "Wu, Ruibo",
+        "Zhang, Fan"
+      ],
+      "short_names": [
+        "Liu C",
+        "Liang S",
+        "Zheng Y",
+        "Wang F",
+        "Jiao J",
+        "Li B",
+        "Liang J",
+        "Liu Z",
+        "Duan L",
+        "Wu R",
+        "Zhang F"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-6986-9677",
+        "ORCID: 0000-0003-1516-3497",
+        "ORCID: 0000-0002-1984-046X",
+        "ORCID: 0000-0002-0953-7416"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Traditional Chinese Medicine Syndrome, Guangdong Engineering Research Center of Biosynthesis and Metabolism of Effective Components of Chinese Medicine, International Institute for Translational Chinese Medicine, Chinese Medicine Guangdong Laboratory, Guangzhou University of Chinese Medicine, Guangdong510006, China.",
+        "State Key Laboratory of Traditional Chinese Medicine Syndrome, Guangdong Engineering Research Center of Biosynthesis and Metabolism of Effective Components of Chinese Medicine, International Institute for Translational Chinese Medicine, Chinese Medicine Guangdong Laboratory, Guangzhou University of Chinese Medicine, Guangdong510006, China.",
+        "School of Basic Medical Sciences, Guangzhou University of Chinese Medicine, Guangdong510006, China.",
+        "Guangdong Pharmaceutical University, Guangdong510006, China.",
+        "State Key Laboratory of Traditional Chinese Medicine Syndrome, Guangdong Engineering Research Center of Biosynthesis and Metabolism of Effective Components of Chinese Medicine, International Institute for Translational Chinese Medicine, Chinese Medicine Guangdong Laboratory, Guangzhou University of Chinese Medicine, Guangdong510006, China.",
+        "State Key Laboratory of Traditional Chinese Medicine Syndrome, Guangdong Engineering Research Center of Biosynthesis and Metabolism of Effective Components of Chinese Medicine, International Institute for Translational Chinese Medicine, Chinese Medicine Guangdong Laboratory, Guangzhou University of Chinese Medicine, Guangdong510006, China.",
+        "State Key Laboratory of Traditional Chinese Medicine Syndrome, Guangdong Engineering Research Center of Biosynthesis and Metabolism of Effective Components of Chinese Medicine, International Institute for Translational Chinese Medicine, Chinese Medicine Guangdong Laboratory, Guangzhou University of Chinese Medicine, Guangdong510006, China.",
+        "State Key Laboratory of Traditional Chinese Medicine Syndrome, Guangdong Engineering Research Center of Biosynthesis and Metabolism of Effective Components of Chinese Medicine, International Institute for Translational Chinese Medicine, Chinese Medicine Guangdong Laboratory, Guangzhou University of Chinese Medicine, Guangdong510006, China.",
+        "State Key Laboratory of Traditional Chinese Medicine Syndrome, Guangdong Engineering Research Center of Biosynthesis and Metabolism of Effective Components of Chinese Medicine, International Institute for Translational Chinese Medicine, Chinese Medicine Guangdong Laboratory, Guangzhou University of Chinese Medicine, Guangdong510006, China.",
+        "School of Pharmaceutical Sciences, Guangdong Provincial Key Laboratory of New Drug Design and Evaluation, Sun Yat-sen University, Guangzhou510006, China.",
+        "State Key Laboratory of Traditional Chinese Medicine Syndrome, Guangdong Engineering Research Center of Biosynthesis and Metabolism of Effective Components of Chinese Medicine, International Institute for Translational Chinese Medicine, Chinese Medicine Guangdong Laboratory, Guangzhou University of Chinese Medicine, Guangdong510006, China.",
+        "State Key Laboratory for Quality Ensurance and Sustainable Use of Dao-di Herbs, Beijing100700, P. R. China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Liu, Chenxu",
+        "short_name": "Liu C",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Traditional Chinese Medicine Syndrome, Guangdong Engineering Research Center of Biosynthesis and Metabolism of Effective Components of Chinese Medicine, International Institute for Translational Chinese Medicine, Chinese Medicine Guangdong Laboratory, Guangzhou University of Chinese Medicine, Guangdong510006, China."
+        ]
+      },
+      {
+        "full_name": "Liang, Shun",
+        "short_name": "Liang S",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Traditional Chinese Medicine Syndrome, Guangdong Engineering Research Center of Biosynthesis and Metabolism of Effective Components of Chinese Medicine, International Institute for Translational Chinese Medicine, Chinese Medicine Guangdong Laboratory, Guangzhou University of Chinese Medicine, Guangdong510006, China."
+        ]
+      },
+      {
+        "full_name": "Zheng, Ying",
+        "short_name": "Zheng Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Basic Medical Sciences, Guangzhou University of Chinese Medicine, Guangdong510006, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Feng",
+        "short_name": "Wang F",
+        "identifiers": [],
+        "affiliations": [
+          "Guangdong Pharmaceutical University, Guangdong510006, China."
+        ]
+      },
+      {
+        "full_name": "Jiao, Jiaqi",
+        "short_name": "Jiao J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Traditional Chinese Medicine Syndrome, Guangdong Engineering Research Center of Biosynthesis and Metabolism of Effective Components of Chinese Medicine, International Institute for Translational Chinese Medicine, Chinese Medicine Guangdong Laboratory, Guangzhou University of Chinese Medicine, Guangdong510006, China."
+        ]
+      },
+      {
+        "full_name": "Li, Bing",
+        "short_name": "Li B",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Traditional Chinese Medicine Syndrome, Guangdong Engineering Research Center of Biosynthesis and Metabolism of Effective Components of Chinese Medicine, International Institute for Translational Chinese Medicine, Chinese Medicine Guangdong Laboratory, Guangzhou University of Chinese Medicine, Guangdong510006, China."
+        ]
+      },
+      {
+        "full_name": "Liang, JinCai",
+        "short_name": "Liang J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Traditional Chinese Medicine Syndrome, Guangdong Engineering Research Center of Biosynthesis and Metabolism of Effective Components of Chinese Medicine, International Institute for Translational Chinese Medicine, Chinese Medicine Guangdong Laboratory, Guangzhou University of Chinese Medicine, Guangdong510006, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Zhongqiu",
+        "short_name": "Liu Z",
+        "identifiers": [
+          "0000-0001-6986-9677"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Traditional Chinese Medicine Syndrome, Guangdong Engineering Research Center of Biosynthesis and Metabolism of Effective Components of Chinese Medicine, International Institute for Translational Chinese Medicine, Chinese Medicine Guangdong Laboratory, Guangzhou University of Chinese Medicine, Guangdong510006, China."
+        ]
+      },
+      {
+        "full_name": "Duan, Lixin",
+        "short_name": "Duan L",
+        "identifiers": [
+          "0000-0003-1516-3497"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Traditional Chinese Medicine Syndrome, Guangdong Engineering Research Center of Biosynthesis and Metabolism of Effective Components of Chinese Medicine, International Institute for Translational Chinese Medicine, Chinese Medicine Guangdong Laboratory, Guangzhou University of Chinese Medicine, Guangdong510006, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Ruibo",
+        "short_name": "Wu R",
+        "identifiers": [
+          "0000-0002-1984-046X"
+        ],
+        "affiliations": [
+          "School of Pharmaceutical Sciences, Guangdong Provincial Key Laboratory of New Drug Design and Evaluation, Sun Yat-sen University, Guangzhou510006, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Fan",
+        "short_name": "Zhang F",
+        "identifiers": [
+          "0000-0002-0953-7416"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Traditional Chinese Medicine Syndrome, Guangdong Engineering Research Center of Biosynthesis and Metabolism of Effective Components of Chinese Medicine, International Institute for Translational Chinese Medicine, Chinese Medicine Guangdong Laboratory, Guangzhou University of Chinese Medicine, Guangdong510006, China.",
+          "State Key Laboratory for Quality Ensurance and Sustainable Use of Dao-di Herbs, Beijing100700, P. R. China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of chemical theory and computation"
+    ],
+    "journal_abbrev": [
+      "J Chem Theory Comput"
+    ],
+    "pub_date": "2026 Oct 13",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42917268"
+    ],
+    "review": [
+      "42917268"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

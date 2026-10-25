@@ -1,0 +1,225 @@
+{
+  "identity": {
+    "pmid": "42907444",
+    "doi": "10.1038/s41467-026-77935-w",
+    "title": "Cross-talk of filter gate and lower helices drives polymodal regulation and disease in TREK channels."
+  },
+  "content": {
+    "abstract": "The TREK two-pore domain potassium channels regulate membrane excitability and respond to diverse physiological stimuli. Single-site mutations of TREK are associated with neurodevelopmental disorders and can cause pathological channel hyperactivation. Here, using the OneOPES enhanced-sampling molecular dynamics framework, we characterize the energetics of conformational transition along a predefined pathway connecting the up and down states of TREK-2, together with initial conformational rearrangements of the selectivity filter under physiological stimuli and disease-mimicking conditions. The simulations reveal a shared energetic axis coupling the lower helices, proximal C-terminus, and selectivity filter to govern channel gating. Predicted conformational effects of a disease-mimicking mutation were validated electrophysiologically using a conformation-sensitive TREK-2 inhibitor. Together with our previous unbiased MD simulations, these results establish an energetic framework for TREK-2 regulation and dysfunction, complementing prior structural and mechanistic studies while highlighting the potential and methodological challenges of advanced enhanced-sampling approaches for resolving complex conformational landscapes of ion channels.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Potassium Channels, Tandem Pore Domain/genetics/metabolism/chemistry",
+      "Humans",
+      "Molecular Dynamics Simulation",
+      "*Ion Channel Gating",
+      "Mutation",
+      "Protein Conformation",
+      "Animals",
+      "Two-Pore Channels"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Turkaydin, Berke",
+        "Rizzi, Valerio",
+        "Benkerdagh, Chaimae",
+        "Ghysbrecht, Simon",
+        "Aureli, Simone",
+        "Baukrowitz, Thomas",
+        "Schewe, Marcus",
+        "Gervasio, Francesco Luigi",
+        "Sun, Han"
+      ],
+      "short_names": [
+        "Turkaydin B",
+        "Rizzi V",
+        "Benkerdagh C",
+        "Ghysbrecht S",
+        "Aureli S",
+        "Baukrowitz T",
+        "Schewe M",
+        "Gervasio FL",
+        "Sun H"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-1699-0312",
+        "ORCID: 0000-0001-5126-8996",
+        "ORCID: 0009-0009-5038-4448",
+        "ORCID: 0009-0003-7556-9592",
+        "ORCID: 0000-0002-4938-8603",
+        "ORCID: 0000-0003-4562-0505",
+        "ORCID: 0000-0002-6192-5651",
+        "ORCID: 0000-0003-4831-5039",
+        "ORCID: 0000-0002-1655-0838"
+      ],
+      "affiliations": [
+        "Leibniz-Forschungsinstitut fur Molekulare Pharmakologie (FMP), Berlin, Germany.",
+        "Insitute of Chemistry, Technical University of Berlin, Berlin, Germany.",
+        "School of Pharmaceutical Sciences, University of Geneva, Rue Michel Servet 1, Geneve, Switzerland. valerio.rizzi@unige.ch.",
+        "Institute of Pharmaceutical Sciences of Western Switzerland (ISPSO), University of Geneva, Geneve, Switzerland. valerio.rizzi@unige.ch.",
+        "Swiss Institute of Bioinformatics, University of Geneva, Geneve, Switzerland. valerio.rizzi@unige.ch.",
+        "Institute of Physiology, Kiel University, Kiel, Germany.",
+        "Leibniz-Forschungsinstitut fur Molekulare Pharmakologie (FMP), Berlin, Germany.",
+        "School of Pharmaceutical Sciences, University of Geneva, Rue Michel Servet 1, Geneve, Switzerland.",
+        "Institute of Pharmaceutical Sciences of Western Switzerland (ISPSO), University of Geneva, Geneve, Switzerland.",
+        "Swiss Institute of Bioinformatics, University of Geneva, Geneve, Switzerland.",
+        "Institute of Physiology, Kiel University, Kiel, Germany.",
+        "Institute of Physiology, Kiel University, Kiel, Germany. m.schewe@physiologie.uni-kiel.de.",
+        "School of Pharmaceutical Sciences, University of Geneva, Rue Michel Servet 1, Geneve, Switzerland. francesco.gervasio@unige.ch.",
+        "Institute of Pharmaceutical Sciences of Western Switzerland (ISPSO), University of Geneva, Geneve, Switzerland. francesco.gervasio@unige.ch.",
+        "Swiss Institute of Bioinformatics, University of Geneva, Geneve, Switzerland. francesco.gervasio@unige.ch.",
+        "Department of Chemistry, University College London, London, United Kingdom. francesco.gervasio@unige.ch.",
+        "Leibniz-Forschungsinstitut fur Molekulare Pharmakologie (FMP), Berlin, Germany. hsun@fmp-berlin.de.",
+        "Insitute of Chemistry, Technical University of Berlin, Berlin, Germany. hsun@fmp-berlin.de."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Türkaydin, Berke",
+        "short_name": "Türkaydin B",
+        "identifiers": [
+          "0000-0003-1699-0312"
+        ],
+        "affiliations": [
+          "Leibniz-Forschungsinstitut für Molekulare Pharmakologie (FMP), Berlin, Germany.",
+          "Insitute of Chemistry, Technical University of Berlin, Berlin, Germany."
+        ]
+      },
+      {
+        "full_name": "Rizzi, Valerio",
+        "short_name": "Rizzi V",
+        "identifiers": [
+          "0000-0001-5126-8996"
+        ],
+        "affiliations": [
+          "School of Pharmaceutical Sciences, University of Geneva, Rue Michel Servet 1, Genève, Switzerland. valerio.rizzi@unige.ch.",
+          "Institute of Pharmaceutical Sciences of Western Switzerland (ISPSO), University of Geneva, Genève, Switzerland. valerio.rizzi@unige.ch.",
+          "Swiss Institute of Bioinformatics, University of Geneva, Genève, Switzerland. valerio.rizzi@unige.ch."
+        ]
+      },
+      {
+        "full_name": "Benkerdagh, Chaimae",
+        "short_name": "Benkerdagh C",
+        "identifiers": [
+          "0009-0009-5038-4448"
+        ],
+        "affiliations": [
+          "Institute of Physiology, Kiel University, Kiel, Germany."
+        ]
+      },
+      {
+        "full_name": "Ghysbrecht, Simon",
+        "short_name": "Ghysbrecht S",
+        "identifiers": [
+          "0009-0003-7556-9592"
+        ],
+        "affiliations": [
+          "Leibniz-Forschungsinstitut für Molekulare Pharmakologie (FMP), Berlin, Germany."
+        ]
+      },
+      {
+        "full_name": "Aureli, Simone",
+        "short_name": "Aureli S",
+        "identifiers": [
+          "0000-0002-4938-8603"
+        ],
+        "affiliations": [
+          "School of Pharmaceutical Sciences, University of Geneva, Rue Michel Servet 1, Genève, Switzerland.",
+          "Institute of Pharmaceutical Sciences of Western Switzerland (ISPSO), University of Geneva, Genève, Switzerland.",
+          "Swiss Institute of Bioinformatics, University of Geneva, Genève, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Baukrowitz, Thomas",
+        "short_name": "Baukrowitz T",
+        "identifiers": [
+          "0000-0003-4562-0505"
+        ],
+        "affiliations": [
+          "Institute of Physiology, Kiel University, Kiel, Germany."
+        ]
+      },
+      {
+        "full_name": "Schewe, Marcus",
+        "short_name": "Schewe M",
+        "identifiers": [
+          "0000-0002-6192-5651"
+        ],
+        "affiliations": [
+          "Institute of Physiology, Kiel University, Kiel, Germany. m.schewe@physiologie.uni-kiel.de."
+        ]
+      },
+      {
+        "full_name": "Gervasio, Francesco Luigi",
+        "short_name": "Gervasio FL",
+        "identifiers": [
+          "0000-0003-4831-5039"
+        ],
+        "affiliations": [
+          "School of Pharmaceutical Sciences, University of Geneva, Rue Michel Servet 1, Genève, Switzerland. francesco.gervasio@unige.ch.",
+          "Institute of Pharmaceutical Sciences of Western Switzerland (ISPSO), University of Geneva, Genève, Switzerland. francesco.gervasio@unige.ch.",
+          "Swiss Institute of Bioinformatics, University of Geneva, Genève, Switzerland. francesco.gervasio@unige.ch.",
+          "Department of Chemistry, University College London, London, United Kingdom. francesco.gervasio@unige.ch."
+        ]
+      },
+      {
+        "full_name": "Sun, Han",
+        "short_name": "Sun H",
+        "identifiers": [
+          "0000-0002-1655-0838"
+        ],
+        "affiliations": [
+          "Leibniz-Forschungsinstitut für Molekulare Pharmakologie (FMP), Berlin, Germany. hsun@fmp-berlin.de.",
+          "Insitute of Chemistry, Technical University of Berlin, Berlin, Germany. hsun@fmp-berlin.de."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Sep 22",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/22 23:29",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42907444"
+    ],
+    "review": [
+      "42907444"
+    ],
+    "pmc": [
+      "13687069"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-77935-w",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

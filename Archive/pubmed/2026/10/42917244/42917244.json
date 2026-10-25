@@ -1,0 +1,139 @@
+{
+  "identity": {
+    "pmid": "42917244",
+    "doi": "10.1021/acs.jpcb.6c04420",
+    "title": "Conformational, Aggregation, and Membrane Interaction Dynamics of Keratin-Derived Antimicrobial Peptides from Molecular Dynamics Simulations."
+  },
+  "content": {
+    "abstract": "Keratin-derived antimicrobial peptides (KAMPs) from human corneal epithelial cells have received considerable attention due to their biocidal activity against both Gram-positive and Gram-negative bacteria without possessing the conventional characteristics of known antimicrobial peptides (AMPs), such as ordered secondary structure elements and a net positive charge. Here, we perform unbiased, all-atom molecular dynamics (MD) simulations for seven members of the glycine-rich KAMP family and for Pw-Antibac123, which is a distinct keratin-derived peptide obtained through chicken feather hydrolyzates. This study first aims to investigate the structural dynamics of these peptides in dilute and semidilute aqueous solutions. Our results verify the noncanonical structure of KAMPs and validate the molecular model of Pw-Antibac123 that has been proposed in the literature. Increasing the peptide concentration in the aqueous solution leads to self-assembly and peptide aggregation, due to the development of interpeptide hydrogen bonds and the strong effect of electrostatic interactions. The effect of intermolecular amino acid interactions on the secondary structure of KAMPs is also discussed, allowing us to identify strong synergies between specific amino acid pairs, such as serine and glycine, valine and leucine, and arginine and isoleucine. Subsequently, we focus on how KAMP-18C, an 18-residue-long KAMP, interacts with model Gram-positive lipid bilayers. Since spontaneous aggregation is not observed, we construct artificial pores and embed peptides within the membrane to assess the stability of these systems. We discuss how our findings correlate with proposed mechanisms of action for AMPs.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Molecular Dynamics Simulation",
+      "*Antimicrobial Peptides/chemistry/metabolism",
+      "*Keratins/chemistry",
+      "Humans",
+      "Animals",
+      "Hydrogen Bonding",
+      "Amino Acid Sequence",
+      "Protein Structure, Secondary",
+      "Chickens",
+      "Lipid Bilayers/chemistry/metabolism",
+      "*Antimicrobial Cationic Peptides/chemistry"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Panagopoulos Papageorgiou, Panagiotis",
+        "Karadima, Katerina S",
+        "Papageorgiou, Ioanna",
+        "Vogiatzis, Georgios G",
+        "Mavrantzas, Vlasis G"
+      ],
+      "short_names": [
+        "Panagopoulos Papageorgiou P",
+        "Karadima KS",
+        "Papageorgiou I",
+        "Vogiatzis GG",
+        "Mavrantzas VG"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-3817-7755",
+        "ORCID: 0000-0003-3599-0676"
+      ],
+      "affiliations": [
+        "Department of Chemical Engineering, University of Patras, PatrasGR 26504, Greece.",
+        "Department of Chemical Engineering, University of Patras, PatrasGR 26504, Greece.",
+        "Institute of Chemical Engineering Sciences (ICE-HT/FORTH), PatrasGR 26504, Greece.",
+        "Department of Chemical Engineering, University of Patras, PatrasGR 26504, Greece.",
+        "Department of Chemical Engineering, University of Patras, PatrasGR 26504, Greece.",
+        "Department of Chemical Engineering, University of Patras, PatrasGR 26504, Greece.",
+        "Institute of Chemical Engineering Sciences (ICE-HT/FORTH), PatrasGR 26504, Greece.",
+        "Macromolecular Engineering Laboratory, Department of Mechanical and Process Engineering, ETH Zurich, ZurichCH-8092, Switzerland."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Panagopoulos Papageorgiou, Panagiotis",
+        "short_name": "Panagopoulos Papageorgiou P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical Engineering, University of Patras, PatrasGR 26504, Greece."
+        ]
+      },
+      {
+        "full_name": "Karadima, Katerina S",
+        "short_name": "Karadima KS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical Engineering, University of Patras, PatrasGR 26504, Greece.",
+          "Institute of Chemical Engineering Sciences (ICE-HT/FORTH), PatrasGR 26504, Greece."
+        ]
+      },
+      {
+        "full_name": "Papageorgiou, Ioanna",
+        "short_name": "Papageorgiou I",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical Engineering, University of Patras, PatrasGR 26504, Greece."
+        ]
+      },
+      {
+        "full_name": "Vogiatzis, Georgios G",
+        "short_name": "Vogiatzis GG",
+        "identifiers": [
+          "0000-0002-3817-7755"
+        ],
+        "affiliations": [
+          "Department of Chemical Engineering, University of Patras, PatrasGR 26504, Greece."
+        ]
+      },
+      {
+        "full_name": "Mavrantzas, Vlasis G",
+        "short_name": "Mavrantzas VG",
+        "identifiers": [
+          "0000-0003-3599-0676"
+        ],
+        "affiliations": [
+          "Department of Chemical Engineering, University of Patras, PatrasGR 26504, Greece.",
+          "Institute of Chemical Engineering Sciences (ICE-HT/FORTH), PatrasGR 26504, Greece.",
+          "Macromolecular Engineering Laboratory, Department of Mechanical and Process Engineering, ETH Zürich, ZürichCH-8092, Switzerland."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The journal of physical chemistry. B"
+    ],
+    "journal_abbrev": [
+      "J Phys Chem B"
+    ],
+    "pub_date": "2026 Oct 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42917244"
+    ],
+    "review": [
+      "42917244"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

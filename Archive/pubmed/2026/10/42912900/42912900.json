@@ -1,0 +1,141 @@
+{
+  "identity": {
+    "pmid": "42912900",
+    "doi": "10.1021/acs.jcim.6c00987",
+    "title": "STELLAR: A Fragment-Based Docking Workflow for Highly Flexible Long-Chain Biopolymers."
+  },
+  "content": {
+    "abstract": "Docking methods have improved significantly through optimization using generative approaches and systematic exploration of parameter configurations within docking software. However, docking large molecules such as peptides remains challenging, while the docking of large non-peptidic biopolymers is still insufficiently explored. Existing tools often exhibit limitations in both accuracy and computational efficiency when applied to longer peptides or other polymers. Moreover, although generative deep learning and machine learning approaches have shown promise, they still frequently lack robust ranking metrics, resulting in suboptimal performance. To address these limitations, we developed STELLAR (Score-Tuning for Efficient Ranking of Large Ligands using an Accurate and Refined Docking Configuration), a workflow designed to enable efficient and accurate docking of highly flexible long-chain biopolymers exceeding 10 subunits. STELLAR implements a fragment-based strategy, decomposing the biopolymer into smaller units for individual docking, followed by recomposition into full-length structures. It also includes optimized algorithms for handling long-chain biopolymers. The pipeline integrates structural optimization steps using tools such as GNINA, RDKit, and GROMACS, ensuring physically realistic poses. STELLAR achieved RMSD values below 5 A in validation experiments using benchmark complexes from Propedia and the Protein Data Bank (PDB). It offers a faster and more efficient alternative to several state-of-the-art tools across a range of peptide lengths. Additionally, it scales linearly in computational time, runs primarily on CPUs with minimal GPU usage, avoids reliance on generative approximations, provides an accurate metric for ligand ranking, and reduces computational cost compared to similar tools. Its design also supports high-throughput screening of linear polymer-protein interactions by efficiently reducing the complexity associated with high conformational flexibility.",
+    "keywords": [],
+    "mesh_terms": [
+      "Biopolymers/chemistry/metabolism",
+      "*Molecular Docking Simulation",
+      "Ligands",
+      "Workflow",
+      "Software",
+      "Proteins/chemistry",
+      "Algorithms",
+      "Protein Conformation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Rodriguez-Martinez, Alejandro",
+        "Nelen, Jochem",
+        "Carmena-Bargueno, Miguel",
+        "Martinez-Cortes, Carlos",
+        "Perez-Sanchez, Horacio"
+      ],
+      "short_names": [
+        "Rodriguez-Martinez A",
+        "Nelen J",
+        "Carmena-Bargueno M",
+        "Martinez-Cortes C",
+        "Perez-Sanchez H"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-1251-8072",
+        "ORCID: 0000-0002-9970-4950",
+        "ORCID: 0000-0002-2735-4859",
+        "ORCID: 0000-0002-5029-3089",
+        "ORCID: 0000-0003-4468-7898"
+      ],
+      "affiliations": [
+        "Structural Bioinformatics and High Performance Computing Research Group (BIO-HPC), UCAM Universidad Catolica de Murcia (UCAM), 30107Murcia, Spain.",
+        "Structural Bioinformatics and High Performance Computing Research Group (BIO-HPC), UCAM Universidad Catolica de Murcia (UCAM), 30107Murcia, Spain.",
+        "Structural Bioinformatics and High Performance Computing Research Group (BIO-HPC), UCAM Universidad Catolica de Murcia (UCAM), 30107Murcia, Spain.",
+        "Structural Bioinformatics and High Performance Computing Research Group (BIO-HPC), UCAM Universidad Catolica de Murcia (UCAM), 30107Murcia, Spain.",
+        "Structural Bioinformatics and High Performance Computing Research Group (BIO-HPC), UCAM Universidad Catolica de Murcia (UCAM), 30107Murcia, Spain."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Rodríguez-Martínez, Alejandro",
+        "short_name": "Rodríguez-Martínez A",
+        "identifiers": [
+          "0000-0002-1251-8072"
+        ],
+        "affiliations": [
+          "Structural Bioinformatics and High Performance Computing Research Group (BIO-HPC), UCAM Universidad Católica de Murcia (UCAM), 30107Murcia, Spain."
+        ]
+      },
+      {
+        "full_name": "Nelen, Jochem",
+        "short_name": "Nelen J",
+        "identifiers": [
+          "0000-0002-9970-4950"
+        ],
+        "affiliations": [
+          "Structural Bioinformatics and High Performance Computing Research Group (BIO-HPC), UCAM Universidad Católica de Murcia (UCAM), 30107Murcia, Spain."
+        ]
+      },
+      {
+        "full_name": "Carmena-Bargueño, Miguel",
+        "short_name": "Carmena-Bargueño M",
+        "identifiers": [
+          "0000-0002-2735-4859"
+        ],
+        "affiliations": [
+          "Structural Bioinformatics and High Performance Computing Research Group (BIO-HPC), UCAM Universidad Católica de Murcia (UCAM), 30107Murcia, Spain."
+        ]
+      },
+      {
+        "full_name": "Martínez-Cortés, Carlos",
+        "short_name": "Martínez-Cortés C",
+        "identifiers": [
+          "0000-0002-5029-3089"
+        ],
+        "affiliations": [
+          "Structural Bioinformatics and High Performance Computing Research Group (BIO-HPC), UCAM Universidad Católica de Murcia (UCAM), 30107Murcia, Spain."
+        ]
+      },
+      {
+        "full_name": "Pérez-Sánchez, Horacio",
+        "short_name": "Pérez-Sánchez H",
+        "identifiers": [
+          "0000-0003-4468-7898"
+        ],
+        "affiliations": [
+          "Structural Bioinformatics and High Performance Computing Research Group (BIO-HPC), UCAM Universidad Católica de Murcia (UCAM), 30107Murcia, Spain."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of chemical information and modeling"
+    ],
+    "journal_abbrev": [
+      "J Chem Inf Model"
+    ],
+    "pub_date": "2026 Oct 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 18:31",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42912900"
+    ],
+    "review": [
+      "42912900"
+    ],
+    "pmc": [
+      "13663479"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

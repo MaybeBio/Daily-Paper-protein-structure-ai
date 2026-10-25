@@ -1,0 +1,221 @@
+{
+  "identity": {
+    "pmid": "42915857",
+    "doi": "10.1021/acs.jafc.6c04991",
+    "title": "Artificial Intelligence-Aided De Novo Design of High-Affinity Protein Binders Against Shiga Toxin 2."
+  },
+  "content": {
+    "abstract": "Shiga toxin-producing Escherichia coli (STEC) is a major food-borne pathogen with limited treatment options. Targeting Shiga toxin (Stx) represents a promising therapeutic strategy. Using artificial intelligence (AI)-assisted de novo protein design combined with bacterial surface display screening, pull-down assays, and biolayer interferometry, we identified protein binders against the Stx2a B subunit (Stx2aB), among which Binder506 exhibited high affinity. Structural modeling predicted a three-alpha-helix fold, consistent with circular dichroism analysis, while differential scanning fluorimetry revealed high thermostability. Importantly, Binder506 demonstrated potent Stx2a-neutralizing activity with minimal intrinsic cytotoxicity in Vero cells. Size-exclusion chromatography and coimmunoprecipitation showed that Binder506 did not disrupt Stx2a holotoxin integrity. Instead, cellular binding and internalization assays demonstrated that Binder506 inhibited Stx2a attachment to and uptake by Vero cells. Collectively, these findings demonstrate the potential of AI-assisted de novo protein design for generating effective Stx-neutralizing proteins and establish a promising framework for the development of novel therapeutics.",
+    "keywords": [
+      "de novo protein design",
+      "artificial intelligence",
+      "inhibitor",
+      "neutralizing activity",
+      "protein binder",
+      "shiga toxin"
+    ],
+    "mesh_terms": [
+      "*Shiga Toxin 2/chemistry/metabolism",
+      "Animals",
+      "Vero Cells",
+      "Chlorocebus aethiops",
+      "*Shiga-Toxigenic Escherichia coli/metabolism/chemistry/genetics",
+      "Protein Binding"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhao, Xianglin",
+        "Feng, Xiao",
+        "Li, Huaixia",
+        "Wang, Menghui",
+        "Feng, Tingting",
+        "Zhan, Huixia",
+        "Tang, Jiaying",
+        "Li, Shaowen",
+        "Li, Tingting",
+        "Connolly, James",
+        "Zhou, Rui",
+        "Huang, Qi"
+      ],
+      "short_names": [
+        "Zhao X",
+        "Feng X",
+        "Li H",
+        "Wang M",
+        "Feng T",
+        "Zhan H",
+        "Tang J",
+        "Li S",
+        "Li T",
+        "Connolly J",
+        "Zhou R",
+        "Huang Q"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-1600-1169"
+      ],
+      "affiliations": [
+        "National Key Laboratory of Agricultural Microbiology, Hubei Hongshan Laboratory, College of Veterinary Medicine, Huazhong Agricultural University, Wuhan430070, Hubei Province, China.",
+        "National Key Laboratory of Agricultural Microbiology, Hubei Hongshan Laboratory, College of Veterinary Medicine, Huazhong Agricultural University, Wuhan430070, Hubei Province, China.",
+        "National Key Laboratory of Agricultural Microbiology, Hubei Hongshan Laboratory, College of Veterinary Medicine, Huazhong Agricultural University, Wuhan430070, Hubei Province, China.",
+        "National Key Laboratory of Agricultural Microbiology, Hubei Hongshan Laboratory, College of Veterinary Medicine, Huazhong Agricultural University, Wuhan430070, Hubei Province, China.",
+        "National Key Laboratory of Agricultural Microbiology, Hubei Hongshan Laboratory, College of Veterinary Medicine, Huazhong Agricultural University, Wuhan430070, Hubei Province, China.",
+        "National Key Laboratory of Agricultural Microbiology, Hubei Hongshan Laboratory, College of Veterinary Medicine, Huazhong Agricultural University, Wuhan430070, Hubei Province, China.",
+        "National Key Laboratory of Agricultural Microbiology, Hubei Hongshan Laboratory, College of Veterinary Medicine, Huazhong Agricultural University, Wuhan430070, Hubei Province, China.",
+        "National Key Laboratory of Agricultural Microbiology, Hubei Hongshan Laboratory, College of Veterinary Medicine, Huazhong Agricultural University, Wuhan430070, Hubei Province, China.",
+        "Hubei Center for Animal Disease Control and Prevention, Wuhan430070, Hubei Province, China.",
+        "Newcastle University Biosciences Institute, Newcastle University , Newcastle Upon, TyneNE2 4HH, U.K.",
+        "National Key Laboratory of Agricultural Microbiology, Hubei Hongshan Laboratory, College of Veterinary Medicine, Huazhong Agricultural University, Wuhan430070, Hubei Province, China.",
+        "International Research Center for Animal Disease, Ministry of Science and Technology of China, Wuhan430070, Hubei Province, China.",
+        "Cooperative Innovation Center for Sustainable Pig Production, College of Veterinary Medicine, Huazhong Agricultural University, Wuhan430070, Hubei Province, China.",
+        "The HZAU-HVSEN Institute, Wuhan430070, China.",
+        "National Key Laboratory of Agricultural Microbiology, Hubei Hongshan Laboratory, College of Veterinary Medicine, Huazhong Agricultural University, Wuhan430070, Hubei Province, China.",
+        "International Research Center for Animal Disease, Ministry of Science and Technology of China, Wuhan430070, Hubei Province, China.",
+        "Cooperative Innovation Center for Sustainable Pig Production, College of Veterinary Medicine, Huazhong Agricultural University, Wuhan430070, Hubei Province, China.",
+        "The HZAU-HVSEN Institute, Wuhan430070, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhao, Xianglin",
+        "short_name": "Zhao X",
+        "identifiers": [],
+        "affiliations": [
+          "National Key Laboratory of Agricultural Microbiology, Hubei Hongshan Laboratory, College of Veterinary Medicine, Huazhong Agricultural University, Wuhan430070, Hubei Province, China."
+        ]
+      },
+      {
+        "full_name": "Feng, Xiao",
+        "short_name": "Feng X",
+        "identifiers": [],
+        "affiliations": [
+          "National Key Laboratory of Agricultural Microbiology, Hubei Hongshan Laboratory, College of Veterinary Medicine, Huazhong Agricultural University, Wuhan430070, Hubei Province, China."
+        ]
+      },
+      {
+        "full_name": "Li, Huaixia",
+        "short_name": "Li H",
+        "identifiers": [],
+        "affiliations": [
+          "National Key Laboratory of Agricultural Microbiology, Hubei Hongshan Laboratory, College of Veterinary Medicine, Huazhong Agricultural University, Wuhan430070, Hubei Province, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Menghui",
+        "short_name": "Wang M",
+        "identifiers": [],
+        "affiliations": [
+          "National Key Laboratory of Agricultural Microbiology, Hubei Hongshan Laboratory, College of Veterinary Medicine, Huazhong Agricultural University, Wuhan430070, Hubei Province, China."
+        ]
+      },
+      {
+        "full_name": "Feng, Tingting",
+        "short_name": "Feng T",
+        "identifiers": [],
+        "affiliations": [
+          "National Key Laboratory of Agricultural Microbiology, Hubei Hongshan Laboratory, College of Veterinary Medicine, Huazhong Agricultural University, Wuhan430070, Hubei Province, China."
+        ]
+      },
+      {
+        "full_name": "Zhan, Huixia",
+        "short_name": "Zhan H",
+        "identifiers": [],
+        "affiliations": [
+          "National Key Laboratory of Agricultural Microbiology, Hubei Hongshan Laboratory, College of Veterinary Medicine, Huazhong Agricultural University, Wuhan430070, Hubei Province, China."
+        ]
+      },
+      {
+        "full_name": "Tang, Jiaying",
+        "short_name": "Tang J",
+        "identifiers": [],
+        "affiliations": [
+          "National Key Laboratory of Agricultural Microbiology, Hubei Hongshan Laboratory, College of Veterinary Medicine, Huazhong Agricultural University, Wuhan430070, Hubei Province, China."
+        ]
+      },
+      {
+        "full_name": "Li, Shaowen",
+        "short_name": "Li S",
+        "identifiers": [],
+        "affiliations": [
+          "National Key Laboratory of Agricultural Microbiology, Hubei Hongshan Laboratory, College of Veterinary Medicine, Huazhong Agricultural University, Wuhan430070, Hubei Province, China."
+        ]
+      },
+      {
+        "full_name": "Li, Tingting",
+        "short_name": "Li T",
+        "identifiers": [],
+        "affiliations": [
+          "Hubei Center for Animal Disease Control and Prevention, Wuhan430070, Hubei Province, China."
+        ]
+      },
+      {
+        "full_name": "Connolly, James",
+        "short_name": "Connolly J",
+        "identifiers": [],
+        "affiliations": [
+          "Newcastle University Biosciences Institute, Newcastle University , Newcastle Upon, TyneNE2 4HH, U.K."
+        ]
+      },
+      {
+        "full_name": "Zhou, Rui",
+        "short_name": "Zhou R",
+        "identifiers": [],
+        "affiliations": [
+          "National Key Laboratory of Agricultural Microbiology, Hubei Hongshan Laboratory, College of Veterinary Medicine, Huazhong Agricultural University, Wuhan430070, Hubei Province, China.",
+          "International Research Center for Animal Disease, Ministry of Science and Technology of China, Wuhan430070, Hubei Province, China.",
+          "Cooperative Innovation Center for Sustainable Pig Production, College of Veterinary Medicine, Huazhong Agricultural University, Wuhan430070, Hubei Province, China.",
+          "The HZAU-HVSEN Institute, Wuhan430070, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Qi",
+        "short_name": "Huang Q",
+        "identifiers": [
+          "0000-0002-1600-1169"
+        ],
+        "affiliations": [
+          "National Key Laboratory of Agricultural Microbiology, Hubei Hongshan Laboratory, College of Veterinary Medicine, Huazhong Agricultural University, Wuhan430070, Hubei Province, China.",
+          "International Research Center for Animal Disease, Ministry of Science and Technology of China, Wuhan430070, Hubei Province, China.",
+          "Cooperative Innovation Center for Sustainable Pig Production, College of Veterinary Medicine, Huazhong Agricultural University, Wuhan430070, Hubei Province, China.",
+          "The HZAU-HVSEN Institute, Wuhan430070, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of agricultural and food chemistry"
+    ],
+    "journal_abbrev": [
+      "J Agric Food Chem"
+    ],
+    "pub_date": "2026 Sep 30",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42915857"
+    ],
+    "review": [
+      "42915857"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

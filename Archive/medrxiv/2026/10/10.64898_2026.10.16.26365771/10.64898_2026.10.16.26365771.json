@@ -1,0 +1,129 @@
+{
+  "source": "medrxiv",
+  "source_id": "10.64898/2026.10.16.26365771",
+  "title": "Functional architecture of rare protein coding variation across 786,871 exomes",
+  "doi": "10.64898/2026.10.16.26365771",
+  "abstract": "Protein coding variants span the gamut of structural and functional effects on proteins, and they have similarly heterogeneous effects on traits. Their functional effects can be predicted and categorized, particularly using machine learning models, and integrating these predictors benefits gene discovery. However, it remains unclear how well known structural features and predicted functional scores explain the heterogeneous effects of protein coding variants on human complex traits. We introduce the Kernel Allelic Series Model (KASM), which integrates multiple functional annotations to form a kernel describing how allelic effects within a gene covary. We apply it to exome data from 26 traits and 786,871 individuals from UK Biobank and All of Us, integrating 35 annotations describing protein structure and predicting allelic effects. We estimate that rare missense heritability is at least 1.27±0.09% on average, 1.83±0.11% under our most flexible model, exceeding pLoF heritability (0.87±0.05%) and far exceeding missense burden heritability as previously estimated (0.54±0.04%). AlphaMissense is the single most enriched missense predictor, but a composite score doubles its enrichment. A series of structural features is enriched for heritability, from amino acid chemical features and structural motifs to residue contacts and protein-protein interaction interfaces. Examining pairs of variants, we find that most missense effects are modestly correlated, but an exception is when residues are close in 3D structure but distant in 1D sequence; such pairs also covary across species. Finally, we analyze individual genes and identify gene-specific enrichments, like a 95-fold enrichment among PIEZO1 hydrogen bond residues, that nominate functional hypotheses.",
+  "authors": [
+    "Hou K",
+    "Li H",
+    "Nason E",
+    "Finucane H",
+    "Sunyaev S",
+    "O’Connor LJ"
+  ],
+  "published_date": "2026-10-21",
+  "updated_date": "",
+  "journal": "medRxiv",
+  "category": "",
+  "landing_url": "https://www.medrxiv.org/content/10.64898/2026.10.16.26365771",
+  "pdf_url": "https://www.medrxiv.org/content/10.64898/2026.10.16.26365771.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1347316",
+    "raw_record": {
+      "id": "PPR1347316",
+      "source": "PPR",
+      "doi": "10.64898/2026.10.16.26365771",
+      "title": "Functional architecture of rare protein coding variation across 786,871 exomes",
+      "authorString": "Hou K, Li H, Nason E, Finucane H, Sunyaev S, O’Connor LJ.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Hou K",
+            "lastName": "Hou",
+            "firstName": "Kangcheng",
+            "initials": "K"
+          },
+          {
+            "fullName": "Li H",
+            "lastName": "Li",
+            "firstName": "Hui",
+            "initials": "H"
+          },
+          {
+            "fullName": "Nason E",
+            "lastName": "Nason",
+            "firstName": "Emily",
+            "initials": "E"
+          },
+          {
+            "fullName": "Finucane H",
+            "lastName": "Finucane",
+            "firstName": "Hilary",
+            "initials": "H"
+          },
+          {
+            "fullName": "Sunyaev S",
+            "lastName": "Sunyaev",
+            "firstName": "Shamil",
+            "initials": "S"
+          },
+          {
+            "fullName": "O’Connor LJ",
+            "lastName": "O’Connor",
+            "firstName": "Luke",
+            "initials": "LJ"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Protein coding variants span the gamut of structural and functional effects on proteins, and they have similarly heterogeneous effects on traits. Their functional effects can be predicted and categorized, particularly using machine learning models, and integrating these predictors benefits gene discovery. However, it remains unclear how well known structural features and predicted functional scores explain the heterogeneous effects of protein coding variants on human complex traits. We introduce the Kernel Allelic Series Model (KASM), which integrates multiple functional annotations to form a kernel describing how allelic effects within a gene covary. We apply it to exome data from 26 traits and 786,871 individuals from UK Biobank and All of Us, integrating 35 annotations describing protein structure and predicting allelic effects. We estimate that rare missense heritability is at least 1.27±0.09% on average, 1.83±0.11% under our most flexible model, exceeding pLoF heritability (0.87±0.05%) and far exceeding missense burden heritability as previously estimated (0.54±0.04%). AlphaMissense is the single most enriched missense predictor, but a composite score doubles its enrichment. A series of structural features is enriched for heritability, from amino acid chemical features and structural motifs to residue contacts and protein-protein interaction interfaces. Examining pairs of variants, we find that most missense effects are modestly correlated, but an exception is when residues are close in 3D structure but distant in 1D sequence; such pairs also covary across species. Finally, we analyze individual genes and identify gene-specific enrichments, like a 95-fold enrichment among  PIEZO1 hydrogen bond residues, that nominate functional hypotheses.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "medRxiv",
+        "yearOfPublication": 2026
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "agency": "National Institute of General Medical Sciences",
+            "grantId": "R35GM155278",
+            "orderIn": 0
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.10.16.26365771"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "license": "cc by-nc-nd",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-10-22",
+      "firstPublicationDate": "2026-10-21",
+      "firstIndexDate": "2026-10-22",
+      "hasEvaluations": "N"
+    }
+  }
+}

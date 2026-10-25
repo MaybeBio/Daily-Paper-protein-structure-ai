@@ -1,0 +1,106 @@
+{
+  "identity": {
+    "pmid": "42906037",
+    "doi": "10.1021/acs.jcim.6c01396",
+    "title": "DIME: Dynamics Inferred from Monte Carlo Ensembles via Continuous-Time Markov Chains."
+  },
+  "content": {
+    "abstract": "Monte Carlo (MC) sampling and related enhanced sampling methods can efficiently explore the conformational space of complex biomolecular systems and accurately estimate equilibrium populations of conformational states. However, the absence of temporal information prevents these methods from directly describing molecular kinetics. Here we present a framework for constructing a continuous-time Markov chain (CTMC) from a static, Boltzmann-weighted ensemble, enabling the generation of physically plausible kinetic trajectories without requiring extensive molecular dynamics (MD) simulation. The method includes (i) clustering the MC ensemble into metastable discrete states whose populations define the stationary distribution, (ii) building a rate matrix over these states that satisfies detailed balance by design, with transition rates set by the free energy barriers separating the states, estimated directly from the free energy surface of the ensemble, and (iii) calibrating the absolute time scale by matching the slowest relaxation mode to a short MD reference trajectory. We validate the approach across six molecular systems spanning a broad range of complexity: n-pentane and alanine dipeptide as low-dimensional benchmarks; a WLALL pentapeptide; the achiral peptide AIB9, whose left- and right-handed helices are related by an exact symmetry that provides a reference-free test of the inferred kinetics; wild-type chignolin as a beta-hairpin folder; and the millisecond native-state dynamics of bovine pancreatic trypsin inhibitor (BPTI) from a long reference trajectory. In each case the inferred model reproduces MD-derived rate matrices, mean first-passage times, and implied time scales following a short calibration step. Since the method relies on the free energy surface, it can equally well be applied to surfaces obtained from enhanced sampling simulations, as demonstrated for alanine dipeptide using well-tempered metadynamics. The method provides a principled route to kinetic insight when MD convergence is prohibitively expensive but thermodynamic sampling is tractable and serves as a complement to existing Markov state model approaches that build kinetic models from MD data.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Monte Carlo Method",
+      "*Markov Chains",
+      "*Molecular Dynamics Simulation",
+      "Aprotinin/chemistry",
+      "Kinetics",
+      "Thermodynamics",
+      "Oligopeptides/chemistry",
+      "Protein Conformation",
+      "Dipeptides/chemistry"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Mulukutla, Krishna Praneet",
+        "Krishnan, Marimuthu"
+      ],
+      "short_names": [
+        "Mulukutla KP",
+        "Krishnan M"
+      ],
+      "auids": [
+        "ORCID: 0009-0006-7821-2080",
+        "ORCID: 0000-0002-2549-919X"
+      ],
+      "affiliations": [
+        "Center for Computational Natural Sciences and Bioinformatics (CCNSB), International Institute of Information Technology, Hyderabad, Telangana500032, India.",
+        "Center for Computational Natural Sciences and Bioinformatics (CCNSB), International Institute of Information Technology, Hyderabad, Telangana500032, India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Mulukutla, Krishna Praneet",
+        "short_name": "Mulukutla KP",
+        "identifiers": [
+          "0009-0006-7821-2080"
+        ],
+        "affiliations": [
+          "Center for Computational Natural Sciences and Bioinformatics (CCNSB), International Institute of Information Technology, Hyderabad, Telangana500032, India."
+        ]
+      },
+      {
+        "full_name": "Krishnan, Marimuthu",
+        "short_name": "Krishnan M",
+        "identifiers": [
+          "0000-0002-2549-919X"
+        ],
+        "affiliations": [
+          "Center for Computational Natural Sciences and Bioinformatics (CCNSB), International Institute of Information Technology, Hyderabad, Telangana500032, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of chemical information and modeling"
+    ],
+    "journal_abbrev": [
+      "J Chem Inf Model"
+    ],
+    "pub_date": "2026 Sep 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/22 23:29",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42906037"
+    ],
+    "review": [
+      "42906037"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/jcisd8/article-lookup/doi/10.1021/acs.jcim.6c01396",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "identity": {
+    "pmid": "42917128",
+    "doi": "10.1021/acs.biochem.6c00511",
+    "title": "Photoactivated Cross-Linking Mass Spectrometry for Probing Multidomain Protein Dynamics in Inducible Nitric Oxide Synthase."
+  },
+  "content": {
+    "abstract": "Cross-linking mass spectrometry (XL-MS) with photoactivatable reagents has been increasingly applied to probe protein conformational dynamics; however, its sensitivity to shifts in conformational equilibrium involving transient, sparsely populated docked states within multidomain proteins remains largely unexplored. Mammalian nitric oxide synthase (NOS), a family of modular redox enzymes, relies on large-amplitude FMN domain swinging motions and local, dynamic interdomain FMN-heme docking to function. This makes it a stringent test case for evaluating how sensitive photoactivated XL-MS is to shifts in the docking equilbrium. In our previous work, quantitative XL-MS using the primarily lysine-reactive homobifunctional cross-linker DSBU revealed E546N mutation-induced decreases in specific intersubunit FMN-heme cross-links in an oxygenase/FMN construct of human inducible NOS (iNOS). Here, we extended these XL-MS studies to sulfo-SDA, a heterobifunctional, photoactivatable cross-linker with ultrafast reactivity and broad residue specificity. SDA captured interdomain FMN-heme cross-links at the docking interfaces but, unlike DSBU, did not reveal statistically robust changes in the abundances of these cross-links between wild-type and E546N mutant. SDA produced a higher proportion of dead-end labeling products for iNOS oxyFMN proteins, particularly the E546N mutant, than for the conformationally stable protein BSA. Moreover, the SDA cross-link distance restraints were largely satisfied by a minimal subset of docked states with distinct FMN domain orientations, whereas DSBU cross-links require a combination of docked and undocked conformations for optimal restraint satisfaction. These findings reflect the short effective distance range and near-instantaneous reactivity of SDA, which restrict FMN-heme cross-link formation to a narrow subset of transient docking states. Taken together, these results underscore the importance of selecting appropriate cross-linking reagents and employing complementary cross-linkers to define the conformational landscapes of dynamic multidomain proteins.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "*Nitric Oxide Synthase Type II/chemistry/metabolism/genetics",
+      "*Cross-Linking Reagents/chemistry",
+      "*Mass Spectrometry/methods",
+      "Flavin Mononucleotide/chemistry/metabolism",
+      "Protein Domains",
+      "Protein Conformation",
+      "Heme/chemistry/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Jiang, Ting",
+        "Zhang, Haikun",
+        "Gyawali, Yadav Prasad",
+        "Owopetu, Rebecca",
+        "Lee, Kanghyun",
+        "Feng, Changjian"
+      ],
+      "short_names": [
+        "Jiang T",
+        "Zhang H",
+        "Gyawali YP",
+        "Owopetu R",
+        "Lee K",
+        "Feng C"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-4542-6497"
+      ],
+      "affiliations": [
+        "College of Pharmacy, University of New Mexico, Albuquerque, New Mexico87131, United States.",
+        "College of Pharmacy, University of New Mexico, Albuquerque, New Mexico87131, United States.",
+        "College of Pharmacy, University of New Mexico, Albuquerque, New Mexico87131, United States.",
+        "College of Pharmacy, University of New Mexico, Albuquerque, New Mexico87131, United States.",
+        "Department of Chemistry and Chemical Biology, University of New Mexico, Albuquerque, New Mexico87131, United States.",
+        "Institute for Neurodegenerative Diseases, University of California, San Francisco, San Francisco, California94158, United States.",
+        "Department of Biochemistry and Biophysics, University of California, San Francisco, San Francisco, California94158, United States.",
+        "College of Pharmacy, University of New Mexico, Albuquerque, New Mexico87131, United States.",
+        "Department of Chemistry and Chemical Biology, University of New Mexico, Albuquerque, New Mexico87131, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Jiang, Ting",
+        "short_name": "Jiang T",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, University of New Mexico, Albuquerque, New Mexico87131, United States."
+        ]
+      },
+      {
+        "full_name": "Zhang, Haikun",
+        "short_name": "Zhang H",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, University of New Mexico, Albuquerque, New Mexico87131, United States."
+        ]
+      },
+      {
+        "full_name": "Gyawali, Yadav Prasad",
+        "short_name": "Gyawali YP",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, University of New Mexico, Albuquerque, New Mexico87131, United States."
+        ]
+      },
+      {
+        "full_name": "Owopetu, Rebecca",
+        "short_name": "Owopetu R",
+        "identifiers": [],
+        "affiliations": [
+          "College of Pharmacy, University of New Mexico, Albuquerque, New Mexico87131, United States.",
+          "Department of Chemistry and Chemical Biology, University of New Mexico, Albuquerque, New Mexico87131, United States."
+        ]
+      },
+      {
+        "full_name": "Lee, Kanghyun",
+        "short_name": "Lee K",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Neurodegenerative Diseases, University of California, San Francisco, San Francisco, California94158, United States.",
+          "Department of Biochemistry and Biophysics, University of California, San Francisco, San Francisco, California94158, United States."
+        ]
+      },
+      {
+        "full_name": "Feng, Changjian",
+        "short_name": "Feng C",
+        "identifiers": [
+          "0000-0003-4542-6497"
+        ],
+        "affiliations": [
+          "College of Pharmacy, University of New Mexico, Albuquerque, New Mexico87131, United States.",
+          "Department of Chemistry and Chemical Biology, University of New Mexico, Albuquerque, New Mexico87131, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biochemistry"
+    ],
+    "journal_abbrev": [
+      "Biochemistry"
+    ],
+    "pub_date": "2026 Oct 6",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42917128"
+    ],
+    "review": [
+      "42917128"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

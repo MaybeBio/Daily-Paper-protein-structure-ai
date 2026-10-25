@@ -1,0 +1,135 @@
+{
+  "identity": {
+    "pmid": "42912926",
+    "doi": "10.1021/acs.jcim.6c01419",
+    "title": "Cholesterol Hot Spot Automated Mapping Protocol (CHAMP): Identifying Cholesterol-Binding Hot Spots in Membrane Proteins."
+  },
+  "content": {
+    "abstract": "Biological membranes are dynamic and heterogeneous environments that actively influence protein structure and function. Cholesterol, in particular, has been widely reported to modulate membrane proteins through binding to specific interaction sites. However, the identification of these sites remains challenging due to the intrinsic complexity and dynamics of lipid bilayers, especially when multiple systems and membrane environments are considered. Here, we present CHAMP (Cholesterol hot spot automated mapping protocol), an automated Python-based workflow that combines coarse-grained molecular dynamics simulations with a dual analysis based on contact persistence and spatial density to identify cholesterol-binding hot spots at protein-membrane interfaces. The protocol requires limited user intervention and is designed to enable consistent and reproducible analyses across different targets. We validated CHAMP on the serotonin transporter and the cannabinoid receptor 1 (CB1), where it recovers known cholesterol-binding regions reported in experimental and computational studies. In the CB1 system, the method also identifies a potential additional interaction site. To assess the generality of the approach, we applied the protocol to the CB1 negative allosteric modulator Org27569, showing that it can capture relevant interaction hot spots beyond sterol molecules. Overall, CHAMP provides a practical framework for mapping interaction hot spots at protein-membrane interfaces and may support large-scale and comparative studies of membrane proteins. Limitations of the current implementation and possible extensions are discussed.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Cholesterol/metabolism",
+      "*Molecular Dynamics Simulation",
+      "*Receptor, Cannabinoid, CB1/metabolism/chemistry",
+      "Protein Binding",
+      "*Membrane Proteins/metabolism/chemistry",
+      "Automation",
+      "*Serotonin Plasma Membrane Transport Proteins/metabolism/chemistry",
+      "Binding Sites"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Sotillo-Nunez, David",
+        "Nardi Cesarini, Matteo",
+        "Elisi, Gian Marco",
+        "Bernetti, Mattia",
+        "Bottegoni, Giovanni"
+      ],
+      "short_names": [
+        "Sotillo-Nunez D",
+        "Nardi Cesarini M",
+        "Elisi GM",
+        "Bernetti M",
+        "Bottegoni G"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-9071-5621",
+        "ORCID: 0000-0002-4373-9310",
+        "ORCID: 0000-0003-1251-583X"
+      ],
+      "affiliations": [
+        "Department of Biomolecular Sciences, Universita degli Studi di Urbino Carlo Bo, Via Ca' Le Suore, 2/4, Urbino61029, Italy.",
+        "Department of Biomolecular Sciences, Universita degli Studi di Urbino Carlo Bo, Via Ca' Le Suore, 2/4, Urbino61029, Italy.",
+        "Department of Biomolecular Sciences, Universita degli Studi di Urbino Carlo Bo, Via Ca' Le Suore, 2/4, Urbino61029, Italy.",
+        "Department of Biomolecular Sciences, Universita degli Studi di Urbino Carlo Bo, Via Ca' Le Suore, 2/4, Urbino61029, Italy.",
+        "Department of Biomolecular Sciences, Universita degli Studi di Urbino Carlo Bo, Via Ca' Le Suore, 2/4, Urbino61029, Italy.",
+        "School of Pharmacy, University of Birmingham, Edgbaston, BirminghamB15 2TT, U.K."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Sotillo-Núñez, David",
+        "short_name": "Sotillo-Núñez D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomolecular Sciences, Università degli Studi di Urbino Carlo Bo, Via Ca' Le Suore, 2/4, Urbino61029, Italy."
+        ]
+      },
+      {
+        "full_name": "Nardi Cesarini, Matteo",
+        "short_name": "Nardi Cesarini M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomolecular Sciences, Università degli Studi di Urbino Carlo Bo, Via Ca' Le Suore, 2/4, Urbino61029, Italy."
+        ]
+      },
+      {
+        "full_name": "Elisi, Gian Marco",
+        "short_name": "Elisi GM",
+        "identifiers": [
+          "0000-0001-9071-5621"
+        ],
+        "affiliations": [
+          "Department of Biomolecular Sciences, Università degli Studi di Urbino Carlo Bo, Via Ca' Le Suore, 2/4, Urbino61029, Italy."
+        ]
+      },
+      {
+        "full_name": "Bernetti, Mattia",
+        "short_name": "Bernetti M",
+        "identifiers": [
+          "0000-0002-4373-9310"
+        ],
+        "affiliations": [
+          "Department of Biomolecular Sciences, Università degli Studi di Urbino Carlo Bo, Via Ca' Le Suore, 2/4, Urbino61029, Italy."
+        ]
+      },
+      {
+        "full_name": "Bottegoni, Giovanni",
+        "short_name": "Bottegoni G",
+        "identifiers": [
+          "0000-0003-1251-583X"
+        ],
+        "affiliations": [
+          "Department of Biomolecular Sciences, Università degli Studi di Urbino Carlo Bo, Via Ca' Le Suore, 2/4, Urbino61029, Italy.",
+          "School of Pharmacy, University of Birmingham, Edgbaston, BirminghamB15 2TT, U.K."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of chemical information and modeling"
+    ],
+    "journal_abbrev": [
+      "J Chem Inf Model"
+    ],
+    "pub_date": "2026 Oct 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 18:31",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42912926"
+    ],
+    "review": [
+      "42912926"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

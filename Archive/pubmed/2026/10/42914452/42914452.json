@@ -1,0 +1,166 @@
+{
+  "identity": {
+    "pmid": "42914452",
+    "doi": "10.1016/j.foodres.2026.120766",
+    "title": "Mechanistic insights into ultrasound-enhanced myosin-ethyl ester binding: structural modulation and molecular interactions."
+  },
+  "content": {
+    "abstract": "The retention of aromatic and straight-chain ethyl esters governs consumer acceptability of sauced and dry-cured meats, yet the structural mechanisms of ultrasound-regulated protein-flavor interactions remain poorly understood. Herein, the effects of ultrasonic power (0-400 W) on the binding behavior between myosin and five ethyl esters were investigated via multi-spectroscopy, SPME-GC, molecular docking and NMR spectroscopy. Relative to the control group, 300 W ultrasonic treatment increased total sulfhydryl content by 6.9% and BPB-binding capacity by 16.1%, indicative of enhanced conformational unfolding and surface hydrophobicity of myosin. Such structural rearrangement maximized ester-binding performance, where ethyl benzoate retention reached 2.13-fold of the control under 300 W sonication. Thermodynamic analyses revealed that spontaneous myosin-ester binding was exothermic and mainly enthalpy-driven, with hydrogen bonds and van der Waals forces serving as the major driving forces. Molecular docking further demonstrated that hydrophobic contacts promoted ligand embedding within newly exposed binding pockets and jointly stabilized myosin-ester complexes. Furthermore, (1)H and 2D TOCSY-NMR verified that 300 W ultrasound exposed specific binding sites including isoleucine, threonine and proline residues, contributing to the highest retention of ethyl benzoate across all treatments. Collectively, moderate ultrasonic treatment remodels the spatial conformation of myosin to expose critical active sites, thereby substantially improving its binding capacity toward ethyl esters. This work provides molecular-level theoretical support for targeted flavor regulation in protein-rich food systems.",
+    "keywords": [
+      "Conformational change",
+      "Flavor binding",
+      "Molecular interaction",
+      "Myosin",
+      "Ultrasound"
+    ],
+    "mesh_terms": [
+      "*Myosins/chemistry/metabolism",
+      "Molecular Docking Simulation",
+      "*Esters/chemistry/metabolism",
+      "Hydrophobic and Hydrophilic Interactions",
+      "Binding Sites",
+      "Animals",
+      "Protein Binding",
+      "Thermodynamics",
+      "Magnetic Resonance Spectroscopy",
+      "*Sonication",
+      "Hydrogen Bonding",
+      "Protein Conformation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yin, Jinyue",
+        "Zhang, Junke",
+        "Wang, Ying",
+        "Xia, Qiang",
+        "Pan, Daodong",
+        "Sun, Yangying",
+        "Cao, Jinxuan",
+        "Zhou, Changyu"
+      ],
+      "short_names": [
+        "Yin J",
+        "Zhang J",
+        "Wang Y",
+        "Xia Q",
+        "Pan D",
+        "Sun Y",
+        "Cao J",
+        "Zhou C"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Zhejiang Key Laboratory of Intelligent Food Logistic and Processing; Zhejiang-Malaysia Joint Research Laboratory for Agricultural Product Processing and Nutrition; College of Food Science and Engineering, Ningbo University, Ningbo 315211, China.",
+        "Zhejiang Key Laboratory of Intelligent Food Logistic and Processing; Zhejiang-Malaysia Joint Research Laboratory for Agricultural Product Processing and Nutrition; College of Food Science and Engineering, Ningbo University, Ningbo 315211, China.",
+        "School of Food and Health, Beijing Technology and Business University (BTBU), Beijing, Beijing 100048, China.",
+        "Zhejiang Key Laboratory of Intelligent Food Logistic and Processing; Zhejiang-Malaysia Joint Research Laboratory for Agricultural Product Processing and Nutrition; College of Food Science and Engineering, Ningbo University, Ningbo 315211, China.",
+        "Zhejiang Key Laboratory of Intelligent Food Logistic and Processing; Zhejiang-Malaysia Joint Research Laboratory for Agricultural Product Processing and Nutrition; College of Food Science and Engineering, Ningbo University, Ningbo 315211, China.",
+        "Zhejiang Key Laboratory of Intelligent Food Logistic and Processing; Zhejiang-Malaysia Joint Research Laboratory for Agricultural Product Processing and Nutrition; College of Food Science and Engineering, Ningbo University, Ningbo 315211, China.",
+        "School of Food and Health, Beijing Technology and Business University (BTBU), Beijing, Beijing 100048, China. Electronic address: caojinxuan@btbu.edu.cn.",
+        "Zhejiang Key Laboratory of Intelligent Food Logistic and Processing; Zhejiang-Malaysia Joint Research Laboratory for Agricultural Product Processing and Nutrition; College of Food Science and Engineering, Ningbo University, Ningbo 315211, China. Electronic address: zhouchangyu@nbu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yin, Jinyue",
+        "short_name": "Yin J",
+        "identifiers": [],
+        "affiliations": [
+          "Zhejiang Key Laboratory of Intelligent Food Logistic and Processing; Zhejiang-Malaysia Joint Research Laboratory for Agricultural Product Processing and Nutrition; College of Food Science and Engineering, Ningbo University, Ningbo 315211, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Junke",
+        "short_name": "Zhang J",
+        "identifiers": [],
+        "affiliations": [
+          "Zhejiang Key Laboratory of Intelligent Food Logistic and Processing; Zhejiang-Malaysia Joint Research Laboratory for Agricultural Product Processing and Nutrition; College of Food Science and Engineering, Ningbo University, Ningbo 315211, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Ying",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Food and Health, Beijing Technology and Business University (BTBU), Beijing, Beijing 100048, China."
+        ]
+      },
+      {
+        "full_name": "Xia, Qiang",
+        "short_name": "Xia Q",
+        "identifiers": [],
+        "affiliations": [
+          "Zhejiang Key Laboratory of Intelligent Food Logistic and Processing; Zhejiang-Malaysia Joint Research Laboratory for Agricultural Product Processing and Nutrition; College of Food Science and Engineering, Ningbo University, Ningbo 315211, China."
+        ]
+      },
+      {
+        "full_name": "Pan, Daodong",
+        "short_name": "Pan D",
+        "identifiers": [],
+        "affiliations": [
+          "Zhejiang Key Laboratory of Intelligent Food Logistic and Processing; Zhejiang-Malaysia Joint Research Laboratory for Agricultural Product Processing and Nutrition; College of Food Science and Engineering, Ningbo University, Ningbo 315211, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Yangying",
+        "short_name": "Sun Y",
+        "identifiers": [],
+        "affiliations": [
+          "Zhejiang Key Laboratory of Intelligent Food Logistic and Processing; Zhejiang-Malaysia Joint Research Laboratory for Agricultural Product Processing and Nutrition; College of Food Science and Engineering, Ningbo University, Ningbo 315211, China."
+        ]
+      },
+      {
+        "full_name": "Cao, Jinxuan",
+        "short_name": "Cao J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Food and Health, Beijing Technology and Business University (BTBU), Beijing, Beijing 100048, China. Electronic address: caojinxuan@btbu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Zhou, Changyu",
+        "short_name": "Zhou C",
+        "identifiers": [],
+        "affiliations": [
+          "Zhejiang Key Laboratory of Intelligent Food Logistic and Processing; Zhejiang-Malaysia Joint Research Laboratory for Agricultural Product Processing and Nutrition; College of Food Science and Engineering, Ningbo University, Ningbo 315211, China. Electronic address: zhouchangyu@nbu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Food research international (Ottawa, Ont.)"
+    ],
+    "journal_abbrev": [
+      "Food Res Int"
+    ],
+    "pub_date": "2026 Dec 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42914452"
+    ],
+    "review": [
+      "42914452"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

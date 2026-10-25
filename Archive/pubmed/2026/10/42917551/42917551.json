@@ -1,0 +1,113 @@
+{
+  "identity": {
+    "pmid": "42917551",
+    "doi": "10.1021/acs.jpcb.6c03535",
+    "title": "Structural Dynamics and Optical Spectra of the Phycobiliprotein PC612 Complex."
+  },
+  "content": {
+    "abstract": "Phycocyanin 612 (PC612) is a light-harvesting complex found in cryptophyte algae, characterized by its distinct open structure and flexible protein conformation, allowing the algae to survive in low-light aqueous environments. Although cryptophyte algae are known to show a diverse range of spectroscopic properties, the complex electronic structures and photophysical properties of their pigment molecules, known as bilins, are not yet fully understood, particularly in terms of how the surrounding protein environment influences them. In this study, we performed quantum mechanics/molecular mechanics simulations with excited-state calculations utilizing a numerically efficient density functional tight-binding method to examine the structural dynamics and optical features of bilin molecules within an open-form PC612 complex. Our results indicate that the protein matrix significantly controls the fluctuations of excitation energies and excitonic couplings of the pigment network. Very different from (bacterio)chlorophyll-containing systems, thermal fluctuations induced by the environment have a minimal effect on the pigment spectral densities due to similar electron density distributions in the ground and excited states. The computed absorption spectra, calculated at different temperatures, are in reasonable agreement with the experimental counterparts, accurately predicting the relative peak positions and confirming the validity of our findings.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Molecular Dynamics Simulation",
+      "Cryptophyta/chemistry",
+      "*Phycobiliproteins/chemistry",
+      "Quantum Theory",
+      "*Phycocyanin/chemistry",
+      "Quantum Mechanics",
+      "Density Functional Theory",
+      "Protein Conformation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Lyu, Dongyu",
+        "Maity, Sayan",
+        "Kleinekathofer, Ulrich"
+      ],
+      "short_names": [
+        "Lyu D",
+        "Maity S",
+        "Kleinekathofer U"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-8333-3422",
+        "ORCID: 0000-0002-8758-594X",
+        "ORCID: 0000-0002-6114-7431"
+      ],
+      "affiliations": [
+        "School of Science, Constructor University, Campus Ring 1, 28759Bremen, Germany.",
+        "School of Science, Constructor University, Campus Ring 1, 28759Bremen, Germany.",
+        "Department of Physics and Astronomy and Thomas Young Centre, University College London, LondonWC1E 6BT, U.K.",
+        "School of Science, Constructor University, Campus Ring 1, 28759Bremen, Germany."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Lyu, Dongyu",
+        "short_name": "Lyu D",
+        "identifiers": [
+          "0000-0001-8333-3422"
+        ],
+        "affiliations": [
+          "School of Science, Constructor University, Campus Ring 1, 28759Bremen, Germany."
+        ]
+      },
+      {
+        "full_name": "Maity, Sayan",
+        "short_name": "Maity S",
+        "identifiers": [
+          "0000-0002-8758-594X"
+        ],
+        "affiliations": [
+          "School of Science, Constructor University, Campus Ring 1, 28759Bremen, Germany.",
+          "Department of Physics and Astronomy and Thomas Young Centre, University College London, LondonWC1E 6BT, U.K."
+        ]
+      },
+      {
+        "full_name": "Kleinekathöfer, Ulrich",
+        "short_name": "Kleinekathöfer U",
+        "identifiers": [
+          "0000-0002-6114-7431"
+        ],
+        "affiliations": [
+          "School of Science, Constructor University, Campus Ring 1, 28759Bremen, Germany."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The journal of physical chemistry. B"
+    ],
+    "journal_abbrev": [
+      "J Phys Chem B"
+    ],
+    "pub_date": "2026 Sep 24",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:32",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42917551"
+    ],
+    "review": [
+      "42917551"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

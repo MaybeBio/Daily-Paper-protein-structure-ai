@@ -1,0 +1,146 @@
+{
+  "identity": {
+    "pmid": "42917187",
+    "doi": "10.1021/acs.jpcb.6c04549",
+    "title": "Microtubule Binding of a Tau Peptide Monitored through Fluorine NMR Probes."
+  },
+  "content": {
+    "abstract": "Binding of tau protein to microtubule (MT) supports the stability and cellular functions of MT. Aberrations in tau-MT binding are linked to several neurodegenerative diseases. Little is known about how regions outside the four canonical MT-binding repeat regions of tau protein (R1-R4) are involved in MT binding. Here, we synthesize a tau protein fragment (tau368-412, R' domain), a flanking domain downstream of the R4 domain, without and with fluorine labels incorporated at its aromatic (Phe378, Tyr394) and proline (Pro397, Pro405, with 2S,4R stereochemistry) residues. The 1H and 13C chemical shift data point to slight secondary structural propensities in tau peptide and confirm that its predominantly disordered structure is largely preserved after fluorination. The NMR chemical shift and NOESY data detect and quantify cis-Pro at Pro397 and Pro405 positions, and the MD simulation data suggest that the cis/trans isomerization of these two prolines could alter the conformational ensemble of the tau peptide. Through combined 1H and 13C NMR chemical shift and 19F chemical shift, relaxation, and dark-state exchange saturation transfer (DEST) analyses, we reveal a rapid exchange process between free tau peptide and a lowly populated MT-bound state that occurs on a submillisecond time scale (tauex  approximately  500 mus). The 19F DEST data also demonstrate that the MT binding predominantly occurs at the N-terminal region of the tau peptide adjacent to the canonical R4 domain and that it retains a large level of side-chain dynamics in the MT-bound state. Our study provides mechanistic insight into tau-MT binding and exemplifies how novel 19F NMR-based methods enable investigating proteins in the context of challenging large systems.",
+    "keywords": [],
+    "mesh_terms": [
+      "*tau Proteins/chemistry/metabolism",
+      "*Fluorine/chemistry",
+      "*Microtubules/metabolism/chemistry",
+      "Protein Binding",
+      "Nuclear Magnetic Resonance, Biomolecular",
+      "Molecular Dynamics Simulation",
+      "Magnetic Resonance Spectroscopy",
+      "Humans",
+      "Binding Sites"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chakrabarti, Kalyan S",
+        "Russo, Luigi",
+        "Dhar, Dipendu",
+        "Overkamp, Kerstin",
+        "Davari, Mehdi D",
+        "Rezaei-Ghaleh, Nasrollah"
+      ],
+      "short_names": [
+        "Chakrabarti KS",
+        "Russo L",
+        "Dhar D",
+        "Overkamp K",
+        "Davari MD",
+        "Rezaei-Ghaleh N"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-0089-7156",
+        "ORCID: 0000-0001-6935-6564"
+      ],
+      "affiliations": [
+        "Department of Biological Science and Chemistry, SIAS, Krea University, Sri City517646, Andhra Pradesh, India.",
+        "Department of Environmental, Biological and Pharmaceutical Science and Technology, University of Campania-Luigi Vanvitelli, Viale Abramo Lincoln 5, 81100Caserta, Italy.",
+        "Department of Bioorganic Chemistry, Leibniz Institute of Plant Biochemistry, Weinberg 3, 06120Halle, Germany.",
+        "Department of NMR-based Structural Biology, Max Planck Institute for Multidisciplinary Sciences, Am Fassberg 11, 37077Gottingen, Germany.",
+        "Department of Bioorganic Chemistry, Leibniz Institute of Plant Biochemistry, Weinberg 3, 06120Halle, Germany.",
+        "Department of Molecular Medicine, University of Pavia, Via Ferrata 9, 27100Pavia, Italy.",
+        "Faculty of Mathematics and Natural Sciences, Institute of Physical Biology, Heinrich Heine University (HHU) Dusseldorf, Universitatsstrasse 1, 40225Dusseldorf, Germany.",
+        "Institute of Biological Information Processing, IBI-7: Structural Biochemistry, Julich Forschungszentrum, 52428Julich, Germany."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chakrabarti, Kalyan S",
+        "short_name": "Chakrabarti KS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biological Science and Chemistry, SIAS, Krea University, Sri City517646, Andhra Pradesh, India."
+        ]
+      },
+      {
+        "full_name": "Russo, Luigi",
+        "short_name": "Russo L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Environmental, Biological and Pharmaceutical Science and Technology, University of Campania-Luigi Vanvitelli, Viale Abramo Lincoln 5, 81100Caserta, Italy."
+        ]
+      },
+      {
+        "full_name": "Dhar, Dipendu",
+        "short_name": "Dhar D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bioorganic Chemistry, Leibniz Institute of Plant Biochemistry, Weinberg 3, 06120Halle, Germany."
+        ]
+      },
+      {
+        "full_name": "Overkamp, Kerstin",
+        "short_name": "Overkamp K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of NMR-based Structural Biology, Max Planck Institute for Multidisciplinary Sciences, Am Faßberg 11, 37077Göttingen, Germany."
+        ]
+      },
+      {
+        "full_name": "Davari, Mehdi D",
+        "short_name": "Davari MD",
+        "identifiers": [
+          "0000-0003-0089-7156"
+        ],
+        "affiliations": [
+          "Department of Bioorganic Chemistry, Leibniz Institute of Plant Biochemistry, Weinberg 3, 06120Halle, Germany."
+        ]
+      },
+      {
+        "full_name": "Rezaei-Ghaleh, Nasrollah",
+        "short_name": "Rezaei-Ghaleh N",
+        "identifiers": [
+          "0000-0001-6935-6564"
+        ],
+        "affiliations": [
+          "Department of Molecular Medicine, University of Pavia, Via Ferrata 9, 27100Pavia, Italy.",
+          "Faculty of Mathematics and Natural Sciences, Institute of Physical Biology, Heinrich Heine University (HHU) Düsseldorf, Universitätsstraße 1, 40225Düsseldorf, Germany.",
+          "Institute of Biological Information Processing, IBI-7: Structural Biochemistry, Jülich Forschungszentrum, 52428Jülich, Germany."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The journal of physical chemistry. B"
+    ],
+    "journal_abbrev": [
+      "J Phys Chem B"
+    ],
+    "pub_date": "2026 Oct 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42917187"
+    ],
+    "review": [
+      "42917187"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

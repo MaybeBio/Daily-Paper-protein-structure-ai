@@ -1,0 +1,127 @@
+{
+  "identity": {
+    "pmid": "42912925",
+    "doi": "10.1021/acs.jcim.6c01952",
+    "title": "From Closed to Mighty: How GTP-Induced Allosteric Dynamics, Dimerization, and Membrane Binding Transform a Bacterial Dynamin-like Protein."
+  },
+  "content": {
+    "abstract": "Dynamins, crucial GTPases involved in membrane remodeling, play key roles in processes like endocytosis and membrane fission. While their importance is well-established, the precise dynamics of their conformational changes remain unclear. This study investigates the bacterial dynamin-like protein (BDLP) from Nostoc punctiforme, which undergoes a dramatic closed-to-open transition upon GTP binding. Using standard and enhanced all-atom molecular dynamics simulations, we map this transition, revealing a complex energetic landscape. The initial barrier arises from disruption of salt bridges formed by the GTPase domain with the trunk and paddle, setting off the main hinge motion. Subsequent conformational changes involve further hinge motions and lateral shearing to minimize electrostatic forces. Notably, GTP binding accelerates the transition by 5 orders of magnitude through an allosteric mechanism. Our multiscale simulations of 37.1 mus accumulated simulation time show that BDLP dimerization and membrane binding are necessary to initiate the stabilization of the open conformation. These findings provide crucial insights into BDLP's membrane remodeling mechanism, advancing our understanding of dynamin dynamics.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Molecular Dynamics Simulation",
+      "*Guanosine Triphosphate/metabolism",
+      "*Dynamins/chemistry/metabolism",
+      "Allosteric Regulation",
+      "*Protein Multimerization",
+      "*Bacterial Proteins/chemistry/metabolism",
+      "*Nostoc/metabolism/chemistry",
+      "*Cell Membrane/metabolism",
+      "Protein Binding",
+      "Protein Conformation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Schumann, Wibke",
+        "Bundschuh, Bastian F",
+        "Loschwitz, Jennifer",
+        "Strodel, Birgit"
+      ],
+      "short_names": [
+        "Schumann W",
+        "Bundschuh BF",
+        "Loschwitz J",
+        "Strodel B"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-7576-0499",
+        "ORCID: 0000-0002-8734-7765"
+      ],
+      "affiliations": [
+        "Faculty of Mathematics and Natural Sciences, Heinrich Heine University Dusseldorf, 40225Dusseldorf, Germany.",
+        "Faculty of Mathematics and Natural Sciences, Heinrich Heine University Dusseldorf, 40225Dusseldorf, Germany.",
+        "Institute of Biological Information Processing: Structural Biochemistry, Forschungszentrum Julich, 52428Julich, Germany.",
+        "Faculty of Mathematics and Natural Sciences, Heinrich Heine University Dusseldorf, 40225Dusseldorf, Germany.",
+        "Faculty of Mathematics and Natural Sciences, Heinrich Heine University Dusseldorf, 40225Dusseldorf, Germany.",
+        "Institute of Biological Information Processing: Structural Biochemistry, Forschungszentrum Julich, 52428Julich, Germany."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Schumann, Wibke",
+        "short_name": "Schumann W",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Mathematics and Natural Sciences, Heinrich Heine University Düsseldorf, 40225Düsseldorf, Germany."
+        ]
+      },
+      {
+        "full_name": "Bundschuh, Bastian F",
+        "short_name": "Bundschuh BF",
+        "identifiers": [
+          "0000-0002-7576-0499"
+        ],
+        "affiliations": [
+          "Faculty of Mathematics and Natural Sciences, Heinrich Heine University Düsseldorf, 40225Düsseldorf, Germany.",
+          "Institute of Biological Information Processing: Structural Biochemistry, Forschungszentrum Jülich, 52428Jülich, Germany."
+        ]
+      },
+      {
+        "full_name": "Loschwitz, Jennifer",
+        "short_name": "Loschwitz J",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Mathematics and Natural Sciences, Heinrich Heine University Düsseldorf, 40225Düsseldorf, Germany."
+        ]
+      },
+      {
+        "full_name": "Strodel, Birgit",
+        "short_name": "Strodel B",
+        "identifiers": [
+          "0000-0002-8734-7765"
+        ],
+        "affiliations": [
+          "Faculty of Mathematics and Natural Sciences, Heinrich Heine University Düsseldorf, 40225Düsseldorf, Germany.",
+          "Institute of Biological Information Processing: Structural Biochemistry, Forschungszentrum Jülich, 52428Jülich, Germany."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of chemical information and modeling"
+    ],
+    "journal_abbrev": [
+      "J Chem Inf Model"
+    ],
+    "pub_date": "2026 Oct 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 18:31",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42912925"
+    ],
+    "review": [
+      "42912925"
+    ],
+    "pmc": [
+      "13663481"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

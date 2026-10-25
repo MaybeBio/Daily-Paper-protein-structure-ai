@@ -1,0 +1,96 @@
+{
+  "identity": {
+    "pmid": "42906387",
+    "doi": "10.1016/j.ejmech.2026.119442",
+    "title": "AlphaFold-driven structure-based drug discovery: Capabilities, benchmarks and limitations for medicinal chemistry."
+  },
+  "content": {
+    "abstract": "Structure-based drug discovery (SBDD) has become an indispensable tool of medicinal chemistry due to the possibility of rational drug design based on the three-dimensional structure of the biological target. Nevertheless, the use of SBDD technology has been restricted due to the scarcity of known experimentally solved structures of the proteins that are the targets of drug action, especially those which are difficult to characterize, poorly understood and associated with diseases. Artificial Intelligence (AI)-based protein structure prediction technologies, such as AlphaFold, have substantially expanded structural biology by generating high-confidence predicted structures for a large fraction of the known proteome, although prediction confidence and accuracy vary considerably by target and by region within a target. This review covers the aspects of SBDD approach, traditional methods of protein structure determination and limitations that have restricted the application of this methodology. Additionally, this review addresses the use of AlphaFold models in major drug discovery processes including target identification, binding site prediction, molecular docking, virtual screening, lead optimization and structure-activity relationships (SAR). The possible utilization of AlphaFold in different areas of medicine, including oncology, antimicrobial resistance, neurodegenerative diseases and targeted protein degradation, is mentioned. Moreover, the collaboration of AlphaFold with new computational technologies, such as machine learning, generative artificial intelligence, molecular dynamics and multi-omics analysis, is described. An evidence-graded decision framework specifies when predicted structures are likely to suffice for hit finding, SAR interpretation, selectivity optimization, fragment-based design and degrader design and where quantitative evidence is still lacking. Even though AlphaFold has substantially advanced the field for example, in a prospective screen against the G protein-coupled receptor (GPCR) TAAR1, docking to AlphaFold2 models gave a 60% hit rate versus 22% for a homology model and a workflow combining an AlphaFold model with generative chemistry against the kinase CDK20 yielded a compound with an IC50 of 33.4 nM and an approximately eightfold antiproliferative selectivity window between cell lines-problems related to protein flexibility, conformational changes of proteins due to ligands, binding affinity prediction and biological complexity cannot be neglected and predicted structures still require experimental validation before guiding synthesis.",
+    "keywords": [
+      "AlphaFold",
+      "Artificial intelligence",
+      "Computational drug discovery",
+      "Generative AI",
+      "Molecular docking",
+      "Protein structure prediction",
+      "Structure-based drug discovery",
+      "Virtual screening"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Pathak, Manish"
+      ],
+      "short_names": [
+        "Pathak M"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Pharmaceutical Chemistry, Faculty of Pharmacy, Swami Vivekanand Subharti University, Meerut, Uttar Pradesh, 250005, India. Electronic address: manishpharm01@gmail.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Pathak, Manish",
+        "short_name": "Pathak M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmaceutical Chemistry, Faculty of Pharmacy, Swami Vivekanand Subharti University, Meerut, Uttar Pradesh, 250005, India. Electronic address: manishpharm01@gmail.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "European journal of medicinal chemistry"
+    ],
+    "journal_abbrev": [
+      "Eur J Med Chem"
+    ],
+    "pub_date": "2026 Oct 17",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/22 23:29",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42906387"
+    ],
+    "review": [
+      "42906387"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0223-5234(26)00887-1",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3877",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

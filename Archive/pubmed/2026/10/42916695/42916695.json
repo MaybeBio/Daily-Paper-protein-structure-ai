@@ -1,0 +1,92 @@
+{
+  "identity": {
+    "pmid": "42916695",
+    "doi": "10.1021/acs.jmedchem.6c00933",
+    "title": "Beyond the Hydrophobic Trough of PfAMA1: Pivotal Roles of Cryptic Loop Dynamics Inform Anti-Malarial Therapeutic Design."
+  },
+  "content": {
+    "abstract": "Protein loops often mediate dynamic, conformation-dependent molecular recognition. This perspective examines the essential interaction between Plasmodium falciparum apical membrane antigen 1 (PfAMA1) and rhoptry neck protein 2 (PfRON2), which drives moving-junction formation and erythrocyte invasion. We focus on the PfAMA1 domain 2 (D2) loop and its role in regulating native and therapeutic peptide binding. D2-loop closure creates a cryptic subpocket, termed Hotspot-3, through hydrophobic packing reinforced by hydrogen bonds. This conformational heterogeneity complicates structure-based inhibitor design because binders must either stabilize preferred loop states or accommodate loop dynamics. These findings highlight residence-time optimization, rather than affinity alone, as a key objective for next-generation PfAMA1 inhibitors. Small molecules may also target PfAMA1, although the ligandability of Hotspot-3 remains unproven. Strategies combining N-terminal helicity, cryptic-pocket engagement, conformational-ensemble modelling, and machine learning may enable longer-acting and potentially strain-transcending antimalarial therapeutics. However, Hotspot-3 conservation and sustained inhibition require validation across divergent PfAMA1 alleles.",
+    "keywords": [
+      "PfAMA1-PfRON2 interaction",
+      "conformational heterogeneity",
+      "cryptic pocket",
+      "domain-2 loop dynamics",
+      "malaria",
+      "residence time optimization",
+      "structure-based peptide design"
+    ],
+    "mesh_terms": [
+      "*Antimalarials/pharmacology/chemistry",
+      "Hydrophobic and Hydrophilic Interactions",
+      "*Protozoan Proteins/chemistry/metabolism/antagonists & inhibitors",
+      "*Drug Design",
+      "*Plasmodium falciparum/drug effects/metabolism",
+      "Humans",
+      "*Antigens, Protozoan/chemistry/metabolism",
+      "*Membrane Proteins/chemistry/metabolism/antagonists & inhibitors",
+      "Models, Molecular"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Sinha, Suman"
+      ],
+      "short_names": [
+        "Sinha S"
+      ],
+      "auids": [
+        "ORCID: 0009-0006-6147-3516"
+      ],
+      "affiliations": [
+        "Institute of Pharmaceutical Research, GLA University, Mathura, Uttar Pradesh, 281406India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Sinha, Suman",
+        "short_name": "Sinha S",
+        "identifiers": [
+          "0009-0006-6147-3516"
+        ],
+        "affiliations": [
+          "Institute of Pharmaceutical Research, GLA University, Mathura, Uttar Pradesh, 281406India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of medicinal chemistry"
+    ],
+    "journal_abbrev": [
+      "J Med Chem"
+    ],
+    "pub_date": "2026 Sep 24",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42916695"
+    ],
+    "review": [
+      "42916695"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

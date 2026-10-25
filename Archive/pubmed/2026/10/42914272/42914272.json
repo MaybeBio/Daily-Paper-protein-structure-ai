@@ -1,0 +1,233 @@
+{
+  "identity": {
+    "pmid": "42914272",
+    "doi": "10.1016/j.foodres.2026.120846",
+    "title": "beta-lactoglobulin from precision fermentation and milk exhibit similar protein structure but distinct aggregation behaviour: a multi-length-scale perspective."
+  },
+  "content": {
+    "abstract": "Precision fermentation is a well-established biotechnology which has recently emerged as a platform for manufacturing nature-equivalent dairy proteins, including beta-lactoglobulin (BLG). Here, we compare fermentation-derived BLG (f-BLG) with milk-derived BLG (m-BLG) from primary to quaternary structure and relate these findings to aggregation under UHT-like conditions. LC-MS and LC-MS/MS revealed that f-BLG consists of several proteoforms, predominantly a mature sequence containing an N-terminal \"EAEA\" extension. Despite this modification, 2D methyl NMR and SEC-UV-MALS confirmed equivalent tertiary and quaternary structures for f-BLG and m-BLG. However, the altered N-terminus markedly affected thermal stability. At 140  degrees C, m-BLG became opaque after approximately 1200 s, whereas f-BLG remained translucent throughout 1800 s. UPLC-UV showed that 80-90% of m-BLG aggregated within 30 s at 140  degrees C, while no detectable aggregation occurred for f-BLG. Consistent with these findings, m-BLG exhibited a steeper concentration-dependent viscosity increase. Krieger-Dougherty modeling estimated that heated m-BLG approached close packing (Phim = 0.68) at 6 wt% protein after 60 s, whereas f-BLG remained below Phim = 0.60. f-BLG's increased thermal stability is attributed to the additional glutamic acid residues in its N-terminal extension, which results in a more negative surface charge and increased electrostatic repulsion. Molecular dynamics simulations further indicate that these negatively charged N-termini remain outward facing upon protein association, potentially maintaining electrostatic repulsion at the aggregate surface and thereby limiting further aggregate growth. Together, these results demonstrate that a subtle N-terminal modification in precision fermentation-derived BLG markedly reduces aggregation and enhances stability under UHT-like conditions.",
+    "keywords": [
+      "Molecular dynamics simulations",
+      "NMR spectroscopy",
+      "Precision fermentation",
+      "Thermal aggregation",
+      "UHT processing",
+      "beta-lactoglobulin"
+    ],
+    "mesh_terms": [
+      "*Lactoglobulins/chemistry/metabolism",
+      "Animals",
+      "*Fermentation",
+      "*Milk/chemistry",
+      "Tandem Mass Spectrometry",
+      "Protein Stability",
+      "*Protein Aggregates",
+      "Protein Conformation",
+      "Liquid Chromatography-Mass Spectrometry",
+      "Magnetic Resonance Spectroscopy",
+      "Amino Acid Sequence",
+      "Chromatography, Liquid"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Kornet, Remco",
+        "Subbarayadu, Kiran",
+        "Westberry, Benjamin P",
+        "Mladic, Marija",
+        "Pan, Zheng",
+        "Apostolidi, Isidora",
+        "Groot, Melanie",
+        "Schouten, Olaf",
+        "Stam, Pieter",
+        "Abello, Nicolas",
+        "Anema, Skelte G",
+        "Houben, Klaartje",
+        "Hill, Jeremy P",
+        "Wubbolts, Marcel G"
+      ],
+      "short_names": [
+        "Kornet R",
+        "Subbarayadu K",
+        "Westberry BP",
+        "Mladic M",
+        "Pan Z",
+        "Apostolidi I",
+        "Groot M",
+        "Schouten O",
+        "Stam P",
+        "Abello N",
+        "Anema SG",
+        "Houben K",
+        "Hill JP",
+        "Wubbolts MG"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Vivici BV, De Limes 7, 2342DH Oegstgeest, the Netherlands; Riddet Institute, Massey University, Private Bag 11222, Palmerston North 4442, New Zealand; School of Food Technology and Natural Sciences, Massey University, Private Bag 11222, Palmerston North 4442, New Zealand. Electronic address: r.kornet@massey.ac.nz.",
+        "Vivici BV, De Limes 7, 2342DH Oegstgeest, the Netherlands.",
+        "Fonterra Research and Development Centre, Private Bag 11029, Dairy Farm Road, Palmerston North 4442, New Zealand.",
+        "dsm-firmenich, Science & Research, Analytical Sciences, Alexander Fleminglaan 1, 2613AX Delft, the Netherlands.",
+        "Fonterra Research and Development Centre, Private Bag 11029, Dairy Farm Road, Palmerston North 4442, New Zealand. Electronic address: zheng.pan@fonterra.com.",
+        "Vivici BV, De Limes 7, 2342DH Oegstgeest, the Netherlands.",
+        "Vivici BV, De Limes 7, 2342DH Oegstgeest, the Netherlands.",
+        "dsm-firmenich, Science & Research, Analytical Sciences, Alexander Fleminglaan 1, 2613AX Delft, the Netherlands.",
+        "dsm-firmenich, Science & Research, Analytical Sciences, Alexander Fleminglaan 1, 2613AX Delft, the Netherlands.",
+        "dsm-firmenich, Science & Research, Analytical Sciences, Alexander Fleminglaan 1, 2613AX Delft, the Netherlands.",
+        "Fonterra Research and Development Centre, Private Bag 11029, Dairy Farm Road, Palmerston North 4442, New Zealand; Riddet Institute, Massey University, Private Bag 11222, Palmerston North 4442, New Zealand; School of Food Technology and Natural Sciences, Massey University, Private Bag 11222, Palmerston North 4442, New Zealand.",
+        "dsm-firmenich, Science & Research, Analytical Sciences, Alexander Fleminglaan 1, 2613AX Delft, the Netherlands.",
+        "Fonterra Research and Development Centre, Private Bag 11029, Dairy Farm Road, Palmerston North 4442, New Zealand; Riddet Institute, Massey University, Private Bag 11222, Palmerston North 4442, New Zealand.",
+        "Vivici BV, De Limes 7, 2342DH Oegstgeest, the Netherlands."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Kornet, Remco",
+        "short_name": "Kornet R",
+        "identifiers": [],
+        "affiliations": [
+          "Vivici BV, De Limes 7, 2342DH Oegstgeest, the Netherlands; Riddet Institute, Massey University, Private Bag 11222, Palmerston North 4442, New Zealand; School of Food Technology and Natural Sciences, Massey University, Private Bag 11222, Palmerston North 4442, New Zealand. Electronic address: r.kornet@massey.ac.nz."
+        ]
+      },
+      {
+        "full_name": "Subbarayadu, Kiran",
+        "short_name": "Subbarayadu K",
+        "identifiers": [],
+        "affiliations": [
+          "Vivici BV, De Limes 7, 2342DH Oegstgeest, the Netherlands."
+        ]
+      },
+      {
+        "full_name": "Westberry, Benjamin P",
+        "short_name": "Westberry BP",
+        "identifiers": [],
+        "affiliations": [
+          "Fonterra Research and Development Centre, Private Bag 11029, Dairy Farm Road, Palmerston North 4442, New Zealand."
+        ]
+      },
+      {
+        "full_name": "Mladić, Marija",
+        "short_name": "Mladić M",
+        "identifiers": [],
+        "affiliations": [
+          "dsm-firmenich, Science & Research, Analytical Sciences, Alexander Fleminglaan 1, 2613AX Delft, the Netherlands."
+        ]
+      },
+      {
+        "full_name": "Pan, Zheng",
+        "short_name": "Pan Z",
+        "identifiers": [],
+        "affiliations": [
+          "Fonterra Research and Development Centre, Private Bag 11029, Dairy Farm Road, Palmerston North 4442, New Zealand. Electronic address: zheng.pan@fonterra.com."
+        ]
+      },
+      {
+        "full_name": "Apostolidi, Isidora",
+        "short_name": "Apostolidi I",
+        "identifiers": [],
+        "affiliations": [
+          "Vivici BV, De Limes 7, 2342DH Oegstgeest, the Netherlands."
+        ]
+      },
+      {
+        "full_name": "Groot, Melanie",
+        "short_name": "Groot M",
+        "identifiers": [],
+        "affiliations": [
+          "Vivici BV, De Limes 7, 2342DH Oegstgeest, the Netherlands."
+        ]
+      },
+      {
+        "full_name": "Schouten, Olaf",
+        "short_name": "Schouten O",
+        "identifiers": [],
+        "affiliations": [
+          "dsm-firmenich, Science & Research, Analytical Sciences, Alexander Fleminglaan 1, 2613AX Delft, the Netherlands."
+        ]
+      },
+      {
+        "full_name": "Stam, Pieter",
+        "short_name": "Stam P",
+        "identifiers": [],
+        "affiliations": [
+          "dsm-firmenich, Science & Research, Analytical Sciences, Alexander Fleminglaan 1, 2613AX Delft, the Netherlands."
+        ]
+      },
+      {
+        "full_name": "Abello, Nicolas",
+        "short_name": "Abello N",
+        "identifiers": [],
+        "affiliations": [
+          "dsm-firmenich, Science & Research, Analytical Sciences, Alexander Fleminglaan 1, 2613AX Delft, the Netherlands."
+        ]
+      },
+      {
+        "full_name": "Anema, Skelte G",
+        "short_name": "Anema SG",
+        "identifiers": [],
+        "affiliations": [
+          "Fonterra Research and Development Centre, Private Bag 11029, Dairy Farm Road, Palmerston North 4442, New Zealand; Riddet Institute, Massey University, Private Bag 11222, Palmerston North 4442, New Zealand; School of Food Technology and Natural Sciences, Massey University, Private Bag 11222, Palmerston North 4442, New Zealand."
+        ]
+      },
+      {
+        "full_name": "Houben, Klaartje",
+        "short_name": "Houben K",
+        "identifiers": [],
+        "affiliations": [
+          "dsm-firmenich, Science & Research, Analytical Sciences, Alexander Fleminglaan 1, 2613AX Delft, the Netherlands."
+        ]
+      },
+      {
+        "full_name": "Hill, Jeremy P",
+        "short_name": "Hill JP",
+        "identifiers": [],
+        "affiliations": [
+          "Fonterra Research and Development Centre, Private Bag 11029, Dairy Farm Road, Palmerston North 4442, New Zealand; Riddet Institute, Massey University, Private Bag 11222, Palmerston North 4442, New Zealand."
+        ]
+      },
+      {
+        "full_name": "Wubbolts, Marcel G",
+        "short_name": "Wubbolts MG",
+        "identifiers": [],
+        "affiliations": [
+          "Vivici BV, De Limes 7, 2342DH Oegstgeest, the Netherlands."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Food research international (Ottawa, Ont.)"
+    ],
+    "journal_abbrev": [
+      "Food Res Int"
+    ],
+    "pub_date": "2026 Dec 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42914272"
+    ],
+    "review": [
+      "42914272"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

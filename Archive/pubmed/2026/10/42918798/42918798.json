@@ -1,0 +1,374 @@
+{
+  "identity": {
+    "pmid": "42918798",
+    "doi": "10.1038/s41467-026-77932-z",
+    "title": "Hydrogen sulfide engages catalytic zinc in HDAC6 to modulate an alternative deacetylation pathway."
+  },
+  "content": {
+    "abstract": "Hydrogen sulfide (H(2)S) is a gasotransmitter whose non-covalent effects on protein function remain incompletely understood. Here we show that H(2)S-derived sulfur species engage the catalytic Zn(2)(+) center of histone deacetylase 6 (HDAC6) and enhance deacetylase activity under defined conditions. Molecular dynamics simulations support access of HS(-) to the CD2 active-site tunnel, whereas surface plasmon resonance and zinc-depletion experiments support reversible, zinc-dependent engagement. Quantum chemical calculations support a chemically feasible sulfur-associated deacetylation pathway that generates thioacetic acid, which we detect in cell-free reactions, cultured cells, mouse tissues and human serum. Cryo-electron microscopy defines the tandem organization of human HDAC6 catalytic domains and reveals distinct CD1 and CD2 tunnel architectures. HDAC6 loss blunts H(2)S-induced endothelial migration and angiogenesis, and CD2 is required for these responses. These findings support HDAC6 as an H(2)S-responsive Zn(2)(+)-dependent deacetylase and link zinc-sulfur coordination to altered deacetylation chemistry.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Zinc/metabolism/chemistry",
+      "*Hydrogen Sulfide/metabolism/chemistry/pharmacology",
+      "*Histone Deacetylase 6/metabolism/chemistry",
+      "Animals",
+      "Humans",
+      "Mice",
+      "Acetylation",
+      "Catalytic Domain",
+      "Molecular Dynamics Simulation",
+      "*Histone Deacetylases/metabolism/chemistry/genetics",
+      "Cell Movement",
+      "Neovascularization, Physiologic"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Sun, Chen",
+        "Wang, Yin-Fang",
+        "Cai, Sheng-Yang",
+        "Xie, Kui-Fang",
+        "Zhu, Jia-Qi",
+        "Mu, Xue-Pan",
+        "Zhu, Zhi-Ni",
+        "Chao, Yu-Lin",
+        "Zhou, Zi-Xuan",
+        "Bian, Xi-Qing",
+        "Miao, Wen",
+        "Wu, Jian-Lin",
+        "Weng, Jingwei",
+        "Chen, Ying",
+        "Xue, Wen-Long",
+        "Li, Meng-Yao",
+        "Chi, Ai-Qiu",
+        "Ding, Qian",
+        "Wang, Ming-Jie",
+        "Tao, Bei-Bei",
+        "Zhang, Igor Ying",
+        "Zhu, Yi Zhun",
+        "Qu, Qian-Hui",
+        "Zhu, Yi-Chun"
+      ],
+      "short_names": [
+        "Sun C",
+        "Wang YF",
+        "Cai SY",
+        "Xie KF",
+        "Zhu JQ",
+        "Mu XP",
+        "Zhu ZN",
+        "Chao YL",
+        "Zhou ZX",
+        "Bian XQ",
+        "Miao W",
+        "Wu JL",
+        "Weng J",
+        "Chen Y",
+        "Xue WL",
+        "Li MY",
+        "Chi AQ",
+        "Ding Q",
+        "Wang MJ",
+        "Tao BB",
+        "Zhang IY",
+        "Zhu YZ",
+        "Qu QH",
+        "Zhu YC"
+      ],
+      "auids": [
+        "ORCID: 0009-0009-6998-7070",
+        "ORCID: 0009-0006-7341-7802",
+        "ORCID: 0000-0003-2319-2271",
+        "ORCID: 0000-0002-3875-185X",
+        "ORCID: 0000-0002-4639-7600",
+        "ORCID: 0000-0002-8703-1912",
+        "ORCID: 0000-0001-7700-8041",
+        "ORCID: 0000-0002-5753-2599",
+        "ORCID: 0000-0002-0873-2957"
+      ],
+      "affiliations": [
+        "Shanghai Key Laboratory of Bioactive Small Molecules, Department of Physiology and Pathophysiology, School of Basic Medical Sciences, Fudan University Shanghai Medical College, Shanghai, China.",
+        "Laboratory of Drug Discovery from Natural Resources and Industrialization and School of Pharmacy, Macau University of Science and Technology; Avenida WaiLong, Taipa, Macau, China.",
+        "Shanghai Key Laboratory of Bioactive Small Molecules, Department of Physiology and Pathophysiology, School of Basic Medical Sciences, Fudan University Shanghai Medical College, Shanghai, China.",
+        "Central Laboratory, Putuo Hospital, Shanghai University of Traditional Chinese Medicine, Shanghai, China.",
+        "Shanghai Key Laboratory of Bioactive Small Molecules, Department of Physiology and Pathophysiology, School of Basic Medical Sciences, Fudan University Shanghai Medical College, Shanghai, China.",
+        "Department of Chemistry, Fudan University, Shanghai, China.",
+        "Shanghai Key Laboratory of Bioactive Small Molecules, Department of Physiology and Pathophysiology, School of Basic Medical Sciences, Fudan University Shanghai Medical College, Shanghai, China.",
+        "Shanghai Key Laboratory of Bioactive Small Molecules, Department of Physiology and Pathophysiology, School of Basic Medical Sciences, Fudan University Shanghai Medical College, Shanghai, China.",
+        "Shanghai Key Laboratory of Bioactive Small Molecules, Department of Physiology and Pathophysiology, School of Basic Medical Sciences, Fudan University Shanghai Medical College, Shanghai, China.",
+        "Eye & ENT Hospital, Institutes of Biomedical Sciences, Shanghai Key Laboratory of Medical Epigenetics, International Co-laboratory of Medical Epigenetics and Metabolism (Ministry of Science and Technology), Department of Systems Biology for Medicine, Fudan University, Shanghai, China.",
+        "Central Laboratory, Putuo Hospital, Shanghai University of Traditional Chinese Medicine, Shanghai, China.",
+        "Eye & ENT Hospital, Institutes of Biomedical Sciences, Shanghai Key Laboratory of Medical Epigenetics, International Co-laboratory of Medical Epigenetics and Metabolism (Ministry of Science and Technology), Department of Systems Biology for Medicine, Fudan University, Shanghai, China.",
+        "Laboratory of Drug Discovery from Natural Resources and Industrialization and School of Pharmacy, Macau University of Science and Technology; Avenida WaiLong, Taipa, Macau, China.",
+        "Laboratory of Drug Discovery from Natural Resources and Industrialization and School of Pharmacy, Macau University of Science and Technology; Avenida WaiLong, Taipa, Macau, China.",
+        "Laboratory of Drug Discovery from Natural Resources and Industrialization and School of Pharmacy, Macau University of Science and Technology; Avenida WaiLong, Taipa, Macau, China.",
+        "Department of Chemistry, Fudan University, Shanghai, China.",
+        "Shanghai Key Laboratory of Bioactive Small Molecules, Department of Physiology and Pathophysiology, School of Basic Medical Sciences, Fudan University Shanghai Medical College, Shanghai, China.",
+        "Shanghai Key Laboratory of Bioactive Small Molecules, Department of Physiology and Pathophysiology, School of Basic Medical Sciences, Fudan University Shanghai Medical College, Shanghai, China.",
+        "Shanghai Key Laboratory of Bioactive Small Molecules, Department of Physiology and Pathophysiology, School of Basic Medical Sciences, Fudan University Shanghai Medical College, Shanghai, China.",
+        "Shanghai Key Laboratory of Bioactive Small Molecules, Department of Physiology and Pathophysiology, School of Basic Medical Sciences, Fudan University Shanghai Medical College, Shanghai, China.",
+        "Laboratory of Drug Discovery from Natural Resources and Industrialization and School of Pharmacy, Macau University of Science and Technology; Avenida WaiLong, Taipa, Macau, China.",
+        "Shanghai Key Laboratory of Bioactive Small Molecules, Department of Physiology and Pathophysiology, School of Basic Medical Sciences, Fudan University Shanghai Medical College, Shanghai, China.",
+        "Shanghai Key Laboratory of Bioactive Small Molecules, Department of Physiology and Pathophysiology, School of Basic Medical Sciences, Fudan University Shanghai Medical College, Shanghai, China.",
+        "Department of Chemistry, Fudan University, Shanghai, China.",
+        "Hefei National Laboratory, Hefei, China.",
+        "Laboratory of Drug Discovery from Natural Resources and Industrialization and School of Pharmacy, Macau University of Science and Technology; Avenida WaiLong, Taipa, Macau, China. yzzhu@must.edu.mo.",
+        "Department of Pharmacology, School of Pharmacy, Fudan University, Shanghai, China. yzzhu@must.edu.mo.",
+        "Eye & ENT Hospital, Institutes of Biomedical Sciences, Shanghai Key Laboratory of Medical Epigenetics, International Co-laboratory of Medical Epigenetics and Metabolism (Ministry of Science and Technology), Department of Systems Biology for Medicine, Fudan University, Shanghai, China. qqh@fudan.edu.cn.",
+        "Shanghai Key Laboratory of Bioactive Small Molecules, Department of Physiology and Pathophysiology, School of Basic Medical Sciences, Fudan University Shanghai Medical College, Shanghai, China. yczhu@shmu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Sun, Chen",
+        "short_name": "Sun C",
+        "identifiers": [
+          "0009-0009-6998-7070"
+        ],
+        "affiliations": [
+          "Shanghai Key Laboratory of Bioactive Small Molecules, Department of Physiology and Pathophysiology, School of Basic Medical Sciences, Fudan University Shanghai Medical College, Shanghai, China.",
+          "Laboratory of Drug Discovery from Natural Resources and Industrialization and School of Pharmacy, Macau University of Science and Technology; Avenida WaiLong, Taipa, Macau, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yin-Fang",
+        "short_name": "Wang YF",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Key Laboratory of Bioactive Small Molecules, Department of Physiology and Pathophysiology, School of Basic Medical Sciences, Fudan University Shanghai Medical College, Shanghai, China.",
+          "Central Laboratory, Putuo Hospital, Shanghai University of Traditional Chinese Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Cai, Sheng-Yang",
+        "short_name": "Cai SY",
+        "identifiers": [
+          "0009-0006-7341-7802"
+        ],
+        "affiliations": [
+          "Shanghai Key Laboratory of Bioactive Small Molecules, Department of Physiology and Pathophysiology, School of Basic Medical Sciences, Fudan University Shanghai Medical College, Shanghai, China.",
+          "Department of Chemistry, Fudan University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Xie, Kui-Fang",
+        "short_name": "Xie KF",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Key Laboratory of Bioactive Small Molecules, Department of Physiology and Pathophysiology, School of Basic Medical Sciences, Fudan University Shanghai Medical College, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Jia-Qi",
+        "short_name": "Zhu JQ",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Key Laboratory of Bioactive Small Molecules, Department of Physiology and Pathophysiology, School of Basic Medical Sciences, Fudan University Shanghai Medical College, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Mu, Xue-Pan",
+        "short_name": "Mu XP",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Key Laboratory of Bioactive Small Molecules, Department of Physiology and Pathophysiology, School of Basic Medical Sciences, Fudan University Shanghai Medical College, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Zhi-Ni",
+        "short_name": "Zhu ZN",
+        "identifiers": [],
+        "affiliations": [
+          "Eye & ENT Hospital, Institutes of Biomedical Sciences, Shanghai Key Laboratory of Medical Epigenetics, International Co-laboratory of Medical Epigenetics and Metabolism (Ministry of Science and Technology), Department of Systems Biology for Medicine, Fudan University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Chao, Yu-Lin",
+        "short_name": "Chao YL",
+        "identifiers": [],
+        "affiliations": [
+          "Central Laboratory, Putuo Hospital, Shanghai University of Traditional Chinese Medicine, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Zi-Xuan",
+        "short_name": "Zhou ZX",
+        "identifiers": [],
+        "affiliations": [
+          "Eye & ENT Hospital, Institutes of Biomedical Sciences, Shanghai Key Laboratory of Medical Epigenetics, International Co-laboratory of Medical Epigenetics and Metabolism (Ministry of Science and Technology), Department of Systems Biology for Medicine, Fudan University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Bian, Xi-Qing",
+        "short_name": "Bian XQ",
+        "identifiers": [
+          "0000-0003-2319-2271"
+        ],
+        "affiliations": [
+          "Laboratory of Drug Discovery from Natural Resources and Industrialization and School of Pharmacy, Macau University of Science and Technology; Avenida WaiLong, Taipa, Macau, China."
+        ]
+      },
+      {
+        "full_name": "Miao, Wen",
+        "short_name": "Miao W",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Drug Discovery from Natural Resources and Industrialization and School of Pharmacy, Macau University of Science and Technology; Avenida WaiLong, Taipa, Macau, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Jian-Lin",
+        "short_name": "Wu JL",
+        "identifiers": [
+          "0000-0002-3875-185X"
+        ],
+        "affiliations": [
+          "Laboratory of Drug Discovery from Natural Resources and Industrialization and School of Pharmacy, Macau University of Science and Technology; Avenida WaiLong, Taipa, Macau, China."
+        ]
+      },
+      {
+        "full_name": "Weng, Jingwei",
+        "short_name": "Weng J",
+        "identifiers": [
+          "0000-0002-4639-7600"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Fudan University, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Ying",
+        "short_name": "Chen Y",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Key Laboratory of Bioactive Small Molecules, Department of Physiology and Pathophysiology, School of Basic Medical Sciences, Fudan University Shanghai Medical College, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Xue, Wen-Long",
+        "short_name": "Xue WL",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Key Laboratory of Bioactive Small Molecules, Department of Physiology and Pathophysiology, School of Basic Medical Sciences, Fudan University Shanghai Medical College, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Li, Meng-Yao",
+        "short_name": "Li MY",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Key Laboratory of Bioactive Small Molecules, Department of Physiology and Pathophysiology, School of Basic Medical Sciences, Fudan University Shanghai Medical College, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Chi, Ai-Qiu",
+        "short_name": "Chi AQ",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Key Laboratory of Bioactive Small Molecules, Department of Physiology and Pathophysiology, School of Basic Medical Sciences, Fudan University Shanghai Medical College, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Ding, Qian",
+        "short_name": "Ding Q",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Drug Discovery from Natural Resources and Industrialization and School of Pharmacy, Macau University of Science and Technology; Avenida WaiLong, Taipa, Macau, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Ming-Jie",
+        "short_name": "Wang MJ",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Key Laboratory of Bioactive Small Molecules, Department of Physiology and Pathophysiology, School of Basic Medical Sciences, Fudan University Shanghai Medical College, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Tao, Bei-Bei",
+        "short_name": "Tao BB",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Key Laboratory of Bioactive Small Molecules, Department of Physiology and Pathophysiology, School of Basic Medical Sciences, Fudan University Shanghai Medical College, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Igor Ying",
+        "short_name": "Zhang IY",
+        "identifiers": [
+          "0000-0002-8703-1912"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Fudan University, Shanghai, China.",
+          "Hefei National Laboratory, Hefei, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Yi Zhun",
+        "short_name": "Zhu YZ",
+        "identifiers": [
+          "0000-0001-7700-8041"
+        ],
+        "affiliations": [
+          "Laboratory of Drug Discovery from Natural Resources and Industrialization and School of Pharmacy, Macau University of Science and Technology; Avenida WaiLong, Taipa, Macau, China. yzzhu@must.edu.mo.",
+          "Department of Pharmacology, School of Pharmacy, Fudan University, Shanghai, China. yzzhu@must.edu.mo."
+        ]
+      },
+      {
+        "full_name": "Qu, Qian-Hui",
+        "short_name": "Qu QH",
+        "identifiers": [
+          "0000-0002-5753-2599"
+        ],
+        "affiliations": [
+          "Eye & ENT Hospital, Institutes of Biomedical Sciences, Shanghai Key Laboratory of Medical Epigenetics, International Co-laboratory of Medical Epigenetics and Metabolism (Ministry of Science and Technology), Department of Systems Biology for Medicine, Fudan University, Shanghai, China. qqh@fudan.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Zhu, Yi-Chun",
+        "short_name": "Zhu YC",
+        "identifiers": [
+          "0000-0002-0873-2957"
+        ],
+        "affiliations": [
+          "Shanghai Key Laboratory of Bioactive Small Molecules, Department of Physiology and Pathophysiology, School of Basic Medical Sciences, Fudan University Shanghai Medical College, Shanghai, China. yczhu@shmu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Sep 23",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:32",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42918798"
+    ],
+    "review": [
+      "42918798"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

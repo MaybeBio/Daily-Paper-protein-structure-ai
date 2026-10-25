@@ -1,0 +1,195 @@
+{
+  "identity": {
+    "pmid": "42914399",
+    "doi": "10.1016/j.foodres.2026.120645",
+    "title": "Synergistic evolution of key-region flexibility maintenance and global scaffold Rigidification enhances lipase performance for vitamin E succinate synthesis."
+  },
+  "content": {
+    "abstract": "Industrial biocatalysts require both high activity and stability, yet natural enzymes often exhibit an activity-stability trade-off that limits practical use. Therefore, this study aimed to develop and validate a rational design strategy integrating key-region flexibility maintenance, which preserves catalytically relevant local dynamics, with global scaffold rigidification, which stabilizes the broader protein framework. Using Bacillus subtilis lipase A (BSLA) as a model enzyme, M4 was identified as the optimal variant. At 52  degrees C, M4 had a half-life 94.52 times that of the wild type (WT) and showed enhanced tolerance to several organic solvents. Following treatment with dimethyl sulfoxide (DMSO) at 40  degrees C for 15 min, M4 exhibited 2.29 times the post-treatment activity of WT. Moreover, its catalytic activity was 4.35 times that of WT. To evaluate its application potential, M4 was further evaluated in vitamin E succinate (VES) synthesis. After reaction optimization, a VES yield of 91.83% was achieved at a substrate molar ratio of 1:4, an enzyme loading of 15 mg/mL, and 55  degrees C within 21 h. Structural analyses and molecular dynamics simulations indicated that M4 preserved flexibility in catalytically important regions while increasing the rigidity of the overall protein scaffold. This redistribution of conformational dynamics provides a structural explanation for the simultaneous enhancement of catalytic activity and stability. Compared with conventional single-strategy approaches, the proposed framework simultaneously improved catalytic activity, thermostability, and organic-solvent tolerance and demonstrated its practical applicability through efficient VES synthesis.",
+    "keywords": [
+      "Activity",
+      "Global scaffold rigidification",
+      "Key-region flexibility maintenance",
+      "Stability"
+    ],
+    "mesh_terms": [
+      "*Lipase/metabolism/chemistry/genetics",
+      "Bacillus subtilis/enzymology",
+      "Enzyme Stability",
+      "Molecular Dynamics Simulation",
+      "*Vitamin E/biosynthesis/analogs & derivatives",
+      "Bacterial Proteins/metabolism/chemistry",
+      "Biocatalysis",
+      "Protein Conformation",
+      "Solvents"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Yu",
+        "Zheng, Bingqian",
+        "Du, Jiaxiang",
+        "Chen, Zhiheng",
+        "Zhang, Zihan",
+        "Liu, Qingqing",
+        "Fan, Yutai",
+        "Gao, Zhen",
+        "Zheng, Weiyi",
+        "Hu, Yi",
+        "Nian, Binbin"
+      ],
+      "short_names": [
+        "Zhang Y",
+        "Zheng B",
+        "Du J",
+        "Chen Z",
+        "Zhang Z",
+        "Liu Q",
+        "Fan Y",
+        "Gao Z",
+        "Zheng W",
+        "Hu Y",
+        "Nian B"
+      ],
+      "auids": [],
+      "affiliations": [
+        "State Key Laboratory of Materials-Oriented Chemical Engineering, Jiangsu Provincial University Key Laboratory of Green Biomanufacturing for Pharmaceuticals, School of Pharmaceutical Sciences, Nanjing Tech University, Nanjing 211816, China.",
+        "State Key Laboratory of Materials-Oriented Chemical Engineering, Jiangsu Provincial University Key Laboratory of Green Biomanufacturing for Pharmaceuticals, School of Pharmaceutical Sciences, Nanjing Tech University, Nanjing 211816, China.",
+        "State Key Laboratory of Materials-Oriented Chemical Engineering, Jiangsu Provincial University Key Laboratory of Green Biomanufacturing for Pharmaceuticals, School of Pharmaceutical Sciences, Nanjing Tech University, Nanjing 211816, China.",
+        "State Key Laboratory of Materials-Oriented Chemical Engineering, Jiangsu Provincial University Key Laboratory of Green Biomanufacturing for Pharmaceuticals, School of Pharmaceutical Sciences, Nanjing Tech University, Nanjing 211816, China.",
+        "State Key Laboratory of Materials-Oriented Chemical Engineering, Jiangsu Provincial University Key Laboratory of Green Biomanufacturing for Pharmaceuticals, School of Pharmaceutical Sciences, Nanjing Tech University, Nanjing 211816, China.",
+        "State Key Laboratory of Materials-Oriented Chemical Engineering, Jiangsu Provincial University Key Laboratory of Green Biomanufacturing for Pharmaceuticals, School of Pharmaceutical Sciences, Nanjing Tech University, Nanjing 211816, China.",
+        "State Key Laboratory of Materials-Oriented Chemical Engineering, Jiangsu Provincial University Key Laboratory of Green Biomanufacturing for Pharmaceuticals, School of Pharmaceutical Sciences, Nanjing Tech University, Nanjing 211816, China.",
+        "State Key Laboratory of Materials-Oriented Chemical Engineering, Jiangsu Provincial University Key Laboratory of Green Biomanufacturing for Pharmaceuticals, School of Pharmaceutical Sciences, Nanjing Tech University, Nanjing 211816, China.",
+        "School of Food Science and Pharmaceutical Engineering, Nanjing Normal University, Nanjing 210023, China.",
+        "State Key Laboratory of Materials-Oriented Chemical Engineering, Jiangsu Provincial University Key Laboratory of Green Biomanufacturing for Pharmaceuticals, School of Pharmaceutical Sciences, Nanjing Tech University, Nanjing 211816, China. Electronic address: huyi@njtech.edu.cn.",
+        "State Key Laboratory of Materials-Oriented Chemical Engineering, Jiangsu Provincial University Key Laboratory of Green Biomanufacturing for Pharmaceuticals, School of Pharmaceutical Sciences, Nanjing Tech University, Nanjing 211816, China. Electronic address: bbnian@njtech.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Yu",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Materials-Oriented Chemical Engineering, Jiangsu Provincial University Key Laboratory of Green Biomanufacturing for Pharmaceuticals, School of Pharmaceutical Sciences, Nanjing Tech University, Nanjing 211816, China."
+        ]
+      },
+      {
+        "full_name": "Zheng, Bingqian",
+        "short_name": "Zheng B",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Materials-Oriented Chemical Engineering, Jiangsu Provincial University Key Laboratory of Green Biomanufacturing for Pharmaceuticals, School of Pharmaceutical Sciences, Nanjing Tech University, Nanjing 211816, China."
+        ]
+      },
+      {
+        "full_name": "Du, Jiaxiang",
+        "short_name": "Du J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Materials-Oriented Chemical Engineering, Jiangsu Provincial University Key Laboratory of Green Biomanufacturing for Pharmaceuticals, School of Pharmaceutical Sciences, Nanjing Tech University, Nanjing 211816, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Zhiheng",
+        "short_name": "Chen Z",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Materials-Oriented Chemical Engineering, Jiangsu Provincial University Key Laboratory of Green Biomanufacturing for Pharmaceuticals, School of Pharmaceutical Sciences, Nanjing Tech University, Nanjing 211816, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Zihan",
+        "short_name": "Zhang Z",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Materials-Oriented Chemical Engineering, Jiangsu Provincial University Key Laboratory of Green Biomanufacturing for Pharmaceuticals, School of Pharmaceutical Sciences, Nanjing Tech University, Nanjing 211816, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Qingqing",
+        "short_name": "Liu Q",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Materials-Oriented Chemical Engineering, Jiangsu Provincial University Key Laboratory of Green Biomanufacturing for Pharmaceuticals, School of Pharmaceutical Sciences, Nanjing Tech University, Nanjing 211816, China."
+        ]
+      },
+      {
+        "full_name": "Fan, Yutai",
+        "short_name": "Fan Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Materials-Oriented Chemical Engineering, Jiangsu Provincial University Key Laboratory of Green Biomanufacturing for Pharmaceuticals, School of Pharmaceutical Sciences, Nanjing Tech University, Nanjing 211816, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Zhen",
+        "short_name": "Gao Z",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Materials-Oriented Chemical Engineering, Jiangsu Provincial University Key Laboratory of Green Biomanufacturing for Pharmaceuticals, School of Pharmaceutical Sciences, Nanjing Tech University, Nanjing 211816, China."
+        ]
+      },
+      {
+        "full_name": "Zheng, Weiyi",
+        "short_name": "Zheng W",
+        "identifiers": [],
+        "affiliations": [
+          "School of Food Science and Pharmaceutical Engineering, Nanjing Normal University, Nanjing 210023, China."
+        ]
+      },
+      {
+        "full_name": "Hu, Yi",
+        "short_name": "Hu Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Materials-Oriented Chemical Engineering, Jiangsu Provincial University Key Laboratory of Green Biomanufacturing for Pharmaceuticals, School of Pharmaceutical Sciences, Nanjing Tech University, Nanjing 211816, China. Electronic address: huyi@njtech.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Nian, Binbin",
+        "short_name": "Nian B",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Materials-Oriented Chemical Engineering, Jiangsu Provincial University Key Laboratory of Green Biomanufacturing for Pharmaceuticals, School of Pharmaceutical Sciences, Nanjing Tech University, Nanjing 211816, China. Electronic address: bbnian@njtech.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Food research international (Ottawa, Ont.)"
+    ],
+    "journal_abbrev": [
+      "Food Res Int"
+    ],
+    "pub_date": "2026 Dec 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42914399"
+    ],
+    "review": [
+      "42914399"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "identity": {
+    "pmid": "42898797",
+    "doi": "10.3389/fchem.2026.1898272",
+    "title": "Engineering a hemoglobin variant with enhanced stability and oxygen affinity using a protein language model."
+  },
+  "content": {
+    "abstract": "INTRODUCTION: Engineered hemoglobin variants offer therapeutic promise for artificial blood substitutes and oxygen therapeutics, but rational design is constrained by protein stability and heme-binding. Protein language models (pLMs) predict mutation fitness, yet their integration with biophysical validation remains limited. METHODS: We developed a hybrid pipeline combining pLM (ESM3) with molecular docking, Monte Carlo simulation, molecular dynamics, MM-GBSA/PBSA binding free energy calculations, and density functional theory (DFT) to engineer a stabilized hemoglobin variant (esmHb) with enhanced oxygen affinity, benchmarking against the clinically characterized Hb Fort de France mutation (alpha45 His-->Arg). RESULTS: ESM3 accurately assessed the fitness effect of the Hb Fort de France mutation and generated structurally stable esmHb models. Compared with the wild-type variant (wtHb), esmHb exhibited improved thermodynamic stability (DeltaG: -18.48 vs. -12.22 kcal/mol), increased heme-binding affinity (DeltaGbind: -11.79 vs. -8.42 kcal/mol), and greater thermodynamic favorability of oxidation according to DFT calculations (DeltaE: -173.1 vs. -149.9 kcal/mol). MM-GBSA and MM-PBSA binding free energy calculations further supported improved protein-heme and protein-protein interactions, with esmHb showing more favorable values in both implicit solvation models. Statistical significance (p < 0.05) was reached for protein-protein interactions via both methods and for protein-heme interactions via MM-PBSA. We interpret the MM-GBSA results as a suggestive trend rather than definitive evidence. DISCUSSION: This work establishes a generalizable framework for pLM-driven protein engineering applicable to therapeutic Hb variants and beyond.",
+    "keywords": [
+      "DFT calculations",
+      "Monte Carlo simulation",
+      "computational protein design",
+      "hemoglobin",
+      "molecular dynamics",
+      "myoglobin",
+      "oxygen affinity",
+      "protein language model"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Shityakov, Sergey",
+        "Novikov, Alexander S",
+        "Skorb, Ekaterina V",
+        "Dandekar, Thomas"
+      ],
+      "short_names": [
+        "Shityakov S",
+        "Novikov AS",
+        "Skorb EV",
+        "Dandekar T"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Laboratory of Chemoinformatics, Infochemistry Scientific Center, ITMO University, Saint Petersburg, Russia.",
+        "Department of Bioinformatics, Biocenter, Am Hubland, Julius-Maximilians University of Wurzburg, Wurzburg, Germany.",
+        "Department of Biology and General Genetics, Sechenov First Moscow State Medical University (Sechenov University), Moscow, Russia.",
+        "Laboratory of Chemoinformatics, Infochemistry Scientific Center, ITMO University, Saint Petersburg, Russia.",
+        "Laboratory of Chemoinformatics, Infochemistry Scientific Center, ITMO University, Saint Petersburg, Russia.",
+        "Department of Bioinformatics, Biocenter, Am Hubland, Julius-Maximilians University of Wurzburg, Wurzburg, Germany."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Shityakov, Sergey",
+        "short_name": "Shityakov S",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Chemoinformatics, Infochemistry Scientific Center, ITMO University, Saint Petersburg, Russia.",
+          "Department of Bioinformatics, Biocenter, Am Hubland, Julius-Maximilians University of Würzburg, Würzburg, Germany.",
+          "Department of Biology and General Genetics, Sechenov First Moscow State Medical University (Sechenov University), Moscow, Russia."
+        ]
+      },
+      {
+        "full_name": "Novikov, Alexander S",
+        "short_name": "Novikov AS",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Chemoinformatics, Infochemistry Scientific Center, ITMO University, Saint Petersburg, Russia."
+        ]
+      },
+      {
+        "full_name": "Skorb, Ekaterina V",
+        "short_name": "Skorb EV",
+        "identifiers": [],
+        "affiliations": [
+          "Laboratory of Chemoinformatics, Infochemistry Scientific Center, ITMO University, Saint Petersburg, Russia."
+        ]
+      },
+      {
+        "full_name": "Dandekar, Thomas",
+        "short_name": "Dandekar T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Bioinformatics, Biocenter, Am Hubland, Julius-Maximilians University of Würzburg, Würzburg, Germany."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in chemistry"
+    ],
+    "journal_abbrev": [
+      "Front Chem"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/20 11:33",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42898797"
+    ],
+    "review": [
+      "42898797"
+    ],
+    "pmc": [
+      "13678298"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.3389/fchem.2026.1898272",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

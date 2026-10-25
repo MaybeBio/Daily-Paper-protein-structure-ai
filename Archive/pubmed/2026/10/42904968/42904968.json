@@ -1,0 +1,154 @@
+{
+  "identity": {
+    "pmid": "42904968",
+    "doi": "10.1021/acs.jafc.6c06037",
+    "title": "Enhancing the Thermostability of Sweet Protein Thaumatin II by Integrated Rational Design."
+  },
+  "content": {
+    "abstract": "Thaumatin II is a high-intensity sweet protein whose limited thermostability restricts its industrial application. Using the previously evolved high-yield Thaumatin variant M-882 as the parental scaffold, we used an integrated rational design strategy combining HotSpot Wizard, FoldX, and PyRosetta. Candidate variants were evaluated by sfGFP-based fluorescence screening, SDS-PAGE, and absolute protein quantification. The variant R178H showed the most favorable overall balance of structural compatibility and thermal resilience. After heating at 80  degrees C for 2 h, R178H retained 63% of its soluble protein fraction, compared with 43% for M-882. Structural analysis suggested that replacing Arg178 with histidine reduced local steric hindrance and improved packing interactions. Molecular dynamics simulations further indicated that R178H adopted a more compact and stable conformation. These results clarify the structural basis for its improved heat resistance and provide a rational strategy for engineering thermostable sweet proteins for food-processing applications.",
+    "keywords": [
+      "Sweet protein",
+      "rational design",
+      "thaumatin",
+      "thermostability"
+    ],
+    "mesh_terms": [
+      "*Plant Proteins/chemistry/genetics/metabolism",
+      "Protein Stability",
+      "Hot Temperature",
+      "Molecular Dynamics Simulation",
+      "Protein Engineering",
+      "Protein Conformation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Lefei",
+        "Yang, Yuxin",
+        "Dong, Jintong",
+        "Wang, Haoqi",
+        "Zhu, Zhengming",
+        "Jiang, Ling"
+      ],
+      "short_names": [
+        "Wang L",
+        "Yang Y",
+        "Dong J",
+        "Wang H",
+        "Zhu Z",
+        "Jiang L"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-4177-2416",
+        "ORCID: 0000-0001-6625-5557"
+      ],
+      "affiliations": [
+        "College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech University, Nanjing211816, China.",
+        "College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech University, Nanjing211816, China.",
+        "College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech University, Nanjing211816, China.",
+        "College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech University, Nanjing211816, China.",
+        "College of Food Science and Light Industry, Nanjing Tech University, Nanjing211816, China.",
+        "College of Food Science and Light Industry, Nanjing Tech University, Nanjing211816, China.",
+        "State Key Laboratory of Materials-Oriented Chemical Engineering, Nanjing Tech University, Nanjing211816, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Lefei",
+        "short_name": "Wang L",
+        "identifiers": [],
+        "affiliations": [
+          "College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech University, Nanjing211816, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Yuxin",
+        "short_name": "Yang Y",
+        "identifiers": [],
+        "affiliations": [
+          "College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech University, Nanjing211816, China."
+        ]
+      },
+      {
+        "full_name": "Dong, Jintong",
+        "short_name": "Dong J",
+        "identifiers": [],
+        "affiliations": [
+          "College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech University, Nanjing211816, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Haoqi",
+        "short_name": "Wang H",
+        "identifiers": [],
+        "affiliations": [
+          "College of Biotechnology and Pharmaceutical Engineering, Nanjing Tech University, Nanjing211816, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Zhengming",
+        "short_name": "Zhu Z",
+        "identifiers": [
+          "0000-0002-4177-2416"
+        ],
+        "affiliations": [
+          "College of Food Science and Light Industry, Nanjing Tech University, Nanjing211816, China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Ling",
+        "short_name": "Jiang L",
+        "identifiers": [
+          "0000-0001-6625-5557"
+        ],
+        "affiliations": [
+          "College of Food Science and Light Industry, Nanjing Tech University, Nanjing211816, China.",
+          "State Key Laboratory of Materials-Oriented Chemical Engineering, Nanjing Tech University, Nanjing211816, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of agricultural and food chemistry"
+    ],
+    "journal_abbrev": [
+      "J Agric Food Chem"
+    ],
+    "pub_date": "2026 Oct 21",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/22 17:33",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42904968"
+    ],
+    "review": [
+      "42904968"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/jafcau/article-lookup/doi/10.1021/acs.jafc.6c06037",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

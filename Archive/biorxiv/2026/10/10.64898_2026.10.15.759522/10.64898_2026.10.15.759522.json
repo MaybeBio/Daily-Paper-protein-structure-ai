@@ -1,0 +1,205 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.15.759522",
+  "title": "Sequence-only prediction of VHH nanobody epitopes and paratopes on HER2 with a frozen protein language model ( ESM2) and a structure-derived residue prior",
+  "doi": "10.64898/2026.10.15.759522",
+  "abstract": "Mapping which antigen residues an antibody contacts (the epitope) and which antibody residues do the contacting (the paratope) is central to therapeutic antibody engineering, yet most accurate methods require a solved or predicted three dimensional complex. We address a sequence only formulation: predict the HER2 epitope and the single domain antibody (VHH, or nanobody) paratope from the two sequences alone, with no three dimensional structure prediction at any stage. We pair a frozen ESM2 650M protein language model, used strictly as a feature extractor, with a lightweight trainable module per chain encoders, a shared cross attention block, and epitope, paratope and binder heads (12.2M trainable parameters) trained jointly on three public sources: HER2 binding and blocking competition assays (\"AVIDa hHER2\" to be published by organizers of SEPIQ 2026 The authors have no right to share the dataset to public ), residue level antibody antigen contacts (SAbDab2), and two reference antibody crystal structures. The blocking competition signal is de confounded into a trastuzumab minus pertuzumab contrast whose sign encodes the HER2 domain and which is used only as a training target, never as a model input. Under a three way, sequence cluster level split with a test set opened exactly once, the binder head reaches PR AUC 0.999 and the paratope head 0.659, while residue level epitope prediction on novel antigens remains near baseline (0.070) a limitation the sealed split exposes rather than hides. Sequence alone recovers the competition derived HER2 domain (the competitor class) for 87.7% of held out clones, a leakage free result. For HER2 specifically, a residue prior built from 25 mined HER2 antibody complexes and validated by leave one out reaches 0.26 to 0.29 residue PR AUC once the domain is correct, roughly 3.6 times the language model head alone. We release and report two submission variants per test clone, a fully sequence only prediction and a competition informed one ,and document which data were used where. Keywords: epitope prediction; paratope prediction; nanobody; VHH; HER2; protein language model; ESM2; cross attention; antibody antigen interface; leakage safe evaluation.",
+  "authors": [
+    "Dharani Babu",
+    "Sundaramurthy Pandurangan",
+    "Agilisium Consulting"
+  ],
+  "published_date": "2026-10-21",
+  "updated_date": "2026-10-22T05:25:21Z",
+  "journal": "bioRxiv",
+  "category": "Bioinformatics",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.15.759522",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.15.759522.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [
+    "Bioinformatics"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Bioinformatics",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            22
+          ]
+        ],
+        "date-time": "2026-10-22T05:40:00Z",
+        "timestamp": 1792647600762,
+        "version": "4.5.0"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            21
+          ]
+        ]
+      },
+      "group-title": "Bioinformatics",
+      "reference-count": 0,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                21
+              ]
+            ],
+            "date-time": "2026-10-21T00:00:00Z",
+            "timestamp": 1792540800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            21
+          ]
+        ]
+      },
+      "abstract": "<jats:p>Mapping which antigen residues an antibody contacts (the epitope) and which antibody residues do the contacting (the paratope) is central to therapeutic antibody engineering, yet most accurate methods require a solved or predicted three dimensional complex. We address a sequence only formulation: predict the HER2 epitope and the single domain antibody (VHH, or nanobody) paratope from the two sequences alone, with no three dimensional structure prediction at any stage. We pair a frozen ESM2 650M protein language model, used strictly as a feature extractor, with a lightweight trainable module per chain encoders, a shared cross attention block, and epitope, paratope and binder heads (12.2M trainable parameters) trained jointly on three public sources: HER2 binding and blocking competition assays (\"AVIDa hHER2\" to be published by organizers of SEPIQ 2026  The authors have no right to share the dataset to public ), residue level antibody antigen contacts (SAbDab2), and two reference antibody crystal structures. The blocking competition signal is de confounded into a trastuzumab minus pertuzumab contrast whose sign encodes the HER2 domain and which is used only as a training target, never as a model input. Under a three way, sequence cluster level split with a test set opened exactly once, the binder head reaches PR AUC 0.999 and the paratope head 0.659, while residue level epitope prediction on novel antigens remains near baseline (0.070) a limitation the sealed split exposes rather than hides. Sequence alone recovers the competition derived HER2 domain (the competitor class) for 87.7% of held out clones, a leakage free result. For HER2 specifically, a residue prior built from 25 mined HER2 antibody complexes and validated by leave one out reaches 0.26 to 0.29 residue PR AUC once the domain is correct, roughly 3.6 times the language model head alone. We release and report two submission variants per test clone, a fully sequence only prediction and a competition informed one ,and document which data were used where.\nKeywords: epitope prediction; paratope prediction; nanobody; VHH; HER2; protein language model; ESM2; cross attention; antibody antigen interface; leakage safe evaluation.</jats:p>",
+      "DOI": "10.64898/2026.10.15.759522",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            22
+          ]
+        ],
+        "date-time": "2026-10-22T05:25:21Z",
+        "timestamp": 1792646721000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Sequence-only prediction of VHH nanobody epitopes and paratopes on HER2 with a frozen protein language model ( ESM2) and a structure-derived residue prior"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "given": "Dharani",
+          "family": "Babu",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Agilisium Consulting"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Sundaramurthy",
+          "family": "Pandurangan",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Agilisium Consulting"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "name": "Agilisium Consulting",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.10.15.759522",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            22
+          ]
+        ],
+        "date-time": "2026-10-22T05:25:21Z",
+        "timestamp": 1792646721000
+      },
+      "score": 67.541,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.10.15.759522"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            21
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.64898/2026.10.15.759522",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            21
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

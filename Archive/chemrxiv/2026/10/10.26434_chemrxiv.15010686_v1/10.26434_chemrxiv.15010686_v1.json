@@ -1,0 +1,204 @@
+{
+  "source": "chemrxiv",
+  "source_id": "10.26434/chemrxiv.15010686/v1",
+  "title": "DeImmu-MPNN: Reducing Immunogenicity in De Novo Protein Design",
+  "doi": "10.26434/chemrxiv.15010686/v1",
+  "abstract": "De novo-designed proteins lack an evolutionary history of immune tolerance, making antidrug antibody (ADA) responses a barrier to their clinical translation. ProteinMPNN is widely used to design sequences for a given protein backbone, but it does not account for immune tolerance, which is important for therapeutic applications. The ADA response to injected proteins is driven principally by MHC class II presentation of protein-derived peptides to CD4+ T-helper cells. We fine-tuned ProteinMPNN using direct preference optimization to reduce ADA-relevant class II epitopes across a six-allele HLA-DRB1 panel, while also reducing class I epitopes. The resulting model, DeImmu-MPNN, reduces NetMHCIIpan-predicted MHC class II presentation by 41.4% relative to the baseline model, bringing predicted presentation to the level of length-matched human proteins, and NetMHCpan-predicted MHC class I presentation by 33.0% on the same designs, for 2.1 points of sequence recovery and no detectable structural cost. The reduction transfers without retraining to unseen DRB1 alleles, the DRB3/4/5 paralogs, and HLA-DQ. It generalizes to 11 published de novo binder complexes, with mean reductions of 50.4% for class II and 30.2% for class I and no systematic predicted cost to interface confidence. DeImmu-MPNN provides a framework for incorporating immune presentation into protein sequence design and may dramatically facilitate the design of proteins with reduced immunogenicity.",
+  "authors": [
+    "Niklas Halbwedl",
+    "Sebastian Springer",
+    "Martin Zacharias"
+  ],
+  "published_date": "2026-10-19",
+  "updated_date": "2026-10-20T06:39:56Z",
+  "journal": "ChemRxiv",
+  "category": "",
+  "landing_url": "https://doi.org/10.26434/chemrxiv.15010686/v1",
+  "pdf_url": "https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15010686/v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "1",
+  "keywords": [],
+  "extra": {
+    "publisher": "American Chemical Society (ACS)",
+    "prefix": "10.26434",
+    "type": "posted-content",
+    "group_title": "",
+    "raw_record": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            20
+          ]
+        ],
+        "date-time": "2026-10-20T07:38:23Z",
+        "timestamp": 1792481903133,
+        "version": "4.5.0"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            19
+          ]
+        ]
+      },
+      "reference-count": 0,
+      "publisher": "American Chemical Society (ACS)",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "abstract": "<jats:p>De novo-designed proteins lack an evolutionary history of immune tolerance, making antidrug antibody (ADA) responses a barrier to their clinical translation. ProteinMPNN is widely used to design sequences for a given protein backbone, but it does not account for immune tolerance, which is important for therapeutic applications. The ADA response to injected proteins is driven principally by MHC class II presentation of protein-derived peptides to CD4+ T-helper cells. We fine-tuned ProteinMPNN using direct preference optimization to reduce ADA-relevant class II epitopes across a six-allele HLA-DRB1 panel, while also reducing class I epitopes. The resulting model, DeImmu-MPNN, reduces NetMHCIIpan-predicted MHC class II presentation by 41.4% relative to the baseline model, bringing predicted presentation to the level of length-matched human proteins, and NetMHCpan-predicted MHC class I presentation by 33.0% on the same designs, for 2.1 points of sequence recovery and no detectable structural cost. The reduction transfers without retraining to unseen DRB1 alleles, the DRB3/4/5 paralogs, and HLA-DQ. It generalizes to 11 published de novo binder complexes, with mean reductions of 50.4% for class II and 30.2% for class I and no systematic predicted cost to interface confidence. DeImmu-MPNN provides a framework for incorporating immune presentation into protein sequence design and may dramatically facilitate the design of proteins with reduced immunogenicity.</jats:p>",
+      "DOI": "10.26434/chemrxiv.15010686/v1",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            20
+          ]
+        ],
+        "date-time": "2026-10-20T06:39:56Z",
+        "timestamp": 1792478396000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "DeImmu-MPNN: Reducing Immunogenicity in De Novo Protein Design"
+      ],
+      "prefix": "10.26434",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-4574-3479",
+          "authenticated-orcid": true,
+          "given": "Niklas",
+          "family": "Halbwedl",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Center for Protein Assemblies",
+              "place": [
+                "Garching, Germany"
+              ]
+            },
+            {
+              "name": "Technical University of Munich",
+              "place": [
+                "Garching, Germany"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Sebastian",
+          "family": "Springer",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Science",
+              "place": [
+                "Bremen, Germany"
+              ]
+            },
+            {
+              "name": "Constructor University",
+              "place": [
+                "Bremen, Germany"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Martin",
+          "family": "Zacharias",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Center for Protein Assemblies",
+              "place": [
+                "Garching, Germany"
+              ]
+            },
+            {
+              "name": "Technical University of Munich",
+              "place": [
+                "Garching, Germany"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "316",
+      "link": [
+        {
+          "URL": "https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15010686/v1",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            20
+          ]
+        ],
+        "date-time": "2026-10-20T06:39:56Z",
+        "timestamp": 1792478396000
+      },
+      "score": 51.969444,
+      "resource": {
+        "primary": {
+          "URL": "https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010686/v1"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            19
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.26434/chemrxiv.15010686/v1",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            19
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

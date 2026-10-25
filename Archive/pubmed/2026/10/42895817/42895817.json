@@ -1,0 +1,121 @@
+{
+  "identity": {
+    "pmid": "42895817",
+    "doi": "10.1093/bioinformatics/btag785",
+    "title": "DNA-BFN: Bayesian Flow Networks for Generative Modeling of Regulatory DNA Sequences."
+  },
+  "content": {
+    "abstract": "MOTIVATION: Designing regulatory DNA sequences is challenging due to their discrete nucleotide alphabet and complex higher-order dependencies underlying regulatory function. Many existing generative models, particularly diffusion-based approaches, learn by injecting stochastic noise into sequences and training denoising processes, which can distort discrete sequence structure and weaken biological constraints. RESULTS: Here, we introduce DNA Bayesian Flow Networks (DNA-BFN), a generative framework that models regulatory DNA sequences through iterative Bayesian updates of per-position nucleotide distributions. By directly modeling per-position categorical beliefs, DNA-BFN realizes a diffusion-like generative process without explicitly perturbing discrete nucleotide sequences, enabling fully differentiable training while preserving discrete sequence structure. Across eight regulatory sequence datasets spanning diverse species, scales, and sequence lengths, DNA-BFN consistently outperforms state-of-the-art baselines, faithfully preserves sequence feature statistics and regulatory patterns, enables few-shot sequence design, and achieves faster sampling efficiency. These results show that framing sequence generation as progressive uncertainty reduction in probability space provides an effective and generalizable approach for nucleotide sequence design. AVAILABILITY: The software and its source code are publicly available at https://github.com/WangLabTHU/DNA-BFN. The dataset, source code and model weights are available in the Zenodo repository: https://doi.org/10.5281/zenodo.20177972. SUPPLEMENTARY INFORMATION: Supplementary data are available at Bioinformatics online.",
+    "keywords": [
+      "Bayesian Flow Networks",
+      "Generative Modeling",
+      "Regulatory Sequence Generation"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yu, Han",
+        "Du, Qixiu",
+        "Wei, Lei",
+        "Wang, Xiaowo"
+      ],
+      "short_names": [
+        "Yu H",
+        "Du Q",
+        "Wei L",
+        "Wang X"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-2965-8036"
+      ],
+      "affiliations": [
+        "Ministry of Education Key Laboratory of Bioinformatics, Center for Synthetic and Systems Biology, Beijing National Research Center for Information Science and Technology, Department of Automation, Tsinghua University, Beijing, 100084, China.",
+        "Ministry of Education Key Laboratory of Bioinformatics, Center for Synthetic and Systems Biology, Beijing National Research Center for Information Science and Technology, Department of Automation, Tsinghua University, Beijing, 100084, China.",
+        "Ministry of Education Key Laboratory of Bioinformatics, Center for Synthetic and Systems Biology, Beijing National Research Center for Information Science and Technology, Department of Automation, Tsinghua University, Beijing, 100084, China.",
+        "Ministry of Education Key Laboratory of Bioinformatics, Center for Synthetic and Systems Biology, Beijing National Research Center for Information Science and Technology, Department of Automation, Tsinghua University, Beijing, 100084, China.",
+        "College of Artificial Intelligence, Tsinghua University, Beijing, 100084, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yu, Han",
+        "short_name": "Yu H",
+        "identifiers": [],
+        "affiliations": [
+          "Ministry of Education Key Laboratory of Bioinformatics, Center for Synthetic and Systems Biology, Beijing National Research Center for Information Science and Technology, Department of Automation, Tsinghua University, Beijing, 100084, China."
+        ]
+      },
+      {
+        "full_name": "Du, Qixiu",
+        "short_name": "Du Q",
+        "identifiers": [],
+        "affiliations": [
+          "Ministry of Education Key Laboratory of Bioinformatics, Center for Synthetic and Systems Biology, Beijing National Research Center for Information Science and Technology, Department of Automation, Tsinghua University, Beijing, 100084, China."
+        ]
+      },
+      {
+        "full_name": "Wei, Lei",
+        "short_name": "Wei L",
+        "identifiers": [],
+        "affiliations": [
+          "Ministry of Education Key Laboratory of Bioinformatics, Center for Synthetic and Systems Biology, Beijing National Research Center for Information Science and Technology, Department of Automation, Tsinghua University, Beijing, 100084, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Xiaowo",
+        "short_name": "Wang X",
+        "identifiers": [
+          "0000-0003-2965-8036"
+        ],
+        "affiliations": [
+          "Ministry of Education Key Laboratory of Bioinformatics, Center for Synthetic and Systems Biology, Beijing National Research Center for Information Science and Technology, Department of Automation, Tsinghua University, Beijing, 100084, China.",
+          "College of Artificial Intelligence, Tsinghua University, Beijing, 100084, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Bioinformatics (Oxford, England)"
+    ],
+    "journal_abbrev": [
+      "Bioinformatics"
+    ],
+    "pub_date": "2026 Oct 19",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/19 17:31",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42895817"
+    ],
+    "review": [
+      "42895817"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btag785",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

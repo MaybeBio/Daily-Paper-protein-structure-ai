@@ -1,0 +1,165 @@
+{
+  "identity": {
+    "pmid": "42915777",
+    "doi": "10.1021/acs.jafc.6c09627",
+    "title": "Softening a Salt Bridge Improves the Low-Temperature Activity of a Mesophilic Enzyme While Largely Preserving Its Thermal Stability."
+  },
+  "content": {
+    "abstract": "Mesophilic enzymes are often less active at low and moderate temperatures than their psychrophilic homologues. The earthworm Eisenia fetida has cold-adapted enzymes, but the end-beta-1,4-mannanase shows weaker activity at low temperatures compared with other E. fetida enzymes. Cold-adapted enzymes need flexible structures, particularly around the active site, to achieve high activity at low temperatures. Salt bridges contribute to the rigidity and stability of proteins. We focused on salt bridges, including pairwise or bifurcated hydrogen bonds between arginine and glutamic acid/aspartic acid in E. fetida mannanase. The mutation of Asp316 or Arg318 in these salt bridges increased the low-temperature activity, especially the Arg318Lys mutant, which exhibited nearly 2.5-fold higher activity than the wild-type at 10-20  degrees C while largely preserving its thermal stability. Thus, softening the salt bridge by the arginine-to-lysine mutation based on the tertiary structural information increased low-temperature activity while largely preserving thermal stability.",
+    "keywords": [
+      "Eisenia fetida",
+      "X-ray crystallography",
+      "cold adaptation",
+      "endo-beta-1,4-mannanase",
+      "enzyme mutation",
+      "molecular dynamics simulation"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "Enzyme Stability",
+      "*Oligochaeta/enzymology/chemistry/genetics",
+      "Cold Temperature",
+      "*beta-Mannosidase/chemistry/genetics/metabolism",
+      "Hydrogen Bonding",
+      "Catalytic Domain",
+      "Kinetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Hirano, Yu",
+        "Naka, Yuki",
+        "Hanazono, Yuya",
+        "Nakazawa, Masami",
+        "Sakamoto, Tatsuji",
+        "Ueda, Mitsuhiro",
+        "Tamada, Taro"
+      ],
+      "short_names": [
+        "Hirano Y",
+        "Naka Y",
+        "Hanazono Y",
+        "Nakazawa M",
+        "Sakamoto T",
+        "Ueda M",
+        "Tamada T"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-3007-6052",
+        "ORCID: 0000-0003-1419-8022"
+      ],
+      "affiliations": [
+        "Institute for Quantum Life Science, National Institutes for Quantum Science and Technology, 4-9-1 Anagawa, Inage, Chiba, Chiba263-8555, Japan.",
+        "Center of Quantum Life Science for Structural Therapeutics, Chiba University, 1-33 Yayoi-cho, Inage, Chiba263-8522, Japan.",
+        "Graduate School of Agriculture, Osaka Metropolitan University, 1-1 Gakuen-tyo, Sakai, Osaka599-8531, Japan.",
+        "Medical Research Institute, Institute of Science Tokyo, 1-5-45 Yushima, Bunkyo, Tokyo113-8510, Japan.",
+        "Graduate School of Agriculture, Osaka Metropolitan University, 1-1 Gakuen-tyo, Sakai, Osaka599-8531, Japan.",
+        "Graduate School of Agriculture, Osaka Metropolitan University, 1-1 Gakuen-tyo, Sakai, Osaka599-8531, Japan.",
+        "Graduate School of Agriculture, Osaka Metropolitan University, 1-1 Gakuen-tyo, Sakai, Osaka599-8531, Japan.",
+        "Institute for Quantum Life Science, National Institutes for Quantum Science and Technology, 4-9-1 Anagawa, Inage, Chiba, Chiba263-8555, Japan.",
+        "Center of Quantum Life Science for Structural Therapeutics, Chiba University, 1-33 Yayoi-cho, Inage, Chiba263-8522, Japan.",
+        "Neutron Industrial Application Promotion Center, Comprehensive Research Organization for Science and Society, 162-1 Shirakata, Tokai, Ibaraki319-1106, Japan."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Hirano, Yu",
+        "short_name": "Hirano Y",
+        "identifiers": [
+          "0000-0002-3007-6052"
+        ],
+        "affiliations": [
+          "Institute for Quantum Life Science, National Institutes for Quantum Science and Technology, 4-9-1 Anagawa, Inage, Chiba, Chiba263-8555, Japan.",
+          "Center of Quantum Life Science for Structural Therapeutics, Chiba University, 1-33 Yayoi-cho, Inage, Chiba263-8522, Japan."
+        ]
+      },
+      {
+        "full_name": "Naka, Yuki",
+        "short_name": "Naka Y",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate School of Agriculture, Osaka Metropolitan University, 1-1 Gakuen-tyo, Sakai, Osaka599-8531, Japan."
+        ]
+      },
+      {
+        "full_name": "Hanazono, Yuya",
+        "short_name": "Hanazono Y",
+        "identifiers": [],
+        "affiliations": [
+          "Medical Research Institute, Institute of Science Tokyo, 1-5-45 Yushima, Bunkyo, Tokyo113-8510, Japan."
+        ]
+      },
+      {
+        "full_name": "Nakazawa, Masami",
+        "short_name": "Nakazawa M",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate School of Agriculture, Osaka Metropolitan University, 1-1 Gakuen-tyo, Sakai, Osaka599-8531, Japan."
+        ]
+      },
+      {
+        "full_name": "Sakamoto, Tatsuji",
+        "short_name": "Sakamoto T",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate School of Agriculture, Osaka Metropolitan University, 1-1 Gakuen-tyo, Sakai, Osaka599-8531, Japan."
+        ]
+      },
+      {
+        "full_name": "Ueda, Mitsuhiro",
+        "short_name": "Ueda M",
+        "identifiers": [],
+        "affiliations": [
+          "Graduate School of Agriculture, Osaka Metropolitan University, 1-1 Gakuen-tyo, Sakai, Osaka599-8531, Japan."
+        ]
+      },
+      {
+        "full_name": "Tamada, Taro",
+        "short_name": "Tamada T",
+        "identifiers": [
+          "0000-0003-1419-8022"
+        ],
+        "affiliations": [
+          "Institute for Quantum Life Science, National Institutes for Quantum Science and Technology, 4-9-1 Anagawa, Inage, Chiba, Chiba263-8555, Japan.",
+          "Center of Quantum Life Science for Structural Therapeutics, Chiba University, 1-33 Yayoi-cho, Inage, Chiba263-8522, Japan.",
+          "Neutron Industrial Application Promotion Center, Comprehensive Research Organization for Science and Society, 162-1 Shirakata, Tokai, Ibaraki319-1106, Japan."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of agricultural and food chemistry"
+    ],
+    "journal_abbrev": [
+      "J Agric Food Chem"
+    ],
+    "pub_date": "2026 Oct 7",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42915777"
+    ],
+    "review": [
+      "42915777"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

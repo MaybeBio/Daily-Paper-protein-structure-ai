@@ -1,0 +1,95 @@
+{
+  "identity": {
+    "pmid": "42915347",
+    "doi": "10.1021/acs.jpcb.6c02495",
+    "title": "A Novel Mechanistic Route to the Formation of an Internal Aldimine between Pyridoxal 5'-Phosphate and Ornithine Decarboxylase Enzyme at Its Active Site."
+  },
+  "content": {
+    "abstract": "Pyridoxal 5'-phosphate (PLP) functions as a vital cofactor in numerous biochemical processes. To perform its role as a cofactor, PLP has to first form a Schiff base complex with the enzyme, known as the internal aldimine, which is an important step for the function of all PLP dependent enzymes. In this study, we investigate the reaction mechanism of this process at the active site of a PLP-dependent enzyme, namely ornithine decarboxylase (ODC), using QM/MM molecular dynamics simulations combined with enhanced sampling methods. The reaction starts with the nucleophilic attack of the side chain amino group of Lys69 on the aldehyde carbon of PLP, followed by proton transfer that leads to the formation of the carbinolamine intermediate. This intermediate subsequently undergoes dehydration, resulting in the generation of a water molecule and the internal aldimine. Our mechanistic study reveals that the nucleophilic attack is almost spontaneous with a very low free energy barrier of 0.5 kcal/mol. The subsequent proton transfer to the phenolic oxygen from Lys69 NZ follows a novel pathway, facilitated by the rotation of the dihedral angle Phi(NZ-C4A-C4-C3). This step is found to have a free energy barrier of 11.6 kcal/mol, which makes it the rate-determining step of the overall reaction. The dehydration step, which involves the transfer of a proton from the phenolic oxygen to the aldehyde oxygen and breaking of the C4A-O4A bond that results in the formation of a water molecule, is also found to have a low free energy barrier of 1.6 kcal/mol. This step leads to the formation of the internal aldimine with a free energy difference of 15.4 kcal/mol. The current study elucidates a novel reaction pathway and the associated free energetics at the active site of ODC and provides valuable insights into the catalytic mechanism of internal aldimine formation for PLP-dependent enzymes.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Pyridoxal Phosphate/chemistry/metabolism",
+      "Catalytic Domain",
+      "*Ornithine Decarboxylase/chemistry/metabolism",
+      "Molecular Dynamics Simulation",
+      "*Imines/chemistry/metabolism",
+      "Thermodynamics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Rastogi, Shreya",
+        "Chandra, Amalendu"
+      ],
+      "short_names": [
+        "Rastogi S",
+        "Chandra A"
+      ],
+      "auids": [
+        "ORCID: 0009-0001-8075-1706",
+        "ORCID: 0000-0003-1223-8326"
+      ],
+      "affiliations": [
+        "Department of Chemistry, Indian Institute of TechnologyKanpur, 208016Uttar Pradesh, India.",
+        "Department of Chemistry, Indian Institute of TechnologyKanpur, 208016Uttar Pradesh, India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Rastogi, Shreya",
+        "short_name": "Rastogi S",
+        "identifiers": [
+          "0009-0001-8075-1706"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Indian Institute of TechnologyKanpur, 208016Uttar Pradesh, India."
+        ]
+      },
+      {
+        "full_name": "Chandra, Amalendu",
+        "short_name": "Chandra A",
+        "identifiers": [
+          "0000-0003-1223-8326"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Indian Institute of TechnologyKanpur, 208016Uttar Pradesh, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The journal of physical chemistry. B"
+    ],
+    "journal_abbrev": [
+      "J Phys Chem B"
+    ],
+    "pub_date": "2026 Sep 17",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42915347"
+    ],
+    "review": [
+      "42915347"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

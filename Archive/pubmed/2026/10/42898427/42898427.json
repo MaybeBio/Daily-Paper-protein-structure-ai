@@ -1,0 +1,162 @@
+{
+  "identity": {
+    "pmid": "42898427",
+    "doi": "10.3389/fgene.2026.1875740",
+    "title": "Molecular characterization and pathogenicity stratification of YWHAG missense variants in developmental and epileptic encephalopathy."
+  },
+  "content": {
+    "abstract": "BACKGROUND: Variants in YWHAG cause severe developmental and epileptic encephalopathy (DEE) with early-onset seizures. Rapid and precise clinical classification of its missense variants presents a substantial challenge. This study sought to explore YWHAG spatiotemporal expression-pathogenicity correlation and reliable pathogenicity indicators for its variants to promote clinical genetic diagnosis. METHODS: In this study, 55 YWHAG missense variants were curated, including 17 pathogenic/likely pathogenic variants that met ACMG guideline criteria and 38 benign variants from gnomAD. We performed protein structure modeling, spatiotemporal expression profiling, single-cell transcriptome analysis, PPI network construction, and functional enrichment analysis. We also evaluated 34 pathogenicity prediction tools using accuracy, balanced accuracy, AUC, and MCC. RESULTS: Protein structure modeling revealed that hydrogen bond alterations occurred in both pathogenic and benign YWHAG variants, which could not reliably distinguish the two groups. YWHAG was highly expressed in the central nervous system with three distinct developmental peaks, shifting from both excitatory and inhibitory neurons to predominantly excitatory neurons during cerebral organoid maturation. The YWHAG protein regulated the MAPK, PI3K-Akt, Hippo pathways and cell cycle progression. Among the 34 evaluated tools, deep learning and ensemble algorithms outperformed traditional conservation-based predictors, with MetaSVM showing the best overall performance, MetaLR achieving excellent specificity and ESM1b attaining the highest AUC value. CONCLUSION: Meta-predictors may effectively predict YWHAG missense variant pathogenicity, and YWHAG spatiotemporal expression aligns with its DEE pathogenic role. These computational tools may provide reliable support for the pathogenicity assessment of YWHAG variants in clinical genetic diagnosis.",
+    "keywords": [
+      "YWHAG",
+      "developmental and epileptic encephalopathy",
+      "missense variant",
+      "pathogenicity assessment",
+      "protein‒protein interaction",
+      "spatial-temporal expression"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liu, Wen-Hui",
+        "Zhou, Juan",
+        "Zhu, Zhong-Yan",
+        "Wen, Qian-Ru",
+        "Zhang, Si-Qi",
+        "Ding, Yan",
+        "Meng, Heng"
+      ],
+      "short_names": [
+        "Liu WH",
+        "Zhou J",
+        "Zhu ZY",
+        "Wen QR",
+        "Zhang SQ",
+        "Ding Y",
+        "Meng H"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Neurology, The First Affiliated Hospital & Clinical Neuroscience Institute of Jinan University, Guangzhou, China.",
+        "Department of Neurology, The First Affiliated Hospital & Clinical Neuroscience Institute of Jinan University, Guangzhou, China.",
+        "Department of Neurology, The First People's Hospital of Chenzhou, Chenzhou, Hunan, China.",
+        "Department of Neurology, The First Affiliated Hospital & Clinical Neuroscience Institute of Jinan University, Guangzhou, China.",
+        "The Sixth Affiliated Hospital of Jinan University, Dongguan, Guangdong, China.",
+        "Department of Neurology, The First Affiliated Hospital & Clinical Neuroscience Institute of Jinan University, Guangzhou, China.",
+        "Department of Neurology, The First Affiliated Hospital & Clinical Neuroscience Institute of Jinan University, Guangzhou, China.",
+        "Department of Neurology, The First Affiliated Hospital & Clinical Neuroscience Institute of Jinan University, Guangzhou, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Liu, Wen-Hui",
+        "short_name": "Liu WH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology, The First Affiliated Hospital & Clinical Neuroscience Institute of Jinan University, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Juan",
+        "short_name": "Zhou J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology, The First Affiliated Hospital & Clinical Neuroscience Institute of Jinan University, Guangzhou, China.",
+          "Department of Neurology, The First People's Hospital of Chenzhou, Chenzhou, Hunan, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Zhong-Yan",
+        "short_name": "Zhu ZY",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology, The First Affiliated Hospital & Clinical Neuroscience Institute of Jinan University, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Wen, Qian-Ru",
+        "short_name": "Wen QR",
+        "identifiers": [],
+        "affiliations": [
+          "The Sixth Affiliated Hospital of Jinan University, Dongguan, Guangdong, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Si-Qi",
+        "short_name": "Zhang SQ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology, The First Affiliated Hospital & Clinical Neuroscience Institute of Jinan University, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Ding, Yan",
+        "short_name": "Ding Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology, The First Affiliated Hospital & Clinical Neuroscience Institute of Jinan University, Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Meng, Heng",
+        "short_name": "Meng H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Neurology, The First Affiliated Hospital & Clinical Neuroscience Institute of Jinan University, Guangzhou, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in genetics"
+    ],
+    "journal_abbrev": [
+      "Front Genet"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/20 11:33",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42898427"
+    ],
+    "review": [
+      "42898427"
+    ],
+    "pmc": [
+      "13677832"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/CPTAC-450",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fgene.2026.1875740",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "identity": {
+    "pmid": "42917295",
+    "doi": "10.1021/acs.jctc.6c01395",
+    "title": "Bayesian Learning of Distance Metrics Beyond RMSD for Biomolecule Alignment, Clustering, and Domain Identification."
+  },
+  "content": {
+    "abstract": "Root-mean-square deviation (RMSD) is the standard metric of structural comparison in molecular dynamics (MD) simulations. In its conventional form, RMSD assigns equal weight to all atoms regardless of mobility. Hence, flexible loops and disordered regions can dominate a global RMSD, while the rigid functional core contributes negligibly to the overall metric. To address this issue, we introduce the Bayes-optimal RMSD (BRMSD), which optimizes per-atom weights jointly with structural averages by maximizing a Bayesian posterior. In a trade-off between low RMSD and weight uniformity, a position-fluctuation parameter sigma controls the transition from classical RMSD (sigma --> infinity) to a progressive focus on a rigid core (sigma --> 0). The BRMSD framework supports analysis modules for structural alignment, focused alignment onto a user-specified domain, trajectory smoothing, soft K-means conformational clustering, and rigid-domain identification. These modules are implemented in the open-source Python package BRMSD and benchmarked on two MD systems, the endoplasmic reticulum translocon-associated protein SND3 and the phosphotransferase adenylate kinase.",
+    "keywords": [],
+    "mesh_terms": [
+      "Bayes Theorem",
+      "*Molecular Dynamics Simulation",
+      "Clustering Algorithms",
+      "*Adenylate Kinase/chemistry/metabolism",
+      "Cluster Analysis",
+      "Protein Domains"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Mukherjee, Saumyak",
+        "Hummer, Gerhard"
+      ],
+      "short_names": [
+        "Mukherjee S",
+        "Hummer G"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-2196-3423",
+        "ORCID: 0000-0001-7768-746X"
+      ],
+      "affiliations": [
+        "Department of Theoretical Biophysics, Max Planck Institute of Biophysics, 60438Frankfurt am Main, Germany.",
+        "Department of Chemical Sciences, Indian Institute of Science Education and Research, 760003Berhampur, Odisha, India.",
+        "Department of Theoretical Biophysics, Max Planck Institute of Biophysics, 60438Frankfurt am Main, Germany.",
+        "Institute of Biophysics, Goethe University Frankfurt, 60438Frankfurt am Main, Germany."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Mukherjee, Saumyak",
+        "short_name": "Mukherjee S",
+        "identifiers": [
+          "0000-0003-2196-3423"
+        ],
+        "affiliations": [
+          "Department of Theoretical Biophysics, Max Planck Institute of Biophysics, 60438Frankfurt am Main, Germany.",
+          "Department of Chemical Sciences, Indian Institute of Science Education and Research, 760003Berhampur, Odisha, India."
+        ]
+      },
+      {
+        "full_name": "Hummer, Gerhard",
+        "short_name": "Hummer G",
+        "identifiers": [
+          "0000-0001-7768-746X"
+        ],
+        "affiliations": [
+          "Department of Theoretical Biophysics, Max Planck Institute of Biophysics, 60438Frankfurt am Main, Germany.",
+          "Institute of Biophysics, Goethe University Frankfurt, 60438Frankfurt am Main, Germany."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of chemical theory and computation"
+    ],
+    "journal_abbrev": [
+      "J Chem Theory Comput"
+    ],
+    "pub_date": "2026 Oct 13",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42917295"
+    ],
+    "review": [
+      "42917295"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

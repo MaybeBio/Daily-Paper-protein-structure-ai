@@ -1,0 +1,135 @@
+{
+  "identity": {
+    "pmid": "42902938",
+    "doi": "10.1021/acs.bioconjchem.6c00309",
+    "title": "Artificial Intelligence-Driven Multiscale Design of Protein-Based Materials."
+  },
+  "content": {
+    "abstract": "Protein filaments, including silk, collagen, and amyloids, are natural building blocks whose hierarchical self-assembly produces adaptive mechanics and diverse functions. Conventional protein engineering has had limited success in resolving sequence-structure-function relationships across length scales. Recent advances in artificial intelligence (AI) now provide a framework for physics-informed multiscale design, from molecular motifs to functional macroscopic architectures. Machine-learning models can encode biophysical principles and guide the generation of protein-based materials. When combined with high-throughput experimentation, generative AI can integrate sequence design, structure prediction, and functional validation into closed-loop workflows. These workflows can accelerate the development of programmable biomaterials. This review summarizes AI-driven advances in protein-based materials and emerging links with autonomous robotics.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Artificial Intelligence",
+      "*Proteins/chemistry",
+      "*Protein Engineering/methods",
+      "Generative Artificial Intelligence",
+      "Animals",
+      "*Biocompatible Materials/chemistry",
+      "Humans"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhou, Xinzhi",
+        "Zhao, Chen",
+        "Zhang, Qiang",
+        "Yao, Yuan"
+      ],
+      "short_names": [
+        "Zhou X",
+        "Zhao C",
+        "Zhang Q",
+        "Yao Y"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-5262-5115"
+      ],
+      "affiliations": [
+        "Zhejiang Key Laboratory of Intelligent Manufacturing for Functional Chemicals, College of Chemical and Biological Engineering, Zhejiang University, Hangzhou310027, China.",
+        "ZJU-Hangzhou Global Scientific and Technological Innovation Center, Zhejiang University, Hangzhou311200, China.",
+        "Zhejiang Key Laboratory of Intelligent Manufacturing for Functional Chemicals, College of Chemical and Biological Engineering, Zhejiang University, Hangzhou310027, China.",
+        "ZJU-Hangzhou Global Scientific and Technological Innovation Center, Zhejiang University, Hangzhou311200, China.",
+        "ZJU-Hangzhou Global Scientific and Technological Innovation Center, Zhejiang University, Hangzhou311200, China.",
+        "Zhejiang University-University of Illinois Urbana-Champaign Institute, Zhejiang University, Haining314400, China.",
+        "Zhejiang Key Laboratory of Intelligent Manufacturing for Functional Chemicals, College of Chemical and Biological Engineering, Zhejiang University, Hangzhou310027, China.",
+        "ZJU-Hangzhou Global Scientific and Technological Innovation Center, Zhejiang University, Hangzhou311200, China.",
+        "Department of Food Science and Technology, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai200240, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhou, Xinzhi",
+        "short_name": "Zhou X",
+        "identifiers": [],
+        "affiliations": [
+          "Zhejiang Key Laboratory of Intelligent Manufacturing for Functional Chemicals, College of Chemical and Biological Engineering, Zhejiang University, Hangzhou310027, China.",
+          "ZJU-Hangzhou Global Scientific and Technological Innovation Center, Zhejiang University, Hangzhou311200, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Chen",
+        "short_name": "Zhao C",
+        "identifiers": [],
+        "affiliations": [
+          "Zhejiang Key Laboratory of Intelligent Manufacturing for Functional Chemicals, College of Chemical and Biological Engineering, Zhejiang University, Hangzhou310027, China.",
+          "ZJU-Hangzhou Global Scientific and Technological Innovation Center, Zhejiang University, Hangzhou311200, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Qiang",
+        "short_name": "Zhang Q",
+        "identifiers": [],
+        "affiliations": [
+          "ZJU-Hangzhou Global Scientific and Technological Innovation Center, Zhejiang University, Hangzhou311200, China.",
+          "Zhejiang University-University of Illinois Urbana-Champaign Institute, Zhejiang University, Haining314400, China."
+        ]
+      },
+      {
+        "full_name": "Yao, Yuan",
+        "short_name": "Yao Y",
+        "identifiers": [
+          "0000-0001-5262-5115"
+        ],
+        "affiliations": [
+          "Zhejiang Key Laboratory of Intelligent Manufacturing for Functional Chemicals, College of Chemical and Biological Engineering, Zhejiang University, Hangzhou310027, China.",
+          "ZJU-Hangzhou Global Scientific and Technological Innovation Center, Zhejiang University, Hangzhou311200, China.",
+          "Department of Food Science and Technology, School of Agriculture and Biology, Shanghai Jiao Tong University, Shanghai200240, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Bioconjugate chemistry"
+    ],
+    "journal_abbrev": [
+      "Bioconjug Chem"
+    ],
+    "pub_date": "2026 Oct 21",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/22 13:25",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42902938"
+    ],
+    "review": [
+      "42902938"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/bcches/article-lookup/doi/10.1021/acs.bioconjchem.6c00309",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "identity": {
+    "pmid": "42911722",
+    "doi": "10.1021/acs.jmedchem.5c03559",
+    "title": "How Many Crystal Structures Do You Need to Trust Your Docking Results?"
+  },
+  "content": {
+    "abstract": "Structure-based drug discovery relies on the prediction of protein-bound poses of new molecule designs, the accuracy of which can impact downstream prioritization. While it is expected that crystal structures of similar molecules would provide the best template for predicting the poses of new designs, the time and cost required motivates identifying a point of diminishing returns for collecting new structures. Using 403 crystal structures of SARS-CoV-2 main protease from the open science COVID Moonshot project, we explore the tradeoff between the cost and utility of obtaining crystal structures for accurately predicting poses of designed molecules. We observe that similar reference ligands enable superior pose prediction and show that success plateaus after approximately five crystal structures per generic Bemis-Murcko scaffold, exceeding 95% for the campaign's lead series. This work provides practical recommendations for resource allocation in structure-enabled drug discovery campaigns.",
+    "keywords": [
+      "benchmarking",
+      "crystal structures",
+      "docking",
+      "drug design",
+      "drug discovery",
+      "pose prediction"
+    ],
+    "mesh_terms": [
+      "SARS-CoV-2",
+      "Crystallography, X-Ray",
+      "Ligands",
+      "*Molecular Docking Simulation",
+      "*Drug Discovery/methods",
+      "Drug Design",
+      "Humans",
+      "*Coronavirus 3C Proteases/chemistry/metabolism",
+      "Protein Binding",
+      "Protein Conformation",
+      "Betacoronavirus/enzymology",
+      "*Antiviral Agents/chemistry/pharmacology"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Payne, Alexander Matthew",
+        "Kaminow, Benjamin",
+        "MacDermott-Opeskin, Hugo I",
+        "Pulido, Ivan",
+        "Scheen, Jenke",
+        "Castellanos, Maria A",
+        "Fearon, Daren",
+        "Chodera, John D",
+        "Singh, Sukrit"
+      ],
+      "short_names": [
+        "Payne AM",
+        "Kaminow B",
+        "MacDermott-Opeskin HI",
+        "Pulido I",
+        "Scheen J",
+        "Castellanos MA",
+        "Fearon D",
+        "Chodera JD",
+        "Singh S"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-0947-0191",
+        "ORCID: 0000-0002-2266-3353",
+        "ORCID: 0000-0002-7178-8136",
+        "ORCID: 0000-0001-9781-0445",
+        "ORCID: 0000-0002-9677-9615",
+        "ORCID: 0000-0003-3529-7863",
+        "ORCID: 0000-0003-0542-119X",
+        "ORCID: 0000-0003-1914-4955"
+      ],
+      "affiliations": [
+        "Tri-Institutional Ph.D. Program in Chemical Biology, Weill Cornell Medical College, New York, New York10065, United States.",
+        "Computational and Systems Biology Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, New York10065, United States.",
+        "Computational and Systems Biology Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, New York10065, United States.",
+        "Tri-Institutional Ph.D. Program in Computational Biology & Medicine, Weill Cornell Medical College, New York, New York10065, United States.",
+        "Open Molecular Software Foundation, 417 Mace Blvd., SuiteJ110, Davis, California95618, United States.",
+        "Computational and Systems Biology Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, New York10065, United States.",
+        "Open Molecular Software Foundation, 417 Mace Blvd., SuiteJ110, Davis, California95618, United States.",
+        "Computational and Systems Biology Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, New York10065, United States.",
+        "Diamond Light Source Ltd, Diamond House, Harwell Science and Innovation Campus, Didcot, OxfordshireOX11 0DE, U.K.",
+        "Computational and Systems Biology Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, New York10065, United States.",
+        "Computational and Systems Biology Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, New York10065, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Payne, Alexander Matthew",
+        "short_name": "Payne AM",
+        "identifiers": [
+          "0000-0003-0947-0191"
+        ],
+        "affiliations": [
+          "Tri-Institutional Ph.D. Program in Chemical Biology, Weill Cornell Medical College, New York, New York10065, United States.",
+          "Computational and Systems Biology Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, New York10065, United States."
+        ]
+      },
+      {
+        "full_name": "Kaminow, Benjamin",
+        "short_name": "Kaminow B",
+        "identifiers": [
+          "0000-0002-2266-3353"
+        ],
+        "affiliations": [
+          "Computational and Systems Biology Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, New York10065, United States.",
+          "Tri-Institutional Ph.D. Program in Computational Biology & Medicine, Weill Cornell Medical College, New York, New York10065, United States."
+        ]
+      },
+      {
+        "full_name": "MacDermott-Opeskin, Hugo I",
+        "short_name": "MacDermott-Opeskin HI",
+        "identifiers": [],
+        "affiliations": [
+          "Open Molecular Software Foundation, 417 Mace Blvd., SuiteJ110, Davis, California95618, United States."
+        ]
+      },
+      {
+        "full_name": "Pulido, Iván",
+        "short_name": "Pulido I",
+        "identifiers": [
+          "0000-0002-7178-8136"
+        ],
+        "affiliations": [
+          "Computational and Systems Biology Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, New York10065, United States."
+        ]
+      },
+      {
+        "full_name": "Scheen, Jenke",
+        "short_name": "Scheen J",
+        "identifiers": [
+          "0000-0001-9781-0445"
+        ],
+        "affiliations": [
+          "Open Molecular Software Foundation, 417 Mace Blvd., SuiteJ110, Davis, California95618, United States."
+        ]
+      },
+      {
+        "full_name": "Castellanos, Maria A",
+        "short_name": "Castellanos MA",
+        "identifiers": [
+          "0000-0002-9677-9615"
+        ],
+        "affiliations": [
+          "Computational and Systems Biology Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, New York10065, United States."
+        ]
+      },
+      {
+        "full_name": "Fearon, Daren",
+        "short_name": "Fearon D",
+        "identifiers": [
+          "0000-0003-3529-7863"
+        ],
+        "affiliations": [
+          "Diamond Light Source Ltd, Diamond House, Harwell Science and Innovation Campus, Didcot, OxfordshireOX11 0DE, U.K."
+        ]
+      },
+      {
+        "full_name": "Chodera, John D",
+        "short_name": "Chodera JD",
+        "identifiers": [
+          "0000-0003-0542-119X"
+        ],
+        "affiliations": [
+          "Computational and Systems Biology Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, New York10065, United States."
+        ]
+      },
+      {
+        "full_name": "Singh, Sukrit",
+        "short_name": "Singh S",
+        "identifiers": [
+          "0000-0003-1914-4955"
+        ],
+        "affiliations": [
+          "Computational and Systems Biology Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, New York10065, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of medicinal chemistry"
+    ],
+    "journal_abbrev": [
+      "J Med Chem"
+    ],
+    "pub_date": "2026 Oct 22",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 18:31",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42911722"
+    ],
+    "review": [
+      "42911722"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "identity": {
+    "pmid": "42914424",
+    "doi": "10.1016/j.foodres.2026.120715",
+    "title": "Ultrasonic pretreatment-induced conformational alteration of large yellow croaker bone protein: enhanced osteogenic activity of enzymatic hydrolysates and molecular insights."
+  },
+  "content": {
+    "abstract": "Ultrasound pretreatment is increasingly used to modulate protein conformation and facilitate the release of bioactive peptides for functional food applications. In this study, large yellow croaker (Larimichthys crocea) bone proteins were subjected to ultrasound pretreatment to investigate the relationship among ultrasound-induced protein conformational changes, enzymatic hydrolysis behavior, and the osteogenic activity of the resulting hydrolysates. Ultrasonic treatment at 300 W significantly altered protein conformation, increased the accessibility of neutral protease, and consequently enhanced both the degree of hydrolysis and the proportion of low-molecular-weight peptides. Hydrolysates produced under this condition exhibited the highest osteogenic activity, as evidenced by increased MC3T3-E1 cell proliferation, alkaline phosphatase activity, and mineralized nodule formation. LC-MS/MS analysis combined with molecular docking-based virtual screening proposed three proline-rich peptides, GPPGPMGPPG, GPSGPVGP, and APDPGPGP, as candidate osteogenic peptides. Refined molecular docking predicted favorable interactions of all three peptides with the epidermal growth factor receptor (EGFR). The 100-ns molecular dynamics simulation further supported the stability of the representative GPPGPMGPPG-EGFR complex. Altogether, ultrasound pretreatment facilitates the generation of low-molecular-weight peptide-rich hydrolysates with enhanced osteogenic potential from fish bone proteins. These findings provide a feasible strategy for valorizing marine by-products into functional food ingredients for bone health management.",
+    "keywords": [
+      "Marine by-products",
+      "Molecular dynamics simulation",
+      "Osteogenic peptides",
+      "Ultrasound pretreatment"
+    ],
+    "mesh_terms": [
+      "Animals",
+      "*Perciformes/metabolism",
+      "*Osteogenesis/drug effects",
+      "*Protein Hydrolysates/chemistry/pharmacology",
+      "Molecular Docking Simulation",
+      "Protein Conformation",
+      "Bioactive Peptides, Dietary",
+      "Hydrolysis",
+      "*Fish Proteins/chemistry/pharmacology",
+      "Mice",
+      "Cell Proliferation/drug effects",
+      "Molecular Dynamics Simulation",
+      "Tandem Mass Spectrometry",
+      "*Ultrasonic Waves",
+      "Osteoblasts/drug effects",
+      "Peptides/chemistry",
+      "*Bone and Bones/chemistry"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Feng, Jun",
+        "Jing, Ziqian",
+        "Liang, Xinyi",
+        "Kang, Wenrui",
+        "Du, Ming",
+        "Wang, Zhenyu"
+      ],
+      "short_names": [
+        "Feng J",
+        "Jing Z",
+        "Liang X",
+        "Kang W",
+        "Du M",
+        "Wang Z"
+      ],
+      "auids": [],
+      "affiliations": [
+        "SKL of Marine Food Processing & Safety Control, School of Food Science and Technology, Dalian Polytechnic University, Dalian 116034, China; National Engineering Research Center of Seafood, Collaborative Innovation Centre of Seafood Deep Processing, Dalian Polytechnic University, Dalian 116034, China.",
+        "SKL of Marine Food Processing & Safety Control, School of Food Science and Technology, Dalian Polytechnic University, Dalian 116034, China; National Engineering Research Center of Seafood, Collaborative Innovation Centre of Seafood Deep Processing, Dalian Polytechnic University, Dalian 116034, China.",
+        "SKL of Marine Food Processing & Safety Control, School of Food Science and Technology, Dalian Polytechnic University, Dalian 116034, China; National Engineering Research Center of Seafood, Collaborative Innovation Centre of Seafood Deep Processing, Dalian Polytechnic University, Dalian 116034, China.",
+        "SKL of Marine Food Processing & Safety Control, School of Food Science and Technology, Dalian Polytechnic University, Dalian 116034, China; National Engineering Research Center of Seafood, Collaborative Innovation Centre of Seafood Deep Processing, Dalian Polytechnic University, Dalian 116034, China.",
+        "SKL of Marine Food Processing & Safety Control, School of Food Science and Technology, Dalian Polytechnic University, Dalian 116034, China; National Engineering Research Center of Seafood, Collaborative Innovation Centre of Seafood Deep Processing, Dalian Polytechnic University, Dalian 116034, China; College of Food Science and Engineering, Dalian Ocean University, Dalian 116023, China.",
+        "SKL of Marine Food Processing & Safety Control, School of Food Science and Technology, Dalian Polytechnic University, Dalian 116034, China; National Engineering Research Center of Seafood, Collaborative Innovation Centre of Seafood Deep Processing, Dalian Polytechnic University, Dalian 116034, China. Electronic address: wangzhenyu@dlpu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Feng, Jun",
+        "short_name": "Feng J",
+        "identifiers": [],
+        "affiliations": [
+          "SKL of Marine Food Processing & Safety Control, School of Food Science and Technology, Dalian Polytechnic University, Dalian 116034, China; National Engineering Research Center of Seafood, Collaborative Innovation Centre of Seafood Deep Processing, Dalian Polytechnic University, Dalian 116034, China."
+        ]
+      },
+      {
+        "full_name": "Jing, Ziqian",
+        "short_name": "Jing Z",
+        "identifiers": [],
+        "affiliations": [
+          "SKL of Marine Food Processing & Safety Control, School of Food Science and Technology, Dalian Polytechnic University, Dalian 116034, China; National Engineering Research Center of Seafood, Collaborative Innovation Centre of Seafood Deep Processing, Dalian Polytechnic University, Dalian 116034, China."
+        ]
+      },
+      {
+        "full_name": "Liang, Xinyi",
+        "short_name": "Liang X",
+        "identifiers": [],
+        "affiliations": [
+          "SKL of Marine Food Processing & Safety Control, School of Food Science and Technology, Dalian Polytechnic University, Dalian 116034, China; National Engineering Research Center of Seafood, Collaborative Innovation Centre of Seafood Deep Processing, Dalian Polytechnic University, Dalian 116034, China."
+        ]
+      },
+      {
+        "full_name": "Kang, Wenrui",
+        "short_name": "Kang W",
+        "identifiers": [],
+        "affiliations": [
+          "SKL of Marine Food Processing & Safety Control, School of Food Science and Technology, Dalian Polytechnic University, Dalian 116034, China; National Engineering Research Center of Seafood, Collaborative Innovation Centre of Seafood Deep Processing, Dalian Polytechnic University, Dalian 116034, China."
+        ]
+      },
+      {
+        "full_name": "Du, Ming",
+        "short_name": "Du M",
+        "identifiers": [],
+        "affiliations": [
+          "SKL of Marine Food Processing & Safety Control, School of Food Science and Technology, Dalian Polytechnic University, Dalian 116034, China; National Engineering Research Center of Seafood, Collaborative Innovation Centre of Seafood Deep Processing, Dalian Polytechnic University, Dalian 116034, China; College of Food Science and Engineering, Dalian Ocean University, Dalian 116023, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Zhenyu",
+        "short_name": "Wang Z",
+        "identifiers": [],
+        "affiliations": [
+          "SKL of Marine Food Processing & Safety Control, School of Food Science and Technology, Dalian Polytechnic University, Dalian 116034, China; National Engineering Research Center of Seafood, Collaborative Innovation Centre of Seafood Deep Processing, Dalian Polytechnic University, Dalian 116034, China. Electronic address: wangzhenyu@dlpu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Food research international (Ottawa, Ont.)"
+    ],
+    "journal_abbrev": [
+      "Food Res Int"
+    ],
+    "pub_date": "2026 Dec 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42914424"
+    ],
+    "review": [
+      "42914424"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

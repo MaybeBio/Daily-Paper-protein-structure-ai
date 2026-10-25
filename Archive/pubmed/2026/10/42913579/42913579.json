@@ -1,0 +1,149 @@
+{
+  "identity": {
+    "pmid": "42913579",
+    "doi": "10.1021/jacs.6c12127",
+    "title": "Designing Cooperative Molecular Glues for FKBP12-MAPRE1 with Enhanced-Sampling Molecular Dynamics Simulations."
+  },
+  "content": {
+    "abstract": "Molecular glues (MGs) offer a unique modality for inducing protein-protein interactions (PPIs), yet their rational design is often hindered by the limitations of static structural data. Here, we present a computational pipeline for the design of cooperative MGs for the FKBP12-MAPRE1 system using replica exchange with solute scaling (REST2) for enhanced sampling in molecular dynamics (MD) simulations. By sampling the conformational ensembles of binary and ternary complexes, we identified a \"stabilized configurational space\" that facilitates ternary-complex formation through a combination of conformational selection and induced-fit mechanisms. Based on the simulations, we developed a model that correlates PPI induction information from the simulations with the experimental cooperativity. This model was subsequently used to select and rank a small library of compounds prospectively, of which five were selected for synthesis and testing. Three of the five new compounds exhibited apparent cooperativity equal to or greater than that of the best previously known variants. This study demonstrates that targeting shared configurations within dynamic ensembles is a viable strategy for the rational optimization of cooperative molecular glues.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Molecular Dynamics Simulation",
+      "*Tacrolimus Binding Protein 1A/chemistry/metabolism",
+      "Protein Binding",
+      "Protein Conformation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Chen, Shu-Yu",
+        "Solazzo, Riccardo",
+        "Fouche, Marianne",
+        "Roth, Hans-Jorg",
+        "Dittrich, Birger",
+        "Riniker, Sereina"
+      ],
+      "short_names": [
+        "Chen SY",
+        "Solazzo R",
+        "Fouche M",
+        "Roth HJ",
+        "Dittrich B",
+        "Riniker S"
+      ],
+      "auids": [
+        "ORCID: 0009-0009-1762-0269",
+        "ORCID: 0009-0008-2177-2620",
+        "ORCID: 0000-0002-5701-1611",
+        "ORCID: 0009-0000-5517-775X",
+        "ORCID: 0000-0002-4306-5918",
+        "ORCID: 0000-0003-1893-4031"
+      ],
+      "affiliations": [
+        "Department of Chemistry and Applied Biosciences, ETH Zurich, Vladimir-Prelog-Weg 2, Zurich8093, Switzerland.",
+        "Department of Chemistry and Applied Biosciences, ETH Zurich, Vladimir-Prelog-Weg 2, Zurich8093, Switzerland.",
+        "Novartis Biomedical Research, Novartis Campus, Basel4002, Switzerland.",
+        "Novartis Biomedical Research, Novartis Campus, Basel4002, Switzerland.",
+        "Novartis Biomedical Research, Novartis Campus, Basel4002, Switzerland.",
+        "Department of Chemistry and Applied Biosciences, ETH Zurich, Vladimir-Prelog-Weg 2, Zurich8093, Switzerland."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Chen, Shu-Yu",
+        "short_name": "Chen SY",
+        "identifiers": [
+          "0009-0009-1762-0269"
+        ],
+        "affiliations": [
+          "Department of Chemistry and Applied Biosciences, ETH Zurich, Vladimir-Prelog-Weg 2, Zurich8093, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Solazzo, Riccardo",
+        "short_name": "Solazzo R",
+        "identifiers": [
+          "0009-0008-2177-2620"
+        ],
+        "affiliations": [
+          "Department of Chemistry and Applied Biosciences, ETH Zurich, Vladimir-Prelog-Weg 2, Zurich8093, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Fouché, Marianne",
+        "short_name": "Fouché M",
+        "identifiers": [
+          "0000-0002-5701-1611"
+        ],
+        "affiliations": [
+          "Novartis Biomedical Research, Novartis Campus, Basel4002, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Roth, Hans-Jörg",
+        "short_name": "Roth HJ",
+        "identifiers": [
+          "0009-0000-5517-775X"
+        ],
+        "affiliations": [
+          "Novartis Biomedical Research, Novartis Campus, Basel4002, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Dittrich, Birger",
+        "short_name": "Dittrich B",
+        "identifiers": [
+          "0000-0002-4306-5918"
+        ],
+        "affiliations": [
+          "Novartis Biomedical Research, Novartis Campus, Basel4002, Switzerland."
+        ]
+      },
+      {
+        "full_name": "Riniker, Sereina",
+        "short_name": "Riniker S",
+        "identifiers": [
+          "0000-0003-1893-4031"
+        ],
+        "affiliations": [
+          "Department of Chemistry and Applied Biosciences, ETH Zurich, Vladimir-Prelog-Weg 2, Zurich8093, Switzerland."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of the American Chemical Society"
+    ],
+    "journal_abbrev": [
+      "J Am Chem Soc"
+    ],
+    "pub_date": "2026 Oct 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42913579"
+    ],
+    "review": [
+      "42913579"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

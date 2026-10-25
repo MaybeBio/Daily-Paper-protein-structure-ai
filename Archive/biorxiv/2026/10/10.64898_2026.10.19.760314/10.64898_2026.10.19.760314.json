@@ -1,0 +1,91 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.19.760314",
+  "title": "Sequence-only antigen context improves modeling of antibody hypervariable regions",
+  "doi": "10.64898/2026.10.19.760314",
+  "abstract": "The complementarity-determining regions (CDRs) of antibodies govern antigen specificity; consequently, CDR design should be performed conditional on the target antigen. Most published approaches depend on the availability of the antigen's three-dimensional (3D) structure, which is often difficult to obtain experimentally. In contrast, sequence-only models circumvent this requirement but are typically trained on antibodies without incorporating antigen context; exposure to antigen sequences alone does not necessarily entail learning the underlying interaction determinants. Here, we introduce LangAAI, a masked language model that conditions exclusively on antibody and antigen primary sequences and therefore does not require 3D structures, docking poses, or epitope annotations. To assess whether the model exhibits genuine antigen conditioning, we replace the cognate antigen with a non-binding decoy. Whereas antigen-agnostic models are largely insensitive to this substitution, LangAAI shows a marked reduction in sequence recovery that is specifically concentrated in the hypervariable CDR3 loop. Across benchmarks, LangAAI improves amino-acid recovery relative to existing antibody language models, matches the performance of structure-based methods when evaluated under their respective protocols, and ranks experimentally measured variants by affinity comparably to inverse-folding models that use backbone coordinates. Collectively, these results support LangAAI as a structure-independent approach for antigen-aware antibody optimization, enabling prioritization of candidate variants for targets lacking solved antigen-antibody complexes.",
+  "authors": [
+    "Ashraf FB",
+    "Lonardi S"
+  ],
+  "published_date": "2026-10-24",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.19.760314",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.19.760314.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1349464",
+    "raw_record": {
+      "id": "PPR1349464",
+      "source": "PPR",
+      "doi": "10.64898/2026.10.19.760314",
+      "title": "Sequence-only antigen context improves modeling of antibody hypervariable regions",
+      "authorString": "Ashraf FB, Lonardi S.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Ashraf FB",
+            "lastName": "Ashraf",
+            "firstName": "Faisal Bin",
+            "initials": "FB"
+          },
+          {
+            "fullName": "Lonardi S",
+            "lastName": "Lonardi",
+            "firstName": "Stefano",
+            "initials": "S"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "The complementarity-determining regions (CDRs) of antibodies govern antigen specificity; consequently, CDR design should be performed conditional on the target antigen. Most published approaches depend on the availability of the antigen's three-dimensional (3D) structure, which is often difficult to obtain experimentally. In contrast, sequence-only models circumvent this requirement but are typically trained on antibodies without incorporating antigen context; exposure to antigen sequences alone does not necessarily entail learning the underlying interaction determinants. Here, we introduce LangAAI, a masked language model that conditions exclusively on antibody and antigen primary sequences and therefore does not require 3D structures, docking poses, or epitope annotations. To assess whether the model exhibits genuine antigen conditioning, we replace the cognate antigen with a non-binding decoy. Whereas antigen-agnostic models are largely insensitive to this substitution, LangAAI shows a marked reduction in sequence recovery that is specifically concentrated in the hypervariable CDR3 loop. Across benchmarks, LangAAI improves amino-acid recovery relative to existing antibody language models, matches the performance of structure-based methods when evaluated under their respective protocols, and ranks experimentally measured variants by affinity comparably to inverse-folding models that use backbone coordinates. Collectively, these results support LangAAI as a structure-independent approach for antigen-aware antibody optimization, enabling prioritization of candidate variants for targets lacking solved antigen-antibody complexes.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.10.19.760314"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-10-25",
+      "firstPublicationDate": "2026-10-24",
+      "firstIndexDate": "2026-10-25",
+      "hasEvaluations": "N"
+    }
+  }
+}

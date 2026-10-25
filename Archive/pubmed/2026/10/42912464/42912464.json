@@ -1,0 +1,158 @@
+{
+  "identity": {
+    "pmid": "42912464",
+    "doi": "10.1093/database/baag064",
+    "title": "Exploring protein glycosylation across GlyGen, UniProtKB, and related knowledgebases for data integration."
+  },
+  "content": {
+    "abstract": "Protein glycosylation plays a crucial role in cellular function, protein stability, and disease mechanisms, making the accurate annotation and integration of glycobiology data essential for biological research. However, the inherent complexity of glycosylation and the heterogeneity of glycans present significant challenges for data integration, annotation, and accessibility across biological databases. In this paper, we explore the protein glycosylation information present in GlyGen, a glycoscience knowledgebase, Universal Protein Resource Knowledgebase (UniProtKB), a proteomics knowledgebase, and other resources such as Chemical Entities of Biological Interest (ChEBI) and MatrixDB from International Molecular Exchange (IMEx). We detail the systematic approaches used to annotate glycoproteins, glycosyltransferases, and glycohydrolases across these databases, highlighting the controlled vocabularies and standardized methodologies employed. The integration of data between these resources enables comprehensive access to glycobiology data, from protein sequence and modification sites to detailed glycan structures and biochemical reactions. We also present tools developed through collaboration with UniProt, including the GlyGen Isoform Mapper and enhanced visualization capabilities through ProtVista, which facilitate the exploration of glycosylation in the context of protein structure and function. Through extensive cross-referencing between glycomics and proteomics resources, we establish a robust, interoperable data ecosystem that supports researchers in studying glycan biosynthesis, protein-glycan interactions, and their broader biological implications. Our work demonstrates how database harmonization and collective efforts can drive advancements in glycobiology, providing researchers with high-quality, interconnected data resources to explore and facilitate biomedical research in health and disease.",
+    "keywords": [],
+    "mesh_terms": [
+      "Glycosylation",
+      "*Databases, Protein",
+      "*Knowledge Bases",
+      "*Glycoproteins/metabolism/chemistry",
+      "Biocuration",
+      "Polysaccharides/metabolism",
+      "Proteomics",
+      "Animals"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Vora, Jeet",
+        "Warner, Kate",
+        "Vasudev, Preethi",
+        "Orchard, Sandra",
+        "Kulkarni, Sujeet",
+        "Mazumder, Raja",
+        "Martin, Maria"
+      ],
+      "short_names": [
+        "Vora J",
+        "Warner K",
+        "Vasudev P",
+        "Orchard S",
+        "Kulkarni S",
+        "Mazumder R",
+        "Martin M"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-5317-1458",
+        "ORCID: 0000-0002-8878-3972",
+        "ORCID: 0000-0001-8823-9945",
+        "ORCID: 0000-0001-5454-2815"
+      ],
+      "affiliations": [
+        "Department of Biochemistry and Molecular Medicine, The George Washington University Medical Center, Washington, DC 20037, United States.",
+        "Department of Biochemistry and Molecular Medicine, The George Washington University Medical Center, Washington, DC 20037, United States.",
+        "European Bioinformatics Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge CB10 1SD, United Kingdom.",
+        "European Bioinformatics Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge CB10 1SD, United Kingdom.",
+        "Complex Carbohydrate Research Center, University of Georgia, Athens, GA 30602, United States.",
+        "Department of Biochemistry and Molecular Medicine, The George Washington University Medical Center, Washington, DC 20037, United States.",
+        "European Bioinformatics Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge CB10 1SD, United Kingdom."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Vora, Jeet",
+        "short_name": "Vora J",
+        "identifiers": [
+          "0000-0002-5317-1458"
+        ],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Medicine, The George Washington University Medical Center, Washington, DC 20037, United States."
+        ]
+      },
+      {
+        "full_name": "Warner, Kate",
+        "short_name": "Warner K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Medicine, The George Washington University Medical Center, Washington, DC 20037, United States."
+        ]
+      },
+      {
+        "full_name": "Vasudev, Preethi",
+        "short_name": "Vasudev P",
+        "identifiers": [],
+        "affiliations": [
+          "European Bioinformatics Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge CB10 1SD, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Orchard, Sandra",
+        "short_name": "Orchard S",
+        "identifiers": [
+          "0000-0002-8878-3972"
+        ],
+        "affiliations": [
+          "European Bioinformatics Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge CB10 1SD, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Kulkarni, Sujeet",
+        "short_name": "Kulkarni S",
+        "identifiers": [],
+        "affiliations": [
+          "Complex Carbohydrate Research Center, University of Georgia, Athens, GA 30602, United States."
+        ]
+      },
+      {
+        "full_name": "Mazumder, Raja",
+        "short_name": "Mazumder R",
+        "identifiers": [
+          "0000-0001-8823-9945"
+        ],
+        "affiliations": [
+          "Department of Biochemistry and Molecular Medicine, The George Washington University Medical Center, Washington, DC 20037, United States."
+        ]
+      },
+      {
+        "full_name": "Martin, Maria",
+        "short_name": "Martin M",
+        "identifiers": [
+          "0000-0001-5454-2815"
+        ],
+        "affiliations": [
+          "European Bioinformatics Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge CB10 1SD, United Kingdom."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Database : the journal of biological databases and curation"
+    ],
+    "journal_abbrev": [
+      "Database (Oxford)"
+    ],
+    "pub_date": "2026 Jan 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 18:31",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42912464"
+    ],
+    "review": [
+      "42912464"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

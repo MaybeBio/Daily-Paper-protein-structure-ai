@@ -1,0 +1,105 @@
+{
+  "identity": {
+    "pmid": "42917262",
+    "doi": "10.1021/acs.jctc.6c01233",
+    "title": "Mechanistic Dissection of Conformational Transitions in a Bicyclic Peptide via Molecular Modeling and Deep Learning."
+  },
+  "content": {
+    "abstract": "Molecular conformations play a critical role in determining molecular properties, such as membrane permeability, binding affinity, and ultimately therapeutic efficacy. Experimental and computational approaches can characterize conformations and provide insight into why certain conformations are thermodynamically preferred over others. However, examining static conformations alone may not fully explain why subtle differences, such as a single LEU-to-ILE mutation in a bicyclic peptide, can produce markedly distinct conformational ensembles. Furthermore, analyzing transition pathways between conformations reveals the mechanisms that shape these ensembles. Here, we introduce a deep learning model, termed ICoN-v1, trained on molecular dynamics (MD) simulation data to learn the underlying physics that governs cyclic peptide conformational dynamics. We examined cyclic hexapeptides with Nuclear Magnetic Resonance (NMR)-determined structures, and MYC-targeting bicyclic peptides that are stereo-diversified or have a single LEU-to-ILE mutation. By following minimum-energy pathways in the latent space constructed by ICoN-v1, we efficiently generated smooth conformational transition paths. These pathways reveal sequential sets of concerted backbone and side-chain torsional rotations moving between energy minima. Notably, smooth transition pathways that are absent from MD output were observed using ICoN-v1. Our results identify various sets of concerted torsional motions that are nonlinearly combined during conformational transitions and reveal the key residues governing each stage of the transition, thereby elucidating how the observed conformations are generated and informing molecular design.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Molecular Dynamics Simulation",
+      "*Peptides, Cyclic/chemistry",
+      "*Deep Learning",
+      "Protein Conformation",
+      "Thermodynamics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Hung, Ta I",
+        "Venkatesan, Raghu",
+        "Chang, Chia-En A"
+      ],
+      "short_names": [
+        "Hung TI",
+        "Venkatesan R",
+        "Chang CA"
+      ],
+      "auids": [
+        "ORCID: 0009-0008-9702-3829",
+        "ORCID: 0000-0002-6504-8529"
+      ],
+      "affiliations": [
+        "Department of Chemistry, University of California, Riverside, California92521, United States.",
+        "Department of Chemistry, University of California, Riverside, California92521, United States.",
+        "Department of Chemistry, University of California, Riverside, California92521, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Hung, Ta I",
+        "short_name": "Hung TI",
+        "identifiers": [
+          "0009-0008-9702-3829"
+        ],
+        "affiliations": [
+          "Department of Chemistry, University of California, Riverside, California92521, United States."
+        ]
+      },
+      {
+        "full_name": "Venkatesan, Raghu",
+        "short_name": "Venkatesan R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, University of California, Riverside, California92521, United States."
+        ]
+      },
+      {
+        "full_name": "Chang, Chia-En A",
+        "short_name": "Chang CA",
+        "identifiers": [
+          "0000-0002-6504-8529"
+        ],
+        "affiliations": [
+          "Department of Chemistry, University of California, Riverside, California92521, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of chemical theory and computation"
+    ],
+    "journal_abbrev": [
+      "J Chem Theory Comput"
+    ],
+    "pub_date": "2026 Oct 13",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42917262"
+    ],
+    "review": [
+      "42917262"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

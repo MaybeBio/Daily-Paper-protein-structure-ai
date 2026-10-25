@@ -1,0 +1,112 @@
+{
+  "identity": {
+    "pmid": "42895430",
+    "doi": "10.1063/5.0355079",
+    "title": "Elucidating the relationship between protein amide I, II, and III bands and secondary structures by localized anharmonic vibrational calculations."
+  },
+  "content": {
+    "abstract": "The amide I, II, and III spectra of the insulin dimer and ubiquitin were investigated using our recently developed localized, second-order vibrational quasi-degenerate perturbation theory (VQDPT2) combined with quantum mechanics/molecular mechanics calculations. By averaging over ten snapshots from molecular dynamics trajectories, we confirmed that the computed spectra converged to a sufficient degree. Although the method has intrinsic limitations due to the neglect of vibrational coupling between neighboring amide groups, we found that the method provides a useful basis for spectral analysis of these proteins. The analysis of the averaged amide I, II, and III bands revealed that, for both proteins, the amide II and III peak positions tend to be closely associated with the coil contribution, whereas the origin of the amide I maximum is more protein dependent. The calculated amide I and III frequencies of the coil structures showed good agreement with experimental values. The spectra of each secondary structure were further subdivided according to the type of hydrogen bonding within the secondary structure. For structurally constrained alpha-helix and beta-sheet structures, hydrogen-bond-dependent amide I frequency shifts were found to correlate with changes in the amide dihedral angles (O=C-N-H). Localized VQDPT2 enables direct interpretation of amide band shifts associated with conformational changes and provides a deeper understanding of the structural origin responsible for these band shifts.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Amides/chemistry",
+      "Protein Structure, Secondary",
+      "Vibration",
+      "Molecular Dynamics Simulation",
+      "*Ubiquitin/chemistry",
+      "Quantum Theory",
+      "Hydrogen Bonding",
+      "*Insulin/chemistry",
+      "Quantum Mechanics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Matsuyama, Nao",
+        "Yagi, Kiyoshi"
+      ],
+      "short_names": [
+        "Matsuyama N",
+        "Yagi K"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-1120-9355"
+      ],
+      "affiliations": [
+        "Department of Chemistry, Graduate School of Science and Technology, University of Tsukuba, Tsukuba, Ibaraki 305-8571, Japan.",
+        "Department of Chemistry, Graduate School of Science and Technology, University of Tsukuba, Tsukuba, Ibaraki 305-8571, Japan.",
+        "Department of Chemistry, Institute of Pure and Applied Sciences, University of Tsukuba, Tsukuba, Ibaraki 305-8571, Japan."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Matsuyama, Nao",
+        "short_name": "Matsuyama N",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Graduate School of Science and Technology, University of Tsukuba, Tsukuba, Ibaraki 305-8571, Japan."
+        ]
+      },
+      {
+        "full_name": "Yagi, Kiyoshi",
+        "short_name": "Yagi K",
+        "identifiers": [
+          "0000-0003-1120-9355"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Graduate School of Science and Technology, University of Tsukuba, Tsukuba, Ibaraki 305-8571, Japan.",
+          "Department of Chemistry, Institute of Pure and Applied Sciences, University of Tsukuba, Tsukuba, Ibaraki 305-8571, Japan."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The Journal of chemical physics"
+    ],
+    "journal_abbrev": [
+      "J Chem Phys"
+    ],
+    "pub_date": "2026 Oct 21",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/19 11:36",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42895430"
+    ],
+    "review": [
+      "42895430"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/diabetesmedicines.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Diabetes Medicines"
+      },
+      {
+        "url": "https://pubs.aip.org/aip/jcp/article-lookup/doi/10.1063/5.0355079",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,399 @@
+{
+  "identity": {
+    "pmid": "42905841",
+    "doi": "10.1126/sciadv.aeh3401",
+    "title": "Multiple allosteric sites allow for synergistic enhancement of GPCR signaling."
+  },
+  "content": {
+    "abstract": "Allosteric modulation of G protein-coupled receptors (GPCRs) offers promising therapeutic opportunities. Although multiple allosteric binding sites have been identified in GPCRs, whether and how these spatially distinct sites cooperate to regulate receptor activation remain poorly understood. Here, we elucidate the molecular mechanism of cooperative multisite allostery in the dopamine D1 receptor (D1R). We developed two novel D1R positive allosteric modulators (PAMs), UNC9815 and UNC10062, and used cryo-electron microscopy to structurally identify two previously uncharacterized D1R allosteric sites occupied by UNC9815/UNC10062 and another D1R PAM, BMS-A1. Both sites localize to the transmembrane helix (TM) 1 to 7 interface as vertically adjacent allosteric pockets organized in a spatially complementary manner. Our structures demonstrate the simultaneous binding of the chemically distinct PAMs (LY3154207, BMS-A1, and UNC9815/UNC10062) in three nonoverlapping pockets. Concurrent engagement of all three allosteric sites produces pronounced functional cooperativity, increasing dopamine potency by >1000-fold, thereby demonstrating that coordinated multisite modulation can achieve substantial pharmacological amplification beyond the limits imposed by single PAM administration. Molecular dynamics (MD) simulations revealed that multisite PAM engagement restricts intracellular loop 3 dynamics and stabilizes the TM7-NPxxY activation motif, effects not achieved by binding of LY3154207 alone, thereby biasing the receptor toward a more stabilized active conformation, and may also improve agonist potency by stabilizing extracellular loop 2. Together, these findings establish the structural framework for cooperative multisite allostery in a GPCR, revealing how distributed allosteric sites act in concert to amplify receptor activation and providing a conceptual foundation for developing innovative GPCR allosteric therapeutics.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Allosteric Site",
+      "*Signal Transduction",
+      "Allosteric Regulation",
+      "Humans",
+      "Protein Binding",
+      "*Receptors, Dopamine D1/metabolism/chemistry",
+      "*Receptors, G-Protein-Coupled/metabolism/chemistry",
+      "Cryoelectron Microscopy",
+      "Binding Sites",
+      "Animals",
+      "Protein Conformation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Kai",
+        "Dimova, Snezana T",
+        "Hanson, John N",
+        "Thakur, Abhishek",
+        "Xu, Youwei",
+        "Liu, Yini",
+        "Moritz, Amy E",
+        "Goldberg, Alexander",
+        "Xie, Bing",
+        "Rayadurgam, Jayachandra",
+        "Wang, Feijun",
+        "Nilson, Ashley N",
+        "Luderman, Kathryn D",
+        "Free, R Benjamin",
+        "Hu, Wen",
+        "Zhang, Jian",
+        "Xu, H Eric",
+        "Frankowski, Kevin J",
+        "Wang, Yue",
+        "Shi, Lei",
+        "Sibley, David R",
+        "Zhuang, Youwen"
+      ],
+      "short_names": [
+        "Wang K",
+        "Dimova ST",
+        "Hanson JN",
+        "Thakur A",
+        "Xu Y",
+        "Liu Y",
+        "Moritz AE",
+        "Goldberg A",
+        "Xie B",
+        "Rayadurgam J",
+        "Wang F",
+        "Nilson AN",
+        "Luderman KD",
+        "Free RB",
+        "Hu W",
+        "Zhang J",
+        "Xu HE",
+        "Frankowski KJ",
+        "Wang Y",
+        "Shi L",
+        "Sibley DR",
+        "Zhuang Y"
+      ],
+      "auids": [
+        "ORCID: 0009-0004-2620-448X",
+        "ORCID: 0009-0004-1665-6212",
+        "ORCID: 0009-0006-5238-6963",
+        "ORCID: 0000-0002-4827-7602",
+        "ORCID: 0000-0001-8069-7511",
+        "ORCID: 0009-0001-2286-2328",
+        "ORCID: 0000-0002-1692-7199",
+        "ORCID: 0000-0002-8249-4360",
+        "ORCID: 0000-0003-3830-1581",
+        "ORCID: 0000-0002-2428-0487",
+        "ORCID: 0009-0003-8361-6432",
+        "ORCID: 0000-0002-6558-791X",
+        "ORCID: 0000-0002-6829-8144",
+        "ORCID: 0000-0002-7173-6352",
+        "ORCID: 0000-0002-3716-2922",
+        "ORCID: 0000-0002-4137-096X",
+        "ORCID: 0000-0002-0624-962X",
+        "ORCID: 0000-0002-1380-8047"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Drug Research, State Key Laboratory of Chemical Biology, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai 201203, China.",
+        "University of Chinese Academy of Sciences, Beijing 100049, China.",
+        "Molecular Neuropharmacology Section, National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, MD, USA.",
+        "Molecular Neuropharmacology Section, National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, MD, USA.",
+        "Computational Chemistry and Molecular Biophysics Section, National Institute of Drug Abuse, National Institutes of Health, Baltimore, MD, USA.",
+        "State Key Laboratory of Drug Research, State Key Laboratory of Chemical Biology, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai 201203, China.",
+        "Department of Pharmaceutical and Artificial-Intelligence Sciences, School of Medicine, Shanghai Jiao Tong University, Shanghai 200025, China.",
+        "Molecular Neuropharmacology Section, National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, MD, USA.",
+        "Computational Chemistry and Molecular Biophysics Section, National Institute of Drug Abuse, National Institutes of Health, Baltimore, MD, USA.",
+        "Computational Chemistry and Molecular Biophysics Section, National Institute of Drug Abuse, National Institutes of Health, Baltimore, MD, USA.",
+        "UNC Eshelman School of Pharmacy, Chapel Hill, NC, USA.",
+        "UNC Eshelman School of Pharmacy, Chapel Hill, NC, USA.",
+        "Molecular Neuropharmacology Section, National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, MD, USA.",
+        "Molecular Neuropharmacology Section, National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, MD, USA.",
+        "Molecular Neuropharmacology Section, National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, MD, USA.",
+        "State Key Laboratory of Drug Research, State Key Laboratory of Chemical Biology, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai 201203, China.",
+        "Department of Pharmaceutical and Artificial-Intelligence Sciences, School of Medicine, Shanghai Jiao Tong University, Shanghai 200025, China.",
+        "Artificial Intelligence Clinical Research Center for drug discovery, Shanghai Key Laboratory of Flexible Medical Robotics, Tongren Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai 200025, China.",
+        "State Key Laboratory of Drug Research, State Key Laboratory of Chemical Biology, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai 201203, China.",
+        "University of Chinese Academy of Sciences, Beijing 100049, China.",
+        "UNC Eshelman School of Pharmacy, Chapel Hill, NC, USA.",
+        "State Key Laboratory of Drug Research, State Key Laboratory of Chemical Biology, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai 201203, China.",
+        "University of Chinese Academy of Sciences, Beijing 100049, China.",
+        "Computational Chemistry and Molecular Biophysics Section, National Institute of Drug Abuse, National Institutes of Health, Baltimore, MD, USA.",
+        "Molecular Neuropharmacology Section, National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, MD, USA.",
+        "State Key Laboratory of Drug Research, State Key Laboratory of Chemical Biology, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai 201203, China.",
+        "Department of Pharmaceutical and Artificial-Intelligence Sciences, School of Medicine, Shanghai Jiao Tong University, Shanghai 200025, China.",
+        "Artificial Intelligence Clinical Research Center for drug discovery, Shanghai Key Laboratory of Flexible Medical Robotics, Tongren Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai 200025, China.",
+        "Key Laboratory of Cell Differentiation and Apoptosis of Chinese Ministry of Education, School of Medicine, Shanghai Jiao Tong University, Shanghai 200025, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Kai",
+        "short_name": "Wang K",
+        "identifiers": [
+          "0009-0004-2620-448X"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Drug Research, State Key Laboratory of Chemical Biology, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai 201203, China.",
+          "University of Chinese Academy of Sciences, Beijing 100049, China."
+        ]
+      },
+      {
+        "full_name": "Dimova, Snezana T",
+        "short_name": "Dimova ST",
+        "identifiers": [
+          "0009-0004-1665-6212"
+        ],
+        "affiliations": [
+          "Molecular Neuropharmacology Section, National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, MD, USA."
+        ]
+      },
+      {
+        "full_name": "Hanson, John N",
+        "short_name": "Hanson JN",
+        "identifiers": [
+          "0009-0006-5238-6963"
+        ],
+        "affiliations": [
+          "Molecular Neuropharmacology Section, National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, MD, USA."
+        ]
+      },
+      {
+        "full_name": "Thakur, Abhishek",
+        "short_name": "Thakur A",
+        "identifiers": [
+          "0000-0002-4827-7602"
+        ],
+        "affiliations": [
+          "Computational Chemistry and Molecular Biophysics Section, National Institute of Drug Abuse, National Institutes of Health, Baltimore, MD, USA."
+        ]
+      },
+      {
+        "full_name": "Xu, Youwei",
+        "short_name": "Xu Y",
+        "identifiers": [
+          "0000-0001-8069-7511"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Drug Research, State Key Laboratory of Chemical Biology, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai 201203, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Yini",
+        "short_name": "Liu Y",
+        "identifiers": [
+          "0009-0001-2286-2328"
+        ],
+        "affiliations": [
+          "Department of Pharmaceutical and Artificial-Intelligence Sciences, School of Medicine, Shanghai Jiao Tong University, Shanghai 200025, China."
+        ]
+      },
+      {
+        "full_name": "Moritz, Amy E",
+        "short_name": "Moritz AE",
+        "identifiers": [],
+        "affiliations": [
+          "Molecular Neuropharmacology Section, National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, MD, USA."
+        ]
+      },
+      {
+        "full_name": "Goldberg, Alexander",
+        "short_name": "Goldberg A",
+        "identifiers": [],
+        "affiliations": [
+          "Computational Chemistry and Molecular Biophysics Section, National Institute of Drug Abuse, National Institutes of Health, Baltimore, MD, USA."
+        ]
+      },
+      {
+        "full_name": "Xie, Bing",
+        "short_name": "Xie B",
+        "identifiers": [
+          "0000-0002-1692-7199"
+        ],
+        "affiliations": [
+          "Computational Chemistry and Molecular Biophysics Section, National Institute of Drug Abuse, National Institutes of Health, Baltimore, MD, USA."
+        ]
+      },
+      {
+        "full_name": "Rayadurgam, Jayachandra",
+        "short_name": "Rayadurgam J",
+        "identifiers": [
+          "0000-0002-8249-4360"
+        ],
+        "affiliations": [
+          "UNC Eshelman School of Pharmacy, Chapel Hill, NC, USA."
+        ]
+      },
+      {
+        "full_name": "Wang, Feijun",
+        "short_name": "Wang F",
+        "identifiers": [],
+        "affiliations": [
+          "UNC Eshelman School of Pharmacy, Chapel Hill, NC, USA."
+        ]
+      },
+      {
+        "full_name": "Nilson, Ashley N",
+        "short_name": "Nilson AN",
+        "identifiers": [
+          "0000-0003-3830-1581"
+        ],
+        "affiliations": [
+          "Molecular Neuropharmacology Section, National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, MD, USA."
+        ]
+      },
+      {
+        "full_name": "Luderman, Kathryn D",
+        "short_name": "Luderman KD",
+        "identifiers": [],
+        "affiliations": [
+          "Molecular Neuropharmacology Section, National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, MD, USA."
+        ]
+      },
+      {
+        "full_name": "Free, R Benjamin",
+        "short_name": "Free RB",
+        "identifiers": [
+          "0000-0002-2428-0487"
+        ],
+        "affiliations": [
+          "Molecular Neuropharmacology Section, National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, MD, USA."
+        ]
+      },
+      {
+        "full_name": "Hu, Wen",
+        "short_name": "Hu W",
+        "identifiers": [
+          "0009-0003-8361-6432"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Drug Research, State Key Laboratory of Chemical Biology, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai 201203, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Jian",
+        "short_name": "Zhang J",
+        "identifiers": [
+          "0000-0002-6558-791X"
+        ],
+        "affiliations": [
+          "Department of Pharmaceutical and Artificial-Intelligence Sciences, School of Medicine, Shanghai Jiao Tong University, Shanghai 200025, China.",
+          "Artificial Intelligence Clinical Research Center for drug discovery, Shanghai Key Laboratory of Flexible Medical Robotics, Tongren Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai 200025, China."
+        ]
+      },
+      {
+        "full_name": "Xu, H Eric",
+        "short_name": "Xu HE",
+        "identifiers": [
+          "0000-0002-6829-8144"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Drug Research, State Key Laboratory of Chemical Biology, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai 201203, China.",
+          "University of Chinese Academy of Sciences, Beijing 100049, China."
+        ]
+      },
+      {
+        "full_name": "Frankowski, Kevin J",
+        "short_name": "Frankowski KJ",
+        "identifiers": [
+          "0000-0002-7173-6352"
+        ],
+        "affiliations": [
+          "UNC Eshelman School of Pharmacy, Chapel Hill, NC, USA."
+        ]
+      },
+      {
+        "full_name": "Wang, Yue",
+        "short_name": "Wang Y",
+        "identifiers": [
+          "0000-0002-3716-2922"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Drug Research, State Key Laboratory of Chemical Biology, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai 201203, China.",
+          "University of Chinese Academy of Sciences, Beijing 100049, China."
+        ]
+      },
+      {
+        "full_name": "Shi, Lei",
+        "short_name": "Shi L",
+        "identifiers": [
+          "0000-0002-4137-096X"
+        ],
+        "affiliations": [
+          "Computational Chemistry and Molecular Biophysics Section, National Institute of Drug Abuse, National Institutes of Health, Baltimore, MD, USA."
+        ]
+      },
+      {
+        "full_name": "Sibley, David R",
+        "short_name": "Sibley DR",
+        "identifiers": [
+          "0000-0002-0624-962X"
+        ],
+        "affiliations": [
+          "Molecular Neuropharmacology Section, National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, MD, USA."
+        ]
+      },
+      {
+        "full_name": "Zhuang, Youwen",
+        "short_name": "Zhuang Y",
+        "identifiers": [
+          "0000-0002-1380-8047"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Drug Research, State Key Laboratory of Chemical Biology, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai 201203, China.",
+          "Department of Pharmaceutical and Artificial-Intelligence Sciences, School of Medicine, Shanghai Jiao Tong University, Shanghai 200025, China.",
+          "Artificial Intelligence Clinical Research Center for drug discovery, Shanghai Key Laboratory of Flexible Medical Robotics, Tongren Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai 200025, China.",
+          "Key Laboratory of Cell Differentiation and Apoptosis of Chinese Ministry of Education, School of Medicine, Shanghai Jiao Tong University, Shanghai 200025, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Science advances"
+    ],
+    "journal_abbrev": [
+      "Sci Adv"
+    ],
+    "pub_date": "2026 Oct 23",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/22 23:29",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42905841"
+    ],
+    "review": [
+      "42905841"
+    ],
+    "pmc": [
+      "13686013"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https:///www.science.org/doi/10.1126/sciadv.aeh3401?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/non-CPTAC-3445",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

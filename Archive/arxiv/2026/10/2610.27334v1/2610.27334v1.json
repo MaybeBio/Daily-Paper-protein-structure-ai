@@ -1,0 +1,37 @@
+{
+  "source": "arxiv",
+  "source_id": "2610.27334v1",
+  "title": "EMBER: Predicting TCR--pMHC Binding Without a Docked Complex",
+  "doi": "",
+  "abstract": "We propose EMBER, a structure-based framework for TCR--pMHC binding prediction that eliminates the need for a predicted docked complex, and with it the placement error that dominates such predictions. Traditional structure-based predictors utilize the co-folded complex structure of the receptor and the antigen and interpret binding from its contact surface. Consequently, every downstream feature inherits any deviation the structure-prediction tool introduced. Methodologically, EMBER folds the TCR and pMHC independently, encodes them as SE(3)-invariant residue graphs, and compares their learned representations without constructing a shared coordinate frame. A relative pose is therefore not an input of the model, so placement error cannot propagate into the prediction. Computationally, EMBER preprocesses $O(N{+}M)$ monomer folds where a complex-based predictor needs $O(NM)$ operations. Experimentally, under epitope-disjoint evaluation with six retrained baselines, EMBER is first on every metric under all four folding tools, by 0.9 to 14.4% in micro-AUROC, 18.5 to 25.3% in micro-AUPRC and 10.6 to 24.1% in MCC. Its ranking is also up to 85% more stable across folding tools.",
+  "authors": [
+    "Lin Ha",
+    "Chen Zhou",
+    "Haozheng Luo",
+    "Han Liu",
+    "Xiaoyu Zhang",
+    "Yan Chen"
+  ],
+  "published_date": "2026-10-19T21:55:45Z",
+  "updated_date": "2026-10-19T21:55:45Z",
+  "journal": "",
+  "category": "q-bio.QM, cs.LG",
+  "landing_url": "https://arxiv.org/abs/2610.27334v1",
+  "pdf_url": "https://arxiv.org/pdf/2610.27334v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "q-bio.QM",
+    "cs.LG"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2610.27334v1",
+    "raw_categories": [
+      "q-bio.QM",
+      "cs.LG"
+    ],
+    "journal_ref": ""
+  }
+}

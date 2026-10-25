@@ -1,0 +1,180 @@
+{
+  "identity": {
+    "pmid": "42916587",
+    "doi": "10.1021/acssynbio.6c00309",
+    "title": "Efficient Production of Vanillyl Alcohol in Escherichia coli via Protein and Pathway Engineering."
+  },
+  "content": {
+    "abstract": "Vanillyl alcohol (VNA) is a high-value compound used in the pharmaceutical industry and other fields. Its microbial de novo biosynthesis is severely limited by the low catalytic efficiency of O-methyltransferase. Here, we constructed a V314I mutant of caffeate O-methyltransferase via structure-guided protein engineering, which showed a 95% increase in catalytic efficiency toward 3,4-dihydroxybenzyl alcohol in Escherichia coli. Molecular simulations revealed that the mutation narrows the active-site cavity, constraining the smaller substrate into a catalytically competent orientation. To alleviate growth inhibition caused by 3,4-dihydroxybenzaldehyde accumulation, alcohol dehydrogenase gene ADH6 was introduced into the host. Moreover, S-Adenosylmethionine supply was enhanced by genomic integration of luxS-mtn and methionine supplementation. Finally, a VNA titer of 6.21 g/L was achieved in a 3 L fermenter from glycerol. This work establishes a VNA biomanufacturing platform and demonstrates an integrative strategy for the microbial production of methylated aromatic natural products, combining enzyme active-site spatial engineering and pathway engineering.",
+    "keywords": [
+      "O-methyltransferase",
+      "Escherichia coli",
+      "enzyme modification",
+      "metabolic engineering",
+      "methylation",
+      "vanillyl alcohol"
+    ],
+    "mesh_terms": [
+      "*Escherichia coli/metabolism/genetics",
+      "*Benzyl Alcohols/metabolism",
+      "*Metabolic Engineering/methods",
+      "Methyltransferases/genetics/metabolism",
+      "Alcohol Dehydrogenase/genetics/metabolism",
+      "*Protein Engineering/methods",
+      "S-Adenosylmethionine/metabolism",
+      "Catalytic Domain",
+      "Escherichia coli Proteins/genetics/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Jinyi",
+        "Du, Yong",
+        "Wang, Jia",
+        "Shen, Xiaolin",
+        "Liang, Hao",
+        "Sun, Xinxiao",
+        "Yuan, Qipeng"
+      ],
+      "short_names": [
+        "Li J",
+        "Du Y",
+        "Wang J",
+        "Shen X",
+        "Liang H",
+        "Sun X",
+        "Yuan Q"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-7218-2224",
+        "ORCID: 0000-0002-6969-2952",
+        "ORCID: 0000-0002-4799-882X",
+        "ORCID: 0000-0001-5590-6473"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Chemical Resource Engineering, Beijing University of Chemical Technology, Beijing100029, China.",
+        "College of Life Science and Technology, Beijing University of Chemical Technology, Beijing100029, China.",
+        "State Key Laboratory of Chemical Resource Engineering, Beijing University of Chemical Technology, Beijing100029, China.",
+        "College of Life Science and Technology, Beijing University of Chemical Technology, Beijing100029, China.",
+        "State Key Laboratory of Chemical Resource Engineering, Beijing University of Chemical Technology, Beijing100029, China.",
+        "College of Life Science and Technology, Beijing University of Chemical Technology, Beijing100029, China.",
+        "State Key Laboratory of Chemical Resource Engineering, Beijing University of Chemical Technology, Beijing100029, China.",
+        "College of Life Science and Technology, Beijing University of Chemical Technology, Beijing100029, China.",
+        "State Key Laboratory of Chemical Resource Engineering, Beijing University of Chemical Technology, Beijing100029, China.",
+        "College of Life Science and Technology, Beijing University of Chemical Technology, Beijing100029, China.",
+        "State Key Laboratory of Chemical Resource Engineering, Beijing University of Chemical Technology, Beijing100029, China.",
+        "College of Life Science and Technology, Beijing University of Chemical Technology, Beijing100029, China.",
+        "State Key Laboratory of Chemical Resource Engineering, Beijing University of Chemical Technology, Beijing100029, China.",
+        "College of Life Science and Technology, Beijing University of Chemical Technology, Beijing100029, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Jinyi",
+        "short_name": "Li J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Chemical Resource Engineering, Beijing University of Chemical Technology, Beijing100029, China.",
+          "College of Life Science and Technology, Beijing University of Chemical Technology, Beijing100029, China."
+        ]
+      },
+      {
+        "full_name": "Du, Yong",
+        "short_name": "Du Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Chemical Resource Engineering, Beijing University of Chemical Technology, Beijing100029, China.",
+          "College of Life Science and Technology, Beijing University of Chemical Technology, Beijing100029, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Jia",
+        "short_name": "Wang J",
+        "identifiers": [
+          "0000-0002-7218-2224"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Chemical Resource Engineering, Beijing University of Chemical Technology, Beijing100029, China.",
+          "College of Life Science and Technology, Beijing University of Chemical Technology, Beijing100029, China."
+        ]
+      },
+      {
+        "full_name": "Shen, Xiaolin",
+        "short_name": "Shen X",
+        "identifiers": [
+          "0000-0002-6969-2952"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Chemical Resource Engineering, Beijing University of Chemical Technology, Beijing100029, China.",
+          "College of Life Science and Technology, Beijing University of Chemical Technology, Beijing100029, China."
+        ]
+      },
+      {
+        "full_name": "Liang, Hao",
+        "short_name": "Liang H",
+        "identifiers": [
+          "0000-0002-4799-882X"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Chemical Resource Engineering, Beijing University of Chemical Technology, Beijing100029, China.",
+          "College of Life Science and Technology, Beijing University of Chemical Technology, Beijing100029, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Xinxiao",
+        "short_name": "Sun X",
+        "identifiers": [
+          "0000-0001-5590-6473"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Chemical Resource Engineering, Beijing University of Chemical Technology, Beijing100029, China.",
+          "College of Life Science and Technology, Beijing University of Chemical Technology, Beijing100029, China."
+        ]
+      },
+      {
+        "full_name": "Yuan, Qipeng",
+        "short_name": "Yuan Q",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Chemical Resource Engineering, Beijing University of Chemical Technology, Beijing100029, China.",
+          "College of Life Science and Technology, Beijing University of Chemical Technology, Beijing100029, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS synthetic biology"
+    ],
+    "journal_abbrev": [
+      "ACS Synth Biol"
+    ],
+    "pub_date": "2026 Oct 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42916587"
+    ],
+    "review": [
+      "42916587"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

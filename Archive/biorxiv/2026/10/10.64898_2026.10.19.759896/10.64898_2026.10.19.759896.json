@@ -1,0 +1,757 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.19.759896",
+  "title": "Reliable and Efficient Agentic Protein Design with Toolset Harnessing",
+  "doi": "10.64898/2026.10.19.759896",
+  "abstract": "Computational protein design workflows require the orchestration of multiple tools, data formats, and analysis steps that are often fragmented. Here, we introduce Chaperone, a lightweight and customizable framework that enables seamless integration of RFdiffusion3 (RFD3) [1] with downstream sequence design, structure prediction, and evaluation tools, including ProteinMPNN [2], AlphaFold3 (AF3) [3], and more than 50 other protein design tools. By combining a programmable agent-friendly interface with parallelized execution on high-performance computing systems, Chaperone as a harness enables rapid iteration and scalable exploration of complex protein design workflows. Across an evaluation of nine biomolecular design tasks, we find using Chaperone reduces total token usage relative to baseline agents by 86% and GPU costs by 64%, while increasing the overall computational design pass rate. We demonstrate Chaperone’s utility for large-scale design-space exploration through a two-week end-to-end small-molecule binder design campaign, yielding low nanomolar binders to cortisol zero shot. We further demonstrate its versatility across distinct design challenges, including the design of a symmetric 12-subunit self-assembly nanoparticle and a linker that mediates interactions between C2- and D3-symmetric protein complexes to form crystalline assemblies. Together, these results demonstrate how agent harnesses built around standardized tool interfaces can substantially improve the efficiency and success of complex, long-horizon agentic design workflows in biology. We make Chaperone freely available to the community on GitHub: https://github.com/RosettaCommons/chaperone .",
+  "authors": [
+    "Jasper Butcher",
+    "Jie Chen",
+    "Andrew Hunt",
+    "Cyrus M. Haas",
+    "Wenzhao Dai",
+    "Shajesh Sharma",
+    "Raktim Mitra",
+    "Saman Salike",
+    "Jeremy Koob",
+    "Aiko Muraishi",
+    "Zhe Li",
+    "Harley Pyles",
+    "Michael D. Tyka",
+    "Magnus S. Bauer",
+    "Rafi I. Brent",
+    "Anant Mittal",
+    "Neil P. King",
+    "David Baker"
+  ],
+  "published_date": "2026-10-20",
+  "updated_date": "2026-10-21T02:45:16Z",
+  "journal": "bioRxiv",
+  "category": "Biochemistry",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.19.759896",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.19.759896.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [
+    "Biochemistry"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Biochemistry",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            23
+          ]
+        ],
+        "date-time": "2026-10-23T10:46:10Z",
+        "timestamp": 1792752370172,
+        "version": "4.5.0"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            20
+          ]
+        ]
+      },
+      "group-title": "Biochemistry",
+      "reference-count": 42,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                20
+              ]
+            ],
+            "date-time": "2026-10-20T00:00:00Z",
+            "timestamp": 1792454400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "name": "National Institute of Allergy and Infectious Diseases",
+          "award": [
+            "U19AI181881"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "U19AI181881"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Advanced Research Projects Agency for Health",
+          "award": [
+            "1AY1AX000036-01 (APECx Program)"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "1AY1AX000036-01 (APECx Program)"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "National Science Foundation",
+          "award": [
+            "GR068505; DGE-2140004"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "GR068505; DGE-2140004"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Grantham Foundation"
+        },
+        {
+          "name": "IPD Enzyme Design Fund"
+        },
+        {
+          "name": "Howard Hughes Medical Institute"
+        },
+        {
+          "name": "The Audacious Project"
+        },
+        {
+          "name": "Open Philanthropy Project"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            20
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>\n                  Computational protein design workflows require the orchestration of multiple tools, data formats, and analysis steps that are often fragmented. Here, we introduce Chaperone, a lightweight and customizable framework that enables seamless integration of RFdiffusion3 (RFD3) [1] with downstream sequence design, structure prediction, and evaluation tools, including ProteinMPNN [2], AlphaFold3 (AF3) [3], and more than 50 other protein design tools. By combining a programmable agent-friendly interface with parallelized execution on high-performance computing systems, Chaperone as a harness enables rapid iteration and scalable exploration of complex protein design workflows. Across an evaluation of nine biomolecular design tasks, we find using Chaperone reduces total token usage relative to baseline agents by 86% and GPU costs by 64%, while increasing the overall computational design pass rate. We demonstrate Chaperone’s utility for large-scale design-space exploration through a two-week end-to-end small-molecule binder design campaign, yielding low nanomolar binders to cortisol zero shot. We further demonstrate its versatility across distinct design challenges, including the design of a symmetric 12-subunit self-assembly nanoparticle and a linker that mediates interactions between C2- and D3-symmetric protein complexes to form crystalline assemblies. Together, these results demonstrate how agent harnesses built around standardized tool interfaces can substantially improve the efficiency and success of complex, long-horizon agentic design workflows in biology. We make Chaperone freely available to the community on GitHub:\n                  <jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://github.com/RosettaCommons/chaperone\">https://github.com/RosettaCommons/chaperone</jats:ext-link>\n                  .\n                </jats:p>",
+      "DOI": "10.64898/2026.10.19.759896",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            21
+          ]
+        ],
+        "date-time": "2026-10-21T02:45:16Z",
+        "timestamp": 1792550716000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Reliable and Efficient Agentic Protein Design with Toolset Harnessing"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0004-4864-1330",
+          "authenticated-orcid": false,
+          "given": "Jasper",
+          "family": "Butcher",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Institute for Protein Design, University of Washington, Seattle, WA, USA;"
+            },
+            {
+              "name": "Paul G. Allen School of Computer Science & Engineering, University of Washington, Seattle, WA, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jie",
+          "family": "Chen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute for Protein Design, University of Washington, Seattle, WA, USA;"
+            },
+            {
+              "name": "Paul G. Allen School of Computer Science & Engineering, University of Washington, Seattle, WA, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Andrew",
+          "family": "Hunt",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute for Protein Design, University of Washington, Seattle, WA, USA;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Cyrus M.",
+          "family": "Haas",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute for Protein Design, University of Washington, Seattle, WA, USA;"
+            },
+            {
+              "name": "Department of Chemical Engineering, University of Washington, Seattle, WA, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Wenzhao",
+          "family": "Dai",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute for Protein Design, University of Washington, Seattle, WA, USA;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Shajesh",
+          "family": "Sharma",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute for Protein Design, University of Washington, Seattle, WA, USA;"
+            },
+            {
+              "name": "Department of Bioengineering, University of Washington, Seattle, WA, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Raktim",
+          "family": "Mitra",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute for Protein Design, University of Washington, Seattle, WA, USA;"
+            },
+            {
+              "name": "Department of Biochemistry, University of Washington, Seattle, WA, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Saman",
+          "family": "Salike",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute for Protein Design, University of Washington, Seattle, WA, USA;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jeremy",
+          "family": "Koob",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute for Protein Design, University of Washington, Seattle, WA, USA;"
+            },
+            {
+              "name": "FutureHouse, San Francisco, CA, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Aiko",
+          "family": "Muraishi",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute for Protein Design, University of Washington, Seattle, WA, USA;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Zhe",
+          "family": "Li",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Guangdong Provincial Key Laboratory of Advanced Biomaterials, Department of Biomedical Engineering, Southern University of Science and Technology, Shenzhen 518055, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Harley",
+          "family": "Pyles",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute for Protein Design, University of Washington, Seattle, WA, USA;"
+            },
+            {
+              "name": "Department of Biochemistry, University of Washington, Seattle, WA, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Michael D.",
+          "family": "Tyka",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Google Inc., Seattle, WA 98103, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Magnus S.",
+          "family": "Bauer",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute for Protein Design, University of Washington, Seattle, WA, USA;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Rafi I.",
+          "family": "Brent",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute for Protein Design, University of Washington, Seattle, WA, USA;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Anant",
+          "family": "Mittal",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "eScience Institute, University of Washington"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Neil P.",
+          "family": "King",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute for Protein Design, University of Washington, Seattle, WA, USA;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "David",
+          "family": "Baker",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute for Protein Design, University of Washington, Seattle, WA, USA;"
+            },
+            {
+              "name": "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA"
+            },
+            {
+              "name": "Department of Biochemistry, University of Washington, Seattle, WA, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "reference": [
+        {
+          "key": "2026102303350983000_2026.10.19.759896v1.1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.aeh2982"
+        },
+        {
+          "key": "2026102303350983000_2026.10.19.759896v1.2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.add2187"
+        },
+        {
+          "key": "2026102303350983000_2026.10.19.759896v1.3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41586-024-07487-w"
+        },
+        {
+          "key": "2026102303350983000_2026.10.19.759896v1.4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41586-021-04184-w"
+        },
+        {
+          "key": "2026102303350983000_2026.10.19.759896v1.5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41586-023-06415-8"
+        },
+        {
+          "key": "2026102303350983000_2026.10.19.759896v1.6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.adl2528"
+        },
+        {
+          "key": "2026102303350983000_2026.10.19.759896v1.7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41592-025-02626-1"
+        },
+        {
+          "key": "2026102303350983000_2026.10.19.759896v1.8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41586-025-09429-6"
+        },
+        {
+          "key": "2026102303350983000_2026.10.19.759896v1.9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41586-023-06728-8"
+        },
+        {
+          "key": "2026102303350983000_2026.10.19.759896v1.10",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41586-021-03819-2"
+        },
+        {
+          "key": "2026102303350983000_2026.10.19.759896v1.11",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1101/2025.08.14.670328"
+        },
+        {
+          "key": "2026102303350983000_2026.10.19.759896v1.12",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.64898/2026.06.03.729735"
+        },
+        {
+          "key": "2026102303350983000_2026.10.19.759896v1.13",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1021/acs.jctc.7b00125"
+        },
+        {
+          "key": "2026102303350983000_2026.10.19.759896v1.14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/B978-0-12-381270-4.00019-6"
+        },
+        {
+          "key": "2026102303350983000_2026.10.19.759896v1.15",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41586-026-10670-w"
+        },
+        {
+          "key": "2026102303350983000_2026.10.19.759896v1.16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1101/2025.11.08.686881"
+        },
+        {
+          "key": "2026102303350983000_2026.10.19.759896v1.17",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1101/2025.10.10.681530"
+        },
+        {
+          "key": "2026102303350983000_2026.10.19.759896v1.18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.64898/2026.10.02.756307"
+        },
+        {
+          "key": "2026102303350983000_2026.10.19.759896v1.19",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41586-024-07601-y"
+        },
+        {
+          "key": "2026102303350983000_2026.10.19.759896v1.20",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.34133/csbj.0129"
+        },
+        {
+          "key": "2026102303350983000_2026.10.19.759896v1.21",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/pro.70464"
+        },
+        {
+          "key": "2026102303350983000_2026.10.19.759896v1.22",
+          "unstructured": "ProtFlow contributors. ProtFlow. Software repository and documentation. Software or project documentation. Accessed 17 October 2026. https://github.com/mabr3112/ProtFlow."
+        },
+        {
+          "key": "2026102303350983000_2026.10.19.759896v1.23",
+          "unstructured": "Proto Language contributors. Proto Language. Software repository. Software or project documentation. Accessed 17 October 2026. https://github.com/evo-design/proto-language."
+        },
+        {
+          "key": "2026102303350983000_2026.10.19.759896v1.24",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/pro.70547"
+        },
+        {
+          "key": "2026102303350983000_2026.10.19.759896v1.25",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.64898/2026.09.22.753604"
+        },
+        {
+          "key": "2026102303350983000_2026.10.19.759896v1.26",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5281/zenodo.7697217"
+        },
+        {
+          "key": "2026102303350983000_2026.10.19.759896v1.27",
+          "unstructured": "Submitit contributors. Submitit. Software repository. Software or project documentation. Accessed 17 October 2026. https://github.com/facebookincubator/submitit."
+        },
+        {
+          "key": "2026102303350983000_2026.10.19.759896v1.28",
+          "unstructured": "Harbor contributors. Harbor. Oflcial framework website. Software or project documentation. Accessed 17 October 2026. https://www.harborframework.com/."
+        },
+        {
+          "key": "2026102303350983000_2026.10.19.759896v1.29",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41467-026-70953-8"
+        },
+        {
+          "key": "2026102303350983000_2026.10.19.759896v1.30",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.64898/2025.12.19.695620"
+        },
+        {
+          "key": "2026102303350983000_2026.10.19.759896v1.31",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pcbi.1010680"
+        },
+        {
+          "key": "2026102303350983000_2026.10.19.759896v1.32",
+          "unstructured": "Xue F , Kubaney A , Guo Z , et al. Improving Protein Sequence Design through Designability Preference Optimization. arXiv:2506.00297 (2025). Preprint. https://arxiv.org/abs/2506.00297."
+        },
+        {
+          "key": "2026102303350983000_2026.10.19.759896v1.33",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/0022-2836(70)90057-4"
+        },
+        {
+          "key": "2026102303350983000_2026.10.19.759896v1.34",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1101/2025.02.10.637595"
+        },
+        {
+          "key": "2026102303350983000_2026.10.19.759896v1.35",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/gkv716"
+        },
+        {
+          "key": "2026102303350983000_2026.10.19.759896v1.36",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.64898/2026.04.27.720408"
+        },
+        {
+          "key": "2026102303350983000_2026.10.19.759896v1.37",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pone.0003647"
+        },
+        {
+          "key": "2026102303350983000_2026.10.19.759896v1.38",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pep.2005.01.016"
+        },
+        {
+          "key": "2026102303350983000_2026.10.19.759896v1.39",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/30.10.e43"
+        },
+        {
+          "key": "2026102303350983000_2026.10.19.759896v1.40",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nprot.2006.94"
+        },
+        {
+          "key": "2026102303350983000_2026.10.19.759896v1.41",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41586-022-04654-9"
+        },
+        {
+          "key": "2026102303350983000_2026.10.19.759896v1.42",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7554/eLife.57264"
+        }
+      ],
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.10.19.759896",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            23
+          ]
+        ],
+        "date-time": "2026-10-23T10:35:21Z",
+        "timestamp": 1792751721000
+      },
+      "score": 33.43054,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.10.19.759896"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            20
+          ]
+        ]
+      },
+      "references-count": 42,
+      "URL": "https://doi.org/10.64898/2026.10.19.759896",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            20
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

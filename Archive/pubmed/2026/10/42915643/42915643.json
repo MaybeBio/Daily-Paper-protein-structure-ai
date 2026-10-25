@@ -1,0 +1,199 @@
+{
+  "identity": {
+    "pmid": "42915643",
+    "doi": "10.1021/acsnano.6c07706",
+    "title": "Inositol Hexakisphosphate Promotes Open Pore State in HIV Capsid Protein Lattice by Reconfiguring Subunit Contacts."
+  },
+  "content": {
+    "abstract": "The mature human immunodeficiency virus (HIV-1) capsid is composed of approximately 250 capsid protein hexamers, each containing a central pore delimited by a beta-hairpin and an alpha-helix from each monomer. The cellular metabolite inositol hexakisphosphate (IP6) binds this pore and modulates translocation of nucleoside triphosphates into the capsid, where they fuel reverse transcription of the viral genome. However, the mechanism by which IP6 modulates the pore conformation is poorly understood. Averaged structural models of the HIV-1 capsid protein lattice have shed some light on this mechanism but lack information on the dynamic behavior of individual hexamers that could provide deeper mechanistic insights. Here we visualized in real time by high-speed atomic force microscopy the asynchronous motions of individual hexamer pores in the presence or absence of IP6, identifying dynamic transitions between two major states. Quantitative analysis enabled estimation of the IP6-induced pore conformations and populations. Constant-pH molecular dynamics simulations further reveal that IP6 induces contact rewiring at the pore entrance, stabilizing the open state through coordinated rearrangement of intersubunit interactions. Consistently, mechanical fatigue assays show that IP6 markedly enhances the resistance of the capsid lattice to mechanical fatigue, revealing its role as a mechanically stabilized nanomaterial. Together, these results establish IP6 as a proviral regulator that couples nanoscale pore dynamics, intersubunit contact reconfiguration, and mechanical resilience of the HIV-1 capsid, providing a unified mechanistic framework for its role in viral replication.",
+    "keywords": [
+      "capsid protein lattice",
+      "constant-pH molecular dynamics",
+      "high-speed AFM",
+      "human immunodeficiency virus",
+      "molecular dynamics",
+      "pore opening"
+    ],
+    "mesh_terms": [
+      "*Phytic Acid/chemistry/metabolism/pharmacology",
+      "Molecular Dynamics Simulation",
+      "*HIV-1/chemistry/metabolism",
+      "*Capsid Proteins/chemistry/metabolism",
+      "Microscopy, Atomic Force",
+      "Protein Conformation",
+      "Capsid/chemistry"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Knelissen, Yari Katar",
+        "Escrig, Judith",
+        "Macke, Amanda C",
+        "Sudhakar, Sruthi",
+        "Dominguez-Zotes, Santos",
+        "Maity, Sourav",
+        "Mateu, Mauricio G",
+        "Perilla, Juan R",
+        "Roos, Wouter H",
+        "Valbuena, Alejandro"
+      ],
+      "short_names": [
+        "Knelissen YK",
+        "Escrig J",
+        "Macke AC",
+        "Sudhakar S",
+        "Dominguez-Zotes S",
+        "Maity S",
+        "Mateu MG",
+        "Perilla JR",
+        "Roos WH",
+        "Valbuena A"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-1614-0879",
+        "ORCID: 0000-0003-1171-6816",
+        "ORCID: 0000-0002-5104-0139",
+        "ORCID: 0000-0002-6801-640X"
+      ],
+      "affiliations": [
+        "Moleculaire Biofysica, Zernike Instituut, Rijksuniversiteit Groningen, 9747 AGGroningen, The Netherlands.",
+        "Centro de Biologia Molecular Severo Ochoa (CSIC-UAM), Campus of the Universidad Autonoma de Madrid, 28049Madrid, Spain.",
+        "Department of Chemistry and Biochemistry, University of Delaware, Newark, Delaware19716, United States.",
+        "Department of Chemistry and Biochemistry, University of Delaware, Newark, Delaware19716, United States.",
+        "Centro de Biologia Molecular Severo Ochoa (CSIC-UAM), Campus of the Universidad Autonoma de Madrid, 28049Madrid, Spain.",
+        "Moleculaire Biofysica, Zernike Instituut, Rijksuniversiteit Groningen, 9747 AGGroningen, The Netherlands.",
+        "Centro de Biologia Molecular Severo Ochoa (CSIC-UAM), Campus of the Universidad Autonoma de Madrid, 28049Madrid, Spain.",
+        "Department of Chemistry and Biochemistry, University of Delaware, Newark, Delaware19716, United States.",
+        "Moleculaire Biofysica, Zernike Instituut, Rijksuniversiteit Groningen, 9747 AGGroningen, The Netherlands.",
+        "Centro de Biologia Molecular Severo Ochoa (CSIC-UAM), Campus of the Universidad Autonoma de Madrid, 28049Madrid, Spain.",
+        "Departamento de Biologia Molecular, Universidad Autonoma de Madrid, 28049Madrid, Spain."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Knelissen, Yari Katar",
+        "short_name": "Knelissen YK",
+        "identifiers": [],
+        "affiliations": [
+          "Moleculaire Biofysica, Zernike Instituut, Rijksuniversiteit Groningen, 9747 AGGroningen, The Netherlands."
+        ]
+      },
+      {
+        "full_name": "Escrig, Judith",
+        "short_name": "Escrig J",
+        "identifiers": [],
+        "affiliations": [
+          "Centro de Biología Molecular Severo Ochoa (CSIC-UAM), Campus of the Universidad Autónoma de Madrid, 28049Madrid, Spain."
+        ]
+      },
+      {
+        "full_name": "Macke, Amanda C",
+        "short_name": "Macke AC",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry and Biochemistry, University of Delaware, Newark, Delaware19716, United States."
+        ]
+      },
+      {
+        "full_name": "Sudhakar, Sruthi",
+        "short_name": "Sudhakar S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry and Biochemistry, University of Delaware, Newark, Delaware19716, United States."
+        ]
+      },
+      {
+        "full_name": "Domínguez-Zotes, Santos",
+        "short_name": "Domínguez-Zotes S",
+        "identifiers": [],
+        "affiliations": [
+          "Centro de Biología Molecular Severo Ochoa (CSIC-UAM), Campus of the Universidad Autónoma de Madrid, 28049Madrid, Spain."
+        ]
+      },
+      {
+        "full_name": "Maity, Sourav",
+        "short_name": "Maity S",
+        "identifiers": [
+          "0000-0003-1614-0879"
+        ],
+        "affiliations": [
+          "Moleculaire Biofysica, Zernike Instituut, Rijksuniversiteit Groningen, 9747 AGGroningen, The Netherlands."
+        ]
+      },
+      {
+        "full_name": "Mateu, Mauricio G",
+        "short_name": "Mateu MG",
+        "identifiers": [],
+        "affiliations": [
+          "Centro de Biología Molecular Severo Ochoa (CSIC-UAM), Campus of the Universidad Autónoma de Madrid, 28049Madrid, Spain."
+        ]
+      },
+      {
+        "full_name": "Perilla, Juan R",
+        "short_name": "Perilla JR",
+        "identifiers": [
+          "0000-0003-1171-6816"
+        ],
+        "affiliations": [
+          "Department of Chemistry and Biochemistry, University of Delaware, Newark, Delaware19716, United States."
+        ]
+      },
+      {
+        "full_name": "Roos, Wouter H",
+        "short_name": "Roos WH",
+        "identifiers": [
+          "0000-0002-5104-0139"
+        ],
+        "affiliations": [
+          "Moleculaire Biofysica, Zernike Instituut, Rijksuniversiteit Groningen, 9747 AGGroningen, The Netherlands."
+        ]
+      },
+      {
+        "full_name": "Valbuena, Alejandro",
+        "short_name": "Valbuena A",
+        "identifiers": [
+          "0000-0002-6801-640X"
+        ],
+        "affiliations": [
+          "Centro de Biología Molecular Severo Ochoa (CSIC-UAM), Campus of the Universidad Autónoma de Madrid, 28049Madrid, Spain.",
+          "Departamento de Biología Molecular, Universidad Autónoma de Madrid, 28049Madrid, Spain."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS nano"
+    ],
+    "journal_abbrev": [
+      "ACS Nano"
+    ],
+    "pub_date": "2026 Oct 6",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42915643"
+    ],
+    "review": [
+      "42915643"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

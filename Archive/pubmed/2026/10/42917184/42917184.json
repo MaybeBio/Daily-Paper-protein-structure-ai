@@ -1,0 +1,108 @@
+{
+  "identity": {
+    "pmid": "42917184",
+    "doi": "10.1021/acs.jpcb.6c03835",
+    "title": "Conformational Landscape of a Marginally Disordered Protein HYPK and its Charge-Variant Mutant in the Context of Folded Domains."
+  },
+  "content": {
+    "abstract": "Intrinsically disordered proteins (IDPs) can have varying proportions of disordered and structured regions, and various fractions of amino acids promoting these regions. This raises the possibility that some IDPs may behave as marginal proteins, exhibiting properties of both disordered and folded states. HYPK is one such recently discovered marginal protein studied by fluorescence assays (with fluorescent proteins attached at the termini) and circular dichroism (CD) while modulating temperature, crowding, ionic strength and sequence (by altering charge composition and patterning). Here, we use all-atom molecular dynamics (MD) simulations to understand the sequence-specific and structural origin of this marginality by investigating the conformation landscape of both the wild-type and a charge-variant mutant of HYPK, with and without fluorescent proteins (FPs) attached at the N- and C- termini. We find the charge-variant mutant is more compact compared to the wild type both with and without FPs, showing the importance of charge patterning that is consistent with experimental observations and theoretical predictions used for experimental characterization. The wild-type HYPK fused to FPs reveals two distinct conformational populations differing in helix packing, which may account for the marginality observed experimentally. The charge-variant mutant protein with FPs also displays bimodal conformational populations, but through a different mechanism involving competitive electrostatic interactions between different protein segments and the FPs. Bimodality is observed in the mutant without FPs under different salt conditions due to competitive interactions between different segments of the chain or between the chain and counterions, while it becomes less evident in the wild-type HYPK without the crowding and surface interactions provided by the FPs. These findings offer broad insights into the origin of marginality, competing interactions, as well as the roles charge patterning and folded domains play on IDP conformation both in vitro and in-cell.",
+    "keywords": [],
+    "mesh_terms": [
+      "Molecular Dynamics Simulation",
+      "Protein Folding",
+      "Mutation",
+      "*Intrinsically Disordered Proteins/chemistry/genetics",
+      "Protein Conformation",
+      "Protein Domains"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Gaalswyk, Kari",
+        "Gruebele, Martin",
+        "Ghosh, Kingshuk"
+      ],
+      "short_names": [
+        "Gaalswyk K",
+        "Gruebele M",
+        "Ghosh K"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-9291-8123",
+        "ORCID: 0000-0003-4976-0986"
+      ],
+      "affiliations": [
+        "Department of Physics and Astronomy, University of Denver, Denver, Colorado80210, United States.",
+        "Department of Chemistry, Department of Physics, and Center for Biophysics and Quantitative Biology, University of Illinois at Urbana-Champaign, Urbana, Illinois61801, United States.",
+        "Department of Physics and Astronomy, University of Denver, Denver, Colorado80210, United States.",
+        "Department of Molecular and Cellular Biophysics, University of Denver, Denver, Colorado80210, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Gaalswyk, Kari",
+        "short_name": "Gaalswyk K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physics and Astronomy, University of Denver, Denver, Colorado80210, United States."
+        ]
+      },
+      {
+        "full_name": "Gruebele, Martin",
+        "short_name": "Gruebele M",
+        "identifiers": [
+          "0000-0001-9291-8123"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Department of Physics, and Center for Biophysics and Quantitative Biology, University of Illinois at Urbana-Champaign, Urbana, Illinois61801, United States."
+        ]
+      },
+      {
+        "full_name": "Ghosh, Kingshuk",
+        "short_name": "Ghosh K",
+        "identifiers": [
+          "0000-0003-4976-0986"
+        ],
+        "affiliations": [
+          "Department of Physics and Astronomy, University of Denver, Denver, Colorado80210, United States.",
+          "Department of Molecular and Cellular Biophysics, University of Denver, Denver, Colorado80210, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The journal of physical chemistry. B"
+    ],
+    "journal_abbrev": [
+      "J Phys Chem B"
+    ],
+    "pub_date": "2026 Oct 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42917184"
+    ],
+    "review": [
+      "42917184"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

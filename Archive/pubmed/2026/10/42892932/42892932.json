@@ -1,0 +1,121 @@
+{
+  "identity": {
+    "pmid": "42892932",
+    "doi": "10.1016/j.isci.2026.117693",
+    "title": "An inverse-protein-folding pre-trained model for predicting the mutational effects in protein-protein interactions."
+  },
+  "content": {
+    "abstract": "Protein-protein interactions (PPIs) are fundamental to vast biological processes. Accurate prediction of mutation-induced changes in PPIs is crucial for protein engineering and drug discovery. Most existing PPI prediction approaches rely on refined physicochemical features or computationally intensive structural sampling. Here, we present delta-G message-passing-neural-network (DGMPNN), a message-passing neural-network framework for predicting the effects of mutations on PPIs. DGMPNN is pre-trained on an inverse protein folding (IPF) task and employs an adaptive residue-level attention pooling mechanism to enable effective transfer learning for predicting mutation-induced changes in protein binding affinity. The model achieves state-of-the-art performance on multiple benchmark datasets and deep mutational scanning (DMS) datasets. Experimental validation using computationally selected multi-site variants of the SARS-CoV-2 RBD-hACE2 complex showed strong agreement between predicted and experimentally measured binding affinities.",
+    "keywords": [
+      "combinatorial mutation effects",
+      "mutational effect on affinity",
+      "protein engineering",
+      "protein-protein interaction",
+      "transfer learning"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Mao, Sihong",
+        "Meng, Siwei",
+        "Xiang, Ye"
+      ],
+      "short_names": [
+        "Mao S",
+        "Meng S",
+        "Xiang Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Beijing Frontier Research Center for Biological Structure, Center for Infection Biology, School of Basic Medical Sciences, Tsinghua University, Beijing 100084, P.R. China.",
+        "Tsinghua-Peking Joint Center for Life Sciences, Beijing 100084, P.R. China.",
+        "Beijing Frontier Research Center for Biological Structure, Center for Infection Biology, School of Basic Medical Sciences, Tsinghua University, Beijing 100084, P.R. China.",
+        "Tsinghua-Peking Joint Center for Life Sciences, Beijing 100084, P.R. China.",
+        "Beijing Frontier Research Center for Biological Structure, Center for Infection Biology, School of Basic Medical Sciences, Tsinghua University, Beijing 100084, P.R. China.",
+        "Tsinghua-Peking Joint Center for Life Sciences, Beijing 100084, P.R. China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Mao, Sihong",
+        "short_name": "Mao S",
+        "identifiers": [],
+        "affiliations": [
+          "Beijing Frontier Research Center for Biological Structure, Center for Infection Biology, School of Basic Medical Sciences, Tsinghua University, Beijing 100084, P.R. China.",
+          "Tsinghua-Peking Joint Center for Life Sciences, Beijing 100084, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Meng, Siwei",
+        "short_name": "Meng S",
+        "identifiers": [],
+        "affiliations": [
+          "Beijing Frontier Research Center for Biological Structure, Center for Infection Biology, School of Basic Medical Sciences, Tsinghua University, Beijing 100084, P.R. China.",
+          "Tsinghua-Peking Joint Center for Life Sciences, Beijing 100084, P.R. China."
+        ]
+      },
+      {
+        "full_name": "Xiang, Ye",
+        "short_name": "Xiang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Beijing Frontier Research Center for Biological Structure, Center for Infection Biology, School of Basic Medical Sciences, Tsinghua University, Beijing 100084, P.R. China.",
+          "Tsinghua-Peking Joint Center for Life Sciences, Beijing 100084, P.R. China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "iScience"
+    ],
+    "journal_abbrev": [
+      "iScience"
+    ],
+    "pub_date": "2026 Oct 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/18 05:37",
+    "fetched_at": "2026-10-25 07:17:06"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42892932"
+    ],
+    "review": [
+      "42892932"
+    ],
+    "pmc": [
+      "13675481"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2589-0042(26)03074-9",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-438",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

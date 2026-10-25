@@ -1,0 +1,160 @@
+{
+  "identity": {
+    "pmid": "42905560",
+    "doi": "10.1073/pnas.2605643123",
+    "title": "Enhancing simulations of disordered protein ensembles with chemical shift restraints in coarse-grained models."
+  },
+  "content": {
+    "abstract": "With more than one third of the human proteome being structurally disordered, intrinsically disordered proteins (IDPs) are key contributors to complex cellular functions, despite their highly dynamic conformational ensembles remaining elusive to conventional techniques in structural biology. Coarse-grained (CG) simulation methods thus serve as a gold standard to refine IDP ensembles. These methods, when relying on elastic network models or rigid body to sample secondary structure, are however inherently limited in their capability to model and sample transient secondary structure at a residue-level resolution as informed by experimental data. This fundamental limitation persists despite experimental evidence suggesting that transient structural propensities are a fundamental hallmark of IDP function. Through an artificial neural network capable of predicting backbone chemical shifts from C(alpha)-only protein conformations, we present a generalized framework which does not rely on dihedral parameterization to equip one bead-per-aminoacid CG force fields with the ability to sample functional elements of secondary structure. When applied on a large set of IDPs in isolation or condensates, our approach correctly recapitulates both local and global arrangements, yielding experimentally informed ensembles that can inform structure-mediated function and resolve force field limitations. This can yield a fruitful exploration of ensemble-to-function relationships in IDPs, allowing to explore phenomena such as secondary structure propensity and nucleation in condensates, conformationally selected binding motifs across disordered ensembles or conformational preferences of sequence-specific short-linear motifs.",
+    "keywords": [
+      "biophysics",
+      "disordered proteins",
+      "molecular simulations"
+    ],
+    "mesh_terms": [
+      "*Intrinsically Disordered Proteins/chemistry",
+      "Humans",
+      "Protein Structure, Secondary",
+      "*Molecular Dynamics Simulation",
+      "Protein Conformation",
+      "Models, Molecular",
+      "Neural Networks, Computer"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Cullen, Mina",
+        "Biancaniello, Carmen",
+        "Taskova, Katerina",
+        "Miletic, Vedran",
+        "De Simone, Alfonso",
+        "Mercadante, Davide"
+      ],
+      "short_names": [
+        "Cullen M",
+        "Biancaniello C",
+        "Taskova K",
+        "Miletic V",
+        "De Simone A",
+        "Mercadante D"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-3217-7877",
+        "ORCID: 0000-0003-3981-8806",
+        "ORCID: 0000-0001-8789-9546",
+        "ORCID: 0000-0001-6792-7706"
+      ],
+      "affiliations": [
+        "School of Chemical Sciences, The University of Auckland, Auckland 1010, New Zealand. ROR: https://ror.org/03b94tp07",
+        "Department of Pharmacy, University of Naples Federico II, Naples 80131, Italy. ROR: https://ror.org/05290cv24",
+        "Department of Computer Science, The University of Auckland, Auckland 1010, New Zealand. ROR: https://ror.org/03b94tp07",
+        "Max Planck Computing and Data Facility, Garching, Munich 84748, Germany. ROR: https://ror.org/03e21z229",
+        "Department of Pharmacy, University of Naples Federico II, Naples 80131, Italy. ROR: https://ror.org/05290cv24",
+        "School of Chemical Sciences, The University of Auckland, Auckland 1010, New Zealand. ROR: https://ror.org/03b94tp07",
+        "Maurice Wilkins Centre for Molecular Biodiscovery, The University of Auckland, Auckland 1010, New Zealand. ROR: https://ror.org/03b94tp07"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Cullen, Mina",
+        "short_name": "Cullen M",
+        "identifiers": [],
+        "affiliations": [
+          "School of Chemical Sciences, The University of Auckland, Auckland 1010, New Zealand."
+        ]
+      },
+      {
+        "full_name": "Biancaniello, Carmen",
+        "short_name": "Biancaniello C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacy, University of Naples Federico II, Naples 80131, Italy."
+        ]
+      },
+      {
+        "full_name": "Taškova, Katerina",
+        "short_name": "Taškova K",
+        "identifiers": [
+          "0000-0002-3217-7877"
+        ],
+        "affiliations": [
+          "Department of Computer Science, The University of Auckland, Auckland 1010, New Zealand."
+        ]
+      },
+      {
+        "full_name": "Miletić, Vedran",
+        "short_name": "Miletić V",
+        "identifiers": [
+          "0000-0003-3981-8806"
+        ],
+        "affiliations": [
+          "Max Planck Computing and Data Facility, Garching, Munich 84748, Germany."
+        ]
+      },
+      {
+        "full_name": "De Simone, Alfonso",
+        "short_name": "De Simone A",
+        "identifiers": [
+          "0000-0001-8789-9546"
+        ],
+        "affiliations": [
+          "Department of Pharmacy, University of Naples Federico II, Naples 80131, Italy."
+        ]
+      },
+      {
+        "full_name": "Mercadante, Davide",
+        "short_name": "Mercadante D",
+        "identifiers": [
+          "0000-0001-6792-7706"
+        ],
+        "affiliations": [
+          "School of Chemical Sciences, The University of Auckland, Auckland 1010, New Zealand.",
+          "Maurice Wilkins Centre for Molecular Biodiscovery, The University of Auckland, Auckland 1010, New Zealand."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Proceedings of the National Academy of Sciences of the United States of America"
+    ],
+    "journal_abbrev": [
+      "Proc Natl Acad Sci U S A"
+    ],
+    "pub_date": "2026 Oct 27",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/22 23:29",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42905560"
+    ],
+    "review": [
+      "42905560"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://www.pnas.org/doi/10.1073/pnas.2605643123?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

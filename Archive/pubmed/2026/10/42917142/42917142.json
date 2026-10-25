@@ -1,0 +1,139 @@
+{
+  "identity": {
+    "pmid": "42917142",
+    "doi": "10.1021/acs.jpclett.6c02620",
+    "title": "Impact of Inhibitor Size and Flexibility on the Binding Pathways to c-Src Kinase."
+  },
+  "content": {
+    "abstract": "The conformational plasticity of protein kinases poses a challenge for inhibitor design, motivating the use of molecular dynamics (MD) simulations to study their dynamic binding processes. While conformational changes are increasingly discussed, the impact of drug compound flexibility remains underexplored because of experimental limitations. In this study, we employ two-dimensional replica-exchange MD simulations to investigate how c-Src kinase binds to PP1, a small inhibitor, and to dasatinib, a larger, more flexible inhibitor. Simulations totaling 600 mus revealed frequent binding and unbinding events, yielding statistically converged information about the binding pathways. While both inhibitors follow multiple binding pathways, a notable difference emerges in their binding mechanisms on the free-energy profiles: PP1 is rigid along the binding path, whereas dasatinib substantially changes its conformation at different stages in the pathway to the canonical pose. Conformational analysis reveals distinct conformers of dasatinib, including a hidden intermediate, which helps to avoid trapping at the salt-bridge pair linking the beta3 strand and the alphaC-helix of the c-Src kinase. These results, distinct from previous computational studies, demonstrate that inhibitor size and flexibility affect binding mechanisms and have implications on kinetics.",
+    "keywords": [],
+    "mesh_terms": [
+      "Molecular Dynamics Simulation",
+      "*Protein Kinase Inhibitors/chemistry/pharmacology",
+      "*Dasatinib/chemistry",
+      "CSK Tyrosine-Protein Kinase",
+      "*src-Family Kinases/antagonists & inhibitors/metabolism/chemistry",
+      "Protein Binding",
+      "Binding Sites",
+      "Thermodynamics",
+      "*Pyrazoles/chemistry",
+      "Protein Conformation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Shinobu, Ai",
+        "Re, Suyong",
+        "Oshima, Hiraku",
+        "Sugita, Yuji"
+      ],
+      "short_names": [
+        "Shinobu A",
+        "Re S",
+        "Oshima H",
+        "Sugita Y"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-2865-6461",
+        "ORCID: 0000-0002-3752-6554",
+        "ORCID: 0000-0001-5626-1291",
+        "ORCID: 0000-0001-9738-9216"
+      ],
+      "affiliations": [
+        "RIKEN Center for Biosystems Dynamics Research, 7-1-26 minatojima-minamimachi, Chuo-ku, Kobe, Hyogo650-0047, Japan.",
+        "Premium Research Institute for Human Metaverse Medicine (WPI-PRIMe), The University of Osaka, 2-8 Yamadaoka, Suita, Osaka, 565-0871, Japan.",
+        "RIKEN Center for Biosystems Dynamics Research, 7-1-26 minatojima-minamimachi, Chuo-ku, Kobe, Hyogo650-0047, Japan.",
+        "Artificial Intelligence Center for Health and Biomedical Research, National Institutes of Biomedical Innovation, Health, and Nutrition, 3-17 Senrioka Shinmachi, Settu-shi, Osaka566-0002, Japan.",
+        "RIKEN Center for Biosystems Dynamics Research, 7-1-26 minatojima-minamimachi, Chuo-ku, Kobe, Hyogo650-0047, Japan.",
+        "University of Hyogo, Graduate School of Science, 3-2-1 Kouto, Kamigori-cho, Ako-gun, Hyogo678-1297, Japan.",
+        "RIKEN Center for Biosystems Dynamics Research, 7-1-26 minatojima-minamimachi, Chuo-ku, Kobe, Hyogo650-0047, Japan.",
+        "Theoretical Molecular Science Laboratory, RIKEN Pioneering Research Institute, 2-1 Hirosawa, Wako, Saitama351-0198, Japan.",
+        "RIKEN Center for Computational Science, 7-1-26 minatojima-minamimachi, Chuo-ku, Kobe, Hyogo650-0047, Japan.",
+        "Department of Physics, University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo113-0033, Japan."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Shinobu, Ai",
+        "short_name": "Shinobu A",
+        "identifiers": [
+          "0000-0002-2865-6461"
+        ],
+        "affiliations": [
+          "RIKEN Center for Biosystems Dynamics Research, 7-1-26 minatojima-minamimachi, Chuo-ku, Kobe, Hyogo650-0047, Japan.",
+          "Premium Research Institute for Human Metaverse Medicine (WPI-PRIMe), The University of Osaka, 2-8 Yamadaoka, Suita, Osaka, 565-0871, Japan."
+        ]
+      },
+      {
+        "full_name": "Re, Suyong",
+        "short_name": "Re S",
+        "identifiers": [
+          "0000-0002-3752-6554"
+        ],
+        "affiliations": [
+          "RIKEN Center for Biosystems Dynamics Research, 7-1-26 minatojima-minamimachi, Chuo-ku, Kobe, Hyogo650-0047, Japan.",
+          "Artificial Intelligence Center for Health and Biomedical Research, National Institutes of Biomedical Innovation, Health, and Nutrition, 3-17 Senrioka Shinmachi, Settu-shi, Osaka566-0002, Japan."
+        ]
+      },
+      {
+        "full_name": "Oshima, Hiraku",
+        "short_name": "Oshima H",
+        "identifiers": [
+          "0000-0001-5626-1291"
+        ],
+        "affiliations": [
+          "RIKEN Center for Biosystems Dynamics Research, 7-1-26 minatojima-minamimachi, Chuo-ku, Kobe, Hyogo650-0047, Japan.",
+          "University of Hyogo, Graduate School of Science, 3-2-1 Kouto, Kamigori-cho, Ako-gun, Hyogo678-1297, Japan."
+        ]
+      },
+      {
+        "full_name": "Sugita, Yuji",
+        "short_name": "Sugita Y",
+        "identifiers": [
+          "0000-0001-9738-9216"
+        ],
+        "affiliations": [
+          "RIKEN Center for Biosystems Dynamics Research, 7-1-26 minatojima-minamimachi, Chuo-ku, Kobe, Hyogo650-0047, Japan.",
+          "Theoretical Molecular Science Laboratory, RIKEN Pioneering Research Institute, 2-1 Hirosawa, Wako, Saitama351-0198, Japan.",
+          "RIKEN Center for Computational Science, 7-1-26 minatojima-minamimachi, Chuo-ku, Kobe, Hyogo650-0047, Japan.",
+          "Department of Physics, University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo113-0033, Japan."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The journal of physical chemistry letters"
+    ],
+    "journal_abbrev": [
+      "J Phys Chem Lett"
+    ],
+    "pub_date": "2026 Oct 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42917142"
+    ],
+    "review": [
+      "42917142"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

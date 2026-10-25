@@ -1,0 +1,502 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.12.758263",
+  "title": "Relation-Aware Graph–Hypergraph Networks for Antibody Sequence–Structure Co-Design",
+  "doi": "10.64898/2026.10.12.758263",
+  "abstract": "The design of antibody complementarity-determining regions (CDRs) is pivotal for therapeutic development, yet remains challenged by the complexity of the antibody–antigen interface. Existing methods, which largely rely on pairwise relationships, struggle to capture intrinsic multibody interactions and global structural constraints. To address this limitation, we propose the Relation-Aware Graph–Hypergraph Network (RA-GHN), a novel framework that systematically unifies graph-based pairwise modeling with biophysical hypergraphs to capture high-order co-operative effects. Specifically, we construct a heterogeneous hypergraph representation featuring three complementary hyperedge types: epitope–paratope interaction patches, spatial structural clusters, and high-degree hub structures, enabling a comprehensive encoding of interface physics. Architecturally, RA-GHN adopts a dual-pathway design that synergistically integrates a Relation-Aware Equivariant Graph Network (RA-EGN) with an Equivariant Hypergraph Encoder , strictly preserving SE (3)-equivariance throughout the sequence–structure co-design process. Furthermore, to mitigate folding hallucination and sequence overfitting commonly observed in generative models, we introduce the Structure–Sequence Decoupling Index (SSDI), which employs a harmonic mean to non-linearly balance structural physical reliability with sequence novelty. Extensive experiments demonstrate that RA-GHN significantly outperforms state-of-the-art baselines across standard benchmarks and affinity optimization tasks, validating that the fusion of high-order geometric modeling with rigorous evaluation criteria enables the generation of physically feasible and functionally innovative antibodies. Highlights RA-GHN co-designs antibody sequence and structure via hypergraphs. Biophysical hyperedges capture high-order effects at binding interfaces. Dual equivariant pathways synergistically guarantee local geometry and global shape. SSDI metric addresses folding hallucination in antibody evaluation.",
+  "authors": [
+    "Jinzhu Wei",
+    "Shuijun Zhang",
+    "Hongliang Duan",
+    "Leyi Wei",
+    "Jingjing Guo"
+  ],
+  "published_date": "2026-10-18",
+  "updated_date": "2026-10-19T03:00:14Z",
+  "journal": "bioRxiv",
+  "category": "Bioinformatics",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.12.758263",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.12.758263.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [
+    "Bioinformatics"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Bioinformatics",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            22
+          ]
+        ],
+        "date-time": "2026-10-22T04:37:40Z",
+        "timestamp": 1792643860572,
+        "version": "4.5.0"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            18
+          ]
+        ]
+      },
+      "group-title": "Bioinformatics",
+      "reference-count": 32,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                18
+              ]
+            ],
+            "date-time": "2026-10-18T00:00:00Z",
+            "timestamp": 1792281600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "name": "Science and Technology Development Fund of Maca",
+          "award": [
+            "0177/2023/RIA3"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "0177/2023/RIA3"
+              ]
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            18
+          ]
+        ]
+      },
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                <jats:p>\n                  The design of antibody complementarity-determining regions (CDRs) is pivotal for therapeutic development, yet remains challenged by the complexity of the antibody–antigen interface. Existing methods, which largely rely on pairwise relationships, struggle to capture intrinsic multibody interactions and global structural constraints. To address this limitation, we propose the\n                  <jats:italic>Relation-Aware Graph–Hypergraph Network</jats:italic>\n                  (RA-GHN), a novel framework that systematically unifies graph-based pairwise modeling with biophysical hypergraphs to capture high-order co-operative effects. Specifically, we construct a heterogeneous hypergraph representation featuring three complementary hyperedge types: epitope–paratope interaction patches, spatial structural clusters, and high-degree hub structures, enabling a comprehensive encoding of interface physics. Architecturally, RA-GHN adopts a dual-pathway design that synergistically integrates a\n                  <jats:italic>Relation-Aware Equivariant Graph Network</jats:italic>\n                  (RA-EGN) with an\n                  <jats:italic>Equivariant Hypergraph Encoder</jats:italic>\n                  , strictly preserving\n                  <jats:italic>SE</jats:italic>\n                  (3)-equivariance throughout the sequence–structure co-design process. Furthermore, to mitigate\n                  <jats:italic>folding hallucination</jats:italic>\n                  and sequence overfitting commonly observed in generative models, we introduce the\n                  <jats:italic>Structure–Sequence Decoupling Index</jats:italic>\n                  (SSDI), which employs a harmonic mean to non-linearly balance structural physical reliability with sequence novelty. Extensive experiments demonstrate that RA-GHN significantly outperforms state-of-the-art baselines across standard benchmarks and affinity optimization tasks, validating that the fusion of high-order geometric modeling with rigorous evaluation criteria enables the generation of physically feasible and functionally innovative antibodies.\n                </jats:p>\n                <jats:sec>\n                  <jats:title>Highlights</jats:title>\n                  <jats:list list-type=\"bullet\">\n                    <jats:list-item>\n                      <jats:p>RA-GHN co-designs antibody sequence and structure via hypergraphs.</jats:p>\n                    </jats:list-item>\n                    <jats:list-item>\n                      <jats:p>Biophysical hyperedges capture high-order effects at binding interfaces.</jats:p>\n                    </jats:list-item>\n                    <jats:list-item>\n                      <jats:p>Dual equivariant pathways synergistically guarantee local geometry and global shape.</jats:p>\n                    </jats:list-item>\n                    <jats:list-item>\n                      <jats:p>SSDI metric addresses folding hallucination in antibody evaluation.</jats:p>\n                    </jats:list-item>\n                  </jats:list>\n                </jats:sec>",
+      "DOI": "10.64898/2026.10.12.758263",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            19
+          ]
+        ],
+        "date-time": "2026-10-19T03:00:14Z",
+        "timestamp": 1792378814000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Relation-Aware Graph–Hypergraph Networks for Antibody Sequence–Structure Co-Design"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-4710-7775",
+          "authenticated-orcid": false,
+          "given": "Jinzhu",
+          "family": "Wei",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Centre in Artificial Intelligence Driven Drug Discovery, Faculty of Applied Sciences, Macao Polytechnic University, Macao, 999078, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-9875-1501",
+          "authenticated-orcid": false,
+          "given": "Shuijun",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "College of Life Sciences, Nanjing Agricultural University, Nanjing, 210095, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-9194-0115",
+          "authenticated-orcid": false,
+          "given": "Hongliang",
+          "family": "Duan",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Centre in Artificial Intelligence Driven Drug Discovery, Faculty of Applied Sciences, Macao Polytechnic University, Macao, 999078, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1444-190X",
+          "authenticated-orcid": false,
+          "given": "Leyi",
+          "family": "Wei",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Centre in Artificial Intelligence Driven Drug Discovery, Faculty of Applied Sciences, Macao Polytechnic University, Macao, 999078, China"
+            },
+            {
+              "name": "Engineering Research Centre of Applied Technology on Machine Translation and Artificial Intelligence, Macao Polytechnic University, Macao, 999078, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-4632-4364",
+          "authenticated-orcid": false,
+          "given": "Jingjing",
+          "family": "Guo",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Centre in Artificial Intelligence Driven Drug Discovery, Faculty of Applied Sciences, Macao Polytechnic University, Macao, 999078, China"
+            },
+            {
+              "name": "Engineering Research Centre of Applied Technology on Machine Translation and Artificial Intelligence, Macao Polytechnic University, Macao, 999078, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "reference": [
+        {
+          "key": "2026102120401033000_2026.10.12.758263v1.1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pone.0258173"
+        },
+        {
+          "key": "2026102120401033000_2026.10.12.758263v1.2",
+          "first-page": "9754",
+          "article-title": "Antigen-specific antibody design and optimization with diffusion-based generative models for protein structures",
+          "volume": "35",
+          "year": "2022",
+          "journal-title": "in: Advances in Neural Information Processing Systems (NeurIPS)"
+        },
+        {
+          "key": "2026102120401033000_2026.10.12.758263v1.3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/19420862.2022.2031482"
+        },
+        {
+          "key": "2026102120401033000_2026.10.12.758263v1.4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/nar/gkt1043"
+        },
+        {
+          "key": "2026102120401033000_2026.10.12.758263v1.5",
+          "doi-asserted-by": "crossref",
+          "unstructured": "K. Murphy , C. Weaver , Janeway’s immunobiology, Garland science, 2016.",
+          "DOI": "10.1201/9781315533247"
+        },
+        {
+          "key": "2026102120401033000_2026.10.12.758263v1.6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1042/ETLS20200331"
+        },
+        {
+          "key": "2026102120401033000_2026.10.12.758263v1.7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.1810576116"
+        },
+        {
+          "key": "2026102120401033000_2026.10.12.758263v1.8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/protein/gzq061"
+        },
+        {
+          "issue": "8",
+          "key": "2026102120401033000_2026.10.12.758263v1.9",
+          "doi-asserted-by": "crossref",
+          "first-page": "1385",
+          "DOI": "10.1002/prot.24779",
+          "article-title": "Abdesign: A n algorithm for combinatorial backbone design guided by natural conformations and sequences",
+          "volume": "83",
+          "year": "2015",
+          "journal-title": "Proteins: Structure, Function, and Bioinformatics"
+        },
+        {
+          "issue": "4",
+          "key": "2026102120401033000_2026.10.12.758263v1.10",
+          "doi-asserted-by": "crossref",
+          "first-page": "e1006112",
+          "DOI": "10.1371/journal.pcbi.1006112",
+          "article-title": "Rosettaantibodydesign (rabd): A general framework for computational antibody design",
+          "volume": "14",
+          "year": "2018",
+          "journal-title": "PLoS computational biology"
+        },
+        {
+          "issue": "8",
+          "key": "2026102120401033000_2026.10.12.758263v1.11",
+          "doi-asserted-by": "crossref",
+          "first-page": "e1007207",
+          "DOI": "10.1371/journal.pcbi.1007207",
+          "article-title": "Optimizing antibody affinity and stability by the automated design of the variable light-heavy chain interfaces",
+          "volume": "15",
+          "year": "2019",
+          "journal-title": "PLoS computational biology"
+        },
+        {
+          "key": "2026102120401033000_2026.10.12.758263v1.12",
+          "doi-asserted-by": "crossref",
+          "first-page": "1116",
+          "DOI": "10.1016/j.ijbiomac.2022.11.227",
+          "article-title": "Structural evolution of delta lineage of sars-cov-2",
+          "volume": "226",
+          "year": "2023",
+          "journal-title": "International journal of biological macromolecules"
+        },
+        {
+          "issue": "1",
+          "key": "2026102120401033000_2026.10.12.758263v1.13",
+          "doi-asserted-by": "crossref",
+          "first-page": "2403",
+          "DOI": "10.1038/s41467-021-22732-w",
+          "article-title": "Protein design and variant prediction using autoregressive generative models",
+          "volume": "12",
+          "year": "2021",
+          "journal-title": "Nature communications"
+        },
+        {
+          "issue": "1",
+          "key": "2026102120401033000_2026.10.12.758263v1.14",
+          "doi-asserted-by": "crossref",
+          "first-page": "5852",
+          "DOI": "10.1038/s41598-021-85274-7",
+          "article-title": "Antibody design using lstm based deep generative model from phage display library for affinity maturation",
+          "volume": "11",
+          "year": "2021",
+          "journal-title": "Scientific reports"
+        },
+        {
+          "key": "2026102120401033000_2026.10.12.758263v1.15",
+          "first-page": "24240",
+          "article-title": "Torsional diffusion for molecular conformer generation",
+          "volume": "35",
+          "year": "2022",
+          "journal-title": "in: Advances in neural information processing systems (NeurIPS)"
+        },
+        {
+          "key": "2026102120401033000_2026.10.12.758263v1.16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1101/2022.07.09.499440"
+        },
+        {
+          "key": "2026102120401033000_2026.10.12.758263v1.17",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/19420862.2021.2008790"
+        },
+        {
+          "issue": "12",
+          "key": "2026102120401033000_2026.10.12.758263v1.18",
+          "doi-asserted-by": "crossref",
+          "first-page": "1315",
+          "DOI": "10.1038/s41592-019-0598-1",
+          "article-title": "Unified rational protein engineering with sequence-based deep representation learning",
+          "volume": "16",
+          "year": "2019",
+          "journal-title": "Nature methods"
+        },
+        {
+          "key": "2026102120401033000_2026.10.12.758263v1.19",
+          "unstructured": "W. Jin , J. Wohlwend , R. Barzilay , T. S. Jaakkola , Iterative refinement graph neural network for antibody sequence-structure co-design, in: International Conference on Learning Representations (ICLR), 2022, pp. 1–14."
+        },
+        {
+          "key": "2026102120401033000_2026.10.12.758263v1.20",
+          "unstructured": "W. Jin , R. Barzilay , T. Jaakkola , Antibody-antigen docking and design via hierarchical structure refinement, in: International Conference on Machine Learning (ICML), PMLR, 2022, pp. 10217–10227."
+        },
+        {
+          "key": "2026102120401033000_2026.10.12.758263v1.21",
+          "first-page": "12454",
+          "article-title": "Argmax flows and multinomial diffusion: Learning categorical distributions",
+          "volume": "34",
+          "year": "2021",
+          "journal-title": "in: Advances in neural information processing systems (NeurIPS)"
+        },
+        {
+          "key": "2026102120401033000_2026.10.12.758263v1.22",
+          "first-page": "40729",
+          "article-title": "Abdiffuser: full-atom generation of in-vitro functioning antibodies",
+          "volume": "36",
+          "year": "2023",
+          "journal-title": "in: Advances in Neural Information Processing Systems (NeurIPS)"
+        },
+        {
+          "key": "2026102120401033000_2026.10.12.758263v1.23",
+          "unstructured": "X. Kong , W. Huang , Y. Liu , Conditional antibody design as 3d equivariant graph translation, in: The Eleventh International Conference on Learning Representations (ICLR), 2022, pp. 1–21."
+        },
+        {
+          "key": "2026102120401033000_2026.10.12.758263v1.24",
+          "unstructured": "X. Kong , W. Huang , Y. Liu , End-to-end full-atom antibody design, in: International Conference on Machine Learning (ICML), PMLR, 2023, pp. 17409–17429."
+        },
+        {
+          "key": "2026102120401033000_2026.10.12.758263v1.25",
+          "first-page": "895",
+          "article-title": "Relation-aware equivariant graph networks for epitope-unknown antibody design and specificity optimization",
+          "volume": "39",
+          "year": "2025",
+          "journal-title": "in: Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)"
+        },
+        {
+          "key": "2026102120401033000_2026.10.12.758263v1.26",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nbt.3988"
+        },
+        {
+          "key": "2026102120401033000_2026.10.12.758263v1.27",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.89.22.10915"
+        },
+        {
+          "issue": "3",
+          "key": "2026102120401033000_2026.10.12.758263v1.28",
+          "first-page": "462",
+          "article-title": "Skempi 2.0: an updated benchmark of changes in protein– protein binding energy",
+          "volume": "35",
+          "year": "2019",
+          "journal-title": "kinetics and thermodynamics upon mutation, Bioinformatics"
+        },
+        {
+          "key": "2026102120401033000_2026.10.12.758263v1.29",
+          "first-page": "15222",
+          "article-title": "Cross-gate mlp with protein complex invariant embedding is a one-shot antibody designer",
+          "volume": "38",
+          "year": "2024",
+          "journal-title": "in: Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)"
+        },
+        {
+          "key": "2026102120401033000_2026.10.12.758263v1.30",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/S41586-021-03819-2"
+        },
+        {
+          "key": "2026102120401033000_2026.10.12.758263v1.31",
+          "doi-asserted-by": "crossref",
+          "unstructured": "J. C. Almagro , A. Teplyakov , J. Luo , R. W. Sweet , S. Kodangattil , F. Hernandez-Guzman , G. L. Gilliland , Second antibody modeling assessment (ama-ii) (2014).",
+          "DOI": "10.1002/prot.24567"
+        },
+        {
+          "issue": "1",
+          "key": "2026102120401033000_2026.10.12.758263v1.32",
+          "first-page": "2389",
+          "article-title": "Fast",
+          "volume": "14",
+          "year": "2023",
+          "journal-title": "accurate antibody structure prediction from deep learning on massive set of natural antibodies, Nature communications"
+        }
+      ],
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.10.12.758263",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            22
+          ]
+        ],
+        "date-time": "2026-10-22T03:40:21Z",
+        "timestamp": 1792640421000
+      },
+      "score": 49.974854,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.10.12.758263"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            18
+          ]
+        ]
+      },
+      "references-count": 32,
+      "URL": "https://doi.org/10.64898/2026.10.12.758263",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            18
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

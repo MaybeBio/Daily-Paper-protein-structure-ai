@@ -1,0 +1,284 @@
+{
+  "identity": {
+    "pmid": "42917248",
+    "doi": "10.1021/acs.jpcb.6c05098",
+    "title": "How a Highly Acidic SH3 Domain Binds to Its Intrinsically Disordered Partner through the Formation of an Encounter Complex Intermediate."
+  },
+  "content": {
+    "abstract": "Electrostatic interactions often play a role in determining the thermodynamic and kinetic properties of protein-protein interactions. However, the role of long-range electrostatic interactions in intrinsically disordered protein (IDP) binding is less clear, as they often bind in multiple steps, including initial formation of a disordered encounter complex, followed by rearrangement into the bound state. We varied the salt concentration to probe the role of long-range electrostatic interactions in the binding of the highly charged AbpSH3 domain and the oppositely charged IDP ArkA. Using isothermal titration calorimetry, we observed that salt enthalpically destabilizes the bound complex. Molecular dynamics and NMR experiments revealed that salt has little effect on the bound state structure. However, simulations show that salt destabilizes the encounter complex intermediate, which primarily affects the association rate as measured by NMR. Consistent with these results, salt has the largest stabilizing effect on the apo SH3 domain, as cations substitute for the transient and long-range electrostatic interactions that can form with ArkA in the complex. We revealed a detailed picture of how a highly charged domain uses long-range, fuzzy, electrostatic interactions to help reach the bound state, a mechanism that is likely common among other highly charged domains that bind IDPs.",
+    "keywords": [],
+    "mesh_terms": [
+      "*src Homology Domains",
+      "*Intrinsically Disordered Proteins/chemistry/metabolism",
+      "Static Electricity",
+      "Protein Binding",
+      "Molecular Dynamics Simulation",
+      "Thermodynamics",
+      "Nuclear Magnetic Resonance, Biomolecular",
+      "Calorimetry"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Jaramillo-Martinez, Valeria",
+        "Kukreja, Ritika",
+        "Cohen, Michaela R",
+        "Mujica, Ally",
+        "Barton, Samuel",
+        "Onwuzulu, Oluebube C",
+        "Cardoso, Jorge",
+        "Dominguez, Matthew J",
+        "Kekwick, Isabelle M",
+        "Ali, Jaden",
+        "Bell, Gemma M",
+        "Rice, Sydney",
+        "Poaquiza, Daniela",
+        "McClure, Colin",
+        "Anguiano, Frida",
+        "Latham, Michael P",
+        "Ball, K Aurelia",
+        "Stollar, Elliott J"
+      ],
+      "short_names": [
+        "Jaramillo-Martinez V",
+        "Kukreja R",
+        "Cohen MR",
+        "Mujica A",
+        "Barton S",
+        "Onwuzulu OC",
+        "Cardoso J",
+        "Dominguez MJ",
+        "Kekwick IM",
+        "Ali J",
+        "Bell GM",
+        "Rice S",
+        "Poaquiza D",
+        "McClure C",
+        "Anguiano F",
+        "Latham MP",
+        "Ball KA",
+        "Stollar EJ"
+      ],
+      "auids": [
+        "ORCID: 0009-0005-3193-4724",
+        "ORCID: 0000-0002-2209-5798",
+        "ORCID: 0000-0001-9645-555X"
+      ],
+      "affiliations": [
+        "Eastern New Mexico University, Portales, New Mexico88130, United States.",
+        "University of Minnesota, Minneapolis, Minnesota55455, United States.",
+        "Skidmore College, Saratoga Springs, New York12866, United States.",
+        "Skidmore College, Saratoga Springs, New York12866, United States.",
+        "University of Liverpool, LiverpoolL69 7ZX, U.K.",
+        "Skidmore College, Saratoga Springs, New York12866, United States.",
+        "University of California, Merced, California95343, United States.",
+        "Skidmore College, Saratoga Springs, New York12866, United States.",
+        "Eastern New Mexico University, Portales, New Mexico88130, United States.",
+        "eBERLight, Advanced Photon Source, Argonne National Laboratory, Lemont, Illinois60439, United States.",
+        "University of Liverpool, LiverpoolL69 7ZX, U.K.",
+        "Skidmore College, Saratoga Springs, New York12866, United States.",
+        "University of Liverpool, LiverpoolL69 7ZX, U.K.",
+        "Skidmore College, Saratoga Springs, New York12866, United States.",
+        "Skidmore College, Saratoga Springs, New York12866, United States.",
+        "Skidmore College, Saratoga Springs, New York12866, United States.",
+        "University of New England, Biddeford, Maine04005, United States.",
+        "Skidmore College, Saratoga Springs, New York12866, United States.",
+        "Loyola University, Chicago, Illinois60660, United States.",
+        "University of Minnesota, Minneapolis, Minnesota55455, United States.",
+        "Skidmore College, Saratoga Springs, New York12866, United States.",
+        "University of Liverpool, LiverpoolL69 7ZX, U.K."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Jaramillo-Martinez, Valeria",
+        "short_name": "Jaramillo-Martinez V",
+        "identifiers": [],
+        "affiliations": [
+          "Eastern New Mexico University, Portales, New Mexico88130, United States."
+        ]
+      },
+      {
+        "full_name": "Kukreja, Ritika",
+        "short_name": "Kukreja R",
+        "identifiers": [],
+        "affiliations": [
+          "University of Minnesota, Minneapolis, Minnesota55455, United States."
+        ]
+      },
+      {
+        "full_name": "Cohen, Michaela R",
+        "short_name": "Cohen MR",
+        "identifiers": [],
+        "affiliations": [
+          "Skidmore College, Saratoga Springs, New York12866, United States."
+        ]
+      },
+      {
+        "full_name": "Mujica, Ally",
+        "short_name": "Mujica A",
+        "identifiers": [],
+        "affiliations": [
+          "Skidmore College, Saratoga Springs, New York12866, United States."
+        ]
+      },
+      {
+        "full_name": "Barton, Samuel",
+        "short_name": "Barton S",
+        "identifiers": [],
+        "affiliations": [
+          "University of Liverpool, LiverpoolL69 7ZX, U.K."
+        ]
+      },
+      {
+        "full_name": "Onwuzulu, Oluebube C",
+        "short_name": "Onwuzulu OC",
+        "identifiers": [
+          "0009-0005-3193-4724"
+        ],
+        "affiliations": [
+          "Skidmore College, Saratoga Springs, New York12866, United States.",
+          "University of California, Merced, California95343, United States."
+        ]
+      },
+      {
+        "full_name": "Cardoso, Jorge",
+        "short_name": "Cardoso J",
+        "identifiers": [],
+        "affiliations": [
+          "Skidmore College, Saratoga Springs, New York12866, United States."
+        ]
+      },
+      {
+        "full_name": "Dominguez, Matthew J",
+        "short_name": "Dominguez MJ",
+        "identifiers": [],
+        "affiliations": [
+          "Eastern New Mexico University, Portales, New Mexico88130, United States.",
+          "eBERLight, Advanced Photon Source, Argonne National Laboratory, Lemont, Illinois60439, United States."
+        ]
+      },
+      {
+        "full_name": "Kekwick, Isabelle M",
+        "short_name": "Kekwick IM",
+        "identifiers": [],
+        "affiliations": [
+          "University of Liverpool, LiverpoolL69 7ZX, U.K."
+        ]
+      },
+      {
+        "full_name": "Ali, Jaden",
+        "short_name": "Ali J",
+        "identifiers": [],
+        "affiliations": [
+          "Skidmore College, Saratoga Springs, New York12866, United States."
+        ]
+      },
+      {
+        "full_name": "Bell, Gemma M",
+        "short_name": "Bell GM",
+        "identifiers": [],
+        "affiliations": [
+          "University of Liverpool, LiverpoolL69 7ZX, U.K."
+        ]
+      },
+      {
+        "full_name": "Rice, Sydney",
+        "short_name": "Rice S",
+        "identifiers": [],
+        "affiliations": [
+          "Skidmore College, Saratoga Springs, New York12866, United States."
+        ]
+      },
+      {
+        "full_name": "Poaquiza, Daniela",
+        "short_name": "Poaquiza D",
+        "identifiers": [],
+        "affiliations": [
+          "Skidmore College, Saratoga Springs, New York12866, United States."
+        ]
+      },
+      {
+        "full_name": "McClure, Colin",
+        "short_name": "McClure C",
+        "identifiers": [],
+        "affiliations": [
+          "Skidmore College, Saratoga Springs, New York12866, United States.",
+          "University of New England, Biddeford, Maine04005, United States."
+        ]
+      },
+      {
+        "full_name": "Anguiano, Frida",
+        "short_name": "Anguiano F",
+        "identifiers": [],
+        "affiliations": [
+          "Skidmore College, Saratoga Springs, New York12866, United States.",
+          "Loyola University, Chicago, Illinois60660, United States."
+        ]
+      },
+      {
+        "full_name": "Latham, Michael P",
+        "short_name": "Latham MP",
+        "identifiers": [
+          "0000-0002-2209-5798"
+        ],
+        "affiliations": [
+          "University of Minnesota, Minneapolis, Minnesota55455, United States."
+        ]
+      },
+      {
+        "full_name": "Ball, K Aurelia",
+        "short_name": "Ball KA",
+        "identifiers": [
+          "0000-0001-9645-555X"
+        ],
+        "affiliations": [
+          "Skidmore College, Saratoga Springs, New York12866, United States."
+        ]
+      },
+      {
+        "full_name": "Stollar, Elliott J",
+        "short_name": "Stollar EJ",
+        "identifiers": [],
+        "affiliations": [
+          "University of Liverpool, LiverpoolL69 7ZX, U.K."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The journal of physical chemistry. B"
+    ],
+    "journal_abbrev": [
+      "J Phys Chem B"
+    ],
+    "pub_date": "2026 Oct 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42917248"
+    ],
+    "review": [
+      "42917248"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

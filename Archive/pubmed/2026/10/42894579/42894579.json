@@ -1,0 +1,266 @@
+{
+  "identity": {
+    "pmid": "42894579",
+    "doi": "10.1016/j.isci.2026.117746",
+    "title": "Loss of the Asn333 high-mannose N-glycan impairs ACP3 folding and drives disease-associated dysfunction."
+  },
+  "content": {
+    "abstract": "Missense mutations disrupting N-glycosylation motifs can perturb protein folding and trafficking, yet the site-specific contributions of individual N-glycans to proteostasis remain poorly defined. Here, we delineated the functional hierarchy of three N-glycosylation sites in human prostatic acid phosphatase (ACP3). Glycoproteomic analysis showed that Asn94 and Asn220 carry predominantly complex-type N-glycans, whereas Asn333 is enriched in high-mannose structures. Glycan-deficient N94Q and N220Q variants were efficiently secreted and retained phosphatase activity, whereas N333Q and T335M accumulated intracellularly, formed endoplasmic reticulum aggregates, and lacked enzymatic activity. Molecular dynamics simulations revealed that the Asn333 high-mannose glycan forms persistent hydrogen-bond networks with surrounding residues and exhibits markedly reduced conformational flexibility, supporting a non-redundant structural role. Individuals harboring a heterozygous p.T335M variant presented severe neurodevelopmental abnormalities, linking Asn333 glycan loss to proteostasis failure in vivo. These findings establish a site-specific glycan-protein stabilizing mechanism with broad implications in glycoprotein folding and human disease.",
+    "keywords": [
+      "ACP3",
+      "conformational stability",
+      "glycan-protein interactions",
+      "missense mutation",
+      "neurodevelopmental disease",
+      "proteostasis",
+      "site-specific N-glycosylation"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Manabe, Noriyoshi",
+        "Itoh, Kazuyoshi",
+        "Ohno, Shiho",
+        "Miura, Ayumi",
+        "Miyata, Aika",
+        "Yashima, Sora",
+        "Komatsu, Sachiko",
+        "Fujimura, Tsutomu",
+        "Hanamatsu, Hisatoshi",
+        "Furukawa, Jun-Ichi",
+        "Angata, Kiyohiko",
+        "Togayachi, Akira",
+        "Aoki-Kinoshita, Kiyoko F",
+        "Akimoto, Yoshihiro",
+        "Kaname, Tadashi",
+        "Nishihara, Shoko",
+        "Yamaguchi, Yoshiki"
+      ],
+      "short_names": [
+        "Manabe N",
+        "Itoh K",
+        "Ohno S",
+        "Miura A",
+        "Miyata A",
+        "Yashima S",
+        "Komatsu S",
+        "Fujimura T",
+        "Hanamatsu H",
+        "Furukawa JI",
+        "Angata K",
+        "Togayachi A",
+        "Aoki-Kinoshita KF",
+        "Akimoto Y",
+        "Kaname T",
+        "Nishihara S",
+        "Yamaguchi Y"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Division of Structural Glycobiology, Institute of Molecular Biomembrane and Glycobiology, Tohoku Medical and Pharmaceutical University, Sendai, Miyagi 981-8558, Japan.",
+        "Glycan and Life Systems Integration Center (GaLSIC), Soka University, Hachioji, Tokyo 192-8577, Japan.",
+        "Division of Structural Glycobiology, Institute of Molecular Biomembrane and Glycobiology, Tohoku Medical and Pharmaceutical University, Sendai, Miyagi 981-8558, Japan.",
+        "Division of Structural Glycobiology, Institute of Molecular Biomembrane and Glycobiology, Tohoku Medical and Pharmaceutical University, Sendai, Miyagi 981-8558, Japan.",
+        "Division of Structural Glycobiology, Institute of Molecular Biomembrane and Glycobiology, Tohoku Medical and Pharmaceutical University, Sendai, Miyagi 981-8558, Japan.",
+        "Division of Structural Glycobiology, Institute of Molecular Biomembrane and Glycobiology, Tohoku Medical and Pharmaceutical University, Sendai, Miyagi 981-8558, Japan.",
+        "Division of Bioanalytical Chemistry, Tohoku Medical and Pharmaceutical University, Sendai, Miyagi 981-8558, Japan.",
+        "Division of Bioanalytical Chemistry, Tohoku Medical and Pharmaceutical University, Sendai, Miyagi 981-8558, Japan.",
+        "Institute for Glyco-Core Research (iGCORE), Nagoya University, Nagoya 466-8550, Japan.",
+        "Institute for Glyco-Core Research (iGCORE), Nagoya University, Nagoya 466-8550, Japan.",
+        "Glycan and Life Systems Integration Center (GaLSIC), Soka University, Hachioji, Tokyo 192-8577, Japan.",
+        "Glycan and Life Systems Integration Center (GaLSIC), Soka University, Hachioji, Tokyo 192-8577, Japan.",
+        "Glycan and Life Systems Integration Center (GaLSIC), Soka University, Hachioji, Tokyo 192-8577, Japan.",
+        "Institute for Glyco-Core Research (iGCORE), Nagoya University, Nagoya 466-8550, Japan.",
+        "Department of Microscopic Anatomy, Kyorin University School of Medicine, Mitaka, Tokyo 181-8611, Japan.",
+        "Department of Genome Medicine, National Center for Child Health and Development, Tokyo 157-8535, Japan.",
+        "Glycan and Life Systems Integration Center (GaLSIC), Soka University, Hachioji, Tokyo 192-8577, Japan.",
+        "Division of Structural Glycobiology, Institute of Molecular Biomembrane and Glycobiology, Tohoku Medical and Pharmaceutical University, Sendai, Miyagi 981-8558, Japan."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Manabe, Noriyoshi",
+        "short_name": "Manabe N",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Structural Glycobiology, Institute of Molecular Biomembrane and Glycobiology, Tohoku Medical and Pharmaceutical University, Sendai, Miyagi 981-8558, Japan."
+        ]
+      },
+      {
+        "full_name": "Itoh, Kazuyoshi",
+        "short_name": "Itoh K",
+        "identifiers": [],
+        "affiliations": [
+          "Glycan and Life Systems Integration Center (GaLSIC), Soka University, Hachioji, Tokyo 192-8577, Japan."
+        ]
+      },
+      {
+        "full_name": "Ohno, Shiho",
+        "short_name": "Ohno S",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Structural Glycobiology, Institute of Molecular Biomembrane and Glycobiology, Tohoku Medical and Pharmaceutical University, Sendai, Miyagi 981-8558, Japan."
+        ]
+      },
+      {
+        "full_name": "Miura, Ayumi",
+        "short_name": "Miura A",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Structural Glycobiology, Institute of Molecular Biomembrane and Glycobiology, Tohoku Medical and Pharmaceutical University, Sendai, Miyagi 981-8558, Japan."
+        ]
+      },
+      {
+        "full_name": "Miyata, Aika",
+        "short_name": "Miyata A",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Structural Glycobiology, Institute of Molecular Biomembrane and Glycobiology, Tohoku Medical and Pharmaceutical University, Sendai, Miyagi 981-8558, Japan."
+        ]
+      },
+      {
+        "full_name": "Yashima, Sora",
+        "short_name": "Yashima S",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Structural Glycobiology, Institute of Molecular Biomembrane and Glycobiology, Tohoku Medical and Pharmaceutical University, Sendai, Miyagi 981-8558, Japan."
+        ]
+      },
+      {
+        "full_name": "Komatsu, Sachiko",
+        "short_name": "Komatsu S",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Bioanalytical Chemistry, Tohoku Medical and Pharmaceutical University, Sendai, Miyagi 981-8558, Japan."
+        ]
+      },
+      {
+        "full_name": "Fujimura, Tsutomu",
+        "short_name": "Fujimura T",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Bioanalytical Chemistry, Tohoku Medical and Pharmaceutical University, Sendai, Miyagi 981-8558, Japan."
+        ]
+      },
+      {
+        "full_name": "Hanamatsu, Hisatoshi",
+        "short_name": "Hanamatsu H",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Glyco-Core Research (iGCORE), Nagoya University, Nagoya 466-8550, Japan."
+        ]
+      },
+      {
+        "full_name": "Furukawa, Jun-Ichi",
+        "short_name": "Furukawa JI",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Glyco-Core Research (iGCORE), Nagoya University, Nagoya 466-8550, Japan."
+        ]
+      },
+      {
+        "full_name": "Angata, Kiyohiko",
+        "short_name": "Angata K",
+        "identifiers": [],
+        "affiliations": [
+          "Glycan and Life Systems Integration Center (GaLSIC), Soka University, Hachioji, Tokyo 192-8577, Japan."
+        ]
+      },
+      {
+        "full_name": "Togayachi, Akira",
+        "short_name": "Togayachi A",
+        "identifiers": [],
+        "affiliations": [
+          "Glycan and Life Systems Integration Center (GaLSIC), Soka University, Hachioji, Tokyo 192-8577, Japan."
+        ]
+      },
+      {
+        "full_name": "Aoki-Kinoshita, Kiyoko F",
+        "short_name": "Aoki-Kinoshita KF",
+        "identifiers": [],
+        "affiliations": [
+          "Glycan and Life Systems Integration Center (GaLSIC), Soka University, Hachioji, Tokyo 192-8577, Japan.",
+          "Institute for Glyco-Core Research (iGCORE), Nagoya University, Nagoya 466-8550, Japan."
+        ]
+      },
+      {
+        "full_name": "Akimoto, Yoshihiro",
+        "short_name": "Akimoto Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Microscopic Anatomy, Kyorin University School of Medicine, Mitaka, Tokyo 181-8611, Japan."
+        ]
+      },
+      {
+        "full_name": "Kaname, Tadashi",
+        "short_name": "Kaname T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Genome Medicine, National Center for Child Health and Development, Tokyo 157-8535, Japan."
+        ]
+      },
+      {
+        "full_name": "Nishihara, Shoko",
+        "short_name": "Nishihara S",
+        "identifiers": [],
+        "affiliations": [
+          "Glycan and Life Systems Integration Center (GaLSIC), Soka University, Hachioji, Tokyo 192-8577, Japan."
+        ]
+      },
+      {
+        "full_name": "Yamaguchi, Yoshiki",
+        "short_name": "Yamaguchi Y",
+        "identifiers": [],
+        "affiliations": [
+          "Division of Structural Glycobiology, Institute of Molecular Biomembrane and Glycobiology, Tohoku Medical and Pharmaceutical University, Sendai, Miyagi 981-8558, Japan."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "iScience"
+    ],
+    "journal_abbrev": [
+      "iScience"
+    ],
+    "pub_date": "2026 Oct 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/19 05:30",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42894579"
+    ],
+    "review": [
+      "42894579"
+    ],
+    "pmc": [
+      "13676724"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S2589-0042(26)03127-5",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

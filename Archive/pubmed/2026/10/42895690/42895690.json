@@ -1,0 +1,284 @@
+{
+  "identity": {
+    "pmid": "42895690",
+    "doi": "10.1007/s10815-026-04062-2",
+    "title": "X-linked novel hemizygous ADGRG2 variants associated with male factor infertility."
+  },
+  "content": {
+    "abstract": "PURPOSE: To screen for ADGRG2 gene mutations in CFTR-negative patients with male infertility or congenital bilateral absence of the vas deferens (CBAVD), and to assess the feasibility and outcomes of intracytoplasmic sperm injection (ICSI) for achieving successful pregnancies in this population. METHODS: Whole-exome sequencing (WES) was performed in 133 infertile men with obstructive azoospermia (OA). Sanger sequencing were conducted on peripheral blood samples collected from nine patients with ADGRG2 variants. The AlphaFold database and PyMOL software were used to predict the 3D structure of the mutant ADGRG2 protein. In vitro assays were conducted to assess the functional impact of the identified ADGRG2 variants. In addition, we also conducted a retrospective analysis of the clinical assisted reproductive information of these patients. RESULTS: We identified eight ADGRG2 hemizygous pathogenic variants in nine unrelated patients with CBAVD from 133 OA men: one splicing variant (c.1839 + 1G > A), three frameshift variants (c.2956_2957del: p.M986Vfs*2; c.2396dupT: p.L799Ffs*18 and c.895delA: p.I299Ffs*12), two nonsense variants (c.2473C > T: p.R825* and c.2971G > T: p.E991*), and two missense variants (c.510G > C: p.E170D and c.549C > G: p.S183R). All ADGRG2 variants-affected individuals presented with azoospermia or severe oligozoospermia. All of these variants were absent or rare in public databases. 3D protein structure modeling predicted that ADGRG2 variants lead to alterations in the spatial conformation of the protein. In vitro experiments further confirmed that these variants result in the production of truncated proteins or reduced protein levels. Notably, four patients undergoing ICSI treatment achieved successful fertilization and pregnancy. CONCLUSION: Our findings established ADGRG2 variants cause male infertility and may be the etiology of CBAVD, expanding the associated mutational spectrum and reinforcing the gene's critical role in male fertility, thereby supporting the integration of comprehensive ADGRG2 screening into clinical practice to enhance genetic and reproductive counseling for affected patients.",
+    "keywords": [
+      "ADGRG2",
+      "Congenital bilateral absence of the vas deferens (CBAVD)",
+      "Intracytoplasmic sperm injection (ICSI)",
+      "Male infertility"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yuan, Yuwei",
+        "Li, Yong",
+        "Lu, Wenqing",
+        "Peng, Zhendong",
+        "Deng, Lei",
+        "Lin, Xinle",
+        "Liu, Lin",
+        "Meng, Lanlan",
+        "Tan, Chen",
+        "Lin, Ge",
+        "Zhang, Qianjun",
+        "Tan, Yue-Qiu",
+        "Zhang, Huan",
+        "He, Wenbin",
+        "Li, Huanzhu",
+        "Hu, Liang",
+        "Tu, Chaofeng"
+      ],
+      "short_names": [
+        "Yuan Y",
+        "Li Y",
+        "Lu W",
+        "Peng Z",
+        "Deng L",
+        "Lin X",
+        "Liu L",
+        "Meng L",
+        "Tan C",
+        "Lin G",
+        "Zhang Q",
+        "Tan YQ",
+        "Zhang H",
+        "He W",
+        "Li H",
+        "Hu L",
+        "Tu C"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-3877-2546",
+        "ORCID: 0000-0001-5682-8948"
+      ],
+      "affiliations": [
+        "NHC Key Laboratory of Human Stem Cell and Reproductive Engineering, School of Xiangya Basic Medical Sciences, Central South University, Changsha, China.",
+        "NHC Key Laboratory of Human Stem Cell and Reproductive Engineering, School of Xiangya Basic Medical Sciences, Central South University, Changsha, China.",
+        "NHC Key Laboratory of Human Stem Cell and Reproductive Engineering, School of Xiangya Basic Medical Sciences, Central South University, Changsha, China.",
+        "NHC Key Laboratory of Human Stem Cell and Reproductive Engineering, School of Xiangya Basic Medical Sciences, Central South University, Changsha, China.",
+        "NHC Key Laboratory of Human Stem Cell and Reproductive Engineering, School of Xiangya Basic Medical Sciences, Central South University, Changsha, China.",
+        "NHC Key Laboratory of Human Stem Cell and Reproductive Engineering, School of Xiangya Basic Medical Sciences, Central South University, Changsha, China.",
+        "NHC Key Laboratory of Human Stem Cell and Reproductive Engineering, School of Xiangya Basic Medical Sciences, Central South University, Changsha, China.",
+        "NHC Key Laboratory of Human Stem Cell and Reproductive Engineering, School of Xiangya Basic Medical Sciences, Central South University, Changsha, China.",
+        "Reproductive and Genetic Hospital of CITIC-Xiangya, Changsha, China.",
+        "NHC Key Laboratory of Human Stem Cell and Reproductive Engineering, School of Xiangya Basic Medical Sciences, Central South University, Changsha, China.",
+        "NHC Key Laboratory of Human Stem Cell and Reproductive Engineering, School of Xiangya Basic Medical Sciences, Central South University, Changsha, China.",
+        "Reproductive and Genetic Hospital of CITIC-Xiangya, Changsha, China.",
+        "NHC Key Laboratory of Human Stem Cell and Reproductive Engineering, School of Xiangya Basic Medical Sciences, Central South University, Changsha, China.",
+        "Reproductive and Genetic Hospital of CITIC-Xiangya, Changsha, China.",
+        "NHC Key Laboratory of Human Stem Cell and Reproductive Engineering, School of Xiangya Basic Medical Sciences, Central South University, Changsha, China.",
+        "Reproductive and Genetic Hospital of CITIC-Xiangya, Changsha, China.",
+        "NHC Key Laboratory of Human Stem Cell and Reproductive Engineering, School of Xiangya Basic Medical Sciences, Central South University, Changsha, China.",
+        "Reproductive and Genetic Hospital of CITIC-Xiangya, Changsha, China.",
+        "Reproductive and Genetic Hospital of CITIC-Xiangya, Changsha, China.",
+        "Hunan Guangxiu Hospital, Hunan Normal University School of Medicine, Changsha, China.",
+        "Reproductive and Genetic Hospital of CITIC-Xiangya, Changsha, China. 282841533@qq.com.",
+        "Hunan Guangxiu Hospital, Hunan Normal University School of Medicine, Changsha, China. 282841533@qq.com.",
+        "NHC Key Laboratory of Human Stem Cell and Reproductive Engineering, School of Xiangya Basic Medical Sciences, Central South University, Changsha, China. lianghu7@gmail.com.",
+        "Reproductive and Genetic Hospital of CITIC-Xiangya, Changsha, China. lianghu7@gmail.com.",
+        "NHC Key Laboratory of Human Stem Cell and Reproductive Engineering, School of Xiangya Basic Medical Sciences, Central South University, Changsha, China. 222041@csu.edu.cn.",
+        "Reproductive and Genetic Hospital of CITIC-Xiangya, Changsha, China. 222041@csu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yuan, Yuwei",
+        "short_name": "Yuan Y",
+        "identifiers": [],
+        "affiliations": [
+          "NHC Key Laboratory of Human Stem Cell and Reproductive Engineering, School of Xiangya Basic Medical Sciences, Central South University, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Li, Yong",
+        "short_name": "Li Y",
+        "identifiers": [],
+        "affiliations": [
+          "NHC Key Laboratory of Human Stem Cell and Reproductive Engineering, School of Xiangya Basic Medical Sciences, Central South University, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Lu, Wenqing",
+        "short_name": "Lu W",
+        "identifiers": [],
+        "affiliations": [
+          "NHC Key Laboratory of Human Stem Cell and Reproductive Engineering, School of Xiangya Basic Medical Sciences, Central South University, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Peng, Zhendong",
+        "short_name": "Peng Z",
+        "identifiers": [],
+        "affiliations": [
+          "NHC Key Laboratory of Human Stem Cell and Reproductive Engineering, School of Xiangya Basic Medical Sciences, Central South University, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Deng, Lei",
+        "short_name": "Deng L",
+        "identifiers": [],
+        "affiliations": [
+          "NHC Key Laboratory of Human Stem Cell and Reproductive Engineering, School of Xiangya Basic Medical Sciences, Central South University, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Xinle",
+        "short_name": "Lin X",
+        "identifiers": [],
+        "affiliations": [
+          "NHC Key Laboratory of Human Stem Cell and Reproductive Engineering, School of Xiangya Basic Medical Sciences, Central South University, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Lin",
+        "short_name": "Liu L",
+        "identifiers": [],
+        "affiliations": [
+          "NHC Key Laboratory of Human Stem Cell and Reproductive Engineering, School of Xiangya Basic Medical Sciences, Central South University, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Meng, Lanlan",
+        "short_name": "Meng L",
+        "identifiers": [],
+        "affiliations": [
+          "NHC Key Laboratory of Human Stem Cell and Reproductive Engineering, School of Xiangya Basic Medical Sciences, Central South University, Changsha, China.",
+          "Reproductive and Genetic Hospital of CITIC-Xiangya, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Tan, Chen",
+        "short_name": "Tan C",
+        "identifiers": [],
+        "affiliations": [
+          "NHC Key Laboratory of Human Stem Cell and Reproductive Engineering, School of Xiangya Basic Medical Sciences, Central South University, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Ge",
+        "short_name": "Lin G",
+        "identifiers": [
+          "0000-0002-3877-2546"
+        ],
+        "affiliations": [
+          "NHC Key Laboratory of Human Stem Cell and Reproductive Engineering, School of Xiangya Basic Medical Sciences, Central South University, Changsha, China.",
+          "Reproductive and Genetic Hospital of CITIC-Xiangya, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Qianjun",
+        "short_name": "Zhang Q",
+        "identifiers": [],
+        "affiliations": [
+          "NHC Key Laboratory of Human Stem Cell and Reproductive Engineering, School of Xiangya Basic Medical Sciences, Central South University, Changsha, China.",
+          "Reproductive and Genetic Hospital of CITIC-Xiangya, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Tan, Yue-Qiu",
+        "short_name": "Tan YQ",
+        "identifiers": [],
+        "affiliations": [
+          "NHC Key Laboratory of Human Stem Cell and Reproductive Engineering, School of Xiangya Basic Medical Sciences, Central South University, Changsha, China.",
+          "Reproductive and Genetic Hospital of CITIC-Xiangya, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Huan",
+        "short_name": "Zhang H",
+        "identifiers": [],
+        "affiliations": [
+          "NHC Key Laboratory of Human Stem Cell and Reproductive Engineering, School of Xiangya Basic Medical Sciences, Central South University, Changsha, China.",
+          "Reproductive and Genetic Hospital of CITIC-Xiangya, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "He, Wenbin",
+        "short_name": "He W",
+        "identifiers": [],
+        "affiliations": [
+          "Reproductive and Genetic Hospital of CITIC-Xiangya, Changsha, China.",
+          "Hunan Guangxiu Hospital, Hunan Normal University School of Medicine, Changsha, China."
+        ]
+      },
+      {
+        "full_name": "Li, Huanzhu",
+        "short_name": "Li H",
+        "identifiers": [],
+        "affiliations": [
+          "Reproductive and Genetic Hospital of CITIC-Xiangya, Changsha, China. 282841533@qq.com.",
+          "Hunan Guangxiu Hospital, Hunan Normal University School of Medicine, Changsha, China. 282841533@qq.com."
+        ]
+      },
+      {
+        "full_name": "Hu, Liang",
+        "short_name": "Hu L",
+        "identifiers": [],
+        "affiliations": [
+          "NHC Key Laboratory of Human Stem Cell and Reproductive Engineering, School of Xiangya Basic Medical Sciences, Central South University, Changsha, China. lianghu7@gmail.com.",
+          "Reproductive and Genetic Hospital of CITIC-Xiangya, Changsha, China. lianghu7@gmail.com."
+        ]
+      },
+      {
+        "full_name": "Tu, Chaofeng",
+        "short_name": "Tu C",
+        "identifiers": [
+          "0000-0001-5682-8948"
+        ],
+        "affiliations": [
+          "NHC Key Laboratory of Human Stem Cell and Reproductive Engineering, School of Xiangya Basic Medical Sciences, Central South University, Changsha, China. 222041@csu.edu.cn.",
+          "Reproductive and Genetic Hospital of CITIC-Xiangya, Changsha, China. 222041@csu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of assisted reproduction and genetics"
+    ],
+    "journal_abbrev": [
+      "J Assist Reprod Genet"
+    ],
+    "pub_date": "2026 Oct 19",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/19 17:31",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42895690"
+    ],
+    "review": [
+      "42895690"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1007/s10815-026-04062-2",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

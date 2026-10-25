@@ -1,0 +1,133 @@
+{
+  "identity": {
+    "pmid": "42917450",
+    "doi": "10.1021/acs.jctc.6c01336",
+    "title": "MOFF2: A Transferable Coarse-Grained Protein Force Field for Predictive Condensate Simulations."
+  },
+  "content": {
+    "abstract": "Coarse-grained (CG) protein force fields enable simulations of biomolecular systems at length and time scales that are difficult to access with atomistic models, but achieving transferability across folded, intrinsically disordered, and multidomain proteins (MDPs) remains challenging. A central difficulty is that one-bead-per-residue models must represent chemically specific residue interactions while also absorbing solvent-mediated and many-body effects into a simplified energy function. Here, we present MOFF2, a transferable coarse-grained protein force field that combines residue-pair-specific interactions with a density-dependent many-body potential. MOFF2 is optimized using a two-stage strategy: bottom-up parameter learning from heterogeneous reference ensembles followed by refinement against experimental conformational observables. The resulting model provides balanced performance across ordered proteins (OPs), intrinsically disordered proteins (IDPs), and multidomain proteins, and predicts condensate saturation-concentration trends for A1-LCD variant systems. Analysis of the learned parameters reveals chemically interpretable interaction patterns and density-dependent effects that explain the model's improved transferability. These results demonstrate that combining a generalized coarse-grained energy function with data-driven optimization can produce a practical and interpretable force field for protein conformational and condensate simulations.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Molecular Dynamics Simulation",
+      "*Proteins/chemistry",
+      "Protein Conformation",
+      "Thermodynamics",
+      "*Intrinsically Disordered Proteins/chemistry"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Liu, Shuming",
+        "Zhang, Yumeng",
+        "Riveros, Ivan",
+        "Wang, Cong",
+        "Zhang, Bin"
+      ],
+      "short_names": [
+        "Liu S",
+        "Zhang Y",
+        "Riveros I",
+        "Wang C",
+        "Zhang B"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-8569-5520",
+        "ORCID: 0000-0002-6405-8362",
+        "ORCID: 0000-0001-5998-3740",
+        "ORCID: 0000-0002-3685-7503"
+      ],
+      "affiliations": [
+        "Department of Chemistry, Massachusetts Institute of Technology, Cambridge, Massachusetts02139, United States.",
+        "Department of Chemistry, Massachusetts Institute of Technology, Cambridge, Massachusetts02139, United States.",
+        "Department of Chemistry, Massachusetts Institute of Technology, Cambridge, Massachusetts02139, United States.",
+        "Department of Chemistry, Massachusetts Institute of Technology, Cambridge, Massachusetts02139, United States.",
+        "Department of Chemistry, Massachusetts Institute of Technology, Cambridge, Massachusetts02139, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Liu, Shuming",
+        "short_name": "Liu S",
+        "identifiers": [
+          "0000-0002-8569-5520"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Massachusetts Institute of Technology, Cambridge, Massachusetts02139, United States."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yumeng",
+        "short_name": "Zhang Y",
+        "identifiers": [
+          "0000-0002-6405-8362"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Massachusetts Institute of Technology, Cambridge, Massachusetts02139, United States."
+        ]
+      },
+      {
+        "full_name": "Riveros, Ivan",
+        "short_name": "Riveros I",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Massachusetts Institute of Technology, Cambridge, Massachusetts02139, United States."
+        ]
+      },
+      {
+        "full_name": "Wang, Cong",
+        "short_name": "Wang C",
+        "identifiers": [
+          "0000-0001-5998-3740"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Massachusetts Institute of Technology, Cambridge, Massachusetts02139, United States."
+        ]
+      },
+      {
+        "full_name": "Zhang, Bin",
+        "short_name": "Zhang B",
+        "identifiers": [
+          "0000-0002-3685-7503"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Massachusetts Institute of Technology, Cambridge, Massachusetts02139, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of chemical theory and computation"
+    ],
+    "journal_abbrev": [
+      "J Chem Theory Comput"
+    ],
+    "pub_date": "2026 Sep 22",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42917450"
+    ],
+    "review": [
+      "42917450"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

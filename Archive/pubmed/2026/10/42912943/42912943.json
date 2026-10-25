@@ -1,0 +1,110 @@
+{
+  "identity": {
+    "pmid": "42912943",
+    "doi": "10.1021/acs.jcim.6c02358",
+    "title": "Binding Free Energy Landscape of Different SARS-CoV-2 Nsp1 Variants Interacting with NXF1-RRM: Insights from Molecular Dynamics Simulations and Markov State Models."
+  },
+  "content": {
+    "abstract": "The interaction of the SARS-CoV-2 Nsp1 protein with the host NXF1-RRM domain plays an important role in host gene expression, which influences virus replication and host immune surveillance. Thus, understanding the key factors that determine their binding affinity, such as mutations, is of great interest. In this work, we investigated the effects of three Nsp1 mutants horizontal line D33K/E36K/E37K/E41K, L27D/V28D, and R124E/K125E horizontal line on its binding to the NXF1-RRM domain using structural and energetic analysis. To quantify the affinity changes, we developed a computational framework for calculating the free energy landscape of protein-protein binding based on the Markov state model (MSM). Our approach is based on fluctuations of the radius of gyration and the root mean square deviation (RMSD) from a reference state. We found that the D33K/E36K/E37K/E41K mutant exerts the strongest destabilizing effect, resulting in greater structural deviation, reduced compactness, and a significant loss of intermolecular hydrogen bonds. In contrast, the L27D/V28D and R124E/K125E mutants retain structural and dynamical properties closer to those of wild-type Nsp1 (WT), indicating that these mutations have a more limited impact on the stability of the Nsp1-NXF1-RRM complex. These results are in good agreement with the previous experimental work. We also used the molecular mechanics Poisson-Boltzmann surface area (MM-PBSA) method to estimate the binding free energy of these complexes, yielding results consistent with the MSM analysis and experimental data. However, the binding free energy values obtained from the MSM method are more realistic compared to the MM-PBSA method, which tends to overestimate binding free energy values or produce unphysically negative results. Therefore, the MSM approach provides a useful framework for characterizing mutation-induced changes in the structural stability and binding energetics of Nsp1-NXF1-RRM complexes.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Molecular Dynamics Simulation",
+      "*Viral Nonstructural Proteins/metabolism/chemistry/genetics",
+      "Markov Chains",
+      "Protein Binding",
+      "Thermodynamics",
+      "*SARS-CoV-2/metabolism/chemistry/genetics",
+      "*RNA-Binding Proteins/metabolism/chemistry",
+      "Mutation",
+      "Humans",
+      "Protein Domains"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Nguyen, Hung Van",
+        "Pham, Tri Minh",
+        "Li, Mai Suan"
+      ],
+      "short_names": [
+        "Nguyen HV",
+        "Pham TM",
+        "Li MS"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-1282-319X",
+        "ORCID: 0000-0001-7021-7916"
+      ],
+      "affiliations": [
+        "Universite Paris Cite, CNRS, Laboratoire de Biochimie Theorique, 13 rue Pierre et Marie Curie, Paris75005, France.",
+        "AiTA Lab, Faculty of Information Technology, FPT University, Ho Chi Minh City700000, Vietnam.",
+        "Institute of Physics, Polish Academy of Sciences , al. Lotnikow 32/46, Warsaw02-668, Poland."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Nguyen, Hung Van",
+        "short_name": "Nguyen HV",
+        "identifiers": [
+          "0000-0002-1282-319X"
+        ],
+        "affiliations": [
+          "Université Paris Cité, CNRS, Laboratoire de Biochimie Théorique, 13 rue Pierre et Marie Curie, Paris75005, France."
+        ]
+      },
+      {
+        "full_name": "Pham, Tri Minh",
+        "short_name": "Pham TM",
+        "identifiers": [],
+        "affiliations": [
+          "AiTA Lab, Faculty of Information Technology, FPT University, Ho Chi Minh City700000, Vietnam."
+        ]
+      },
+      {
+        "full_name": "Li, Mai Suan",
+        "short_name": "Li MS",
+        "identifiers": [
+          "0000-0001-7021-7916"
+        ],
+        "affiliations": [
+          "Institute of Physics, Polish Academy of Sciences , al. Lotnikow 32/46, Warsaw02-668, Poland."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of chemical information and modeling"
+    ],
+    "journal_abbrev": [
+      "J Chem Inf Model"
+    ],
+    "pub_date": "2026 Oct 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 18:31",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42912943"
+    ],
+    "review": [
+      "42912943"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

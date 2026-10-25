@@ -1,0 +1,257 @@
+{
+  "identity": {
+    "pmid": "42897158",
+    "doi": "10.1038/s41467-026-77802-8",
+    "title": "Uncoupling of the allosteric signalling network in the beta(1)-adrenergic receptor by a negative allosteric modulator."
+  },
+  "content": {
+    "abstract": "Allosteric modulation is a fundamental aspect of G protein-coupled receptor (GPCR) regulation where molecules that bind to alternative sites outside the orthosteric pocket alter agonist-induced signalling responses. The advantages of allosteric modulators over traditional orthosteric agonists have positioned them as highly promising therapeutic agents. GPCRs exist in tuneable equilibria between multiple functional states, yet the ways in which allosteric modulators reshape these equilibria remain incompletely understood. Here we characterise how changes to the allosteric signalling network influence the conformational dynamics of the beta(1)-adrenergic receptor (beta(1)AR) through mutations at the E130(3.41) position or using the negative allosteric modulator, AS408. Both act through a known transmembrane (TM)3-TM4-TM5 site, reducing signalling to similar extents, but through distinct molecular mechanisms as revealed by pharmacological assays, MD simulations, and solution nuclear magnetic resonance spectroscopy. E130(3.41) mutations reduce agonist-stimulated signalling as a side chain-dependent rheostat, shifting receptor equilibria to populate states with weaker G protein affinities. In contrast, AS408 uncouples the intracellular region of beta(1)AR from the influence of the orthosteric pocket and reduces G protein coupling by adoption of an alternative signalling-incompetent intracellular surface arrangement. Our investigations emphasise the relevance of mechanistic understanding in drug development and the importance of dynamics in GPCR allostery.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Receptors, Adrenergic, beta-1/metabolism/genetics/chemistry",
+      "Allosteric Regulation/drug effects",
+      "*Signal Transduction/drug effects",
+      "Molecular Dynamics Simulation",
+      "Humans",
+      "Mutation",
+      "Animals",
+      "Allosteric Site",
+      "Protein Conformation",
+      "Adrenergic beta-1 Receptor Agonists/pharmacology",
+      "HEK293 Cells"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Harman, Thomas H",
+        "Noel, Timothy",
+        "Nokhbehzaim, Ali",
+        "Pearce, Abigail",
+        "Jones, Andrew J Y",
+        "Saji, Anjana",
+        "Harris, Matthew",
+        "Vege, Venkat S",
+        "Chandran, Aneesh",
+        "Leroy, Pierre",
+        "Al-Sabah, Suleiman",
+        "Ladds, Graham",
+        "Nietlispach, Daniel"
+      ],
+      "short_names": [
+        "Harman TH",
+        "Noel T",
+        "Nokhbehzaim A",
+        "Pearce A",
+        "Jones AJY",
+        "Saji A",
+        "Harris M",
+        "Vege VS",
+        "Chandran A",
+        "Leroy P",
+        "Al-Sabah S",
+        "Ladds G",
+        "Nietlispach D"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-9845-0541",
+        "ORCID: 0009-0007-0775-690X",
+        "ORCID: 0009-0004-1662-0375",
+        "ORCID: 0009-0008-2387-1809",
+        "ORCID: 0000-0002-9808-7866",
+        "ORCID: 0000-0001-7320-9612",
+        "ORCID: 0000-0003-4364-9291"
+      ],
+      "affiliations": [
+        "Department of Biochemistry, University of Cambridge, Cambridge, CB2 1GA, UK.",
+        "Department of Pharmacology, University of Cambridge, Cambridge, CB2 1PD, UK.",
+        "Department of Pharmacology, University of Cambridge, Cambridge, CB2 1PD, UK.",
+        "Department of Pharmacology, University of Cambridge, Cambridge, CB2 1PD, UK.",
+        "Department of Biochemistry, University of Cambridge, Cambridge, CB2 1GA, UK.",
+        "Department of Pharmacology, University of Cambridge, Cambridge, CB2 1PD, UK.",
+        "Department of Pharmacology, University of Cambridge, Cambridge, CB2 1PD, UK.",
+        "Department of Pharmacology, University of Cambridge, Cambridge, CB2 1PD, UK.",
+        "Department of Pharmacology, University of Cambridge, Cambridge, CB2 1PD, UK.",
+        "Department of Biotechnology & Microbiology, Kannur University, Kannur, 670 661, Kerala, India.",
+        "Department of Biochemistry, University of Cambridge, Cambridge, CB2 1GA, UK.",
+        "Department of Pharmacology & Toxicology, Faculty of Medicine, Kuwait University, Kuwait City, 13060, Kuwait.",
+        "Department of Pharmacology, University of Cambridge, Cambridge, CB2 1PD, UK. grl30@cam.ac.uk.",
+        "Department of Biochemistry, University of Cambridge, Cambridge, CB2 1GA, UK. dn206@cam.ac.uk."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Harman, Thomas H",
+        "short_name": "Harman TH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, University of Cambridge, Cambridge, CB2 1GA, UK."
+        ]
+      },
+      {
+        "full_name": "Noel, Timothy",
+        "short_name": "Noel T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology, University of Cambridge, Cambridge, CB2 1PD, UK."
+        ]
+      },
+      {
+        "full_name": "Nokhbehzaim, Ali",
+        "short_name": "Nokhbehzaim A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology, University of Cambridge, Cambridge, CB2 1PD, UK."
+        ]
+      },
+      {
+        "full_name": "Pearce, Abigail",
+        "short_name": "Pearce A",
+        "identifiers": [
+          "0000-0001-9845-0541"
+        ],
+        "affiliations": [
+          "Department of Pharmacology, University of Cambridge, Cambridge, CB2 1PD, UK."
+        ]
+      },
+      {
+        "full_name": "Jones, Andrew J Y",
+        "short_name": "Jones AJY",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, University of Cambridge, Cambridge, CB2 1GA, UK."
+        ]
+      },
+      {
+        "full_name": "Saji, Anjana",
+        "short_name": "Saji A",
+        "identifiers": [
+          "0009-0007-0775-690X"
+        ],
+        "affiliations": [
+          "Department of Pharmacology, University of Cambridge, Cambridge, CB2 1PD, UK."
+        ]
+      },
+      {
+        "full_name": "Harris, Matthew",
+        "short_name": "Harris M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology, University of Cambridge, Cambridge, CB2 1PD, UK."
+        ]
+      },
+      {
+        "full_name": "Vege, Venkat S",
+        "short_name": "Vege VS",
+        "identifiers": [
+          "0009-0004-1662-0375"
+        ],
+        "affiliations": [
+          "Department of Pharmacology, University of Cambridge, Cambridge, CB2 1PD, UK."
+        ]
+      },
+      {
+        "full_name": "Chandran, Aneesh",
+        "short_name": "Chandran A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmacology, University of Cambridge, Cambridge, CB2 1PD, UK.",
+          "Department of Biotechnology & Microbiology, Kannur University, Kannur, 670 661, Kerala, India."
+        ]
+      },
+      {
+        "full_name": "Leroy, Pierre",
+        "short_name": "Leroy P",
+        "identifiers": [
+          "0009-0008-2387-1809"
+        ],
+        "affiliations": [
+          "Department of Biochemistry, University of Cambridge, Cambridge, CB2 1GA, UK."
+        ]
+      },
+      {
+        "full_name": "Al-Sabah, Suleiman",
+        "short_name": "Al-Sabah S",
+        "identifiers": [
+          "0000-0002-9808-7866"
+        ],
+        "affiliations": [
+          "Department of Pharmacology & Toxicology, Faculty of Medicine, Kuwait University, Kuwait City, 13060, Kuwait."
+        ]
+      },
+      {
+        "full_name": "Ladds, Graham",
+        "short_name": "Ladds G",
+        "identifiers": [
+          "0000-0001-7320-9612"
+        ],
+        "affiliations": [
+          "Department of Pharmacology, University of Cambridge, Cambridge, CB2 1PD, UK. grl30@cam.ac.uk."
+        ]
+      },
+      {
+        "full_name": "Nietlispach, Daniel",
+        "short_name": "Nietlispach D",
+        "identifiers": [
+          "0000-0003-4364-9291"
+        ],
+        "affiliations": [
+          "Department of Biochemistry, University of Cambridge, Cambridge, CB2 1GA, UK. dn206@cam.ac.uk."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Sep 18",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/20 05:30",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42897158"
+    ],
+    "review": [
+      "42897158"
+    ],
+    "pmc": [
+      "13680373"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-77802-8",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-AKR1B1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "identity": {
+    "pmid": "42912320",
+    "doi": "10.1021/jacs.6c10287",
+    "title": "The AML-Associated A338V Mutation Rewires GPR183 Signaling through C-Terminal Ensemble Redistribution."
+  },
+  "content": {
+    "abstract": "G protein-coupled receptors (GPCRs) rely on dynamic conformational ensembles to coordinate G protein activation and recruitment of regulatory transducers such as GPCR kinases and beta-arrestins. The oxysterol receptor GPR183 has been implicated in hematological malignancies, including acute myeloid leukemia (AML), where a rare A338V substitution occurs within its intrinsically disordered C-terminal tail. Here, we combined bioluminescence/fluorescence resonance energy transfer, bioluminescence- and fluorescence-based assays as well as migration experiments, with molecular dynamics simulations and allosteric communication networks to define the structural and functional consequences of this mutation. The A338V variant preserved agonist potency and largely maintained or even enhanced agonist-induced Gi protein activation, likely by inducing different receptor core conformations. On the other hand, it consistently impaired GRK2 and beta-arrestin2 recruitment across multiple experimental configurations. Atomistic simulations supported these observations and further suggested that A338V reshapes the conformational ensemble of the C-terminal tail, altering its disorder, compaction, and membrane interactions. In particular, the mutation redistributes lipid interactions of phosphorylation-prone serine and threonine residues within the tail, suggesting disrupted spatial presentation of regulatory motifs required for productive GRK2 and beta-arrestin coupling. Importantly, overexpression of GPR183 A338V in differentiated HL-60 cells led to a significant increase in migration of these cells toward the chemoattractant. Together, these results identify the intrinsically disordered C-terminal tail of GPR183 as a determinant of selective transducer coupling and show how a single naturally occurring mutation within a GPCR intrinsically disordered region can alter its conformational ensemble, selectively modulate intracellular protein coupling, and affect receptor-mediated cellular behavior.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "*Receptors, G-Protein-Coupled/genetics/metabolism/chemistry",
+      "Signal Transduction",
+      "Molecular Dynamics Simulation",
+      "Mutation",
+      "*Leukemia, Myeloid, Acute/genetics/metabolism",
+      "G-Protein-Coupled Receptor Kinase 2/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Andersson, Louise",
+        "Wesolowski, Patryk A",
+        "Jahrstorfer, Laura",
+        "Rosa, Alexander De",
+        "Heger, Tomas",
+        "Neuman, Vilmos",
+        "Sieradzan, Adam K",
+        "Wales, David J",
+        "Kozielewicz, Pawel"
+      ],
+      "short_names": [
+        "Andersson L",
+        "Wesolowski PA",
+        "Jahrstorfer L",
+        "Rosa A",
+        "Heger T",
+        "Neuman V",
+        "Sieradzan AK",
+        "Wales DJ",
+        "Kozielewicz P"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-7751-980X",
+        "ORCID: 0009-0009-6672-0688",
+        "ORCID: 0009-0009-7101-8674",
+        "ORCID: 0000-0002-2426-3644",
+        "ORCID: 0000-0002-3555-6645",
+        "ORCID: 0000-0003-1414-3566"
+      ],
+      "affiliations": [
+        "Molecular Pharmacology of GPCRs, Department of Physiology and Pharmacology, Karolinska Institutet, Solna, Stockholm171 65, Sweden.",
+        "Molecular Pharmacology of GPCRs, Department of Physiology and Pharmacology, Karolinska Institutet, Solna, Stockholm171 65, Sweden.",
+        "Yusuf Hamied Department of Chemistry, University of Cambridge, Lensfield Road, CambridgeCB2 1EW, United Kingdom.",
+        "Molecular Pharmacology of GPCRs, Department of Physiology and Pharmacology, Karolinska Institutet, Solna, Stockholm171 65, Sweden.",
+        "Molecular Pharmacology of GPCRs, Department of Physiology and Pharmacology, Karolinska Institutet, Solna, Stockholm171 65, Sweden.",
+        "Yusuf Hamied Department of Chemistry, University of Cambridge, Lensfield Road, CambridgeCB2 1EW, United Kingdom.",
+        "Department of Chemistry, Physical and Theoretical Chemistry Laboratory, University of Oxford, South Parks Road, OxfordOX1 3QZ, United Kingdom.",
+        "Department of Theoretical Chemistry, University of Gdansk, Wita Stwosza 63, Gdansk80-308, Poland.",
+        "Samsung Medical Center, Sungkyunkwan University School of Medicine, 81, Irwon-ro, Gangnam-gu, Seoul06351, Korea.",
+        "Yusuf Hamied Department of Chemistry, University of Cambridge, Lensfield Road, CambridgeCB2 1EW, United Kingdom.",
+        "Molecular Pharmacology of GPCRs, Department of Physiology and Pharmacology, Karolinska Institutet, Solna, Stockholm171 65, Sweden."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Andersson, Louise",
+        "short_name": "Andersson L",
+        "identifiers": [],
+        "affiliations": [
+          "Molecular Pharmacology of GPCRs, Department of Physiology and Pharmacology, Karolinska Institutet, Solna, Stockholm171 65, Sweden."
+        ]
+      },
+      {
+        "full_name": "Wesołowski, Patryk A",
+        "short_name": "Wesołowski PA",
+        "identifiers": [
+          "0000-0002-7751-980X"
+        ],
+        "affiliations": [
+          "Molecular Pharmacology of GPCRs, Department of Physiology and Pharmacology, Karolinska Institutet, Solna, Stockholm171 65, Sweden.",
+          "Yusuf Hamied Department of Chemistry, University of Cambridge, Lensfield Road, CambridgeCB2 1EW, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Jahrstorfer, Laura",
+        "short_name": "Jahrstorfer L",
+        "identifiers": [],
+        "affiliations": [
+          "Molecular Pharmacology of GPCRs, Department of Physiology and Pharmacology, Karolinska Institutet, Solna, Stockholm171 65, Sweden."
+        ]
+      },
+      {
+        "full_name": "Rosa, Alexander De",
+        "short_name": "Rosa A",
+        "identifiers": [],
+        "affiliations": [
+          "Molecular Pharmacology of GPCRs, Department of Physiology and Pharmacology, Karolinska Institutet, Solna, Stockholm171 65, Sweden."
+        ]
+      },
+      {
+        "full_name": "Heger, Tomáš",
+        "short_name": "Heger T",
+        "identifiers": [
+          "0009-0009-6672-0688"
+        ],
+        "affiliations": [
+          "Yusuf Hamied Department of Chemistry, University of Cambridge, Lensfield Road, CambridgeCB2 1EW, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Neuman, Vilmos",
+        "short_name": "Neuman V",
+        "identifiers": [
+          "0009-0009-7101-8674"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Physical and Theoretical Chemistry Laboratory, University of Oxford, South Parks Road, OxfordOX1 3QZ, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Sieradzan, Adam K",
+        "short_name": "Sieradzan AK",
+        "identifiers": [
+          "0000-0002-2426-3644"
+        ],
+        "affiliations": [
+          "Department of Theoretical Chemistry, University of Gdansk, Wita Stwosza 63, Gdansk80-308, Poland.",
+          "Samsung Medical Center, Sungkyunkwan University School of Medicine, 81, Irwon-ro, Gangnam-gu, Seoul06351, Korea."
+        ]
+      },
+      {
+        "full_name": "Wales, David J",
+        "short_name": "Wales DJ",
+        "identifiers": [
+          "0000-0002-3555-6645"
+        ],
+        "affiliations": [
+          "Yusuf Hamied Department of Chemistry, University of Cambridge, Lensfield Road, CambridgeCB2 1EW, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Kozielewicz, Paweł",
+        "short_name": "Kozielewicz P",
+        "identifiers": [
+          "0000-0003-1414-3566"
+        ],
+        "affiliations": [
+          "Molecular Pharmacology of GPCRs, Department of Physiology and Pharmacology, Karolinska Institutet, Solna, Stockholm171 65, Sweden."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of the American Chemical Society"
+    ],
+    "journal_abbrev": [
+      "J Am Chem Soc"
+    ],
+    "pub_date": "2026 Oct 21",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 18:31",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42912320"
+    ],
+    "review": [
+      "42912320"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

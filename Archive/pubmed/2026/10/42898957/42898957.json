@@ -1,0 +1,147 @@
+{
+  "identity": {
+    "pmid": "42898957",
+    "doi": "10.3389/fpls.2026.1940350",
+    "title": "Unlocking the molecular mechanisms of bamboo-based remediation of hazardous contaminants: macromolecular interactions, transport pathways, and predictive approaches."
+  },
+  "content": {
+    "abstract": "Bamboo presents an unusual combination of rapid biomass production and diverse molecular mechanisms for capturing, transforming, and sequestering hazardous contaminants. However, the existing investigations have predominantly focused on bulk removal efficiencies and tissue-level accumulation profiles, whereas the molecular determinants governing these processes remain critically underexplored. This review systematically synthesizes the structure-function relationships of key bamboo-derived macromolecules including cellulose, hemicellulose, lignin, membrane transport proteins such as heavy metal ATPases (HMAs), ATP-binding cassette (ABC) transporters, natural resistance-associated macrophage proteins (NRAMPs), and zinc-regulated/iron-regulated transporter-like proteins (ZIPs), as well as oxidative enzymes such as laccases and peroxidases. Specific emphasis is placed on the molecular features that drive contaminant adsorption, transport, sequestration, and degradation. Particular attention is given to surface functional groups, aromatic domains, conserved transporter motifs, and catalytic metal centers. A critical appraisal of the current literature reveals substantial knowledge gaps, particularly in molecular-weight distributions, three-dimensional conformational states, binding affinities, and direct physicochemical interactions between bamboo-derived macromolecules and hazardous pollutants. To address these limitations, we propose an integrative framework combining proteomics, AI-assisted structure prediction, molecular docking, molecular dynamics (MD) simulations, and quantitative binding assays to uncover the molecular basis of bamboo-pollutant interactions. Future breakthroughs will require the synergistic integration of rigorous structural characterization and direct interaction studies to move from descriptive associations toward predictive structure-function relationships. By consolidating dispersed knowledge and outlining prioritized research agendas, this review furnishes a conceptual framework to advance bamboo-based remediation from descriptive observational studies toward predictive, mechanism-driven strategies for hazardous contaminant management and environmental risk reduction.",
+    "keywords": [
+      "bamboo",
+      "heavy metals",
+      "lignocellulose",
+      "membrane transporters",
+      "organic pollutants",
+      "phytoremediation",
+      "structure-function relationship"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ali, Muhammad Hayder",
+        "Hameed, Muhammad Ashir",
+        "Cong, Ma",
+        "Malik, Aqsa",
+        "Chen, Qibin",
+        "Liu, Shiliang"
+      ],
+      "short_names": [
+        "Ali MH",
+        "Hameed MA",
+        "Cong M",
+        "Malik A",
+        "Chen Q",
+        "Liu S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "College of Landscape Architecture, Sichuan Agricultural University, Chengdu, China.",
+        "Institute of Soil and Environmental Sciences, University of Agriculture, Faisalabad, Pakistan.",
+        "College of Resource Sciences and Technology, Sichuan Agricultural University, Chengdu, China.",
+        "College of Landscape Architecture, Sichuan Agricultural University, Chengdu, China.",
+        "Department of Botany, University of Narowal, Narowal, Pakistan.",
+        "College of Landscape Architecture, Sichuan Agricultural University, Chengdu, China.",
+        "College of Landscape Architecture, Sichuan Agricultural University, Chengdu, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ali, Muhammad Hayder",
+        "short_name": "Ali MH",
+        "identifiers": [],
+        "affiliations": [
+          "College of Landscape Architecture, Sichuan Agricultural University, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Hameed, Muhammad Ashir",
+        "short_name": "Hameed MA",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Soil and Environmental Sciences, University of Agriculture, Faisalabad, Pakistan.",
+          "College of Resource Sciences and Technology, Sichuan Agricultural University, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Cong, Ma",
+        "short_name": "Cong M",
+        "identifiers": [],
+        "affiliations": [
+          "College of Landscape Architecture, Sichuan Agricultural University, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Malik, Aqsa",
+        "short_name": "Malik A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Botany, University of Narowal, Narowal, Pakistan."
+        ]
+      },
+      {
+        "full_name": "Chen, Qibin",
+        "short_name": "Chen Q",
+        "identifiers": [],
+        "affiliations": [
+          "College of Landscape Architecture, Sichuan Agricultural University, Chengdu, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Shiliang",
+        "short_name": "Liu S",
+        "identifiers": [],
+        "affiliations": [
+          "College of Landscape Architecture, Sichuan Agricultural University, Chengdu, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in plant science"
+    ],
+    "journal_abbrev": [
+      "Front Plant Sci"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/20 18:32",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42898957"
+    ],
+    "review": [
+      "42898957"
+    ],
+    "pmc": [
+      "13678523"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.3389/fpls.2026.1940350",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

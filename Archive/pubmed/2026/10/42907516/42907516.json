@@ -1,0 +1,472 @@
+{
+  "identity": {
+    "pmid": "42907516",
+    "doi": "10.1038/s41586-026-11205-z",
+    "title": "Programmable design of functional proteins from natural language."
+  },
+  "content": {
+    "abstract": "Programming biological function-designing bespoke proteins to perform specified molecular tasks-is a foundational goal of molecular engineering. However, current design models remain fundamentally limited(1-3): they typically require either natural proteins as starting points for optimization or manual reformulation of functional goals as geometric and sequence-level constraints to guide candidate generation. Here we introduce Pinal, a 16-billion-parameter foundation model that designs candidate proteins from natural-language descriptions of desired function. Trained on 1.7 billion synthetically annotated protein-text pairs, Pinal links functional intent to protein sequence and structure. In computational evaluations, generated candidates combined high predicted foldability with functional-description alignment and sequence diversity, providing a basis for prioritizing experimentally testable designs. We applied Pinal to four distinct design tasks-a fluorescent protein, a polyethylene terephthalate hydrolase, an alcohol dehydrogenase and a metabolic H-protein-and experimentally observed the intended function in each case, including catalytic activity for both designed enzymes. Without iterative experimental optimization, a Pinal-designed H-protein increased product titre by 1.7-fold relative to the corresponding native Escherichia coli H-protein in a multi-enzyme CO(2) fixation pathway. These findings support natural language as a high-level interface for candidate generation in protein design, enabling programmable exploration with reduced reliance on manually specified structural or sequence constraints.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Dai, Fengyuan",
+        "You, Shiyang",
+        "Zhu, Yudian",
+        "Gao, Yuan",
+        "Fu, Lihao",
+        "Zhou, Xibin",
+        "Su, Jin",
+        "Wang, Chentong",
+        "Fan, Yuliang",
+        "Tan, Qingsong",
+        "Ma, Xiaoxiao",
+        "Deng, Xianjun",
+        "Yu, Letong",
+        "Qian, Hui",
+        "He, Yan",
+        "Ke, Yitao",
+        "Zhang, Zhe",
+        "Han, Chenchen",
+        "Chang, Xing",
+        "Zheng, Liangzhen",
+        "Wang, Sheng",
+        "Ji, Yuan",
+        "Hao, Kexin",
+        "Cao, Longxing",
+        "Wang, Yajie",
+        "Zeng, Anping",
+        "Wang, Shunzhi",
+        "Zhan, Chunjun",
+        "Zhao, Jing",
+        "Si, Tong",
+        "Liu, Jianming",
+        "Lu, Hongyuan",
+        "Yuan, Fajie"
+      ],
+      "short_names": [
+        "Dai F",
+        "You S",
+        "Zhu Y",
+        "Gao Y",
+        "Fu L",
+        "Zhou X",
+        "Su J",
+        "Wang C",
+        "Fan Y",
+        "Tan Q",
+        "Ma X",
+        "Deng X",
+        "Yu L",
+        "Qian H",
+        "He Y",
+        "Ke Y",
+        "Zhang Z",
+        "Han C",
+        "Chang X",
+        "Zheng L",
+        "Wang S",
+        "Ji Y",
+        "Hao K",
+        "Cao L",
+        "Wang Y",
+        "Zeng A",
+        "Wang S",
+        "Zhan C",
+        "Zhao J",
+        "Si T",
+        "Liu J",
+        "Lu H",
+        "Yuan F"
+      ],
+      "auids": [
+        "ORCID: 0009-0002-1231-7438",
+        "ORCID: 0000-0002-5072-9225",
+        "ORCID: 0000-0003-1179-2106",
+        "ORCID: 0000-0003-4002-3648",
+        "ORCID: 0000-0002-6216-791X",
+        "ORCID: 0000-0001-9768-7096",
+        "ORCID: 0000-0001-5033-7478",
+        "ORCID: 0000-0003-2985-9014",
+        "ORCID: 0000-0001-6527-6049",
+        "ORCID: 0000-0001-9763-7865",
+        "ORCID: 0000-0001-8452-9929"
+      ],
+      "affiliations": [
+        "School of Engineering, Westlake University, Hangzhou, China.",
+        "Zhejiang University, Hangzhou, China.",
+        "Bioscience and Biomedical Engineering Thrust, Systems Hub, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China.",
+        "School of Engineering, Westlake University, Hangzhou, China.",
+        "State Key Laboratory of Quantitative Synthetic Biology, Shenzhen Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China.",
+        "State Key Laboratory of Quantitative Synthetic Biology, Shenzhen Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China.",
+        "School of Engineering, Westlake University, Hangzhou, China.",
+        "School of Engineering, Westlake University, Hangzhou, China.",
+        "School of Life Sciences, Westlake University, Hangzhou, China.",
+        "School of Engineering, Westlake University, Hangzhou, China.",
+        "School of Engineering, Westlake University, Hangzhou, China.",
+        "Bioscience and Biomedical Engineering Thrust, Systems Hub, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China.",
+        "Bioscience and Biomedical Engineering Thrust, Systems Hub, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China.",
+        "Bioscience and Biomedical Engineering Thrust, Systems Hub, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China.",
+        "School of Engineering, Westlake University, Hangzhou, China.",
+        "School of Life Sciences, Westlake University, Hangzhou, China.",
+        "School of Life Sciences, Westlake University, Hangzhou, China.",
+        "School of Engineering, Westlake University, Hangzhou, China.",
+        "School of Engineering, Westlake University, Hangzhou, China.",
+        "School of Life Sciences, Westlake University, Hangzhou, China.",
+        "Shanghai Zelixir Biotech, Shanghai, China.",
+        "Shanghai Zelixir Biotech, Shanghai, China.",
+        "State Key Laboratory of Druggability Evaluation and Systematic Translational Medicine, Tianjin Institute of Pharmaceutical Research, Tianjin, China.",
+        "State Key Laboratory of Druggability Evaluation and Systematic Translational Medicine, Tianjin Institute of Pharmaceutical Research, Tianjin, China.",
+        "School of Life Sciences, Westlake University, Hangzhou, China.",
+        "School of Engineering, Westlake University, Hangzhou, China.",
+        "School of Engineering, Westlake University, Hangzhou, China.",
+        "Zhejiang Key Laboratory of Low-Carbon Intelligent Synthetic Biology, School of Engineering, Westlake University, Hangzhou, China.",
+        "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+        "School of Engineering, Westlake University, Hangzhou, China.",
+        "State Key Laboratory of Druggability Evaluation and Systematic Translational Medicine, Tianjin Institute of Pharmaceutical Research, Tianjin, China.",
+        "State Key Laboratory of Quantitative Synthetic Biology, Shenzhen Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China. tong.si@siat.ac.cn.",
+        "School of Engineering, Westlake University, Hangzhou, China. liujianming@westlake.edu.cn.",
+        "Zhejiang Key Laboratory of Low-Carbon Intelligent Synthetic Biology, School of Engineering, Westlake University, Hangzhou, China. liujianming@westlake.edu.cn.",
+        "Bioscience and Biomedical Engineering Thrust, Systems Hub, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China. hongylu@hkust-gz.edu.cn.",
+        "School of Engineering, Westlake University, Hangzhou, China. yuanfajie@westlake.edu.cn.",
+        "Zhejiang Key Laboratory of Low-Carbon Intelligent Synthetic Biology, School of Engineering, Westlake University, Hangzhou, China. yuanfajie@westlake.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Dai, Fengyuan",
+        "short_name": "Dai F",
+        "identifiers": [],
+        "affiliations": [
+          "School of Engineering, Westlake University, Hangzhou, China.",
+          "Zhejiang University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "You, Shiyang",
+        "short_name": "You S",
+        "identifiers": [],
+        "affiliations": [
+          "Bioscience and Biomedical Engineering Thrust, Systems Hub, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Yudian",
+        "short_name": "Zhu Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Engineering, Westlake University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Yuan",
+        "short_name": "Gao Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Quantitative Synthetic Biology, Shenzhen Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China."
+        ]
+      },
+      {
+        "full_name": "Fu, Lihao",
+        "short_name": "Fu L",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Quantitative Synthetic Biology, Shenzhen Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Xibin",
+        "short_name": "Zhou X",
+        "identifiers": [],
+        "affiliations": [
+          "School of Engineering, Westlake University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Su, Jin",
+        "short_name": "Su J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Engineering, Westlake University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Chentong",
+        "short_name": "Wang C",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Sciences, Westlake University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Fan, Yuliang",
+        "short_name": "Fan Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Engineering, Westlake University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Tan, Qingsong",
+        "short_name": "Tan Q",
+        "identifiers": [],
+        "affiliations": [
+          "School of Engineering, Westlake University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Ma, Xiaoxiao",
+        "short_name": "Ma X",
+        "identifiers": [],
+        "affiliations": [
+          "Bioscience and Biomedical Engineering Thrust, Systems Hub, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Deng, Xianjun",
+        "short_name": "Deng X",
+        "identifiers": [],
+        "affiliations": [
+          "Bioscience and Biomedical Engineering Thrust, Systems Hub, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Letong",
+        "short_name": "Yu L",
+        "identifiers": [],
+        "affiliations": [
+          "Bioscience and Biomedical Engineering Thrust, Systems Hub, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Qian, Hui",
+        "short_name": "Qian H",
+        "identifiers": [],
+        "affiliations": [
+          "School of Engineering, Westlake University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "He, Yan",
+        "short_name": "He Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Life Sciences, Westlake University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Ke, Yitao",
+        "short_name": "Ke Y",
+        "identifiers": [
+          "0009-0002-1231-7438"
+        ],
+        "affiliations": [
+          "School of Life Sciences, Westlake University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Zhe",
+        "short_name": "Zhang Z",
+        "identifiers": [],
+        "affiliations": [
+          "School of Engineering, Westlake University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Han, Chenchen",
+        "short_name": "Han C",
+        "identifiers": [],
+        "affiliations": [
+          "School of Engineering, Westlake University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Chang, Xing",
+        "short_name": "Chang X",
+        "identifiers": [
+          "0000-0002-5072-9225"
+        ],
+        "affiliations": [
+          "School of Life Sciences, Westlake University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zheng, Liangzhen",
+        "short_name": "Zheng L",
+        "identifiers": [
+          "0000-0003-1179-2106"
+        ],
+        "affiliations": [
+          "Shanghai Zelixir Biotech, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Sheng",
+        "short_name": "Wang S",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Zelixir Biotech, Shanghai, China."
+        ]
+      },
+      {
+        "full_name": "Ji, Yuan",
+        "short_name": "Ji Y",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Druggability Evaluation and Systematic Translational Medicine, Tianjin Institute of Pharmaceutical Research, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Hao, Kexin",
+        "short_name": "Hao K",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Druggability Evaluation and Systematic Translational Medicine, Tianjin Institute of Pharmaceutical Research, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Cao, Longxing",
+        "short_name": "Cao L",
+        "identifiers": [
+          "0000-0003-4002-3648"
+        ],
+        "affiliations": [
+          "School of Life Sciences, Westlake University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yajie",
+        "short_name": "Wang Y",
+        "identifiers": [
+          "0000-0002-6216-791X"
+        ],
+        "affiliations": [
+          "School of Engineering, Westlake University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zeng, Anping",
+        "short_name": "Zeng A",
+        "identifiers": [
+          "0000-0001-9768-7096"
+        ],
+        "affiliations": [
+          "School of Engineering, Westlake University, Hangzhou, China.",
+          "Zhejiang Key Laboratory of Low-Carbon Intelligent Synthetic Biology, School of Engineering, Westlake University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Shunzhi",
+        "short_name": "Wang S",
+        "identifiers": [
+          "0000-0001-5033-7478"
+        ],
+        "affiliations": [
+          "Department of Biochemistry, University of Washington, Seattle, WA, USA."
+        ]
+      },
+      {
+        "full_name": "Zhan, Chunjun",
+        "short_name": "Zhan C",
+        "identifiers": [],
+        "affiliations": [
+          "School of Engineering, Westlake University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Jing",
+        "short_name": "Zhao J",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Druggability Evaluation and Systematic Translational Medicine, Tianjin Institute of Pharmaceutical Research, Tianjin, China."
+        ]
+      },
+      {
+        "full_name": "Si, Tong",
+        "short_name": "Si T",
+        "identifiers": [
+          "0000-0003-2985-9014"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Quantitative Synthetic Biology, Shenzhen Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China. tong.si@siat.ac.cn."
+        ]
+      },
+      {
+        "full_name": "Liu, Jianming",
+        "short_name": "Liu J",
+        "identifiers": [
+          "0000-0001-6527-6049"
+        ],
+        "affiliations": [
+          "School of Engineering, Westlake University, Hangzhou, China. liujianming@westlake.edu.cn.",
+          "Zhejiang Key Laboratory of Low-Carbon Intelligent Synthetic Biology, School of Engineering, Westlake University, Hangzhou, China. liujianming@westlake.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Lu, Hongyuan",
+        "short_name": "Lu H",
+        "identifiers": [
+          "0000-0001-9763-7865"
+        ],
+        "affiliations": [
+          "Bioscience and Biomedical Engineering Thrust, Systems Hub, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China. hongylu@hkust-gz.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Yuan, Fajie",
+        "short_name": "Yuan F",
+        "identifiers": [
+          "0000-0001-8452-9929"
+        ],
+        "affiliations": [
+          "School of Engineering, Westlake University, Hangzhou, China. yuanfajie@westlake.edu.cn.",
+          "Zhejiang Key Laboratory of Low-Carbon Intelligent Synthetic Biology, School of Engineering, Westlake University, Hangzhou, China. yuanfajie@westlake.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature"
+    ],
+    "journal_abbrev": [
+      "Nature"
+    ],
+    "pub_date": "2026 Oct 21",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/22 23:29",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42907516"
+    ],
+    "review": [
+      "42907516"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41586-026-11205-z",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

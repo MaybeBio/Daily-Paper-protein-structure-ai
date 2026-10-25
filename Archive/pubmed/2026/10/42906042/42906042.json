@@ -1,0 +1,209 @@
+{
+  "identity": {
+    "pmid": "42906042",
+    "doi": "10.1021/acs.jcim.6c02039",
+    "title": "MultiRSF: A Deep Learning Approach for Predicting RNA-Small-Molecule Binding Sites Using Surface Characteristics."
+  },
+  "content": {
+    "abstract": "Identification of RNA-small-molecule binding sites is a critical first step in RNA-targeted drug discovery. Although several machine learning methods have made progress by integrating RNA sequence, secondary structure, and 3-dimensional (3D) atomic arrangement information to identify nucleotide level binding residues, most of them neglect the molecular surface that directly contacts small-molecule compounds and are highly dependent on accurate three-dimensional structures. Here, we present MultiRSF, a multimodal deep learning framework that integrates molecular surface fingerprints, contextual sequence embeddings from a pretrained RNA language model and dot bracket secondary structure encoding to predict ligand binding sites on RNA. MultiRSF fuses these features through a hierarchical Transformer encoder and demonstrates robust predictive performance on both ligand-free RNA structures (apo RNA) and ligand-bound RNA structures (holo RNA). On independent benchmark sets TE18 and APO8, MultiRSF outperforms state-of-the-art methods, achieving precision of 0.765/0.458, recall of 0.698/0.286, and Matthews correlation coefficient (MCC) of 0.535/0.279. Case studies on a ligand-induced riboswitch conformational change and an NMR conformational ensemble further illustrate the model's robustness to moderate RNA flexibility. In conclusion, MultiRSF provides an accurate and generalizable tool for nucleotide resolution binding sites prediction, with potential to accelerate early-stage RNA-targeted drug discovery.",
+    "keywords": [],
+    "mesh_terms": [
+      "Binding Sites",
+      "*RNA/chemistry/metabolism",
+      "*Deep Learning",
+      "Nucleic Acid Conformation",
+      "*Small Molecule Libraries/metabolism/chemistry",
+      "Ligands",
+      "Surface Properties",
+      "Models, Molecular"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Shu, Jiasai",
+        "Xia, Wentao",
+        "Zheng, Yingjie",
+        "Shu, Yucheng",
+        "Zhao, Zhiyuan",
+        "Feng, Mei",
+        "Wang, Yan",
+        "Wang, Xiaogang",
+        "Xu, Bijun",
+        "Xu, Xiaojun",
+        "Sun, Tingting"
+      ],
+      "short_names": [
+        "Shu J",
+        "Xia W",
+        "Zheng Y",
+        "Shu Y",
+        "Zhao Z",
+        "Feng M",
+        "Wang Y",
+        "Wang X",
+        "Xu B",
+        "Xu X",
+        "Sun T"
+      ],
+      "auids": [
+        "ORCID: 0009-0007-8377-6945",
+        "ORCID: 0009-0005-5083-1050",
+        "ORCID: 0000-0003-1388-3458"
+      ],
+      "affiliations": [
+        "Department of Physics, Zhejiang University of Science and Technology, Hangzhou310008, China.",
+        "Department of Physics, Zhejiang University of Science and Technology, Hangzhou310008, China.",
+        "Department of Physics, Zhejiang University of Science and Technology, Hangzhou310008, China.",
+        "Department of Physics, Zhejiang University of Science and Technology, Hangzhou310008, China.",
+        "Department of Physics, Zhejiang University of Science and Technology, Hangzhou310008, China.",
+        "Department of Physics, Zhejiang University of Science and Technology, Hangzhou310008, China.",
+        "Department of Physics, Zhejiang University of Science and Technology, Hangzhou310008, China.",
+        "Department of Physics, Zhejiang University of Science and Technology, Hangzhou310008, China.",
+        "Department of Physics, Zhejiang University of Science and Technology, Hangzhou310008, China.",
+        "Institute of Bioinformatics and Medical Engineering, Jiangsu University of Technology, Changzhou213001, China.",
+        "Department of Physics, Zhejiang University of Science and Technology, Hangzhou310008, China.",
+        "Zhejiang Key Laboratory of Biomedical Intelligent Computing Technology, Hangzhou310008, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Shu, Jiasai",
+        "short_name": "Shu J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physics, Zhejiang University of Science and Technology, Hangzhou310008, China."
+        ]
+      },
+      {
+        "full_name": "Xia, Wentao",
+        "short_name": "Xia W",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physics, Zhejiang University of Science and Technology, Hangzhou310008, China."
+        ]
+      },
+      {
+        "full_name": "Zheng, Yingjie",
+        "short_name": "Zheng Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physics, Zhejiang University of Science and Technology, Hangzhou310008, China."
+        ]
+      },
+      {
+        "full_name": "Shu, Yucheng",
+        "short_name": "Shu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physics, Zhejiang University of Science and Technology, Hangzhou310008, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Zhiyuan",
+        "short_name": "Zhao Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physics, Zhejiang University of Science and Technology, Hangzhou310008, China."
+        ]
+      },
+      {
+        "full_name": "Feng, Mei",
+        "short_name": "Feng M",
+        "identifiers": [
+          "0009-0007-8377-6945"
+        ],
+        "affiliations": [
+          "Department of Physics, Zhejiang University of Science and Technology, Hangzhou310008, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yan",
+        "short_name": "Wang Y",
+        "identifiers": [
+          "0009-0005-5083-1050"
+        ],
+        "affiliations": [
+          "Department of Physics, Zhejiang University of Science and Technology, Hangzhou310008, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Xiaogang",
+        "short_name": "Wang X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physics, Zhejiang University of Science and Technology, Hangzhou310008, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Bijun",
+        "short_name": "Xu B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physics, Zhejiang University of Science and Technology, Hangzhou310008, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Xiaojun",
+        "short_name": "Xu X",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Bioinformatics and Medical Engineering, Jiangsu University of Technology, Changzhou213001, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Tingting",
+        "short_name": "Sun T",
+        "identifiers": [
+          "0000-0003-1388-3458"
+        ],
+        "affiliations": [
+          "Department of Physics, Zhejiang University of Science and Technology, Hangzhou310008, China.",
+          "Zhejiang Key Laboratory of Biomedical Intelligent Computing Technology, Hangzhou310008, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of chemical information and modeling"
+    ],
+    "journal_abbrev": [
+      "J Chem Inf Model"
+    ],
+    "pub_date": "2026 Sep 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/22 23:29",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42906042"
+    ],
+    "review": [
+      "42906042"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/jcisd8/article-lookup/doi/10.1021/acs.jcim.6c02039",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

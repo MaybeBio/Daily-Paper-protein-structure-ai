@@ -1,0 +1,33 @@
+{
+  "source": "arxiv",
+  "source_id": "2610.26009v1",
+  "title": "ProtGlycanDock: Towards Accurate Protein-Glycan Docking with Tailored Dataset, Benchmark and Model",
+  "doi": "",
+  "abstract": "Performing accurate protein-glycan docking is critical to understanding protein-glycan interactions which govern many biological processes. However, this important task is hampered by the lack of tailored datasets, benchmarks and models for protein-glycan docking. To fill this blank, we first curate a standard benchmark ProtGlycanDock for training and evaluating protein-glycan docking models under both protein and glycan generalization settings. On this benchmark, we evaluate ten models in three categories, physics-based docking methods, machine-learning-based docking models and molecular structure prediction models. To obtain more precise binding poses, we further propose two finetuning techniques to inject the knowledge of glycan conformations into a general-purpose molecular structure prediction model. These two techniques respectively augment model inputs with glycan topological features and refine glycan binding pose with a glycan energy loss. Benchmark results show the superiority of AlphaFold 3 among existing methods, and the two proposed finetuning techniques can be well combined to achieve a state-of-the-art model for protein-glycan docking. Also, we perform stratified benchmark analysis and case studies to better understand the strengths and weaknesses of current models, providing insights for future model improvements. We maintain datasets at https://huggingface.co/datasets/ProtGlycanDock/ProtGlycanDock and source codes at https://github.com/kasawa1234/ProtGlycanDock",
+  "authors": [
+    "Minghao Xu",
+    "Jiaze Song",
+    "Jinyu Wang",
+    "Wentao Zhang"
+  ],
+  "published_date": "2026-10-19T08:33:24Z",
+  "updated_date": "2026-10-19T08:33:24Z",
+  "journal": "",
+  "category": "cs.LG",
+  "landing_url": "https://arxiv.org/abs/2610.26009v1",
+  "pdf_url": "https://arxiv.org/pdf/2610.26009v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cs.LG"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2610.26009v1",
+    "raw_categories": [
+      "cs.LG"
+    ],
+    "journal_ref": ""
+  }
+}

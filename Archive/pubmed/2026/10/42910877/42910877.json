@@ -1,0 +1,113 @@
+{
+  "identity": {
+    "pmid": "42910877",
+    "doi": "10.1021/acs.jpcb.6c03754",
+    "title": "Molecular Conformation as a Determinant of Self-Assembly in Sequence-Isomeric Tripeptides."
+  },
+  "content": {
+    "abstract": "In this work, we evaluate whether computed conformational ensembles of seven tripeptides horizontal line the six C-terminal amidated D/Y/F sequence isomers and the closely related sequence FFD horizontal line are informative of their self-assembly propensity. Using all-atom molecular dynamics (AA-MD) simulations and intramolecular side-chain dihedral angles as a collective variable, we calculate conformational free-energy landscapes (FELs) for these sequences. We then introduce a novel method to numerically characterize the computed FELs and find a correlation between thermal conformational accessibility and a sequence's tendency to self-assemble or remain in solution. In addition, we evaluate and rationalize the impact of water model selection on conformational ensembles in terms of peptide-water interaction strengths, and also investigate the influence of ionization state on conformation. The presented methodology implicitly accounts for amino acid sequence context, which is a major determinant of divergent properties for sequence isomers. It also has a low associated computational cost, making use of single-molecule simulations to predict supramolecular assembly outcomes. These features are an important advancement toward a general scheme for the theory-informed design of peptide materials.",
+    "keywords": [],
+    "mesh_terms": [
+      "Molecular Dynamics Simulation",
+      "*Oligopeptides/chemistry",
+      "Isomerism",
+      "Thermodynamics",
+      "Protein Conformation",
+      "Water/chemistry",
+      "Amino Acid Sequence"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Li, Zhuojun",
+        "Ulijn, Rein V",
+        "Swanson, Hamish W A"
+      ],
+      "short_names": [
+        "Li Z",
+        "Ulijn RV",
+        "Swanson HWA"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-7138-1213",
+        "ORCID: 0000-0002-3075-3199"
+      ],
+      "affiliations": [
+        "Advanced Science Research Center (ASRC) at the Graduate Center of the City University of New York , 85 St Nicholas Terrace, New York, New York10031, United States.",
+        "Department of Chemistry, Hunter College, City University of New York, 695 Park Avenue, New York, New York10065, United States.",
+        "Advanced Science Research Center (ASRC) at the Graduate Center of the City University of New York , 85 St Nicholas Terrace, New York, New York10031, United States.",
+        "Department of Chemistry, Hunter College, City University of New York, 695 Park Avenue, New York, New York10065, United States.",
+        "Ph.D. Programs in Chemistry and Biochemistry, The Graduate Center of the City University of New York, New York, New York10016, United States.",
+        "Advanced Science Research Center (ASRC) at the Graduate Center of the City University of New York , 85 St Nicholas Terrace, New York, New York10031, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Li, Zhuojun",
+        "short_name": "Li Z",
+        "identifiers": [],
+        "affiliations": [
+          "Advanced Science Research Center (ASRC) at the Graduate Center of the City University of New York , 85 St Nicholas Terrace, New York, New York10031, United States.",
+          "Department of Chemistry, Hunter College, City University of New York, 695 Park Avenue, New York, New York10065, United States."
+        ]
+      },
+      {
+        "full_name": "Ulijn, Rein V",
+        "short_name": "Ulijn RV",
+        "identifiers": [
+          "0000-0002-7138-1213"
+        ],
+        "affiliations": [
+          "Advanced Science Research Center (ASRC) at the Graduate Center of the City University of New York , 85 St Nicholas Terrace, New York, New York10031, United States.",
+          "Department of Chemistry, Hunter College, City University of New York, 695 Park Avenue, New York, New York10065, United States.",
+          "Ph.D. Programs in Chemistry and Biochemistry, The Graduate Center of the City University of New York, New York, New York10016, United States."
+        ]
+      },
+      {
+        "full_name": "Swanson, Hamish W A",
+        "short_name": "Swanson HWA",
+        "identifiers": [
+          "0000-0002-3075-3199"
+        ],
+        "affiliations": [
+          "Advanced Science Research Center (ASRC) at the Graduate Center of the City University of New York , 85 St Nicholas Terrace, New York, New York10031, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The journal of physical chemistry. B"
+    ],
+    "journal_abbrev": [
+      "J Phys Chem B"
+    ],
+    "pub_date": "2026 Oct 22",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 18:31",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42910877"
+    ],
+    "review": [
+      "42910877"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

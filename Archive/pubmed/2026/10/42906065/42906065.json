@@ -1,0 +1,251 @@
+{
+  "identity": {
+    "pmid": "42906065",
+    "doi": "10.1021/acs.jcim.6c01759",
+    "title": "HelixDTA: Dual-Branch Sequence-Structure Learning with Complete Target Structures for Robust and Interpretable Drug-Target Affinity Prediction."
+  },
+  "content": {
+    "abstract": "Accurate prediction of drug-target affinity (DTA) is crucial for accelerating the discovery of drug candidates. Despite recent advances in machine learning methods, existing models often rely solely on either sequence information or protein pocket structures. This limitation prevents these models from fully capturing the critical three-dimensional (3D) physical information that governs molecular recognition, thus failing to meet the high-precision demands of drug discovery. To address this, we introduce HelixDTA, a deep learning framework featuring a parallel dual-branch architecture that independently learns representations from two distinct but complementary modalities: sequence context and complete target structures. By integrating sequence-derived features with structure-derived features at the prediction layer, this architecture preserves modality-specific insights while characterizing drug-target interactions more comprehensively. HelixDTA achieved strong and competitive performance on the Davis and KIBA benchmarks and maintained clear advantages across most similarity-based cold-start settings, demonstrating robust generalization to compounds with unseen scaffolds and novel protein targets. Furthermore, its built-in attention mechanism enhances interpretability by highlighting molecular regions that contribute to affinity prediction. Finally, a WRN case study demonstrates the potential use of HelixDTA for structure-aware allosteric candidate prioritization by integrating complete target-level structural context with docking-based pose inspection. In conclusion, HelixDTA offers a highly accurate, interpretable, and robust solution for DTA prediction. It highlights the value of integrating structural context with sequence-derived information and demonstrates significant potential to empower precision drug design and accelerate the drug discovery pipeline.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Drug Discovery/methods",
+      "*Proteins/chemistry/metabolism",
+      "*Deep Learning",
+      "Protein Conformation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Lou, Shang",
+        "Li, Xuhua",
+        "Peng, Yujie",
+        "Yuan, Yuan",
+        "Peng, Bo",
+        "Yi, Yingyu",
+        "Zhang, Xuchao",
+        "Zhao, Hailong",
+        "Wang, Beilei",
+        "Li, Kun",
+        "Qian, Hong",
+        "Ren, Tao",
+        "Gu, Hongcang",
+        "Zhang, Fan"
+      ],
+      "short_names": [
+        "Lou S",
+        "Li X",
+        "Peng Y",
+        "Yuan Y",
+        "Peng B",
+        "Yi Y",
+        "Zhang X",
+        "Zhao H",
+        "Wang B",
+        "Li K",
+        "Qian H",
+        "Ren T",
+        "Gu H",
+        "Zhang F"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-1439-7606",
+        "ORCID: 0000-0002-4627-7019"
+      ],
+      "affiliations": [
+        "Hefei Cancer Hospital of CAS, Institute of Health and Medical Technology, Hefei Institutes of Physical Science, Chinese Academy of Sciences, Hefei, Anhui Province230031, China.",
+        "Science Island Branch, Graduate School of USTC, University of Science and Technology of China, Hefei, Anhui Province230026, China.",
+        "Hefei Cancer Hospital of CAS, Institute of Health and Medical Technology, Hefei Institutes of Physical Science, Chinese Academy of Sciences, Hefei, Anhui Province230031, China.",
+        "Science Island Branch, Graduate School of USTC, University of Science and Technology of China, Hefei, Anhui Province230026, China.",
+        "Hefei Cancer Hospital of CAS, Institute of Health and Medical Technology, Hefei Institutes of Physical Science, Chinese Academy of Sciences, Hefei, Anhui Province230031, China.",
+        "Science Island Branch, Graduate School of USTC, University of Science and Technology of China, Hefei, Anhui Province230026, China.",
+        "Hefei Cancer Hospital of CAS, Institute of Health and Medical Technology, Hefei Institutes of Physical Science, Chinese Academy of Sciences, Hefei, Anhui Province230031, China.",
+        "Science Island Branch, Graduate School of USTC, University of Science and Technology of China, Hefei, Anhui Province230026, China.",
+        "Qingdao Institute of Bioenergy and Bioprocess Technology, Chinese Academy of Sciences, Qingdao, Shandong Province266000, China.",
+        "Hefei Cancer Hospital of CAS, Institute of Health and Medical Technology, Hefei Institutes of Physical Science, Chinese Academy of Sciences, Hefei, Anhui Province230031, China.",
+        "Science Island Branch, Graduate School of USTC, University of Science and Technology of China, Hefei, Anhui Province230026, China.",
+        "Faculty of Computing, Harbin Institute of Technology, Harbin150001, China.",
+        "Hefei Cancer Hospital of CAS, Institute of Health and Medical Technology, Hefei Institutes of Physical Science, Chinese Academy of Sciences, Hefei, Anhui Province230031, China.",
+        "Science Island Branch, Graduate School of USTC, University of Science and Technology of China, Hefei, Anhui Province230026, China.",
+        "Hefei Cancer Hospital of CAS, Institute of Health and Medical Technology, Hefei Institutes of Physical Science, Chinese Academy of Sciences, Hefei, Anhui Province230031, China.",
+        "Science Island Branch, Graduate School of USTC, University of Science and Technology of China, Hefei, Anhui Province230026, China.",
+        "Anhui Zhianxin Information Technology Co., Ltd, Hefei, Anhui Province230092, China.",
+        "French Institute of Time and Space Acupuncture, Qianhong Chinese Medicine Clinic, Paris75003, France.",
+        "PreceDo Biotechnology Co., Ltd, Hefei, Anhui Province230092, China.",
+        "Hefei Cancer Hospital of CAS, Institute of Health and Medical Technology, Hefei Institutes of Physical Science, Chinese Academy of Sciences, Hefei, Anhui Province230031, China.",
+        "Science Island Branch, Graduate School of USTC, University of Science and Technology of China, Hefei, Anhui Province230026, China.",
+        "Hefei Cancer Hospital of CAS, Institute of Health and Medical Technology, Hefei Institutes of Physical Science, Chinese Academy of Sciences, Hefei, Anhui Province230031, China.",
+        "Science Island Branch, Graduate School of USTC, University of Science and Technology of China, Hefei, Anhui Province230026, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Lou, Shang",
+        "short_name": "Lou S",
+        "identifiers": [],
+        "affiliations": [
+          "Hefei Cancer Hospital of CAS, Institute of Health and Medical Technology, Hefei Institutes of Physical Science, Chinese Academy of Sciences, Hefei, Anhui Province230031, China.",
+          "Science Island Branch, Graduate School of USTC, University of Science and Technology of China, Hefei, Anhui Province230026, China."
+        ]
+      },
+      {
+        "full_name": "Li, Xuhua",
+        "short_name": "Li X",
+        "identifiers": [],
+        "affiliations": [
+          "Hefei Cancer Hospital of CAS, Institute of Health and Medical Technology, Hefei Institutes of Physical Science, Chinese Academy of Sciences, Hefei, Anhui Province230031, China.",
+          "Science Island Branch, Graduate School of USTC, University of Science and Technology of China, Hefei, Anhui Province230026, China."
+        ]
+      },
+      {
+        "full_name": "Peng, Yujie",
+        "short_name": "Peng Y",
+        "identifiers": [],
+        "affiliations": [
+          "Hefei Cancer Hospital of CAS, Institute of Health and Medical Technology, Hefei Institutes of Physical Science, Chinese Academy of Sciences, Hefei, Anhui Province230031, China.",
+          "Science Island Branch, Graduate School of USTC, University of Science and Technology of China, Hefei, Anhui Province230026, China."
+        ]
+      },
+      {
+        "full_name": "Yuan, Yuan",
+        "short_name": "Yuan Y",
+        "identifiers": [],
+        "affiliations": [
+          "Hefei Cancer Hospital of CAS, Institute of Health and Medical Technology, Hefei Institutes of Physical Science, Chinese Academy of Sciences, Hefei, Anhui Province230031, China.",
+          "Science Island Branch, Graduate School of USTC, University of Science and Technology of China, Hefei, Anhui Province230026, China."
+        ]
+      },
+      {
+        "full_name": "Peng, Bo",
+        "short_name": "Peng B",
+        "identifiers": [],
+        "affiliations": [
+          "Qingdao Institute of Bioenergy and Bioprocess Technology, Chinese Academy of Sciences, Qingdao, Shandong Province266000, China."
+        ]
+      },
+      {
+        "full_name": "Yi, Yingyu",
+        "short_name": "Yi Y",
+        "identifiers": [],
+        "affiliations": [
+          "Hefei Cancer Hospital of CAS, Institute of Health and Medical Technology, Hefei Institutes of Physical Science, Chinese Academy of Sciences, Hefei, Anhui Province230031, China.",
+          "Science Island Branch, Graduate School of USTC, University of Science and Technology of China, Hefei, Anhui Province230026, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Xuchao",
+        "short_name": "Zhang X",
+        "identifiers": [],
+        "affiliations": [
+          "Faculty of Computing, Harbin Institute of Technology, Harbin150001, China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Hailong",
+        "short_name": "Zhao H",
+        "identifiers": [],
+        "affiliations": [
+          "Hefei Cancer Hospital of CAS, Institute of Health and Medical Technology, Hefei Institutes of Physical Science, Chinese Academy of Sciences, Hefei, Anhui Province230031, China.",
+          "Science Island Branch, Graduate School of USTC, University of Science and Technology of China, Hefei, Anhui Province230026, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Beilei",
+        "short_name": "Wang B",
+        "identifiers": [],
+        "affiliations": [
+          "Hefei Cancer Hospital of CAS, Institute of Health and Medical Technology, Hefei Institutes of Physical Science, Chinese Academy of Sciences, Hefei, Anhui Province230031, China.",
+          "Science Island Branch, Graduate School of USTC, University of Science and Technology of China, Hefei, Anhui Province230026, China."
+        ]
+      },
+      {
+        "full_name": "Li, Kun",
+        "short_name": "Li K",
+        "identifiers": [],
+        "affiliations": [
+          "Anhui Zhianxin Information Technology Co., Ltd, Hefei, Anhui Province230092, China."
+        ]
+      },
+      {
+        "full_name": "Qian, Hong",
+        "short_name": "Qian H",
+        "identifiers": [],
+        "affiliations": [
+          "French Institute of Time and Space Acupuncture, Qianhong Chinese Medicine Clinic, Paris75003, France."
+        ]
+      },
+      {
+        "full_name": "Ren, Tao",
+        "short_name": "Ren T",
+        "identifiers": [],
+        "affiliations": [
+          "PreceDo Biotechnology Co., Ltd, Hefei, Anhui Province230092, China."
+        ]
+      },
+      {
+        "full_name": "Gu, Hongcang",
+        "short_name": "Gu H",
+        "identifiers": [
+          "0000-0002-1439-7606"
+        ],
+        "affiliations": [
+          "Hefei Cancer Hospital of CAS, Institute of Health and Medical Technology, Hefei Institutes of Physical Science, Chinese Academy of Sciences, Hefei, Anhui Province230031, China.",
+          "Science Island Branch, Graduate School of USTC, University of Science and Technology of China, Hefei, Anhui Province230026, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Fan",
+        "short_name": "Zhang F",
+        "identifiers": [
+          "0000-0002-4627-7019"
+        ],
+        "affiliations": [
+          "Hefei Cancer Hospital of CAS, Institute of Health and Medical Technology, Hefei Institutes of Physical Science, Chinese Academy of Sciences, Hefei, Anhui Province230031, China.",
+          "Science Island Branch, Graduate School of USTC, University of Science and Technology of China, Hefei, Anhui Province230026, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of chemical information and modeling"
+    ],
+    "journal_abbrev": [
+      "J Chem Inf Model"
+    ],
+    "pub_date": "2026 Sep 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/22 23:29",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42906065"
+    ],
+    "review": [
+      "42906065"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/jcisd8/article-lookup/doi/10.1021/acs.jcim.6c01759",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

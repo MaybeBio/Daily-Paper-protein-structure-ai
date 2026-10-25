@@ -1,0 +1,116 @@
+{
+  "identity": {
+    "pmid": "42918022",
+    "doi": "10.1021/acs.langmuir.6c03846",
+    "title": "How a Single-Chain Polystyrene Nanoparticle Dictates alpha-Synuclein Adsorption and Intramolecular beta-Sheet Nucleation."
+  },
+  "content": {
+    "abstract": "A growing number of studies have detected nanoplastics, particularly polystyrene (PS) nanoparticles, in human blood and various critical tissues. Nevertheless, the molecular mechanisms by which their physical size modulates the aggregation of disease-related proteins remain poorly understood. Here, using well-tempered metadynamics simulations, we demonstrate that single-chain PS nanoparticles with a degree of polymerization N collapse into spherical globules in water, following a scaling law of radius of gyration Rg  approximately  N1/3, and that their size critically determines the conformational fate of alpha-synuclein (alphaS), a key protein in Parkinson's disease. Within our single-chain simulation framework, we observe a sensitive size-dependent transition regime around N = 75 to 80 (Rg = 1.14 to 1.16 nm), where PS nanoparticles transition from insufficient surface area to a threshold capable of encapsulating the alphaS chain. The partially exposed protein chain subsequently folds into stable intramolecular beta-sheet domains, representing the initial nucleation step toward amyloid aggregation. Conversely, nanoparticles with N >/= 80 (Rg >/= 1.16 nm) present a sufficiently large hydrophobic surface to completely encapsulate alphaS through dominant hydrophobic and pi-pi interactions, effectively suppressing the intramolecular beta-sheet nucleation. These findings reveal that smaller nanoplastics may inadvertently promote protein misfolding, which may implicitly lower the likelihood of downstream intermolecular aggregation. Our work establishes a quantitative, size-dependent hazard principle for nanoplastic neurotoxicity and provides a molecular foundation for assessing the risk of environmentally derived nanoparticles in synucleinopathies.",
+    "keywords": [],
+    "mesh_terms": [
+      "*alpha-Synuclein/chemistry",
+      "*Polystyrenes/chemistry",
+      "*Nanoparticles/chemistry",
+      "Adsorption",
+      "Protein Conformation, beta-Strand",
+      "Humans",
+      "Particle Size",
+      "Molecular Dynamics Simulation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Kang",
+        "Gong, Shuai",
+        "Sheng, Yifeng",
+        "Shen, Lei"
+      ],
+      "short_names": [
+        "Wang K",
+        "Gong S",
+        "Sheng Y",
+        "Shen L"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-0450-1895"
+      ],
+      "affiliations": [
+        "School of Advanced Materials and Green Chemical Engineering, Hubei Polytechnic University, Huangshi435003, China.",
+        "Hubei Key Laboratory of Nanomedicine for Neurodegenerative Diseases, School of Future Medical Science and Technology, Institute WUT-AMU, Wuhan University of Technology, Wuhan430070, China.",
+        "Hubei Key Laboratory of Nanomedicine for Neurodegenerative Diseases, School of Future Medical Science and Technology, Institute WUT-AMU, Wuhan University of Technology, Wuhan430070, China.",
+        "Hubei Key Laboratory of Nanomedicine for Neurodegenerative Diseases, School of Future Medical Science and Technology, Institute WUT-AMU, Wuhan University of Technology, Wuhan430070, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Kang",
+        "short_name": "Wang K",
+        "identifiers": [],
+        "affiliations": [
+          "School of Advanced Materials and Green Chemical Engineering, Hubei Polytechnic University, Huangshi435003, China."
+        ]
+      },
+      {
+        "full_name": "Gong, Shuai",
+        "short_name": "Gong S",
+        "identifiers": [],
+        "affiliations": [
+          "Hubei Key Laboratory of Nanomedicine for Neurodegenerative Diseases, School of Future Medical Science and Technology, Institute WUT-AMU, Wuhan University of Technology, Wuhan430070, China."
+        ]
+      },
+      {
+        "full_name": "Sheng, Yifeng",
+        "short_name": "Sheng Y",
+        "identifiers": [],
+        "affiliations": [
+          "Hubei Key Laboratory of Nanomedicine for Neurodegenerative Diseases, School of Future Medical Science and Technology, Institute WUT-AMU, Wuhan University of Technology, Wuhan430070, China."
+        ]
+      },
+      {
+        "full_name": "Shen, Lei",
+        "short_name": "Shen L",
+        "identifiers": [
+          "0000-0002-0450-1895"
+        ],
+        "affiliations": [
+          "Hubei Key Laboratory of Nanomedicine for Neurodegenerative Diseases, School of Future Medical Science and Technology, Institute WUT-AMU, Wuhan University of Technology, Wuhan430070, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Langmuir : the ACS journal of surfaces and colloids"
+    ],
+    "journal_abbrev": [
+      "Langmuir"
+    ],
+    "pub_date": "2026 Sep 22",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:32",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42918022"
+    ],
+    "review": [
+      "42918022"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

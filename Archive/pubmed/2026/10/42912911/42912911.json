@@ -1,0 +1,154 @@
+{
+  "identity": {
+    "pmid": "42912911",
+    "doi": "10.1021/acs.jcim.6c02057",
+    "title": "REAPS: An All-Atom Receptor-Aware Geometric Deep Learning Framework for De Novo Design of Linear and Macrocyclic Peptide Binders."
+  },
+  "content": {
+    "abstract": "Peptide therapeutics occupy a critical niche between small molecules and biologics, yet the sequence design of peptide binders remains challenging because their bioactive conformations and interfacial fitness are dictated by the receptor microenvironment. Current computational approaches largely treat this as a generic inverse folding problem that relies on backbone geometry alone, overlooking the detailed physicochemical constraints of the receptor pocket. To bridge this gap, we introduce the REceptor-Aware Peptide Sequence Designer (REAPS), a geometric graph neural network that reframes sequence design for peptide binders by treating the receptor as a fully observable all-atom context. Multidimensional evaluations show that REAPS outperforms the widely used inverse folding model ProteinMPNN in sequence recovery, structural fidelity, and interface-level biophysical metrics across both linear and macrocyclic peptide binders. We further integrate REAPS with structural hallucination in a closed-loop de novo discovery pipeline, yielding peptide candidates with experimentally verified functional activity at the neurokinin-3 receptor (NK3R). The source code, model checkpoints, processed data sets, preprocessing scripts, and an example design workflow are publicly available at https://github.com/Mistletoe-git/REAPS.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Peptides/chemistry/metabolism",
+      "*Deep Learning",
+      "*Drug Design",
+      "Graph Neural Networks",
+      "Models, Molecular",
+      "*Macrocyclic Compounds/chemistry",
+      "Amino Acid Sequence",
+      "Protein Binding",
+      "Protein Conformation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Qiu, Yongkang",
+        "Qiao, Jingxin",
+        "Zhu, Lengjing",
+        "Du, Le",
+        "Yang, Shengyong",
+        "Zou, Jun"
+      ],
+      "short_names": [
+        "Qiu Y",
+        "Qiao J",
+        "Zhu L",
+        "Du L",
+        "Yang S",
+        "Zou J"
+      ],
+      "auids": [
+        "ORCID: 0009-0004-1418-6667",
+        "ORCID: 0000-0001-5147-3746"
+      ],
+      "affiliations": [
+        "Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, West China Hospital, Sichuan University, Chengdu, Sichuan610041, China.",
+        "New Cornerstone Science Laboratory, West China Hospital, Sichuan University, Chengdu, Sichuan610041, China.",
+        "Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, West China Hospital, Sichuan University, Chengdu, Sichuan610041, China.",
+        "New Cornerstone Science Laboratory, West China Hospital, Sichuan University, Chengdu, Sichuan610041, China.",
+        "Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, West China Hospital, Sichuan University, Chengdu, Sichuan610041, China.",
+        "New Cornerstone Science Laboratory, West China Hospital, Sichuan University, Chengdu, Sichuan610041, China.",
+        "Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, West China Hospital, Sichuan University, Chengdu, Sichuan610041, China.",
+        "New Cornerstone Science Laboratory, West China Hospital, Sichuan University, Chengdu, Sichuan610041, China.",
+        "Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, West China Hospital, Sichuan University, Chengdu, Sichuan610041, China.",
+        "New Cornerstone Science Laboratory, West China Hospital, Sichuan University, Chengdu, Sichuan610041, China.",
+        "Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, West China Hospital, Sichuan University, Chengdu, Sichuan610041, China.",
+        "New Cornerstone Science Laboratory, West China Hospital, Sichuan University, Chengdu, Sichuan610041, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Qiu, Yongkang",
+        "short_name": "Qiu Y",
+        "identifiers": [
+          "0009-0004-1418-6667"
+        ],
+        "affiliations": [
+          "Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, West China Hospital, Sichuan University, Chengdu, Sichuan610041, China.",
+          "New Cornerstone Science Laboratory, West China Hospital, Sichuan University, Chengdu, Sichuan610041, China."
+        ]
+      },
+      {
+        "full_name": "Qiao, Jingxin",
+        "short_name": "Qiao J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, West China Hospital, Sichuan University, Chengdu, Sichuan610041, China.",
+          "New Cornerstone Science Laboratory, West China Hospital, Sichuan University, Chengdu, Sichuan610041, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Lengjing",
+        "short_name": "Zhu L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, West China Hospital, Sichuan University, Chengdu, Sichuan610041, China.",
+          "New Cornerstone Science Laboratory, West China Hospital, Sichuan University, Chengdu, Sichuan610041, China."
+        ]
+      },
+      {
+        "full_name": "Du, Le",
+        "short_name": "Du L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, West China Hospital, Sichuan University, Chengdu, Sichuan610041, China.",
+          "New Cornerstone Science Laboratory, West China Hospital, Sichuan University, Chengdu, Sichuan610041, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Shengyong",
+        "short_name": "Yang S",
+        "identifiers": [
+          "0000-0001-5147-3746"
+        ],
+        "affiliations": [
+          "Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, West China Hospital, Sichuan University, Chengdu, Sichuan610041, China.",
+          "New Cornerstone Science Laboratory, West China Hospital, Sichuan University, Chengdu, Sichuan610041, China."
+        ]
+      },
+      {
+        "full_name": "Zou, Jun",
+        "short_name": "Zou J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotherapy, Cancer Center and State Key Laboratory of Biotherapy, West China Hospital, Sichuan University, Chengdu, Sichuan610041, China.",
+          "New Cornerstone Science Laboratory, West China Hospital, Sichuan University, Chengdu, Sichuan610041, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of chemical information and modeling"
+    ],
+    "journal_abbrev": [
+      "J Chem Inf Model"
+    ],
+    "pub_date": "2026 Oct 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 18:31",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42912911"
+    ],
+    "review": [
+      "42912911"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

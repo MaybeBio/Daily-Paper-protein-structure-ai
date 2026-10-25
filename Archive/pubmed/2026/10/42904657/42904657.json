@@ -1,0 +1,255 @@
+{
+  "identity": {
+    "pmid": "42904657",
+    "doi": "10.1128/mbio.02360-26",
+    "title": "Competition-dominated microbial interactions and adaptive mutations enhance synthetic denitrifying community functions."
+  },
+  "content": {
+    "abstract": "Understanding how interspecific interactions shape ecosystem functioning is a fundamental and longstanding question in ecology, especially along an evolutionary trajectory. Here, we used experimental evolution to evaluate how microbial interactions and adaptive mutations shaped community-level functions in synthetic denitrifying communities (SDCs) along a species richness gradient (one, two, and six species). Our results showed that competitive microbial interactions were observed and significantly (P < 0.05) enhanced denitrification rates in the six-species SDCs during experimental evolution. Genome and metagenome re-sequencing analysis revealed the highest fixed non-synonymous and frameshift mutations within the six-species SDCs, among genes involved in nutrient transport, DNA repair, and secretion pathways. AlphaFold2 protein structure prediction, molecular docking, and Evo 2 host fitness prediction indicated that the fixed mutations could improve host strain fitness, and partial least squares path modeling (PLS-PM) further revealed that interspecific competition accelerated adaptive mutations, thereby reinforcing community-level functions, indicating potential Red Queen dynamics. This study offers novel insights into our understanding of eco-evolutionary mechanisms linking species richness, microbial interactions, adaptive mutations, and community functions, with important implications for active nitrogen removal and greenhouse gas mitigation in diverse ecosystems. IMPORTANCE: Microbial diversity is widely recognized as a key driver of ecosystem functioning, yet how species interactions shape ecosystem functions through evolutionary processes remains poorly understood. Using synthetic denitrifying communities with different levels of species richness, we show that interspecific competition can accelerate adaptive mutations and enhance community-level denitrification over evolutionary timescales. Communities with higher species richness accumulated more adaptive mutations, particularly in genes associated with nutrient transport, DNA repair, and secretion systems, ultimately improving microbial fitness and denitrification performance. Our findings provide direct experimental evidence that microbial competition can promote functional adaptation, consistent with the Red Queen hypothesis. This study advances our understanding of the eco-evolutionary mechanisms linking species richness, microbial interactions, adaptive evolution, and ecosystem functioning.",
+    "keywords": [
+      "adaptive mutations",
+      "community function",
+      "experimental evolution",
+      "microbial interaction",
+      "species richness",
+      "synthetic denitrifying community"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhao, Zhenrui",
+        "Hu, Ruiwen",
+        "Zhou, Min",
+        "Guan, Xiaotong",
+        "Huang, Huaxia",
+        "Ding, Lang",
+        "Qian, Lu",
+        "Ming, Yuzhen",
+        "Niu, Mingyang",
+        "Wu, Kun",
+        "Yu, Xiaoli",
+        "Yan, Qingyun",
+        "Shu, Longfei",
+        "He, Qiang",
+        "He, Zhili"
+      ],
+      "short_names": [
+        "Zhao Z",
+        "Hu R",
+        "Zhou M",
+        "Guan X",
+        "Huang H",
+        "Ding L",
+        "Qian L",
+        "Ming Y",
+        "Niu M",
+        "Wu K",
+        "Yu X",
+        "Yan Q",
+        "Shu L",
+        "He Q",
+        "He Z"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-1510-9263",
+        "ORCID: 0009-0007-1039-6490",
+        "ORCID: 0000-0003-2330-5117",
+        "ORCID: 0000-0001-9683-906X",
+        "ORCID: 0000-0001-8225-7333"
+      ],
+      "affiliations": [
+        "School of Marine Sciences, Marine Synthetic Ecology Research Center, Southern Marine Science and Engineering Guangdong Laboratory (Zhuhai), the China-ASEAN Belt and Road Joint Laboratory on Mariculture Technology, School of Environmental Science and Engineering, Sun Yat-sen University, Zhuhai, China. RINGGOLD: 590852. ROR: https://ror.org/03swgqh13",
+        "Environmental Genomics and Systems Biology Division, Lawrence Berkeley National Laboratory, Berkeley, California, USA. RINGGOLD: 1666. ROR: https://ror.org/02jbv0t02",
+        "School of Marine Sciences, Marine Synthetic Ecology Research Center, Southern Marine Science and Engineering Guangdong Laboratory (Zhuhai), the China-ASEAN Belt and Road Joint Laboratory on Mariculture Technology, School of Environmental Science and Engineering, Sun Yat-sen University, Zhuhai, China. RINGGOLD: 590852. ROR: https://ror.org/03swgqh13",
+        "School of Marine Sciences, Marine Synthetic Ecology Research Center, Southern Marine Science and Engineering Guangdong Laboratory (Zhuhai), the China-ASEAN Belt and Road Joint Laboratory on Mariculture Technology, School of Environmental Science and Engineering, Sun Yat-sen University, Zhuhai, China. RINGGOLD: 590852. ROR: https://ror.org/03swgqh13",
+        "School of Marine Sciences, Marine Synthetic Ecology Research Center, Southern Marine Science and Engineering Guangdong Laboratory (Zhuhai), the China-ASEAN Belt and Road Joint Laboratory on Mariculture Technology, School of Environmental Science and Engineering, Sun Yat-sen University, Zhuhai, China. RINGGOLD: 590852. ROR: https://ror.org/03swgqh13",
+        "School of Marine Sciences, Marine Synthetic Ecology Research Center, Southern Marine Science and Engineering Guangdong Laboratory (Zhuhai), the China-ASEAN Belt and Road Joint Laboratory on Mariculture Technology, School of Environmental Science and Engineering, Sun Yat-sen University, Zhuhai, China. RINGGOLD: 590852. ROR: https://ror.org/03swgqh13",
+        "School of Marine Sciences, Marine Synthetic Ecology Research Center, Southern Marine Science and Engineering Guangdong Laboratory (Zhuhai), the China-ASEAN Belt and Road Joint Laboratory on Mariculture Technology, School of Environmental Science and Engineering, Sun Yat-sen University, Zhuhai, China. RINGGOLD: 590852. ROR: https://ror.org/03swgqh13",
+        "School of Marine Sciences, Marine Synthetic Ecology Research Center, Southern Marine Science and Engineering Guangdong Laboratory (Zhuhai), the China-ASEAN Belt and Road Joint Laboratory on Mariculture Technology, School of Environmental Science and Engineering, Sun Yat-sen University, Zhuhai, China. RINGGOLD: 590852. ROR: https://ror.org/03swgqh13",
+        "School of Marine Sciences, Marine Synthetic Ecology Research Center, Southern Marine Science and Engineering Guangdong Laboratory (Zhuhai), the China-ASEAN Belt and Road Joint Laboratory on Mariculture Technology, School of Environmental Science and Engineering, Sun Yat-sen University, Zhuhai, China. RINGGOLD: 590852. ROR: https://ror.org/03swgqh13",
+        "School of Marine Sciences, Marine Synthetic Ecology Research Center, Southern Marine Science and Engineering Guangdong Laboratory (Zhuhai), the China-ASEAN Belt and Road Joint Laboratory on Mariculture Technology, School of Environmental Science and Engineering, Sun Yat-sen University, Zhuhai, China. RINGGOLD: 590852. ROR: https://ror.org/03swgqh13",
+        "School of Marine Sciences, Marine Synthetic Ecology Research Center, Southern Marine Science and Engineering Guangdong Laboratory (Zhuhai), the China-ASEAN Belt and Road Joint Laboratory on Mariculture Technology, School of Environmental Science and Engineering, Sun Yat-sen University, Zhuhai, China. RINGGOLD: 590852. ROR: https://ror.org/03swgqh13",
+        "School of Marine Sciences, Marine Synthetic Ecology Research Center, Southern Marine Science and Engineering Guangdong Laboratory (Zhuhai), the China-ASEAN Belt and Road Joint Laboratory on Mariculture Technology, School of Environmental Science and Engineering, Sun Yat-sen University, Zhuhai, China. RINGGOLD: 590852. ROR: https://ror.org/03swgqh13",
+        "School of Marine Sciences, Marine Synthetic Ecology Research Center, Southern Marine Science and Engineering Guangdong Laboratory (Zhuhai), the China-ASEAN Belt and Road Joint Laboratory on Mariculture Technology, School of Environmental Science and Engineering, Sun Yat-sen University, Zhuhai, China. RINGGOLD: 590852. ROR: https://ror.org/03swgqh13",
+        "Department of Civil and Environmental Engineering, University of Tennessee, Knoxville, Tennessee, USA. RINGGOLD: 4292. ROR: https://ror.org/020f3ap87",
+        "School of Marine Sciences, Marine Synthetic Ecology Research Center, Southern Marine Science and Engineering Guangdong Laboratory (Zhuhai), the China-ASEAN Belt and Road Joint Laboratory on Mariculture Technology, School of Environmental Science and Engineering, Sun Yat-sen University, Zhuhai, China. RINGGOLD: 590852. ROR: https://ror.org/03swgqh13"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhao, Zhenrui",
+        "short_name": "Zhao Z",
+        "identifiers": [
+          "0000-0003-1510-9263"
+        ],
+        "affiliations": [
+          "School of Marine Sciences, Marine Synthetic Ecology Research Center, Southern Marine Science and Engineering Guangdong Laboratory (Zhuhai), the China-ASEAN Belt and Road Joint Laboratory on Mariculture Technology, School of Environmental Science and Engineering, Sun Yat-sen University, Zhuhai, China."
+        ]
+      },
+      {
+        "full_name": "Hu, Ruiwen",
+        "short_name": "Hu R",
+        "identifiers": [
+          "0009-0007-1039-6490"
+        ],
+        "affiliations": [
+          "Environmental Genomics and Systems Biology Division, Lawrence Berkeley National Laboratory, Berkeley, California, USA."
+        ]
+      },
+      {
+        "full_name": "Zhou, Min",
+        "short_name": "Zhou M",
+        "identifiers": [],
+        "affiliations": [
+          "School of Marine Sciences, Marine Synthetic Ecology Research Center, Southern Marine Science and Engineering Guangdong Laboratory (Zhuhai), the China-ASEAN Belt and Road Joint Laboratory on Mariculture Technology, School of Environmental Science and Engineering, Sun Yat-sen University, Zhuhai, China."
+        ]
+      },
+      {
+        "full_name": "Guan, Xiaotong",
+        "short_name": "Guan X",
+        "identifiers": [],
+        "affiliations": [
+          "School of Marine Sciences, Marine Synthetic Ecology Research Center, Southern Marine Science and Engineering Guangdong Laboratory (Zhuhai), the China-ASEAN Belt and Road Joint Laboratory on Mariculture Technology, School of Environmental Science and Engineering, Sun Yat-sen University, Zhuhai, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Huaxia",
+        "short_name": "Huang H",
+        "identifiers": [],
+        "affiliations": [
+          "School of Marine Sciences, Marine Synthetic Ecology Research Center, Southern Marine Science and Engineering Guangdong Laboratory (Zhuhai), the China-ASEAN Belt and Road Joint Laboratory on Mariculture Technology, School of Environmental Science and Engineering, Sun Yat-sen University, Zhuhai, China."
+        ]
+      },
+      {
+        "full_name": "Ding, Lang",
+        "short_name": "Ding L",
+        "identifiers": [],
+        "affiliations": [
+          "School of Marine Sciences, Marine Synthetic Ecology Research Center, Southern Marine Science and Engineering Guangdong Laboratory (Zhuhai), the China-ASEAN Belt and Road Joint Laboratory on Mariculture Technology, School of Environmental Science and Engineering, Sun Yat-sen University, Zhuhai, China."
+        ]
+      },
+      {
+        "full_name": "Qian, Lu",
+        "short_name": "Qian L",
+        "identifiers": [],
+        "affiliations": [
+          "School of Marine Sciences, Marine Synthetic Ecology Research Center, Southern Marine Science and Engineering Guangdong Laboratory (Zhuhai), the China-ASEAN Belt and Road Joint Laboratory on Mariculture Technology, School of Environmental Science and Engineering, Sun Yat-sen University, Zhuhai, China."
+        ]
+      },
+      {
+        "full_name": "Ming, Yuzhen",
+        "short_name": "Ming Y",
+        "identifiers": [
+          "0000-0003-2330-5117"
+        ],
+        "affiliations": [
+          "School of Marine Sciences, Marine Synthetic Ecology Research Center, Southern Marine Science and Engineering Guangdong Laboratory (Zhuhai), the China-ASEAN Belt and Road Joint Laboratory on Mariculture Technology, School of Environmental Science and Engineering, Sun Yat-sen University, Zhuhai, China."
+        ]
+      },
+      {
+        "full_name": "Niu, Mingyang",
+        "short_name": "Niu M",
+        "identifiers": [],
+        "affiliations": [
+          "School of Marine Sciences, Marine Synthetic Ecology Research Center, Southern Marine Science and Engineering Guangdong Laboratory (Zhuhai), the China-ASEAN Belt and Road Joint Laboratory on Mariculture Technology, School of Environmental Science and Engineering, Sun Yat-sen University, Zhuhai, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Kun",
+        "short_name": "Wu K",
+        "identifiers": [],
+        "affiliations": [
+          "School of Marine Sciences, Marine Synthetic Ecology Research Center, Southern Marine Science and Engineering Guangdong Laboratory (Zhuhai), the China-ASEAN Belt and Road Joint Laboratory on Mariculture Technology, School of Environmental Science and Engineering, Sun Yat-sen University, Zhuhai, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Xiaoli",
+        "short_name": "Yu X",
+        "identifiers": [],
+        "affiliations": [
+          "School of Marine Sciences, Marine Synthetic Ecology Research Center, Southern Marine Science and Engineering Guangdong Laboratory (Zhuhai), the China-ASEAN Belt and Road Joint Laboratory on Mariculture Technology, School of Environmental Science and Engineering, Sun Yat-sen University, Zhuhai, China."
+        ]
+      },
+      {
+        "full_name": "Yan, Qingyun",
+        "short_name": "Yan Q",
+        "identifiers": [],
+        "affiliations": [
+          "School of Marine Sciences, Marine Synthetic Ecology Research Center, Southern Marine Science and Engineering Guangdong Laboratory (Zhuhai), the China-ASEAN Belt and Road Joint Laboratory on Mariculture Technology, School of Environmental Science and Engineering, Sun Yat-sen University, Zhuhai, China."
+        ]
+      },
+      {
+        "full_name": "Shu, Longfei",
+        "short_name": "Shu L",
+        "identifiers": [
+          "0000-0001-9683-906X"
+        ],
+        "affiliations": [
+          "School of Marine Sciences, Marine Synthetic Ecology Research Center, Southern Marine Science and Engineering Guangdong Laboratory (Zhuhai), the China-ASEAN Belt and Road Joint Laboratory on Mariculture Technology, School of Environmental Science and Engineering, Sun Yat-sen University, Zhuhai, China."
+        ]
+      },
+      {
+        "full_name": "He, Qiang",
+        "short_name": "He Q",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Civil and Environmental Engineering, University of Tennessee, Knoxville, Tennessee, USA."
+        ]
+      },
+      {
+        "full_name": "He, Zhili",
+        "short_name": "He Z",
+        "identifiers": [
+          "0000-0001-8225-7333"
+        ],
+        "affiliations": [
+          "School of Marine Sciences, Marine Synthetic Ecology Research Center, Southern Marine Science and Engineering Guangdong Laboratory (Zhuhai), the China-ASEAN Belt and Road Joint Laboratory on Mariculture Technology, School of Environmental Science and Engineering, Sun Yat-sen University, Zhuhai, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "mBio"
+    ],
+    "journal_abbrev": [
+      "mBio"
+    ],
+    "pub_date": "2026 Oct 21",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/22 17:33",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42904657"
+    ],
+    "review": [
+      "42904657"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://journals.asm.org/doi/10.1128/mbio.02360-26?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

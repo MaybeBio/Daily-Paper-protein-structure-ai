@@ -1,0 +1,218 @@
+{
+  "identity": {
+    "pmid": "42916688",
+    "doi": "10.1021/acs.jmedchem.6c00581",
+    "title": "Predicting the Post-translational Modification Effects on Protein-Ligand Interactions via End-Point Binding Free Energy Calculation: Database Creation and Strategy Optimization."
+  },
+  "content": {
+    "abstract": "Post-translational modifications (PTMs) frequently alter protein structures and drug-binding affinities, yet a systematic dataset is lacking. To address this gap, we curate the experimentally validated PTM-mediated Ligand Activity Change (PLAC) dataset and find that the interaction-affecting PTMs usually occur spatially closer to ligands than the interaction-neutral ones. To accurately characterize the PTMs' effects on protein-ligand interactions, we evaluate end-point binding free-energy protocols (MM/GBSA) with varying molecular dynamics (MD) simulation times and dielectric constants. Our results show that 100 ns MD with a high dielectric constant (epsilonin = 4) yields the strongest correlation with experimental data (rp = -0.70), whereas a low dielectric constant (epsilonin = 1) better classifies a PTM's effect (enhancing, weakening, or neutral). Moreover, a mechanism analysis shows that long MD simulations can capture the conformational difference between the wild-type and PTM-involved systems, thereby improving the prediction result. The PLAC dataset is provided to advance PTM-informed drug design.",
+    "keywords": [
+      "MD",
+      "MM/PB(GB)SA",
+      "PLI",
+      "PTM",
+      "database"
+    ],
+    "mesh_terms": [
+      "Ligands",
+      "Molecular Dynamics Simulation",
+      "*Protein Processing, Post-Translational",
+      "*Proteins/chemistry/metabolism",
+      "Protein Binding",
+      "Thermodynamics",
+      "Databases, Protein",
+      "Drug Design"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Zihao",
+        "Xu, Xiaowei",
+        "Wang, Zhe",
+        "Xu, Kexin",
+        "Yang, Kaimo",
+        "Jiang, Zhiliang",
+        "Yin, Chen",
+        "Wang, Yiheng",
+        "Zhao, Yun",
+        "Chen, Zhengting",
+        "Hou, Tingjun",
+        "Sun, Huiyong"
+      ],
+      "short_names": [
+        "Wang Z",
+        "Xu X",
+        "Wang Z",
+        "Xu K",
+        "Yang K",
+        "Jiang Z",
+        "Yin C",
+        "Wang Y",
+        "Zhao Y",
+        "Chen Z",
+        "Hou T",
+        "Sun H"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-1886-2728",
+        "ORCID: 0000-0001-7227-2580",
+        "ORCID: 0000-0002-7107-7481"
+      ],
+      "affiliations": [
+        "Department of Medicinal Chemistry, China Pharmaceutical University, Nanjing, Jiangsu210009, P. R. China.",
+        "Department of Medicinal Chemistry, China Pharmaceutical University, Nanjing, Jiangsu210009, P. R. China.",
+        "School of Pharmacy, Hangzhou Normal University, Hangzhou311121, P. R. China.",
+        "College of Pharmaceutical Sciences, Zhejiang University, Hangzhou, Zhejiang310058, P. R. China.",
+        "Department of Medicinal Chemistry, China Pharmaceutical University, Nanjing, Jiangsu210009, P. R. China.",
+        "Department of Medicinal Chemistry, China Pharmaceutical University, Nanjing, Jiangsu210009, P. R. China.",
+        "Department of Medicinal Chemistry, China Pharmaceutical University, Nanjing, Jiangsu210009, P. R. China.",
+        "Department of Medicinal Chemistry, China Pharmaceutical University, Nanjing, Jiangsu210009, P. R. China.",
+        "Department of Medicinal Chemistry, China Pharmaceutical University, Nanjing, Jiangsu210009, P. R. China.",
+        "Department of Medicinal Chemistry, China Pharmaceutical University, Nanjing, Jiangsu210009, P. R. China.",
+        "Department of Medicinal Chemistry, China Pharmaceutical University, Nanjing, Jiangsu210009, P. R. China.",
+        "College of Pharmaceutical Sciences, Zhejiang University, Hangzhou, Zhejiang310058, P. R. China.",
+        "Department of Medicinal Chemistry, China Pharmaceutical University, Nanjing, Jiangsu210009, P. R. China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Zihao",
+        "short_name": "Wang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicinal Chemistry, China Pharmaceutical University, Nanjing, Jiangsu210009, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Xu, Xiaowei",
+        "short_name": "Xu X",
+        "identifiers": [
+          "0000-0003-1886-2728"
+        ],
+        "affiliations": [
+          "Department of Medicinal Chemistry, China Pharmaceutical University, Nanjing, Jiangsu210009, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Wang, Zhe",
+        "short_name": "Wang Z",
+        "identifiers": [],
+        "affiliations": [
+          "School of Pharmacy, Hangzhou Normal University, Hangzhou311121, P. R. China.",
+          "College of Pharmaceutical Sciences, Zhejiang University, Hangzhou, Zhejiang310058, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Xu, Kexin",
+        "short_name": "Xu K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicinal Chemistry, China Pharmaceutical University, Nanjing, Jiangsu210009, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Yang, Kaimo",
+        "short_name": "Yang K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicinal Chemistry, China Pharmaceutical University, Nanjing, Jiangsu210009, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Jiang, Zhiliang",
+        "short_name": "Jiang Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicinal Chemistry, China Pharmaceutical University, Nanjing, Jiangsu210009, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Yin, Chen",
+        "short_name": "Yin C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicinal Chemistry, China Pharmaceutical University, Nanjing, Jiangsu210009, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Wang, Yiheng",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicinal Chemistry, China Pharmaceutical University, Nanjing, Jiangsu210009, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Yun",
+        "short_name": "Zhao Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicinal Chemistry, China Pharmaceutical University, Nanjing, Jiangsu210009, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Chen, Zhengting",
+        "short_name": "Chen Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Medicinal Chemistry, China Pharmaceutical University, Nanjing, Jiangsu210009, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Hou, Tingjun",
+        "short_name": "Hou T",
+        "identifiers": [
+          "0000-0001-7227-2580"
+        ],
+        "affiliations": [
+          "College of Pharmaceutical Sciences, Zhejiang University, Hangzhou, Zhejiang310058, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Sun, Huiyong",
+        "short_name": "Sun H",
+        "identifiers": [
+          "0000-0002-7107-7481"
+        ],
+        "affiliations": [
+          "Department of Medicinal Chemistry, China Pharmaceutical University, Nanjing, Jiangsu210009, P. R. China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of medicinal chemistry"
+    ],
+    "journal_abbrev": [
+      "J Med Chem"
+    ],
+    "pub_date": "2026 Sep 24",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42916688"
+    ],
+    "review": [
+      "42916688"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

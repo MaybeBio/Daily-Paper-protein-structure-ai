@@ -1,0 +1,192 @@
+{
+  "identity": {
+    "pmid": "42912306",
+    "doi": "10.1021/jacs.6c08027",
+    "title": "Aziridination-Based Crosslinking Enables Site-Resolved Elucidation of Lipid Binding and Protein Conformational Changes."
+  },
+  "content": {
+    "abstract": "Lipid-protein interactions play critical roles in cellular function, yet their site-resolved characterization remains challenging due to the dynamic nature of lipid binding and the limited availability of chemoselective strategies for covalently capturing native lipid-protein contacts. Here, we introduce aziridination-based lipid-protein crosslinking coupled with mass spectrometry (Azi-LPXL-MS), a chemoselective strategy that installs an N-H aziridine moiety onto acyl chains of native unsaturated lipids and enables subsequent crosslinking to proximal lysine residues using the amine-reactive reagent disuccinimidyl suberate (DSS). This integrated workflow simultaneously identifies lipid-binding sites and intraprotein peptide-peptide distance constraints, providing direct insight into lipid binding and binding-induced conformational changes within a single experiment. Application of Azi-LPXL-MS to beta-lactoglobulin (BLG) demonstrates these capabilities, consistent with known structural models, while additionally providing solution-phase and conformational information not accessible from static structures alone. The power of the method is further demonstrated in the integral membrane enzyme diacylglycerol acyltransferase 1 (DGAT1). Azi-LPXL-MS reveals phosphatidic acid (PA)-binding sites and maps lipid-dependent conformational rearrangements across both resolved and previously uncharacterized regions. These data further define an allosteric conformational network linking lipid engagement to distal structural changes. Integrated with site-directed mutagenesis and molecular docking, two potential PA-binding sites in DGAT1, located in a surface pocket and an internal chamber, were identified and functionally validated, further supporting the experimental findings. These results establish Azi-LPXL-MS as a site-resolved method for studying lipid-protein interactions, providing insight into how individual lipid species engage proteins and influence their conformations in biological systems.",
+    "keywords": [],
+    "mesh_terms": [
+      "Protein Conformation",
+      "*Aziridines/chemistry",
+      "*Lactoglobulins/chemistry/metabolism",
+      "Binding Sites",
+      "*Lipids/chemistry",
+      "*Cross-Linking Reagents/chemistry",
+      "Protein Binding",
+      "Models, Molecular",
+      "Animals"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Tsai, Chia-Lung",
+        "Tasnim, Atiya Tahira",
+        "Xi, Zhenyu",
+        "Kuo, Syuan-Ting",
+        "Ramidi, Gopal Reddy",
+        "Feng, Jiaxin",
+        "Eastabrook, Michael Ryan",
+        "Russell, David H",
+        "Sui, Xuewu",
+        "Yan, Xin"
+      ],
+      "short_names": [
+        "Tsai CL",
+        "Tasnim AT",
+        "Xi Z",
+        "Kuo ST",
+        "Ramidi GR",
+        "Feng J",
+        "Eastabrook MR",
+        "Russell DH",
+        "Sui X",
+        "Yan X"
+      ],
+      "auids": [
+        "ORCID: 0009-0008-7901-7142",
+        "ORCID: 0000-0001-7802-3948",
+        "ORCID: 0000-0003-0830-3914",
+        "ORCID: 0000-0002-8292-130X"
+      ],
+      "affiliations": [
+        "Department of Chemistry, Texas A&M University, 580 Ross Street, College Station, Texas77843, United States.",
+        "Department of Biochemistry and Biophysics, Texas A&M University, 300 Olsen Boulevard, College Station, Texas77843, United States.",
+        "Department of Chemistry, Texas A&M University, 580 Ross Street, College Station, Texas77843, United States.",
+        "Department of Chemistry, Texas A&M University, 580 Ross Street, College Station, Texas77843, United States.",
+        "Department of Chemistry, Texas A&M University, 580 Ross Street, College Station, Texas77843, United States.",
+        "Department of Chemistry, Texas A&M University, 580 Ross Street, College Station, Texas77843, United States.",
+        "Department of Chemistry, Texas A&M University, 580 Ross Street, College Station, Texas77843, United States.",
+        "Department of Chemistry, Texas A&M University, 580 Ross Street, College Station, Texas77843, United States.",
+        "Department of Biochemistry and Biophysics, Texas A&M University, 300 Olsen Boulevard, College Station, Texas77843, United States.",
+        "Department of Chemistry, Texas A&M University, 580 Ross Street, College Station, Texas77843, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Tsai, Chia-Lung",
+        "short_name": "Tsai CL",
+        "identifiers": [
+          "0009-0008-7901-7142"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Texas A&M University, 580 Ross Street, College Station, Texas77843, United States."
+        ]
+      },
+      {
+        "full_name": "Tasnim, Atiya Tahira",
+        "short_name": "Tasnim AT",
+        "identifiers": [
+          "0000-0001-7802-3948"
+        ],
+        "affiliations": [
+          "Department of Biochemistry and Biophysics, Texas A&M University, 300 Olsen Boulevard, College Station, Texas77843, United States."
+        ]
+      },
+      {
+        "full_name": "Xi, Zhenyu",
+        "short_name": "Xi Z",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Texas A&M University, 580 Ross Street, College Station, Texas77843, United States."
+        ]
+      },
+      {
+        "full_name": "Kuo, Syuan-Ting",
+        "short_name": "Kuo ST",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Texas A&M University, 580 Ross Street, College Station, Texas77843, United States."
+        ]
+      },
+      {
+        "full_name": "Ramidi, Gopal Reddy",
+        "short_name": "Ramidi GR",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Texas A&M University, 580 Ross Street, College Station, Texas77843, United States."
+        ]
+      },
+      {
+        "full_name": "Feng, Jiaxin",
+        "short_name": "Feng J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Texas A&M University, 580 Ross Street, College Station, Texas77843, United States."
+        ]
+      },
+      {
+        "full_name": "Eastabrook, Michael Ryan",
+        "short_name": "Eastabrook MR",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Texas A&M University, 580 Ross Street, College Station, Texas77843, United States."
+        ]
+      },
+      {
+        "full_name": "Russell, David H",
+        "short_name": "Russell DH",
+        "identifiers": [
+          "0000-0003-0830-3914"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Texas A&M University, 580 Ross Street, College Station, Texas77843, United States."
+        ]
+      },
+      {
+        "full_name": "Sui, Xuewu",
+        "short_name": "Sui X",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry and Biophysics, Texas A&M University, 300 Olsen Boulevard, College Station, Texas77843, United States."
+        ]
+      },
+      {
+        "full_name": "Yan, Xin",
+        "short_name": "Yan X",
+        "identifiers": [
+          "0000-0002-8292-130X"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Texas A&M University, 580 Ross Street, College Station, Texas77843, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of the American Chemical Society"
+    ],
+    "journal_abbrev": [
+      "J Am Chem Soc"
+    ],
+    "pub_date": "2026 Oct 21",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 18:31",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42912306"
+    ],
+    "review": [
+      "42912306"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

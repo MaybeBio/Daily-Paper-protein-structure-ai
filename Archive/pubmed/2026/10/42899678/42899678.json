@@ -1,0 +1,210 @@
+{
+  "identity": {
+    "pmid": "42899678",
+    "doi": "10.1128/mbio.02261-26",
+    "title": "Cross-linking mass spectrometry guided structure prediction of disordered Encephalitozoon hellem proteins."
+  },
+  "content": {
+    "abstract": "Microsporidia such as Encephalitozoon hellem are obligate intracellular human parasites that remain genetically intractable, limiting the functional characterization of their proteomes. Experimental structural studies are challenging, as many proteins in microsporidia comprise a large percentage of disordered regions. Computational structural studies based on homology-based modeling and the use of deep-learning algorithms for microsporidian proteins also remain limited because most have little to no sequence similarity to proteins with solved structures. To address these limitations, we developed an approach that incorporates cross-linking mass spectrometry (XL-MS) data into structure prediction. XL-MS data provide upper-bound distance constraints that can be incorporated into protein deep-learning-based modeling and subsequent docking. Using this approach, we generated a model of two interacting E. hellem spore wall proteins, spore wall protein 1B (Swp1b) and endospore protein 1 (EnP1), which have no clear homologs outside of microsporidia and contain several disordered regions. These proteins are abundant spore wall proteins of microsporidia and previously were not known to interact with one another. The resulting model not only is consistent with the experimental cross-links used to generate the model but was also subsequently confirmed by independently generated XL-MS data. The described AlphaLink-Modeller framework for structure prediction is particularly well suited to proteins with limited homology and/or substantial flexible regions, given that they adopt a defined structural state within a biological context, thereby extending integrative modeling approaches to previously inaccessible targets. IMPORTANCE: In this article, we demonstrate an improved method for the prediction of the structure of protein complexes with no clear homologs and a considerable number of disordered regions. This is significant because these types of proteins are critical to understanding the biology of organisms, yet model generation of these classes has been inaccessible. The method incorporates experimental data obtained from cross-linking mass spectrometry (XL-MS) into the modeling process, providing a method to integrate such experimental data into computational modeling of the structure of proteins and protein interactions. For this paper, we have used this method for predicting the structure of two highly abundant Encephalitozoon hellem proteins in the spore wall that are important for host cell infection due to this pathogen of humans and other vertebrates.",
+    "keywords": [
+      "cross-link mass spectrometry",
+      "host cell invasion",
+      "microsporidia",
+      "protein complex",
+      "protein structure",
+      "proteomics",
+      "spore wall"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Weyer, Elizabeth",
+        "Wang, Yongliang",
+        "Tomita, Tadakimi",
+        "Madrid-Aliste, Carlos",
+        "Nandigrami, Prithviraj",
+        "Fiser, Andras",
+        "Sidoli, Simone",
+        "Aguilan, Jennifer T",
+        "Han, Bing",
+        "Weiss, Louis M"
+      ],
+      "short_names": [
+        "Weyer E",
+        "Wang Y",
+        "Tomita T",
+        "Madrid-Aliste C",
+        "Nandigrami P",
+        "Fiser A",
+        "Sidoli S",
+        "Aguilan JT",
+        "Han B",
+        "Weiss LM"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-2269-9292",
+        "ORCID: 0000-0002-7299-2753",
+        "ORCID: 0000-0002-0357-7396"
+      ],
+      "affiliations": [
+        "Department of Pathology, Albert Einstein College of Medicine, New York, New York, USA. RINGGOLD: 2006. ROR: https://ror.org/05cf8a891",
+        "Department of Pathogenic Biology, School of Basic Medical Sciences, Cheeloo College of Medicine, Shandong University, Jinan, Shandong, China. RINGGOLD: 600286. ROR: https://ror.org/0207yh398",
+        "Department of Pathology, Albert Einstein College of Medicine, New York, New York, USA. RINGGOLD: 2006. ROR: https://ror.org/05cf8a891",
+        "Department of Biochemistry, Albert Einstein College of Medicine, New York, New York, USA. RINGGOLD: 548274. ROR: https://ror.org/05cf8a891",
+        "Department of Systems & Computational Biology, Albert Einstein College of Medicine, New York, New York, USA. RINGGOLD: 2006. ROR: https://ror.org/05cf8a891",
+        "Department of Systems & Computational Biology, Albert Einstein College of Medicine, New York, New York, USA. RINGGOLD: 2006. ROR: https://ror.org/05cf8a891",
+        "Department of Biochemistry, Albert Einstein College of Medicine, New York, New York, USA. RINGGOLD: 548274. ROR: https://ror.org/05cf8a891",
+        "Department of Systems & Computational Biology, Albert Einstein College of Medicine, New York, New York, USA. RINGGOLD: 2006. ROR: https://ror.org/05cf8a891",
+        "Department of Biochemistry, Albert Einstein College of Medicine, New York, New York, USA. RINGGOLD: 548274. ROR: https://ror.org/05cf8a891",
+        "Department of Genetics, Albert Einstein College of Medicine, New York, New York, USA. RINGGOLD: 2006. ROR: https://ror.org/05cf8a891",
+        "Department of Biochemistry, Albert Einstein College of Medicine, New York, New York, USA. RINGGOLD: 548274. ROR: https://ror.org/05cf8a891",
+        "Department of Pathogenic Biology, School of Basic Medical Sciences, Cheeloo College of Medicine, Shandong University, Jinan, Shandong, China. RINGGOLD: 600286. ROR: https://ror.org/0207yh398",
+        "Department of Pathology, Albert Einstein College of Medicine, New York, New York, USA. RINGGOLD: 2006. ROR: https://ror.org/05cf8a891",
+        "Department of Medicine, Albert Einstein College of Medicine, New York, New York, USA. RINGGOLD: 200531. ROR: https://ror.org/05cf8a891"
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Weyer, Elizabeth",
+        "short_name": "Weyer E",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, Albert Einstein College of Medicine, New York, New York, USA."
+        ]
+      },
+      {
+        "full_name": "Wang, Yongliang",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathogenic Biology, School of Basic Medical Sciences, Cheeloo College of Medicine, Shandong University, Jinan, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Tomita, Tadakimi",
+        "short_name": "Tomita T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pathology, Albert Einstein College of Medicine, New York, New York, USA."
+        ]
+      },
+      {
+        "full_name": "Madrid-Aliste, Carlos",
+        "short_name": "Madrid-Aliste C",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, Albert Einstein College of Medicine, New York, New York, USA.",
+          "Department of Systems & Computational Biology, Albert Einstein College of Medicine, New York, New York, USA."
+        ]
+      },
+      {
+        "full_name": "Nandigrami, Prithviraj",
+        "short_name": "Nandigrami P",
+        "identifiers": [
+          "0000-0002-2269-9292"
+        ],
+        "affiliations": [
+          "Department of Systems & Computational Biology, Albert Einstein College of Medicine, New York, New York, USA."
+        ]
+      },
+      {
+        "full_name": "Fiser, Andras",
+        "short_name": "Fiser A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, Albert Einstein College of Medicine, New York, New York, USA.",
+          "Department of Systems & Computational Biology, Albert Einstein College of Medicine, New York, New York, USA."
+        ]
+      },
+      {
+        "full_name": "Sidoli, Simone",
+        "short_name": "Sidoli S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, Albert Einstein College of Medicine, New York, New York, USA.",
+          "Department of Genetics, Albert Einstein College of Medicine, New York, New York, USA."
+        ]
+      },
+      {
+        "full_name": "Aguilan, Jennifer T",
+        "short_name": "Aguilan JT",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, Albert Einstein College of Medicine, New York, New York, USA."
+        ]
+      },
+      {
+        "full_name": "Han, Bing",
+        "short_name": "Han B",
+        "identifiers": [
+          "0000-0002-7299-2753"
+        ],
+        "affiliations": [
+          "Department of Pathogenic Biology, School of Basic Medical Sciences, Cheeloo College of Medicine, Shandong University, Jinan, Shandong, China."
+        ]
+      },
+      {
+        "full_name": "Weiss, Louis M",
+        "short_name": "Weiss LM",
+        "identifiers": [
+          "0000-0002-0357-7396"
+        ],
+        "affiliations": [
+          "Department of Pathology, Albert Einstein College of Medicine, New York, New York, USA.",
+          "Department of Medicine, Albert Einstein College of Medicine, New York, New York, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "mBio"
+    ],
+    "journal_abbrev": [
+      "mBio"
+    ],
+    "pub_date": "2026 Oct 20",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/20 17:34",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42899678"
+    ],
+    "review": [
+      "42899678"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://journals.asm.org/doi/10.1128/mbio.02261-26?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-OTUB1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

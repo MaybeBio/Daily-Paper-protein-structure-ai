@@ -1,0 +1,244 @@
+{
+  "identity": {
+    "pmid": "42915624",
+    "doi": "10.1021/acssynbio.6c00246",
+    "title": "An Artificial Intelligence Model for Translating Natural Language into Functional De Novo Proteins."
+  },
+  "content": {
+    "abstract": "Traditional protein design is fundamentally constrained by known sequences and folds. To break free from these limitations, we introduce a new alternative: designing proteins directly from plain-language specifications. To achieve this, we trained MP4, a transformer-based model that maps natural language prompts to protein sequences, on a dataset of 3.2 billion points and 138k tokens. In a benchmark of 96 prompts representing a wide array of functions and contexts, MP4 excelled by simultaneously improving on three key metrics: sequence realism, predicted fold quality, and alignment to the requested function. This high performance is particularly significant as it was achieved using only text as input which is a major departure from other models. Experimental validation confirmed our computational predictions: two de novo designs were experimentally shown to be both expressible and thermostable, with high-resolution crystallography (1.30 A and 1.77 A) ultimately revealing one to possess a paradigm-shifting novel fold. Functionally, the designs were also active, demonstrating both ATP binding and hydrolysis in vitro. This work demonstrates the realization of natural-language intent as functional proteins that express, crystallize, and catalyze. Although the underlying approach is still in early development with incomplete coverage and controllability, MP4 delivers a profound impact: it lowers the barrier to protein design and vastly expands the space for creative exploration in molecular programming.",
+    "keywords": [
+      "AI",
+      "MP4",
+      "design",
+      "enzyme",
+      "generative",
+      "text-to-protein"
+    ],
+    "mesh_terms": [
+      "*Artificial Intelligence",
+      "*Proteins/chemistry/metabolism/genetics",
+      "*Protein Engineering/methods",
+      "Protein Folding",
+      "Adenosine Triphosphate/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Riley, Timothy P",
+        "Parsa, Mohammad S",
+        "Kalantari, Pourya",
+        "Naderi, Ismail",
+        "Azimian, Kiana",
+        "Begloo, Nemya",
+        "Matusovsky, Oleg",
+        "Osher, Eliot",
+        "Prabhakaran, Devika",
+        "Yadav, Rahul",
+        "Simelis, Klem",
+        "Mathavan, Indran",
+        "Singh, Jeeven",
+        "Azimian, Kooshiar",
+        "Wei, Kathy Y"
+      ],
+      "short_names": [
+        "Riley TP",
+        "Parsa MS",
+        "Kalantari P",
+        "Naderi I",
+        "Azimian K",
+        "Begloo N",
+        "Matusovsky O",
+        "Osher E",
+        "Prabhakaran D",
+        "Yadav R",
+        "Simelis K",
+        "Mathavan I",
+        "Singh J",
+        "Azimian K",
+        "Wei KY"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-3416-739X",
+        "ORCID: 0000-0002-8794-1385"
+      ],
+      "affiliations": [
+        "310 AI, San Francisco, California94107, United States.",
+        "University of California, Berkeley , Berkeley, California94720-7000, United States.",
+        "310 AI, San Francisco, California94107, United States.",
+        "310 AI, San Francisco, California94107, United States.",
+        "310 AI, San Francisco, California94107, United States.",
+        "310 AI, San Francisco, California94107, United States.",
+        "McGill University , Montreal, QuebecH3A 0G4, Canada.",
+        "Arctoris , OxfordOX14 4SA, U.K.",
+        "Arctoris , OxfordOX14 4SA, U.K.",
+        "Arctoris , OxfordOX14 4SA, U.K.",
+        "Arctoris , OxfordOX14 4SA, U.K.",
+        "Arctoris , OxfordOX14 4SA, U.K.",
+        "Arctoris , OxfordOX14 4SA, U.K.",
+        "310 AI, San Francisco, California94107, United States.",
+        "310 AI, San Francisco, California94107, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Riley, Timothy P",
+        "short_name": "Riley TP",
+        "identifiers": [],
+        "affiliations": [
+          "310 AI, San Francisco, California94107, United States."
+        ]
+      },
+      {
+        "full_name": "Parsa, Mohammad S",
+        "short_name": "Parsa MS",
+        "identifiers": [
+          "0000-0002-3416-739X"
+        ],
+        "affiliations": [
+          "University of California, Berkeley , Berkeley, California94720-7000, United States."
+        ]
+      },
+      {
+        "full_name": "Kalantari, Pourya",
+        "short_name": "Kalantari P",
+        "identifiers": [],
+        "affiliations": [
+          "310 AI, San Francisco, California94107, United States."
+        ]
+      },
+      {
+        "full_name": "Naderi, Ismail",
+        "short_name": "Naderi I",
+        "identifiers": [],
+        "affiliations": [
+          "310 AI, San Francisco, California94107, United States."
+        ]
+      },
+      {
+        "full_name": "Azimian, Kiana",
+        "short_name": "Azimian K",
+        "identifiers": [],
+        "affiliations": [
+          "310 AI, San Francisco, California94107, United States."
+        ]
+      },
+      {
+        "full_name": "Begloo, Nemya",
+        "short_name": "Begloo N",
+        "identifiers": [],
+        "affiliations": [
+          "310 AI, San Francisco, California94107, United States."
+        ]
+      },
+      {
+        "full_name": "Matusovsky, Oleg",
+        "short_name": "Matusovsky O",
+        "identifiers": [],
+        "affiliations": [
+          "McGill University , Montreal, QuebecH3A 0G4, Canada."
+        ]
+      },
+      {
+        "full_name": "Osher, Eliot",
+        "short_name": "Osher E",
+        "identifiers": [],
+        "affiliations": [
+          "Arctoris , OxfordOX14 4SA, U.K."
+        ]
+      },
+      {
+        "full_name": "Prabhakaran, Devika",
+        "short_name": "Prabhakaran D",
+        "identifiers": [],
+        "affiliations": [
+          "Arctoris , OxfordOX14 4SA, U.K."
+        ]
+      },
+      {
+        "full_name": "Yadav, Rahul",
+        "short_name": "Yadav R",
+        "identifiers": [],
+        "affiliations": [
+          "Arctoris , OxfordOX14 4SA, U.K."
+        ]
+      },
+      {
+        "full_name": "Simelis, Klem",
+        "short_name": "Simelis K",
+        "identifiers": [],
+        "affiliations": [
+          "Arctoris , OxfordOX14 4SA, U.K."
+        ]
+      },
+      {
+        "full_name": "Mathavan, Indran",
+        "short_name": "Mathavan I",
+        "identifiers": [],
+        "affiliations": [
+          "Arctoris , OxfordOX14 4SA, U.K."
+        ]
+      },
+      {
+        "full_name": "Singh, Jeeven",
+        "short_name": "Singh J",
+        "identifiers": [],
+        "affiliations": [
+          "Arctoris , OxfordOX14 4SA, U.K."
+        ]
+      },
+      {
+        "full_name": "Azimian, Kooshiar",
+        "short_name": "Azimian K",
+        "identifiers": [],
+        "affiliations": [
+          "310 AI, San Francisco, California94107, United States."
+        ]
+      },
+      {
+        "full_name": "Wei, Kathy Y",
+        "short_name": "Wei KY",
+        "identifiers": [
+          "0000-0002-8794-1385"
+        ],
+        "affiliations": [
+          "310 AI, San Francisco, California94107, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS synthetic biology"
+    ],
+    "journal_abbrev": [
+      "ACS Synth Biol"
+    ],
+    "pub_date": "2026 Sep 18",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42915624"
+    ],
+    "review": [
+      "42915624"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

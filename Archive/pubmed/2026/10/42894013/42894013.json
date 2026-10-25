@@ -1,0 +1,195 @@
+{
+  "identity": {
+    "pmid": "42894013",
+    "doi": "10.1038/s41467-026-77183-y",
+    "title": "Deep learning coupled with scalable domain-specific structural validation expands RNA virus discovery from metatranscriptomes."
+  },
+  "content": {
+    "abstract": "The discovery of RNA viruses from metatranscriptomic data remains challenging due to extreme sequence divergence and length heterogeneity, ranging from massive polyproteins to short assembly artifacts. We present Rider, a two-stage framework that synergizes deep representation learning with scalable domain-specific structural validation. In the first stage, Rider leverages a compact pretrained protein language model to broadly detect highly divergent viral signals. To overcome the inherent input length limitations of language models and accurately capture catalytic core domains, the second stage employs an overlapping sliding-window structure prediction strategy. These structures are then aligned against our curated database of non-redundant RdRp (RNA-dependent RNA polymerase) domains. This domain-centric design detects RdRp domains embedded within long polyproteins and truncated fragments. Across >10,000 metatranscriptomes spanning diverse ecosystems, Rider achieves sensitivity comparable to LucaProt, recalling >99% of previously cataloged RNA viruses. Rider identifies thousands of deeply divergent sequences and clades that elude existing methods. In a human inflammatory bowel disease (IBD) cohort, Rider agrees with other methods in detecting RNA viruses while extending detection to divergent lineages, providing a scalable pipeline for global RNA virome exploration.",
+    "keywords": [],
+    "mesh_terms": [
+      "*RNA Viruses/genetics/isolation & purification/classification",
+      "*Deep Learning",
+      "Humans",
+      "RNA-Dependent RNA Polymerase/genetics/chemistry/metabolism",
+      "*Transcriptome",
+      "RNA, Viral/genetics",
+      "Protein Domains"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Luo, Gaoyang",
+        "Zang, Zelin",
+        "Yuan, Ling",
+        "Zhou, Jingbo",
+        "Dong, Ao",
+        "Huang, Yufei",
+        "Li, Stan Z",
+        "Ju, Feng"
+      ],
+      "short_names": [
+        "Luo G",
+        "Zang Z",
+        "Yuan L",
+        "Zhou J",
+        "Dong A",
+        "Huang Y",
+        "Li SZ",
+        "Ju F"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-2831-5437",
+        "ORCID: 0000-0003-1076-7347",
+        "ORCID: 0000-0002-2961-8096",
+        "ORCID: 0000-0003-4137-5928"
+      ],
+      "affiliations": [
+        "Environmental Microbiome and Biotechnology Laboratory, Center of Synthetic Biology and Integrated Bioengineering, School of Engineering, Westlake University, Hangzhou, China.",
+        "Research Center for Industries of the Future, Zhejiang Provincial Key Laboratory of Intelligent Low-Carbon Biosynthesis, Westlake University, Hangzhou, China.",
+        "Research Center for Industries of the Future, Zhejiang Provincial Key Laboratory of Intelligent Low-Carbon Biosynthesis, Westlake University, Hangzhou, China.",
+        "Environmental Microbiome and Biotechnology Laboratory, Center of Synthetic Biology and Integrated Bioengineering, School of Engineering, Westlake University, Hangzhou, China.",
+        "Research Center for Industries of the Future, Zhejiang Provincial Key Laboratory of Intelligent Low-Carbon Biosynthesis, Westlake University, Hangzhou, China.",
+        "Environmental Microbiome and Biotechnology Laboratory, Center of Synthetic Biology and Integrated Bioengineering, School of Engineering, Westlake University, Hangzhou, China.",
+        "Center for Infectious Disease Research, Westlake Laboratory of Life Sciences and Biomedicine, School of Life Sciences, Westlake University, Hangzhou, China.",
+        "Research Center for Industries of the Future, Zhejiang Provincial Key Laboratory of Intelligent Low-Carbon Biosynthesis, Westlake University, Hangzhou, China.",
+        "Research Center for Industries of the Future, Zhejiang Provincial Key Laboratory of Intelligent Low-Carbon Biosynthesis, Westlake University, Hangzhou, China.",
+        "Environmental Microbiome and Biotechnology Laboratory, Center of Synthetic Biology and Integrated Bioengineering, School of Engineering, Westlake University, Hangzhou, China. jufeng@westlake.edu.cn.",
+        "Research Center for Industries of the Future, Zhejiang Provincial Key Laboratory of Intelligent Low-Carbon Biosynthesis, Westlake University, Hangzhou, China. jufeng@westlake.edu.cn.",
+        "Center for Infectious Disease Research, Westlake Laboratory of Life Sciences and Biomedicine, School of Life Sciences, Westlake University, Hangzhou, China. jufeng@westlake.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Luo, Gaoyang",
+        "short_name": "Luo G",
+        "identifiers": [],
+        "affiliations": [
+          "Environmental Microbiome and Biotechnology Laboratory, Center of Synthetic Biology and Integrated Bioengineering, School of Engineering, Westlake University, Hangzhou, China.",
+          "Research Center for Industries of the Future, Zhejiang Provincial Key Laboratory of Intelligent Low-Carbon Biosynthesis, Westlake University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zang, Zelin",
+        "short_name": "Zang Z",
+        "identifiers": [
+          "0000-0003-2831-5437"
+        ],
+        "affiliations": [
+          "Research Center for Industries of the Future, Zhejiang Provincial Key Laboratory of Intelligent Low-Carbon Biosynthesis, Westlake University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Yuan, Ling",
+        "short_name": "Yuan L",
+        "identifiers": [
+          "0000-0003-1076-7347"
+        ],
+        "affiliations": [
+          "Environmental Microbiome and Biotechnology Laboratory, Center of Synthetic Biology and Integrated Bioengineering, School of Engineering, Westlake University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Zhou, Jingbo",
+        "short_name": "Zhou J",
+        "identifiers": [],
+        "affiliations": [
+          "Research Center for Industries of the Future, Zhejiang Provincial Key Laboratory of Intelligent Low-Carbon Biosynthesis, Westlake University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Dong, Ao",
+        "short_name": "Dong A",
+        "identifiers": [],
+        "affiliations": [
+          "Environmental Microbiome and Biotechnology Laboratory, Center of Synthetic Biology and Integrated Bioengineering, School of Engineering, Westlake University, Hangzhou, China.",
+          "Center for Infectious Disease Research, Westlake Laboratory of Life Sciences and Biomedicine, School of Life Sciences, Westlake University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Yufei",
+        "short_name": "Huang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Research Center for Industries of the Future, Zhejiang Provincial Key Laboratory of Intelligent Low-Carbon Biosynthesis, Westlake University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Li, Stan Z",
+        "short_name": "Li SZ",
+        "identifiers": [
+          "0000-0002-2961-8096"
+        ],
+        "affiliations": [
+          "Research Center for Industries of the Future, Zhejiang Provincial Key Laboratory of Intelligent Low-Carbon Biosynthesis, Westlake University, Hangzhou, China."
+        ]
+      },
+      {
+        "full_name": "Ju, Feng",
+        "short_name": "Ju F",
+        "identifiers": [
+          "0000-0003-4137-5928"
+        ],
+        "affiliations": [
+          "Environmental Microbiome and Biotechnology Laboratory, Center of Synthetic Biology and Integrated Bioengineering, School of Engineering, Westlake University, Hangzhou, China. jufeng@westlake.edu.cn.",
+          "Research Center for Industries of the Future, Zhejiang Provincial Key Laboratory of Intelligent Low-Carbon Biosynthesis, Westlake University, Hangzhou, China. jufeng@westlake.edu.cn.",
+          "Center for Infectious Disease Research, Westlake Laboratory of Life Sciences and Biomedicine, School of Life Sciences, Westlake University, Hangzhou, China. jufeng@westlake.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Sep 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/19 05:30",
+    "fetched_at": "2026-10-25 07:17:06"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42894013"
+    ],
+    "review": [
+      "42894013"
+    ],
+    "pmc": [
+      "13677681"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-77183-y",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-RDRP-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

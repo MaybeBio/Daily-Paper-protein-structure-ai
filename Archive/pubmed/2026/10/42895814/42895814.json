@@ -1,0 +1,118 @@
+{
+  "identity": {
+    "pmid": "42895814",
+    "doi": "10.1093/bioinformatics/btag786",
+    "title": "MARDy 2.0: a platform for exploring and analysing antifungal resistance mutations."
+  },
+  "content": {
+    "abstract": "MOTIVATION: The rising incidence of antifungal drug resistance represents a major and growing threat to global public health and food security. Therefore, understanding the genetic and molecular mechanisms that underpin antifungal resistance is essential for both clinical management and agricultural disease control. RESULTS: We present MARDy 2.0, an updated platform replacing the original Mycology Antifungal Resistance Database. MARDy 2.0 provides an interactive platform for exploring antifungal resistance data from the community resource FungAMR, and protein structures from UniProtKB or predicted structures using AlphaFold. The platform provides enhanced tools for data exploration and analysis and is freely accessible via an interactive web interface that supports search filtering and downloads, BLAST-based sequence similarity searches, an experimental natural-language query interface for exploratory analysis, a mutation plot for visualising mutations in a protein context, and structural predictions showing mutation locations. MARDy 2.0 provides a platform to facilitate research into antifungal resistance evolution, surveillance, and mitigation strategies. MARDy should be used and cited alongside the underlying resources it integrates, FungAMR. AVAILABILITY: Accessible at https://mardy.net.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Webber, Joe",
+        "Gifford, Hugh",
+        "Rhodes, Johanna",
+        "Farrer, Rhys A"
+      ],
+      "short_names": [
+        "Webber J",
+        "Gifford H",
+        "Rhodes J",
+        "Farrer RA"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Medical Research Council Centre for Medical Mycology, University of Exeter, Exeter, UK.",
+        "Medical Research Council Centre for Medical Mycology, University of Exeter, Exeter, UK.",
+        "School of Biosciences, University of Birmingham, Birmingham, UK.",
+        "Medical Research Council Centre for Medical Mycology, University of Exeter, Exeter, UK."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Webber, Joe",
+        "short_name": "Webber J",
+        "identifiers": [],
+        "affiliations": [
+          "Medical Research Council Centre for Medical Mycology, University of Exeter, Exeter, UK."
+        ]
+      },
+      {
+        "full_name": "Gifford, Hugh",
+        "short_name": "Gifford H",
+        "identifiers": [],
+        "affiliations": [
+          "Medical Research Council Centre for Medical Mycology, University of Exeter, Exeter, UK."
+        ]
+      },
+      {
+        "full_name": "Rhodes, Johanna",
+        "short_name": "Rhodes J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Biosciences, University of Birmingham, Birmingham, UK."
+        ]
+      },
+      {
+        "full_name": "Farrer, Rhys A",
+        "short_name": "Farrer RA",
+        "identifiers": [],
+        "affiliations": [
+          "Medical Research Council Centre for Medical Mycology, University of Exeter, Exeter, UK."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Bioinformatics (Oxford, England)"
+    ],
+    "journal_abbrev": [
+      "Bioinformatics"
+    ],
+    "pub_date": "2026 Oct 19",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/19 17:31",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42895814"
+    ],
+    "review": [
+      "42895814"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-CD48-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btag786",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

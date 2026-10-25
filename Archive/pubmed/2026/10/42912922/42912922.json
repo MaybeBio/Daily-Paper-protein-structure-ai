@@ -1,0 +1,129 @@
+{
+  "identity": {
+    "pmid": "42912922",
+    "doi": "10.1021/acs.jcim.5c02688",
+    "title": "GDEE: A Structure-Based Platform for Gene Discovery and Enzyme Engineering."
+  },
+  "content": {
+    "abstract": "Enzymes are extensively utilized for catalyzing the production of value-added compounds in diverse sectors with significant economic impact. However, challenges such as poor protein expression, low catalytic activity, substrate/co-factor limitations, and toxicity of final products limit the efficiency of these biocatalysts. Protein engineering offers a solution by redesigning enzyme catalytic properties to enhance biosynthetic pathways. In this study, we present an automated platform for gene discovery and enzyme engineering, aimed at overcoming these bottlenecks. The GDEE platform finds and optimizes enzymes responsible for rate-limiting steps in biosynthetic pathways, with objectives ranging from improving catalytic efficiency to enabling novel transformations. The platform operates through four key steps: an initial sequence step that either sources natural enzyme sequences or generates mutant variants, followed by an atomistic protein structure prediction step, a docking step, and a binding energy evaluator, obtaining a set of variant enzyme sequences that are prioritized for experimental validation. Additionally, machine learning-based re-scoring of binding poses to improve binding affinities significantly enhances the accuracy of predicting the effect of mutations on binding, highlighting its potential in metabolic engineering applications.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Protein Engineering/methods",
+      "*Enzymes/genetics/chemistry/metabolism",
+      "Mutation",
+      "Protein Conformation",
+      "Machine Learning"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Souza, Caio S",
+        "Correia, Joao P G",
+        "Rocha, Isabel",
+        "Lousa, Diana",
+        "Soares, Claudio M"
+      ],
+      "short_names": [
+        "Souza CS",
+        "Correia JPG",
+        "Rocha I",
+        "Lousa D",
+        "Soares CM"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-2309-0980",
+        "ORCID: 0000-0003-1154-556X"
+      ],
+      "affiliations": [
+        "Instituto de Tecnologia Quimica e Biologica Antonio Xavier, Universidade Nova de Lisboa, Av. da Republica, 2780-157Oeiras, Portugal.",
+        "Instituto de Tecnologia Quimica e Biologica Antonio Xavier, Universidade Nova de Lisboa, Av. da Republica, 2780-157Oeiras, Portugal.",
+        "Instituto de Tecnologia Quimica e Biologica Antonio Xavier, Universidade Nova de Lisboa, Av. da Republica, 2780-157Oeiras, Portugal.",
+        "Instituto de Tecnologia Quimica e Biologica Antonio Xavier, Universidade Nova de Lisboa, Av. da Republica, 2780-157Oeiras, Portugal.",
+        "Instituto de Tecnologia Quimica e Biologica Antonio Xavier, Universidade Nova de Lisboa, Av. da Republica, 2780-157Oeiras, Portugal."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Souza, Caio S",
+        "short_name": "Souza CS",
+        "identifiers": [],
+        "affiliations": [
+          "Instituto de Tecnologia Química e Biológica António Xavier, Universidade Nova de Lisboa, Av. da República, 2780-157Oeiras, Portugal."
+        ]
+      },
+      {
+        "full_name": "Correia, João P G",
+        "short_name": "Correia JPG",
+        "identifiers": [],
+        "affiliations": [
+          "Instituto de Tecnologia Química e Biológica António Xavier, Universidade Nova de Lisboa, Av. da República, 2780-157Oeiras, Portugal."
+        ]
+      },
+      {
+        "full_name": "Rocha, Isabel",
+        "short_name": "Rocha I",
+        "identifiers": [],
+        "affiliations": [
+          "Instituto de Tecnologia Química e Biológica António Xavier, Universidade Nova de Lisboa, Av. da República, 2780-157Oeiras, Portugal."
+        ]
+      },
+      {
+        "full_name": "Lousa, Diana",
+        "short_name": "Lousa D",
+        "identifiers": [
+          "0000-0002-2309-0980"
+        ],
+        "affiliations": [
+          "Instituto de Tecnologia Química e Biológica António Xavier, Universidade Nova de Lisboa, Av. da República, 2780-157Oeiras, Portugal."
+        ]
+      },
+      {
+        "full_name": "Soares, Cláudio M",
+        "short_name": "Soares CM",
+        "identifiers": [
+          "0000-0003-1154-556X"
+        ],
+        "affiliations": [
+          "Instituto de Tecnologia Química e Biológica António Xavier, Universidade Nova de Lisboa, Av. da República, 2780-157Oeiras, Portugal."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of chemical information and modeling"
+    ],
+    "journal_abbrev": [
+      "J Chem Inf Model"
+    ],
+    "pub_date": "2026 Oct 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 18:31",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42912922"
+    ],
+    "review": [
+      "42912922"
+    ],
+    "pmc": [
+      "13663853"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

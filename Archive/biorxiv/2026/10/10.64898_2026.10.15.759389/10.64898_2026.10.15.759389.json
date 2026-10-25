@@ -1,0 +1,264 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.15.759389",
+  "title": "DEEP: Extracting Latent Energetic Landscapes from Protein Structure Predictors",
+  "doi": "10.64898/2026.10.15.759389",
+  "abstract": "Modern protein structure predictors learn complex sequence-structure relationships, yet the extent to which their internal representations capture the energetic principles governing protein stability and conformational preferences remains unclear. Here, we introduce DEEP (Distogram Encoded Energetic Potential), a general framework that extracts effective statistical potentials directly from predicted residue-pair distance distributions, using the models own terminal distance state as an internal reference without training on experimental stability data. Applied to Boltz-2 (DEEP-Boltz) achieves a mean per-assay Spearman correlation of 0.720 across 64 ProteinGym stability assays, numerically outperforming all 97 published zero-shot methods in the matched comparison on level with the best performing predictors trained directly on experimental stability measurements. Beyond mutation effects, DEEP-Boltz accurately distinguishes native-like from non-native conformations across more than 180,000 Rosetta decoys. Applying DEEP to AlphaFold2 reveals nearly identical conformational discrimination but substantially weaker mutation-effect prediction, demonstrating that recognizing favorable conformations and capturing their energetic sensitivity to sequence changes are distinct properties of learned structural representations. Together, these findings establish that protein structure predictors encode accessible energetic information beyond their geometric predictions and that this information can be extracted. We release the framework and DEEP-Boltz as a freely available tool for extracting these latent energetic representations and for zero-shot prediction of mutation-induced protein stability changes.",
+  "authors": [
+    "Zsofia Borbala Rozsa",
+    "Gabor Erdos"
+  ],
+  "published_date": "2026-10-21",
+  "updated_date": "2026-10-21T20:50:39Z",
+  "journal": "bioRxiv",
+  "category": "Bioinformatics",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.15.759389",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.15.759389.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [
+    "Bioinformatics"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Bioinformatics",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            23
+          ]
+        ],
+        "date-time": "2026-10-23T06:38:35Z",
+        "timestamp": 1792737515535,
+        "version": "4.5.0"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            21
+          ]
+        ]
+      },
+      "group-title": "Bioinformatics",
+      "reference-count": 0,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                21
+              ]
+            ],
+            "date-time": "2026-10-21T00:00:00Z",
+            "timestamp": 1792540800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by-nc/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "name": "European Unions Horizon Europe programme",
+          "award": [
+            "101160233"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "101160233"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "European Unions Horizon Europe programme",
+          "award": [
+            "101182949"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "101182949"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ELTE EKA",
+          "award": [
+            "2025/041-P108-1"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "2025/041-P108-1"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ELIXIR",
+          "award": [
+            "CMR 2024/2025"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "CMR 2024/2025"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "FEBS Booster Funds",
+          "award": [
+            "8239097"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "8239097"
+              ]
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            22
+          ]
+        ]
+      },
+      "abstract": "<jats:p>Modern protein structure predictors learn complex sequence-structure relationships, yet the extent to which their internal representations capture the energetic principles governing protein stability and conformational preferences remains unclear. Here, we introduce DEEP (Distogram Encoded Energetic Potential), a general framework that extracts effective statistical potentials directly from predicted residue-pair distance distributions, using the models own terminal distance state as an internal reference without training on experimental stability data. Applied to Boltz-2 (DEEP-Boltz) achieves a mean per-assay Spearman correlation of 0.720 across 64 ProteinGym stability assays, numerically outperforming all 97 published zero-shot methods in the matched comparison on level with the best performing predictors trained directly on experimental stability measurements. Beyond mutation effects, DEEP-Boltz accurately distinguishes native-like from non-native conformations across more than 180,000 Rosetta decoys. Applying DEEP to AlphaFold2 reveals nearly identical conformational discrimination but substantially weaker mutation-effect prediction, demonstrating that recognizing favorable conformations and capturing their energetic sensitivity to sequence changes are distinct properties of learned structural representations. Together, these findings establish that protein structure predictors encode accessible energetic information beyond their geometric predictions and that this information can be extracted. We release the framework and DEEP-Boltz as a freely available tool for extracting these latent energetic representations and for zero-shot prediction of mutation-induced protein stability changes.</jats:p>",
+      "DOI": "10.64898/2026.10.15.759389",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            21
+          ]
+        ],
+        "date-time": "2026-10-21T20:50:39Z",
+        "timestamp": 1792615839000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "DEEP: Extracting Latent Energetic Landscapes from Protein Structure Predictors"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-7881-7921",
+          "authenticated-orcid": false,
+          "given": "Zsofia Borbala",
+          "family": "Rozsa",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Protein Dynamics Research Group, Eotvos Lorand University, Department of Biochemistry, Pazmany Peter stny 1/c, Budapest H-1117, Hungary"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-6218-5192",
+          "authenticated-orcid": false,
+          "given": "Gabor",
+          "family": "Erdos",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Protein Dynamics Research Group, Eotvos Lorand University, Department of Biochemistry, Pazmany Peter stny 1/c, Budapest H-1117, Hungary"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.10.15.759389",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            23
+          ]
+        ],
+        "date-time": "2026-10-23T06:00:13Z",
+        "timestamp": 1792735213000
+      },
+      "score": 54.07646,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.10.15.759389"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            21
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.64898/2026.10.15.759389",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            21
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

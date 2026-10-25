@@ -1,0 +1,169 @@
+{
+  "identity": {
+    "pmid": "42891652",
+    "doi": "10.1096/fj.202602735R",
+    "title": "Structural Snapshots of F(1)-ATPase Catalysis in Drug Resistant Acinetobacter baumannii Reveal Novel Therapeutic Targets."
+  },
+  "content": {
+    "abstract": "Gram-negative Acinetobacter baumannii, one of the most critical priority pathogens, has developed multiple defense mechanisms, including upregulation of drug efflux pumps powered by the proton-motive force (pmf) or ATP. As a nonfermenting bacterium, it relies on oxidative phosphorylation, in which the F-ATP synthase, composed of an F(1)-ATPase (alpha(3):beta(3):gamma:epsilon) and F(O)-domain (a:b(2):c(10)), synthesizes ATP, the cell's currency of life. Here, we present cryo-electron microscopy structures of the F(1)-ATPase captured during ATP synthesis, revealing concerted conformational changes within the alpha(3):beta(3)-catalytic head that trigger structural transitions of subunit epsilon and twisting of the gamma:epsilon central stalk, coupled with spontaneous ATP formation. Molecular dynamics simulations validate and expand the ensemble of structural rearrangements underlying the rotary mechanism. The resolved intermediate states of the epsilon subunit reveal its role as a molecular gear, regulating ATP synthesis while simultaneously inhibiting ATP hydrolysis, essential for the pathogen to prevent wastage of ATP. These structural snapshots identify novel therapeutic targets and pave the way for rational design of selective inhibitors.",
+    "keywords": [
+      "Acinetobacter baumannii",
+      "ATP synthase",
+      "antibiotics",
+      "bacterial pathogenesis",
+      "bioenergetics",
+      "membrane protein"
+    ],
+    "mesh_terms": [
+      "*Acinetobacter baumannii/enzymology/drug effects",
+      "*Proton-Translocating ATPases/chemistry/metabolism",
+      "Adenosine Triphosphate/metabolism",
+      "Molecular Dynamics Simulation",
+      "Cryoelectron Microscopy",
+      "*Drug Resistance, Bacterial",
+      "*Bacterial Proteins/chemistry/metabolism",
+      "Protein Conformation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Le, Khoa C M",
+        "Marzinek, Jan K",
+        "Mathiyazakan, Vikneswaran",
+        "Bond, Peter J",
+        "Gruber, Gerhard"
+      ],
+      "short_names": [
+        "Le KCM",
+        "Marzinek JK",
+        "Mathiyazakan V",
+        "Bond PJ",
+        "Gruber G"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-2454-9463",
+        "ORCID: 0000-0002-5493-8753",
+        "ORCID: 0000-0002-2934-278X",
+        "ORCID: 0000-0003-2900-098X",
+        "ORCID: 0000-0002-5730-8319"
+      ],
+      "affiliations": [
+        "School of Biological Sciences, Nanyang Technological University, Singapore, Republic of Singapore.",
+        "Bioinformatics Institute (BII), Agency for Science, Technology and Research (A*STAR), Singapore, Republic of Singapore.",
+        "Program in Emerging Infectious Diseases, Duke-National University of Singapore Medical School, Singapore, Republic of Singapore.",
+        "School of Biological Sciences, Nanyang Technological University, Singapore, Republic of Singapore.",
+        "Bioinformatics Institute (BII), Agency for Science, Technology and Research (A*STAR), Singapore, Republic of Singapore.",
+        "Department of Biological Sciences, National University of Singapore, Singapore, Republic of Singapore.",
+        "School of Biological Sciences, Nanyang Technological University, Singapore, Republic of Singapore.",
+        "Bioinformatics Institute (BII), Agency for Science, Technology and Research (A*STAR), Singapore, Republic of Singapore."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Le, Khoa C M",
+        "short_name": "Le KCM",
+        "identifiers": [
+          "0000-0003-2454-9463"
+        ],
+        "affiliations": [
+          "School of Biological Sciences, Nanyang Technological University, Singapore, Republic of Singapore."
+        ]
+      },
+      {
+        "full_name": "Marzinek, Jan K",
+        "short_name": "Marzinek JK",
+        "identifiers": [
+          "0000-0002-5493-8753"
+        ],
+        "affiliations": [
+          "Bioinformatics Institute (BII), Agency for Science, Technology and Research (A*STAR), Singapore, Republic of Singapore.",
+          "Program in Emerging Infectious Diseases, Duke-National University of Singapore Medical School, Singapore, Republic of Singapore."
+        ]
+      },
+      {
+        "full_name": "Mathiyazakan, Vikneswaran",
+        "short_name": "Mathiyazakan V",
+        "identifiers": [
+          "0000-0002-2934-278X"
+        ],
+        "affiliations": [
+          "School of Biological Sciences, Nanyang Technological University, Singapore, Republic of Singapore."
+        ]
+      },
+      {
+        "full_name": "Bond, Peter J",
+        "short_name": "Bond PJ",
+        "identifiers": [
+          "0000-0003-2900-098X"
+        ],
+        "affiliations": [
+          "Bioinformatics Institute (BII), Agency for Science, Technology and Research (A*STAR), Singapore, Republic of Singapore.",
+          "Department of Biological Sciences, National University of Singapore, Singapore, Republic of Singapore."
+        ]
+      },
+      {
+        "full_name": "Grüber, Gerhard",
+        "short_name": "Grüber G",
+        "identifiers": [
+          "0000-0002-5730-8319"
+        ],
+        "affiliations": [
+          "School of Biological Sciences, Nanyang Technological University, Singapore, Republic of Singapore.",
+          "Bioinformatics Institute (BII), Agency for Science, Technology and Research (A*STAR), Singapore, Republic of Singapore."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "FASEB journal : official publication of the Federation of American Societies for Experimental Biology"
+    ],
+    "journal_abbrev": [
+      "FASEB J"
+    ],
+    "pub_date": "2026 Oct 31",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/18 05:37",
+    "fetched_at": "2026-10-25 07:17:06"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42891652"
+    ],
+    "review": [
+      "42891652"
+    ],
+    "pmc": [
+      "13676158"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/antibioticresistance.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Antibiotic Resistance"
+      },
+      {
+        "url": "https://doi.org/10.1096/fj.202602735R",
+        "provider": "Wiley",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

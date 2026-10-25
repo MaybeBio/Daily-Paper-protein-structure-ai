@@ -1,0 +1,113 @@
+{
+  "identity": {
+    "pmid": "42900978",
+    "doi": "10.1016/j.sbi.2026.103417",
+    "title": "Dark energy: the cost of function in protein evolution."
+  },
+  "content": {
+    "abstract": "The evolutionary fate of proteins is driven by both folding stability and biological function, dual constraints that often conflict, creating frustration and imposing functional costs beyond stability. These costs can be captured by a 'dark energy': the difference between the evolutionary energy of protein sequences and their physical folding energy. Recent advances in deep mutational scanning, protein language models, and inverse-folding models have enabled the quantification of dark energy across the protein universe. We review the computational and experimental approaches that disentangle folding and function at scale, revealing a dark energy component and providing new insights into how biological information flows from sequence to structure to function and back to sequence.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Galpern, Ezequiel A",
+        "Caamano, Federico",
+        "Sanchez, Ignacio E",
+        "Ferreiro, Diego U"
+      ],
+      "short_names": [
+        "Galpern EA",
+        "Caamano F",
+        "Sanchez IE",
+        "Ferreiro DU"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Centre for Genomic Regulation, The Barcelona Institute of Science and Technology, Barcelona 08003, Spain.",
+        "Protein Physiology Lab, Departamento de Quimica Biologica, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Buenos Aires C1428EGA, Argentina; Instituto de Quimica Biologica de la Facultad de Ciencias Exactas y Naturales, Consejo Nacional de Investigaciones Cientificas y Tecnicas - Universidad de Buenos Aires, Buenos Aires C1428EGA, Argentina.",
+        "Protein Physiology Lab, Departamento de Quimica Biologica, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Buenos Aires C1428EGA, Argentina; Instituto de Quimica Biologica de la Facultad de Ciencias Exactas y Naturales, Consejo Nacional de Investigaciones Cientificas y Tecnicas - Universidad de Buenos Aires, Buenos Aires C1428EGA, Argentina.",
+        "Protein Physiology Lab, Departamento de Quimica Biologica, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Buenos Aires C1428EGA, Argentina; Instituto de Quimica Biologica de la Facultad de Ciencias Exactas y Naturales, Consejo Nacional de Investigaciones Cientificas y Tecnicas - Universidad de Buenos Aires, Buenos Aires C1428EGA, Argentina. Electronic address: ferreiro@qb.fcen.uba.ar."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Galpern, Ezequiel A",
+        "short_name": "Galpern EA",
+        "identifiers": [],
+        "affiliations": [
+          "Centre for Genomic Regulation, The Barcelona Institute of Science and Technology, Barcelona 08003, Spain."
+        ]
+      },
+      {
+        "full_name": "Caamaño, Federico",
+        "short_name": "Caamaño F",
+        "identifiers": [],
+        "affiliations": [
+          "Protein Physiology Lab, Departamento de Química Biológica, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Buenos Aires C1428EGA, Argentina; Instituto de Química Biológica de la Facultad de Ciencias Exactas y Naturales, Consejo Nacional de Investigaciones Científicas y Técnicas - Universidad de Buenos Aires, Buenos Aires C1428EGA, Argentina."
+        ]
+      },
+      {
+        "full_name": "Sánchez, Ignacio E",
+        "short_name": "Sánchez IE",
+        "identifiers": [],
+        "affiliations": [
+          "Protein Physiology Lab, Departamento de Química Biológica, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Buenos Aires C1428EGA, Argentina; Instituto de Química Biológica de la Facultad de Ciencias Exactas y Naturales, Consejo Nacional de Investigaciones Científicas y Técnicas - Universidad de Buenos Aires, Buenos Aires C1428EGA, Argentina."
+        ]
+      },
+      {
+        "full_name": "Ferreiro, Diego U",
+        "short_name": "Ferreiro DU",
+        "identifiers": [],
+        "affiliations": [
+          "Protein Physiology Lab, Departamento de Química Biológica, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Buenos Aires C1428EGA, Argentina; Instituto de Química Biológica de la Facultad de Ciencias Exactas y Naturales, Consejo Nacional de Investigaciones Científicas y Técnicas - Universidad de Buenos Aires, Buenos Aires C1428EGA, Argentina. Electronic address: ferreiro@qb.fcen.uba.ar."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Current opinion in structural biology"
+    ],
+    "journal_abbrev": [
+      "Curr Opin Struct Biol"
+    ],
+    "pub_date": "2026 Oct 20",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/20 23:29",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42900978"
+    ],
+    "review": [
+      "42900978"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://linkinghub.elsevier.com/retrieve/pii/S0959-440X(26)00199-5",
+        "provider": "Elsevier Science",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

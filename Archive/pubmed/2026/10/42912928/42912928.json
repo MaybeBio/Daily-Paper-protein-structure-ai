@@ -1,0 +1,205 @@
+{
+  "identity": {
+    "pmid": "42912928",
+    "doi": "10.1021/acs.jcim.6c03067",
+    "title": "Targeting the \"Undruggable\" STAT3 DBD: Free-Energy Perturbation-Guided Design of Covalent Micheliolide Derivatives Targeting Cysteine 367."
+  },
+  "content": {
+    "abstract": "Pancreatic cancer remains a highly lethal malignancy, largely due to persistent STAT3 signaling that sustains cancer stem cells (CSCs) and drives therapeutic resistance. Conventional inhibitors targeting the conserved SH2 domain of STAT3 have exhibited limited selectivity and efficacy. Here, we report that micheliolide (MCL), the active metabolite of the clinical-stage candidate ACT001, inhibits STAT3 through Cys367 (C367)-dependent covalent engagement within the DNA-binding domain (DBD)-a residue unique to STAT3 among STAT family members. This specific modification disrupts STAT3 phosphorylation at Tyr705, nuclear translocation, and transcriptional activity prior to any detectable inhibition of upstream JAK phosphorylation, a finding that suggests that STAT3 inhibition is not primarily driven by upstream kinase blockade. Guided by covalent docking, R-group enumeration, and relative binding free-energy calculations via free-energy perturbation (FEP), we have designed and synthesized a series of MCL analogs. These derivatives retain comparable antiproliferative potency but exhibit markedly improved physicochemical properties, including enhanced kinetic aqueous solubility and optimized lipophilicity. Microscale thermophoresis confirms C367-dependent binding, while microsecond-scale molecular dynamics simulations and pair-interaction energy analyses highlight stable complexes in which electrostatic interactions predominate, with major contributions from key residues (Lys365, Val366, and Ile368). This study establishes C367 as a druggable covalent site in the historically challenging STAT3 DBD, validates FEP-guided optimization of covalent inhibitors, and identifies compound 16 as a promising next-generation lead with a superior drug-like profile for targeting STAT3-dependent cancers. All in all, these findings provide a foundation for advancing selective STAT3 DBD inhibitors toward clinical translation.",
+    "keywords": [],
+    "mesh_terms": [
+      "*STAT3 Transcription Factor/chemistry/metabolism/antagonists & inhibitors",
+      "*Cysteine/metabolism/chemistry",
+      "Humans",
+      "*Drug Design",
+      "Thermodynamics",
+      "Molecular Docking Simulation",
+      "Molecular Dynamics Simulation",
+      "Protein Domains",
+      "Cell Line, Tumor",
+      "Phosphorylation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Deng, Yangping",
+        "Bian, Hengwei",
+        "Zhang, Fengyuan",
+        "Lin, Jianping",
+        "Li, Hongbo",
+        "Chen, Yue",
+        "Li, Jing",
+        "Guo, Jianshuang",
+        "Fu, Haohao"
+      ],
+      "short_names": [
+        "Deng Y",
+        "Bian H",
+        "Zhang F",
+        "Lin J",
+        "Li H",
+        "Chen Y",
+        "Li J",
+        "Guo J",
+        "Fu H"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-3664-0427",
+        "ORCID: 0009-0003-8749-1702",
+        "ORCID: 0000-0001-6974-0072",
+        "ORCID: 0000-0002-1317-7097",
+        "ORCID: 0000-0002-4289-4829",
+        "ORCID: 0009-0002-5095-557X",
+        "ORCID: 0000-0003-0908-0046"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Medicinal Chemical Biology, Frontiers Science Center for New Organic Matter, College of Chemistry, Nankai University, 94 Weijin Road, Tianjin300071, China.",
+        "State Key Laboratory of Medicinal Chemical Biology, Frontiers Science Center for New Organic Matter, College of Chemistry, Nankai University, 94 Weijin Road, Tianjin300071, China.",
+        "Research Center for Analytical Sciences, Frontiers Science Center for New Organic Matter, College of Chemistry, Nankai University, Tianjin Key Laboratory of Biosensing and Molecular Recognition, State Key Laboratory of Medicinal Chemical Biology, Tianjin300071, China.",
+        "Haihe Laboratory of Sustainable Chemical Transformations, Tianjin300192, China.",
+        "State Key Laboratory of Medicinal Chemical Biology, College of Pharmacy and Tianjin Key Laboratory of Molecular Drug Research, Nankai University, Haihe Education Park, 38 Tongyan Road, Tianjin300353, China.",
+        "State Key Laboratory of Medicinal Chemical Biology, College of Pharmacy and Tianjin Key Laboratory of Molecular Drug Research, Nankai University, Haihe Education Park, 38 Tongyan Road, Tianjin300353, China.",
+        "Haihe Laboratory of Sustainable Chemical Transformations, Nankai University, Tianjin300071, China.",
+        "State Key Laboratory of Medicinal Chemical Biology, College of Pharmacy, Nankai University, Tianjin300353, China.",
+        "Biodesign Center, Tianjin Institute of Industrial Biotechnology, Chinese Academy of Sciences, 32 West seventh Avenue, Tianjin Airport Economic Area, Tianjin300308, China.",
+        "Accendatech Company, Ltd., Tianjin300193, China.",
+        "State Key Laboratory of Medicinal Chemical Biology, Frontiers Science Center for New Organic Matter, College of Chemistry, Nankai University, 94 Weijin Road, Tianjin300071, China.",
+        "State Key Laboratory of Medicinal Chemical Biology, Frontiers Science Center for New Organic Matter, College of Chemistry, Nankai University, 94 Weijin Road, Tianjin300071, China.",
+        "College of Pharmaceutical Sciences, State Key Laboratory of New Pharmaceutical Preparations and Excipients, Key Laboratory of Medicinal Chemistry and Molecular Diagnosis of Ministry of Education, Hebei University, Baoding071002, China.",
+        "State Key Laboratory of Medicinal Chemical Biology, Frontiers Science Center for New Organic Matter, College of Chemistry, Nankai University, 94 Weijin Road, Tianjin300071, China.",
+        "Research Center for Analytical Sciences, Frontiers Science Center for New Organic Matter, College of Chemistry, Nankai University, Tianjin Key Laboratory of Biosensing and Molecular Recognition, State Key Laboratory of Medicinal Chemical Biology, Tianjin300071, China.",
+        "Haihe Laboratory of Sustainable Chemical Transformations, Tianjin300192, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Deng, Yangping",
+        "short_name": "Deng Y",
+        "identifiers": [
+          "0000-0002-3664-0427"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Medicinal Chemical Biology, Frontiers Science Center for New Organic Matter, College of Chemistry, Nankai University, 94 Weijin Road, Tianjin300071, China."
+        ]
+      },
+      {
+        "full_name": "Bian, Hengwei",
+        "short_name": "Bian H",
+        "identifiers": [
+          "0009-0003-8749-1702"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Medicinal Chemical Biology, Frontiers Science Center for New Organic Matter, College of Chemistry, Nankai University, 94 Weijin Road, Tianjin300071, China.",
+          "Research Center for Analytical Sciences, Frontiers Science Center for New Organic Matter, College of Chemistry, Nankai University, Tianjin Key Laboratory of Biosensing and Molecular Recognition, State Key Laboratory of Medicinal Chemical Biology, Tianjin300071, China.",
+          "Haihe Laboratory of Sustainable Chemical Transformations, Tianjin300192, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Fengyuan",
+        "short_name": "Zhang F",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Medicinal Chemical Biology, College of Pharmacy and Tianjin Key Laboratory of Molecular Drug Research, Nankai University, Haihe Education Park, 38 Tongyan Road, Tianjin300353, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Jianping",
+        "short_name": "Lin J",
+        "identifiers": [
+          "0000-0001-6974-0072"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Medicinal Chemical Biology, College of Pharmacy and Tianjin Key Laboratory of Molecular Drug Research, Nankai University, Haihe Education Park, 38 Tongyan Road, Tianjin300353, China.",
+          "Haihe Laboratory of Sustainable Chemical Transformations, Nankai University, Tianjin300071, China.",
+          "State Key Laboratory of Medicinal Chemical Biology, College of Pharmacy, Nankai University, Tianjin300353, China.",
+          "Biodesign Center, Tianjin Institute of Industrial Biotechnology, Chinese Academy of Sciences, 32 West seventh Avenue, Tianjin Airport Economic Area, Tianjin300308, China."
+        ]
+      },
+      {
+        "full_name": "Li, Hongbo",
+        "short_name": "Li H",
+        "identifiers": [],
+        "affiliations": [
+          "Accendatech Company, Ltd., Tianjin300193, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Yue",
+        "short_name": "Chen Y",
+        "identifiers": [
+          "0000-0002-1317-7097"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Medicinal Chemical Biology, Frontiers Science Center for New Organic Matter, College of Chemistry, Nankai University, 94 Weijin Road, Tianjin300071, China."
+        ]
+      },
+      {
+        "full_name": "Li, Jing",
+        "short_name": "Li J",
+        "identifiers": [
+          "0000-0002-4289-4829"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Medicinal Chemical Biology, Frontiers Science Center for New Organic Matter, College of Chemistry, Nankai University, 94 Weijin Road, Tianjin300071, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Jianshuang",
+        "short_name": "Guo J",
+        "identifiers": [
+          "0009-0002-5095-557X"
+        ],
+        "affiliations": [
+          "College of Pharmaceutical Sciences, State Key Laboratory of New Pharmaceutical Preparations and Excipients, Key Laboratory of Medicinal Chemistry and Molecular Diagnosis of Ministry of Education, Hebei University, Baoding071002, China."
+        ]
+      },
+      {
+        "full_name": "Fu, Haohao",
+        "short_name": "Fu H",
+        "identifiers": [
+          "0000-0003-0908-0046"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Medicinal Chemical Biology, Frontiers Science Center for New Organic Matter, College of Chemistry, Nankai University, 94 Weijin Road, Tianjin300071, China.",
+          "Research Center for Analytical Sciences, Frontiers Science Center for New Organic Matter, College of Chemistry, Nankai University, Tianjin Key Laboratory of Biosensing and Molecular Recognition, State Key Laboratory of Medicinal Chemical Biology, Tianjin300071, China.",
+          "Haihe Laboratory of Sustainable Chemical Transformations, Tianjin300192, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of chemical information and modeling"
+    ],
+    "journal_abbrev": [
+      "J Chem Inf Model"
+    ],
+    "pub_date": "2026 Oct 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 18:31",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42912928"
+    ],
+    "review": [
+      "42912928"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

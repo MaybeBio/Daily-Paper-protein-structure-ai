@@ -1,0 +1,185 @@
+{
+  "identity": {
+    "pmid": "42898688",
+    "doi": "10.3389/fbioe.2026.1857362",
+    "title": "Advances and applications of engineered protein therapeutics and their role in precision medicine."
+  },
+  "content": {
+    "abstract": "Proteins are a vital class of biomolecules. They play essential roles in biological processes, including building cellular structures, forming cellular channels and receptors, catalyzing biological reactions, transporting molecules, and contributing to immune defense mechanisms. Advances in protein engineering have enabled the genetic modification of naturally occurring proteins, using recombinant deoxyribonucleic acid (DNA) technology, leading to the development of therapeutic proteins with enhanced specificity, stability, and clinical performance. Despite the rapid growth of engineered biologics, a comprehensive understanding of how these innovations intersect with precision medicine remains limited. This review addresses this gap by summarizing the major contemporary approaches used in therapeutic protein engineering, including directed evolution, rational design, and de novo protein design, and by analyzing their roles in enabling patient-tailored interventions. It provides an integrated overview of the clinical applications of engineered therapeutic proteins across key medical fields, supported by a list of U.S. Food and Drug Administration- and European Medicines Agency-approved protein therapeutics from 2020 to 2025. The review further provides a comparative perspective on major protein engineering strategies, highlighting their relative advantages and limitations, while examining differences in clinical translation across major disease areas. By combining technological advances with disease-specific applications, this review offers a perspective that has not been fully developed in the literature. Finally, the review discusses the current challenges affecting the implementation of precision medicine, including immunogenicity, regulatory constraints, and ethical considerations, and outlines future directions, such as artificial intelligence-guided protein design, targeted protein degradation, and personalized vaccine development. Collectively, these insights highlight the expanding role of engineered proteins in shaping the next-generation of precision therapeutics and emphasize the growing importance of integrating multidisciplinary approaches to advance therapeutic innovation in modern clinical practice.",
+    "keywords": [
+      "biologics",
+      "directed evolution",
+      "engineered protein therapeutics",
+      "monoclonal antibodies",
+      "precision medicine",
+      "protein engineering",
+      "recombinant DNA technology"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Aldossary, Wadha",
+        "Alqahtani, Nada",
+        "Asiri, Layla",
+        "Alkhurayef, Noora",
+        "Alagl, Samar",
+        "Alturki, Sana",
+        "Saad, Duha",
+        "Al Yahya, Mashael",
+        "Al-Harthi, Samah"
+      ],
+      "short_names": [
+        "Aldossary W",
+        "Alqahtani N",
+        "Asiri L",
+        "Alkhurayef N",
+        "Alagl S",
+        "Alturki S",
+        "Saad D",
+        "Al Yahya M",
+        "Al-Harthi S"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Saudi Food and Drug Authority, Riyadh, Saudi Arabia.",
+        "Saudi Food and Drug Authority, Riyadh, Saudi Arabia.",
+        "Saudi Food and Drug Authority, Riyadh, Saudi Arabia.",
+        "Saudi Food and Drug Authority, Riyadh, Saudi Arabia.",
+        "Saudi Food and Drug Authority, Riyadh, Saudi Arabia.",
+        "Saudi Food and Drug Authority, Riyadh, Saudi Arabia.",
+        "Saudi Food and Drug Authority, Riyadh, Saudi Arabia.",
+        "Saudi Food and Drug Authority, Riyadh, Saudi Arabia.",
+        "Saudi Food and Drug Authority, Riyadh, Saudi Arabia."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Aldossary, Wadha",
+        "short_name": "Aldossary W",
+        "identifiers": [],
+        "affiliations": [
+          "Saudi Food and Drug Authority, Riyadh, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Alqahtani, Nada",
+        "short_name": "Alqahtani N",
+        "identifiers": [],
+        "affiliations": [
+          "Saudi Food and Drug Authority, Riyadh, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Asiri, Layla",
+        "short_name": "Asiri L",
+        "identifiers": [],
+        "affiliations": [
+          "Saudi Food and Drug Authority, Riyadh, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Alkhurayef, Noora",
+        "short_name": "Alkhurayef N",
+        "identifiers": [],
+        "affiliations": [
+          "Saudi Food and Drug Authority, Riyadh, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Alagl, Samar",
+        "short_name": "Alagl S",
+        "identifiers": [],
+        "affiliations": [
+          "Saudi Food and Drug Authority, Riyadh, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Alturki, Sana",
+        "short_name": "Alturki S",
+        "identifiers": [],
+        "affiliations": [
+          "Saudi Food and Drug Authority, Riyadh, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Saad, Duha",
+        "short_name": "Saad D",
+        "identifiers": [],
+        "affiliations": [
+          "Saudi Food and Drug Authority, Riyadh, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Al Yahya, Mashael",
+        "short_name": "Al Yahya M",
+        "identifiers": [],
+        "affiliations": [
+          "Saudi Food and Drug Authority, Riyadh, Saudi Arabia."
+        ]
+      },
+      {
+        "full_name": "Al-Harthi, Samah",
+        "short_name": "Al-Harthi S",
+        "identifiers": [],
+        "affiliations": [
+          "Saudi Food and Drug Authority, Riyadh, Saudi Arabia."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Frontiers in bioengineering and biotechnology"
+    ],
+    "journal_abbrev": [
+      "Front Bioeng Biotechnol"
+    ],
+    "pub_date": "2026",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Review"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/20 11:33",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42898688"
+    ],
+    "review": [
+      "42898688"
+    ],
+    "pmc": [
+      "13678489"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://assays.cancer.gov/CPTAC-1548",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://doi.org/10.3389/fbioe.2026.1857362",
+        "provider": "Frontiers Media SA",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

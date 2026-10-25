@@ -1,0 +1,249 @@
+{
+  "identity": {
+    "pmid": "42917953",
+    "doi": "10.1021/acs.jmedchem.6c02528",
+    "title": "Mapping the N/OFQ(1-13)-NH2 Address Domain to Identify G Protein-Biased NOP Receptor Agonists."
+  },
+  "content": {
+    "abstract": "The nociceptin/orphanin FQ peptide receptor (NOP) couples to G proteins and beta-arrestins, but how the peptide address domain influences transducer preference remains unclear. We synthesized ninety N/OFQ(1-13)-NH2 analogues with acylated lysine-based or related non-natural residues at positions 5-13 and evaluated NOP-G protein and NOP-beta-arrestin 2 interactions in BRET assays. Substitutions at positions 5-7 most affected signaling. Position 7 was the main hotspot for G protein bias, while bulky benzoyl- and cyclohexanoyl-lysine substitutions at position 5 also produced significant bias. Position 8 was poorly tolerant to modification, whereas positions 9-13 generally retained agonist activity and balanced signaling. No reproducible beta-arrestin 2-biased profile was identified. Molecular dynamics and allosteric network analyses of [Lys(CyCO)5]N/OFQ(1-13)-NH2 suggested that engagement of a hydrophobic pocket at the TM3-TM5/ECL2 interface may contribute to its profile. These findings provide a position-dependent map for designing NOP peptide agonists with altered transducer preference.",
+    "keywords": [
+      "G protein",
+      "NOP receptor",
+      "Nociceptin/Orphanin FQ",
+      "peptide structure-activity relationships",
+      "protein",
+      "beta-arrestin 2"
+    ],
+    "mesh_terms": [
+      "Nociceptin Receptor",
+      "*Receptors, Opioid/agonists/metabolism/chemistry",
+      "Humans",
+      "*GTP-Binding Proteins/metabolism",
+      "Structure-Activity Relationship",
+      "HEK293 Cells",
+      "Molecular Dynamics Simulation",
+      "Animals",
+      "*Opioid Peptides/chemistry/pharmacology",
+      "Protein Domains"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Meneguzzo, Giulio",
+        "Morrone, Erika",
+        "Scarpa, Daniele",
+        "Rizzo, Alessandra",
+        "Marzola, Erika",
+        "Ciancetta, Antonella",
+        "Illuminati, Davide",
+        "Albanese, Valentina",
+        "De Ventura, Tiziano",
+        "Preti, Delia",
+        "Calo, Girolamo",
+        "Malfacini, Davide",
+        "Pacifico, Salvatore",
+        "Guerrini, Remo"
+      ],
+      "short_names": [
+        "Meneguzzo G",
+        "Morrone E",
+        "Scarpa D",
+        "Rizzo A",
+        "Marzola E",
+        "Ciancetta A",
+        "Illuminati D",
+        "Albanese V",
+        "De Ventura T",
+        "Preti D",
+        "Calo G",
+        "Malfacini D",
+        "Pacifico S",
+        "Guerrini R"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-7612-2050",
+        "ORCID: 0000-0002-0321-1941",
+        "ORCID: 0000-0002-1075-3781",
+        "ORCID: 0000-0003-4562-9550",
+        "ORCID: 0000-0002-3377-5107"
+      ],
+      "affiliations": [
+        "Department of Chemical, Pharmaceutical and Agricultural Sciences, University of Ferrara, Via Luigi Borsari 46, 44121Ferrara, Italy.",
+        "Department of Pharmaceutical and Pharmacological Sciences, Section of Pharmacology, University of Padova, Largo Meneghetti, 2, 35131Padova, Italy.",
+        "Department of Chemical, Pharmaceutical and Agricultural Sciences, University of Ferrara, Via Luigi Borsari 46, 44121Ferrara, Italy.",
+        "Department of Chemical, Pharmaceutical and Agricultural Sciences, University of Ferrara, Via Luigi Borsari 46, 44121Ferrara, Italy.",
+        "Department of Chemical, Pharmaceutical and Agricultural Sciences, University of Ferrara, Via Luigi Borsari 46, 44121Ferrara, Italy.",
+        "Department of Chemical, Pharmaceutical and Agricultural Sciences, University of Ferrara, Via Luigi Borsari 46, 44121Ferrara, Italy.",
+        "Department of Chemical, Pharmaceutical and Agricultural Sciences, University of Ferrara, Via Luigi Borsari 46, 44121Ferrara, Italy.",
+        "Department of Chemical, Pharmaceutical and Agricultural Sciences, University of Ferrara, Via Luigi Borsari 46, 44121Ferrara, Italy.",
+        "Department of Chemical, Pharmaceutical and Agricultural Sciences, University of Ferrara, Via Luigi Borsari 46, 44121Ferrara, Italy.",
+        "Department of Chemical, Pharmaceutical and Agricultural Sciences, University of Ferrara, Via Luigi Borsari 46, 44121Ferrara, Italy.",
+        "Department of Pharmaceutical and Pharmacological Sciences, Section of Pharmacology, University of Padova, Largo Meneghetti, 2, 35131Padova, Italy.",
+        "Department of Pharmaceutical and Pharmacological Sciences, Section of Pharmacology, University of Padova, Largo Meneghetti, 2, 35131Padova, Italy.",
+        "Department of Chemical, Pharmaceutical and Agricultural Sciences, University of Ferrara, Via Luigi Borsari 46, 44121Ferrara, Italy.",
+        "Department of Chemical, Pharmaceutical and Agricultural Sciences, University of Ferrara, Via Luigi Borsari 46, 44121Ferrara, Italy.",
+        "Laboratory for Advanced Therapies (LTTA), Technopole of Ferrara, Via Fossato di Mortara 70, 44121Ferrara, Italy."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Meneguzzo, Giulio",
+        "short_name": "Meneguzzo G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical, Pharmaceutical and Agricultural Sciences, University of Ferrara, Via Luigi Borsari 46, 44121Ferrara, Italy."
+        ]
+      },
+      {
+        "full_name": "Morrone, Erika",
+        "short_name": "Morrone E",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmaceutical and Pharmacological Sciences, Section of Pharmacology, University of Padova, Largo Meneghetti, 2, 35131Padova, Italy."
+        ]
+      },
+      {
+        "full_name": "Scarpa, Daniele",
+        "short_name": "Scarpa D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical, Pharmaceutical and Agricultural Sciences, University of Ferrara, Via Luigi Borsari 46, 44121Ferrara, Italy."
+        ]
+      },
+      {
+        "full_name": "Rizzo, Alessandra",
+        "short_name": "Rizzo A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical, Pharmaceutical and Agricultural Sciences, University of Ferrara, Via Luigi Borsari 46, 44121Ferrara, Italy."
+        ]
+      },
+      {
+        "full_name": "Marzola, Erika",
+        "short_name": "Marzola E",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical, Pharmaceutical and Agricultural Sciences, University of Ferrara, Via Luigi Borsari 46, 44121Ferrara, Italy."
+        ]
+      },
+      {
+        "full_name": "Ciancetta, Antonella",
+        "short_name": "Ciancetta A",
+        "identifiers": [
+          "0000-0002-7612-2050"
+        ],
+        "affiliations": [
+          "Department of Chemical, Pharmaceutical and Agricultural Sciences, University of Ferrara, Via Luigi Borsari 46, 44121Ferrara, Italy."
+        ]
+      },
+      {
+        "full_name": "Illuminati, Davide",
+        "short_name": "Illuminati D",
+        "identifiers": [
+          "0000-0002-0321-1941"
+        ],
+        "affiliations": [
+          "Department of Chemical, Pharmaceutical and Agricultural Sciences, University of Ferrara, Via Luigi Borsari 46, 44121Ferrara, Italy."
+        ]
+      },
+      {
+        "full_name": "Albanese, Valentina",
+        "short_name": "Albanese V",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical, Pharmaceutical and Agricultural Sciences, University of Ferrara, Via Luigi Borsari 46, 44121Ferrara, Italy."
+        ]
+      },
+      {
+        "full_name": "De Ventura, Tiziano",
+        "short_name": "De Ventura T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical, Pharmaceutical and Agricultural Sciences, University of Ferrara, Via Luigi Borsari 46, 44121Ferrara, Italy."
+        ]
+      },
+      {
+        "full_name": "Preti, Delia",
+        "short_name": "Preti D",
+        "identifiers": [
+          "0000-0002-1075-3781"
+        ],
+        "affiliations": [
+          "Department of Chemical, Pharmaceutical and Agricultural Sciences, University of Ferrara, Via Luigi Borsari 46, 44121Ferrara, Italy."
+        ]
+      },
+      {
+        "full_name": "Caló, Girolamo",
+        "short_name": "Caló G",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Pharmaceutical and Pharmacological Sciences, Section of Pharmacology, University of Padova, Largo Meneghetti, 2, 35131Padova, Italy."
+        ]
+      },
+      {
+        "full_name": "Malfacini, Davide",
+        "short_name": "Malfacini D",
+        "identifiers": [
+          "0000-0003-4562-9550"
+        ],
+        "affiliations": [
+          "Department of Pharmaceutical and Pharmacological Sciences, Section of Pharmacology, University of Padova, Largo Meneghetti, 2, 35131Padova, Italy."
+        ]
+      },
+      {
+        "full_name": "Pacifico, Salvatore",
+        "short_name": "Pacifico S",
+        "identifiers": [
+          "0000-0002-3377-5107"
+        ],
+        "affiliations": [
+          "Department of Chemical, Pharmaceutical and Agricultural Sciences, University of Ferrara, Via Luigi Borsari 46, 44121Ferrara, Italy."
+        ]
+      },
+      {
+        "full_name": "Guerrini, Remo",
+        "short_name": "Guerrini R",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical, Pharmaceutical and Agricultural Sciences, University of Ferrara, Via Luigi Borsari 46, 44121Ferrara, Italy.",
+          "Laboratory for Advanced Therapies (LTTA), Technopole of Ferrara, Via Fossato di Mortara 70, 44121Ferrara, Italy."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of medicinal chemistry"
+    ],
+    "journal_abbrev": [
+      "J Med Chem"
+    ],
+    "pub_date": "2026 Oct 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:32",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42917953"
+    ],
+    "review": [
+      "42917953"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

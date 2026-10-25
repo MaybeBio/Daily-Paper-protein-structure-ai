@@ -1,0 +1,189 @@
+{
+  "identity": {
+    "pmid": "42899768",
+    "doi": "10.1021/acsnano.6c11958",
+    "title": "Modeling Phase Separation in Polymer-Derived Silicon Carbonitride Ceramics through Extended Machine Learning Molecular Dynamics."
+  },
+  "content": {
+    "abstract": "Polymer-derived ceramics combine the thermal stability of ceramics with the versatile properties of carbon domains, but modeling their atomic-scale evolution during processing remains elusive because of the limitations of traditional computational methods. To address this issue, here, we develop and apply a machine learning interatomic potential for hydrogen-containing silicon carbonitride-based (SiCNH) ceramics, trained on a diversified database of over 9000 configurations horizontal line including amorphous models, high-temperature states, surfaces, and crystal structure predictions horizontal line to capture the full complexity of these materials. This potential enables large-scale molecular dynamics simulations of 8000-atom systems, revealing the atomic-scale evolution of the polymer-derived ceramic during thermal treatment. A key result of this work is the occurrence of a phase separation, where carbon domains progressively nucleate from the amorphous SiCN matrix during thermal processing, forming distinct graphene-like sheets while preserving the integrity of the ceramic network. The resulting models reproduce the experimental atomic pair distribution functions, supporting our approach and providing microscopic explanations for the material combination of the ceramic and graphitic properties. In this process, defective 5- and/or 7-member carbon rings mediate the transformation to stable 6-member aromatic structures. These findings provide atomic-scale information about the thermal stability and structural transformation pathways of polymer-derived ceramics and demonstrate the applicability of the methodology to complex amorphous systems at experimentally relevant scales.",
+    "keywords": [
+      "amorphous",
+      "atomic-scale",
+      "carbon",
+      "ceramics",
+      "machine learning potentials",
+      "nanoscale",
+      "phase separation",
+      "polymer-derived"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Mortier, Fabien",
+        "Cadars, Sylvian",
+        "Masson, Olivier",
+        "Boero, Mauro",
+        "Ori, Guido",
+        "Wang, Yun",
+        "Bernard, Samuel",
+        "Bouzid, Assil"
+      ],
+      "short_names": [
+        "Mortier F",
+        "Cadars S",
+        "Masson O",
+        "Boero M",
+        "Ori G",
+        "Wang Y",
+        "Bernard S",
+        "Bouzid A"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-0036-3859",
+        "ORCID: 0000-0002-5052-2849",
+        "ORCID: 0000-0003-3336-8277",
+        "ORCID: 0000-0001-8619-0455",
+        "ORCID: 0000-0001-5865-0047",
+        "ORCID: 0000-0002-9363-7240"
+      ],
+      "affiliations": [
+        "Institut de Recherche sur les Ceramiques, UMR 7315 CNRS-Universite de Limoges, Centre Europeen de la Ceramique, 12 rue Atlantis, 87068Limoges, France.",
+        "Institut de Recherche sur les Ceramiques, UMR 7315 CNRS-Universite de Limoges, Centre Europeen de la Ceramique, 12 rue Atlantis, 87068Limoges, France.",
+        "Institut de Recherche sur les Ceramiques, UMR 7315 CNRS-Universite de Limoges, Centre Europeen de la Ceramique, 12 rue Atlantis, 87068Limoges, France.",
+        "University of Strasbourg, CNRS, ICube Laboratory UMR 7357, F-67412Illkirch, France.",
+        "ADYNMAT CNRS consortium, F-67034Strasbourg, France.",
+        "ADYNMAT CNRS consortium, F-67034Strasbourg, France.",
+        "Universite de Strasbourg, CNRS, Institut de Physique et Chimie de des Materiaux de Strasbourg, UMR 7504, F-67034Strasbourg, France.",
+        "School of Environment and Science, Griffith University, Gold Coast4222, Australia.",
+        "Institut de Recherche sur les Ceramiques, UMR 7315 CNRS-Universite de Limoges, Centre Europeen de la Ceramique, 12 rue Atlantis, 87068Limoges, France.",
+        "Institut de Recherche sur les Ceramiques, UMR 7315 CNRS-Universite de Limoges, Centre Europeen de la Ceramique, 12 rue Atlantis, 87068Limoges, France."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Mortier, Fabien",
+        "short_name": "Mortier F",
+        "identifiers": [],
+        "affiliations": [
+          "Institut de Recherche sur les Céramiques, UMR 7315 CNRS-Université de Limoges, Centre Européen de la Céramique, 12 rue Atlantis, 87068Limoges, France."
+        ]
+      },
+      {
+        "full_name": "Cadars, Sylvian",
+        "short_name": "Cadars S",
+        "identifiers": [],
+        "affiliations": [
+          "Institut de Recherche sur les Céramiques, UMR 7315 CNRS-Université de Limoges, Centre Européen de la Céramique, 12 rue Atlantis, 87068Limoges, France."
+        ]
+      },
+      {
+        "full_name": "Masson, Olivier",
+        "short_name": "Masson O",
+        "identifiers": [
+          "0000-0003-0036-3859"
+        ],
+        "affiliations": [
+          "Institut de Recherche sur les Céramiques, UMR 7315 CNRS-Université de Limoges, Centre Européen de la Céramique, 12 rue Atlantis, 87068Limoges, France."
+        ]
+      },
+      {
+        "full_name": "Boero, Mauro",
+        "short_name": "Boero M",
+        "identifiers": [
+          "0000-0002-5052-2849"
+        ],
+        "affiliations": [
+          "University of Strasbourg, CNRS, ICube Laboratory UMR 7357, F-67412Illkirch, France.",
+          "ADYNMAT CNRS consortium, F-67034Strasbourg, France."
+        ]
+      },
+      {
+        "full_name": "Ori, Guido",
+        "short_name": "Ori G",
+        "identifiers": [
+          "0000-0003-3336-8277"
+        ],
+        "affiliations": [
+          "ADYNMAT CNRS consortium, F-67034Strasbourg, France.",
+          "Université de Strasbourg, CNRS, Institut de Physique et Chimie de des Matériaux de Strasbourg, UMR 7504, F-67034Strasbourg, France."
+        ]
+      },
+      {
+        "full_name": "Wang, Yun",
+        "short_name": "Wang Y",
+        "identifiers": [
+          "0000-0001-8619-0455"
+        ],
+        "affiliations": [
+          "School of Environment and Science, Griffith University, Gold Coast4222, Australia."
+        ]
+      },
+      {
+        "full_name": "Bernard, Samuel",
+        "short_name": "Bernard S",
+        "identifiers": [
+          "0000-0001-5865-0047"
+        ],
+        "affiliations": [
+          "Institut de Recherche sur les Céramiques, UMR 7315 CNRS-Université de Limoges, Centre Européen de la Céramique, 12 rue Atlantis, 87068Limoges, France."
+        ]
+      },
+      {
+        "full_name": "Bouzid, Assil",
+        "short_name": "Bouzid A",
+        "identifiers": [
+          "0000-0002-9363-7240"
+        ],
+        "affiliations": [
+          "Institut de Recherche sur les Céramiques, UMR 7315 CNRS-Université de Limoges, Centre Européen de la Céramique, 12 rue Atlantis, 87068Limoges, France."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS nano"
+    ],
+    "journal_abbrev": [
+      "ACS Nano"
+    ],
+    "pub_date": "2026 Oct 20",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/20 17:34",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42899768"
+    ],
+    "review": [
+      "42899768"
+    ],
+    "pmc": [
+      "13689924"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/ancac3/article-lookup/doi/10.1021/acsnano.6c11958",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

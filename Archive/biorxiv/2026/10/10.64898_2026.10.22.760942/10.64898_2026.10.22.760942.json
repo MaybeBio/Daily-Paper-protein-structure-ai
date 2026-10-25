@@ -1,0 +1,269 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.22.760942",
+  "title": "Projected Gradient Descent for Hallucination-Based Protein Binder Design",
+  "doi": "10.64898/2026.10.22.760942",
+  "abstract": "Gradient-based hallucination is a popular approach to protein binder design that backpropagates a loss defined on a structure predictor's output to guide optimisation in a continuous relaxation of sequence space, yet the choice of optimiser for this task has received little systematic evaluation. In this work we evaluate simplex-projected gradient descent (PGD) as an alternative to the commonly used gradient descent on softmax-reparameterised sequence logits. By updating amino-acid probabilities directly, PGD avoids softmax-induced gradient attenuation and allows amino acids suppressed early in optimisation to re-enter the design. Using an ESMFold2-based pipeline on ten targets, we find that PGD minimises the design loss in fewer iterations and produces designs with higher predicted interface confidence compared to its softmax counterpart. Simulating selection in real campaigns by considering the upper tail of the ipSAE distribution across a pool of 1,024 designs per target, we show that PGD significantly improves on six of the ten targets, with no significant degradation on any, and produces more structurally diverse designs on every target. Additionally, we find that pairing shorter PGD runs with candidate screening raises the total number of in silico hits per GPU-hour by 29\\% relative to default-length trajectories. These results support PGD as a simple and effective alternative for hallucination-based binder design. Code and design data are publicly available.",
+  "authors": [
+    "Magnus Ross",
+    "David Miller",
+    "Jude Wells"
+  ],
+  "published_date": "2026-10-23",
+  "updated_date": "2026-10-23T12:10:13Z",
+  "journal": "bioRxiv",
+  "category": "Bioinformatics",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.22.760942",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.22.760942.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [
+    "Bioinformatics"
+  ],
+  "extra": {
+    "publisher": "openRxiv",
+    "prefix": "10.64898",
+    "type": "posted-content",
+    "group_title": "Bioinformatics",
+    "raw_record": {
+      "institution": [
+        {
+          "name": "bioRxiv"
+        }
+      ],
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            23
+          ]
+        ],
+        "date-time": "2026-10-23T12:44:41Z",
+        "timestamp": 1792759481602,
+        "version": "4.5.0"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            23
+          ]
+        ]
+      },
+      "group-title": "Bioinformatics",
+      "reference-count": 0,
+      "publisher": "openRxiv",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                23
+              ]
+            ],
+            "date-time": "2026-10-23T00:00:00Z",
+            "timestamp": 1792713600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "name": "EPSRC Digital Health Hub for Antimicrobial Resistance",
+          "award": [
+            "EP/X031276/1"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "EP/X031276/1"
+              ]
+            }
+          ]
+        },
+        {
+          "award": [
+            "MR/W006774/1"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "MR/W006774/1"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/03hr7y002",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "award": [
+            "ST/AIRR/I-A-I/1023"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "ST/AIRR/I-A-I/1023"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "https://ror.org/057g20z61",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "accepted": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            23
+          ]
+        ]
+      },
+      "abstract": "<jats:p>Gradient-based hallucination is a popular approach to protein binder design that backpropagates a loss defined on a structure predictor's output to guide optimisation in a continuous relaxation of sequence space, yet the choice of optimiser for this task has received little systematic evaluation. In this work we evaluate simplex-projected gradient descent (PGD) as an alternative to the commonly used gradient descent on softmax-reparameterised sequence logits. By updating amino-acid probabilities directly, PGD avoids softmax-induced gradient attenuation and allows amino acids suppressed early in optimisation to re-enter the design. Using an ESMFold2-based pipeline on ten targets, we find that PGD minimises the design loss in fewer iterations and produces designs with higher predicted interface confidence compared to its softmax counterpart. Simulating selection in real campaigns by considering the upper tail of the ipSAE distribution across a pool of 1,024 designs per target, we show that PGD significantly improves on six of the ten targets, with no significant degradation on any, and produces more structurally diverse designs on every target. Additionally, we find that pairing shorter PGD runs with candidate screening raises the total number of in silico hits per GPU-hour by 29\\% relative to default-length trajectories. These results support PGD as a simple and effective alternative for hallucination-based binder design. Code and design data are publicly available.</jats:p>",
+      "DOI": "10.64898/2026.10.22.760942",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            23
+          ]
+        ],
+        "date-time": "2026-10-23T12:10:13Z",
+        "timestamp": 1792757413000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Projected Gradient Descent for Hallucination-Based Protein Binder Design"
+      ],
+      "prefix": "10.64898",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-2923-3305",
+          "authenticated-orcid": false,
+          "given": "Magnus",
+          "family": "Ross",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "University College London;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-5197-4874",
+          "authenticated-orcid": false,
+          "given": "David",
+          "family": "Miller",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University College London;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5358-2310",
+          "authenticated-orcid": false,
+          "given": "Jude",
+          "family": "Wells",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Fold9"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "54368",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.64898/2026.10.22.760942",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            23
+          ]
+        ],
+        "date-time": "2026-10-23T12:10:13Z",
+        "timestamp": 1792757413000
+      },
+      "score": 51.32494,
+      "resource": {
+        "primary": {
+          "URL": "http://biorxiv.org/lookup/doi/10.64898/2026.10.22.760942"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            23
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.64898/2026.10.22.760942",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            23
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

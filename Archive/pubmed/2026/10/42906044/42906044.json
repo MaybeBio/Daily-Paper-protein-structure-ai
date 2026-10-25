@@ -1,0 +1,189 @@
+{
+  "identity": {
+    "pmid": "42906044",
+    "doi": "10.1021/acs.jcim.6c01356",
+    "title": "Distinct Lipid Binding Dynamics and Sodium Ion Coordination in the TRAP Transporter HiSiaQM Revealed by Multiscale Molecular Dynamics Simulations."
+  },
+  "content": {
+    "abstract": "Tripartite ATP-independent periplasmic (TRAP) transporters are substrate-binding protein dependent secondary transporters that leverage ion gradients to facilitate substrate translocation across bacterial and archaeal membranes. Although the structure of HiSiaQM horizontal line a membrane-embedded TRAP subunit from the human pathogen Haemophilus influenzae  horizontal line has recently been determined, its transport mechanism is not fully understood. Given the likely importance of lipid interactions and ion coordination dynamics to the transport cycle, we applied multiscale molecular dynamics simulations to investigate these two complementary aspects of HiSiaQM function. Our simulations validated an experimentally identified lipid-binding site (BS1) and provided insight into its lipid-binding dynamics. BS1 is preferentially occupied by the anionic POPG, which is stabilized through persistent hydrogen bonds involving residues H100, R104, and R181. Additionally, our simulations revealed a novel, less stable lipid-binding site (BS2) that is selectively occupied by POPE. We suggest distinct lipid-binding behaviors for POPG and POPE, with POPG forming more persistent interactions at BS1 and POPE engaging more transiently at BS2; however, these remain to be tested experimentally. Analysis of sodium ion coordination at two known binding sites (Na1 and Na2) revealed contrasting dynamics: Na1 exhibited stable ion retention through backbone carbonyl coordination, while Na2 displayed lower stability due to involvement of the flexible side chain of T561. Geometric tunnel analysis identified possible sodium-exit pathways, supporting a working hypothesis that Na1 may act as a stable anchoring site and Na2 may function as a transient ion-exchange point during the transport cycle. Collectively, our findings provide mechanistic insights into how specific lipid interactions and sodium ion coordination could modulate HiSiaQM transporter function.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Molecular Dynamics Simulation",
+      "*Sodium/metabolism/chemistry",
+      "Binding Sites",
+      "Protein Binding",
+      "Haemophilus influenzae/metabolism",
+      "*Bacterial Proteins/chemistry/metabolism",
+      "*Membrane Transport Proteins/metabolism/chemistry",
+      "Protein Conformation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Quan, Senwei",
+        "Davies, James S",
+        "North, Rachel A",
+        "Hall, Kelsi R",
+        "Turk, Liam S",
+        "Newton-Vesty, Michael C",
+        "Dobson, Renwick C J",
+        "Allison, Jane R"
+      ],
+      "short_names": [
+        "Quan S",
+        "Davies JS",
+        "North RA",
+        "Hall KR",
+        "Turk LS",
+        "Newton-Vesty MC",
+        "Dobson RCJ",
+        "Allison JR"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-5611-3010",
+        "ORCID: 0000-0002-5699-1726"
+      ],
+      "affiliations": [
+        "School of Biological Sciences, University of Auckland, Auckland1010, New Zealand.",
+        "Victor Chang Cardiac Research Institute , Sydney, NSW2010, Australia.",
+        "School of Medical Sciences, Faculty of Medicine and Health, University of Sydney, Sydney, NSW2010, Australia.",
+        "Biomolecular Interaction Centre, University of Canterbury, Christchurch8140, New Zealand.",
+        "Maurice Wilkins Centre for Molecular Biodiscovery, University of Auckland, Auckland1010, New Zealand.",
+        "School of Biological Sciences, University of Canterbury, Christchurch8140, New Zealand.",
+        "Biomolecular Interaction Centre, University of Canterbury, Christchurch8140, New Zealand.",
+        "School of Biological Sciences, University of Canterbury, Christchurch8140, New Zealand.",
+        "Biomolecular Interaction Centre, University of Canterbury, Christchurch8140, New Zealand.",
+        "School of Biological Sciences, University of Canterbury, Christchurch8140, New Zealand.",
+        "Biomolecular Interaction Centre, University of Canterbury, Christchurch8140, New Zealand.",
+        "Maurice Wilkins Centre for Molecular Biodiscovery, University of Auckland, Auckland1010, New Zealand.",
+        "School of Biological Sciences, University of Canterbury, Christchurch8140, New Zealand.",
+        "Department of Biochemistry and Pharmacology, Bio21 Molecular Science and Biotechnology Institute, University of Melbourne, Parkville, Melbourne, Victoria3010, Australia.",
+        "School of Biological Sciences, University of Auckland, Auckland1010, New Zealand.",
+        "Biomolecular Interaction Centre, University of Canterbury, Christchurch8140, New Zealand.",
+        "Maurice Wilkins Centre for Molecular Biodiscovery, University of Auckland, Auckland1010, New Zealand."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Quan, Senwei",
+        "short_name": "Quan S",
+        "identifiers": [],
+        "affiliations": [
+          "School of Biological Sciences, University of Auckland, Auckland1010, New Zealand."
+        ]
+      },
+      {
+        "full_name": "Davies, James S",
+        "short_name": "Davies JS",
+        "identifiers": [],
+        "affiliations": [
+          "Victor Chang Cardiac Research Institute , Sydney, NSW2010, Australia."
+        ]
+      },
+      {
+        "full_name": "North, Rachel A",
+        "short_name": "North RA",
+        "identifiers": [],
+        "affiliations": [
+          "School of Medical Sciences, Faculty of Medicine and Health, University of Sydney, Sydney, NSW2010, Australia."
+        ]
+      },
+      {
+        "full_name": "Hall, Kelsi R",
+        "short_name": "Hall KR",
+        "identifiers": [
+          "0000-0001-5611-3010"
+        ],
+        "affiliations": [
+          "Biomolecular Interaction Centre, University of Canterbury, Christchurch8140, New Zealand.",
+          "Maurice Wilkins Centre for Molecular Biodiscovery, University of Auckland, Auckland1010, New Zealand.",
+          "School of Biological Sciences, University of Canterbury, Christchurch8140, New Zealand."
+        ]
+      },
+      {
+        "full_name": "Turk, Liam S",
+        "short_name": "Turk LS",
+        "identifiers": [],
+        "affiliations": [
+          "Biomolecular Interaction Centre, University of Canterbury, Christchurch8140, New Zealand.",
+          "School of Biological Sciences, University of Canterbury, Christchurch8140, New Zealand."
+        ]
+      },
+      {
+        "full_name": "Newton-Vesty, Michael C",
+        "short_name": "Newton-Vesty MC",
+        "identifiers": [],
+        "affiliations": [
+          "Biomolecular Interaction Centre, University of Canterbury, Christchurch8140, New Zealand.",
+          "School of Biological Sciences, University of Canterbury, Christchurch8140, New Zealand."
+        ]
+      },
+      {
+        "full_name": "Dobson, Renwick C J",
+        "short_name": "Dobson RCJ",
+        "identifiers": [],
+        "affiliations": [
+          "Biomolecular Interaction Centre, University of Canterbury, Christchurch8140, New Zealand.",
+          "Maurice Wilkins Centre for Molecular Biodiscovery, University of Auckland, Auckland1010, New Zealand.",
+          "School of Biological Sciences, University of Canterbury, Christchurch8140, New Zealand.",
+          "Department of Biochemistry and Pharmacology, Bio21 Molecular Science and Biotechnology Institute, University of Melbourne, Parkville, Melbourne, Victoria3010, Australia."
+        ]
+      },
+      {
+        "full_name": "Allison, Jane R",
+        "short_name": "Allison JR",
+        "identifiers": [
+          "0000-0002-5699-1726"
+        ],
+        "affiliations": [
+          "School of Biological Sciences, University of Auckland, Auckland1010, New Zealand.",
+          "Biomolecular Interaction Centre, University of Canterbury, Christchurch8140, New Zealand.",
+          "Maurice Wilkins Centre for Molecular Biodiscovery, University of Auckland, Auckland1010, New Zealand."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of chemical information and modeling"
+    ],
+    "journal_abbrev": [
+      "J Chem Inf Model"
+    ],
+    "pub_date": "2026 Sep 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/22 23:29",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42906044"
+    ],
+    "review": [
+      "42906044"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/jcisd8/article-lookup/doi/10.1021/acs.jcim.6c01356",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

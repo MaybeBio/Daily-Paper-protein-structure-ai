@@ -1,0 +1,128 @@
+{
+  "identity": {
+    "pmid": "42910865",
+    "doi": "10.1021/acs.jpcb.6c03249",
+    "title": "Flexibility of the TRMT10C N-Terminal Domain Helix Explored by Molecular Dynamics Simulations."
+  },
+  "content": {
+    "abstract": "The human mitochondrial tRNA methyltransferase TRMT10C contains a 41-residue long positively charged alpha-helix in its N-terminal domain, interacting with tRNAs from the anticodon to the T-loops. Here, we investigated the flexibility of this N-terminal long alpha-helix using comparative molecular dynamics simulations in explicit solvent with three different force fields/water model combinations, alongside two helices of identical length but different sequences: a polyalanine helix and an AEEEKRK repeat helix. We also expanded our simulations to three additional helices belonging to the Trm10 family. Five independent 1-mus simulations were performed for each system. The human TRMT10C helix turned out to display heterogeneous dynamics, with a stable alpha-helical segment (residues 132-139) embedded within more flexible regions and this trend was also observed in the human Trm10 family members. This relatively rigid segment is more hydrophobic, whereas the remaining portion is enriched in charged residues and shows higher conformational variability. The rigid region corresponds to the portion interacting with the cavity formed by tRNA and TRMT10C N-terminal domain. Additional simulations using alternative force-field and water-model combinations supported the robustness of the overall flexibility ranking for the AEEEKRK repeat helix and the TRMT10C helix, but it gave force-field-dependent results for the structural dynamics of the polyalanine helix. Simulations of the N-terminal helices of other TRMT10C homologues revealed similar flexibility profiles, suggesting that the observed trends are generalizable across the family. Based on our results, we suggest that the human TRMT10C helix is tuned to combine localized rigidity to provide localized structural support that helps present the fragile mitochondrial tRNA to the maturation enzymes with overall flexibility for conformational adaptation, facilitating tRNA positioning and efficient catalysis.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Molecular Dynamics Simulation",
+      "Humans",
+      "*tRNA Methyltransferases/chemistry/metabolism",
+      "Protein Domains",
+      "Protein Conformation, alpha-Helical",
+      "Amino Acid Sequence",
+      "Protein Structure, Secondary"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Hoang, Gia Linh",
+        "Rossetti, Giulia",
+        "Tisne, Carine",
+        "Carloni, Paolo"
+      ],
+      "short_names": [
+        "Hoang GL",
+        "Rossetti G",
+        "Tisne C",
+        "Carloni P"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-5922-2685",
+        "ORCID: 0000-0002-2032-4630",
+        "ORCID: 0000-0001-5534-4650",
+        "ORCID: 0000-0002-9010-0149"
+      ],
+      "affiliations": [
+        "Institute for Neuroscience and Medicine (INM-9), Forschungszentrum Julich, 52425Julich, Germany.",
+        "Institute for Neuroscience and Medicine (INM-9), Forschungszentrum Julich, 52425Julich, Germany.",
+        "Department of Neurology, Medical Faculty, RWTH Aachen University, 52074Aachen, Germany.",
+        "Julich Supercomputing Centre (JSC), Forschungszentrum Julich, 52425Julich, Germany.",
+        "Universite Paris Cite, CNRS, Institut de Biologie Physico-Chimique (IBPC), Microbial gene expression unit, 75005Paris, France.",
+        "Institute for Neuroscience and Medicine (INM-9), Forschungszentrum Julich, 52425Julich, Germany."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Hoang, Gia Linh",
+        "short_name": "Hoang GL",
+        "identifiers": [
+          "0000-0001-5922-2685"
+        ],
+        "affiliations": [
+          "Institute for Neuroscience and Medicine (INM-9), Forschungszentrum Jülich, 52425Jülich, Germany."
+        ]
+      },
+      {
+        "full_name": "Rossetti, Giulia",
+        "short_name": "Rossetti G",
+        "identifiers": [
+          "0000-0002-2032-4630"
+        ],
+        "affiliations": [
+          "Institute for Neuroscience and Medicine (INM-9), Forschungszentrum Jülich, 52425Jülich, Germany.",
+          "Department of Neurology, Medical Faculty, RWTH Aachen University, 52074Aachen, Germany.",
+          "Jülich Supercomputing Centre (JSC), Forschungszentrum Jülich, 52425Jülich, Germany."
+        ]
+      },
+      {
+        "full_name": "Tisné, Carine",
+        "short_name": "Tisné C",
+        "identifiers": [
+          "0000-0001-5534-4650"
+        ],
+        "affiliations": [
+          "Université Paris Cité, CNRS, Institut de Biologie Physico-Chimique (IBPC), Microbial gene expression unit, 75005Paris, France."
+        ]
+      },
+      {
+        "full_name": "Carloni, Paolo",
+        "short_name": "Carloni P",
+        "identifiers": [
+          "0000-0002-9010-0149"
+        ],
+        "affiliations": [
+          "Institute for Neuroscience and Medicine (INM-9), Forschungszentrum Jülich, 52425Jülich, Germany."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The journal of physical chemistry. B"
+    ],
+    "journal_abbrev": [
+      "J Phys Chem B"
+    ],
+    "pub_date": "2026 Oct 22",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 18:31",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42910865"
+    ],
+    "review": [
+      "42910865"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

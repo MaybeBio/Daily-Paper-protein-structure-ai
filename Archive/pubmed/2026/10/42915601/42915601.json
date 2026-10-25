@@ -1,0 +1,99 @@
+{
+  "identity": {
+    "pmid": "42915601",
+    "doi": "10.1021/acs.biochem.6c00487",
+    "title": "Comparative Simulations of Conformational Flexibility during Radical Transport in Ribonucleotide Reductase."
+  },
+  "content": {
+    "abstract": "Ribonucleotide reductase (RNR) is an essential enzyme that converts ribonucleotides to deoxyribonucleotides, utilizing a  approximately 32 A chain of proton-coupled electron transfer (PCET) reactions spanning two protein subunits to generate a catalytic cysteine radical. Two cryogenic electron microscopy structures of the active complex of E. coli RNR are currently available. One structure was trapped in the preturnover state, prior to radical translocation, and the other structure was trapped in the midturnover state, with the radical in the active site. Herein, we use molecular dynamics simulations to investigate the differences in hydrogen-bonding interactions and conformational motions between the preturnover and midturnover states. Our simulations show that Y731, an interfacial tyrosine that participates in the PCET pathway, samples multiple conformations in both states, allowing it to participate in forward and reverse PCET between subunits. We also observe interfacial water channels between the protein subunits in both states. Moreover, our simulations show that E623, which is near Y730 in the preturnover structure and was shown by previous simulations to mediate PCET between Y731 and Y730, can also sample conformations distal to Y730 in the preturnover state, similar to its position in the midturnover structure. Our mixed quantum mechanical/molecular mechanical free energy simulations indicate that forward radical transfer from Y731 to Y730 is thermodynamically favorable with a reasonable free energy barrier, even in the absence of mediation by E623. These results provide insights into the critical role of conformational motions and flexibility in regulating PCET reactions at and near the protein subunit interface of RNR.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Ribonucleotide Reductases/chemistry/metabolism",
+      "*Molecular Dynamics Simulation",
+      "Protein Conformation",
+      "Hydrogen Bonding",
+      "*Escherichia coli/enzymology",
+      "Electron Transport",
+      "Catalytic Domain",
+      "*Escherichia coli Proteins/chemistry/metabolism"
+    ],
+    "pub_types": [
+      "Comparative Study",
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Tremblay, Matthew",
+        "Hammes-Schiffer, Sharon"
+      ],
+      "short_names": [
+        "Tremblay M",
+        "Hammes-Schiffer S"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-6378-2685",
+        "ORCID: 0000-0002-3782-6995"
+      ],
+      "affiliations": [
+        "Department of Chemistry, Princeton University, Princeton, New Jersey08540, United States.",
+        "Department of Chemistry, Princeton University, Princeton, New Jersey08540, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Tremblay, Matthew",
+        "short_name": "Tremblay M",
+        "identifiers": [
+          "0000-0001-6378-2685"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Princeton University, Princeton, New Jersey08540, United States."
+        ]
+      },
+      {
+        "full_name": "Hammes-Schiffer, Sharon",
+        "short_name": "Hammes-Schiffer S",
+        "identifiers": [
+          "0000-0002-3782-6995"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Princeton University, Princeton, New Jersey08540, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biochemistry"
+    ],
+    "journal_abbrev": [
+      "Biochemistry"
+    ],
+    "pub_date": "2026 Sep 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Comparative Study",
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42915601"
+    ],
+    "review": [
+      "42915601"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "source": "arxiv",
+  "source_id": "2610.30668v1",
+  "title": "RiboBridge: protein-conditioned de novo RNA binder structure design",
+  "doi": "",
+  "abstract": "Designing RNA molecules that bind to target protein structures requires generating both an RNA conformation and its bound complex geometry, without assuming a predefined binding site. Existing approaches generally model these coupled processes within a unified representation, entangling RNA conformation generation with protein-relative placement. In this work, we introduce RiboBridge, a structure-first framework that separates RNA conformational generation from protein--RNA assembly through cross-frame interaction geometry. RiboBridge first proposes multiple candidate RNA-binding interfaces on the protein surface, generates canonical RNA conformations within a pretrained RNA structural latent space (RiboSphere), and then predicts protein--RNA interaction constraints to bridge the independently defined RNA and protein coordinate frames. The resulting interaction geometry is converted into a geometrically consistent protein-relative pose through rigid placement. We evaluate RiboBridge on a temporally split, sequence-filtered, and redundancy-controlled benchmark of 124 protein--RNA complexes. Under post-hoc interface-correspondence evaluation, where native information is used only after generation to select among already generated predicted-pocket candidates, RiboBridge achieves the highest fNAT and DockQ and the lowest interface and ligand RMSDs among compared methods. Component ablations and stage-wise diagnostics further characterize the contributions of RNA conformational generation, interaction prediction, and rigid placement, identifying the main sources of complex-recovery error.",
+  "authors": [
+    "Zhou Zhang",
+    "Hanqun Cao",
+    "Minghao Sun",
+    "Odin Zhang",
+    "Yang Zhang",
+    "Pheng Ann Heng",
+    "Wujun Li",
+    "Tianfan Fu"
+  ],
+  "published_date": "2026-10-22T03:32:07Z",
+  "updated_date": "2026-10-22T03:32:07Z",
+  "journal": "",
+  "category": "cs.LG, q-bio.BM",
+  "landing_url": "https://arxiv.org/abs/2610.30668v1",
+  "pdf_url": "https://arxiv.org/pdf/2610.30668v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cs.LG",
+    "q-bio.BM"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2610.30668v1",
+    "raw_categories": [
+      "cs.LG",
+      "q-bio.BM"
+    ],
+    "journal_ref": ""
+  }
+}

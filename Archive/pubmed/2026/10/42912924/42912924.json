@@ -1,0 +1,137 @@
+{
+  "identity": {
+    "pmid": "42912924",
+    "doi": "10.1021/acs.jcim.6c01315",
+    "title": "Energy Landscape Sampling Reveals Ligand-Dependent Structural Dynamics of the Protease-Activated Receptor 1."
+  },
+  "content": {
+    "abstract": "Protease-activated receptor 1 (PAR1) is a class A G protein-coupled receptor activated by proteolytic cleavage and exposure of a tethered agonist. While existing structures have revealed inactive and active conformations, the ligand-dependent conformational energy landscape governing PAR1 activation remains poorly understood. Here, we employed enhanced-sampling molecular dynamics simulations using the string method with swarms of trajectories to quantify how extracellular ligands and G-protein binding modulate PAR1 activation. Free-energy landscapes were computed for five receptor states (apo, tethered agonist, thrombin receptor-activating peptide (TRAP), vorapaxar (VPX), and VPX + Na+) using five transmembrane (TM) helix distance metrics as collective variables. In the apo state, PAR1 samples inactive, intermediate, and active-like conformations, indicating substantial intrinsic receptor flexibility. VPX increases the free energy of active conformations and restricts TM helix 5 and 6 rearrangements, while VPX + Na+ eliminates intermediate basins and stabilizes the inactive state. In contrast, the tethered agonist stabilizes the active state as the global minimum and promotes TM6 displacement of up to  approximately 1 nm. The simulations reveal a continuous activation pathway linking extracellular ligand engagement to intracellular motifs, including the connector, DRF, intracellular loop 3 (ICL3), and KRK motifs, with intracellular chloride ion coordination contributing to inactive-state stabilization. Galphaq binding reduces TM6 flexibility and shifts the free-energy minimum toward more active-like conformations. Alanine mutagenesis and Gq-CASE BRET assays validate predicted roles of key residues in activation and G-protein coupling. Together, these results provide a detailed understanding of ligand- and transducer-dependent PAR1 signaling and inform the design of pathway-selective PAR1 modulators.",
+    "keywords": [],
+    "mesh_terms": [
+      "Ligands",
+      "*Molecular Dynamics Simulation",
+      "*Receptor, PAR-1/chemistry/metabolism",
+      "Protein Conformation",
+      "Thermodynamics",
+      "Humans",
+      "Protein Binding"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Schwerin, Inken Kaja",
+        "Jiang, Shihai",
+        "Staubert, Claudia",
+        "Isermann, Berend",
+        "Kunze, Georg"
+      ],
+      "short_names": [
+        "Schwerin IK",
+        "Jiang S",
+        "Staubert C",
+        "Isermann B",
+        "Kunze G"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-0559-6160",
+        "ORCID: 0000-0003-1799-346X"
+      ],
+      "affiliations": [
+        "Institute for Drug Discovery, Leipzig University, Bruderstrasse 34, 04103Leipzig, Germany.",
+        "Institute of Laboratory Medicine, Clinical Chemistry and Molecular Diagnostic, University Hospital Leipzig, Paul-List-Strasse 13-15, 04103Leipzig, Germany.",
+        "Rudolf Schonheimer Institute of Biochemistry, Molecular Biochemistry, Medical Faculty, Leipzig University, Johannisallee 30, 04103Leipzig, Germany.",
+        "Institute of Laboratory Medicine, Clinical Chemistry and Molecular Diagnostic, University Hospital Leipzig, Paul-List-Strasse 13-15, 04103Leipzig, Germany.",
+        "LeiCeM horizontal line Leipzig Center of Metabolism, Leipzig University, 04103Leipzig, Germany.",
+        "Institute for Drug Discovery, Leipzig University, Bruderstrasse 34, 04103Leipzig, Germany.",
+        "Interdisciplinary Center for Bioinformatics, Leipzig University, 04107Leipzig, Germany.",
+        "Center for Scalable Data Analytics and Artificial Intelligence, Leipzig University, 04105Leipzig, Germany."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Schwerin, Inken Kaja",
+        "short_name": "Schwerin IK",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Drug Discovery, Leipzig University, Brüderstraße 34, 04103Leipzig, Germany."
+        ]
+      },
+      {
+        "full_name": "Jiang, Shihai",
+        "short_name": "Jiang S",
+        "identifiers": [
+          "0000-0002-0559-6160"
+        ],
+        "affiliations": [
+          "Institute of Laboratory Medicine, Clinical Chemistry and Molecular Diagnostic, University Hospital Leipzig, Paul-List-Straße 13-15, 04103Leipzig, Germany."
+        ]
+      },
+      {
+        "full_name": "Stäubert, Claudia",
+        "short_name": "Stäubert C",
+        "identifiers": [],
+        "affiliations": [
+          "Rudolf Schönheimer Institute of Biochemistry, Molecular Biochemistry, Medical Faculty, Leipzig University, Johannisallee 30, 04103Leipzig, Germany."
+        ]
+      },
+      {
+        "full_name": "Isermann, Berend",
+        "short_name": "Isermann B",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Laboratory Medicine, Clinical Chemistry and Molecular Diagnostic, University Hospital Leipzig, Paul-List-Straße 13-15, 04103Leipzig, Germany.",
+          "LeiCeM─Leipzig Center of Metabolism, Leipzig University, 04103Leipzig, Germany."
+        ]
+      },
+      {
+        "full_name": "Künze, Georg",
+        "short_name": "Künze G",
+        "identifiers": [
+          "0000-0003-1799-346X"
+        ],
+        "affiliations": [
+          "Institute for Drug Discovery, Leipzig University, Brüderstraße 34, 04103Leipzig, Germany.",
+          "Interdisciplinary Center for Bioinformatics, Leipzig University, 04107Leipzig, Germany.",
+          "Center for Scalable Data Analytics and Artificial Intelligence, Leipzig University, 04105Leipzig, Germany."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of chemical information and modeling"
+    ],
+    "journal_abbrev": [
+      "J Chem Inf Model"
+    ],
+    "pub_date": "2026 Oct 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 18:31",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42912924"
+    ],
+    "review": [
+      "42912924"
+    ],
+    "pmc": [
+      "13664097"
+    ],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

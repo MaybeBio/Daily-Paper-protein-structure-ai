@@ -1,0 +1,274 @@
+{
+  "identity": {
+    "pmid": "42894012",
+    "doi": "10.1038/s41467-026-77558-1",
+    "title": "Structural and functional insights into a Zn(2+)-transporting P-type ATPase."
+  },
+  "content": {
+    "abstract": "Zinc is essential for life yet toxic in excess, rendering homeostatic control vital for all organisms. Transition metal transporting P-type (P(IB)-) ATPase proteins are critical for this balance but remain poorly understood at the molecular level. Here, we present the inward-open structure of a dimeric zinc-transporting P(IB)-type ATPase, resolved at 3.6 A resolution. Biochemical analyses and molecular dynamics simulations suggest that the N-terminal tail, harboring two so-called metal binding domains (MBDs), auto-inhibits the ATPase core and serves as a metal-sensitive sensor, releasing inhibition when intracellular metal levels rise. Contrary to the prevailing uptake models, the structure reveals an electronegatively charged uptake region that directly exposes a metal-binding cysteine of the invariant CPC-motif. We propose that a histidine-rich segment, positioned after the MBD closest to the core, donates ions to the CPC site. Consequently, an intricate interplay between the regulatory and ion-providing N-terminus and the ATPase core is present, safeguarding against zinc toxicity. Collectively, our findings shed light on the regulation and transport mechanism of P(IB)-ATPases, with implications for fundamental biology and the potential to inform future biotechnological and translational applications.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Zinc/metabolism",
+      "Molecular Dynamics Simulation",
+      "*Adenosine Triphosphatases/metabolism/chemistry",
+      "*P-type ATPases/metabolism/chemistry/genetics",
+      "Binding Sites",
+      "Protein Domains",
+      "*Cation Transport Proteins/metabolism/chemistry/genetics",
+      "Crystallography, X-Ray"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Lyu, Pin",
+        "Longhin, Elena",
+        "Sabzian-Molaei, Fatemeh",
+        "Montalvillo Ortega, Fernando",
+        "Li, Ping",
+        "Wang, Kaituo",
+        "Duelli, Annette",
+        "Al-Jubair, Tamim",
+        "Ahmed Hotiana, Hajira",
+        "Ramos Becares, Eva",
+        "Croll, Tristan",
+        "Meloni, Gabriele",
+        "Andersson, Magnus",
+        "Bagenholm, Viktoria",
+        "Gourdon, Pontus"
+      ],
+      "short_names": [
+        "Lyu P",
+        "Longhin E",
+        "Sabzian-Molaei F",
+        "Montalvillo Ortega F",
+        "Li P",
+        "Wang K",
+        "Duelli A",
+        "Al-Jubair T",
+        "Ahmed Hotiana H",
+        "Ramos Becares E",
+        "Croll T",
+        "Meloni G",
+        "Andersson M",
+        "Bagenholm V",
+        "Gourdon P"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-7413-1762",
+        "ORCID: 0009-0008-5041-9930",
+        "ORCID: 0000-0002-7364-3301",
+        "ORCID: 0000-0002-5922-7109",
+        "ORCID: 0000-0002-3514-8377",
+        "ORCID: 0000-0003-4976-1401",
+        "ORCID: 0000-0002-3364-6647",
+        "ORCID: 0000-0002-8631-3539"
+      ],
+      "affiliations": [
+        "Department of Biomedical Sciences, University of Copenhagen, Copenhagen, Denmark.",
+        "Department of Biomedical Sciences, University of Copenhagen, Copenhagen, Denmark.",
+        "Department of Chemistry, Umea University, Umea, Sweden.",
+        "Department of Chemistry and Biochemistry, University of Texas at Dallas, Richardson, TX, USA.",
+        "Department of Experimental Medical Science, Lund University, Lund, Sweden.",
+        "Department of Biomedical Sciences, University of Copenhagen, Copenhagen, Denmark.",
+        "Department of Biomedical Sciences, University of Copenhagen, Copenhagen, Denmark.",
+        "Department of Biomedical Sciences, University of Copenhagen, Copenhagen, Denmark.",
+        "Department of Biomedical Sciences, University of Copenhagen, Copenhagen, Denmark.",
+        "Department of Biomedical Sciences, University of Copenhagen, Copenhagen, Denmark.",
+        "Department of Haematology, University of Cambridge, Cambridge, UK.",
+        "Department of Chemistry and Biochemistry, University of Texas at Dallas, Richardson, TX, USA.",
+        "Department of Chemistry, Umea University, Umea, Sweden.",
+        "Department of Biomedical Sciences, University of Copenhagen, Copenhagen, Denmark.",
+        "Department of Experimental Medical Science, Lund University, Lund, Sweden.",
+        "Department of Biomedical Sciences, University of Copenhagen, Copenhagen, Denmark. pontus.gourdon@med.lu.se.",
+        "Department of Experimental Medical Science, Lund University, Lund, Sweden. pontus.gourdon@med.lu.se."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Lyu, Pin",
+        "short_name": "Lyu P",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Sciences, University of Copenhagen, Copenhagen, Denmark."
+        ]
+      },
+      {
+        "full_name": "Longhin, Elena",
+        "short_name": "Longhin E",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Sciences, University of Copenhagen, Copenhagen, Denmark."
+        ]
+      },
+      {
+        "full_name": "Sabzian-Molaei, Fatemeh",
+        "short_name": "Sabzian-Molaei F",
+        "identifiers": [
+          "0000-0002-7413-1762"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Umeå University, Umeå, Sweden."
+        ]
+      },
+      {
+        "full_name": "Montalvillo Ortega, Fernando",
+        "short_name": "Montalvillo Ortega F",
+        "identifiers": [
+          "0009-0008-5041-9930"
+        ],
+        "affiliations": [
+          "Department of Chemistry and Biochemistry, University of Texas at Dallas, Richardson, TX, USA."
+        ]
+      },
+      {
+        "full_name": "Li, Ping",
+        "short_name": "Li P",
+        "identifiers": [
+          "0000-0002-7364-3301"
+        ],
+        "affiliations": [
+          "Department of Experimental Medical Science, Lund University, Lund, Sweden."
+        ]
+      },
+      {
+        "full_name": "Wang, Kaituo",
+        "short_name": "Wang K",
+        "identifiers": [
+          "0000-0002-5922-7109"
+        ],
+        "affiliations": [
+          "Department of Biomedical Sciences, University of Copenhagen, Copenhagen, Denmark."
+        ]
+      },
+      {
+        "full_name": "Duelli, Annette",
+        "short_name": "Duelli A",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Sciences, University of Copenhagen, Copenhagen, Denmark."
+        ]
+      },
+      {
+        "full_name": "Al-Jubair, Tamim",
+        "short_name": "Al-Jubair T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Sciences, University of Copenhagen, Copenhagen, Denmark."
+        ]
+      },
+      {
+        "full_name": "Ahmed Hotiana, Hajira",
+        "short_name": "Ahmed Hotiana H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Sciences, University of Copenhagen, Copenhagen, Denmark."
+        ]
+      },
+      {
+        "full_name": "Ramos Becares, Eva",
+        "short_name": "Ramos Becares E",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Sciences, University of Copenhagen, Copenhagen, Denmark."
+        ]
+      },
+      {
+        "full_name": "Croll, Tristan",
+        "short_name": "Croll T",
+        "identifiers": [
+          "0000-0002-3514-8377"
+        ],
+        "affiliations": [
+          "Department of Haematology, University of Cambridge, Cambridge, UK."
+        ]
+      },
+      {
+        "full_name": "Meloni, Gabriele",
+        "short_name": "Meloni G",
+        "identifiers": [
+          "0000-0003-4976-1401"
+        ],
+        "affiliations": [
+          "Department of Chemistry and Biochemistry, University of Texas at Dallas, Richardson, TX, USA."
+        ]
+      },
+      {
+        "full_name": "Andersson, Magnus",
+        "short_name": "Andersson M",
+        "identifiers": [
+          "0000-0002-3364-6647"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Umeå University, Umeå, Sweden."
+        ]
+      },
+      {
+        "full_name": "Bågenholm, Viktoria",
+        "short_name": "Bågenholm V",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biomedical Sciences, University of Copenhagen, Copenhagen, Denmark.",
+          "Department of Experimental Medical Science, Lund University, Lund, Sweden."
+        ]
+      },
+      {
+        "full_name": "Gourdon, Pontus",
+        "short_name": "Gourdon P",
+        "identifiers": [
+          "0000-0002-8631-3539"
+        ],
+        "affiliations": [
+          "Department of Biomedical Sciences, University of Copenhagen, Copenhagen, Denmark. pontus.gourdon@med.lu.se.",
+          "Department of Experimental Medical Science, Lund University, Lund, Sweden. pontus.gourdon@med.lu.se."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Sep 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/19 05:30",
+    "fetched_at": "2026-10-25 07:17:06"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42894012"
+    ],
+    "review": [
+      "42894012"
+    ],
+    "pmc": [
+      "13677743"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-77558-1",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

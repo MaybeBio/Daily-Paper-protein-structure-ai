@@ -1,0 +1,163 @@
+{
+  "identity": {
+    "pmid": "42905838",
+    "doi": "10.1126/sciadv.aeh7206",
+    "title": "Physical confinement modulates the rate-limiting transition in the release of phosphate from actin filaments."
+  },
+  "content": {
+    "abstract": "The nucleotide state and rates of transitions between states regulate the dynamics of ATPases. Slow inorganic phosphate (P(i)) release following ATP hydrolysis is often rate limiting and associated with key conformational changes. Actin filaments offer a unique opportunity to understand the fundamentals of P(i) release because identical subunits at filament ends and the interior release P(i) at markedly different rates. The molecular origin of this difference is debated, so we used extensive all-atom molecular dynamics simulations to characterize P(i) release from different subunits within an actin filament. The calculated dissociation rates of P(i) from ADP-Mg(2+) in the active site correlate with experimentally measured P(i) release rates and scale inversely with the numbers of water molecules in the cavity surrounding the gamma-phosphate. Simulations show that egress of P(i) through the protein channels, including through the N111-R177 backdoor, is not rate limiting and that subunits at the filament ends use alternative egress pathways.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Actin Cytoskeleton/metabolism/chemistry",
+      "*Phosphates/metabolism/chemistry",
+      "Molecular Dynamics Simulation",
+      "Adenosine Triphosphate/metabolism/chemistry",
+      "Hydrolysis",
+      "Adenosine Diphosphate/metabolism/chemistry",
+      "Kinetics",
+      "Animals",
+      "Actins/chemistry/metabolism",
+      "Catalytic Domain"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Herman, Kristina M",
+        "Iyer, Sahithya Sridharan",
+        "Wang, Yihang",
+        "Pollard, Thomas D",
+        "Voth, Gregory A"
+      ],
+      "short_names": [
+        "Herman KM",
+        "Iyer SS",
+        "Wang Y",
+        "Pollard TD",
+        "Voth GA"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-4923-5727",
+        "ORCID: 0000-0002-1785-2969",
+        "ORCID: 0000-0002-3267-6748"
+      ],
+      "affiliations": [
+        "Department of Chemistry, Chicago Center for Theoretical Chemistry, Institute for Biophysical Dynamics, and James Franck Institute, The University of Chicago, Chicago, IL, USA.",
+        "Department of Chemistry, Chicago Center for Theoretical Chemistry, Institute for Biophysical Dynamics, and James Franck Institute, The University of Chicago, Chicago, IL, USA.",
+        "Department of Chemistry, Chicago Center for Theoretical Chemistry, Institute for Biophysical Dynamics, and James Franck Institute, The University of Chicago, Chicago, IL, USA.",
+        "Department of Molecular Cellular and Developmental Biology, Yale University, New Haven, CT, USA.",
+        "Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, CT, USA.",
+        "Department of Cell Biology, Yale University, New Haven, CT, USA.",
+        "Department of Chemistry, Chicago Center for Theoretical Chemistry, Institute for Biophysical Dynamics, and James Franck Institute, The University of Chicago, Chicago, IL, USA."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Herman, Kristina M",
+        "short_name": "Herman KM",
+        "identifiers": [
+          "0000-0003-4923-5727"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Chicago Center for Theoretical Chemistry, Institute for Biophysical Dynamics, and James Franck Institute, The University of Chicago, Chicago, IL, USA."
+        ]
+      },
+      {
+        "full_name": "Iyer, Sahithya Sridharan",
+        "short_name": "Iyer SS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Chicago Center for Theoretical Chemistry, Institute for Biophysical Dynamics, and James Franck Institute, The University of Chicago, Chicago, IL, USA."
+        ]
+      },
+      {
+        "full_name": "Wang, Yihang",
+        "short_name": "Wang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Chicago Center for Theoretical Chemistry, Institute for Biophysical Dynamics, and James Franck Institute, The University of Chicago, Chicago, IL, USA."
+        ]
+      },
+      {
+        "full_name": "Pollard, Thomas D",
+        "short_name": "Pollard TD",
+        "identifiers": [
+          "0000-0002-1785-2969"
+        ],
+        "affiliations": [
+          "Department of Molecular Cellular and Developmental Biology, Yale University, New Haven, CT, USA.",
+          "Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, CT, USA.",
+          "Department of Cell Biology, Yale University, New Haven, CT, USA."
+        ]
+      },
+      {
+        "full_name": "Voth, Gregory A",
+        "short_name": "Voth GA",
+        "identifiers": [
+          "0000-0002-3267-6748"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Chicago Center for Theoretical Chemistry, Institute for Biophysical Dynamics, and James Franck Institute, The University of Chicago, Chicago, IL, USA."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Science advances"
+    ],
+    "journal_abbrev": [
+      "Sci Adv"
+    ],
+    "pub_date": "2026 Oct 23",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/22 23:29",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42905838"
+    ],
+    "review": [
+      "42905838"
+    ],
+    "pmc": [
+      "13685925"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https:///www.science.org/doi/10.1126/sciadv.aeh7206?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub  0pubmed",
+        "provider": "Atypon",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://antibodies.cancer.gov/detail/CPTC-SERPINA1-1",
+        "provider": "NCI CPTC Antibody Characterization Program",
+        "category": "Research Materials",
+        "attribute": "free resource",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-651",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

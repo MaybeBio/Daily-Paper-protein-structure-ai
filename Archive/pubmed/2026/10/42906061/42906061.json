@@ -1,0 +1,105 @@
+{
+  "identity": {
+    "pmid": "42906061",
+    "doi": "10.1021/acs.jcim.6c01584",
+    "title": "Semi-Automated Discovery of Structural Elements Controlling GPCR Function."
+  },
+  "content": {
+    "abstract": "Molecular simulations of G-protein-coupled receptors have become an important part of the structural biology toolkit, revealing structure-function mechanisms that are unobservable from experimental structures alone. With the advance of hardware and software, it has become routine to obtain trajectories that are tens of microseconds in duration, opening new opportunities for yet more rigorous and reproducible observations on mechanism. Toward this end, we presented a semi-automated analysis pipeline which operates on featurized simulation data, performs unsupervised clustering, and then identifies which input features are most discriminatory of cluster identity. Application of this pipeline to a large set of G-protein-coupled receptor simulation data shows that it identifies several well-known microswitches. Inspection of these structural elements reveals changes in conformation that are known to accompany functional transitions of the receptor. In addition to these known structural elements, the analysis also identifies functional transitions associated with one new motif horizontal line the kink in transmembrane helix 2 horizontal line and discovers a coupled \"piston-like\" motion of TM2 and TM3 that elaborates a previously reported motion of TM3.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Receptors, G-Protein-Coupled/chemistry/metabolism",
+      "Automation",
+      "*Molecular Dynamics Simulation",
+      "Clustering Algorithms",
+      "Protein Conformation",
+      "Cluster Analysis"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ji, Jingjing",
+        "Lyman, Edward"
+      ],
+      "short_names": [
+        "Ji J",
+        "Lyman E"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-1324-3143",
+        "ORCID: 0000-0003-4590-0363"
+      ],
+      "affiliations": [
+        "Department of Physics and Astronomy, University of Delaware, Newark, Delaware19716, United States.",
+        "Department of Physics and Astronomy, University of Delaware, Newark, Delaware19716, United States.",
+        "Department of Chemistry and Biochemistry, University of Delaware, Newark, Delaware19716, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ji, Jingjing",
+        "short_name": "Ji J",
+        "identifiers": [
+          "0000-0003-1324-3143"
+        ],
+        "affiliations": [
+          "Department of Physics and Astronomy, University of Delaware, Newark, Delaware19716, United States."
+        ]
+      },
+      {
+        "full_name": "Lyman, Edward",
+        "short_name": "Lyman E",
+        "identifiers": [
+          "0000-0003-4590-0363"
+        ],
+        "affiliations": [
+          "Department of Physics and Astronomy, University of Delaware, Newark, Delaware19716, United States.",
+          "Department of Chemistry and Biochemistry, University of Delaware, Newark, Delaware19716, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of chemical information and modeling"
+    ],
+    "journal_abbrev": [
+      "J Chem Inf Model"
+    ],
+    "pub_date": "2026 Sep 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/22 23:29",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42906061"
+    ],
+    "review": [
+      "42906061"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/jcisd8/article-lookup/doi/10.1021/acs.jcim.6c01584",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

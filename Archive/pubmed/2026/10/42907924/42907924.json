@@ -1,0 +1,133 @@
+{
+  "identity": {
+    "pmid": "42907924",
+    "doi": "10.1186/s13059-026-04215-7",
+    "title": "The evolutionary processes of bacterial aromatic polyketide ketosynthases."
+  },
+  "content": {
+    "abstract": "BACKGROUND: The biosynthesis of bacterial aromatic polyketides (type II polyketides, T2PKs) employs a single set of catalysts (ketosynthases, KSs or KS(alpha), with chain length factors, CLFs or KS(beta)) and iteratively assembles a carbon backbone with precise chain length control. Considering the increasing number of T2PKs discovered in laboratory settings, it is necessary to understand the evolutionary trajectories of KSs and CLFs. RESULTS: We employ our recently developed algorithm, MAAPE, based on large protein language model to glean insights into the evolution process of KSs and CLFs. Our findings indicate the evolutionary history of KS and CLF domains from bacterial T2PKSs and identify a shared ancestral cluster (Cluster A), supporting a common origin. Despite structural homology, KSs and CLFs followed distinct evolutionary paths, shaped by coevolution and early horizontal gene transfer. CONCLUSIONS: Understanding the evolutionary lineage of these enzymes will illuminate the natural optimization processes of their functions and present opportunities for the rational design of novel polyketides with enhanced efficacy.",
+    "keywords": [
+      "Evolutionary dynamics",
+      "Large language model",
+      "Natural product",
+      "Polyketide synthase"
+    ],
+    "mesh_terms": [
+      "*Evolution, Molecular",
+      "*Polyketide Synthases/genetics/chemistry/metabolism",
+      "*Polyketides/metabolism",
+      "*Bacteria/enzymology/genetics",
+      "Phylogeny",
+      "Algorithms",
+      "Gene Transfer, Horizontal",
+      "Multigene Family",
+      "*Bacterial Proteins/genetics/chemistry/metabolism",
+      "Protein Domains"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Xiaoyu",
+        "Gao, Qiandi",
+        "Ge, Liangjun",
+        "Qin, Zhiwei"
+      ],
+      "short_names": [
+        "Wang X",
+        "Gao Q",
+        "Ge L",
+        "Qin Z"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-1444-3684"
+      ],
+      "affiliations": [
+        "Center for Biological Science and Technology, Advanced Institute of Natural Sciences, Beijing Normal University, Zhuhai, Guangdong, 519087, China.",
+        "Center for Biological Science and Technology, Advanced Institute of Natural Sciences, Beijing Normal University, Zhuhai, Guangdong, 519087, China.",
+        "Center for Biological Science and Technology, Advanced Institute of Natural Sciences, Beijing Normal University, Zhuhai, Guangdong, 519087, China.",
+        "Center for Biological Science and Technology, Advanced Institute of Natural Sciences, Beijing Normal University, Zhuhai, Guangdong, 519087, China. z.qin@bnu.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Xiaoyu",
+        "short_name": "Wang X",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Biological Science and Technology, Advanced Institute of Natural Sciences, Beijing Normal University, Zhuhai, Guangdong, 519087, China."
+        ]
+      },
+      {
+        "full_name": "Gao, Qiandi",
+        "short_name": "Gao Q",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Biological Science and Technology, Advanced Institute of Natural Sciences, Beijing Normal University, Zhuhai, Guangdong, 519087, China."
+        ]
+      },
+      {
+        "full_name": "Ge, Liangjun",
+        "short_name": "Ge L",
+        "identifiers": [],
+        "affiliations": [
+          "Center for Biological Science and Technology, Advanced Institute of Natural Sciences, Beijing Normal University, Zhuhai, Guangdong, 519087, China."
+        ]
+      },
+      {
+        "full_name": "Qin, Zhiwei",
+        "short_name": "Qin Z",
+        "identifiers": [
+          "0000-0002-1444-3684"
+        ],
+        "affiliations": [
+          "Center for Biological Science and Technology, Advanced Institute of Natural Sciences, Beijing Normal University, Zhuhai, Guangdong, 519087, China. z.qin@bnu.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Genome biology"
+    ],
+    "journal_abbrev": [
+      "Genome Biol"
+    ],
+    "pub_date": "2026 Jul 25",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/22 23:29",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42907924"
+    ],
+    "review": [
+      "42907924"
+    ],
+    "pmc": [
+      "13685256"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://genomebiology.biomedcentral.com/articles/10.1186/s13059-026-04215-7",
+        "provider": "BioMed Central",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

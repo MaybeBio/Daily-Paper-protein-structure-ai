@@ -1,0 +1,33 @@
+{
+  "source": "arxiv",
+  "source_id": "2610.26842v1",
+  "title": "Doppler-compensated Space-time Coding for MIMO PMCW Radar",
+  "doi": "",
+  "abstract": "Phase modulated continuous wave (PMCW) radar is an attractive choice for automotive sensing due to its high dynamic range, interference robustness, and support for integrated communication and sensing. In multiple-input multiple-output (MIMO) PMCW radar, code division multiplexing (CDM) separates transmit signals, but non-ideal auto- and cross-correlation properties increase range sidelobes and degrade dynamic range. This paper proposes a Doppler-compensated space-time coding (STC)-based MIMO PMCW radar framework that separates transmit signals before range correlation, eliminating cross-correlation terms under perfect compensation and allowing the same binary sequence to be used across transmit antennas. The Doppler influence on STC decoding is analytically characterized, showing that chip-wise and inter-STC-slot phase distortions increase range sidelobes and generate ghost components in the direction-of-arrival (DOA) spectrum. To mitigate these effects, Doppler is estimated first, followed by joint fast-time and STC-slot compensation before decoding. Residual STC leakage under imperfect Doppler estimation is quantified, and the processing is extended to multiple moving targets through Doppler-bin-dependent compensation. Theoretical analysis and simulation results demonstrate reduced range sidelobes and suppression of DOA ghosts, while maintaining flexibility in code sequence design.",
+  "authors": [
+    "Gabriel Daniel",
+    "Hanqing Wu",
+    "Ashish Pandharipande",
+    "Geert Leus"
+  ],
+  "published_date": "2026-10-19T17:58:53Z",
+  "updated_date": "2026-10-19T17:58:53Z",
+  "journal": "",
+  "category": "eess.SP",
+  "landing_url": "https://arxiv.org/abs/2610.26842v1",
+  "pdf_url": "https://arxiv.org/pdf/2610.26842v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "eess.SP"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2610.26842v1",
+    "raw_categories": [
+      "eess.SP"
+    ],
+    "journal_ref": ""
+  }
+}

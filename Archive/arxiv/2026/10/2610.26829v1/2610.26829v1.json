@@ -1,0 +1,39 @@
+{
+  "source": "arxiv",
+  "source_id": "2610.26829v1",
+  "title": "ProteinGeoBench: Frontier Structural-Biology Agents Are Fluent at Lookup but Lost in Geometry",
+  "doi": "",
+  "abstract": "Frontier agents retrieve structural metadata well and compute geometry from coordinates less reliably. We ask how much of a benchmark score reflects that gap and how much reflects the evaluation configuration around the model. We study ProteinGeoBench, a suite of 131 protein-structure tasks, using 4,249 rollouts from four frontier models and 4,486 further trials across 26 models. Three of the four frontier models fall within 0.031 of one another (0.785 to 0.816) with no difference between them resolved, while the fourth scores 0.707 and all three gaps to it exclude zero. Three of the four do better on metadata lookup than on numeric calculation. The fourth is slightly better on numeric. Numeric tasks are 28 of the 131 but half of the twelve tasks that all four models fail. The ranking also depends on the evaluation budget: with one run per task, 23.9% of bootstrap replicates put a different model first. On a selected 15-task slice, removing network access lowers scores more than blocking eight structural-database domains, but the two contrasts were graded in different passes and cannot be cleanly decomposed. Swapping in each model's own command-line agent changes scores by -0.071 to +0.086, a comparison too small to rule out moderate harness effects. Across 26 models, numeric performance rises with non-numeric performance rather than staying flat. The experiments use different task subsets, so they cannot rank model, harness, access and task composition against one another. Evaluations should report results by task family, along with the number of runs, the harness and the access conditions.",
+  "authors": [
+    "Matt Turk",
+    "Brandon L. Neel",
+    "Diana M. Lopez",
+    "Zachary D. Smith",
+    "Grace N. Johnecheck",
+    "James B. Golden"
+  ],
+  "published_date": "2026-10-19T17:55:38Z",
+  "updated_date": "2026-10-19T17:55:38Z",
+  "journal": "",
+  "category": "cs.AI, cs.LG, q-bio.BM",
+  "landing_url": "https://arxiv.org/abs/2610.26829v1",
+  "pdf_url": "https://arxiv.org/pdf/2610.26829v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cs.AI",
+    "cs.LG",
+    "q-bio.BM"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2610.26829v1",
+    "raw_categories": [
+      "cs.AI",
+      "cs.LG",
+      "q-bio.BM"
+    ],
+    "journal_ref": ""
+  }
+}

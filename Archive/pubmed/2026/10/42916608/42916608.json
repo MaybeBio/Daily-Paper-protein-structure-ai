@@ -1,0 +1,204 @@
+{
+  "identity": {
+    "pmid": "42916608",
+    "doi": "10.1021/acssynbio.6c00038",
+    "title": "Designing a DeepPCD Strategy for Efficient Engineering Nitrilases toward Industrial Bioconversion."
+  },
+  "content": {
+    "abstract": "The integration of artificial intelligence with protein engineering has created unprecedented opportunities for enzyme discovery and the enhancement of overall catalytic performance. In this study, a novel nitrilase, BhNIT, was identified from Bradyrhizobiumhuanghuaihaiense through a computationally assisted screening strategy. Using BhNIT as the target protein for engineering, we established DeepPCD as an integrated computationally guided workflow that organizes sequence-design, structure-filtering, stability-assessment, evolutionary-compatibility, and molecular dynamics analyses to prioritize experimentally testable mutations. Compared with approaches that require extensive experimental screening of large mutant libraries, the DeepPCD workflow facilitates efficient enzyme engineering modifications. By modifying only seven candidate residues of BhNIT, we obtained a mutant exhibiting a 1.3 x 105-fold improvement in hydrolytic efficiency. In addition, this mutant showed a 20.4 degrees C increase in melting temperature and a broader operational pH range extending toward more alkaline conditions, substantially enhancing its potential for industrial applications. Molecular dynamics simulations and structural analysis revealed that the enhanced performance stems from effective reshaping of the substrate-binding pocket and access channel, along with a strengthened interaction network. Furthermore, preliminary computational application to additional nitrilases suggested the potential transferability of this workflow within the nitrilase family. Overall, this work provides an experimentally validated case study for computationally guided nitrilase engineering and offers a practical workflow for prioritizing mutations that may improve activity and stability, although broader generalization will require further validation across more diverse enzyme systems.",
+    "keywords": [
+      "3,5-",
+      "DeepPCD",
+      "acid",
+      "biocatalysis",
+      "computational enzyme design",
+      "deep learning",
+      "dichloropicolinic",
+      "nitrilase"
+    ],
+    "mesh_terms": [
+      "*Aminohydrolases/genetics/metabolism/chemistry",
+      "*Protein Engineering/methods",
+      "Molecular Dynamics Simulation",
+      "Bradyrhizobium/enzymology/genetics",
+      "Mutation",
+      "Hydrogen-Ion Concentration"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhou, Xiao-Ting",
+        "Guo, Qian",
+        "Ding, Yao-Fang",
+        "Shen, Qi",
+        "Shen, Qi",
+        "Xue, Ya-Ping",
+        "Zheng, Yu-Guo"
+      ],
+      "short_names": [
+        "Zhou XT",
+        "Guo Q",
+        "Ding YF",
+        "Shen Q",
+        "Shen Q",
+        "Xue YP",
+        "Zheng YG"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-7032-2182",
+        "ORCID: 0000-0003-0370-2502",
+        "ORCID: 0000-0002-6358-6243"
+      ],
+      "affiliations": [
+        "State Key Laboratory of Green Chemical Synthesis and Conversion, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+        "National and Local Joint Engineering Research Center for Biomanufacturing of Chiral Chemicals, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+        "Key Laboratory of Bioorganic Synthesis of Zhejiang Province, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+        "Engineering Research Center of Bioconversion and Biopurification of Ministry of Education, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+        "State Key Laboratory of Green Chemical Synthesis and Conversion, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+        "National and Local Joint Engineering Research Center for Biomanufacturing of Chiral Chemicals, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+        "Key Laboratory of Bioorganic Synthesis of Zhejiang Province, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+        "Engineering Research Center of Bioconversion and Biopurification of Ministry of Education, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+        "State Key Laboratory of Green Chemical Synthesis and Conversion, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+        "National and Local Joint Engineering Research Center for Biomanufacturing of Chiral Chemicals, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+        "Key Laboratory of Bioorganic Synthesis of Zhejiang Province, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+        "Engineering Research Center of Bioconversion and Biopurification of Ministry of Education, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+        "State Key Laboratory of Green Chemical Synthesis and Conversion, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+        "National and Local Joint Engineering Research Center for Biomanufacturing of Chiral Chemicals, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+        "Key Laboratory of Bioorganic Synthesis of Zhejiang Province, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+        "Engineering Research Center of Bioconversion and Biopurification of Ministry of Education, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+        "State Key Laboratory of Green Chemical Synthesis and Conversion, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+        "National and Local Joint Engineering Research Center for Biomanufacturing of Chiral Chemicals, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+        "Key Laboratory of Bioorganic Synthesis of Zhejiang Province, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+        "Engineering Research Center of Bioconversion and Biopurification of Ministry of Education, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+        "State Key Laboratory of Green Chemical Synthesis and Conversion, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+        "National and Local Joint Engineering Research Center for Biomanufacturing of Chiral Chemicals, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+        "Key Laboratory of Bioorganic Synthesis of Zhejiang Province, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+        "Engineering Research Center of Bioconversion and Biopurification of Ministry of Education, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+        "State Key Laboratory of Green Chemical Synthesis and Conversion, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+        "National and Local Joint Engineering Research Center for Biomanufacturing of Chiral Chemicals, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+        "Key Laboratory of Bioorganic Synthesis of Zhejiang Province, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+        "Engineering Research Center of Bioconversion and Biopurification of Ministry of Education, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhou, Xiao-Ting",
+        "short_name": "Zhou XT",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Green Chemical Synthesis and Conversion, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+          "National and Local Joint Engineering Research Center for Biomanufacturing of Chiral Chemicals, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+          "Key Laboratory of Bioorganic Synthesis of Zhejiang Province, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+          "Engineering Research Center of Bioconversion and Biopurification of Ministry of Education, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China."
+        ]
+      },
+      {
+        "full_name": "Guo, Qian",
+        "short_name": "Guo Q",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Green Chemical Synthesis and Conversion, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+          "National and Local Joint Engineering Research Center for Biomanufacturing of Chiral Chemicals, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+          "Key Laboratory of Bioorganic Synthesis of Zhejiang Province, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+          "Engineering Research Center of Bioconversion and Biopurification of Ministry of Education, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China."
+        ]
+      },
+      {
+        "full_name": "Ding, Yao-Fang",
+        "short_name": "Ding YF",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Green Chemical Synthesis and Conversion, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+          "National and Local Joint Engineering Research Center for Biomanufacturing of Chiral Chemicals, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+          "Key Laboratory of Bioorganic Synthesis of Zhejiang Province, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+          "Engineering Research Center of Bioconversion and Biopurification of Ministry of Education, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China."
+        ]
+      },
+      {
+        "full_name": "Shen, Qi",
+        "short_name": "Shen Q",
+        "identifiers": [],
+        "affiliations": [
+          "State Key Laboratory of Green Chemical Synthesis and Conversion, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+          "National and Local Joint Engineering Research Center for Biomanufacturing of Chiral Chemicals, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+          "Key Laboratory of Bioorganic Synthesis of Zhejiang Province, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+          "Engineering Research Center of Bioconversion and Biopurification of Ministry of Education, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China."
+        ]
+      },
+      {
+        "full_name": "Shen, Qi",
+        "short_name": "Shen Q",
+        "identifiers": [
+          "0000-0002-7032-2182"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Green Chemical Synthesis and Conversion, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+          "National and Local Joint Engineering Research Center for Biomanufacturing of Chiral Chemicals, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+          "Key Laboratory of Bioorganic Synthesis of Zhejiang Province, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+          "Engineering Research Center of Bioconversion and Biopurification of Ministry of Education, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China."
+        ]
+      },
+      {
+        "full_name": "Xue, Ya-Ping",
+        "short_name": "Xue YP",
+        "identifiers": [
+          "0000-0003-0370-2502"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Green Chemical Synthesis and Conversion, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+          "National and Local Joint Engineering Research Center for Biomanufacturing of Chiral Chemicals, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+          "Key Laboratory of Bioorganic Synthesis of Zhejiang Province, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+          "Engineering Research Center of Bioconversion and Biopurification of Ministry of Education, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China."
+        ]
+      },
+      {
+        "full_name": "Zheng, Yu-Guo",
+        "short_name": "Zheng YG",
+        "identifiers": [
+          "0000-0002-6358-6243"
+        ],
+        "affiliations": [
+          "State Key Laboratory of Green Chemical Synthesis and Conversion, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+          "National and Local Joint Engineering Research Center for Biomanufacturing of Chiral Chemicals, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+          "Key Laboratory of Bioorganic Synthesis of Zhejiang Province, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China.",
+          "Engineering Research Center of Bioconversion and Biopurification of Ministry of Education, College of Biotechnology and Bioengineering, Zhejiang University of Technology, Hangzhou310014, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS synthetic biology"
+    ],
+    "journal_abbrev": [
+      "ACS Synth Biol"
+    ],
+    "pub_date": "2026 Oct 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42916608"
+    ],
+    "review": [
+      "42916608"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

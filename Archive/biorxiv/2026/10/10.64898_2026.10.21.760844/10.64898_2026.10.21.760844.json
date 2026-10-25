@@ -1,0 +1,168 @@
+{
+  "source": "biorxiv",
+  "source_id": "10.64898/2026.10.21.760844",
+  "title": "Conformational Reorganization of a Processive Cellulase on Crystalline Cellulose",
+  "doi": "10.64898/2026.10.21.760844",
+  "abstract": "Enzymes that degrade insoluble polymers must couple catalytic chemistry to productive engagement with heterogeneous substrate interfaces, yet direct structural information on these interfacial states remains limited. We investigated the conformational organization of the processive cellulase Trichoderma reesei Cel7A both free in solution and bound to an insoluble cellulose substrate using small-angle neutron scattering (SANS). Use of biosynthetically deuterated bacterial cellulose allowed the scattering contribution of the cellulose-associated Cel7A holoenzyme to be selectively highlighted using SANS with contrast matching. SANS measurements performed under conditions supporting high or low catalytic activity revealed distinct differences between the free and cellulose-bound enzyme. Under poorly active conditions, the conformational distributions of free and bound Cel7A were similar. In contrast, catalytically favorable conditions produced an additional interdomain correlation in the bound enzyme, consistent with redistribution toward a substrate-selected conformational ensemble. Molecular dynamics simulations showed that free Cel7A samples can assume compact, intermediate, and extended conformations, but these solution-state ensembles did not reproduce the structural features of cellulose-bound Cel7A. These results identify productive cellulose engagement as a structurally distinct state of the Cel7A holoenzyme and support a dynamic model in which the linker and carbohydrate-binding module modulate interfacial positioning of the catalytic domain rather than functioning as a rigid mechanical unit during processive hydrolysis. More broadly, the findings suggest that heterogeneous biocatalysis depends not only on substrate binding and active-site chemistry, but also on interface-selected conformational states that determine whether binding becomes productive. The study further demonstrates how deuteration and neutron contrast variation can reveal functional macromolecular conformations directly within complex interfacial environments.",
+  "authors": [
+    "Pingali SV",
+    "He J",
+    "Petridis L",
+    "Evans BR",
+    "Heller WT",
+    "Alekozai E",
+    "Cheng X",
+    "Lindner B",
+    "Smith J",
+    "Urban VS",
+    "Davison BH",
+    "Langan P",
+    "O'Neill H"
+  ],
+  "published_date": "2026-10-23",
+  "updated_date": "",
+  "journal": "bioRxiv",
+  "category": "",
+  "landing_url": "https://www.biorxiv.org/content/10.64898/2026.10.21.760844",
+  "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.10.21.760844.full.pdf",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(\"protein structure\" OR \"structure prediction\" OR \"protein design\" OR \"protein folding\" OR \"inverse folding\" OR \"protein domain\" OR \"backbone design\" OR \"sequence design\" OR \"structure design\" OR \"protein conformation\" OR \"conformational ensemble\") AND (\"deep learning\" OR \"machine learning\" OR \"neural network\" OR \"graph neural network\" OR \"language model\" OR transformer OR \"diffusion model\" OR generative OR \"foundation model\" OR \"flow matching\" OR \"molecular dynamics\" OR simulation OR docking OR alphafold OR esmfold OR rosetta)",
+  "version": "",
+  "keywords": [],
+  "extra": {
+    "provider": "europepmc",
+    "epmc_id": "PPR1349281",
+    "raw_record": {
+      "id": "PPR1349281",
+      "source": "PPR",
+      "doi": "10.64898/2026.10.21.760844",
+      "title": "Conformational Reorganization of a Processive Cellulase on Crystalline Cellulose",
+      "authorString": "Pingali SV, He J, Petridis L, Evans BR, Heller WT, Alekozai E, Cheng X, Lindner B, Smith J, Urban VS, Davison BH, Langan P, O'Neill H.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Pingali SV",
+            "lastName": "Pingali",
+            "firstName": "Sai Venkatesh",
+            "initials": "SV"
+          },
+          {
+            "fullName": "He J",
+            "lastName": "He",
+            "firstName": "Junhong",
+            "initials": "J"
+          },
+          {
+            "fullName": "Petridis L",
+            "lastName": "Petridis",
+            "firstName": "Loukas",
+            "initials": "L"
+          },
+          {
+            "fullName": "Evans BR",
+            "lastName": "Evans",
+            "firstName": "Barbara",
+            "initials": "BR"
+          },
+          {
+            "fullName": "Heller WT",
+            "lastName": "Heller",
+            "firstName": "William",
+            "initials": "WT"
+          },
+          {
+            "fullName": "Alekozai E",
+            "lastName": "Alekozai",
+            "firstName": "Emal",
+            "initials": "E"
+          },
+          {
+            "fullName": "Cheng X",
+            "lastName": "Cheng",
+            "firstName": "Xiaolin",
+            "initials": "X"
+          },
+          {
+            "fullName": "Lindner B",
+            "lastName": "Lindner",
+            "firstName": "Benjamin",
+            "initials": "B"
+          },
+          {
+            "fullName": "Smith J",
+            "lastName": "Smith",
+            "firstName": "Jeremy",
+            "initials": "J"
+          },
+          {
+            "fullName": "Urban VS",
+            "lastName": "Urban",
+            "firstName": "Volker",
+            "initials": "VS"
+          },
+          {
+            "fullName": "Davison BH",
+            "lastName": "Davison",
+            "firstName": "Brian",
+            "initials": "BH"
+          },
+          {
+            "fullName": "Langan P",
+            "lastName": "Langan",
+            "firstName": "Paul",
+            "initials": "P"
+          },
+          {
+            "fullName": "O'Neill H",
+            "lastName": "O'Neill",
+            "firstName": "Hugh",
+            "initials": "H"
+          }
+        ]
+      },
+      "pubYear": "2026",
+      "abstractText": "Enzymes that degrade insoluble polymers must couple catalytic chemistry to productive engagement with heterogeneous substrate interfaces, yet direct structural information on these interfacial states remains limited. We investigated the conformational organization of the processive cellulase Trichoderma reesei Cel7A both free in solution and bound to an insoluble cellulose substrate using small-angle neutron scattering (SANS). Use of biosynthetically deuterated bacterial cellulose allowed the scattering contribution of the cellulose-associated Cel7A holoenzyme to be selectively highlighted using SANS with contrast matching. SANS measurements performed under conditions supporting high or low catalytic activity revealed distinct differences between the free and cellulose-bound enzyme. Under poorly active conditions, the conformational distributions of free and bound Cel7A were similar. In contrast, catalytically favorable conditions produced an additional interdomain correlation in the bound enzyme, consistent with redistribution toward a substrate-selected conformational ensemble. Molecular dynamics simulations showed that free Cel7A samples can assume compact, intermediate, and extended conformations, but these solution-state ensembles did not reproduce the structural features of cellulose-bound Cel7A. These results identify productive cellulose engagement as a structurally distinct state of the Cel7A holoenzyme and support a dynamic model in which the linker and carbohydrate-binding module modulate interfacial positioning of the catalytic domain rather than functioning as a rigid mechanical unit during processive hydrolysis. More broadly, the findings suggest that heterogeneous biocatalysis depends not only on substrate binding and active-site chemistry, but also on interface-selected conformational states that determine whether binding becomes productive. The study further demonstrates how deuteration and neutron contrast variation can reveal functional macromolecular conformations directly within complex interfacial environments.",
+      "pubTypeList": {
+        "pubType": [
+          "Preprint"
+        ]
+      },
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.64898/2026.10.21.760844"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-10-24",
+      "firstPublicationDate": "2026-10-23",
+      "firstIndexDate": "2026-10-24",
+      "hasEvaluations": "N"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "source": "arxiv",
+  "source_id": "2610.31215v1",
+  "title": "Trion-1: Unifying Language, Protein Sequence, and Structure with Diffusion Language Models",
+  "doi": "",
+  "abstract": "We envision a general-purpose protein foundation model as a unified, interactive model of sequence, structure, and function, capable of understanding, generation, and cross-modal translation while retaining the instruction-following and reasoning capabilities of modern LLMs. Toward this vision, we introduce Trion-1, the first native, unified, multimodal diffusion language model (dLLM) for proteins. Trion-1 is built on two key design choices: (1) a unified discrete token space that jointly represents sequence, structure, and natural language; (2) a dLLM backbone that replaces strict left-to-right factorization with bidirectional or semi-bidirectional token interactions, enabling global residue communication and long-range contact modeling that are naturally suited to structure modeling. This formulation unifies six core capabilities: folding, inverse folding, sequence understanding, structure understanding, sequence design, and structure design, while retaining the native language capabilities of general-purpose LLMs. On established benchmarks, Trion-1 achieves broadly competitive performance. In folding, Trion-1 achieves a TM-score above 0.8 with a single sample under strict homology control, matching or exceeding the existing tri-modal model using 200 samples. For sequence understanding, Trion-1 performs on par with top-tier LLMs such as Claude Opus 4.7 (62.37%). These results support well-aligned sequence-structure-language representations and strong cross-modal generative capabilities.",
+  "authors": [
+    "Tianyu Lu",
+    "Kaicheng Yang",
+    "Jiangtao Feng",
+    "Keyue Qiu",
+    "Yawen Ouyang",
+    "Yixin Wu",
+    "Xinbo Zhang",
+    "Lihao Wang",
+    "Wei-Ying Ma",
+    "Hao Zhou"
+  ],
+  "published_date": "2026-10-22T12:59:42Z",
+  "updated_date": "2026-10-22T12:59:42Z",
+  "journal": "",
+  "category": "cs.AI",
+  "landing_url": "https://arxiv.org/abs/2610.31215v1",
+  "pdf_url": "https://arxiv.org/pdf/2610.31215v1",
+  "pdf_path": "",
+  "pdf_downloaded": false,
+  "query": "(all:\"protein structure\" OR all:\"structure prediction\" OR all:\"protein design\" OR all:\"protein folding\" OR all:\"inverse folding\" OR all:\"protein domain\" OR all:\"backbone design\" OR all:\"sequence design\" OR all:\"structure design\" OR all:\"conformational ensemble\" OR all:\"protein conformation\") AND (all:\"deep learning\" OR all:\"machine learning\" OR all:\"neural network\" OR all:\"graph neural network\" OR all:\"language model\" OR all:transformer OR all:\"diffusion model\" OR all:generative OR all:\"foundation model\" OR all:\"flow matching\" OR all:\"molecular dynamics\" OR all:simulation OR all:docking OR all:alphafold OR all:esmfold OR all:rosetta)\n",
+  "version": "1",
+  "keywords": [
+    "cs.AI"
+  ],
+  "extra": {
+    "entry_id": "http://arxiv.org/abs/2610.31215v1",
+    "raw_categories": [
+      "cs.AI"
+    ],
+    "journal_ref": ""
+  }
+}

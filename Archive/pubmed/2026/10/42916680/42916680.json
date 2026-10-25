@@ -1,0 +1,142 @@
+{
+  "identity": {
+    "pmid": "42916680",
+    "doi": "10.1021/acschemneuro.6c00310",
+    "title": "XL-MS and De Novo Protein Design Identified a Common Motif for TREM2 Binding."
+  },
+  "content": {
+    "abstract": "Apolipoprotein E (APOE) and triggering receptor expressed on myeloid cells 2 (TREM2) are the two strongest genetic risk factors of late-onset Alzheimer's disease. ApoE binds to the low-density lipoprotein receptor (LDLR) to facilitate the uptake of ApoE-lipoprotein particles. TREM2 is a cell surface receptor expressed on microglia in the brain. The activation of TREM2 is essential for microglia to carry out protective functions against AD pathology. Several studies have shown that TREM2 signaling is activated through direct interaction between TREM2 and ApoE. In addition to its important role in AD pathogenesis, the ApoE/TREM2 interaction has been shown to induce immunosuppression of neutrophils within the tumor microenvironment. Despite its clinical importance, a high-resolution molecular understanding of the complex remains elusive. Here, we carried out chemical cross-linking mass spectrometry (XL-MS) analysis of the ApoE3/TREM2ECD complex to identify intra- and interprotein cross-links, which were used as restraints to guide integrative protein-protein docking. Our data support a binding model in which a helix-loop-helix motif within the ApoE3 hinge and C-terminal region forms a transient binding pocket that wraps around the hydrophobic tip of the TREM2 ectodomain. This model is further supported by de novo-designed miniprotein binders, which show the same binding mode as identified by our XL-MS experiment. These results establish a robust framework for developing miniprotein-based TREM2 agonists.",
+    "keywords": [
+      "de novo protein design",
+      "TREM2/ApoE",
+      "cross-linking mass spectrometry",
+      "protein-protein docking"
+    ],
+    "mesh_terms": [
+      "*Receptors, Immunologic/metabolism/chemistry",
+      "*Membrane Glycoproteins/metabolism/chemistry",
+      "Protein Binding/physiology",
+      "Humans",
+      "Mass Spectrometry/methods",
+      "*Apolipoprotein E3/metabolism/chemistry",
+      "Animals"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Perera, Doniesha",
+        "Ajiboye, Emmanuel",
+        "Hewavidanage, Kalana Pitakatuwana",
+        "Wier, Sophia",
+        "Duong, Vincent",
+        "Wu, Haifan"
+      ],
+      "short_names": [
+        "Perera D",
+        "Ajiboye E",
+        "Hewavidanage KP",
+        "Wier S",
+        "Duong V",
+        "Wu H"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-2050-9950"
+      ],
+      "affiliations": [
+        "Department of Chemistry and Biochemistry, Wichita State University, Wichita, Kansas67260, United States.",
+        "Department of Chemistry and Biochemistry, Wichita State University, Wichita, Kansas67260, United States.",
+        "Department of Chemistry and Biochemistry, Wichita State University, Wichita, Kansas67260, United States.",
+        "Department of Chemistry and Biochemistry, Wichita State University, Wichita, Kansas67260, United States.",
+        "Department of Chemistry and Biochemistry, Wichita State University, Wichita, Kansas67260, United States.",
+        "Department of Chemistry and Biochemistry, Wichita State University, Wichita, Kansas67260, United States."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Perera, Doniesha",
+        "short_name": "Perera D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry and Biochemistry, Wichita State University, Wichita, Kansas67260, United States."
+        ]
+      },
+      {
+        "full_name": "Ajiboye, Emmanuel",
+        "short_name": "Ajiboye E",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry and Biochemistry, Wichita State University, Wichita, Kansas67260, United States."
+        ]
+      },
+      {
+        "full_name": "Hewavidanage, Kalana Pitakatuwana",
+        "short_name": "Hewavidanage KP",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry and Biochemistry, Wichita State University, Wichita, Kansas67260, United States."
+        ]
+      },
+      {
+        "full_name": "Wier, Sophia",
+        "short_name": "Wier S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry and Biochemistry, Wichita State University, Wichita, Kansas67260, United States."
+        ]
+      },
+      {
+        "full_name": "Duong, Vincent",
+        "short_name": "Duong V",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry and Biochemistry, Wichita State University, Wichita, Kansas67260, United States."
+        ]
+      },
+      {
+        "full_name": "Wu, Haifan",
+        "short_name": "Wu H",
+        "identifiers": [
+          "0000-0002-2050-9950"
+        ],
+        "affiliations": [
+          "Department of Chemistry and Biochemistry, Wichita State University, Wichita, Kansas67260, United States."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS chemical neuroscience"
+    ],
+    "journal_abbrev": [
+      "ACS Chem Neurosci"
+    ],
+    "pub_date": "2026 Oct 7",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42916680"
+    ],
+    "review": [
+      "42916680"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

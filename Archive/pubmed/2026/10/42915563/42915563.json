@@ -1,0 +1,166 @@
+{
+  "identity": {
+    "pmid": "42915563",
+    "doi": "10.1021/jacs.6c14365",
+    "title": "CatESO: Differentiable Enzyme Sequence Optimization Guided by Substrate-Aware Kcat Prediction."
+  },
+  "content": {
+    "abstract": "Enzymes drive biological chemistry and offer greener routes to chemicals, materials, and medicines, yet their broader use as biocatalysts is often limited by insufficient catalytic turnover. Improving turnover is hard: measured rate constants are scarce and protein sequence space is vast. Deep learning models now predict the turnover number, Kcat, with growing accuracy, but they are typically applied after sequence generation to score or filter candidates, which separates the kinetic objective from the design itself. To bridge the gap between sequence generation and kinetic evaluation, we introduce CatESO, a differentiable sequence optimizer that enables direct, gradient-guided design of substrate-specific catalytic turnover. By backpropagating through a cross-modal Kcat predictor under continuous sequence relaxation, CatESO co-optimizes predicted catalytic activity, evolutionary plausibility, and structural integrity in one end-to-end framework, using ESM-2 and ESMFold to keep designs evolutionarily plausible and foldable. Across seven stringent, out-of-distribution enzymes spanning EC classes 1-7, CatESO raised model-predicted Kcat for many designs, with a median predicted fold change of 1.52, while every variant retained a pLDDT above 70. Against the RFdiffusion3-LigandMPNN pipeline and ZymCtrl, CatESO struck a better balance between predicted activity and structural confidence. By making substrate-conditioned kinetic objectives differentiable, CatESO carries differentiable protein design beyond structure- and binding-centered goals to enzyme catalytic function, giving a general route to function-oriented enzyme engineering.",
+    "keywords": [],
+    "mesh_terms": [
+      "Kinetics",
+      "*Enzymes/chemistry/metabolism",
+      "Substrate Specificity",
+      "Biocatalysis",
+      "Protein Engineering",
+      "Models, Molecular"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Gan, Zhenjia",
+        "Xu, Yuzhi",
+        "Xu, Junde",
+        "Wu, Zhihao",
+        "Huang, Juping",
+        "Yin, Jiabin",
+        "Chen, Guangyong",
+        "Zhang, John Z H"
+      ],
+      "short_names": [
+        "Gan Z",
+        "Xu Y",
+        "Xu J",
+        "Wu Z",
+        "Huang J",
+        "Yin J",
+        "Chen G",
+        "Zhang JZH"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-4612-1863"
+      ],
+      "affiliations": [
+        "School of Chemistry and Molecular Engineering, East China Normal University, Shanghai200062, China.",
+        "NYU-ECNU Center for Computational Chemistry at NYU Shanghai, Shanghai200062, China.",
+        "Department of Chemistry, New York University, New York, New York10003, United States.",
+        "Department of Computer Science and Engineering, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong SAR999077, China.",
+        "College of Computer Science and Technology, Zhejiang University, Hangzhou310027, China.",
+        "Shanghai Institute for Biomedical and Pharmaceutical Technologies, Fudan University, Shanghai200237, China.",
+        "School of Chemistry and Chemical Engineering, Shanghai Jiao Tong University, Shanghai200240, China.",
+        "Hangzhou Institute of Medicine, Chinese Academy of Sciences , Hangzhou310018, China.",
+        "NYU-ECNU Center for Computational Chemistry at NYU Shanghai, Shanghai200062, China.",
+        "Department of Chemistry, New York University, New York, New York10003, United States.",
+        "Faculty of Synthetic Biology, Shenzhen University of Advanced Technology, Shenzhen518107, China.",
+        "Collaborative Innovation Center of Extreme Optics, Shanxi University, Taiyuan, Shanxi030006, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Gan, Zhenjia",
+        "short_name": "Gan Z",
+        "identifiers": [],
+        "affiliations": [
+          "School of Chemistry and Molecular Engineering, East China Normal University, Shanghai200062, China.",
+          "NYU-ECNU Center for Computational Chemistry at NYU Shanghai, Shanghai200062, China."
+        ]
+      },
+      {
+        "full_name": "Xu, Yuzhi",
+        "short_name": "Xu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, New York University, New York, New York10003, United States."
+        ]
+      },
+      {
+        "full_name": "Xu, Junde",
+        "short_name": "Xu J",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Computer Science and Engineering, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong SAR999077, China."
+        ]
+      },
+      {
+        "full_name": "Wu, Zhihao",
+        "short_name": "Wu Z",
+        "identifiers": [],
+        "affiliations": [
+          "College of Computer Science and Technology, Zhejiang University, Hangzhou310027, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Juping",
+        "short_name": "Huang J",
+        "identifiers": [],
+        "affiliations": [
+          "Shanghai Institute for Biomedical and Pharmaceutical Technologies, Fudan University, Shanghai200237, China."
+        ]
+      },
+      {
+        "full_name": "Yin, Jiabin",
+        "short_name": "Yin J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Chemistry and Chemical Engineering, Shanghai Jiao Tong University, Shanghai200240, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Guangyong",
+        "short_name": "Chen G",
+        "identifiers": [],
+        "affiliations": [
+          "Hangzhou Institute of Medicine, Chinese Academy of Sciences , Hangzhou310018, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, John Z H",
+        "short_name": "Zhang JZH",
+        "identifiers": [
+          "0000-0003-4612-1863"
+        ],
+        "affiliations": [
+          "NYU-ECNU Center for Computational Chemistry at NYU Shanghai, Shanghai200062, China.",
+          "Department of Chemistry, New York University, New York, New York10003, United States.",
+          "Faculty of Synthetic Biology, Shenzhen University of Advanced Technology, Shenzhen518107, China.",
+          "Collaborative Innovation Center of Extreme Optics, Shanxi University, Taiyuan, Shanxi030006, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of the American Chemical Society"
+    ],
+    "journal_abbrev": [
+      "J Am Chem Soc"
+    ],
+    "pub_date": "2026 Sep 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42915563"
+    ],
+    "review": [
+      "42915563"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

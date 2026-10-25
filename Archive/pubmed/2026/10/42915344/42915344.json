@@ -1,0 +1,108 @@
+{
+  "identity": {
+    "pmid": "42915344",
+    "doi": "10.1021/acs.jpcb.6c03113",
+    "title": "Conformational Dynamics and Ligand Binding Kinetics of New Delhi Metallo-beta-Lactamase-1 (NDM-1): A Combined Conventional Molecular Dynamics and Ligand Gaussian Accelerated Molecular Dynamics (LiGaMD) Simulation Study."
+  },
+  "content": {
+    "abstract": "New Delhi metallo-beta-lactamase-1 (NDM-1) is an enzyme responsible for antimicrobial resistance against all major classes of antibiotics, posing a serious health threat to worldwide healthcare systems. Understanding its structural and dynamical properties due to ligand binding will be helpful in pursuing the development of effective inhibitors. For these purposes, conventional molecular dynamics simulations have been successfully applied to evaluate the structural and dynamical properties of free NDM-1 and its three distinct complexes with SFC, SPC, and CAP inhibitors in terms of root mean square deviation (RMSD), root mean square fluctuation (RMSF), MM-PBSA-based free energy, protein-ligand interaction fingerprints, and ligand network analysis. Comparative analyses have also been performed to characterize changes in the conformational landscape of NDM-1 due to inhibitor binding, as a distant loop L7, was observed to be perturbed by the Zn-binding residue His-165, thus suggesting a potential allosteric site. Furthermore, LiGaMD simulations have been applied to these three complexes in the form of a replica that enabled sampling of rare conformational states and provided insights into ligand binding and unbinding kinetics. Based on LiGaMD simulations, the loop L7 was also highlighted as a transiently accessible binding region; however, further investigation was essentially required to establish this site as a potential binding site. Among these complexes, the SFC/NDM-1 complex was found to be the most optimal one, as deduced based on the most favorable balance of binding thermodynamics and kinetics, suggesting its further evaluation to establish it as a lead scaffold. These findings from the study, therefore, provide a detailed understanding of the mechanistic and kinetic features of NDM-1 and may be implicated in the rational design of novel inhibitors targeting the clinically significant NDM-1 enzyme responsible for broad antibiotic resistance.",
+    "keywords": [],
+    "mesh_terms": [
+      "*beta-Lactamases/chemistry/metabolism",
+      "*Molecular Dynamics Simulation",
+      "Ligands",
+      "Kinetics",
+      "Protein Binding",
+      "Binding Sites",
+      "Protein Conformation",
+      "Thermodynamics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Shamshad, Sharoon",
+        "Ahmed, Ayaz",
+        "Moin, Syed Tarique"
+      ],
+      "short_names": [
+        "Shamshad S",
+        "Ahmed A",
+        "Moin ST"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-8792-7850",
+        "ORCID: 0000-0002-2868-7663"
+      ],
+      "affiliations": [
+        "Third World Center for Science and Technology, H.E.J. Research Institute of Chemistry, International Center for Chemical and Biological Sciences, University of Karachi, Karachi75270, Pakistan.",
+        "Dr. Panjwani Center for Molecular Medicine and Drug Research, International Center for Chemical and Biological Sciences, University of Karachi, Karachi75270, Pakistan.",
+        "Third World Center for Science and Technology, H.E.J. Research Institute of Chemistry, International Center for Chemical and Biological Sciences, University of Karachi, Karachi75270, Pakistan."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Shamshad, Sharoon",
+        "short_name": "Shamshad S",
+        "identifiers": [],
+        "affiliations": [
+          "Third World Center for Science and Technology, H.E.J. Research Institute of Chemistry, International Center for Chemical and Biological Sciences, University of Karachi, Karachi75270, Pakistan."
+        ]
+      },
+      {
+        "full_name": "Ahmed, Ayaz",
+        "short_name": "Ahmed A",
+        "identifiers": [
+          "0000-0001-8792-7850"
+        ],
+        "affiliations": [
+          "Dr. Panjwani Center for Molecular Medicine and Drug Research, International Center for Chemical and Biological Sciences, University of Karachi, Karachi75270, Pakistan."
+        ]
+      },
+      {
+        "full_name": "Moin, Syed Tarique",
+        "short_name": "Moin ST",
+        "identifiers": [
+          "0000-0002-2868-7663"
+        ],
+        "affiliations": [
+          "Third World Center for Science and Technology, H.E.J. Research Institute of Chemistry, International Center for Chemical and Biological Sciences, University of Karachi, Karachi75270, Pakistan."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The journal of physical chemistry. B"
+    ],
+    "journal_abbrev": [
+      "J Phys Chem B"
+    ],
+    "pub_date": "2026 Sep 17",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42915344"
+    ],
+    "review": [
+      "42915344"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

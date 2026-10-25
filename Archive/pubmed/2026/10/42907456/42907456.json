@@ -1,0 +1,169 @@
+{
+  "identity": {
+    "pmid": "42907456",
+    "doi": "10.1038/s41467-026-77607-9",
+    "title": "Generating protein hydrogels with customizable stress relaxation behavior via deep learning-driven entanglement design."
+  },
+  "content": {
+    "abstract": "Protein hydrogels are promising artificial extracellular matrices (ECMs) for 3D stem cell and organoid culture due to their favorable stress relaxation behavior (a decrease in stress in response to strain). Inter-chain entangled motifs, in which different protein chains are interlaced, represent a powerful strategy to synthesize such hydrogels. However, designing these motifs with tailored properties such as binding energy remains a major challenge due to the difficulty of simultaneously controlling these properties while ensuring entanglement. Here, we introduce TangleDiff, a deep learning framework for the de novo design of homodimeric entangled proteins with programmable features. TangleDiff generates diverse foldable entangled sequences with an in-silico success rate exceeding 70%, markedly outperforming current models (~1%). By conditioning TangleDiff on inter-chain binding energy, we generate novel protein dimers whose binding energies closely match the specified ranges, with approximately 70% of successful designs conforming to expected values. We experimentally validate TangleDiff by designing nine homodimers targeting various binding energies; seven successfully form hydrogels, with stress relaxation dynamics correlated with specified binding energies. This work establishes a general strategy for entangled protein design, opening avenues for entanglement-based biomaterial innovation.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Hydrogels/chemistry",
+      "*Deep Learning",
+      "*Proteins/chemistry",
+      "Extracellular Matrix/chemistry",
+      "*Protein Engineering/methods"
+    ],
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Deng, Puqing",
+        "Wu, Yutong",
+        "Fok, Hong Kiu Francis",
+        "Li, Linyan",
+        "Zhang, Wen-Bin",
+        "Sun, Fei",
+        "Gao, Hanyu"
+      ],
+      "short_names": [
+        "Deng P",
+        "Wu Y",
+        "Fok HKF",
+        "Li L",
+        "Zhang WB",
+        "Sun F",
+        "Gao H"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-2125-8548",
+        "ORCID: 0000-0002-8746-0792",
+        "ORCID: 0000-0002-3065-7471",
+        "ORCID: 0000-0002-6346-0739"
+      ],
+      "affiliations": [
+        "Department of Chemical and Biological Engineering, The Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong.",
+        "Department of Chemical and Biological Engineering, The Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong.",
+        "Department of Chemical and Biological Engineering, The Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong.",
+        "Department of Data Science, City University of Hong Kong, Kowloon, Hong Kong.",
+        "Beijing National Laboratory for Molecular Sciences, Key Laboratory of Polymer Chemistry & Physics of Ministry of Education, Center for Soft Matter Science and Engineering, College of Chemistry and Molecular Engineering, Peking University, Beijing, P. R. China.",
+        "School of AI for Science (AI4S), Shenzhen Graduate School, Peking University, Shenzhen, P. R. China.",
+        "Department of Chemical and Biological Engineering, The Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong. kefsun@ust.hk.",
+        "Department of Chemical and Biological Engineering, The Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong. hanyugao@ust.hk."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Deng, Puqing",
+        "short_name": "Deng P",
+        "identifiers": [
+          "0000-0003-2125-8548"
+        ],
+        "affiliations": [
+          "Department of Chemical and Biological Engineering, The Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong."
+        ]
+      },
+      {
+        "full_name": "Wu, Yutong",
+        "short_name": "Wu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical and Biological Engineering, The Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong."
+        ]
+      },
+      {
+        "full_name": "Fok, Hong Kiu Francis",
+        "short_name": "Fok HKF",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical and Biological Engineering, The Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong."
+        ]
+      },
+      {
+        "full_name": "Li, Linyan",
+        "short_name": "Li L",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Data Science, City University of Hong Kong, Kowloon, Hong Kong."
+        ]
+      },
+      {
+        "full_name": "Zhang, Wen-Bin",
+        "short_name": "Zhang WB",
+        "identifiers": [
+          "0000-0002-8746-0792"
+        ],
+        "affiliations": [
+          "Beijing National Laboratory for Molecular Sciences, Key Laboratory of Polymer Chemistry & Physics of Ministry of Education, Center for Soft Matter Science and Engineering, College of Chemistry and Molecular Engineering, Peking University, Beijing, P. R. China.",
+          "School of AI for Science (AI4S), Shenzhen Graduate School, Peking University, Shenzhen, P. R. China."
+        ]
+      },
+      {
+        "full_name": "Sun, Fei",
+        "short_name": "Sun F",
+        "identifiers": [
+          "0000-0002-3065-7471"
+        ],
+        "affiliations": [
+          "Department of Chemical and Biological Engineering, The Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong. kefsun@ust.hk."
+        ]
+      },
+      {
+        "full_name": "Gao, Hanyu",
+        "short_name": "Gao H",
+        "identifiers": [
+          "0000-0002-6346-0739"
+        ],
+        "affiliations": [
+          "Department of Chemical and Biological Engineering, The Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong. hanyugao@ust.hk."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Sep 21",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/22 23:29",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42907456"
+    ],
+    "review": [
+      "42907456"
+    ],
+    "pmc": [
+      "13687093"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41467-026-77607-9",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

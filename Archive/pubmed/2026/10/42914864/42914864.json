@@ -1,0 +1,109 @@
+{
+  "identity": {
+    "pmid": "42914864",
+    "doi": "10.1016/j.foodchem.2026.151680",
+    "title": "Melatonin regulates protein structures of wheat under shading for cookie crack ratio and digestibility modifications."
+  },
+  "content": {
+    "abstract": "The crack ratio and nutritional value of cookies depend on wheat protein structures, yet how melatonin modifies these attributes under shading remains unclear. This study evaluated the effects of melatonin (200 mumol L(-1)) on protein structure and cookie-making quality in shaded wheat. Under shading, melatonin increased glutenin, gliadin, total protein, and small polymeric protein content, and raised beta-sheet and alpha-helix proportions by up to 14.4% and 13.2%, respectively, strengthening non-covalent interactions into a more cross-linked gluten network. Melatonin also elevated sulfur-containing and aromatic amino acids, improving nutritional value and digestibility. A SegFormer-based machine learning model showed melatonin reduced the cookie crack ratio by 18.8-30.7% and improved homogeneity. Protein content, gamma-gliadin, and small polymeric proteins governed the crack ratio, whereas digestibility was primarily associated with small polymeric proteins. Collectively, melatonin regulates crack ratio and digestibility by modulating amino acid profiles and protein structures, offering a promising approach to enhance cookie-making quality.",
+    "keywords": [
+      "Cookie texture",
+      "Global dimming",
+      "Melatonin",
+      "Protein digestibility",
+      "Protein structure"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yang, Hongkun",
+        "Wei, Ting",
+        "Huang, Xiulan",
+        "Fan, Gaoqiong"
+      ],
+      "short_names": [
+        "Yang H",
+        "Wei T",
+        "Huang X",
+        "Fan G"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Key Laboratory of Crop Eco-Physiology & Farming System in Southwest China, Ministry of Agriculture and Rural Affairs, Chengdu, Sichuan, 611130, China; College of Agronomy, Sichuan Agricultural University, Chengdu, Sichuan, 611130, China. Electronic address: yhk159357@163.com.",
+        "College of Agronomy, Sichuan Agricultural University, Chengdu, Sichuan, 611130, China.",
+        "College of Agronomy, Sichuan Agricultural University, Chengdu, Sichuan, 611130, China.",
+        "Key Laboratory of Crop Eco-Physiology & Farming System in Southwest China, Ministry of Agriculture and Rural Affairs, Chengdu, Sichuan, 611130, China; College of Agronomy, Sichuan Agricultural University, Chengdu, Sichuan, 611130, China. Electronic address: fangao20056@126.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yang, Hongkun",
+        "short_name": "Yang H",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Crop Eco-Physiology & Farming System in Southwest China, Ministry of Agriculture and Rural Affairs, Chengdu, Sichuan, 611130, China; College of Agronomy, Sichuan Agricultural University, Chengdu, Sichuan, 611130, China. Electronic address: yhk159357@163.com."
+        ]
+      },
+      {
+        "full_name": "Wei, Ting",
+        "short_name": "Wei T",
+        "identifiers": [],
+        "affiliations": [
+          "College of Agronomy, Sichuan Agricultural University, Chengdu, Sichuan, 611130, China."
+        ]
+      },
+      {
+        "full_name": "Huang, Xiulan",
+        "short_name": "Huang X",
+        "identifiers": [],
+        "affiliations": [
+          "College of Agronomy, Sichuan Agricultural University, Chengdu, Sichuan, 611130, China."
+        ]
+      },
+      {
+        "full_name": "Fan, Gaoqiong",
+        "short_name": "Fan G",
+        "identifiers": [],
+        "affiliations": [
+          "Key Laboratory of Crop Eco-Physiology & Farming System in Southwest China, Ministry of Agriculture and Rural Affairs, Chengdu, Sichuan, 611130, China; College of Agronomy, Sichuan Agricultural University, Chengdu, Sichuan, 611130, China. Electronic address: fangao20056@126.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Food chemistry"
+    ],
+    "journal_abbrev": [
+      "Food Chem"
+    ],
+    "pub_date": "2026 Oct 20",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42914864"
+    ],
+    "review": [
+      "42914864"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

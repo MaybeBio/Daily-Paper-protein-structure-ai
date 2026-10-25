@@ -1,0 +1,95 @@
+{
+  "identity": {
+    "pmid": "42912618",
+    "doi": "10.1021/acs.biomac.6c01203",
+    "title": "Crowder Environments Control Interfacial Dynamics and Topological Stability in a Knotted Protein."
+  },
+  "content": {
+    "abstract": "Knotted proteins are unique biomolecules where backbone entanglement imposes intrinsic constraints on structure and dynamics. The interaction of such a topologically restrained protein with molecular crowders remains unexplored. Using molecular dynamics simulations, we investigate the effects of polyethylene glycol (PEG) and dextran on the structure, interactions, and topological dynamics of the trefoil-knotted enzyme AOTCase. Persistent, heterogeneous accumulation of dextran near the protein surface is observed, whereas PEG exhibits a transient interaction pattern. The distinct interfacial behaviors propagate into the protein's dynamical organization: dextran induces fragmentation of communication pathways, while PEG largely preserves network coherence. At elevated temperatures, dextran retards global denaturation compared to PEG or pure water, with the knotted core exhibiting reduced fluctuations. Our findings reveal that the effects of molecular crowding on knotted proteins arise from both excluded-volume effects and the chemical nature of crowder-protein interactions. This interplay can influence both local topological dynamics and global stability.",
+    "keywords": [],
+    "mesh_terms": [
+      "Molecular Dynamics Simulation",
+      "*Dextrans/chemistry",
+      "*Polyethylene Glycols/chemistry",
+      "Protein Stability",
+      "Protein Conformation",
+      "*Proteins/chemistry"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Thakuria, Sanjib",
+        "Paul, Sandip"
+      ],
+      "short_names": [
+        "Thakuria S",
+        "Paul S"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-0859-4398",
+        "ORCID: 0000-0002-9693-2915"
+      ],
+      "affiliations": [
+        "Department of Chemistry, Indian Institute of Technology, Guwahati, Assam781039, India.",
+        "Department of Chemistry, Indian Institute of Technology, Guwahati, Assam781039, India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Thakuria, Sanjib",
+        "short_name": "Thakuria S",
+        "identifiers": [
+          "0000-0002-0859-4398"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Indian Institute of Technology, Guwahati, Assam781039, India."
+        ]
+      },
+      {
+        "full_name": "Paul, Sandip",
+        "short_name": "Paul S",
+        "identifiers": [
+          "0000-0002-9693-2915"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Indian Institute of Technology, Guwahati, Assam781039, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biomacromolecules"
+    ],
+    "journal_abbrev": [
+      "Biomacromolecules"
+    ],
+    "pub_date": "2026 Oct 12",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 18:31",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42912618"
+    ],
+    "review": [
+      "42912618"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

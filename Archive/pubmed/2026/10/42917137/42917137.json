@@ -1,0 +1,116 @@
+{
+  "identity": {
+    "pmid": "42917137",
+    "doi": "10.1021/acs.biochem.6c00314",
+    "title": "Conserved Hinge Motif Modulates Conformational Mobility of a Heme Trafficking Protein from Fusobacterium nucleatum."
+  },
+  "content": {
+    "abstract": "Fusobacterium nucleatum encodes HmuF, which has been shown in vitro to bind tightly to heme, traffic the cofactor to anaerobilin synthase, and catalyze the four-electron reduction of anaerobilin. The structure of the heme-bound HmuF paralog, FldH, reveals an alpha-helical cap appended to the flavodoxin domain. Molecular dynamics simulations of FldH without heme reveal that the alpha-helical cap pivots away from the flavodoxin domain to form an open complex, but then reforms the closed complex, which remains closed for the duration of the MD simulation. Transition to the open conformation disrupts noncovalent interactions formed by three conserved residues (cis-Pro151, His150, and Asp155) that form a hinge bisecting the cap and flavodoxin domain. 19F NMR was used to probe the dynamics of the cap and the role of the hinge motif. 1D NMR reveals that a single 19F-Tyr probe in the alpha-helical cap has two resonances that slowly exchange (tau = 1.5 ms). A H150A and D155N substitution caused coalescence of these two peaks, indicating faster exchange or stabilization of one conformer. A P151G substitution not only led to a shift in the 19F-Tyr128 peak(s), but also to the chemical shifts of the 19F-Tyr residues located in the flavodoxin fold, indicating a greater perturbation in protein structure. Despite the variants exhibiting different 19F-NMR spectra, all engage in heme trafficking and anaerobilin reduction. Together, these results indicate that while the conserved hinge fine-tunes the dynamics of the alpha-helical cap, this motif is not a strict prerequisite for HmuF/FldH function.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Fusobacterium nucleatum/metabolism/chemistry",
+      "*Bacterial Proteins/chemistry/metabolism/genetics",
+      "*Heme/metabolism/chemistry",
+      "Molecular Dynamics Simulation",
+      "Protein Conformation",
+      "Amino Acid Motifs",
+      "*Hemeproteins/chemistry/metabolism/genetics",
+      "Conserved Sequence"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Widjaja, Stella I",
+        "Khalilian, M Hossein",
+        "McGregor, Alexandra K",
+        "Wolthers, Kirsten R"
+      ],
+      "short_names": [
+        "Widjaja SI",
+        "Khalilian MH",
+        "McGregor AK",
+        "Wolthers KR"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-6132-9983"
+      ],
+      "affiliations": [
+        "Department of Chemistry, University of British Columbia, Okanagan Campus, 3247 University Way, KelownaV1V 1V7, Canada.",
+        "Department of Chemistry, University of British Columbia, Okanagan Campus, 3247 University Way, KelownaV1V 1V7, Canada.",
+        "Department of Chemistry, University of British Columbia, Okanagan Campus, 3247 University Way, KelownaV1V 1V7, Canada.",
+        "Department of Chemistry, University of British Columbia, Okanagan Campus, 3247 University Way, KelownaV1V 1V7, Canada."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Widjaja, Stella I",
+        "short_name": "Widjaja SI",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, University of British Columbia, Okanagan Campus, 3247 University Way, KelownaV1V 1V7, Canada."
+        ]
+      },
+      {
+        "full_name": "Khalilian, M Hossein",
+        "short_name": "Khalilian MH",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, University of British Columbia, Okanagan Campus, 3247 University Way, KelownaV1V 1V7, Canada."
+        ]
+      },
+      {
+        "full_name": "McGregor, Alexandra K",
+        "short_name": "McGregor AK",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, University of British Columbia, Okanagan Campus, 3247 University Way, KelownaV1V 1V7, Canada."
+        ]
+      },
+      {
+        "full_name": "Wolthers, Kirsten R",
+        "short_name": "Wolthers KR",
+        "identifiers": [
+          "0000-0001-6132-9983"
+        ],
+        "affiliations": [
+          "Department of Chemistry, University of British Columbia, Okanagan Campus, 3247 University Way, KelownaV1V 1V7, Canada."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Biochemistry"
+    ],
+    "journal_abbrev": [
+      "Biochemistry"
+    ],
+    "pub_date": "2026 Oct 6",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42917137"
+    ],
+    "review": [
+      "42917137"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

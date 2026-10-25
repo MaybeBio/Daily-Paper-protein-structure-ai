@@ -1,0 +1,119 @@
+{
+  "identity": {
+    "pmid": "42906022",
+    "doi": "10.1021/acs.jcim.6c01905",
+    "title": "A Simulation-Free Topological Basis for Building Compact Koopman Models of Protein Folding."
+  },
+  "content": {
+    "abstract": "Unravelling protein-folding mechanisms and kinetics is a key challenge to biochemical science. The variational approach for Markov processes (VAMP) is a powerful tool to build Markov Models that capture key kinetic and structural information despite the conformational complexity and long time scales associated with protein folding. However, VAMP-based Markov models use data from exhaustive molecular dynamics (MD) simulations to construct an underlying basis set describing the \"coarse-grained\" kinetics; the same MD data can be used to predict transition probabilities between partitioned configuration space, enabling the extraction of folding time scales and mechanism. Here, we propose an alternative strategy for Markov model construction that does not rely on extensive, computationally demanding MD data for configuration space partitioning. Specifically, we show that graph-driven sampling (GDS) can generate a complete \"landscape\" of intermediate contact-maps linking unfolded and folded protein conformations; importantly, extensive MD simulations are not required in GDS. When combined with a physically intuitive shortest-contact-hop metric to discriminate different intermediate states, GDS mapping of protein-folding configuration space generates a reliable \"structurally aware\" partitioning for VAMP model construction. To demonstrate this strategy, we show that a GDS-constructed Markov model variationally improves folding time scale estimates for all-atom models of the WW domain protein horizontal line and has the additional advantage of easily resolving kinetic traps in the folding landscape that have proven challenging to confirm otherwise. Together, the combination of GDS and VAMP opens a new route toward rapid characterization of protein-folding intermediates and kinetics traps to help address frontier challenges such as protein misfolding, aggregation, and protein design.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Protein Folding",
+      "*Molecular Dynamics Simulation",
+      "Markov Chains",
+      "Protein Conformation",
+      "*Proteins/chemistry",
+      "Kinetics"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Fakhoury, Ziad",
+        "Sosso, Gabriele C",
+        "Habershon, Scott"
+      ],
+      "short_names": [
+        "Fakhoury Z",
+        "Sosso GC",
+        "Habershon S"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-2079-1749",
+        "ORCID: 0000-0002-6156-7399",
+        "ORCID: 0000-0001-5932-6011"
+      ],
+      "affiliations": [
+        "Department of Chemistry, University of Warwick, CoventryCV4 7AL, United Kingdom.",
+        "Department of Chemistry, University of Warwick, CoventryCV4 7AL, United Kingdom.",
+        "Department of Chemistry, University of Warwick, CoventryCV4 7AL, United Kingdom."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Fakhoury, Ziad",
+        "short_name": "Fakhoury Z",
+        "identifiers": [
+          "0000-0002-2079-1749"
+        ],
+        "affiliations": [
+          "Department of Chemistry, University of Warwick, CoventryCV4 7AL, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Sosso, Gabriele C",
+        "short_name": "Sosso GC",
+        "identifiers": [
+          "0000-0002-6156-7399"
+        ],
+        "affiliations": [
+          "Department of Chemistry, University of Warwick, CoventryCV4 7AL, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Habershon, Scott",
+        "short_name": "Habershon S",
+        "identifiers": [
+          "0000-0001-5932-6011"
+        ],
+        "affiliations": [
+          "Department of Chemistry, University of Warwick, CoventryCV4 7AL, United Kingdom."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of chemical information and modeling"
+    ],
+    "journal_abbrev": [
+      "J Chem Inf Model"
+    ],
+    "pub_date": "2026 Sep 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/22 23:29",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42906022"
+    ],
+    "review": [
+      "42906022"
+    ],
+    "pmc": [
+      "13625948"
+    ],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/jcisd8/article-lookup/doi/10.1021/acs.jcim.6c01905",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

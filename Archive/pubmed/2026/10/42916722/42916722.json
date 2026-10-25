@@ -1,0 +1,92 @@
+{
+  "identity": {
+    "pmid": "42916722",
+    "doi": "10.1021/acs.jpcb.6c04066",
+    "title": "Protein Breathing Induces Non-Markovian Buried Ring-Flip Dynamics in Cytochrome C."
+  },
+  "content": {
+    "abstract": "Aromatic amino acids buried inside folded proteins play a critical role in stabilizing both the folded conformation and anchoring incoming substrate molecules. Moreover, their ring flips serve as sensitive probes of protein breathing motions. In this work, we accurately estimate the ring-flip rates of a phenylalanine residue in cytochrome C from MD simulations using enhanced sampling methods and advanced rate theories, such as the reactive flux formalism and Grote-Hynes theory (GHT). We demonstrate that the combined steric hindrance from the residues adjacent to the ring, along with their delayed response in accommodating free rotation, manifests as memory-dependent friction. Increasing solvent viscosity slows the fluctuations of these cavity residues, reinforcing the delayed response and producing a fractional viscosity dependence of the flip rate despite the ring being completely buried.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Cytochromes c/chemistry/metabolism",
+      "*Molecular Dynamics Simulation",
+      "Protein Conformation",
+      "Viscosity"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Roy, Bikirna",
+        "Mukherjee, Arnab"
+      ],
+      "short_names": [
+        "Roy B",
+        "Mukherjee A"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-5691-6120"
+      ],
+      "affiliations": [
+        "Department of Chemistry, Indian Institute of Science Education and Research Pune, Dr. Homi Bhabha Road, Pashan, Pune411008, Maharashtra, India.",
+        "Department of Chemistry, Indian Institute of Science Education and Research Pune, Dr. Homi Bhabha Road, Pashan, Pune411008, Maharashtra, India.",
+        "Department of Data Science, Indian Institute of Science Education and Research Pune, Dr. Homi Bhabha Road, Pashan, Pune411008, Maharashtra, India."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Roy, Bikirna",
+        "short_name": "Roy B",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Indian Institute of Science Education and Research Pune, Dr. Homi Bhabha Road, Pashan, Pune411008, Maharashtra, India."
+        ]
+      },
+      {
+        "full_name": "Mukherjee, Arnab",
+        "short_name": "Mukherjee A",
+        "identifiers": [
+          "0000-0001-5691-6120"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Indian Institute of Science Education and Research Pune, Dr. Homi Bhabha Road, Pashan, Pune411008, Maharashtra, India.",
+          "Department of Data Science, Indian Institute of Science Education and Research Pune, Dr. Homi Bhabha Road, Pashan, Pune411008, Maharashtra, India."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The journal of physical chemistry. B"
+    ],
+    "journal_abbrev": [
+      "J Phys Chem B"
+    ],
+    "pub_date": "2026 Oct 8",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42916722"
+    ],
+    "review": [
+      "42916722"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

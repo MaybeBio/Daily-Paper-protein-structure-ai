@@ -1,0 +1,123 @@
+{
+  "identity": {
+    "pmid": "42913557",
+    "doi": "10.1021/jacs.6c13162",
+    "title": "Cooperative Membrane Recognition by Lipid-Sensing and Kinase Domains Shapes Membrane-Bound States of AKT."
+  },
+  "content": {
+    "abstract": "The PI3K/AKT signaling pathway is triggered by the recruitment of AKT to cellular membranes. Although AKT is a multidomain serine/threonine kinase composed of an N-terminal pleckstrin homology (PH) domain and a C-terminal kinase domain (KD), how these domains cooperate to regulate AKT activation on membranes remains unclear at the molecular level. Here, using molecular dynamics simulations of full-length AKT on phosphatidylinositol (3,4,5)-trisphosphate (PIP3)-containing lipid bilayers, we identify four distinct membrane-binding modes that differ in the orientations and membrane contacts of the PH domain and KD. In addition to PIP3 binding to the PH domain, we observed specific PIP3 interactions with basic residues in the KD. In the most stable mode, PIP3 interacts with both the canonical and a secondary binding site in the PH domain, while the KD adopts an orientation in which the activation loop phosphorylation site is exposed to the solvent. The populations of these binding modes depend on the PIP3 concentration in the membrane, leading to changes in the preferred orientation of AKT. Live-cell single-molecule imaging further supports distinct but cooperative roles of the PH domain and KD in membrane recruitment: the PH domain primarily promotes membrane association, whereas the KD enhances recruitment efficiency and stabilizes longer-residence membrane-bound states. These findings suggest that AKT membrane recruitment is governed by cooperative contributions from both the PH domain and the KD, providing molecular insight into how AKT is positioned and stabilized on PIP3-containing membranes.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Proto-Oncogene Proteins c-akt/chemistry/metabolism",
+      "Molecular Dynamics Simulation",
+      "*Phosphatidylinositol Phosphates/metabolism/chemistry",
+      "*Lipid Bilayers/chemistry/metabolism",
+      "Pleckstrin Homology Domains",
+      "*Cell Membrane/metabolism/chemistry",
+      "Binding Sites",
+      "Protein Domains"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Nakagaki, Yuki",
+        "Mori, Toshiki",
+        "Suzuki, Kenichi G N",
+        "Yamamoto, Eiji"
+      ],
+      "short_names": [
+        "Nakagaki Y",
+        "Mori T",
+        "Suzuki KGN",
+        "Yamamoto E"
+      ],
+      "auids": [
+        "ORCID: 0009-0001-8695-3341",
+        "ORCID: 0000-0002-8813-5297"
+      ],
+      "affiliations": [
+        "Department of System Design Engineering, Keio University, Yokohama, Kanagawa223-8522, Japan.",
+        "Institute for Glyco-Core Research (iGCORE), Gifu University, Gifu501-1193, Japan.",
+        "Division of Advanced Bioimaging, National Cancer Center Research Institute (NCCRI), Tokyo104-0045, Japan.",
+        "Institute for Glyco-Core Research (iGCORE), Gifu University, Gifu501-1193, Japan.",
+        "Division of Advanced Bioimaging, National Cancer Center Research Institute (NCCRI), Tokyo104-0045, Japan.",
+        "Department of System Design Engineering, Keio University, Yokohama, Kanagawa223-8522, Japan."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Nakagaki, Yuki",
+        "short_name": "Nakagaki Y",
+        "identifiers": [],
+        "affiliations": [
+          "Department of System Design Engineering, Keio University, Yokohama, Kanagawa223-8522, Japan."
+        ]
+      },
+      {
+        "full_name": "Mori, Toshiki",
+        "short_name": "Mori T",
+        "identifiers": [
+          "0009-0001-8695-3341"
+        ],
+        "affiliations": [
+          "Institute for Glyco-Core Research (iGCORE), Gifu University, Gifu501-1193, Japan.",
+          "Division of Advanced Bioimaging, National Cancer Center Research Institute (NCCRI), Tokyo104-0045, Japan."
+        ]
+      },
+      {
+        "full_name": "Suzuki, Kenichi G N",
+        "short_name": "Suzuki KGN",
+        "identifiers": [],
+        "affiliations": [
+          "Institute for Glyco-Core Research (iGCORE), Gifu University, Gifu501-1193, Japan.",
+          "Division of Advanced Bioimaging, National Cancer Center Research Institute (NCCRI), Tokyo104-0045, Japan."
+        ]
+      },
+      {
+        "full_name": "Yamamoto, Eiji",
+        "short_name": "Yamamoto E",
+        "identifiers": [
+          "0000-0002-8813-5297"
+        ],
+        "affiliations": [
+          "Department of System Design Engineering, Keio University, Yokohama, Kanagawa223-8522, Japan."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of the American Chemical Society"
+    ],
+    "journal_abbrev": [
+      "J Am Chem Soc"
+    ],
+    "pub_date": "2026 Oct 14",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42913557"
+    ],
+    "review": [
+      "42913557"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "identity": {
+    "pmid": "42917203",
+    "doi": "10.1021/acsnano.6c07852",
+    "title": "In-Memory Bayesian Machine Using Vertical Cu0.33Te0.67/HfO2/TiN Memristive Crossbar Arrays."
+  },
+  "content": {
+    "abstract": "Bayesian inference is essential for robust decision-making under uncertainty. However, efficient hardware implementation remains challenging because Bayesian inference requires both a probability representation and repeated probabilistic multiplication with minimal data movement. This work demonstrates an integrated in-memory Bayesian machine using a four-layer vertical Cu0.33Te0.67/HfO2/TiN (v-CTHT) memristive crossbar array. The intrinsic stochastic switching, nonvolatile memory, and self-rectifying behavior of v-CTHT memristors allow prior and likelihood probabilities to be encoded directly as resistance values in page-wise configurations. The posterior probabilities are generated through cascaded interpage NAND and NOT operations within the same vertical array, without external probability-generation circuitry. In contrast to deterministic posterior computation, which generates an identical posterior output even under repeated inference trials for the same input, the proposed method yields a distribution of posterior outputs through intrinsic stochastic switching, enabling stochastic Bayesian inference in memory. The proposed method is experimentally validated at the levels of stochastic device operation, stateful cascaded-AND logic, and page-level probabilistic multiplication. Furthermore, a proof-of-concept protein-folding prediction task is demonstrated through a hardware-informed simulation based on experimentally measured device characteristics. These results establish that probability encoding, storage, and Bayesian inference can be physically unified in a vertical memristive array, providing a compact hardware platform for parallel Bayesian computing.",
+    "keywords": [
+      "Bayesian inference",
+      "in-memory computing",
+      "intrinsic stochastic switching",
+      "stochastic computing",
+      "vertical memristive array"
+    ],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Baek, In Kyung",
+        "Cheong, Sunwoo",
+        "Kim, Hyun Wook",
+        "Cho, Jea Min",
+        "Son, Kunhee",
+        "Kim, Yeong Rok",
+        "Woo, Kyung Seok",
+        "Park, Hyungjun",
+        "Kim, Byeong Su",
+        "Hwang, Cheol Seong"
+      ],
+      "short_names": [
+        "Baek IK",
+        "Cheong S",
+        "Kim HW",
+        "Cho JM",
+        "Son K",
+        "Kim YR",
+        "Woo KS",
+        "Park H",
+        "Kim BS",
+        "Hwang CS"
+      ],
+      "auids": [
+        "ORCID: 0009-0003-3345-9264",
+        "ORCID: 0000-0001-9184-7255",
+        "ORCID: 0000-0002-6254-9758"
+      ],
+      "affiliations": [
+        "Department of Materials Science and Engineering and Inter-University Semiconductor Research Center, Seoul National University, Seoul08826, Korea.",
+        "Department of Materials Science and Engineering and Inter-University Semiconductor Research Center, Seoul National University, Seoul08826, Korea.",
+        "Department of Materials Science and Engineering and Inter-University Semiconductor Research Center, Seoul National University, Seoul08826, Korea.",
+        "Department of Materials Science and Engineering and Inter-University Semiconductor Research Center, Seoul National University, Seoul08826, Korea.",
+        "Department of Materials Science and Engineering and Inter-University Semiconductor Research Center, Seoul National University, Seoul08826, Korea.",
+        "Department of Materials Science and Engineering and Inter-University Semiconductor Research Center, Seoul National University, Seoul08826, Korea.",
+        "Graduate School of Semiconductor Materials and Devices Engineering, Ulsan National Institute of Science and Technology (UNIST), Ulsan44919, Republic of Korea.",
+        "Department of Materials Science and Engineering, Ulsan National Institute of Science and Technology (UNIST), Ulsan44919, Republic of Korea.",
+        "Department of Materials Science and Engineering and Inter-University Semiconductor Research Center, Seoul National University, Seoul08826, Korea.",
+        "Department of Materials Science and Engineering and Inter-University Semiconductor Research Center, Seoul National University, Seoul08826, Korea.",
+        "Department of Materials Science and Engineering and Inter-University Semiconductor Research Center, Seoul National University, Seoul08826, Korea."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Baek, In Kyung",
+        "short_name": "Baek IK",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Materials Science and Engineering and Inter-University Semiconductor Research Center, Seoul National University, Seoul08826, Korea."
+        ]
+      },
+      {
+        "full_name": "Cheong, Sunwoo",
+        "short_name": "Cheong S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Materials Science and Engineering and Inter-University Semiconductor Research Center, Seoul National University, Seoul08826, Korea."
+        ]
+      },
+      {
+        "full_name": "Kim, Hyun Wook",
+        "short_name": "Kim HW",
+        "identifiers": [
+          "0009-0003-3345-9264"
+        ],
+        "affiliations": [
+          "Department of Materials Science and Engineering and Inter-University Semiconductor Research Center, Seoul National University, Seoul08826, Korea."
+        ]
+      },
+      {
+        "full_name": "Cho, Jea Min",
+        "short_name": "Cho JM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Materials Science and Engineering and Inter-University Semiconductor Research Center, Seoul National University, Seoul08826, Korea."
+        ]
+      },
+      {
+        "full_name": "Son, Kunhee",
+        "short_name": "Son K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Materials Science and Engineering and Inter-University Semiconductor Research Center, Seoul National University, Seoul08826, Korea."
+        ]
+      },
+      {
+        "full_name": "Kim, Yeong Rok",
+        "short_name": "Kim YR",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Materials Science and Engineering and Inter-University Semiconductor Research Center, Seoul National University, Seoul08826, Korea."
+        ]
+      },
+      {
+        "full_name": "Woo, Kyung Seok",
+        "short_name": "Woo KS",
+        "identifiers": [
+          "0000-0001-9184-7255"
+        ],
+        "affiliations": [
+          "Graduate School of Semiconductor Materials and Devices Engineering, Ulsan National Institute of Science and Technology (UNIST), Ulsan44919, Republic of Korea.",
+          "Department of Materials Science and Engineering, Ulsan National Institute of Science and Technology (UNIST), Ulsan44919, Republic of Korea."
+        ]
+      },
+      {
+        "full_name": "Park, Hyungjun",
+        "short_name": "Park H",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Materials Science and Engineering and Inter-University Semiconductor Research Center, Seoul National University, Seoul08826, Korea."
+        ]
+      },
+      {
+        "full_name": "Kim, Byeong Su",
+        "short_name": "Kim BS",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Materials Science and Engineering and Inter-University Semiconductor Research Center, Seoul National University, Seoul08826, Korea."
+        ]
+      },
+      {
+        "full_name": "Hwang, Cheol Seong",
+        "short_name": "Hwang CS",
+        "identifiers": [
+          "0000-0002-6254-9758"
+        ],
+        "affiliations": [
+          "Department of Materials Science and Engineering and Inter-University Semiconductor Research Center, Seoul National University, Seoul08826, Korea."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS nano"
+    ],
+    "journal_abbrev": [
+      "ACS Nano"
+    ],
+    "pub_date": "2026 Oct 13",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:32",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42917203"
+    ],
+    "review": [
+      "42917203"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

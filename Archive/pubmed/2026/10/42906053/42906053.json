@@ -1,0 +1,164 @@
+{
+  "identity": {
+    "pmid": "42906053",
+    "doi": "10.1021/acs.jcim.6c02052",
+    "title": "Physics-Inspired Multi-Body Descriptors Enable Interpretable Density Prediction of Energetic Ionic Salts."
+  },
+  "content": {
+    "abstract": "Machine learning has introduced a transformative paradigm for the rapid prediction of crystal properties, circumventing the need for explicit knowledge of crystal packing structures. However, when applied to high-density organic systems such as energetic ionic salts, conventional general-purpose molecular descriptors often exhibit limited prediction accuracy, generalization capability, and extrapolation capability. To address this challenge, we propose a physics-inspired multi-body descriptor (PIMBD). By decoupling the modeling of cations and anions and employing the co-evolutionary optimization of multi-body function hyperparameters, PIMBD effectively captures spatial arrangement features of atoms governed by strong Coulombic interactions. We established a benchmark dataset comprising more than 1200 energetic ionic crystals and conducted a systematic comparison of 6 representative descriptor frameworks and 29 machine learning algorithms. The results show that PIMBD achieves high predictive accuracy, with a mean absolute error (MAE) of 0.034 g/cm3. Meanwhile, it achieves an MAE of 0.0282 g/cm3 on an independent validation set composed of pentazolate-based ionic salts, shows pronounced advantages in the high-density region, and outperforms other descriptors in terms of generalization robustness and extrapolation capability. Furthermore, atomic-scale interpretability analyses were performed to elucidate the critical structural factors governing crystal density, leading to the distillation of three physically meaningful design principles. This work provides an efficient and interpretable descriptive methodology specifically tailored for ionic salts and may potentially accelerate the rational structure design of high-energy-density materials.",
+    "keywords": [],
+    "mesh_terms": [
+      "Ions/chemistry",
+      "Machine Learning",
+      "*Models, Molecular",
+      "*Salts/chemistry"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Wang, Xiaoyan",
+        "He, Xiaokai",
+        "Zhang, Yining",
+        "Li, Guojin",
+        "Chen, Chao",
+        "Liu, Yingzhe"
+      ],
+      "short_names": [
+        "Wang X",
+        "He X",
+        "Zhang Y",
+        "Li G",
+        "Chen C",
+        "Liu Y"
+      ],
+      "auids": [
+        "ORCID: 0009-0008-7188-791X",
+        "ORCID: 0000-0001-9743-3360",
+        "ORCID: 0000-0003-4150-1111"
+      ],
+      "affiliations": [
+        "Xi'an Modern Chemistry Research Institute, Xi'an710065, China.",
+        "Xi'an Key Laboratory of Liquid Crystal and Organic Photovoltaic Materials, Xi'an710065, China.",
+        "Xi'an Modern Chemistry Research Institute, Xi'an710065, China.",
+        "Xi'an Key Laboratory of Liquid Crystal and Organic Photovoltaic Materials, Xi'an710065, China.",
+        "Xi'an Modern Chemistry Research Institute, Xi'an710065, China.",
+        "Xi'an Key Laboratory of Liquid Crystal and Organic Photovoltaic Materials, Xi'an710065, China.",
+        "Xi'an Modern Chemistry Research Institute, Xi'an710065, China.",
+        "Xi'an Key Laboratory of Liquid Crystal and Organic Photovoltaic Materials, Xi'an710065, China.",
+        "Xi'an Modern Chemistry Research Institute, Xi'an710065, China.",
+        "Xi'an Key Laboratory of Liquid Crystal and Organic Photovoltaic Materials, Xi'an710065, China.",
+        "Xi'an Modern Chemistry Research Institute, Xi'an710065, China.",
+        "National Key Laboratory of Energetic Molecules, Xi'an710065, China.",
+        "State Key Laboratory of Fluorine & Nitrogen Chemicals, Xi'an710065, China.",
+        "Xi'an Key Laboratory of Liquid Crystal and Organic Photovoltaic Materials, Xi'an710065, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Wang, Xiaoyan",
+        "short_name": "Wang X",
+        "identifiers": [],
+        "affiliations": [
+          "Xi'an Modern Chemistry Research Institute, Xi'an710065, China.",
+          "Xi'an Key Laboratory of Liquid Crystal and Organic Photovoltaic Materials, Xi'an710065, China."
+        ]
+      },
+      {
+        "full_name": "He, Xiaokai",
+        "short_name": "He X",
+        "identifiers": [
+          "0009-0008-7188-791X"
+        ],
+        "affiliations": [
+          "Xi'an Modern Chemistry Research Institute, Xi'an710065, China.",
+          "Xi'an Key Laboratory of Liquid Crystal and Organic Photovoltaic Materials, Xi'an710065, China."
+        ]
+      },
+      {
+        "full_name": "Zhang, Yining",
+        "short_name": "Zhang Y",
+        "identifiers": [],
+        "affiliations": [
+          "Xi'an Modern Chemistry Research Institute, Xi'an710065, China.",
+          "Xi'an Key Laboratory of Liquid Crystal and Organic Photovoltaic Materials, Xi'an710065, China."
+        ]
+      },
+      {
+        "full_name": "Li, Guojin",
+        "short_name": "Li G",
+        "identifiers": [],
+        "affiliations": [
+          "Xi'an Modern Chemistry Research Institute, Xi'an710065, China.",
+          "Xi'an Key Laboratory of Liquid Crystal and Organic Photovoltaic Materials, Xi'an710065, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Chao",
+        "short_name": "Chen C",
+        "identifiers": [
+          "0000-0001-9743-3360"
+        ],
+        "affiliations": [
+          "Xi'an Modern Chemistry Research Institute, Xi'an710065, China.",
+          "Xi'an Key Laboratory of Liquid Crystal and Organic Photovoltaic Materials, Xi'an710065, China."
+        ]
+      },
+      {
+        "full_name": "Liu, Yingzhe",
+        "short_name": "Liu Y",
+        "identifiers": [
+          "0000-0003-4150-1111"
+        ],
+        "affiliations": [
+          "Xi'an Modern Chemistry Research Institute, Xi'an710065, China.",
+          "National Key Laboratory of Energetic Molecules, Xi'an710065, China.",
+          "State Key Laboratory of Fluorine & Nitrogen Chemicals, Xi'an710065, China.",
+          "Xi'an Key Laboratory of Liquid Crystal and Organic Photovoltaic Materials, Xi'an710065, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of chemical information and modeling"
+    ],
+    "journal_abbrev": [
+      "J Chem Inf Model"
+    ],
+    "pub_date": "2026 Sep 28",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/22 23:29",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42906053"
+    ],
+    "review": [
+      "42906053"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://pubs.acs.org/jcisd8/article-lookup/doi/10.1021/acs.jcim.6c02052",
+        "provider": "Silverchair Information Systems",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

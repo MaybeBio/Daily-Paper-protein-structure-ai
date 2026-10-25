@@ -1,0 +1,153 @@
+{
+  "identity": {
+    "pmid": "42916580",
+    "doi": "10.1021/acssynbio.6c00206",
+    "title": "Effective Sequence-to-Expression Prediction for a Model Membrane Protein Using Machine Learning and Computational Protein Design."
+  },
+  "content": {
+    "abstract": "The recombinant expression of integral membrane proteins is notoriously challenging. One way to address this challenge is via computational genotype-to-phenotype models that determine how particular sequence features correlate with protein expression levels. However, the potential of such approaches is yet to be fully realized, at least partly because so few expression datasets are available. Here, we study the sequence-to-expression relationships of a variant library originally derived from combinatorial computational design. The controlled sequence diversity of this library makes this new dataset directly compatible with lightweight off-the-shelf bioinformatic tools. The expression phenotype of the entire library was first assessed in the widely used recombinant host Escherichia coli. We selected a relatively small and balanced dataset of 2055 protein sequences assigned to binary classes of either \"high\" or \"low\" expression and used these sequences to train a sequence-to-expression classifier using supervised machine learning. This trained model was then used to infer the expression of >10,000 unmeasured sequences, and experimental validation of these predictions for 12 test variants achieved a 100% success rate. Using tools from explainable AI, we identified specific sequence positions and substitutions that are most important in dictating cellular expression levels. This analysis was validated by model-guided protein engineering that achieved an 8-fold increase in the purification yield of a poorly expressing variant. Our results show that computational protein design in tandem with supervised learning leads to effective models for the discovery of protein variants with improved expression phenotypes and can decode the molecular basis of membrane protein expression.",
+    "keywords": [
+      "integral membrane protein",
+      "machine learning",
+      "protein design",
+      "recombinant expression",
+      "sequence-to-expression models",
+      "synthetic biology"
+    ],
+    "mesh_terms": [
+      "*Membrane Proteins/genetics/metabolism/chemistry",
+      "Escherichia coli/genetics/metabolism",
+      "*Machine Learning",
+      "*Protein Engineering/methods",
+      "*Computational Biology/methods",
+      "Amino Acid Sequence",
+      "Recombinant Proteins/genetics/metabolism",
+      "Prediction Algorithms"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Shen, Yuxin",
+        "Lewis, Maddie",
+        "Underhill, Juno",
+        "Mulholland, Adrian J",
+        "Oyarzun, Diego A",
+        "Curnow, Paul"
+      ],
+      "short_names": [
+        "Shen Y",
+        "Lewis M",
+        "Underhill J",
+        "Mulholland AJ",
+        "Oyarzun DA",
+        "Curnow P"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-1015-4567",
+        "ORCID: 0000-0002-0381-5278",
+        "ORCID: 0000-0001-9889-0248"
+      ],
+      "affiliations": [
+        "School of Biological Sciences, University of Edinburgh, EdinburghEH9 3BF, U.K.",
+        "School of Biochemistry and Biomedical Sciences, University of Bristol, BristolBS8 1TD, U.K.",
+        "School of Chemistry, University of Bristol, BristolBS8 1TS, U.K.",
+        "School of Chemistry, University of Bristol, BristolBS8 1TS, U.K.",
+        "School of Biological Sciences, University of Edinburgh, EdinburghEH9 3BF, U.K.",
+        "School of Informatics, University of Edinburgh, EdinburghEH8 9AB, U.K.",
+        "School of Biochemistry and Biomedical Sciences, University of Bristol, BristolBS8 1TD, U.K."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Shen, Yuxin",
+        "short_name": "Shen Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Biological Sciences, University of Edinburgh, EdinburghEH9 3BF, U.K."
+        ]
+      },
+      {
+        "full_name": "Lewis, Maddie",
+        "short_name": "Lewis M",
+        "identifiers": [],
+        "affiliations": [
+          "School of Biochemistry and Biomedical Sciences, University of Bristol, BristolBS8 1TD, U.K."
+        ]
+      },
+      {
+        "full_name": "Underhill, Juno",
+        "short_name": "Underhill J",
+        "identifiers": [],
+        "affiliations": [
+          "School of Chemistry, University of Bristol, BristolBS8 1TS, U.K."
+        ]
+      },
+      {
+        "full_name": "Mulholland, Adrian J",
+        "short_name": "Mulholland AJ",
+        "identifiers": [
+          "0000-0003-1015-4567"
+        ],
+        "affiliations": [
+          "School of Chemistry, University of Bristol, BristolBS8 1TS, U.K."
+        ]
+      },
+      {
+        "full_name": "Oyarzún, Diego A",
+        "short_name": "Oyarzún DA",
+        "identifiers": [
+          "0000-0002-0381-5278"
+        ],
+        "affiliations": [
+          "School of Biological Sciences, University of Edinburgh, EdinburghEH9 3BF, U.K.",
+          "School of Informatics, University of Edinburgh, EdinburghEH8 9AB, U.K."
+        ]
+      },
+      {
+        "full_name": "Curnow, Paul",
+        "short_name": "Curnow P",
+        "identifiers": [
+          "0000-0001-9889-0248"
+        ],
+        "affiliations": [
+          "School of Biochemistry and Biomedical Sciences, University of Bristol, BristolBS8 1TD, U.K."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "ACS synthetic biology"
+    ],
+    "journal_abbrev": [
+      "ACS Synth Biol"
+    ],
+    "pub_date": "2026 Oct 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42916580"
+    ],
+    "review": [
+      "42916580"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

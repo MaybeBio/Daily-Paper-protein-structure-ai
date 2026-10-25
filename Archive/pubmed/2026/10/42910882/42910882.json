@@ -1,0 +1,104 @@
+{
+  "identity": {
+    "pmid": "42910882",
+    "doi": "10.1021/acs.jpcb.6c03045",
+    "title": "Peptide-Plane Dynamics in Protein Loops from Microsecond Molecular Dynamics. II. Insights on Conformational Restructuring."
+  },
+  "content": {
+    "abstract": "Article I introduced a motif-level framework for analyzing molecular dynamics (MD) backbone-dihedral trajectories, using structural motifs extending beyond a single residue as fundamental units of description. Here, Article II combines this motif-level representation with conventional backbone-dihedral-angle analysis to investigate conformational restructuring in protein loops. The peptide planes of the loop residues in the Rho GTPase-binding domain of plexin-B1 (RBD) serve as representative structural motifs. The two components of the combined analysis provide complementary information: conventional (Psi, Phi)-based analysis identifies local conformational changes, whereas motif-level analysis reveals which peptide planes move in concert and how the restructuring is organized. Importantly, this formulation also provides motif-specific structural, thermodynamic, and ordering properties horizontal line local orientational potentials, probability distributions, order parameters, and entropy horizontal line expressed in the natural orientational coordinates, (theta, phi), of the structural motif under consideration. Such information is inaccessible from conventional (Psi, Phi)-based analysis alone. Across the examples examined, a common picture emerges: distinct local conformational changes in protein loops can be realized through dynamically correlated motions of peptide planes within the scope of which the conventional and motif-level analyses connect residue-specific structural transitions with their collective structural, energetic, entropic, and ordering organization. This provides a common basis for analyzing several distinct mechanisms of conformational restructuring in the RBD, the RBD dimer, and the RBD-GTPase Rac1 complex (RBD-Rac1). The K50-G51 peptide plane of the RBD undergoes canonical type-II-to-type-I beta-turn crankshaft flips, whereas the corresponding transitions in RBD-Rac1 are more intricate and noncanonical. Deviations from canonical helicity and their subsequent relaxation are characterized. In the RBD dimer, the analysis reveals a concerted dynamical process involving multiple peptide planes. A versatile dynamic hinge and through-space dynamical correlations are also identified. Importantly, the entropic contributions to the free energy differences associated with RBD dimerization and RBD-Rac1 binding are assessed.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Molecular Dynamics Simulation",
+      "*Peptides/chemistry/metabolism",
+      "Protein Conformation",
+      "*Nerve Tissue Proteins/chemistry/metabolism",
+      "Thermodynamics",
+      "Humans",
+      "Receptors, Cell Surface"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Pshetitsky, Yaron",
+        "Buck, Matthias",
+        "Meirovitch, Eva"
+      ],
+      "short_names": [
+        "Pshetitsky Y",
+        "Buck M",
+        "Meirovitch E"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-5117-5079"
+      ],
+      "affiliations": [
+        "The Mina and Everard Goodman Faculty of Life Sciences, Bar-Ilan University, Ramat-Gan52900, Israel.",
+        "Department of Physiology and Biophysics, Case Western Reserve University, Cleveland, Ohio44106-4970, United States.",
+        "The Mina and Everard Goodman Faculty of Life Sciences, Bar-Ilan University, Ramat-Gan52900, Israel."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Pshetitsky, Yaron",
+        "short_name": "Pshetitsky Y",
+        "identifiers": [],
+        "affiliations": [
+          "The Mina and Everard Goodman Faculty of Life Sciences, Bar-Ilan University, Ramat-Gan52900, Israel."
+        ]
+      },
+      {
+        "full_name": "Buck, Matthias",
+        "short_name": "Buck M",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Physiology and Biophysics, Case Western Reserve University, Cleveland, Ohio44106-4970, United States."
+        ]
+      },
+      {
+        "full_name": "Meirovitch, Eva",
+        "short_name": "Meirovitch E",
+        "identifiers": [
+          "0000-0001-5117-5079"
+        ],
+        "affiliations": [
+          "The Mina and Everard Goodman Faculty of Life Sciences, Bar-Ilan University, Ramat-Gan52900, Israel."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "The journal of physical chemistry. B"
+    ],
+    "journal_abbrev": [
+      "J Phys Chem B"
+    ],
+    "pub_date": "2026 Oct 22",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 18:31",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42910882"
+    ],
+    "review": [
+      "42910882"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

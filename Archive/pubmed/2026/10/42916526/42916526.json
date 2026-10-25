@@ -1,0 +1,146 @@
+{
+  "identity": {
+    "pmid": "42916526",
+    "doi": "10.1021/acs.jafc.6c06915",
+    "title": "Semi-rational Engineering of Xylulokinase from Lactococcus lactis N8 for Enhanced Catalytic Efficiency via Synergistic Hotspot Mutations."
+  },
+  "content": {
+    "abstract": "Efficient xylose bioconversion is limited by the catalytic performance of xylulokinase (XylB), which phosphorylates d-xylulose to xylulose-5-phosphate. This study aimed to improve XylB from Lactococcus lactis N8 using a multi-dimensional semi-rational design strategy integrating sequence conservation, structure-based screening, mutagenesis, molecular docking, and molecular dynamics simulations. Asn301 was identified as a key functional hotspot, and Met259 was found to modulate the active-site hydrophobic environment. Combinatorial mutagenesis generated two superior variants, XylBM259H/N301G and XylBM259H/N301H, with more than 200% higher specific activity than the wild-type XylB (XylBWT) while retaining stable expression and environmental adaptability. Mechanistic analyses showed strengthened ATP binding, improved d-xylulose positioning, enhanced ligand affinity, and balanced local flexibility with structural compactness. These findings provide efficient XylB variants and a transferable strategy for engineering lignocellulose-related enzymes.",
+    "keywords": [
+      "multi-dimensional mutagenesis",
+      "semi-rational design",
+      "xylulokinase"
+    ],
+    "mesh_terms": [
+      "*Lactococcus lactis/enzymology/genetics/chemistry",
+      "*Bacterial Proteins/genetics/chemistry/metabolism",
+      "*Phosphotransferases (Alcohol Group Acceptor)/genetics/chemistry/metabolism",
+      "Protein Engineering",
+      "Molecular Docking Simulation",
+      "Biocatalysis",
+      "Mutation",
+      "Kinetics",
+      "Catalytic Domain",
+      "Molecular Dynamics Simulation",
+      "Xylulose/metabolism/chemistry",
+      "Xylose/metabolism"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Ai, Yaqian",
+        "Geng, Tao",
+        "Chen, Wenjie",
+        "Montalban-Lopez, Manuel",
+        "Li, Xingjiang",
+        "Mu, Dongdong"
+      ],
+      "short_names": [
+        "Ai Y",
+        "Geng T",
+        "Chen W",
+        "Montalban-Lopez M",
+        "Li X",
+        "Mu D"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-4138-0575"
+      ],
+      "affiliations": [
+        "School of Food and Biological Engineering, Anhui Fermented Food Engineering Research Center, Key Laboratory for Agricultural Products Processing of Anhui Province, Hefei University of Technology, Hefei230009, China.",
+        "School of Food and Biological Engineering, Anhui Fermented Food Engineering Research Center, Key Laboratory for Agricultural Products Processing of Anhui Province, Hefei University of Technology, Hefei230009, China.",
+        "School of Food and Biological Engineering, Anhui Fermented Food Engineering Research Center, Key Laboratory for Agricultural Products Processing of Anhui Province, Hefei University of Technology, Hefei230009, China.",
+        "Institute of Biotechnology and Department of Microbiology, Faculty of Sciences, University of Granada, 18071Granada, Spain.",
+        "School of Food and Biological Engineering, Anhui Fermented Food Engineering Research Center, Key Laboratory for Agricultural Products Processing of Anhui Province, Hefei University of Technology, Hefei230009, China.",
+        "School of Food and Biological Engineering, Anhui Fermented Food Engineering Research Center, Key Laboratory for Agricultural Products Processing of Anhui Province, Hefei University of Technology, Hefei230009, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Ai, Yaqian",
+        "short_name": "Ai Y",
+        "identifiers": [],
+        "affiliations": [
+          "School of Food and Biological Engineering, Anhui Fermented Food Engineering Research Center, Key Laboratory for Agricultural Products Processing of Anhui Province, Hefei University of Technology, Hefei230009, China."
+        ]
+      },
+      {
+        "full_name": "Geng, Tao",
+        "short_name": "Geng T",
+        "identifiers": [],
+        "affiliations": [
+          "School of Food and Biological Engineering, Anhui Fermented Food Engineering Research Center, Key Laboratory for Agricultural Products Processing of Anhui Province, Hefei University of Technology, Hefei230009, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Wenjie",
+        "short_name": "Chen W",
+        "identifiers": [],
+        "affiliations": [
+          "School of Food and Biological Engineering, Anhui Fermented Food Engineering Research Center, Key Laboratory for Agricultural Products Processing of Anhui Province, Hefei University of Technology, Hefei230009, China."
+        ]
+      },
+      {
+        "full_name": "Montalbán-López, Manuel",
+        "short_name": "Montalbán-López M",
+        "identifiers": [],
+        "affiliations": [
+          "Institute of Biotechnology and Department of Microbiology, Faculty of Sciences, University of Granada, 18071Granada, Spain."
+        ]
+      },
+      {
+        "full_name": "Li, Xingjiang",
+        "short_name": "Li X",
+        "identifiers": [],
+        "affiliations": [
+          "School of Food and Biological Engineering, Anhui Fermented Food Engineering Research Center, Key Laboratory for Agricultural Products Processing of Anhui Province, Hefei University of Technology, Hefei230009, China."
+        ]
+      },
+      {
+        "full_name": "Mu, Dongdong",
+        "short_name": "Mu D",
+        "identifiers": [
+          "0000-0003-4138-0575"
+        ],
+        "affiliations": [
+          "School of Food and Biological Engineering, Anhui Fermented Food Engineering Research Center, Key Laboratory for Agricultural Products Processing of Anhui Province, Hefei University of Technology, Hefei230009, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of agricultural and food chemistry"
+    ],
+    "journal_abbrev": [
+      "J Agric Food Chem"
+    ],
+    "pub_date": "2026 Sep 23",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42916526"
+    ],
+    "review": [
+      "42916526"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

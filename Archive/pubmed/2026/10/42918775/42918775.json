@@ -1,0 +1,143 @@
+{
+  "identity": {
+    "pmid": "42918775",
+    "doi": "10.1038/s41467-026-77891-5",
+    "title": "Calcium induced N-terminal gating and pore collapse in connexin-46/50 gap junctions."
+  },
+  "content": {
+    "abstract": "Gap junctions facilitate electrical and metabolic coupling essential for tissue function. Under ischemic conditions (e.g., heart attack or stroke), elevated intracellular calcium (Ca(2)(+)) uncouples these communication pathways to limit the spread of cytotoxic signals, yet the structural basis of this protective response remains unclear. Here, using single-particle cryo-EM, we define the Ca(2)(+)-dependent gating mechanism of native connexin-46/50 (Cx46/50) gap junction channels. Ca(2+) binding promotes an ensemble of N-terminal (NT) domain conformations spanning destabilized and fully gated states. These conformational changes are coupled to coordinated subunit rearrangements that asymmetrically collapse the pore and enable steric occlusion by the NT domains. Comparison with recently resolved low-pH gating structures reveals that distinct physiological stimuli converge on a common NT-centered gating mechanism involving coupled NT displacement and TM2 hinge motion. Long-timescale molecular dynamics simulations identify multiple Ca(2+) interaction sites along the permeation pathway and suggest that transient inter-subunit Ca(2+) coordination can promote NT destabilization and displacement. Together, these findings support a model in which distributed Ca(2+) interactions reshape the energetic landscape of the channel to favor NT-mediated pore closure, unifying previous models of gap junction regulation and providing a mechanistic basis for Ca(2+)-dependent uncoupling during cellular stress.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Calcium/metabolism",
+      "*Gap Junctions/metabolism/ultrastructure/chemistry",
+      "*Connexins/metabolism/chemistry/genetics",
+      "Animals",
+      "Cryoelectron Microscopy",
+      "*Ion Channel Gating",
+      "Molecular Dynamics Simulation",
+      "Connexin 50",
+      "Humans",
+      "Protein Domains",
+      "Protein Conformation"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Flores, Jonathan A",
+        "O'Neill, Susan E",
+        "Jarodsky, Joshua M",
+        "Haddad, Bassam G",
+        "Reichow, Steve L"
+      ],
+      "short_names": [
+        "Flores JA",
+        "O'Neill SE",
+        "Jarodsky JM",
+        "Haddad BG",
+        "Reichow SL"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-1305-0261",
+        "ORCID: 0000-0001-5276-7690"
+      ],
+      "affiliations": [
+        "Department of Chemical Physiology and Biochemistry, Oregon Health and Science University, Portland, OR, USA.",
+        "Vollum Institute, Oregon Health and Science University, Portland, OR, USA.",
+        "Department of Molecular Biology and Genetics, Aarhus University, Aarhus, Denmark.",
+        "Department of Chemical Physiology and Biochemistry, Oregon Health and Science University, Portland, OR, USA.",
+        "Vollum Institute, Oregon Health and Science University, Portland, OR, USA.",
+        "Department of Chemical Physiology and Biochemistry, Oregon Health and Science University, Portland, OR, USA.",
+        "Vollum Institute, Oregon Health and Science University, Portland, OR, USA.",
+        "Institute of Neurophysiology, Hannover Medical School, Hannover, Germany.",
+        "Department of Chemical Physiology and Biochemistry, Oregon Health and Science University, Portland, OR, USA. reichow@ohsu.edu.",
+        "Vollum Institute, Oregon Health and Science University, Portland, OR, USA. reichow@ohsu.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Flores, Jonathan A",
+        "short_name": "Flores JA",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical Physiology and Biochemistry, Oregon Health and Science University, Portland, OR, USA.",
+          "Vollum Institute, Oregon Health and Science University, Portland, OR, USA.",
+          "Department of Molecular Biology and Genetics, Aarhus University, Aarhus, Denmark."
+        ]
+      },
+      {
+        "full_name": "O'Neill, Susan E",
+        "short_name": "O'Neill SE",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical Physiology and Biochemistry, Oregon Health and Science University, Portland, OR, USA.",
+          "Vollum Institute, Oregon Health and Science University, Portland, OR, USA."
+        ]
+      },
+      {
+        "full_name": "Jarodsky, Joshua M",
+        "short_name": "Jarodsky JM",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemical Physiology and Biochemistry, Oregon Health and Science University, Portland, OR, USA.",
+          "Vollum Institute, Oregon Health and Science University, Portland, OR, USA."
+        ]
+      },
+      {
+        "full_name": "Haddad, Bassam G",
+        "short_name": "Haddad BG",
+        "identifiers": [
+          "0000-0003-1305-0261"
+        ],
+        "affiliations": [
+          "Institute of Neurophysiology, Hannover Medical School, Hannover, Germany."
+        ]
+      },
+      {
+        "full_name": "Reichow, Steve L",
+        "short_name": "Reichow SL",
+        "identifiers": [
+          "0000-0001-5276-7690"
+        ],
+        "affiliations": [
+          "Department of Chemical Physiology and Biochemistry, Oregon Health and Science University, Portland, OR, USA. reichow@ohsu.edu.",
+          "Vollum Institute, Oregon Health and Science University, Portland, OR, USA. reichow@ohsu.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature communications"
+    ],
+    "journal_abbrev": [
+      "Nat Commun"
+    ],
+    "pub_date": "2026 Sep 23",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:32",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42918775"
+    ],
+    "review": [
+      "42918775"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

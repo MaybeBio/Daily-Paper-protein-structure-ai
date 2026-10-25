@@ -1,0 +1,120 @@
+{
+  "identity": {
+    "pmid": "42891767",
+    "doi": "10.1007/s00894-026-06979-y",
+    "title": "Phytochemical modulation of DNMT1-mediated DNA methylation: computational insights into breast cancer."
+  },
+  "content": {
+    "abstract": "CONTEXT: Aberrant DNA methylation, particularly DNMT1-mediated hypermethylation of tumor suppressor and DNA repair genes, contributes to breast cancer progression. The limitations associated with existing DNMT inhibitors highlight the need for alternative and potentially safer epigenetic modulators. Here, we developed a computational workflow to identify phytochemicals targeting the catalytic methyltransferase domain of DNMT1. Screening of the SelleckChem phytochemical library identified Echinacoside (-9.56 kcal/mol), 1,2,3,4,6-O-Pentagalloylglucose (-9.49 kcal/mol), and Complanatoside A (-9.24 kcal/mol) as promising candidates based on favourable docking and interaction profiles. Among them, 1,2,3,4,6-O-Pentagalloylglucose exhibited most favorable predicted binding free energy (- 105.31 +/- 5.51 kcal/mol) and maintained stable interactions throughout 500 ns molecular dynamics simulation. DFT, PCA, FEL, and QM/MM analyses further supported its favorable electronic characteristics and conformational stability within the DNMT1 catalytic pocket. METHODS: Structure-based virtual screening, molecular docking, DFT, 500 ns molecular dynamics simulations, MM/GBSA, PCA, FEL, and QM/MM analyses were integrated to characterize ligand binding, stability, and electronic interactions. These findings represent purely in silico predictions and require experimental validation to establish the DNMT1 inhibitory potential of the identified compounds and their therapeutic relevance.",
+    "keywords": [
+      "Breast cancer",
+      "DNMT1",
+      "Docking",
+      "MD simulation"
+    ],
+    "mesh_terms": [
+      "*DNA (Cytosine-5-)-Methyltransferase 1/chemistry/metabolism/antagonists & inhibitors",
+      "Molecular Docking Simulation",
+      "Humans",
+      "*Breast Neoplasms/genetics/drug therapy",
+      "Molecular Dynamics Simulation",
+      "*DNA Methylation/drug effects",
+      "*Phytochemicals/pharmacology/chemistry",
+      "Female",
+      "Catalytic Domain",
+      "Thermodynamics",
+      "Hydrolyzable Tannins/chemistry/pharmacology"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Gangwar, Tripti",
+        "Jha, Abhimanyu Kumar"
+      ],
+      "short_names": [
+        "Gangwar T",
+        "Jha AK"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Department of Life Sciences, School of Biosciences and Technology, Galgotias University, Greater Noida, India.",
+        "Department of Biotechnology and Bioengineering, School of Biosciences and Technology, Galgotias University, Greater Noida, India. abhimanyujha630@gmail.com."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Gangwar, Tripti",
+        "short_name": "Gangwar T",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Life Sciences, School of Biosciences and Technology, Galgotias University, Greater Noida, India."
+        ]
+      },
+      {
+        "full_name": "Jha, Abhimanyu Kumar",
+        "short_name": "Jha AK",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biotechnology and Bioengineering, School of Biosciences and Technology, Galgotias University, Greater Noida, India. abhimanyujha630@gmail.com."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of molecular modeling"
+    ],
+    "journal_abbrev": [
+      "J Mol Model"
+    ],
+    "pub_date": "2026 Oct 17",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/18 05:37",
+    "fetched_at": "2026-10-25 07:17:06"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42891767"
+    ],
+    "review": [
+      "42891767"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://medlineplus.gov/breastcancer.html",
+        "provider": "MedlinePlus Health Information",
+        "category": "Medical",
+        "attribute": "free resource",
+        "linkname": "Breast Cancer"
+      },
+      {
+        "url": "https://dx.doi.org/10.1007/s00894-026-06979-y",
+        "provider": "Springer",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      },
+      {
+        "url": "https://assays.cancer.gov/CPTAC-76",
+        "provider": "NCI CPTAC Assay Portal",
+        "category": "Miscellaneous",
+        "attribute": "free resource",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

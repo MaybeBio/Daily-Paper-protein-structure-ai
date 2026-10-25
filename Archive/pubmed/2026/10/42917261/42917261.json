@@ -1,0 +1,162 @@
+{
+  "identity": {
+    "pmid": "42917261",
+    "doi": "10.1021/acs.jctc.6c01082",
+    "title": "Developing the Atom-Bond Electronegativity Equalization Method Polarizable Force Field for Zinc Metalloproteins and Their Simulations."
+  },
+  "content": {
+    "abstract": "Zinc (Zn), the second most abundant transition metal in biological systems, plays essential roles in numerous metalloproteins present in diverse organisms including humans, plants, and bacteria. Currently, Zn-based proteins have attracted research interest owing to their involvement in a series of vital physiological processes, such as enzymatic reactions, deoxyribonucleic acid and ribonucleic acid binding, and the stability of biological structures. Although experimental methods can reveal macroscopic processes, they cannot efficiently capture the detailed behavior of these compounds. Therefore, theoretical exploration of Zn-binding conformations is significant. Herein, a fluctuating charge force field for Zn-containing metalloproteins is reported based on the atom-bond electronegativity equalization method (ABEEM). We designed our model molecules based on the Protein Data Bank (PDB) database, focusing primarily on tetracoordinated Zn proteins. The ABEEM polarizable force field parameters were determined and optimized using the quantum mechanical method, which were in good agreement with computed charge distributions, potential energy surfaces, and geometric structures. Molecular dynamics simulations were subsequently performed on 10 different protein segments. The developed ABEEM model reproduces the first Zn-Ow peak position and maintains the structural stability of the systems throughout the simulations. Compared with the crystal structures from the PDB database, the ABEEM model shows lower root mean square deviation values for heavy atoms in these domains. All protein domains can dynamically capture the change in charge distributions. This process can be further applied to simulate the detailed behavior of the molecules and investigate their properties. The identified force field for Zn metalloproteins by the ABEEM provides a promising approach for simulating Zn-related biological systems while simplifying several complex and time-consuming processes.",
+    "keywords": [],
+    "mesh_terms": [
+      "*Metalloproteins/chemistry",
+      "*Zinc/chemistry",
+      "*Molecular Dynamics Simulation",
+      "Quantum Theory"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Yu, Zhan-Qing",
+        "Liang, Zuo-Peng",
+        "Wang, Wan-Qing",
+        "Sun, Qing-Yan",
+        "Huang, Hong",
+        "Liu, Cui",
+        "Zhao, Dong-Xia",
+        "Yang, Zhong-Zhi"
+      ],
+      "short_names": [
+        "Yu ZQ",
+        "Liang ZP",
+        "Wang WQ",
+        "Sun QY",
+        "Huang H",
+        "Liu C",
+        "Zhao DX",
+        "Yang ZZ"
+      ],
+      "auids": [
+        "ORCID: 0000-0003-2979-2040",
+        "ORCID: 0000-0002-3635-0606",
+        "ORCID: 0000-0002-6767-2915"
+      ],
+      "affiliations": [
+        "School of Chemistry and Chemical Engineering, Liaoning Normal University, Dalian116029, The People's Republic of China.",
+        "School of Chemistry and Chemical Engineering, Liaoning Normal University, Dalian116029, The People's Republic of China.",
+        "School of Chemistry and Chemical Engineering, Liaoning Normal University, Dalian116029, The People's Republic of China.",
+        "School of Chemistry and Chemical Engineering, Liaoning Normal University, Dalian116029, The People's Republic of China.",
+        "School of Chemistry and Chemical Engineering, Liaoning Normal University, Dalian116029, The People's Republic of China.",
+        "School of Chemistry and Chemical Engineering, Liaoning Normal University, Dalian116029, The People's Republic of China.",
+        "School of Chemistry and Chemical Engineering, Liaoning Normal University, Dalian116029, The People's Republic of China.",
+        "School of Chemistry and Chemical Engineering, Liaoning Normal University, Dalian116029, The People's Republic of China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Yu, Zhan-Qing",
+        "short_name": "Yu ZQ",
+        "identifiers": [],
+        "affiliations": [
+          "School of Chemistry and Chemical Engineering, Liaoning Normal University, Dalian116029, The People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Liang, Zuo-Peng",
+        "short_name": "Liang ZP",
+        "identifiers": [],
+        "affiliations": [
+          "School of Chemistry and Chemical Engineering, Liaoning Normal University, Dalian116029, The People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Wang, Wan-Qing",
+        "short_name": "Wang WQ",
+        "identifiers": [],
+        "affiliations": [
+          "School of Chemistry and Chemical Engineering, Liaoning Normal University, Dalian116029, The People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Sun, Qing-Yan",
+        "short_name": "Sun QY",
+        "identifiers": [],
+        "affiliations": [
+          "School of Chemistry and Chemical Engineering, Liaoning Normal University, Dalian116029, The People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Huang, Hong",
+        "short_name": "Huang H",
+        "identifiers": [],
+        "affiliations": [
+          "School of Chemistry and Chemical Engineering, Liaoning Normal University, Dalian116029, The People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Liu, Cui",
+        "short_name": "Liu C",
+        "identifiers": [
+          "0000-0003-2979-2040"
+        ],
+        "affiliations": [
+          "School of Chemistry and Chemical Engineering, Liaoning Normal University, Dalian116029, The People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Zhao, Dong-Xia",
+        "short_name": "Zhao DX",
+        "identifiers": [
+          "0000-0002-3635-0606"
+        ],
+        "affiliations": [
+          "School of Chemistry and Chemical Engineering, Liaoning Normal University, Dalian116029, The People's Republic of China."
+        ]
+      },
+      {
+        "full_name": "Yang, Zhong-Zhi",
+        "short_name": "Yang ZZ",
+        "identifiers": [
+          "0000-0002-6767-2915"
+        ],
+        "affiliations": [
+          "School of Chemistry and Chemical Engineering, Liaoning Normal University, Dalian116029, The People's Republic of China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of chemical theory and computation"
+    ],
+    "journal_abbrev": [
+      "J Chem Theory Comput"
+    ],
+    "pub_date": "2026 Oct 13",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42917261"
+    ],
+    "review": [
+      "42917261"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

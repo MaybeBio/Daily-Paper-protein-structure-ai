@@ -1,0 +1,163 @@
+{
+  "identity": {
+    "pmid": "42915246",
+    "doi": "10.1021/acs.analchem.5c07287",
+    "title": "Mapping the TCR-Peptide-HLA Interface through Hydrogen-Deuterium Exchange Mass Spectrometry."
+  },
+  "content": {
+    "abstract": "T-cell receptor (TCR)-based therapeutics recognize specific peptides presented by human leukocyte antigens (HLAs) on antigen-presenting cells. The docking orientation of TCRs to peptide-HLA (pHLA) complexes is critical for T-cell activation as it underpins signaling and downstream immune responses. Traditionally, TCR binding geometries with pHLAs have been resolved through X-ray crystallography. Here, we demonstrate that conventional peptide-level hydrogen-deuterium exchange mass spectrometry (HDX-MS) workflows can identify productive TCR engagement with their cognate pHLAs. By quantifying differential deuterium uptake upon complex formation, we show that TCRs that bind centrally within the pHLA groove have distinct uptake profiles compared with those adopting alternative orientations. Comparison of uptake data with information from structure prediction further contextualized the HDX data for distinct TCR-pHLA binding modes, thus highlighting the value of integrating experimental and computational approaches. Collectively, our findings establish existing HDX-MS workflows as rapid and accessible approaches for probing TCR-pHLA interactions, with direct implications for the development of TCR-based biotherapeutics.",
+    "keywords": [],
+    "mesh_terms": [
+      "Humans",
+      "*Receptors, Antigen, T-Cell/chemistry/metabolism",
+      "*Hydrogen Deuterium Exchange-Mass Spectrometry/methods",
+      "*Peptides/chemistry/metabolism",
+      "*HLA Antigens/chemistry/metabolism",
+      "Deuterium Exchange Measurement",
+      "Protein Binding",
+      "Mass Spectrometry"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Powell, Thomas",
+        "Colyer, Alice",
+        "Wildsmith, Gemma",
+        "Karuppiah, Vijaykumar",
+        "Shaikh, Saher Afshan",
+        "Ebner, Martin",
+        "Creese, Andrew",
+        "Calabrese, Antonio N"
+      ],
+      "short_names": [
+        "Powell T",
+        "Colyer A",
+        "Wildsmith G",
+        "Karuppiah V",
+        "Shaikh SA",
+        "Ebner M",
+        "Creese A",
+        "Calabrese AN"
+      ],
+      "auids": [
+        "ORCID: 0000-0002-8308-6510",
+        "ORCID: 0000-0003-2437-7761"
+      ],
+      "affiliations": [
+        "Immunocore Limited, 92 Park Drive, Milton Park, AbingdonOX14 4RY, United Kingdom.",
+        "Astbury Centre for Structural Molecular Biology, School of Molecular and Cellular Biology, Faculty of Biological Sciences, University of Leeds, LeedsLS2 9JT, United Kingdom.",
+        "Astbury Centre for Structural Molecular Biology, School of Molecular and Cellular Biology, Faculty of Biological Sciences, University of Leeds, LeedsLS2 9JT, United Kingdom.",
+        "Immunocore Limited, 92 Park Drive, Milton Park, AbingdonOX14 4RY, United Kingdom.",
+        "Immunocore Limited, 92 Park Drive, Milton Park, AbingdonOX14 4RY, United Kingdom.",
+        "Immunocore Limited, 92 Park Drive, Milton Park, AbingdonOX14 4RY, United Kingdom.",
+        "Immunocore Limited, 92 Park Drive, Milton Park, AbingdonOX14 4RY, United Kingdom.",
+        "Astbury Centre for Structural Molecular Biology, School of Molecular and Cellular Biology, Faculty of Biological Sciences, University of Leeds, LeedsLS2 9JT, United Kingdom."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Powell, Thomas",
+        "short_name": "Powell T",
+        "identifiers": [
+          "0000-0002-8308-6510"
+        ],
+        "affiliations": [
+          "Immunocore Limited, 92 Park Drive, Milton Park, AbingdonOX14 4RY, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Colyer, Alice",
+        "short_name": "Colyer A",
+        "identifiers": [],
+        "affiliations": [
+          "Astbury Centre for Structural Molecular Biology, School of Molecular and Cellular Biology, Faculty of Biological Sciences, University of Leeds, LeedsLS2 9JT, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Wildsmith, Gemma",
+        "short_name": "Wildsmith G",
+        "identifiers": [],
+        "affiliations": [
+          "Astbury Centre for Structural Molecular Biology, School of Molecular and Cellular Biology, Faculty of Biological Sciences, University of Leeds, LeedsLS2 9JT, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Karuppiah, Vijaykumar",
+        "short_name": "Karuppiah V",
+        "identifiers": [],
+        "affiliations": [
+          "Immunocore Limited, 92 Park Drive, Milton Park, AbingdonOX14 4RY, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Shaikh, Saher Afshan",
+        "short_name": "Shaikh SA",
+        "identifiers": [],
+        "affiliations": [
+          "Immunocore Limited, 92 Park Drive, Milton Park, AbingdonOX14 4RY, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Ebner, Martin",
+        "short_name": "Ebner M",
+        "identifiers": [],
+        "affiliations": [
+          "Immunocore Limited, 92 Park Drive, Milton Park, AbingdonOX14 4RY, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Creese, Andrew",
+        "short_name": "Creese A",
+        "identifiers": [],
+        "affiliations": [
+          "Immunocore Limited, 92 Park Drive, Milton Park, AbingdonOX14 4RY, United Kingdom."
+        ]
+      },
+      {
+        "full_name": "Calabrese, Antonio N",
+        "short_name": "Calabrese AN",
+        "identifiers": [
+          "0000-0003-2437-7761"
+        ],
+        "affiliations": [
+          "Astbury Centre for Structural Molecular Biology, School of Molecular and Cellular Biology, Faculty of Biological Sciences, University of Leeds, LeedsLS2 9JT, United Kingdom."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Analytical chemistry"
+    ],
+    "journal_abbrev": [
+      "Anal Chem"
+    ],
+    "pub_date": "2026 Sep 15",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42915246"
+    ],
+    "review": [
+      "42915246"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

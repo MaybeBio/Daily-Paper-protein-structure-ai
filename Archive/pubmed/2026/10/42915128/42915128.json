@@ -1,0 +1,209 @@
+{
+  "identity": {
+    "pmid": "42915128",
+    "doi": "10.1021/acs.jafc.6c08521",
+    "title": "Engineering a Paraburkholderia pallida Tannase for Improved Catalytic Efficiency, Thermal Stability, and Green Tea Clarification."
+  },
+  "content": {
+    "abstract": "Tannases can reduce haze and astringency in tea beverages, but their application is often limited by poor thermal stability and catalytic efficiency. A tannase from Paraburkholderia pallida (Tanpp) was engineered using active-site mutagenesis and computational hotspot prediction. The double mutant F384T/N307A showed the best performance, with a 2.7-fold increase in catalytic efficiency and an 11-fold longer half-life at 50  degrees C than wild-type Tanpp. Structural modeling and molecular dynamics simulations suggested that N307A widened the substrate-entry region, whereas F384T compacted the catalytic pocket. The double mutant remained more stable at 323.15 K. In green tea clarification assays, F384T/N307A produced the lowest turbidity and promoted conversion of galloylated catechins into non-galloylated products and gallic acid. It retained superior performance across the tested enzyme dosages and treatment times. These findings show that coordinated active-site remodeling can improve both catalytic performance and thermal durability, supporting F384T/N307A as a promising tannase for tea clarification.",
+    "keywords": [
+      "catalytic efficiency",
+      "enzyme thermostability",
+      "galloylated catechins",
+      "semi-rational engineering",
+      "tannase",
+      "tea clarification"
+    ],
+    "mesh_terms": [
+      "*Carboxylic Ester Hydrolases/chemistry/genetics/metabolism",
+      "Enzyme Stability",
+      "Kinetics",
+      "*Bacterial Proteins/chemistry/genetics/metabolism",
+      "Tea/chemistry",
+      "*Burkholderiaceae/enzymology/genetics/chemistry",
+      "Hot Temperature",
+      "Protein Engineering",
+      "Catalytic Domain",
+      "Biocatalysis"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Gao, Fuquan",
+        "He, Keman",
+        "Lin, Tingting",
+        "Sun, Haorong",
+        "Hu, Xiaoyu",
+        "Chen, Yaoyu",
+        "Li, Qiyu",
+        "You, Xinyu",
+        "Wang, Xiaxia",
+        "Chen, Si",
+        "Yu, Xiaomin"
+      ],
+      "short_names": [
+        "Gao F",
+        "He K",
+        "Lin T",
+        "Sun H",
+        "Hu X",
+        "Chen Y",
+        "Li Q",
+        "You X",
+        "Wang X",
+        "Chen S",
+        "Yu X"
+      ],
+      "auids": [
+        "ORCID: 0000-0001-7906-0476",
+        "ORCID: 0000-0002-8650-6795"
+      ],
+      "affiliations": [
+        "Fujian Provincial Key Laboratory of Haixia Applied Plant Systems Biology, School of Life Sciences and Haixia Institute of Science and Technology, Fujian Agriculture and Forestry University, Fuzhou350002, China.",
+        "Fujian Provincial Key Laboratory of Haixia Applied Plant Systems Biology, School of Life Sciences and Haixia Institute of Science and Technology, Fujian Agriculture and Forestry University, Fuzhou350002, China.",
+        "Fujian Provincial Key Laboratory of Haixia Applied Plant Systems Biology, School of Life Sciences and Haixia Institute of Science and Technology, Fujian Agriculture and Forestry University, Fuzhou350002, China.",
+        "Fujian Provincial Key Laboratory of Haixia Applied Plant Systems Biology, School of Life Sciences and Haixia Institute of Science and Technology, Fujian Agriculture and Forestry University, Fuzhou350002, China.",
+        "Fujian Provincial Key Laboratory of Haixia Applied Plant Systems Biology, School of Life Sciences and Haixia Institute of Science and Technology, Fujian Agriculture and Forestry University, Fuzhou350002, China.",
+        "Fujian Provincial Key Laboratory of Haixia Applied Plant Systems Biology, School of Life Sciences and Haixia Institute of Science and Technology, Fujian Agriculture and Forestry University, Fuzhou350002, China.",
+        "Fujian Provincial Key Laboratory of Haixia Applied Plant Systems Biology, School of Life Sciences and Haixia Institute of Science and Technology, Fujian Agriculture and Forestry University, Fuzhou350002, China.",
+        "Fujian Provincial Key Laboratory of Haixia Applied Plant Systems Biology, School of Life Sciences and Haixia Institute of Science and Technology, Fujian Agriculture and Forestry University, Fuzhou350002, China.",
+        "Fujian Provincial Key Laboratory of Haixia Applied Plant Systems Biology, School of Life Sciences and Haixia Institute of Science and Technology, Fujian Agriculture and Forestry University, Fuzhou350002, China.",
+        "Fujian Provincial Key Laboratory of Haixia Applied Plant Systems Biology, School of Life Sciences and Haixia Institute of Science and Technology, Fujian Agriculture and Forestry University, Fuzhou350002, China.",
+        "College of Horticulture, Key Laboratory of Ministry of Education for Genetics, Breeding and Multiple Utilization of Crops, Fujian Agriculture and Forestry University, Fuzhou350002, China.",
+        "Fujian Provincial Key Laboratory of Haixia Applied Plant Systems Biology, School of Life Sciences and Haixia Institute of Science and Technology, Fujian Agriculture and Forestry University, Fuzhou350002, China.",
+        "College of Horticulture, Key Laboratory of Ministry of Education for Genetics, Breeding and Multiple Utilization of Crops, Fujian Agriculture and Forestry University, Fuzhou350002, China."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Gao, Fuquan",
+        "short_name": "Gao F",
+        "identifiers": [],
+        "affiliations": [
+          "Fujian Provincial Key Laboratory of Haixia Applied Plant Systems Biology, School of Life Sciences and Haixia Institute of Science and Technology, Fujian Agriculture and Forestry University, Fuzhou350002, China."
+        ]
+      },
+      {
+        "full_name": "He, Keman",
+        "short_name": "He K",
+        "identifiers": [],
+        "affiliations": [
+          "Fujian Provincial Key Laboratory of Haixia Applied Plant Systems Biology, School of Life Sciences and Haixia Institute of Science and Technology, Fujian Agriculture and Forestry University, Fuzhou350002, China."
+        ]
+      },
+      {
+        "full_name": "Lin, Tingting",
+        "short_name": "Lin T",
+        "identifiers": [],
+        "affiliations": [
+          "Fujian Provincial Key Laboratory of Haixia Applied Plant Systems Biology, School of Life Sciences and Haixia Institute of Science and Technology, Fujian Agriculture and Forestry University, Fuzhou350002, China."
+        ]
+      },
+      {
+        "full_name": "Sun, Haorong",
+        "short_name": "Sun H",
+        "identifiers": [],
+        "affiliations": [
+          "Fujian Provincial Key Laboratory of Haixia Applied Plant Systems Biology, School of Life Sciences and Haixia Institute of Science and Technology, Fujian Agriculture and Forestry University, Fuzhou350002, China."
+        ]
+      },
+      {
+        "full_name": "Hu, Xiaoyu",
+        "short_name": "Hu X",
+        "identifiers": [],
+        "affiliations": [
+          "Fujian Provincial Key Laboratory of Haixia Applied Plant Systems Biology, School of Life Sciences and Haixia Institute of Science and Technology, Fujian Agriculture and Forestry University, Fuzhou350002, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Yaoyu",
+        "short_name": "Chen Y",
+        "identifiers": [],
+        "affiliations": [
+          "Fujian Provincial Key Laboratory of Haixia Applied Plant Systems Biology, School of Life Sciences and Haixia Institute of Science and Technology, Fujian Agriculture and Forestry University, Fuzhou350002, China."
+        ]
+      },
+      {
+        "full_name": "Li, Qiyu",
+        "short_name": "Li Q",
+        "identifiers": [],
+        "affiliations": [
+          "Fujian Provincial Key Laboratory of Haixia Applied Plant Systems Biology, School of Life Sciences and Haixia Institute of Science and Technology, Fujian Agriculture and Forestry University, Fuzhou350002, China."
+        ]
+      },
+      {
+        "full_name": "You, Xinyu",
+        "short_name": "You X",
+        "identifiers": [],
+        "affiliations": [
+          "Fujian Provincial Key Laboratory of Haixia Applied Plant Systems Biology, School of Life Sciences and Haixia Institute of Science and Technology, Fujian Agriculture and Forestry University, Fuzhou350002, China."
+        ]
+      },
+      {
+        "full_name": "Wang, Xiaxia",
+        "short_name": "Wang X",
+        "identifiers": [],
+        "affiliations": [
+          "Fujian Provincial Key Laboratory of Haixia Applied Plant Systems Biology, School of Life Sciences and Haixia Institute of Science and Technology, Fujian Agriculture and Forestry University, Fuzhou350002, China."
+        ]
+      },
+      {
+        "full_name": "Chen, Si",
+        "short_name": "Chen S",
+        "identifiers": [
+          "0000-0001-7906-0476"
+        ],
+        "affiliations": [
+          "Fujian Provincial Key Laboratory of Haixia Applied Plant Systems Biology, School of Life Sciences and Haixia Institute of Science and Technology, Fujian Agriculture and Forestry University, Fuzhou350002, China.",
+          "College of Horticulture, Key Laboratory of Ministry of Education for Genetics, Breeding and Multiple Utilization of Crops, Fujian Agriculture and Forestry University, Fuzhou350002, China."
+        ]
+      },
+      {
+        "full_name": "Yu, Xiaomin",
+        "short_name": "Yu X",
+        "identifiers": [
+          "0000-0002-8650-6795"
+        ],
+        "affiliations": [
+          "Fujian Provincial Key Laboratory of Haixia Applied Plant Systems Biology, School of Life Sciences and Haixia Institute of Science and Technology, Fujian Agriculture and Forestry University, Fuzhou350002, China.",
+          "College of Horticulture, Key Laboratory of Ministry of Education for Genetics, Breeding and Multiple Utilization of Crops, Fujian Agriculture and Forestry University, Fuzhou350002, China."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Journal of agricultural and food chemistry"
+    ],
+    "journal_abbrev": [
+      "J Agric Food Chem"
+    ],
+    "pub_date": "2026 Sep 16",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42915128"
+    ],
+    "review": [
+      "42915128"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}

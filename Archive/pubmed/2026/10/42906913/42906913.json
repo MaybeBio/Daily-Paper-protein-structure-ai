@@ -1,0 +1,185 @@
+{
+  "identity": {
+    "pmid": "42906913",
+    "doi": "10.1038/s41586-026-11317-6",
+    "title": "De novo design of enantioselective artificial metalloenzyme photocatalysts."
+  },
+  "content": {
+    "abstract": "The ability to create protein scaffolds that impart enantioselectivity to simple, readily available metal catalysts could redefine the landscape of asymmetric catalysis. Artificial metalloenzymes (ArMs), hybrid catalysts that combine a synthetic metal cofactor with a protein scaffold, offer a potential means to achieve this goal, but scaffold discovery has remained constrained by trial-and-error approaches and the functional limits of extant proteins.(1-5) This challenge is acute for metal polypyridine photocatalysts, which are widely used in visible-light chemistry but have not enabled highly enantioselective photocatalysis within protein scaffolds. In this study, we show that generative protein design(6-8) can create de novo scaffolds that selectively bind these photocatalysts and that directed evolution converts the resulting artificial metalloenzymes into efficient, highly enantioselective photocatalysts(9). The evolved proteins support diverse light-driven reactions, high catalyst turnover and catalyst recycling, and can function with commercially available racemic metal complexes. Spectroscopic studies show that the protein environment extends the photocatalyst excited-state lifetime and organizes substrate near the cofactor, altering energy transfer and controlling stereoselectivity. These findings establish de novo protein design as a route to functional scaffolds for synthetic metal complexes that lack natural protein partners and provide a strategy for combining protein design and evolution to control non-natural catalytic chemistry.",
+    "keywords": [],
+    "mesh_terms": [],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Mishra, Sandip",
+        "Payal",
+        "Evans, Declan",
+        "Bortey, Kingsley",
+        "Bootwala, Husayn",
+        "Gonzalez-Gutierrez, Giovanni",
+        "Vazquez, Ricardo Javier",
+        "Baker, David",
+        "Lewis, Jared C"
+      ],
+      "short_names": [
+        "Mishra S",
+        "Payal",
+        "Evans D",
+        "Bortey K",
+        "Bootwala H",
+        "Gonzalez-Gutierrez G",
+        "Vazquez RJ",
+        "Baker D",
+        "Lewis JC"
+      ],
+      "auids": [
+        "ORCID: 0009-0009-3207-5043",
+        "ORCID: 0000-0002-1044-943X",
+        "ORCID: 0000-0001-7896-6217",
+        "ORCID: 0000-0003-2800-8330"
+      ],
+      "affiliations": [
+        "Department of Chemistry, Indiana University, Bloomington, IN, USA.",
+        "Department of Chemistry, Indiana University, Bloomington, IN, USA.",
+        "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+        "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+        "Department of Chemistry, Indiana University, Bloomington, IN, USA.",
+        "Department of Chemistry, Indiana University, Bloomington, IN, USA.",
+        "Department of Molecular and Cellular Biochemistry, Indiana University, Bloomington, IN, USA.",
+        "Department of Chemistry, Indiana University, Bloomington, IN, USA.",
+        "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+        "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+        "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA.",
+        "Department of Chemistry, Indiana University, Bloomington, IN, USA. jcl3@iu.edu."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Mishra, Sandip",
+        "short_name": "Mishra S",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Indiana University, Bloomington, IN, USA."
+        ]
+      },
+      {
+        "full_name": "Payal",
+        "short_name": "Payal",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Indiana University, Bloomington, IN, USA."
+        ]
+      },
+      {
+        "full_name": "Evans, Declan",
+        "short_name": "Evans D",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+          "Institute for Protein Design, University of Washington, Seattle, WA, USA."
+        ]
+      },
+      {
+        "full_name": "Bortey, Kingsley",
+        "short_name": "Bortey K",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Indiana University, Bloomington, IN, USA."
+        ]
+      },
+      {
+        "full_name": "Bootwala, Husayn",
+        "short_name": "Bootwala H",
+        "identifiers": [
+          "0009-0009-3207-5043"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Indiana University, Bloomington, IN, USA."
+        ]
+      },
+      {
+        "full_name": "Gonzalez-Gutierrez, Giovanni",
+        "short_name": "Gonzalez-Gutierrez G",
+        "identifiers": [
+          "0000-0002-1044-943X"
+        ],
+        "affiliations": [
+          "Department of Molecular and Cellular Biochemistry, Indiana University, Bloomington, IN, USA."
+        ]
+      },
+      {
+        "full_name": "Vázquez, Ricardo Javier",
+        "short_name": "Vázquez RJ",
+        "identifiers": [],
+        "affiliations": [
+          "Department of Chemistry, Indiana University, Bloomington, IN, USA."
+        ]
+      },
+      {
+        "full_name": "Baker, David",
+        "short_name": "Baker D",
+        "identifiers": [
+          "0000-0001-7896-6217"
+        ],
+        "affiliations": [
+          "Department of Biochemistry, University of Washington, Seattle, WA, USA.",
+          "Institute for Protein Design, University of Washington, Seattle, WA, USA.",
+          "Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA."
+        ]
+      },
+      {
+        "full_name": "Lewis, Jared C",
+        "short_name": "Lewis JC",
+        "identifiers": [
+          "0000-0003-2800-8330"
+        ],
+        "affiliations": [
+          "Department of Chemistry, Indiana University, Bloomington, IN, USA. jcl3@iu.edu."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Nature"
+    ],
+    "journal_abbrev": [
+      "Nature"
+    ],
+    "pub_date": "2026 Oct 21",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/22 23:29",
+    "fetched_at": "2026-10-25 07:16:37"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42906913"
+    ],
+    "review": [
+      "42906913"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [
+      {
+        "url": "https://doi.org/10.1038/s41586-026-11317-6",
+        "provider": "Nature Publishing Group",
+        "category": "Full Text Sources",
+        "attribute": "subscription/membership/fee required",
+        "linkname": ""
+      }
+    ],
+    "text_mined": []
+  }
+}

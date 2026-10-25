@@ -1,0 +1,186 @@
+{
+  "identity": {
+    "pmid": "42914376",
+    "doi": "10.1016/j.foodres.2026.120727",
+    "title": "Thermally induced conformational transition and binding affinity of beta-lactoglobulin and capsaicin: A multi-spectroscopic and molecular dynamics simulation study."
+  },
+  "content": {
+    "abstract": "This study investigates the effect of heat treatment (25-95  degrees C) on the interaction between beta-lactoglobulin (beta-LG) and capsaicin (CAP) through multi-spectroscopic, physicochemical, and molecular dynamics (MD) simulation approaches. We reveal a non-monotonic, temperature-dependent binding profile governed by beta-LG's multistage conformational transitions. Binding affinity increases from 25 to 65  degrees C, driven by a molten globule-like transition that exposes hydrophobic binding sites. A sharp decline at 75  degrees C, due to vigorous aggregation and site burial, marks a critical temperature threshold. Notably, partial binding recovery occurs at 85-95  degrees C, resulting from aggregate rearrangement. Beyond its role as a ligand, CAP actively modulates beta-LG aggregation by occupying hydrophobic patches, as evidenced by consistently smaller particle sizes and lower turbidity in CAP-supplemented groups. Molecular docking and MD simulations, including MM-PBSA free energy calculations and free energy landscape analysis, confirm stable binding within beta-LG's hydrophobic cavity and reveal that temperature-driven reshaping of conformational substates directly governs binding thermodynamics, with optimal affinity at 65  degrees C. These findings establish 65  degrees C as the optimal processing temperature for CAP retention, while suggesting that prolonged heating at 75  degrees C should be avoided. The strong correlations between simple physicochemical indicators (turbidity, solubility) and binding affinity offer a practical pathway for low-cost, real-time quality monitoring in industrial dairy processing.",
+    "keywords": [
+      "Capsaicin",
+      "Heat treatment",
+      "Molecular dynamics simulations",
+      "Physicochemical analyses",
+      "Beta-Lactoglobulin"
+    ],
+    "mesh_terms": [
+      "*Lactoglobulins/chemistry/metabolism",
+      "*Capsaicin/chemistry/metabolism",
+      "*Molecular Dynamics Simulation",
+      "*Hot Temperature",
+      "Protein Binding",
+      "Hydrophobic and Hydrophilic Interactions",
+      "Protein Conformation",
+      "Molecular Docking Simulation",
+      "Binding Sites",
+      "Animals"
+    ],
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "contributors": {
+    "medline": {
+      "full_names": [
+        "Zhang, Dong",
+        "Cao, Jiaming",
+        "Duan, Min",
+        "Su, Chang",
+        "Yang, Li",
+        "Zhu, Yahui",
+        "Emara, A M",
+        "Gu, Xuedong",
+        "Tang, Jie",
+        "Yang, Lin"
+      ],
+      "short_names": [
+        "Zhang D",
+        "Cao J",
+        "Duan M",
+        "Su C",
+        "Yang L",
+        "Zhu Y",
+        "Emara AM",
+        "Gu X",
+        "Tang J",
+        "Yang L"
+      ],
+      "auids": [],
+      "affiliations": [
+        "Food Science College, Xizang Agricultural and Animal Husbandry University, Linzhi 860000, China; College of Food and Bioengineering, Xihua University; Food Microbiology Key Laboratory of Sichuan Province; Chongqing Key Laboratory of Speciality Food Co-Built by Sichuan and Chongqing, Chengdu 610039, China. Electronic address: dongzhang@mail.xhu.edu.cn.",
+        "College of Food and Bioengineering, Xihua University; Food Microbiology Key Laboratory of Sichuan Province; Chongqing Key Laboratory of Speciality Food Co-Built by Sichuan and Chongqing, Chengdu 610039, China.",
+        "College of Food and Bioengineering, Xihua University; Food Microbiology Key Laboratory of Sichuan Province; Chongqing Key Laboratory of Speciality Food Co-Built by Sichuan and Chongqing, Chengdu 610039, China.",
+        "College of Food and Bioengineering, Xihua University; Food Microbiology Key Laboratory of Sichuan Province; Chongqing Key Laboratory of Speciality Food Co-Built by Sichuan and Chongqing, Chengdu 610039, China.",
+        "College of Food and Bioengineering, Xihua University; Food Microbiology Key Laboratory of Sichuan Province; Chongqing Key Laboratory of Speciality Food Co-Built by Sichuan and Chongqing, Chengdu 610039, China.",
+        "Food Science College, Xizang Agricultural and Animal Husbandry University, Linzhi 860000, China.",
+        "Dairy Science Department, Food Industries and Nutrition Research Institute, Giza 12622, Egypt.",
+        "Food Science College, Xizang Agricultural and Animal Husbandry University, Linzhi 860000, China.",
+        "College of Food and Bioengineering, Xihua University; Food Microbiology Key Laboratory of Sichuan Province; Chongqing Key Laboratory of Speciality Food Co-Built by Sichuan and Chongqing, Chengdu 610039, China.",
+        "Food Science College, Xizang Agricultural and Animal Husbandry University, Linzhi 860000, China. Electronic address: yanglin@xza.edu.cn."
+      ]
+    },
+    "xml": [
+      {
+        "full_name": "Zhang, Dong",
+        "short_name": "Zhang D",
+        "identifiers": [],
+        "affiliations": [
+          "Food Science College, Xizang Agricultural and Animal Husbandry University, Linzhi 860000, China; College of Food and Bioengineering, Xihua University; Food Microbiology Key Laboratory of Sichuan Province; Chongqing Key Laboratory of Speciality Food Co-Built by Sichuan and Chongqing, Chengdu 610039, China. Electronic address: dongzhang@mail.xhu.edu.cn."
+        ]
+      },
+      {
+        "full_name": "Cao, Jiaming",
+        "short_name": "Cao J",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food and Bioengineering, Xihua University; Food Microbiology Key Laboratory of Sichuan Province; Chongqing Key Laboratory of Speciality Food Co-Built by Sichuan and Chongqing, Chengdu 610039, China."
+        ]
+      },
+      {
+        "full_name": "Duan, Min",
+        "short_name": "Duan M",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food and Bioengineering, Xihua University; Food Microbiology Key Laboratory of Sichuan Province; Chongqing Key Laboratory of Speciality Food Co-Built by Sichuan and Chongqing, Chengdu 610039, China."
+        ]
+      },
+      {
+        "full_name": "Su, Chang",
+        "short_name": "Su C",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food and Bioengineering, Xihua University; Food Microbiology Key Laboratory of Sichuan Province; Chongqing Key Laboratory of Speciality Food Co-Built by Sichuan and Chongqing, Chengdu 610039, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Li",
+        "short_name": "Yang L",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food and Bioengineering, Xihua University; Food Microbiology Key Laboratory of Sichuan Province; Chongqing Key Laboratory of Speciality Food Co-Built by Sichuan and Chongqing, Chengdu 610039, China."
+        ]
+      },
+      {
+        "full_name": "Zhu, Yahui",
+        "short_name": "Zhu Y",
+        "identifiers": [],
+        "affiliations": [
+          "Food Science College, Xizang Agricultural and Animal Husbandry University, Linzhi 860000, China."
+        ]
+      },
+      {
+        "full_name": "Emara, A M",
+        "short_name": "Emara AM",
+        "identifiers": [],
+        "affiliations": [
+          "Dairy Science Department, Food Industries and Nutrition Research Institute, Giza 12622, Egypt."
+        ]
+      },
+      {
+        "full_name": "Gu, Xuedong",
+        "short_name": "Gu X",
+        "identifiers": [],
+        "affiliations": [
+          "Food Science College, Xizang Agricultural and Animal Husbandry University, Linzhi 860000, China."
+        ]
+      },
+      {
+        "full_name": "Tang, Jie",
+        "short_name": "Tang J",
+        "identifiers": [],
+        "affiliations": [
+          "College of Food and Bioengineering, Xihua University; Food Microbiology Key Laboratory of Sichuan Province; Chongqing Key Laboratory of Speciality Food Co-Built by Sichuan and Chongqing, Chengdu 610039, China."
+        ]
+      },
+      {
+        "full_name": "Yang, Lin",
+        "short_name": "Yang L",
+        "identifiers": [],
+        "affiliations": [
+          "Food Science College, Xizang Agricultural and Animal Husbandry University, Linzhi 860000, China. Electronic address: yanglin@xza.edu.cn."
+        ]
+      }
+    ]
+  },
+  "source": {
+    "journal_title": [
+      "Food research international (Ottawa, Ont.)"
+    ],
+    "journal_abbrev": [
+      "Food Res Int"
+    ],
+    "pub_date": "2026 Dec 1",
+    "pub_year": "2026",
+    "pub_types": [
+      "Journal Article"
+    ]
+  },
+  "metadata": {
+    "entrez_date": "2026/10/23 23:31",
+    "fetched_at": "2026-10-25 07:16:07"
+  },
+  "links": {
+    "cites": [],
+    "refs": [],
+    "similar": [
+      "42914376"
+    ],
+    "review": [
+      "42914376"
+    ],
+    "pmc": [],
+    "entrez": {},
+    "external": [],
+    "text_mined": []
+  }
+}
